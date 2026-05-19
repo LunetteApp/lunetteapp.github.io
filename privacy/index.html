@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lunette — Privacy Policy</title>
+    <style>
+        :root {
+            --bg: #0d0d0d;
+            --surface: #1a1a1a;
+            --text: #e8e4df;
+            --text-secondary: #9a958f;
+            --accent: #c9a96e;
+            --border: #2a2a2a;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 40px 24px 80px;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 48px;
+            padding-bottom: 24px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .logo {
+            font-size: 20px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            color: var(--accent);
+        }
+
+        .lang-selector {
+            display: flex;
+            gap: 4px;
+            background: var(--surface);
+            border-radius: 8px;
+            padding: 4px;
+        }
+
+        .lang-btn {
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            font-size: 13px;
+            font-weight: 500;
+            padding: 6px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .lang-btn:hover {
+            color: var(--text);
+        }
+
+        .lang-btn.active {
+            background: var(--accent);
+            color: var(--bg);
+        }
+
+        #content h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
+        #content h2 {
+            font-size: 20px;
+            font-weight: 600;
+            margin-top: 40px;
+            margin-bottom: 12px;
+            color: var(--text);
+        }
+
+        #content h3 {
+            font-size: 16px;
+            font-weight: 600;
+            margin-top: 24px;
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
+        #content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        #content strong {
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        #content ul {
+            margin-bottom: 16px;
+            padding-left: 24px;
+        }
+
+        #content li {
+            margin-bottom: 8px;
+            color: var(--text-secondary);
+        }
+
+        #content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        #content a:hover {
+            text-decoration: underline;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px 0;
+            color: var(--text-secondary);
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 24px 16px 60px;
+            }
+
+            header {
+                flex-direction: column;
+                gap: 16px;
+                align-items: flex-start;
+            }
+
+            #content h1 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">Lunette</div>
+            <nav class="lang-selector">
+                <button class="lang-btn active" data-lang="en">EN</button>
+                <button class="lang-btn" data-lang="it">IT</button>
+                <button class="lang-btn" data-lang="es">ES</button>
+                <button class="lang-btn" data-lang="fr">FR</button>
+                <button class="lang-btn" data-lang="de">DE</button>
+            </nav>
+        </header>
+        <main id="content">
+            <div class="loading">Loading...</div>
+        </main>
+    </div>
+
+    <script>
+        function parseMarkdown(md) {
+            return md
+                .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+                .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+                .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+                .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+                .replace(/^- (.+)$/gm, '<li>$1</li>')
+                .replace(/(<li>.*<\/li>\n?)+/g, match => '<ul>' + match + '</ul>')
+                .replace(/^(?!<[hula]|<\/[ua])(.+)$/gm, '<p>$1</p>')
+                .replace(/<p><\/p>/g, '')
+                .replace(/\n{2,}/g, '\n');
+        }
+
+        function detectLanguage() {
+            const urlLang = new URLSearchParams(window.location.search).get('lang');
+            if (urlLang && ['en', 'it', 'es', 'fr', 'de'].includes(urlLang)) return urlLang;
+
+            const browserLang = (navigator.language || '').slice(0, 2).toLowerCase();
+            if (['en', 'it', 'es', 'fr', 'de'].includes(browserLang)) return browserLang;
+
+            return 'en';
+        }
+
+        async function loadContent(lang) {
+            const content = document.getElementById('content');
+
+            try {
+                const response = await fetch(lang + '.md');
+                if (!response.ok) throw new Error('Not found');
+                const md = await response.text();
+                content.innerHTML = parseMarkdown(md);
+            } catch {
+                if (lang !== 'en') {
+                    loadContent('en');
+                    return;
+                }
+                content.innerHTML = '<p>Unable to load privacy policy.</p>';
+            }
+
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.lang === lang);
+            });
+
+            document.documentElement.lang = lang;
+            history.replaceState(null, '', '?lang=' + lang);
+        }
+
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.addEventListener('click', () => loadContent(btn.dataset.lang));
+        });
+
+        loadContent(detectLanguage());
+    </script>
+</body>
+</html>
