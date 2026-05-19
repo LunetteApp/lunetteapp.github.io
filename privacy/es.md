@@ -73,4 +73,4 @@ Si actualizamos esta política de privacidad, publicaremos los cambios en esta p
 
 Si tienes preguntas sobre esta política de privacidad, contáctanos en:
 
-**Email:** hello@lunetteapp.com
+**Email:** hello@michaelsiddi.com

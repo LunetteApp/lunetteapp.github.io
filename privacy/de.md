@@ -73,4 +73,4 @@ Wenn wir diese Datenschutzerklärung aktualisieren, werden wir die Änderungen a
 
 Bei Fragen zu dieser Datenschutzerklärung kontaktieren Sie uns unter:
 
-**E-Mail:** hello@lunetteapp.com
+**E-Mail:** hello@michaelsiddi.com

@@ -73,4 +73,4 @@ If we update this privacy policy, we will post the changes on this page and upda
 
 If you have questions about this privacy policy, please contact us at:
 
-**Email:** hello@lunetteapp.com
+**Email:** hello@michaelsiddi.com
