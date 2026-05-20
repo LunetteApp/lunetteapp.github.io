@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last updated:** May 18, 2026
+**Last updated:** May 20, 2026
 
 ## Overview
 
-Lunette is a fully offline watch collection management app. We are committed to protecting your privacy. This policy explains how Lunette handles your data.
+Lunette is a watch collection management app. We are committed to protecting your privacy. This policy explains how Lunette handles your data.
 
 ## Data Collection
 
@@ -14,7 +14,14 @@ Lunette is a fully offline watch collection management app. We are committed to 
 - Does not use analytics, tracking, or advertising frameworks
 - Does not send any personal information over the network
 
-The only network connection Lunette makes is to public time servers (time.apple.com, time.google.com) using the standard NTP protocol, solely to provide accurate time reference for the accuracy measurement feature. This connection transmits no personal or device-identifying information.
+## Network Connections
+
+Lunette makes limited network connections for the following purposes:
+
+- **Time synchronization:** The app connects to public time servers (time.apple.com, time.google.com) using the standard NTP protocol to provide accurate time reference for the accuracy measurement feature.
+- **Watch catalog updates:** At launch, the app may download updated watch catalog data (brand and model information) from our servers to keep the reference database current.
+
+These connections transmit no personal data, device identifiers, or user-generated content.
 
 ## Data Storage
 
@@ -40,14 +47,12 @@ You can disable iCloud backup at any time within the app settings.
 
 ## Third-Party Services
 
-Lunette does not integrate with any third-party SDKs or APIs. There are no:
+Lunette does not integrate with any third-party analytics, advertising, or tracking services. There are no:
 
 - Analytics tools
 - Crash reporting services
 - Advertising networks
 - Social media integrations
-
-The app connects to public NTP time servers (operated by Apple and Google) solely for clock synchronization. These servers receive only a standard time request packet — no user data, device identifiers, or app information is transmitted.
 
 ## Data Sharing
 
