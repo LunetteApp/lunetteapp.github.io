@@ -1,10 +1,10 @@
 # Política de Privacidad
 
-**Última actualización:** 18 de mayo de 2026
+**Última actualización:** 20 de mayo de 2026
 
 ## Resumen
 
-Lunette es una aplicación de gestión de colección de relojes completamente offline. Nos comprometemos a proteger tu privacidad. Esta política explica cómo Lunette maneja tus datos.
+Lunette es una aplicación de gestión de colección de relojes. Nos comprometemos a proteger tu privacidad. Esta política explica cómo Lunette maneja tus datos.
 
 ## Recopilación de Datos
 
@@ -14,7 +14,14 @@ Lunette es una aplicación de gestión de colección de relojes completamente of
 - No utiliza herramientas de análisis, seguimiento ni publicidad
 - No envía ninguna información personal a través de la red
 
-La única conexión de red que realiza Lunette es a servidores de tiempo públicos (time.apple.com, time.google.com) mediante el protocolo estándar NTP, únicamente para proporcionar una referencia temporal precisa para la función de medición de precisión. Esta conexión no transmite ninguna información personal ni identificativa del dispositivo.
+## Conexiones de Red
+
+Lunette realiza conexiones de red limitadas para los siguientes propósitos:
+
+- **Sincronización horaria:** La aplicación se conecta a servidores de tiempo públicos (time.apple.com, time.google.com) mediante el protocolo estándar NTP para proporcionar una referencia temporal precisa para la función de medición de precisión.
+- **Actualización del catálogo de relojes:** Al iniciarse, la aplicación puede descargar datos actualizados del catálogo de relojes (información de marcas y modelos) desde nuestros servidores para mantener actualizada la base de datos de referencia.
+
+Estas conexiones no transmiten datos personales, identificadores del dispositivo ni contenido generado por el usuario.
 
 ## Almacenamiento de Datos
 
@@ -40,14 +47,12 @@ Puedes desactivar la copia de seguridad en iCloud en cualquier momento desde los
 
 ## Servicios de Terceros
 
-Lunette no integra ningún SDK ni API de terceros. No hay:
+Lunette no integra ningún servicio de análisis, publicidad o seguimiento de terceros. No hay:
 
 - Herramientas de análisis
 - Servicios de informes de errores
 - Redes publicitarias
 - Integraciones con redes sociales
-
-La aplicación se conecta a servidores de tiempo NTP públicos (operados por Apple y Google) exclusivamente para la sincronización del reloj. Estos servidores reciben únicamente un paquete estándar de solicitud de tiempo — no se transmite ningún dato de usuario, identificador de dispositivo ni información de la aplicación.
 
 ## Compartición de Datos
 

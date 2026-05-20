@@ -1,10 +1,10 @@
 # Datenschutzerklärung
 
-**Letzte Aktualisierung:** 18. Mai 2026
+**Letzte Aktualisierung:** 20. Mai 2026
 
 ## Überblick
 
-Lunette ist eine vollständig offline arbeitende App zur Verwaltung von Uhrensammlungen. Wir verpflichten uns, Ihre Privatsphäre zu schützen. Diese Erklärung erläutert, wie Lunette mit Ihren Daten umgeht.
+Lunette ist eine App zur Verwaltung von Uhrensammlungen. Wir verpflichten uns, Ihre Privatsphäre zu schützen. Diese Erklärung erläutert, wie Lunette mit Ihren Daten umgeht.
 
 ## Datenerhebung
 
@@ -14,7 +14,14 @@ Lunette ist eine vollständig offline arbeitende App zur Verwaltung von Uhrensam
 - Verwendet keine Analyse-, Tracking- oder Werbetools
 - Sendet keine persönlichen Informationen über das Netzwerk
 
-Die einzige Netzwerkverbindung, die Lunette herstellt, ist zu öffentlichen Zeitservern (time.apple.com, time.google.com) über das Standard-NTP-Protokoll, ausschließlich um eine genaue Zeitreferenz für die Genauigkeitsmessfunktion bereitzustellen. Diese Verbindung überträgt keine persönlichen oder gerätebezogenen Informationen.
+## Netzwerkverbindungen
+
+Lunette stellt begrenzte Netzwerkverbindungen für folgende Zwecke her:
+
+- **Zeitsynchronisation:** Die App verbindet sich mit öffentlichen Zeitservern (time.apple.com, time.google.com) über das Standard-NTP-Protokoll, um eine genaue Zeitreferenz für die Genauigkeitsmessfunktion bereitzustellen.
+- **Uhrenkatalog-Aktualisierung:** Beim Start kann die App aktualisierte Uhrenkatalogdaten (Marken- und Modellinformationen) von unseren Servern herunterladen, um die Referenzdatenbank aktuell zu halten.
+
+Diese Verbindungen übertragen keine personenbezogenen Daten, Gerätekennungen oder nutzergenerierte Inhalte.
 
 ## Datenspeicherung
 
@@ -40,14 +47,12 @@ Sie können das iCloud-Backup jederzeit in den App-Einstellungen deaktivieren.
 
 ## Drittanbieterdienste
 
-Lunette integriert keine SDKs oder APIs von Drittanbietern. Es gibt keine:
+Lunette integriert keine Analyse-, Werbe- oder Tracking-Dienste von Drittanbietern. Es gibt keine:
 
 - Analysetools
 - Fehlerberichtsdienste
 - Werbenetzwerke
 - Social-Media-Integrationen
-
-Die App verbindet sich mit öffentlichen NTP-Zeitservern (betrieben von Apple und Google) ausschließlich zur Uhrsynchronisation. Diese Server empfangen nur ein standardmäßiges Zeitanfrage-Paket — es werden keine Benutzerdaten, Gerätekennungen oder App-Informationen übertragen.
 
 ## Datenweitergabe
 

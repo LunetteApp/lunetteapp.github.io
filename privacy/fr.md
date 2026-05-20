@@ -1,10 +1,10 @@
 # Politique de Confidentialité
 
-**Dernière mise à jour :** 18 mai 2026
+**Dernière mise à jour :** 20 mai 2026
 
 ## Aperçu
 
-Lunette est une application de gestion de collection de montres entièrement hors ligne. Nous nous engageons à protéger votre vie privée. Cette politique explique comment Lunette gère vos données.
+Lunette est une application de gestion de collection de montres. Nous nous engageons à protéger votre vie privée. Cette politique explique comment Lunette gère vos données.
 
 ## Collecte de Données
 
@@ -14,7 +14,14 @@ Lunette est une application de gestion de collection de montres entièrement hor
 - N'utilise aucun outil d'analyse, de suivi ou de publicité
 - N'envoie aucune information personnelle via le réseau
 
-La seule connexion réseau effectuée par Lunette est vers des serveurs de temps publics (time.apple.com, time.google.com) via le protocole standard NTP, uniquement pour fournir une référence temporelle précise pour la fonction de mesure de précision. Cette connexion ne transmet aucune information personnelle ou identifiant l'appareil.
+## Connexions Réseau
+
+Lunette effectue des connexions réseau limitées aux fins suivantes :
+
+- **Synchronisation horaire :** L'application se connecte à des serveurs de temps publics (time.apple.com, time.google.com) via le protocole standard NTP pour fournir une référence temporelle précise pour la fonction de mesure de précision.
+- **Mise à jour du catalogue de montres :** Au lancement, l'application peut télécharger des données mises à jour du catalogue de montres (informations sur les marques et modèles) depuis nos serveurs pour maintenir la base de données de référence à jour.
+
+Ces connexions ne transmettent aucune donnée personnelle, identifiant d'appareil ou contenu généré par l'utilisateur.
 
 ## Stockage des Données
 
@@ -40,14 +47,12 @@ Vous pouvez désactiver la sauvegarde iCloud à tout moment dans les réglages d
 
 ## Services Tiers
 
-Lunette n'intègre aucun SDK ou API tiers. Il n'y a pas :
+Lunette n'intègre aucun service d'analyse, de publicité ou de suivi tiers. Il n'y a pas :
 
 - D'outils d'analyse
 - De services de signalement d'erreurs
 - De réseaux publicitaires
 - D'intégrations avec les réseaux sociaux
-
-L'application se connecte à des serveurs de temps NTP publics (opérés par Apple et Google) uniquement pour la synchronisation de l'horloge. Ces serveurs ne reçoivent qu'un paquet de requête temporelle standard — aucune donnée utilisateur, identifiant d'appareil ou information de l'application n'est transmise.
 
 ## Partage de Données
 

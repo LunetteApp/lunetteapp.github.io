@@ -1,10 +1,10 @@
 # Informativa sulla Privacy
 
-**Ultimo aggiornamento:** 18 maggio 2026
+**Ultimo aggiornamento:** 20 maggio 2026
 
 ## Panoramica
 
-Lunette è un'app per la gestione della collezione di orologi completamente offline. Ci impegniamo a proteggere la tua privacy. Questa informativa spiega come Lunette gestisce i tuoi dati.
+Lunette è un'app per la gestione della collezione di orologi. Ci impegniamo a proteggere la tua privacy. Questa informativa spiega come Lunette gestisce i tuoi dati.
 
 ## Raccolta Dati
 
@@ -14,7 +14,14 @@ Lunette è un'app per la gestione della collezione di orologi completamente offl
 - Non utilizza strumenti di analisi, tracciamento o pubblicità
 - Non invia alcuna informazione personale attraverso la rete
 
-L'unica connessione di rete effettuata da Lunette è verso server temporali pubblici (time.apple.com, time.google.com) tramite il protocollo standard NTP, esclusivamente per fornire un riferimento temporale preciso per la funzione di misurazione della precisione. Questa connessione non trasmette alcuna informazione personale o identificativa del dispositivo.
+## Connessioni di Rete
+
+Lunette effettua connessioni di rete limitate per i seguenti scopi:
+
+- **Sincronizzazione oraria:** L'app si connette a server temporali pubblici (time.apple.com, time.google.com) tramite il protocollo standard NTP per fornire un riferimento temporale preciso per la funzione di misurazione della precisione.
+- **Aggiornamento catalogo orologi:** All'avvio, l'app può scaricare dati aggiornati del catalogo orologi (informazioni su marche e modelli) dai nostri server per mantenere aggiornato il database di riferimento.
+
+Queste connessioni non trasmettono dati personali, identificativi del dispositivo o contenuti generati dall'utente.
 
 ## Archiviazione Dati
 
@@ -40,14 +47,12 @@ Puoi disabilitare il backup iCloud in qualsiasi momento dalle impostazioni dell'
 
 ## Servizi di Terze Parti
 
-Lunette non integra alcun SDK o API di terze parti. Non sono presenti:
+Lunette non integra alcun servizio di analisi, pubblicità o tracciamento di terze parti. Non sono presenti:
 
 - Strumenti di analisi
 - Servizi di segnalazione errori
 - Reti pubblicitarie
 - Integrazioni con social media
-
-L'app si connette a server temporali NTP pubblici (gestiti da Apple e Google) esclusivamente per la sincronizzazione dell'orologio. Questi server ricevono solo un pacchetto di richiesta temporale standard — nessun dato utente, identificativo del dispositivo o informazione dell'app viene trasmesso.
 
 ## Condivisione Dati
 
