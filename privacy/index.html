@@ -4,14 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lunette — Privacy Policy</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk:wght@400;500;700;800&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg: #0d0d0d;
-            --surface: #1a1a1a;
-            --text: #e8e4df;
-            --text-secondary: #9a958f;
-            --accent: #c9a96e;
-            --border: #2a2a2a;
+            --bg: #08080A;
+            --surface: #111113;
+            --text: #F0ECE5;
+            --text-secondary: #A9A49C;
+            --accent: #C9A86A;
+            --border: rgba(255, 255, 255, 0.06);
+            --font: 'Cabinet Grotesk', -apple-system, sans-serif;
+            --mono: 'Geist Mono', 'SF Mono', monospace;
         }
 
         * {
@@ -21,17 +26,18 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', sans-serif;
+            font-family: var(--font);
             background: var(--bg);
             color: var(--text);
             line-height: 1.7;
             min-height: 100vh;
+            -webkit-font-smoothing: antialiased;
         }
 
         .container {
-            max-width: 720px;
+            max-width: 680px;
             margin: 0 auto;
-            padding: 40px 24px 80px;
+            padding: 48px 24px 80px;
         }
 
         header {
@@ -44,17 +50,18 @@
         }
 
         .logo {
-            font-size: 20px;
-            font-weight: 600;
-            letter-spacing: 0.5px;
-            color: var(--accent);
+            font-size: 16px;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            color: var(--text);
         }
 
         .lang-selector {
             display: flex;
-            gap: 4px;
+            gap: 3px;
             background: var(--surface);
-            border-radius: 8px;
+            border: 1px solid var(--border);
+            border-radius: 10px;
             padding: 4px;
         }
 
@@ -62,10 +69,11 @@
             background: none;
             border: none;
             color: var(--text-secondary);
-            font-size: 13px;
-            font-weight: 500;
-            padding: 6px 12px;
-            border-radius: 6px;
+            font-family: var(--mono);
+            font-size: 11px;
+            font-weight: 400;
+            padding: 6px 10px;
+            border-radius: 7px;
             cursor: pointer;
             transition: all 0.2s ease;
         }
@@ -81,14 +89,16 @@
 
         #content h1 {
             font-size: 28px;
-            font-weight: 700;
+            font-weight: 800;
+            letter-spacing: -0.03em;
             margin-bottom: 8px;
             color: var(--text);
         }
 
         #content h2 {
-            font-size: 20px;
-            font-weight: 600;
+            font-size: 19px;
+            font-weight: 700;
+            letter-spacing: -0.02em;
             margin-top: 40px;
             margin-bottom: 12px;
             color: var(--text);
@@ -105,6 +115,7 @@
         #content p {
             margin-bottom: 16px;
             color: var(--text-secondary);
+            font-size: 15px;
         }
 
         #content strong {
@@ -120,6 +131,7 @@
         #content li {
             margin-bottom: 8px;
             color: var(--text-secondary);
+            font-size: 15px;
         }
 
         #content a {
