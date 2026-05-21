@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lunette — Your Watch Collection, Daily</title>
-    <meta name="description" content="Privacy-first iOS app for documenting your watch collection, tracking accuracy, and turning daily wrist checks into a journal.">
+    <meta name="description" content="Privacy-first iOS app for documenting your watch collection, tracking accuracy to the second and turning daily wrist checks into a journal. No accounts. No subscriptions.">
     <meta property="og:title" content="Lunette — Your Watch Collection, Daily">
-    <meta property="og:description" content="Document provenance. Track drift. Journal your wrist. No accounts, no cloud.">
+    <meta property="og:description" content="Document your watches. Track accuracy. Journal every wear. Private, no subscriptions.">
     <meta property="og:image" content="assets/icon.png">
     <link rel="icon" type="image/png" href="assets/icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk:wght@400;500;700;800&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -22,123 +22,134 @@
                 <img src="assets/icon.png" alt="Lunette">
                 <span>Lunette</span>
             </a>
-            <a href="#get" class="nav-cta">
-                <span class="nav-cta-label">Get the app</span>
-                <span class="nav-cta-icon"><svg width="11" height="11" viewBox="0 0 11 11" fill="none"><path d="M1 1l9 9m0-9v9H1" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
-            </a>
+            <a href="#get" class="nav-cta" data-i18n="nav.cta">Get the app</a>
         </nav>
+        <div class="lang-dropdown">
+            <button class="lang-current" aria-expanded="false">EN</button>
+            <div class="lang-menu">
+                <button class="lang-option" data-lang="en">EN</button>
+                <button class="lang-option" data-lang="it">IT</button>
+                <button class="lang-option" data-lang="es">ES</button>
+                <button class="lang-option" data-lang="fr">FR</button>
+                <button class="lang-option" data-lang="de">DE</button>
+            </div>
+        </div>
     </header>
 
     <main>
 
     <section class="hero">
-        <div class="hero-grid">
+        <div class="hero-bg" aria-hidden="true">
+            <img src="assets/bg-hero.png" alt="">
+        </div>
+        <div class="hero-layout">
             <div class="hero-content" data-reveal>
-                <p class="hero-tag">Watch Collection for iOS</p>
-                <h1>Your collection,<br>daily.</h1>
-                <p class="hero-sub">Document provenance. Track accuracy to the second. Turn every wrist check into a memory. No accounts. No cloud. Just your watches.</p>
-                <div class="hero-cta-row">
-                    <a href="#get" class="btn">Download free</a>
-                    <span class="hero-hint">5 watches free, one-time Pro upgrade</span>
+                <h1 data-i18n="hero.title">Your collection,<br>daily.</h1>
+                <p class="hero-body" data-i18n="hero.body">Document provenance. Track accuracy to the second. Turn every wrist check into a memory. No accounts. No subscriptions. Yours.</p>
+                <div class="hero-actions">
+                    <a href="#get" class="btn-primary" data-i18n="hero.cta">Get Lunette free</a>
+                    <span class="hero-aside" data-i18n="hero.aside">5 watches free. One-time Pro upgrade.</span>
                 </div>
             </div>
-            <div class="hero-visual" data-reveal-device>
-                <div class="device-float">
-                    <img src="assets/screenshots/device-01.png" alt="Lunette home — Watch of the Day, journal streak">
-                </div>
+            <div class="hero-device" data-reveal-device>
+                <img src="assets/screenshots/device-01.png" alt="Lunette home — Watch of the Day, journal streak, collection carousel">
             </div>
         </div>
     </section>
 
-    <div class="ticker">
-        <div class="ticker-track">
-            <span>Provenance</span><span>Accuracy</span><span>Wrist Checks</span><span>Service History</span><span>Atomic Sync</span><span>Journal</span><span>Offline-First</span><span>Instagram Stories</span>
-            <span>Provenance</span><span>Accuracy</span><span>Wrist Checks</span><span>Service History</span><span>Atomic Sync</span><span>Journal</span><span>Offline-First</span><span>Instagram Stories</span>
+    <section class="features">
+        <div class="features-bg" aria-hidden="true">
+            <img src="assets/bg-mid.png" alt="">
         </div>
-    </div>
 
-    <section class="showcase">
-        <div class="showcase-header" data-reveal>
-            <h2>Built around<br>what collectors need.</h2>
-        </div>
-        <div class="showcase-scroll">
-            <div class="showcase-track">
-
-                <article class="showcase-card" data-reveal>
-                    <div class="showcase-device">
-                        <img src="assets/screenshots/device-02.png" alt="Collection grid">
-                    </div>
-                    <div class="showcase-meta">
-                        <span class="showcase-num">01</span>
-                        <h3>Collection</h3>
-                        <p>Every reference, serial, and receipt. Grid view with brand index and stats at a glance.</p>
-                    </div>
-                </article>
-
-                <article class="showcase-card" data-reveal>
-                    <div class="showcase-device">
-                        <img src="assets/screenshots/device-03.png" alt="Watch detail">
-                    </div>
-                    <div class="showcase-meta">
-                        <span class="showcase-num">02</span>
-                        <h3>Detail</h3>
-                        <p>Movement, case diameter, box, papers, photos, and service records. One card per watch.</p>
-                    </div>
-                </article>
-
-                <article class="showcase-card" data-reveal>
-                    <div class="showcase-device">
-                        <img src="assets/screenshots/device-04.png" alt="Journal calendar">
-                    </div>
-                    <div class="showcase-meta">
-                        <span class="showcase-num">03</span>
-                        <h3>Journal</h3>
-                        <p>Calendar, geotagging, streaks, and a map of everywhere your watches have been.</p>
-                    </div>
-                </article>
-
-                <article class="showcase-card" data-reveal>
-                    <div class="showcase-device">
-                        <img src="assets/screenshots/device-05.png" alt="Accuracy drift">
-                    </div>
-                    <div class="showcase-meta">
-                        <span class="showcase-num">04</span>
-                        <h3>Accuracy</h3>
-                        <p>Seconds-per-day drift measured against atomic time. Full session history per movement.</p>
-                    </div>
-                </article>
-
+        <div class="feature-section" data-reveal>
+            <div class="feature-text">
+                <span class="feature-tag" data-i18n="features.collection.tag">Collection</span>
+                <h2 data-i18n="features.collection.title">Every timepiece, one place.</h2>
+                <p data-i18n="features.collection.body">Reference, serial, movement, case size, box, papers, photos, documents, purchase history. A single source of truth for insurance, resale and personal satisfaction.</p>
+            </div>
+            <div class="feature-device">
+                <img src="assets/screenshots/device-02.png" alt="Collection grid with brand index and stats">
             </div>
         </div>
+
+        <div class="feature-section feature-section--flip" data-reveal>
+            <div class="feature-text">
+                <span class="feature-tag" data-i18n="features.detail.tag">Detail</span>
+                <h2 data-i18n="features.detail.title">One card per watch.</h2>
+                <p data-i18n="features.detail.body">Movement specs, case diameter, purchase records, service history and high-resolution photos. Everything you'd want if you sold it tomorrow, or kept it forever.</p>
+            </div>
+            <div class="feature-device">
+                <img src="assets/screenshots/device-03.png" alt="Watch detail — hero photo, specs, metadata">
+            </div>
+        </div>
+
+        <div class="feature-section" data-reveal>
+            <div class="feature-text">
+                <span class="feature-tag" data-i18n="features.journal.tag">Journal</span>
+                <h2 data-i18n="features.journal.title">A diary of what you wore.</h2>
+                <p data-i18n="features.journal.body">Daily photo capture with geolocation, calendar view, streaks and a map of everywhere your watches have been. Every wrist check becomes a memory.</p>
+            </div>
+            <div class="feature-device">
+                <img src="assets/screenshots/device-04.png" alt="Journal calendar with wear history">
+            </div>
+        </div>
+
+        <div class="feature-section feature-section--flip" data-reveal>
+            <div class="feature-text">
+                <span class="feature-tag" data-i18n="features.accuracy.tag">Accuracy</span>
+                <h2 data-i18n="features.accuracy.title">Drift, measured.</h2>
+                <p data-i18n="features.accuracy.body">Seconds-per-day accuracy synced against atomic time servers. No timegrapher needed. Session history lets you track how each movement performs over months.</p>
+            </div>
+            <div class="feature-device">
+                <img src="assets/screenshots/device-05.png" alt="Accuracy result — seconds per day drift">
+            </div>
+        </div>
+
     </section>
 
-    <section class="bento">
-        <div class="bento-grid" data-reveal>
-            <div class="bento-card bento-card--wide">
-                <h3>Fully offline</h3>
-                <p>No accounts. No cloud. No subscriptions. Your data never leaves your device. iCloud backup is optional.</p>
-            </div>
-            <div class="bento-card">
-                <h3>Zero tracking</h3>
-                <p>No analytics. No telemetry. No data collection. We literally don't know who you are.</p>
-            </div>
-            <div class="bento-card">
-                <h3>One-time purchase</h3>
-                <p>Lunette Pro is a single payment. No recurring fees. Yours forever.</p>
-            </div>
-            <div class="bento-card bento-card--wide">
-                <h3>Watch of the Day</h3>
-                <p>Generate Instagram-ready stories of your daily wear. Beautiful templates designed for watch photography.</p>
+    <section class="principles">
+        <div class="principles-inner">
+            <h2 class="principles-heading" data-reveal data-i18n="principles.heading">How it's built.</h2>
+            <div class="principles-grid" data-reveal>
+                <div class="principle-card">
+                    <h3 data-i18n="principles.offline.title">Offline-first</h3>
+                    <p data-i18n="principles.offline.body">No server means no shutdown day. Your archive outlives any company — including us. iCloud backup is optional and encrypted.</p>
+                </div>
+                <div class="principle-card">
+                    <h3 data-i18n="principles.tracking.title">Zero tracking</h3>
+                    <p data-i18n="principles.tracking.body">No analytics. No telemetry. Your watch data never leaves your device. We couldn't see your collection if we tried.</p>
+                </div>
+                <div class="principle-card">
+                    <h3 data-i18n="principles.purchase.title">One-time purchase</h3>
+                    <p data-i18n="principles.purchase.body">Free up to 5 watches, every feature included. Pro is a single payment — no renewals, no price bumps. Yours forever.</p>
+                </div>
+                <div class="principle-card">
+                    <h3 data-i18n="principles.wotd.title">Watch of the Day</h3>
+                    <p data-i18n="principles.wotd.body">Pick your daily wear. Lunette creates a ready-to-share story — no templates, no design work.</p>
+                </div>
+                <div class="principle-card">
+                    <h3 data-i18n="principles.service.title">Service history</h3>
+                    <p data-i18n="principles.service.body">Every service, logged. Dates, costs, watchmaker contacts — so the next owner knows exactly what they're getting.</p>
+                </div>
+                <div class="principle-card">
+                    <h3 data-i18n="principles.palettes.title">Crafted palettes</h3>
+                    <p data-i18n="principles.palettes.body">Gold, champagne, blue, green — dark and light modes designed for the watches, not the UI.</p>
+                </div>
             </div>
         </div>
     </section>
 
     <section class="closing" id="get">
-        <div class="closing-inner" data-reveal>
+        <div class="closing-bg" aria-hidden="true">
+            <img src="assets/bg-bottom.png" alt="">
+        </div>
+        <div class="closing-content" data-reveal>
             <img src="assets/icon.png" alt="Lunette" class="closing-icon">
-            <h2>Start documenting.</h2>
-            <p>Free with up to 5 watches.<br>One purchase unlocks unlimited.</p>
-            <a href="https://apps.apple.com" class="btn">Download on the App Store</a>
+            <h2 data-i18n="closing.title">Start documenting.</h2>
+            <p data-i18n="closing.body">Your watches deserve a proper archive.<br>Start with the ones that matter most.</p>
+            <a href="https://apps.apple.com" class="btn-primary" data-i18n="closing.cta">Download on the App Store</a>
+            <span class="closing-price" data-i18n="closing.price">Free — Pro upgrade $6.99, one time</span>
         </div>
     </section>
 
@@ -148,14 +159,258 @@
         <div class="footer-inner">
             <span class="footer-mark">Lunette</span>
             <div class="footer-links">
-                <a href="privacy/index.html">Privacy</a>
-                <a href="mailto:hello@michaelsiddi.com">Contact</a>
+                <a href="privacy/index.html" data-i18n="footer.privacy">Privacy</a>
+                <a href="mailto:hello@michaelsiddi.com" data-i18n="footer.contact">Contact</a>
             </div>
         </div>
     </footer>
 
     <script>
-    /* Staggered scroll reveals */
+    const translations = {
+        en: {
+            "nav.cta": "Get the app",
+            "hero.title": "Your collection,<br>daily.",
+            "hero.body": "Document provenance. Track accuracy to the second. Turn every wrist check into a memory. No accounts. No subscriptions. Yours.",
+            "hero.cta": "Get Lunette free",
+            "hero.aside": "5 watches free. One-time Pro upgrade.",
+            "features.collection.tag": "Collection",
+            "features.collection.title": "Every timepiece, one place.",
+            "features.collection.body": "Reference, serial, movement, case size, box, papers, photos, documents, purchase history. A single source of truth for insurance, resale and personal satisfaction.",
+            "features.detail.tag": "Detail",
+            "features.detail.title": "One card per watch.",
+            "features.detail.body": "Movement specs, case diameter, purchase records, service history and high-resolution photos. Everything you'd want if you sold it tomorrow, or kept it forever.",
+            "features.journal.tag": "Journal",
+            "features.journal.title": "A diary of what you wore.",
+            "features.journal.body": "Daily photo capture with geolocation, calendar view, streaks and a map of everywhere your watches have been. Every wrist check becomes a memory.",
+            "features.accuracy.tag": "Accuracy",
+            "features.accuracy.title": "Drift, measured.",
+            "features.accuracy.body": "Seconds-per-day accuracy synced against atomic time servers. No timegrapher needed. Session history lets you track how each movement performs over months.",
+            "principles.heading": "How it's built.",
+            "principles.offline.title": "Offline-first",
+            "principles.offline.body": "No server means no shutdown day. Your archive outlives any company — including us. iCloud backup is optional and encrypted.",
+            "principles.tracking.title": "Zero tracking",
+            "principles.tracking.body": "No analytics. No telemetry. Your watch data never leaves your device. We couldn't see your collection if we tried.",
+            "principles.purchase.title": "One-time purchase",
+            "principles.purchase.body": "Free up to 5 watches, every feature included. Pro is a single payment — no renewals, no price bumps. Yours forever.",
+            "principles.wotd.title": "Watch of the Day",
+            "principles.wotd.body": "Pick your daily wear. Lunette creates a ready-to-share story — no templates, no design work.",
+            "principles.service.title": "Service history",
+            "principles.service.body": "Every service, logged. Dates, costs, watchmaker contacts — so the next owner knows exactly what they're getting.",
+            "principles.palettes.title": "Crafted palettes",
+            "principles.palettes.body": "Gold, champagne, blue, green — dark and light modes designed for the watches, not the UI.",
+            "closing.title": "Start documenting.",
+            "closing.body": "Your watches deserve a proper archive.<br>Start with the ones that matter most.",
+            "closing.cta": "Download on the App Store",
+            "closing.price": "Free — Pro upgrade $6.99, one time",
+            "footer.privacy": "Privacy",
+            "footer.contact": "Contact"
+        },
+        it: {
+            "nav.cta": "Scarica l'app",
+            "hero.title": "La tua collezione,<br>ogni giorno.",
+            "hero.body": "Documenta la provenienza. Misura la precisione al secondo. Trasforma ogni wrist check in un ricordo. Nessun account. Nessun abbonamento. Tua.",
+            "hero.cta": "Scarica Lunette gratis",
+            "hero.aside": "5 orologi gratis. Upgrade Pro una tantum.",
+            "features.collection.tag": "Collezione",
+            "features.collection.title": "Ogni segnatempo, un unico posto.",
+            "features.collection.body": "Referenza, seriale, movimento, diametro cassa, scatola, garanzia, foto, documenti, cronologia acquisti. Un'unica fonte di verità per assicurazione, rivendita e soddisfazione personale.",
+            "features.detail.tag": "Dettaglio",
+            "features.detail.title": "Una scheda per orologio.",
+            "features.detail.body": "Specifiche del movimento, diametro cassa, registri d'acquisto, storico manutenzioni e foto ad alta risoluzione. Tutto quello che vorresti se lo vendessi domani, o lo tenessi per sempre.",
+            "features.journal.tag": "Diario",
+            "features.journal.title": "Un diario di cosa hai indossato.",
+            "features.journal.body": "Foto giornaliera con geolocalizzazione, vista calendario, serie consecutive e una mappa di tutti i luoghi dove i tuoi orologi sono stati. Ogni wrist check diventa un ricordo.",
+            "features.accuracy.tag": "Precisione",
+            "features.accuracy.title": "Deriva, misurata.",
+            "features.accuracy.body": "Precisione in secondi al giorno sincronizzata con server temporali atomici. Nessun cronocomparatore necessario. Lo storico delle sessioni ti permette di monitorare le prestazioni di ogni movimento nel tempo.",
+            "principles.heading": "Come è costruita.",
+            "principles.offline.title": "Offline-first",
+            "principles.offline.body": "Nessun server significa nessun giorno di chiusura. Il tuo archivio sopravvive a qualsiasi azienda — inclusa la nostra. Il backup iCloud è opzionale e crittografato.",
+            "principles.tracking.title": "Zero tracciamento",
+            "principles.tracking.body": "Nessuna analisi. Nessuna telemetria. I dati dei tuoi orologi non lasciano mai il dispositivo. Non potremmo vedere la tua collezione neanche volendo.",
+            "principles.purchase.title": "Acquisto una tantum",
+            "principles.purchase.body": "Gratis fino a 5 orologi, tutte le funzioni incluse. Pro è un pagamento singolo — nessun rinnovo, nessun aumento. Tuo per sempre.",
+            "principles.wotd.title": "Orologio del Giorno",
+            "principles.wotd.body": "Scegli cosa indossare oggi. Lunette crea una storia pronta da condividere — nessun template, nessun lavoro di design.",
+            "principles.service.title": "Storico manutenzioni",
+            "principles.service.body": "Ogni manutenzione, registrata. Date, costi, contatti dell'orologiaio — così il prossimo proprietario sa esattamente cosa sta acquistando.",
+            "principles.palettes.title": "Palette curate",
+            "principles.palettes.body": "Oro, champagne, blu, verde — modalità chiara e scura pensate per gli orologi, non per l'interfaccia.",
+            "closing.title": "Inizia a documentare.",
+            "closing.body": "I tuoi orologi meritano un archivio adeguato.<br>Inizia da quelli che contano di più.",
+            "closing.cta": "Scarica dall'App Store",
+            "closing.price": "Gratis — Upgrade Pro 6,99 €, una tantum",
+            "footer.privacy": "Privacy",
+            "footer.contact": "Contatti"
+        },
+        es: {
+            "nav.cta": "Descargar",
+            "hero.title": "Tu colección,<br>cada día.",
+            "hero.body": "Documenta la procedencia. Mide la precisión al segundo. Convierte cada wrist check en un recuerdo. Sin cuentas. Sin suscripciones. Tuya.",
+            "hero.cta": "Descarga Lunette gratis",
+            "hero.aside": "5 relojes gratis. Upgrade Pro de pago único.",
+            "features.collection.tag": "Colección",
+            "features.collection.title": "Cada reloj, un solo lugar.",
+            "features.collection.body": "Referencia, serial, movimiento, diámetro de caja, estuche, papeles, fotos, documentos, historial de compra. Una única fuente de verdad para seguro, reventa y satisfacción personal.",
+            "features.detail.tag": "Detalle",
+            "features.detail.title": "Una ficha por reloj.",
+            "features.detail.body": "Especificaciones del movimiento, diámetro de caja, registros de compra, historial de servicio y fotos de alta resolución. Todo lo que querrías si lo vendieras mañana, o lo guardaras para siempre.",
+            "features.journal.tag": "Diario",
+            "features.journal.title": "Un diario de lo que llevaste.",
+            "features.journal.body": "Captura diaria con geolocalización, vista de calendario, rachas y un mapa de todos los lugares donde han estado tus relojes. Cada wrist check se convierte en un recuerdo.",
+            "features.accuracy.tag": "Precisión",
+            "features.accuracy.title": "Deriva, medida.",
+            "features.accuracy.body": "Precisión en segundos por día sincronizada con servidores de tiempo atómico. Sin necesidad de cronocomparador. El historial de sesiones te permite seguir el rendimiento de cada movimiento a lo largo de meses.",
+            "principles.heading": "Cómo está construida.",
+            "principles.offline.title": "Offline-first",
+            "principles.offline.body": "Sin servidor significa sin día de cierre. Tu archivo sobrevive a cualquier empresa — incluida la nuestra. El backup en iCloud es opcional y cifrado.",
+            "principles.tracking.title": "Cero rastreo",
+            "principles.tracking.body": "Sin analíticas. Sin telemetría. Los datos de tus relojes nunca salen de tu dispositivo. No podríamos ver tu colección aunque quisiéramos.",
+            "principles.purchase.title": "Compra única",
+            "principles.purchase.body": "Gratis hasta 5 relojes, todas las funciones incluidas. Pro es un solo pago — sin renovaciones, sin subidas de precio. Tuyo para siempre.",
+            "principles.wotd.title": "Reloj del Día",
+            "principles.wotd.body": "Elige qué llevar hoy. Lunette crea una historia lista para compartir — sin plantillas, sin trabajo de diseño.",
+            "principles.service.title": "Historial de servicio",
+            "principles.service.body": "Cada servicio, registrado. Fechas, costes, contactos del relojero — para que el próximo dueño sepa exactamente lo que está comprando.",
+            "principles.palettes.title": "Paletas diseñadas",
+            "principles.palettes.body": "Oro, champán, azul, verde — modos claro y oscuro diseñados para los relojes, no para la interfaz.",
+            "closing.title": "Empieza a documentar.",
+            "closing.body": "Tus relojes merecen un archivo adecuado.<br>Empieza por los que más importan.",
+            "closing.cta": "Descargar en la App Store",
+            "closing.price": "Gratis — Upgrade Pro 6,99 €, pago único",
+            "footer.privacy": "Privacidad",
+            "footer.contact": "Contacto"
+        },
+        fr: {
+            "nav.cta": "Télécharger",
+            "hero.title": "Votre collection,<br>au quotidien.",
+            "hero.body": "Documentez la provenance. Mesurez la précision à la seconde. Transformez chaque wrist check en souvenir. Pas de compte. Pas d'abonnement. La vôtre.",
+            "hero.cta": "Télécharger Lunette",
+            "hero.aside": "5 montres gratuites. Mise à niveau Pro unique.",
+            "features.collection.tag": "Collection",
+            "features.collection.title": "Chaque montre, un seul endroit.",
+            "features.collection.body": "Référence, numéro de série, mouvement, diamètre du boîtier, écrin, papiers, photos, documents, historique d'achat. Une source unique de vérité pour l'assurance, la revente et la satisfaction personnelle.",
+            "features.detail.tag": "Détail",
+            "features.detail.title": "Une fiche par montre.",
+            "features.detail.body": "Spécifications du mouvement, diamètre du boîtier, registres d'achat, historique d'entretien et photos haute résolution. Tout ce que vous voudriez si vous la vendiez demain, ou la gardiez pour toujours.",
+            "features.journal.tag": "Journal",
+            "features.journal.title": "Un journal de ce que vous avez porté.",
+            "features.journal.body": "Capture photo quotidienne avec géolocalisation, vue calendrier, séries consécutives et une carte de tous les endroits où vos montres ont été. Chaque wrist check devient un souvenir.",
+            "features.accuracy.tag": "Précision",
+            "features.accuracy.title": "Dérive, mesurée.",
+            "features.accuracy.body": "Précision en secondes par jour synchronisée avec des serveurs de temps atomiques. Pas besoin de chronocomparateur. L'historique des sessions vous permet de suivre les performances de chaque mouvement au fil des mois.",
+            "principles.heading": "Comment elle est construite.",
+            "principles.offline.title": "Offline-first",
+            "principles.offline.body": "Pas de serveur signifie pas de jour d'arrêt. Votre archive survit à n'importe quelle entreprise — y compris la nôtre. La sauvegarde iCloud est optionnelle et chiffrée.",
+            "principles.tracking.title": "Zéro pistage",
+            "principles.tracking.body": "Pas d'analytique. Pas de télémétrie. Les données de vos montres ne quittent jamais votre appareil. Nous ne pourrions pas voir votre collection même si nous le voulions.",
+            "principles.purchase.title": "Achat unique",
+            "principles.purchase.body": "Gratuit jusqu'à 5 montres, toutes les fonctionnalités incluses. Pro est un paiement unique — pas de renouvellement, pas d'augmentation. À vous pour toujours.",
+            "principles.wotd.title": "Montre du Jour",
+            "principles.wotd.body": "Choisissez votre montre du jour. Lunette crée une story prête à partager — pas de modèles, pas de travail de design.",
+            "principles.service.title": "Historique d'entretien",
+            "principles.service.body": "Chaque entretien, enregistré. Dates, coûts, contacts de l'horloger — pour que le prochain propriétaire sache exactement ce qu'il achète.",
+            "principles.palettes.title": "Palettes soignées",
+            "principles.palettes.body": "Or, champagne, bleu, vert — modes sombre et clair conçus pour les montres, pas pour l'interface.",
+            "closing.title": "Commencez à documenter.",
+            "closing.body": "Vos montres méritent une archive digne de ce nom.<br>Commencez par celles qui comptent le plus.",
+            "closing.cta": "Télécharger sur l'App Store",
+            "closing.price": "Gratuit — Mise à niveau Pro 6,99 €, unique",
+            "footer.privacy": "Confidentialité",
+            "footer.contact": "Contact"
+        },
+        de: {
+            "nav.cta": "Zur App",
+            "hero.title": "Deine Sammlung,<br>täglich.",
+            "hero.body": "Dokumentiere die Herkunft. Miss die Genauigkeit auf die Sekunde. Mach jeden Wrist Check zur Erinnerung. Kein Konto. Kein Abo. Deine.",
+            "hero.cta": "Lunette kostenlos laden",
+            "hero.aside": "5 Uhren kostenlos. Einmaliges Pro-Upgrade.",
+            "features.collection.tag": "Sammlung",
+            "features.collection.title": "Jede Uhr, ein Ort.",
+            "features.collection.body": "Referenz, Seriennummer, Werk, Gehäusedurchmesser, Box, Papiere, Fotos, Dokumente, Kaufhistorie. Eine einzige Quelle der Wahrheit für Versicherung, Wiederverkauf und persönliche Zufriedenheit.",
+            "features.detail.tag": "Detail",
+            "features.detail.title": "Eine Karte pro Uhr.",
+            "features.detail.body": "Werkspezifikationen, Gehäusedurchmesser, Kaufbelege, Servicehistorie und hochauflösende Fotos. Alles, was du bräuchtest, wenn du sie morgen verkaufst — oder für immer behältst.",
+            "features.journal.tag": "Tagebuch",
+            "features.journal.title": "Ein Tagebuch deiner Uhren.",
+            "features.journal.body": "Tägliche Fotoaufnahme mit Geolokalisierung, Kalenderansicht, Serien und eine Karte aller Orte, an denen deine Uhren waren. Jeder Wrist Check wird zur Erinnerung.",
+            "features.accuracy.tag": "Genauigkeit",
+            "features.accuracy.title": "Abweichung, gemessen.",
+            "features.accuracy.body": "Sekundengenauigkeit pro Tag, synchronisiert mit atomaren Zeitservern. Kein Zeitwaage nötig. Der Sitzungsverlauf zeigt dir, wie jedes Werk über Monate performt.",
+            "principles.heading": "Wie sie gebaut ist.",
+            "principles.offline.title": "Offline-first",
+            "principles.offline.body": "Kein Server bedeutet kein Abschalttag. Dein Archiv überlebt jedes Unternehmen — auch uns. iCloud-Backup ist optional und verschlüsselt.",
+            "principles.tracking.title": "Null Tracking",
+            "principles.tracking.body": "Keine Analytik. Keine Telemetrie. Deine Uhrendaten verlassen nie dein Gerät. Wir könnten deine Sammlung nicht sehen, selbst wenn wir es wollten.",
+            "principles.purchase.title": "Einmalkauf",
+            "principles.purchase.body": "Kostenlos bis 5 Uhren, alle Funktionen inklusive. Pro ist eine einmalige Zahlung — keine Verlängerung, keine Preiserhöhung. Für immer deins.",
+            "principles.wotd.title": "Uhr des Tages",
+            "principles.wotd.body": "Wähle deine Tagesuhr. Lunette erstellt eine teilbare Story — keine Vorlagen, kein Designaufwand.",
+            "principles.service.title": "Servicehistorie",
+            "principles.service.body": "Jeder Service, dokumentiert. Daten, Kosten, Uhrmacherkontakte — damit der nächste Besitzer genau weiß, was er bekommt.",
+            "principles.palettes.title": "Kuratierte Paletten",
+            "principles.palettes.body": "Gold, Champagner, Blau, Grün — Dark und Light Mode für die Uhren gestaltet, nicht für die Oberfläche.",
+            "closing.title": "Fang an zu dokumentieren.",
+            "closing.body": "Deine Uhren verdienen ein richtiges Archiv.<br>Beginne mit denen, die am meisten zählen.",
+            "closing.cta": "Im App Store laden",
+            "closing.price": "Kostenlos — Pro-Upgrade 6,99 €, einmalig",
+            "footer.privacy": "Datenschutz",
+            "footer.contact": "Kontakt"
+        }
+    };
+
+    function detectLanguage() {
+        const urlLang = new URLSearchParams(window.location.search).get('lang');
+        if (urlLang && translations[urlLang]) return urlLang;
+
+        const browserLang = (navigator.language || '').slice(0, 2).toLowerCase();
+        if (translations[browserLang]) return browserLang;
+
+        return 'en';
+    }
+
+    function setLanguage(lang) {
+        document.documentElement.lang = lang;
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+            const key = el.getAttribute('data-i18n');
+            if (translations[lang] && translations[lang][key]) {
+                el.innerHTML = translations[lang][key];
+            }
+        });
+
+        document.querySelector('.lang-current').textContent = lang.toUpperCase();
+        document.querySelectorAll('.lang-option').forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.lang === lang);
+        });
+
+        history.replaceState(null, '', '?lang=' + lang);
+    }
+
+    const dropdown = document.querySelector('.lang-dropdown');
+    const currentBtn = dropdown.querySelector('.lang-current');
+
+    currentBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        dropdown.classList.toggle('open');
+        currentBtn.setAttribute('aria-expanded', dropdown.classList.contains('open'));
+    });
+
+    document.addEventListener('click', () => {
+        dropdown.classList.remove('open');
+        currentBtn.setAttribute('aria-expanded', 'false');
+    });
+
+    document.querySelectorAll('.lang-option').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            setLanguage(btn.dataset.lang);
+            dropdown.classList.remove('open');
+            currentBtn.setAttribute('aria-expanded', 'false');
+        });
+    });
+
+    setLanguage(detectLanguage());
+
     const io = new IntersectionObserver(entries => {
         entries.forEach(e => {
             if (e.isIntersecting) {
@@ -163,26 +418,8 @@
                 io.unobserve(e.target);
             }
         });
-    }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+    }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
     document.querySelectorAll('[data-reveal], [data-reveal-device]').forEach(el => io.observe(el));
-
-    /* Device parallax float */
-    const deviceEl = document.querySelector('[data-reveal-device]');
-    if (deviceEl && window.innerWidth > 768) {
-        let ticking = false;
-        window.addEventListener('scroll', () => {
-            if (!ticking) {
-                requestAnimationFrame(() => {
-                    const rect = deviceEl.getBoundingClientRect();
-                    const center = rect.top + rect.height / 2;
-                    const offset = (window.innerHeight / 2 - center) * 0.04;
-                    deviceEl.style.transform = `translateY(${offset}px)`;
-                    ticking = false;
-                });
-                ticking = true;
-            }
-        });
-    }
     </script>
 </body>
 </html>
