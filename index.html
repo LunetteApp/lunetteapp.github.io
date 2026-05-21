@@ -4,155 +4,185 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lunette — Your Watch Collection, Daily</title>
-    <meta name="description" content="Lunette is the privacy-first iOS app for documenting your watch collection, tracking accuracy, and turning daily wrist checks into a journal.">
+    <meta name="description" content="Privacy-first iOS app for documenting your watch collection, tracking accuracy, and turning daily wrist checks into a journal.">
     <meta property="og:title" content="Lunette — Your Watch Collection, Daily">
-    <meta property="og:description" content="Privacy-first watch collection app for iOS. Document provenance, track drift, journal your wrist.">
+    <meta property="og:description" content="Document provenance. Track drift. Journal your wrist. No accounts, no cloud.">
     <meta property="og:image" content="assets/icon.png">
     <link rel="icon" type="image/png" href="assets/icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk:wght@400;500;700;800&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <header class="header">
+    <header class="nav-wrap">
         <nav class="nav-pill">
-            <div class="logo">
-                <img src="assets/icon.png" alt="Lunette" class="logo-icon">
-                <span class="logo-text">Lunette</span>
-            </div>
-            <a href="#download" class="header-cta">Download</a>
+            <a href="/" class="nav-brand">
+                <img src="assets/icon.png" alt="Lunette">
+                <span>Lunette</span>
+            </a>
+            <a href="#get" class="nav-cta">
+                <span class="nav-cta-label">Get the app</span>
+                <span class="nav-cta-icon"><svg width="11" height="11" viewBox="0 0 11 11" fill="none"><path d="M1 1l9 9m0-9v9H1" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            </a>
         </nav>
     </header>
 
     <main>
 
     <section class="hero">
-        <div class="container hero-inner">
-            <div class="hero-text">
-                <span class="eyebrow">Watch Collection for iOS</span>
-                <h1>Your collection, daily.</h1>
-                <p class="hero-subtitle">Document provenance. Track accuracy to the second. Turn every wrist check into a memory. No accounts, no cloud — just your watches.</p>
-                <div class="hero-actions">
-                    <a href="#download" class="btn-primary">Download for iPhone</a>
-                    <span class="hero-note">Free with up to 5 watches</span>
+        <div class="hero-grid">
+            <div class="hero-content" data-reveal>
+                <p class="hero-tag">Watch Collection for iOS</p>
+                <h1>Your collection,<br>daily.</h1>
+                <p class="hero-sub">Document provenance. Track accuracy to the second. Turn every wrist check into a memory. No accounts. No cloud. Just your watches.</p>
+                <div class="hero-cta-row">
+                    <a href="#get" class="btn">Download free</a>
+                    <span class="hero-hint">5 watches free, one-time Pro upgrade</span>
                 </div>
             </div>
-            <div class="hero-image">
-                <img src="assets/screenshots/device-01.png" alt="Lunette home — Watch of the Day, journal streak, collection carousel" loading="eager">
-            </div>
-        </div>
-    </section>
-
-    <section class="features" id="features">
-        <div class="container">
-
-            <div class="feature-row" data-reveal>
-                <div class="feature-image">
-                    <img src="assets/screenshots/device-02.png" alt="Collection grid with stats" loading="lazy">
-                </div>
-                <div class="feature-text">
-                    <span class="feature-label">Collection</span>
-                    <h2>Every timepiece documented.</h2>
-                    <p>Specs, service history, provenance, and purchase receipts. Grid view, brand index, and stats at a glance. Nothing gets lost.</p>
-                </div>
-            </div>
-
-            <div class="feature-row reverse" data-reveal>
-                <div class="feature-image">
-                    <img src="assets/screenshots/device-03.png" alt="Watch detail with specs and photos" loading="lazy">
-                </div>
-                <div class="feature-text">
-                    <span class="feature-label">Detail</span>
-                    <h2>Know every detail.</h2>
-                    <p>Reference, serial, movement, case diameter, box, papers, purchase history, photos, and service records. One beautiful card per watch.</p>
-                </div>
-            </div>
-
-            <div class="feature-row" data-reveal>
-                <div class="feature-image">
-                    <img src="assets/screenshots/device-04.png" alt="Journal calendar with wrist check photos" loading="lazy">
-                </div>
-                <div class="feature-text">
-                    <span class="feature-label">Journal</span>
-                    <h2>A wrist check diary.</h2>
-                    <p>Photo memories tied to the watches you wore. Calendar view, geotagging, streaks, and a map of everywhere your watches have been.</p>
-                </div>
-            </div>
-
-            <div class="feature-row reverse" data-reveal>
-                <div class="feature-image">
-                    <img src="assets/screenshots/device-05.png" alt="Accuracy drift measurement synced to atomic time" loading="lazy">
-                </div>
-                <div class="feature-text">
-                    <span class="feature-label">Accuracy</span>
-                    <h2>Measure what matters.</h2>
-                    <p>Seconds-per-day drift measured against atomic time. Session history across your entire collection. Know exactly how each movement performs.</p>
-                </div>
-            </div>
-
-        </div>
-    </section>
-
-    <section class="highlights" id="highlights">
-        <div class="container">
-            <div class="highlights-grid">
-                <div class="highlight-card" data-reveal>
-                    <svg class="highlight-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
-                    <h3>Fully offline</h3>
-                    <p>No accounts. No cloud dependency. No subscriptions. Your data never leaves your device.</p>
-                </div>
-                <div class="highlight-card" data-reveal>
-                    <svg class="highlight-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
-                    <h3>Watch of the Day</h3>
-                    <p>Generate Instagram-ready stories of your daily wear. Share what's on your wrist.</p>
-                </div>
-                <div class="highlight-card" data-reveal>
-                    <svg class="highlight-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
-                    <h3>Service tracking</h3>
-                    <p>Record watchmakers, costs, and next-due dates. Full service history per watch.</p>
-                </div>
-                <div class="highlight-card" data-reveal>
-                    <svg class="highlight-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
-                    <h3>Private & secure</h3>
-                    <p>Zero analytics. Zero tracking. Zero data collection. Your collection is yours alone.</p>
+            <div class="hero-visual" data-reveal-device>
+                <div class="device-float">
+                    <img src="assets/screenshots/device-01.png" alt="Lunette home — Watch of the Day, journal streak">
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="download" id="download">
-        <div class="container download-inner" data-reveal>
-            <img src="assets/icon.png" alt="Lunette" class="download-icon">
-            <h2>Start your collection.</h2>
-            <p>Free with up to 5 watches. One-time purchase unlocks unlimited.</p>
-            <a href="https://apps.apple.com" class="btn-primary">Download on the App Store</a>
+    <div class="ticker">
+        <div class="ticker-track">
+            <span>Provenance</span><span>Accuracy</span><span>Wrist Checks</span><span>Service History</span><span>Atomic Sync</span><span>Journal</span><span>Offline-First</span><span>Instagram Stories</span>
+            <span>Provenance</span><span>Accuracy</span><span>Wrist Checks</span><span>Service History</span><span>Atomic Sync</span><span>Journal</span><span>Offline-First</span><span>Instagram Stories</span>
+        </div>
+    </div>
+
+    <section class="showcase">
+        <div class="showcase-header" data-reveal>
+            <h2>Built around<br>what collectors need.</h2>
+        </div>
+        <div class="showcase-scroll">
+            <div class="showcase-track">
+
+                <article class="showcase-card" data-reveal>
+                    <div class="showcase-device">
+                        <img src="assets/screenshots/device-02.png" alt="Collection grid">
+                    </div>
+                    <div class="showcase-meta">
+                        <span class="showcase-num">01</span>
+                        <h3>Collection</h3>
+                        <p>Every reference, serial, and receipt. Grid view with brand index and stats at a glance.</p>
+                    </div>
+                </article>
+
+                <article class="showcase-card" data-reveal>
+                    <div class="showcase-device">
+                        <img src="assets/screenshots/device-03.png" alt="Watch detail">
+                    </div>
+                    <div class="showcase-meta">
+                        <span class="showcase-num">02</span>
+                        <h3>Detail</h3>
+                        <p>Movement, case diameter, box, papers, photos, and service records. One card per watch.</p>
+                    </div>
+                </article>
+
+                <article class="showcase-card" data-reveal>
+                    <div class="showcase-device">
+                        <img src="assets/screenshots/device-04.png" alt="Journal calendar">
+                    </div>
+                    <div class="showcase-meta">
+                        <span class="showcase-num">03</span>
+                        <h3>Journal</h3>
+                        <p>Calendar, geotagging, streaks, and a map of everywhere your watches have been.</p>
+                    </div>
+                </article>
+
+                <article class="showcase-card" data-reveal>
+                    <div class="showcase-device">
+                        <img src="assets/screenshots/device-05.png" alt="Accuracy drift">
+                    </div>
+                    <div class="showcase-meta">
+                        <span class="showcase-num">04</span>
+                        <h3>Accuracy</h3>
+                        <p>Seconds-per-day drift measured against atomic time. Full session history per movement.</p>
+                    </div>
+                </article>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="bento">
+        <div class="bento-grid" data-reveal>
+            <div class="bento-card bento-card--wide">
+                <h3>Fully offline</h3>
+                <p>No accounts. No cloud. No subscriptions. Your data never leaves your device. iCloud backup is optional.</p>
+            </div>
+            <div class="bento-card">
+                <h3>Zero tracking</h3>
+                <p>No analytics. No telemetry. No data collection. We literally don't know who you are.</p>
+            </div>
+            <div class="bento-card">
+                <h3>One-time purchase</h3>
+                <p>Lunette Pro is a single payment. No recurring fees. Yours forever.</p>
+            </div>
+            <div class="bento-card bento-card--wide">
+                <h3>Watch of the Day</h3>
+                <p>Generate Instagram-ready stories of your daily wear. Beautiful templates designed for watch photography.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="closing" id="get">
+        <div class="closing-inner" data-reveal>
+            <img src="assets/icon.png" alt="Lunette" class="closing-icon">
+            <h2>Start documenting.</h2>
+            <p>Free with up to 5 watches.<br>One purchase unlocks unlimited.</p>
+            <a href="https://apps.apple.com" class="btn">Download on the App Store</a>
         </div>
     </section>
 
     </main>
 
     <footer class="footer">
-        <div class="container footer-inner">
-            <span class="footer-brand">Lunette</span>
+        <div class="footer-inner">
+            <span class="footer-mark">Lunette</span>
             <div class="footer-links">
                 <a href="privacy/index.html">Privacy</a>
-                <a href="mailto:hello@lunetteapp.com">Contact</a>
+                <a href="mailto:hello@michaelsiddi.com">Contact</a>
             </div>
         </div>
     </footer>
 
     <script>
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('revealed');
-                observer.unobserve(entry.target);
+    /* Staggered scroll reveals */
+    const io = new IntersectionObserver(entries => {
+        entries.forEach(e => {
+            if (e.isIntersecting) {
+                e.target.classList.add('in');
+                io.unobserve(e.target);
             }
         });
-    }, { threshold: 0.15, rootMargin: '0px 0px -60px 0px' });
-    document.querySelectorAll('[data-reveal]').forEach(el => observer.observe(el));
+    }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+    document.querySelectorAll('[data-reveal], [data-reveal-device]').forEach(el => io.observe(el));
+
+    /* Device parallax float */
+    const deviceEl = document.querySelector('[data-reveal-device]');
+    if (deviceEl && window.innerWidth > 768) {
+        let ticking = false;
+        window.addEventListener('scroll', () => {
+            if (!ticking) {
+                requestAnimationFrame(() => {
+                    const rect = deviceEl.getBoundingClientRect();
+                    const center = rect.top + rect.height / 2;
+                    const offset = (window.innerHeight / 2 - center) * 0.04;
+                    deviceEl.style.transform = `translateY(${offset}px)`;
+                    ticking = false;
+                });
+                ticking = true;
+            }
+        });
+    }
     </script>
 </body>
 </html>
