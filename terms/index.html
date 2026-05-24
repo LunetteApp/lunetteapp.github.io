@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lunette — Terms of Use</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #08080A;
+            --surface: #111113;
+            --text: #F0ECE5;
+            --text-secondary: #A9A49C;
+            --accent: #C9A86A;
+            --border: rgba(255, 255, 255, 0.06);
+            --display: 'Space Grotesk', -apple-system, sans-serif;
+            --font: 'Inter', -apple-system, sans-serif;
+            --mono: 'Geist Mono', 'SF Mono', monospace;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font);
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            min-height: 100vh;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 48px 24px 80px;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 48px;
+            padding-bottom: 24px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .logo {
+            font-size: 16px;
+            font-weight: 600;
+            letter-spacing: -0.01em;
+            color: var(--text);
+        }
+
+        .lang-selector {
+            display: flex;
+            gap: 3px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 4px;
+        }
+
+        .lang-btn {
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            font-family: var(--mono);
+            font-size: 11px;
+            font-weight: 400;
+            padding: 6px 10px;
+            border-radius: 7px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .lang-btn:hover {
+            color: var(--text);
+        }
+
+        .lang-btn.active {
+            background: var(--accent);
+            color: var(--bg);
+        }
+
+        #content h1 {
+            font-family: var(--display);
+            font-size: 28px;
+            font-weight: 500;
+            letter-spacing: -0.03em;
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
+        #content h2 {
+            font-family: var(--display);
+            font-size: 19px;
+            font-weight: 600;
+            letter-spacing: -0.02em;
+            margin-top: 40px;
+            margin-bottom: 12px;
+            color: var(--text);
+        }
+
+        #content h3 {
+            font-size: 16px;
+            font-weight: 600;
+            margin-top: 24px;
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
+        #content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+            font-size: 15px;
+        }
+
+        #content strong {
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        #content ul {
+            margin-bottom: 16px;
+            padding-left: 24px;
+        }
+
+        #content li {
+            margin-bottom: 8px;
+            color: var(--text-secondary);
+            font-size: 15px;
+        }
+
+        #content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        #content a:hover {
+            text-decoration: underline;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px 0;
+            color: var(--text-secondary);
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 24px 16px 60px;
+            }
+
+            header {
+                flex-direction: column;
+                gap: 16px;
+                align-items: flex-start;
+            }
+
+            #content h1 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">Lunette</div>
+            <nav class="lang-selector">
+                <button class="lang-btn active" data-lang="en">EN</button>
+                <button class="lang-btn" data-lang="it">IT</button>
+                <button class="lang-btn" data-lang="es">ES</button>
+                <button class="lang-btn" data-lang="fr">FR</button>
+                <button class="lang-btn" data-lang="de">DE</button>
+            </nav>
+        </header>
+        <main id="content">
+            <div class="loading">Loading...</div>
+        </main>
+    </div>
+
+    <script>
+        function parseMarkdown(md) {
+            return md
+                .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+                .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+                .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+                .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+                .replace(/^- (.+)$/gm, '<li>$1</li>')
+                .replace(/(<li>.*<\/li>\n?)+/g, match => '<ul>' + match + '</ul>')
+                .replace(/^(?!<[hula]|<\/[ua])(.+)$/gm, '<p>$1</p>')
+                .replace(/<p><\/p>/g, '')
+                .replace(/\n{2,}/g, '\n');
+        }
+
+        function detectLanguage() {
+            const urlLang = new URLSearchParams(window.location.search).get('lang');
+            if (urlLang && ['en', 'it', 'es', 'fr', 'de'].includes(urlLang)) return urlLang;
+
+            const browserLang = (navigator.language || '').slice(0, 2).toLowerCase();
+            if (['en', 'it', 'es', 'fr', 'de'].includes(browserLang)) return browserLang;
+
+            return 'en';
+        }
+
+        async function loadContent(lang) {
+            const content = document.getElementById('content');
+
+            try {
+                const response = await fetch(lang + '.md');
+                if (!response.ok) throw new Error('Not found');
+                const md = await response.text();
+                content.innerHTML = parseMarkdown(md);
+            } catch {
+                if (lang !== 'en') {
+                    loadContent('en');
+                    return;
+                }
+                content.innerHTML = '<p>Unable to load terms of use.</p>';
+            }
+
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.lang === lang);
+            });
+
+            document.documentElement.lang = lang;
+            history.replaceState(null, '', '?lang=' + lang);
+        }
+
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.addEventListener('click', () => loadContent(btn.dataset.lang));
+        });
+
+        loadContent(detectLanguage());
+    </script>
+</body>
+</html>
