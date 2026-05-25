@@ -79,6 +79,7 @@ body {
 .nav-cta {
     display: inline-flex;
     align-items: center;
+    white-space: nowrap;
     background: var(--accent);
     color: var(--bg);
     font-size: 12px;
