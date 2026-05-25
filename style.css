@@ -4,16 +4,16 @@
    ═══════════════════════════════════════════ */
 
 :root {
-    --bg: #09090B;
-    --surface: #111113;
-    --surface-elevated: #18181B;
-    --border: rgba(255, 255, 255, 0.06);
-    --border-hover: rgba(201, 168, 106, 0.18);
-    --accent: #C9A86A;
-    --accent-muted: rgba(201, 168, 106, 0.12);
-    --text: #F0ECE5;
-    --text-2: #A9A49C;
-    --text-3: #847E76;
+    --bg: #0B0D11;
+    --surface: #15181F;
+    --surface-elevated: #11141A;
+    --border: rgba(45, 51, 65, 0.72);
+    --border-hover: rgba(143, 172, 218, 0.18);
+    --accent: #8FACDA;
+    --accent-muted: rgba(143, 172, 218, 0.12);
+    --text: #ECEEF3;
+    --text-2: #B2B9C3;
+    --text-3: #808795;
     --display: 'Space Grotesk', -apple-system, sans-serif;
     --sans: 'Inter', -apple-system, sans-serif;
     --mono: 'Geist Mono', 'SF Mono', monospace;
@@ -81,7 +81,7 @@ body {
     align-items: center;
     white-space: nowrap;
     background: var(--accent);
-    color: var(--bg);
+    color: #08090D;
     font-size: 12px;
     font-weight: 600;
     padding: 9px 16px;
@@ -227,7 +227,7 @@ body {
     font-family: var(--sans);
     font-size: 14px;
     font-weight: 600;
-    color: var(--bg);
+    color: #08090D;
     background: var(--accent);
     padding: 14px 28px;
     border-radius: 100px;
