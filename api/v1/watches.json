@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "brands": {
     "A. Lange & Söhne": [
       {
@@ -714,15 +714,15 @@
         "name": "The Twelve"
       }
     ],
-    "Chronoswiss": [
-      {
-        "name": "Pulse"
-      }
-    ],
     "ChronoTheory & Co": [
       {
         "name": "AV-98",
         "movement": "manual"
+      }
+    ],
+    "Chronoswiss": [
+      {
+        "name": "Pulse"
       }
     ],
     "Citizen": [
@@ -829,6 +829,14 @@
         "movement": "automatic"
       }
     ],
+    "FP Journe": [
+      {
+        "name": "Octa"
+      },
+      {
+        "name": "Souveraine"
+      }
+    ],
     "Farer": [
       {
         "name": "Aquamatic"
@@ -859,14 +867,6 @@
         "name": "Mesure du Temps 1787"
       }
     ],
-    "FP Journe": [
-      {
-        "name": "Octa"
-      },
-      {
-        "name": "Souveraine"
-      }
-    ],
     "Franck Muller": [
       {
         "name": "Aeternitas"
@@ -894,6 +894,304 @@
       },
       {
         "name": "Slimline"
+      }
+    ],
+    "Fumagazzi": [
+      {
+        "name": "Fumagazzi Spateck – Il Lapiscazzuli",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/04/FUMAGAZZI-SPATEcK-M8401.02.LAPIS_.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Spateck – Il Malachitemmuort",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/04/FUMAGAZZI-SPATEcK-M8401.03.MALACH.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Spateck – Le Bleu Cazzé",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/04/FUMAGAZZI-SPATEcK-M8401.02.02.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Spateck – El Todo Negro",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/04/FUMAGAZZI-SPATEcK-M8401.03.03.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Velox Bamba",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/02/FUMAGAZZI-VELOX-BAMBA-M7778.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Velox Bamba ghiera nera",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/03/FUMAGAZZI-VELOX-BAMBA-GHIERA-NERA-M7778.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Modello Z Silver",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/M8409.01.01.BRAC-FUMAGAZZI-MODELLO-Z.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Modello Z Black",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/M8409BLK.03.03.BRAC-FUMAGAZZI-MODELLO-Z.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Modello Z Blu",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/M8409.02.01.BRAC-FUMAGAZZI-MODELLO-Z.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Palombaro Sotto Spirito",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/02/FUMAGAZZI-PALOMBARO-SOTTO-SPIRITO-M8266ABLK.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi MonaAmour",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-MonaAmour.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi oןןɐᴉƃoᴉɹɐɹʇuoɔuᴉ˥",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/01/FUMAGAZZI-LINCONTRARIO-GIALLO-M8290-BLK-GI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi PolNiuman – Ed. Gran Galà",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/FUMAGAZZI-POLNIUMAN-COCCO-M8411.01.03.PL-COCCO.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi GuardaQuà – Maleducato",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/05/FUMAGAZZI-GUARDAQUA-MALEDUCATO-FRONT-scaled.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi GuardaQuà – Strafottente",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/05/FUMAGAZZI-GUARDAQUA-STRAFOTTENTE-FRONT-scaled.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi “Il Pesce” La Carovana – Verde",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/11/FUMAGAZZI-LA-CAROVANA-IL-PESCE-F2556.07.02.AC_.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi BoomWatch “ChronoZoo” – Nero",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/11/M8393-FUMA-NE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi BoomWatch “ChronoZoo” – Silver",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/11/M8393-FUMA-GRI-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Pagherai Verde Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/FUMAGAZZI-PAGHERAI-VE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Pagherai Nero Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/FUMAGAZZI-PAGHERAI-ACC-NE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi LackyLuciano NATO",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/M8387-FUMAGAZZI-LackyLuciano-NATO.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Nuovo CentoCambiali 2025 Verde",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5308-FUMAGAZZI-CENTOCAMBIALI-NE-VE-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Nuovo CentoCambiali 2025 Nero",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5308-FUMAGAZZI-CENTOCAMBIALI-NE-NE-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi 10Cambiali Blu",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5310-FUMAGAZZI-10CAMBIALI-SS-BL-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Pagherai Blu Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5311-FUMAGAZZI-PAGHERAI-BL.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Pagherai Verde",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5311-FUMAGAZZI-PAGHERAI-NE-VE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Pagherai Giallo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5311-FUMAGAZZI-PAGHERAI-NE-GI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Velox Lemon",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/12/FUMAGAZZI-VELOX-LEMON.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Velox Durox",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/12/FUMAGAZZI-VELOX-DUROX.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Soprano",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/11/ACP5241-CRONO-NE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi LackyLuciano",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/11/ACP5241-FUMA-BEI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi IlBimbo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/R34.02-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi ElBocia",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/R34.03-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi ErPupo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/R34.01-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Subbbaquo Rosso",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/M8304.03.RS-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Subbbaquo Blu",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/M8304.01.BL-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Subbbaquo Nero",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/M8304.03.NE-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Pendaglio da Forca",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/04/FUMAGAZZI-PENDAGLIO-DA-FORCA-2.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Velox Drago",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/VELOX-IP-GREEN-M7778-FUMA.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Velox Drago Pelle",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/VELOX-IP-GREEN-COCCO-M7778-FUMA.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Blasphemo Veneto",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/M8195BIC-GHIERA-GG-OCCHI-BL-FUMA.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Er Cavaliere Neon",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/M8293.06.13AC-FUMA.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Blasphemo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-Blasphemo.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi CieloAzzurra",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/F2556.14.02.AC-Fumagazzi.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi El Kaimano Negro",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/KAIMANO-NEGRO-M8266BLK.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi LGBTQ RSTUVZ",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-LGBTQRSTUVZ.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Contrabbandiere",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-Contrabbandiere.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi TerraPiatta",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-TerraPiatta.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Lunatico Luna Blu Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/03/LUNATICO-LUNABLU-M8278.02.BL_.BRAC_.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Lunatico Luna Blu",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/03/LUNATICO-LUNABLU-M8278.02.BL_.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi LatOscuro",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/12/LATOSCURO-M8195BLK.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Grisù",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/11/GRISU-M8266BLK.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Ricercato",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-Ricercato.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Darth Taaak",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/09/DARTH-TAAAK-M8195.01.03-1.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi AutoBlu Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/02/AUTOBLU-ACCIAIO-M7778.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi AutoBlu Pelle",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/02/AUTOBLU-PELLE-M7778.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Corsaro Automatico",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/01/M8266.03-RSG-FUMAGAZZI-2.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Lo Scippo d’acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/SCIPPO-DACCIAIO-M8283.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi RosaLopo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-RosaLopo.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi RosaTopa",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-ROSATOPA-F2352RSG.01.BRAC_.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Palombaro Nero di Seppia",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-PALOMBARO-NeroDiSeppia.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi BiancoLopo numeri arabi",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/M8252.04-FUMAGAZZI.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Dittatore SangueBlu Automatico",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-DITTATORE-SANGUEBLU-M8266.02.BIC_.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Biancatopa",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-BIANCATOPA-F2352.03.BRAC_-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Biancolopo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-Biancolopo.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi NeroTaaaK",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/NERO-TAAAK-M8195.03.03.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Velox “Acciaio”",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/VELOX-ACCIAIO-M7778A.03.13BR22ACF.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Velox “Pelle”",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/VELOX-PELLE-M7778A.03.13PL22NE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi CentoCambiali",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/CENTOCAMBIALI.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi PataaaK",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/PATAAAK-M8195GG.01.03.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi TaaaK",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/TAAAK-M8195.01.03.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Dittatore Automatico",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/02/FUMAGAZZI-Dittatore-auto-1.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Palombaro",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-PALOMBARO-M8266.03.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Fumagazzi Topolopo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-TOPALOPA-UOMO.jpg?fit=558%2C929&ssl=1"
       }
     ],
     "Furlan Marri": [
