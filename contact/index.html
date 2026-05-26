@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact — Lunette</title>
+    <meta name="description" content="Get in touch with the Lunette app developer.">
+    <link rel="icon" type="image/png" href="../assets/icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        .contact-page {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 4rem 1.5rem;
+        }
+        .contact-page .contact-inner {
+            max-width: 520px;
+            width: 100%;
+        }
+        .contact-page h1 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 2.4rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        .contact-page .contact-subtitle {
+            color: var(--text-secondary, #999);
+            margin-bottom: 2rem;
+        }
+        .contact-form input,
+        .contact-form textarea {
+            width: 100%;
+            padding: 0.85rem 1rem;
+            margin-bottom: 1rem;
+            border: 1px solid var(--border, #333);
+            border-radius: 10px;
+            background: var(--surface, #1a1a1a);
+            color: var(--text, #fff);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.95rem;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .contact-form input:focus,
+        .contact-form textarea:focus {
+            border-color: var(--accent, #c9a84c);
+        }
+        .contact-form textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+        .contact-form .btn-primary {
+            width: 100%;
+            margin-top: 0.5rem;
+        }
+        .contact-device-info {
+            font-size: 0.8rem;
+            color: var(--text-secondary, #999);
+            margin-top: 1rem;
+            padding: 0.75rem;
+            background: var(--surface, #1a1a1a);
+            border-radius: 8px;
+            font-family: 'Geist Mono', monospace;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 2rem;
+            color: var(--accent, #c9a84c);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .back-link:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+<section class="contact-page">
+    <div class="contact-inner">
+        <a href="/" class="back-link">← Lunette</a>
+        <h1 data-i18n="contact.title">Get in touch.</h1>
+        <p class="contact-subtitle" data-i18n="contact.subtitle">Bug report, feature request, or just saying hi — we'd love to hear from you.</p>
+
+        <form action="https://formsubmit.co/hello@michaelsiddi.com" method="POST" class="contact-form">
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_next" value="https://lunetteapp.com/contact?sent=1">
+            <input type="text" name="name" id="contact-name" placeholder="Name" required>
+            <input type="email" name="email" id="contact-email" placeholder="Email" required>
+            <input type="text" name="_subject" id="contact-subject" placeholder="Subject" value="[Lunette] Contact from website">
+            <textarea name="message" id="contact-message" placeholder="Message" rows="5" required></textarea>
+            <input type="hidden" name="device_info" id="contact-device-info" value="">
+            <button type="submit" class="btn-primary" data-i18n="contact.send">Send</button>
+        </form>
+
+        <div class="contact-device-info" id="device-info-display" style="display:none;"></div>
+    </div>
+</section>
+
+<script>
+(function() {
+    const params = new URLSearchParams(window.location.search);
+
+    // Autofill from URL params: ?name=X&email=X&subject=X&message=X&device=X
+    const fields = {
+        name: 'contact-name',
+        email: 'contact-email',
+        subject: 'contact-subject',
+        message: 'contact-message',
+        device: 'contact-device-info'
+    };
+    Object.entries(fields).forEach(([param, id]) => {
+        const val = params.get(param);
+        if (val) document.getElementById(id).value = val;
+    });
+
+    // Show device info block if present
+    const deviceInfo = params.get('device');
+    if (deviceInfo) {
+        const display = document.getElementById('device-info-display');
+        display.textContent = deviceInfo;
+        display.style.display = 'block';
+    }
+
+    // Show success message if redirected back after send
+    if (params.get('sent') === '1') {
+        const inner = document.querySelector('.contact-inner');
+        inner.innerHTML = `
+            <a href="/" class="back-link">← Lunette</a>
+            <h1>Message sent!</h1>
+            <p class="contact-subtitle">Thanks for reaching out. We'll get back to you soon.</p>
+        `;
+    }
+})();
+</script>
+
+</body>
+</html>
