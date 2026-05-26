@@ -1,6 +1,6 @@
 # Informativa sulla Privacy
 
-**Ultimo aggiornamento:** 20 maggio 2026
+**Ultimo aggiornamento:** 26 maggio 2026
 
 ## Panoramica
 
@@ -73,6 +73,17 @@ Lunette non raccoglie consapevolmente informazioni da minori. L'app non contiene
 ## Modifiche a Questa Informativa
 
 Se aggiorniamo questa informativa sulla privacy, pubblicheremo le modifiche su questa pagina e aggiorneremo la data di "Ultimo aggiornamento".
+
+## Modulo di Contatto
+
+Quando utilizzi il modulo di contatto sul nostro sito web o tramite l'app, raccogliamo:
+
+- **Nome** — per rivolgerci a te nella nostra risposta
+- **Indirizzo email** — per rispondere alla tua richiesta
+- **Contenuto del messaggio** — per comprendere la tua richiesta
+- **Informazioni sul dispositivo** (se inviato dall'app) — versione dell'app, versione iOS, modello del dispositivo e stato Pro, per aiutare a diagnosticare eventuali problemi
+
+Questi dati vengono elaborati tramite [FormSubmit.co](https://formsubmit.co), un servizio di terze parti per la gestione dei moduli, e ci vengono consegnati via email. Utilizziamo queste informazioni esclusivamente per rispondere alla tua richiesta. Non le utilizziamo per scopi di marketing né le condividiamo con altre terze parti. Conserviamo la corrispondenza solo per il tempo necessario a risolvere la tua richiesta.
 
 ## Contatti
 

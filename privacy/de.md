@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-**Letzte Aktualisierung:** 20. Mai 2026
+**Letzte Aktualisierung:** 26. Mai 2026
 
 ## Überblick
 
@@ -73,6 +73,17 @@ Lunette erhebt nicht wissentlich Informationen von Kindern. Die App enthält kei
 ## Änderungen dieser Erklärung
 
 Wenn wir diese Datenschutzerklärung aktualisieren, werden wir die Änderungen auf dieser Seite veröffentlichen und das Datum der "Letzten Aktualisierung" anpassen.
+
+## Kontaktformular
+
+Wenn Sie das Kontaktformular auf unserer Website oder über die App nutzen, erheben wir:
+
+- **Name** — um Sie in unserer Antwort anzusprechen
+- **E-Mail-Adresse** — um auf Ihre Anfrage zu antworten
+- **Nachrichteninhalt** — um Ihr Anliegen zu verstehen
+- **Geräteinformationen** (wenn über die App gesendet) — App-Version, iOS-Version, Gerätemodell und Pro-Status, um bei der Diagnose von Problemen zu helfen
+
+Diese Daten werden über [FormSubmit.co](https://formsubmit.co), einen Drittanbieter-Dienst zur Formularverarbeitung, verarbeitet und uns per E-Mail zugestellt. Wir verwenden diese Informationen ausschließlich zur Beantwortung Ihrer Anfrage. Wir nutzen sie nicht für Marketingzwecke und geben sie nicht an andere Dritte weiter. Wir bewahren die Korrespondenz nur so lange auf, wie es zur Lösung Ihrer Anfrage erforderlich ist.
 
 ## Kontakt
 
