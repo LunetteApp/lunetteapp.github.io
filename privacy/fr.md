@@ -1,6 +1,6 @@
 # Politique de Confidentialité
 
-**Dernière mise à jour :** 20 mai 2026
+**Dernière mise à jour :** 26 mai 2026
 
 ## Aperçu
 
@@ -73,6 +73,17 @@ Lunette ne collecte pas sciemment d'informations auprès d'enfants. L'applicatio
 ## Modifications de Cette Politique
 
 Si nous mettons à jour cette politique de confidentialité, nous publierons les modifications sur cette page et mettrons à jour la date de "Dernière mise à jour".
+
+## Formulaire de Contact
+
+Lorsque vous utilisez le formulaire de contact sur notre site web ou via l'application, nous collectons :
+
+- **Nom** — pour nous adresser à vous dans notre réponse
+- **Adresse email** — pour répondre à votre demande
+- **Contenu du message** — pour comprendre votre requête
+- **Informations sur l'appareil** (si envoyé depuis l'app) — version de l'app, version d'iOS, modèle de l'appareil et statut Pro, pour aider à diagnostiquer les problèmes
+
+Ces données sont traitées par [FormSubmit.co](https://formsubmit.co), un service tiers de gestion de formulaires, et nous sont transmises par email. Nous utilisons ces informations uniquement pour répondre à votre demande. Nous ne les utilisons pas à des fins marketing et ne les partageons avec aucun autre tiers. Nous conservons la correspondance uniquement le temps nécessaire pour résoudre votre demande.
 
 ## Contact
 

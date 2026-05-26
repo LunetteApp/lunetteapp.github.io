@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** May 20, 2026
+**Last updated:** May 26, 2026
 
 ## Overview
 
@@ -73,6 +73,17 @@ Lunette does not knowingly collect information from children. The app contains n
 ## Changes to This Policy
 
 If we update this privacy policy, we will post the changes on this page and update the "Last updated" date.
+
+## Contact Form
+
+When you use the contact form on our website or through the app, we collect:
+
+- **Name** — to address you in our reply
+- **Email address** — to respond to your inquiry
+- **Message content** — to understand your request
+- **Device information** (if sent from the app) — app version, iOS version, device model, and Pro status, to help diagnose issues
+
+This data is processed through [FormSubmit.co](https://formsubmit.co), a third-party form handling service, and delivered to us via email. We use this information solely to respond to your inquiry. We do not use it for marketing or share it with any other third party. We retain correspondence only as long as needed to resolve your request.
 
 ## Contact
 
