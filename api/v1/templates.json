@@ -1,0 +1,160 @@
+{
+  "version": 2,
+  "templates": [
+    {
+      "id": "classic-midnight",
+      "localized_name": {
+        "en": "Classic Midnight",
+        "it": "Notte classica",
+        "fr": "Minuit classique",
+        "de": "Klassische Nacht",
+        "es": "Medianoche clásica"
+      },
+      "background_image_url": "https://lunetteapp.com/assets/bg-hero.png",
+      "thumbnail_image_url": "https://lunetteapp.com/assets/bg-hero.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "badge_text": {
+        "en": "NEW",
+        "it": "NEW"
+      },
+      "sort_order": 10
+    },
+    {
+      "id": "steel-horizon",
+      "localized_name": {
+        "en": "Steel Horizon",
+        "it": "Orizzonte acciaio",
+        "fr": "Horizon acier",
+        "de": "Stahlhorizont",
+        "es": "Horizonte acero"
+      },
+      "background_image_url": "https://lunetteapp.com/assets/bg-mid.png",
+      "thumbnail_image_url": "https://lunetteapp.com/assets/bg-mid.png",
+      "background_mode": "pattern",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "badge_text": {},
+      "sort_order": 20
+    },
+    {
+      "id": "soft-contrast",
+      "localized_name": {
+        "en": "Soft Contrast",
+        "it": "Contrasto morbido",
+        "fr": "Contraste doux",
+        "de": "Sanfter Kontrast",
+        "es": "Contraste suave"
+      },
+      "background_image_url": "https://lunetteapp.com/assets/bg-bottom.png",
+      "thumbnail_image_url": "https://lunetteapp.com/assets/bg-bottom.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "badge_text": {},
+      "sort_order": 30
+    },
+    {
+      "id": "halloween-special",
+      "localized_name": {
+        "en": "Halloween Special",
+        "it": "Speciale Halloween",
+        "fr": "Spécial Halloween",
+        "de": "Halloween-Spezial",
+        "es": "Especial Halloween"
+      },
+      "background_image_url": "https://lunetteapp.com/assets/bg-hero.png",
+      "thumbnail_image_url": "https://lunetteapp.com/assets/bg-hero.png",
+      "background_mode": "pattern",
+      "show_alert": true,
+      "alert_title": {
+        "en": "Halloween special",
+        "it": "Speciale Halloween",
+        "fr": "Spécial Halloween",
+        "de": "Halloween-Spezial",
+        "es": "Especial Halloween"
+      },
+      "alert_message": {
+        "en": "A seasonal story template is now available in the editor.",
+        "it": "Un template stagionale per le storie è ora disponibile nell’editor.",
+        "fr": "Un modèle saisonnier est maintenant disponible dans l’éditeur.",
+        "de": "Ein saisonales Story-Template ist jetzt im Editor verfügbar.",
+        "es": "Ya hay una plantilla estacional disponible en el editor."
+      },
+      "valid_from": "2026-10-20T00:00:00Z",
+      "valid_to": "2026-11-03T23:59:59Z",
+      "badge_text": {
+        "en": "LIMITED",
+        "it": "LIMITED"
+      },
+      "sort_order": 5
+    },
+    {
+      "id": "summer-coast",
+      "localized_name": {
+        "en": "Summer Coast",
+        "it": "Costa estiva",
+        "fr": "Côte d’été",
+        "de": "Sommerküste",
+        "es": "Costa de verano"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/summer_template_1.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/summer_template_1.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "badge_text": {
+        "en": "SUMMER",
+        "it": "SUMMER"
+      },
+      "sort_order": 40
+    },
+    {
+      "id": "summer-linen",
+      "localized_name": {
+        "en": "Summer Linen",
+        "it": "Lino estivo",
+        "fr": "Lin d’été",
+        "de": "Sommerleinen",
+        "es": "Lino de verano"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/summer_template_2.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/summer_template_2.png",
+      "background_mode": "pattern",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "badge_text": {
+        "en": "SUMMER",
+        "it": "SUMMER"
+      },
+      "sort_order": 50
+    },
+    {
+      "id": "summer-night",
+      "localized_name": {
+        "en": "Summer Night",
+        "it": "Notte estiva",
+        "fr": "Nuit d’été",
+        "de": "Sommernacht",
+        "es": "Noche de verano"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/summer_template_3.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/summer_template_3.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "badge_text": {
+        "en": "SUMMER",
+        "it": "SUMMER"
+      },
+      "sort_order": 60
+    }
+  ]
+}
