@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "templates": [
     {
       "id": "summer-coast",
@@ -16,10 +16,7 @@
       "show_alert": false,
       "alert_title": {},
       "alert_message": {},
-      "badge_text": {
-        "en": "SUMMER",
-        "it": "SUMMER"
-      },
+      "pack_name": "SUMMER",
       "sort_order": 10
     },
     {
@@ -33,14 +30,11 @@
       },
       "background_image_url": "https://lunetteapp.com/app_assets/summer_template_2.png",
       "thumbnail_image_url": "https://lunetteapp.com/app_assets/summer_template_2.png",
-      "background_mode": "pattern",
+      "background_mode": "fill",
       "show_alert": false,
       "alert_title": {},
       "alert_message": {},
-      "badge_text": {
-        "en": "SUMMER",
-        "it": "SUMMER"
-      },
+      "pack_name": "SUMMER",
       "sort_order": 20
     },
     {
@@ -58,10 +52,7 @@
       "show_alert": false,
       "alert_title": {},
       "alert_message": {},
-      "badge_text": {
-        "en": "SUMMER",
-        "it": "SUMMER"
-      },
+      "pack_name": "SUMMER",
       "sort_order": 30
     },
     {
@@ -79,10 +70,7 @@
       "show_alert": false,
       "alert_title": {},
       "alert_message": {},
-      "badge_text": {
-        "en": "SUMMER",
-        "it": "SUMMER"
-      },
+      "pack_name": "SUMMER",
       "sort_order": 40
     }
   ]
