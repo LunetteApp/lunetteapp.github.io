@@ -90,6 +90,4 @@ Ces données sont traitées par [FormSubmit.co](https://formsubmit.co), un servi
 
 ## Contact
 
-Pour toute question concernant cette politique de confidentialité, contactez-nous à :
-
-**Email :** hello@michaelsiddi.com
+Pour toute question concernant cette politique de confidentialité, contactez-nous via notre [formulaire de contact](https://lunetteapp.com/contact).

@@ -100,7 +100,6 @@ Für EU-Verbraucher: Nichts in diesen Bedingungen beeinträchtigt deine gesetzli
 
 ## Kontakt
 
-Bei Fragen zu diesen Bedingungen kontaktiere uns:
+Bei Fragen zu diesen Bedingungen kontaktiere uns über unser [Kontaktformular](https://lunetteapp.com/contact).
 
-**E-Mail:** hello@michaelsiddi.com
 **Website:** [lunetteapp.com](https://lunetteapp.com)

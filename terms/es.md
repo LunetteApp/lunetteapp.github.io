@@ -100,7 +100,6 @@ Para consumidores de la UE: nada en estas condiciones afecta tus derechos legale
 
 ## Contacto
 
-Si tienes preguntas sobre estas condiciones, contáctanos:
+Si tienes preguntas sobre estas condiciones, escríbenos a través de nuestro [formulario de contacto](https://lunetteapp.com/contact).
 
-**Email:** hello@michaelsiddi.com
 **Sitio web:** [lunetteapp.com](https://lunetteapp.com)
