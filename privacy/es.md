@@ -1,6 +1,6 @@
 # Política de Privacidad
 
-**Última actualización:** 26 de mayo de 2026
+**Última actualización:** 9 de junio de 2026
 
 ## Resumen
 
@@ -20,8 +20,9 @@ Lunette realiza conexiones de red limitadas para los siguientes propósitos:
 
 - **Sincronización horaria:** La aplicación se conecta a servidores de tiempo públicos (time.apple.com, time.google.com) mediante el protocolo estándar NTP para proporcionar una referencia temporal precisa para la función de medición de precisión.
 - **Actualización del catálogo de relojes:** Al iniciarse, la aplicación puede descargar datos actualizados del catálogo de relojes (información de marcas y modelos) desde nuestros servidores para mantener actualizada la base de datos de referencia.
+- **Obtención de anuncios de la Wishlist:** Cuando añades o actualizas un artículo en la Wishlist, la aplicación carga la dirección (URL) que proporcionas —por ejemplo, Chrono24 o eBay— para extraer su precio e imagen. El sitio de destino puede recibir tu dirección IP y aplicar sus propias cookies y su propia política de privacidad. La aplicación no envía ningún otro dato personal tuyo a estos sitios.
 
-Estas conexiones no transmiten datos personales, identificadores del dispositivo ni contenido generado por el usuario.
+Salvo la obtención de anuncios de la Wishlist descrita anteriormente, estas conexiones no transmiten datos personales, identificadores del dispositivo ni contenido generado por el usuario.
 
 ## Almacenamiento de Datos
 
@@ -53,6 +54,8 @@ Lunette no integra ningún servicio de análisis, publicidad o seguimiento de te
 - Servicios de informes de errores
 - Redes publicitarias
 - Integraciones con redes sociales
+
+La única interacción con terceros ocurre por acción tuya: cuando añades un artículo a la Wishlist, la aplicación abre la URL del sitio de anuncios que proporcionas (p. ej., Chrono24, eBay) para obtener su precio e imagen, como se describe en la sección «Conexiones de Red».
 
 ## Compartición de Datos
 
