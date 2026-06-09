@@ -1,6 +1,6 @@
 # Nutzungsbedingungen
 
-**Zuletzt aktualisiert:** 24. Mai 2026
+**Zuletzt aktualisiert:** 9. Juni 2026
 
 ## 1. Zustimmung zu den Bedingungen
 
@@ -56,8 +56,9 @@ Die App verbindet sich mit folgenden externen Diensten:
 
 - **Zeitserver** (time.apple.com, time.google.com) zur Synchronisation der Genauigkeitsmessungen
 - **Uhrenkatalog-Server** für Aktualisierungen der Referenzdatenbank
+- **Wishlist-Angebotsseiten** (z. B. Chrono24, eBay): Wenn Sie einen Artikel zur Wishlist hinzufügen oder aktualisieren, lädt die App die von Ihnen angegebene URL, um deren Preis und Bild auszulesen. Diese Seiten können Ihre IP-Adresse erhalten und ihre eigenen Cookies und Richtlinien anwenden.
 
-Diese Verbindungen übertragen keine personenbezogenen Daten. Die App enthält keine Analytik, Werbung oder Social-Media-Integrationen Dritter.
+Mit Ausnahme des Ladens von Wishlist-Angeboten auf Ihre Aktion hin übertragen diese Verbindungen keine Ihrer personenbezogenen Daten. Die App enthält keine Analytik, Werbung oder Social-Media-Integrationen Dritter.
 
 ## 11. Gewährleistungsausschluss
 

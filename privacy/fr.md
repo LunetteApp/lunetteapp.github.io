@@ -1,6 +1,6 @@
 # Politique de Confidentialité
 
-**Dernière mise à jour :** 26 mai 2026
+**Dernière mise à jour :** 9 juin 2026
 
 ## Aperçu
 
@@ -20,8 +20,9 @@ Lunette effectue des connexions réseau limitées aux fins suivantes :
 
 - **Synchronisation horaire :** L'application se connecte à des serveurs de temps publics (time.apple.com, time.google.com) via le protocole standard NTP pour fournir une référence temporelle précise pour la fonction de mesure de précision.
 - **Mise à jour du catalogue de montres :** Au lancement, l'application peut télécharger des données mises à jour du catalogue de montres (informations sur les marques et modèles) depuis nos serveurs pour maintenir la base de données de référence à jour.
+- **Récupération des annonces de la Wishlist :** lorsque vous ajoutez ou actualisez un article dans la Wishlist, l'application charge l'adresse (URL) que vous fournissez — par exemple Chrono24 ou eBay — afin d'en extraire le prix et l'image. Le site de destination peut recevoir votre adresse IP et appliquer ses propres cookies et sa propre politique de confidentialité. L'application ne transmet aucune autre de vos données personnelles à ces sites.
 
-Ces connexions ne transmettent aucune donnée personnelle, identifiant d'appareil ou contenu généré par l'utilisateur.
+À l'exception de la récupération des annonces de la Wishlist décrite ci-dessus, ces connexions ne transmettent aucune donnée personnelle, identifiant d'appareil ou contenu généré par l'utilisateur.
 
 ## Stockage des Données
 
@@ -53,6 +54,8 @@ Lunette n'intègre aucun service d'analyse, de publicité ou de suivi tiers. Il 
 - De services de signalement d'erreurs
 - De réseaux publicitaires
 - D'intégrations avec les réseaux sociaux
+
+La seule interaction avec un tiers a lieu à votre initiative : lorsque vous ajoutez un article à la Wishlist, l'application ouvre l'URL du site d'annonces que vous fournissez (par ex. Chrono24, eBay) pour en récupérer le prix et l'image, comme décrit dans la section « Connexions Réseau ».
 
 ## Partage de Données
 

@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Last updated:** May 24, 2026
+**Last updated:** June 9, 2026
 
 ## 1. Agreement to Terms
 
@@ -56,8 +56,9 @@ The App connects to the following external services:
 
 - **Time servers** (time.apple.com, time.google.com) for accuracy measurement synchronization
 - **Watch catalog server** for reference database updates
+- **Wishlist listing sites** (e.g. Chrono24, eBay): when you add or refresh a Wishlist item, the App loads the URL you provide to extract its price and image. These sites may receive your IP address and apply their own cookies and policies.
 
-These connections transmit no personal data. The App contains no third-party analytics, advertising, or social media integrations.
+Apart from loading Wishlist listings on your action, these connections transmit no personal data of yours. The App contains no third-party analytics, advertising, or social media integrations.
 
 ## 11. Disclaimers
 
