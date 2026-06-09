@@ -100,7 +100,6 @@ Per i consumatori UE: nulla nelle presenti condizioni pregiudica i diritti previ
 
 ## Contatti
 
-Per domande sulle presenti condizioni, contattaci:
+Per domande sulle presenti condizioni, scrivici tramite il nostro [modulo di contatto](https://lunetteapp.com/contact).
 
-**Email:** hello@michaelsiddi.com
 **Sito web:** [lunetteapp.com](https://lunetteapp.com)

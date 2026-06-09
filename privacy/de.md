@@ -90,6 +90,4 @@ Diese Daten werden über [FormSubmit.co](https://formsubmit.co), einen Drittanbi
 
 ## Kontakt
 
-Bei Fragen zu dieser Datenschutzerklärung kontaktieren Sie uns unter:
-
-**E-Mail:** hello@michaelsiddi.com
+Bei Fragen zu dieser Datenschutzerklärung kontaktieren Sie uns über unser [Kontaktformular](https://lunetteapp.com/contact).

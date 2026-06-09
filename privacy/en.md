@@ -90,6 +90,4 @@ This data is processed through [FormSubmit.co](https://formsubmit.co), a third-p
 
 ## Contact
 
-If you have questions about this privacy policy, please contact us at:
-
-**Email:** hello@michaelsiddi.com
+If you have questions about this privacy policy, please reach out through our [contact form](https://lunetteapp.com/contact).

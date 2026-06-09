@@ -100,7 +100,6 @@ For EU consumers: nothing in these terms affects your statutory rights under app
 
 ## Contact
 
-If you have questions about these terms, please contact:
+If you have questions about these terms, please reach out through our [contact form](https://lunetteapp.com/contact).
 
-**Email:** hello@michaelsiddi.com
 **Website:** [lunetteapp.com](https://lunetteapp.com)

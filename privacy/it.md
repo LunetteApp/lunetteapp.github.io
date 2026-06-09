@@ -90,6 +90,4 @@ Questi dati vengono elaborati tramite [FormSubmit.co](https://formsubmit.co), un
 
 ## Contatti
 
-Per domande su questa informativa sulla privacy, contattaci a:
-
-**Email:** hello@michaelsiddi.com
+Per domande su questa informativa sulla privacy, scrivici tramite il nostro [modulo di contatto](https://lunetteapp.com/contact).
