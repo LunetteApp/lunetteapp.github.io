@@ -374,8 +374,18 @@
         }
     };
 
+    const urlParams = new URLSearchParams(window.location.search);
+    const appStoreLink = document.querySelector('a[href*="apps.apple.com/app/lunette"]');
+    const shouldOpenStore = urlParams.get('openStore') === 'true' && appStoreLink;
+
+    if (shouldOpenStore) {
+        window.setTimeout(() => {
+            window.location.replace(appStoreLink.href);
+        }, 1000);
+    }
+
     function detectLanguage() {
-        const urlLang = new URLSearchParams(window.location.search).get('lang');
+        const urlLang = urlParams.get('lang');
         if (urlLang && translations[urlLang]) return urlLang;
 
         const browserLang = (navigator.language || '').slice(0, 2).toLowerCase();
