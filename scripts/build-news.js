@@ -2,7 +2,7 @@
 
 const fs = require("fs/promises");
 const path = require("path");
-const crypto = require("crypto");
+const { contentHashForNews } = require("./news-hash");
 
 const ROOT = path.resolve(__dirname, "..");
 const CONFIG_PATH = path.join(ROOT, "feed_websites.json");
@@ -15,7 +15,10 @@ async function main() {
   const maxItemsPerSource = numberOr(config.max_items_per_source, 8);
   const timeoutMs = numberOr(config.request_timeout_ms, 15000);
   const sources = Array.isArray(config.sources) ? config.sources.filter((source) => source.enabled !== false) : [];
-  const premiumLinks = normalizePremiumLinks(config.premium?.links ?? config.premium_links ?? []);
+  const existingNews = await readExistingNews();
+  const premium = existingNews?.premium ?? {
+    links: normalizePremiumLinks(config.premium?.links ?? config.premium_links ?? [])
+  };
 
   const settled = await Promise.allSettled(
     sources.map(async (source) => {
@@ -37,9 +40,6 @@ async function main() {
     }
   }
 
-  const premium = {
-    links: premiumLinks
-  };
   const newsItems = dedupeByUrl(items)
     .sort(compareNewsPriority)
     .slice(0, maxItems)
@@ -53,14 +53,12 @@ async function main() {
       featured: item.featured,
       published_at: item.published_at
     }));
-  const contentHash = sha256Hex(JSON.stringify({ premium, items: newsItems }));
-
   const news = {
     last_updated: new Date().toISOString(),
-    content_hash: contentHash,
     premium,
     items: newsItems
   };
+  news.content_hash = contentHashForNews(news);
 
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
   await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(news, null, 2)}\n`);
@@ -93,6 +91,14 @@ function parseFeed(feedText, source) {
     return parseAtom(trimmed, source);
   }
   return parseRss(trimmed, source);
+}
+
+async function readExistingNews() {
+  try {
+    return JSON.parse(await fs.readFile(OUTPUT_PATH, "utf8"));
+  } catch {
+    return null;
+  }
 }
 
 function parseJsonFeed(text, source) {
@@ -318,10 +324,6 @@ function normalizePremiumLinks(links) {
       to
     };
   }).filter(Boolean);
-}
-
-function sha256Hex(value) {
-  return crypto.createHash("sha256").update(value).digest("hex");
 }
 
 function matchesSourceFilters(item, source) {
