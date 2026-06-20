@@ -39,17 +39,16 @@ async function main() {
   const items = [];
   for (let index = 0; index < settled.length; index += 1) {
     const result = settled[index];
-    const sourceName = sources[index]?.source_name ?? sources[index]?.feed_url ?? "Unknown";
     if (result.status === "fulfilled") {
       items.push(...result.value);
     } else {
       const fallbackItems = existingItemsForSource(existingNews, sources[index])
         .slice(0, maxItemsPerSource);
       if (fallbackItems.length > 0) {
-        console.warn(`Keeping ${fallbackItems.length} existing item(s) for ${sourceName} [${normalizeLang(sources[index]?.lang)}] ${sources[index]?.feed_url}: ${result.reason?.message ?? result.reason}`);
+        console.warn(`Keeping ${fallbackItems.length} existing item(s) for ${sourceLabel(sources[index])} - ${result.reason?.message ?? result.reason}`);
         items.push(...fallbackItems);
       } else {
-        console.warn(`Skipping ${sourceName} [${normalizeLang(sources[index]?.lang)}] ${sources[index]?.feed_url}: ${result.reason?.message ?? result.reason}`);
+        console.warn(`Skipping ${sourceLabel(sources[index])} - ${result.reason?.message ?? result.reason}`);
       }
     }
   }
@@ -148,8 +147,13 @@ function existingItemsForSource(existingNews, source) {
 }
 
 function logSourceResult(source, { parsedCount, acceptedCount, keptCount }) {
-  const sourceName = source.source_name || new URL(source.feed_url).hostname;
-  console.log(`${sourceName} [${normalizeLang(source.lang)}] ${source.feed_url}: parsed ${parsedCount}, accepted ${acceptedCount}, kept ${keptCount}`);
+  console.log(`${sourceLabel(source)} - parsed ${parsedCount}, accepted ${acceptedCount}, kept ${keptCount}`);
+}
+
+function sourceLabel(source) {
+  const feedUrl = source?.feed_url || "";
+  const sourceName = source?.source_name || (feedUrl ? new URL(feedUrl).hostname : "Unknown");
+  return `${sourceName} [${normalizeLang(source?.lang)}] url=${feedUrl}`;
 }
 
 function parseJsonFeed(text, source) {
