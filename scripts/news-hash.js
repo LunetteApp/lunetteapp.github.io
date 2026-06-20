@@ -15,19 +15,45 @@ function contentHashForNews(news) {
     .digest("hex");
 }
 
+function orderedNewsForOutput(news) {
+  const contentHash = contentHashForNews(news);
+  const {
+    content_hash: _contentHash,
+    last_updated: lastUpdated,
+    premium,
+    items,
+    ...rest
+  } = news;
+
+  return {
+    content_hash: contentHash,
+    last_updated: lastUpdated,
+    premium: premium ?? { links: [] },
+    items: Array.isArray(items) ? items : [],
+    ...rest
+  };
+}
+
+function serializedNews(news) {
+  return `${JSON.stringify(orderedNewsForOutput(news), null, 2)}\n`;
+}
+
 function updateNewsHashFile(filePath) {
   const news = JSON.parse(fs.readFileSync(filePath, "utf8"));
   const nextHash = contentHashForNews(news);
-  if (news.content_hash === nextHash) {
+  const nextContent = serializedNews(news);
+  const currentContent = fs.readFileSync(filePath, "utf8");
+  if (news.content_hash === nextHash && currentContent === nextContent) {
     return { changed: false, hash: nextHash };
   }
 
-  news.content_hash = nextHash;
-  fs.writeFileSync(filePath, `${JSON.stringify(news, null, 2)}\n`);
+  fs.writeFileSync(filePath, nextContent);
   return { changed: true, hash: nextHash };
 }
 
 module.exports = {
   contentHashForNews,
+  orderedNewsForOutput,
+  serializedNews,
   updateNewsHashFile
 };

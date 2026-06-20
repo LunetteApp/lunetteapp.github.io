@@ -2,12 +2,13 @@
 
 const fs = require("fs/promises");
 const path = require("path");
-const { contentHashForNews } = require("./news-hash");
+const { serializedNews } = require("./news-hash");
 
 const ROOT = path.resolve(__dirname, "..");
 const CONFIG_PATH = path.join(ROOT, "feed_websites.json");
 const OUTPUT_PATH = path.join(ROOT, "api", "v1", "news.json");
-const USER_AGENT = "LunetteNewsBot/1.0 (+https://lunetteapp.com)";
+const USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
+const MAX_FETCH_ATTEMPTS = 3;
 
 async function main() {
   const config = JSON.parse(await fs.readFile(CONFIG_PATH, "utf8"));
@@ -36,7 +37,14 @@ async function main() {
     if (result.status === "fulfilled") {
       items.push(...result.value);
     } else {
-      console.warn(`Skipping ${sourceName}: ${result.reason?.message ?? result.reason}`);
+      const fallbackItems = existingItemsForSource(existingNews, sources[index])
+        .slice(0, maxItemsPerSource);
+      if (fallbackItems.length > 0) {
+        console.warn(`Keeping ${fallbackItems.length} existing item(s) for ${sourceName}: ${result.reason?.message ?? result.reason}`);
+        items.push(...fallbackItems);
+      } else {
+        console.warn(`Skipping ${sourceName}: ${result.reason?.message ?? result.reason}`);
+      }
     }
   }
 
@@ -58,14 +66,29 @@ async function main() {
     premium,
     items: newsItems
   };
-  news.content_hash = contentHashForNews(news);
 
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
-  await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(news, null, 2)}\n`);
+  await fs.writeFile(OUTPUT_PATH, serializedNews(news));
   console.log(`Wrote ${news.items.length} news item(s) to ${path.relative(ROOT, OUTPUT_PATH)}`);
 }
 
 async function fetchText(url, timeoutMs) {
+  let lastError;
+  for (let attempt = 1; attempt <= MAX_FETCH_ATTEMPTS; attempt += 1) {
+    try {
+      return await fetchTextOnce(url, timeoutMs);
+    } catch (error) {
+      lastError = error;
+      if (attempt === MAX_FETCH_ATTEMPTS || !isRetryableFetchError(error)) {
+        throw error;
+      }
+      await sleep(500 * attempt);
+    }
+  }
+  throw lastError;
+}
+
+async function fetchTextOnce(url, timeoutMs) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), timeoutMs);
   try {
@@ -74,12 +97,22 @@ async function fetchText(url, timeoutMs) {
       signal: controller.signal
     });
     if (!response.ok) {
-      throw new Error(`HTTP ${response.status} for ${url}`);
+      const error = new Error(`HTTP ${response.status} for ${url}`);
+      error.status = response.status;
+      throw error;
     }
     return await response.text();
   } finally {
     clearTimeout(timeout);
   }
+}
+
+function isRetryableFetchError(error) {
+  return error?.name === "AbortError" || error?.status === 429 || (error?.status >= 500 && error?.status <= 599);
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function parseFeed(feedText, source) {
@@ -99,6 +132,13 @@ async function readExistingNews() {
   } catch {
     return null;
   }
+}
+
+function existingItemsForSource(existingNews, source) {
+  const items = Array.isArray(existingNews?.items) ? existingNews.items : [];
+  const sourceName = source.source_name || "";
+  const lang = normalizeLang(source.lang);
+  return items.filter((item) => item.source_name === sourceName && normalizeLang(item.lang) === lang);
 }
 
 function parseJsonFeed(text, source) {
