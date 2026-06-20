@@ -1,0 +1,99 @@
+{
+  "minimum_items": 1,
+  "urls": [
+    {
+      "source_name": "Fratello",
+      "lang": "en",
+      "feed_url": "https://www.fratellowatches.com/feed/"
+    },
+    {
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "feed_url": "https://wornandwound.com/feed/"
+    },
+    {
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "feed_url": "https://monochrome-watches.com/feed/"
+    },
+    {
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "feed_url": "https://www.ablogtowatch.com/feed/"
+    },
+    {
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "feed_url": "https://www.unpolishedwatches.com/feed"
+    },
+    {
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "feed_url": "https://www.perpetualpassion.com/feed/"
+    },
+    {
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "feed_url": "https://www.watchinsanity.it/feed/"
+    },
+    {
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "feed_url": "https://www.orologidiclasse.com/feed/"
+    },
+    {
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "feed_url": "https://giornaleorologi.it/feed/"
+    },
+    {
+      "source_name": "Horbiter",
+      "lang": "it",
+      "feed_url": "https://www.horbiter.com/feed/",
+      "candidate": true,
+      "note": "Homepage does not advertise RSS; common WordPress feed endpoint needs validation."
+    },
+    {
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "feed_url": "https://www.mrmontre.com/feed/"
+    },
+    {
+      "source_name": "Le Calibre",
+      "lang": "fr",
+      "feed_url": "https://lecalibre.com/feed/"
+    },
+    {
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "feed_url": "https://www.uhrenkosmos.com/feed/"
+    },
+    {
+      "source_name": "SaFonaGastroCrono",
+      "lang": "es",
+      "feed_url": "https://www.safonagastrocrono.club/feed/"
+    },
+    {
+      "source_name": "deRelojes",
+      "lang": "es",
+      "feed_url": "https://derelojes.com/feed/"
+    },
+    {
+      "source_name": "webChronos",
+      "lang": "ja",
+      "feed_url": "https://www.webchronos.net/feed/?post_type=article"
+    },
+    {
+      "source_name": "Hypebeast Korea",
+      "lang": "ko",
+      "feed_url": "https://hypebeast.kr/feed",
+      "include_keywords": ["시계", "손목시계", "롤렉스", "오메가", "파텍", "세이코", "튜더", "까르띠에", "브라이틀링", "태그호이어"]
+    },
+    {
+      "source_name": "Hypebeast China",
+      "lang": "zh-Hans",
+      "feed_url": "https://hypebeast.cn/feed",
+      "include_keywords": ["手表", "腕表", "钟表", "劳力士", "欧米茄", "百达翡丽", "精工", "帝舵", "卡地亚", "百年灵", "泰格豪雅"]
+    }
+  ]
+}
