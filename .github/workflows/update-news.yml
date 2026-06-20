@@ -28,9 +28,6 @@ jobs:
       - name: Build news JSON
         run: node scripts/build-news.js
 
-      - name: Recalculate news hash
-        run: node scripts/update-news-hash.js
-
       - name: Commit updated news JSON
         run: |
           if git diff --quiet -- api/v1/news.json; then
@@ -43,3 +40,7 @@ jobs:
           git add api/v1/news.json
           git commit -m "Update news feed"
           git push
+
+  update-news-hash:
+    needs: update-news
+    uses: ./.github/workflows/update-news-hash.yml
