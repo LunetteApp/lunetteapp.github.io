@@ -7,7 +7,10 @@ const { serializedNews } = require("./news-hash");
 const ROOT = path.resolve(__dirname, "..");
 const CONFIG_PATH = path.join(ROOT, "feed_websites.json");
 const OUTPUT_PATH = path.join(ROOT, "api", "v1", "news.json");
-const USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
+// Identify as a feed fetcher rather than Chrome: sites behind Cloudflare's bot WAF
+// (e.g. aBlogtoWatch) 403 a browser UA that can't solve the JS challenge, but allow
+// honest RSS-reader UAs through.
+const USER_AGENT = "Lunette/1.0 (+https://lunetteapp.com; FeedFetcher; like FeedFetcher-Google)";
 const MAX_FETCH_ATTEMPTS = 3;
 
 async function main() {
@@ -98,7 +101,11 @@ async function fetchTextOnce(url, timeoutMs) {
   const timeout = setTimeout(() => controller.abort(), timeoutMs);
   try {
     const response = await fetch(url, {
-      headers: { "User-Agent": USER_AGENT, Accept: "application/rss+xml, application/atom+xml, application/feed+json, application/json, text/xml;q=0.9, */*;q=0.5" },
+      headers: {
+        "User-Agent": USER_AGENT,
+        Accept: "application/rss+xml, application/atom+xml, application/feed+json, application/json, text/xml;q=0.9, */*;q=0.5",
+        "Accept-Language": "en-US,en;q=0.9"
+      },
       signal: controller.signal
     });
     if (!response.ok) {
