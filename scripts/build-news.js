@@ -251,12 +251,26 @@ function atomLink(xml) {
 function extractImage(xml) {
   return firstAttr(xml, "media:content", "url")
     || firstAttr(xml, "media:thumbnail", "url")
-    || firstAttr(xml, "enclosure", "url")
+    || imageEnclosure(xml)
     || firstAttr(xml, "itunes:image", "href")
     || firstImageFromHtml(firstText(xml, "content:encoded"))
     || firstImageFromHtml(firstText(xml, "description"))
     || firstImageFromHtml(firstText(xml, "summary"))
     || "";
+}
+
+// Returns an enclosure URL only when it isn't audio/video (e.g. podcast feeds
+// such as Substack attach an audio/mpeg enclosure that is not an image).
+function imageEnclosure(xml) {
+  const tags = xml.match(/<enclosure\b[^>]*>/gi) || [];
+  for (const tag of tags) {
+    const typeMatch = tag.match(/\btype=["']([^"']+)["']/i);
+    const type = typeMatch ? typeMatch[1].toLowerCase() : "";
+    if (type.startsWith("audio/") || type.startsWith("video/")) continue;
+    const urlMatch = tag.match(/\burl=["']([^"']+)["']/i);
+    if (urlMatch) return decodeXml(urlMatch[1]).trim();
+  }
+  return "";
 }
 
 function firstImageFromHtml(html) {
