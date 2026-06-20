@@ -1,0 +1,114 @@
+{
+  "max_items": 120,
+  "max_items_per_source": 8,
+  "request_timeout_ms": 15000,
+  "premium": {
+    "links": []
+  },
+  "sources": [
+    {
+      "source_name": "Fratello",
+      "feed_url": "https://www.fratellowatches.com/feed/",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "Worn & Wound",
+      "feed_url": "https://wornandwound.com/feed/",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "Monochrome Watches",
+      "feed_url": "https://monochrome-watches.com/feed/",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "aBlogtoWatch",
+      "feed_url": "https://www.ablogtowatch.com/feed/",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "Unpolished Watches",
+      "feed_url": "https://www.unpolishedwatches.com/feed",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "Perpetual Passion",
+      "feed_url": "https://www.perpetualpassion.com/feed/",
+      "lang": "it",
+      "enabled": true
+    },
+    {
+      "source_name": "Watch Insanity",
+      "feed_url": "https://www.watchinsanity.it/feed/",
+      "lang": "it",
+      "enabled": true
+    },
+    {
+      "source_name": "Orologi di Classe",
+      "feed_url": "https://www.orologidiclasse.com/feed/",
+      "lang": "it",
+      "enabled": true
+    },
+    {
+      "source_name": "Giornale degli Orologi",
+      "feed_url": "https://giornaleorologi.it/feed/",
+      "lang": "it",
+      "enabled": true
+    },
+    {
+      "source_name": "Mr Montre",
+      "feed_url": "https://www.mrmontre.com/feed/",
+      "lang": "fr",
+      "enabled": true
+    },
+    {
+      "source_name": "Le Calibre",
+      "feed_url": "https://lecalibre.com/feed/",
+      "lang": "fr",
+      "enabled": true
+    },
+    {
+      "source_name": "Uhrenkosmos",
+      "feed_url": "https://www.uhrenkosmos.com/feed/",
+      "lang": "de",
+      "enabled": true
+    },
+    {
+      "source_name": "SaFonaGastroCrono",
+      "feed_url": "https://www.safonagastrocrono.club/feed/",
+      "lang": "es",
+      "enabled": true
+    },
+    {
+      "source_name": "deRelojes",
+      "feed_url": "https://derelojes.com/feed/",
+      "lang": "es",
+      "enabled": true
+    },
+    {
+      "source_name": "webChronos",
+      "feed_url": "https://www.webchronos.net/feed/?post_type=article",
+      "lang": "ja",
+      "enabled": true
+    },
+    {
+      "source_name": "Hypebeast Korea",
+      "feed_url": "https://hypebeast.kr/feed",
+      "lang": "ko",
+      "include_keywords": ["시계", "손목시계", "롤렉스", "오메가", "파텍", "세이코", "튜더", "까르띠에", "브라이틀링", "태그호이어", "watch", "watches", "gmt", "miyota"],
+      "enabled": true
+    },
+    {
+      "source_name": "Hypebeast China",
+      "feed_url": "https://hypebeast.cn/feed",
+      "lang": "zh-Hans",
+      "include_keywords": ["手表", "腕表", "钟表", "劳力士", "欧米茄", "百达翡丽", "精工", "帝舵", "卡地亚", "百年灵", "泰格豪雅"],
+      "enabled": true
+    }
+  ]
+}
