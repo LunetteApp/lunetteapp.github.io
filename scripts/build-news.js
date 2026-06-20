@@ -24,9 +24,15 @@ async function main() {
   const settled = await Promise.allSettled(
     sources.map(async (source) => {
       const feedText = await fetchText(source.feed_url, timeoutMs);
-      return parseFeed(feedText, source)
-        .filter((item) => matchesSourceFilters(item, source))
-        .slice(0, maxItemsPerSource);
+      const parsedItems = parseFeed(feedText, source);
+      const acceptedItems = parsedItems.filter((item) => matchesSourceFilters(item, source));
+      const keptItems = acceptedItems.slice(0, maxItemsPerSource);
+      logSourceResult(source, {
+        parsedCount: parsedItems.length,
+        acceptedCount: acceptedItems.length,
+        keptCount: keptItems.length
+      });
+      return keptItems;
     })
   );
 
@@ -40,10 +46,10 @@ async function main() {
       const fallbackItems = existingItemsForSource(existingNews, sources[index])
         .slice(0, maxItemsPerSource);
       if (fallbackItems.length > 0) {
-        console.warn(`Keeping ${fallbackItems.length} existing item(s) for ${sourceName}: ${result.reason?.message ?? result.reason}`);
+        console.warn(`Keeping ${fallbackItems.length} existing item(s) for ${sourceName} [${normalizeLang(sources[index]?.lang)}] ${sources[index]?.feed_url}: ${result.reason?.message ?? result.reason}`);
         items.push(...fallbackItems);
       } else {
-        console.warn(`Skipping ${sourceName}: ${result.reason?.message ?? result.reason}`);
+        console.warn(`Skipping ${sourceName} [${normalizeLang(sources[index]?.lang)}] ${sources[index]?.feed_url}: ${result.reason?.message ?? result.reason}`);
       }
     }
   }
@@ -139,6 +145,11 @@ function existingItemsForSource(existingNews, source) {
   const sourceName = source.source_name || "";
   const lang = normalizeLang(source.lang);
   return items.filter((item) => item.source_name === sourceName && normalizeLang(item.lang) === lang);
+}
+
+function logSourceResult(source, { parsedCount, acceptedCount, keptCount }) {
+  const sourceName = source.source_name || new URL(source.feed_url).hostname;
+  console.log(`${sourceName} [${normalizeLang(source.lang)}] ${source.feed_url}: parsed ${parsedCount}, accepted ${acceptedCount}, kept ${keptCount}`);
 }
 
 function parseJsonFeed(text, source) {
