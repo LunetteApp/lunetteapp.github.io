@@ -90,7 +90,7 @@ async function fetchText(url, timeoutMs) {
       if (attempt === MAX_FETCH_ATTEMPTS || !isRetryableFetchError(error)) {
         throw error;
       }
-      await sleep(500 * attempt);
+      await sleep(2000 * attempt);
     }
   }
   throw lastError;
@@ -120,7 +120,9 @@ async function fetchTextOnce(url, timeoutMs) {
 }
 
 function isRetryableFetchError(error) {
-  return error?.name === "AbortError" || error?.status === 429 || (error?.status >= 500 && error?.status <= 599);
+  // 403 included: Cloudflare/WAF datacenter-IP blocks are often transient and
+  // clear on a retry a couple seconds later.
+  return error?.name === "AbortError" || error?.status === 403 || error?.status === 429 || (error?.status >= 500 && error?.status <= 599);
 }
 
 function sleep(ms) {
