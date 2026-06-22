@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** June 9, 2026
+**Last updated:** June 22, 2026
 
 ## Overview
 
@@ -21,6 +21,7 @@ Lunette makes limited network connections for the following purposes:
 - **Time synchronization:** The app connects to public time servers (time.apple.com, time.google.com) using the standard NTP protocol to provide accurate time reference for the accuracy measurement feature.
 - **Watch catalog updates:** At launch, the app may download updated watch catalog data (brand and model information) from our servers to keep the reference database current.
 - **Wishlist listing retrieval:** When you add or refresh a Wishlist item, the app loads the address (URL) you provide — for example Chrono24 or eBay — to extract its price and image. The destination site may receive your IP address and apply its own cookies and privacy policy. The app sends no other personal data of yours to these sites.
+- **News feed:** The app retrieves news from a selection of external websites specialized in watches and loads the associated article thumbnails. If you open an article, it opens in an in-app browser view; the news site you visit may receive your IP address and apply its own cookies and privacy policy. The app sends no personal data of yours when fetching the news or its images.
 
 Apart from the Wishlist listing retrieval described above, these connections transmit no personal data, device identifiers, or user-generated content.
 
