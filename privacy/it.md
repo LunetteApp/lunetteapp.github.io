@@ -1,6 +1,6 @@
 # Informativa sulla Privacy
 
-**Ultimo aggiornamento:** 9 giugno 2026
+**Ultimo aggiornamento:** 22 giugno 2026
 
 ## Panoramica
 
@@ -21,6 +21,7 @@ Lunette effettua connessioni di rete limitate per i seguenti scopi:
 - **Sincronizzazione oraria:** L'app si connette a server temporali pubblici (time.apple.com, time.google.com) tramite il protocollo standard NTP per fornire un riferimento temporale preciso per la funzione di misurazione della precisione.
 - **Aggiornamento catalogo orologi:** All'avvio, l'app può scaricare dati aggiornati del catalogo orologi (informazioni su marche e modelli) dai nostri server per mantenere aggiornato il database di riferimento.
 - **Recupero annunci Wishlist:** quando aggiungi o aggiorni un articolo nella Wishlist, l'app carica l'indirizzo (URL) che fornisci — ad esempio Chrono24 o eBay — per estrarne il prezzo e l'immagine. Il sito di destinazione può ricevere il tuo indirizzo IP e applicare i propri cookie e la propria informativa sulla privacy. L'app non invia a questi siti alcun altro tuo dato personale.
+- **Feed di notizie:** L'app recupera notizie da una selezione di siti web esterni specializzati in orologi e carica le relative miniature degli articoli. Se apri un articolo, questo si apre in una vista browser integrata nell'app; il sito di notizie che visiti può ricevere il tuo indirizzo IP e applicare i propri cookie e la propria informativa sulla privacy. L'app non invia alcun tuo dato personale durante il recupero delle notizie o delle sue immagini.
 
 Ad eccezione del recupero degli annunci della Wishlist descritto sopra, queste connessioni non trasmettono dati personali, identificativi del dispositivo o contenuti generati dall'utente.
 

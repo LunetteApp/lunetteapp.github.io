@@ -1,6 +1,6 @@
 # Politique de Confidentialité
 
-**Dernière mise à jour :** 9 juin 2026
+**Dernière mise à jour :** 22 juin 2026
 
 ## Aperçu
 
@@ -21,6 +21,7 @@ Lunette effectue des connexions réseau limitées aux fins suivantes :
 - **Synchronisation horaire :** L'application se connecte à des serveurs de temps publics (time.apple.com, time.google.com) via le protocole standard NTP pour fournir une référence temporelle précise pour la fonction de mesure de précision.
 - **Mise à jour du catalogue de montres :** Au lancement, l'application peut télécharger des données mises à jour du catalogue de montres (informations sur les marques et modèles) depuis nos serveurs pour maintenir la base de données de référence à jour.
 - **Récupération des annonces de la Wishlist :** lorsque vous ajoutez ou actualisez un article dans la Wishlist, l'application charge l'adresse (URL) que vous fournissez — par exemple Chrono24 ou eBay — afin d'en extraire le prix et l'image. Le site de destination peut recevoir votre adresse IP et appliquer ses propres cookies et sa propre politique de confidentialité. L'application ne transmet aucune autre de vos données personnelles à ces sites.
+- **Fil d'actualités :** l'application récupère des actualités depuis une sélection de sites web externes spécialisés dans les montres, ainsi que les vignettes des articles associés. Si vous ouvrez un article, celui-ci s'ouvre dans une vue de navigateur intégrée à l'application ; le site d'actualités que vous consultez peut recevoir votre adresse IP et appliquer ses propres cookies et sa propre politique de confidentialité. L'application ne transmet aucune de vos données personnelles lors de la récupération des actualités ou de leurs images.
 
 À l'exception de la récupération des annonces de la Wishlist décrite ci-dessus, ces connexions ne transmettent aucune donnée personnelle, identifiant d'appareil ou contenu généré par l'utilisateur.
 

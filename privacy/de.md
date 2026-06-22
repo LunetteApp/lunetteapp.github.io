@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-**Letzte Aktualisierung:** 9. Juni 2026
+**Letzte Aktualisierung:** 22. Juni 2026
 
 ## Überblick
 
@@ -21,6 +21,7 @@ Lunette stellt begrenzte Netzwerkverbindungen für folgende Zwecke her:
 - **Zeitsynchronisation:** Die App verbindet sich mit öffentlichen Zeitservern (time.apple.com, time.google.com) über das Standard-NTP-Protokoll, um eine genaue Zeitreferenz für die Genauigkeitsmessfunktion bereitzustellen.
 - **Uhrenkatalog-Aktualisierung:** Beim Start kann die App aktualisierte Uhrenkatalogdaten (Marken- und Modellinformationen) von unseren Servern herunterladen, um die Referenzdatenbank aktuell zu halten.
 - **Abruf von Wishlist-Angeboten:** Wenn Sie einen Artikel zur Wishlist hinzufügen oder aktualisieren, lädt die App die von Ihnen angegebene Adresse (URL) — zum Beispiel Chrono24 oder eBay —, um Preis und Bild auszulesen. Die Zielwebsite kann Ihre IP-Adresse erhalten und ihre eigenen Cookies und Datenschutzbestimmungen anwenden. Die App sendet keine weiteren personenbezogenen Daten von Ihnen an diese Websites.
+- **News-Feed:** Die App ruft Nachrichten von einer Auswahl externer, auf Uhren spezialisierter Websites ab und lädt die zugehörigen Artikel-Vorschaubilder. Wenn Sie einen Artikel öffnen, wird dieser in einer In-App-Browseransicht angezeigt; die von Ihnen besuchte News-Website kann Ihre IP-Adresse erhalten und ihre eigenen Cookies und Datenschutzbestimmungen anwenden. Beim Abruf der News oder ihrer Bilder sendet die App keine personenbezogenen Daten von Ihnen.
 
 Mit Ausnahme des oben beschriebenen Abrufs von Wishlist-Angeboten übertragen diese Verbindungen keine personenbezogenen Daten, Gerätekennungen oder nutzergenerierte Inhalte.
 
