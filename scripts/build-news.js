@@ -7,10 +7,16 @@ const { serializedNews } = require("./news-hash");
 const ROOT = path.resolve(__dirname, "..");
 const CONFIG_PATH = path.join(ROOT, "feed_websites.json");
 const OUTPUT_PATH = path.join(ROOT, "api", "v1", "news.json");
-// Identify as a feed fetcher rather than Chrome: sites behind Cloudflare's bot WAF
-// (e.g. aBlogtoWatch) 403 a browser UA that can't solve the JS challenge, but allow
-// honest RSS-reader UAs through.
-const USER_AGENT = "Lunette/1.0 (+https://lunetteapp.com; FeedFetcher; like FeedFetcher-Google)";
+
+const USER_AGENTS = [
+  "Lunette/1.0 (+https://lunetteapp.com; RSS reader)",
+  "LunetteFeedFetcher/1.0 (+https://lunetteapp.com)",
+  "LunetteNewsFetcher/1.0 (+https://lunetteapp.com; RSS reader)",
+  "LunetteRSSBot/1.0 (+https://lunetteapp.com)",
+  "LunetteFeedReader/1.0 (+https://lunetteapp.com)"
+];
+
+const USER_AGENT_RUN_OFFSET = Math.floor(Math.random() * USER_AGENTS.length);
 const MAX_FETCH_ATTEMPTS = 3;
 
 async function main() {
@@ -19,6 +25,7 @@ async function main() {
   const maxItemsPerSource = numberOr(config.max_items_per_source, 8);
   const timeoutMs = numberOr(config.request_timeout_ms, 15000);
   const sources = Array.isArray(config.sources) ? config.sources.filter((source) => source.enabled !== false) : [];
+
   const existingNews = await readExistingNews();
   const premium = existingNews?.premium ?? {
     links: normalizePremiumLinks(config.premium?.links ?? config.premium_links ?? [])
@@ -30,23 +37,28 @@ async function main() {
       const parsedItems = parseFeed(feedText, source);
       const acceptedItems = parsedItems.filter((item) => matchesSourceFilters(item, source));
       const keptItems = acceptedItems.slice(0, maxItemsPerSource);
+
       logSourceResult(source, {
         parsedCount: parsedItems.length,
         acceptedCount: acceptedItems.length,
         keptCount: keptItems.length
       });
+
       return keptItems;
     })
   );
 
   const items = [];
+
   for (let index = 0; index < settled.length; index += 1) {
     const result = settled[index];
+
     if (result.status === "fulfilled") {
       items.push(...result.value);
     } else {
       const fallbackItems = existingItemsForSource(existingNews, sources[index])
         .slice(0, maxItemsPerSource);
+
       if (fallbackItems.length > 0) {
         console.warn(`Keeping ${fallbackItems.length} existing item(s) for ${sourceLabel(sources[index])} - ${result.reason?.message ?? result.reason}`);
         items.push(...fallbackItems);
@@ -69,6 +81,7 @@ async function main() {
       featured: item.featured,
       published_at: item.published_at
     }));
+
   const news = {
     last_updated: new Date().toISOString(),
     premium,
@@ -82,47 +95,74 @@ async function main() {
 
 async function fetchText(url, timeoutMs) {
   let lastError;
+
   for (let attempt = 1; attempt <= MAX_FETCH_ATTEMPTS; attempt += 1) {
     try {
-      return await fetchTextOnce(url, timeoutMs);
+      return await fetchTextOnce(url, timeoutMs, attempt);
     } catch (error) {
       lastError = error;
+
       if (attempt === MAX_FETCH_ATTEMPTS || !isRetryableFetchError(error)) {
         throw error;
       }
+
       await sleep(2000 * attempt);
     }
   }
+
   throw lastError;
 }
 
-async function fetchTextOnce(url, timeoutMs) {
+async function fetchTextOnce(url, timeoutMs, attempt) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), timeoutMs);
+  const userAgent = userAgentForRequest(url, attempt);
+
   try {
     const response = await fetch(url, {
       headers: {
-        "User-Agent": USER_AGENT,
-        Accept: "application/rss+xml, application/atom+xml, application/feed+json, application/json, text/xml;q=0.9, */*;q=0.5",
-        "Accept-Language": "en-US,en;q=0.9"
+        "User-Agent": userAgent,
+        Accept: "application/rss+xml, application/atom+xml, application/feed+json, application/json, text/xml;q=0.9, application/xml;q=0.8, */*;q=0.5",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cache-Control": "no-cache",
+        Pragma: "no-cache"
       },
       signal: controller.signal
     });
+
     if (!response.ok) {
       const error = new Error(`HTTP ${response.status} for ${url}`);
       error.status = response.status;
       throw error;
     }
+
     return await response.text();
   } finally {
     clearTimeout(timeout);
   }
 }
 
+function userAgentForRequest(url, attempt) {
+  const seed = hashString(`${url}:${Date.now()}:${process.pid}:${attempt}`);
+  const index = (seed + USER_AGENT_RUN_OFFSET + attempt) % USER_AGENTS.length;
+  return USER_AGENTS[index];
+}
+
+function hashString(value) {
+  let hash = 0;
+
+  for (let index = 0; index < value.length; index += 1) {
+    hash = ((hash << 5) - hash + value.charCodeAt(index)) | 0;
+  }
+
+  return Math.abs(hash);
+}
+
 function isRetryableFetchError(error) {
-  // 403 included: Cloudflare/WAF datacenter-IP blocks are often transient and
-  // clear on a retry a couple seconds later.
-  return error?.name === "AbortError" || error?.status === 403 || error?.status === 429 || (error?.status >= 500 && error?.status <= 599);
+  return error?.name === "AbortError"
+    || error?.status === 403
+    || error?.status === 429
+    || (error?.status >= 500 && error?.status <= 599);
 }
 
 function sleep(ms) {
@@ -131,12 +171,15 @@ function sleep(ms) {
 
 function parseFeed(feedText, source) {
   const trimmed = feedText.trim();
+
   if (trimmed.startsWith("{")) {
     return parseJsonFeed(trimmed, source);
   }
+
   if (/<entry[\s>]/i.test(trimmed)) {
     return parseAtom(trimmed, source);
   }
+
   return parseRss(trimmed, source);
 }
 
@@ -152,6 +195,7 @@ function existingItemsForSource(existingNews, source) {
   const items = Array.isArray(existingNews?.items) ? existingNews.items : [];
   const sourceName = source.source_name || "";
   const lang = normalizeLang(source.lang);
+
   return items.filter((item) => item.source_name === sourceName && normalizeLang(item.lang) === lang);
 }
 
@@ -162,12 +206,14 @@ function logSourceResult(source, { parsedCount, acceptedCount, keptCount }) {
 function sourceLabel(source) {
   const feedUrl = source?.feed_url || "";
   const sourceName = source?.source_name || (feedUrl ? new URL(feedUrl).hostname : "Unknown");
+
   return `${sourceName} [${normalizeLang(source?.lang)}] url=${feedUrl}`;
 }
 
 function parseJsonFeed(text, source) {
   const feed = JSON.parse(text);
   const items = Array.isArray(feed.items) ? feed.items : [];
+
   return items.map((item) => normalizeItem({
     title: item.title,
     url: item.url ?? item.external_url,
@@ -205,8 +251,10 @@ function normalizeItem({ title, url, image, previewHtml, publishedAt, itemSource
   const resolvedSourceName = source.use_item_source_name && itemSourceName
     ? cleanText(itemSourceName)
     : source.source_name || new URL(source.feed_url).hostname;
+
   const cleanTitle = cleanNewsTitle(cleanText(title), resolvedSourceName);
   const absoluteUrl = absolutize(url, source.feed_url);
+
   if (!cleanTitle || !absoluteUrl) return null;
 
   const preview = truncate(cleanText(previewHtml), 220);
@@ -233,20 +281,24 @@ function blocks(xml, tagName) {
 function firstText(xml, tagName) {
   const pattern = new RegExp(`<${escapeRegExp(tagName)}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${escapeRegExp(tagName)}>`, "i");
   const match = xml.match(pattern);
+
   return match ? decodeXml(stripCdata(match[1])).trim() : "";
 }
 
 function firstAttr(xml, tagName, attrName) {
   const pattern = new RegExp(`<${escapeRegExp(tagName)}\\b[^>]*\\s${escapeRegExp(attrName)}=["']([^"']+)["'][^>]*>`, "i");
   const match = xml.match(pattern);
+
   return match ? decodeXml(match[1]).trim() : "";
 }
 
 function atomLink(xml) {
   const alternate = xml.match(/<link\b(?=[^>]*\brel=["']alternate["'])[^>]*\bhref=["']([^"']+)["'][^>]*>/i);
   if (alternate) return decodeXml(alternate[1]).trim();
+
   const anyHref = xml.match(/<link\b[^>]*\bhref=["']([^"']+)["'][^>]*>/i);
   if (anyHref) return decodeXml(anyHref[1]).trim();
+
   return firstText(xml, "link");
 }
 
@@ -261,17 +313,19 @@ function extractImage(xml) {
     || "";
 }
 
-// Returns an enclosure URL only when it isn't audio/video (e.g. podcast feeds
-// such as Substack attach an audio/mpeg enclosure that is not an image).
 function imageEnclosure(xml) {
   const tags = xml.match(/<enclosure\b[^>]*>/gi) || [];
+
   for (const tag of tags) {
     const typeMatch = tag.match(/\btype=["']([^"']+)["']/i);
     const type = typeMatch ? typeMatch[1].toLowerCase() : "";
+
     if (type.startsWith("audio/") || type.startsWith("video/")) continue;
+
     const urlMatch = tag.match(/\burl=["']([^"']+)["']/i);
     if (urlMatch) return decodeXml(urlMatch[1]).trim();
   }
+
   return "";
 }
 
@@ -291,6 +345,7 @@ function cleanText(value) {
 
 function cleanNewsTitle(title, sourceName) {
   if (!title || !sourceName) return title;
+
   const suffix = ` - ${sourceName}`;
   return title.endsWith(suffix) ? title.slice(0, -suffix.length).trim() : title;
 }
@@ -312,7 +367,9 @@ function decodeXml(value) {
 
 function absolutize(value, baseUrl) {
   const trimmed = String(value || "").trim();
+
   if (!trimmed) return null;
+
   try {
     return new URL(trimmed, baseUrl).toString();
   } catch {
@@ -328,12 +385,16 @@ function parseDate(value) {
 function dedupeByUrl(items) {
   const seen = new Set();
   const deduped = [];
+
   for (const item of items) {
     const key = item.url.replace(/[#?].*$/, "");
+
     if (seen.has(key)) continue;
+
     seen.add(key);
     deduped.push(item);
   }
+
   return deduped;
 }
 
@@ -341,8 +402,10 @@ function compareNewsPriority(a, b) {
   if (Boolean(a.featured) !== Boolean(b.featured)) {
     return a.featured ? -1 : 1;
   }
+
   const aTime = Date.parse(a.published_at || "") || 0;
   const bTime = Date.parse(b.published_at || "") || 0;
+
   return bTime - aTime;
 }
 
@@ -357,14 +420,19 @@ function numberOr(value, fallback) {
 
 function normalizeLang(value) {
   const parts = String(value || "und").trim().split("-");
+
   if (!parts[0]) return "und";
+
   const normalized = parts.map((part, index) => {
     const lower = part.toLowerCase();
+
     if (index === 1 && lower.length === 4) {
       return `${lower[0].toUpperCase()}${lower.slice(1)}`;
     }
+
     return lower;
   }).join("-");
+
   return /^[a-z]{2,3}(-[A-Za-z0-9]{2,8})*$/.test(normalized) ? normalized : "und";
 }
 
@@ -375,21 +443,27 @@ function normalizeLanguageList(value) {
 
 function isFeatured(title, preview, source) {
   if (source.featured === true) return true;
+
   const keywords = Array.isArray(source.featured_keywords) ? source.featured_keywords : [];
+
   if (keywords.length === 0) return false;
+
   const haystack = normalizeForSearch([title, preview, source.source_name].filter(Boolean).join(" "));
   return keywords.some((keyword) => haystack.includes(normalizeForSearch(keyword)));
 }
 
 function normalizePremiumLinks(links) {
   if (!Array.isArray(links)) return [];
+
   return links.map((link) => {
     const url = absolutize(link.url, "https://lunetteapp.com/");
     const from = parseDate(link.from);
     const to = parseDate(link.to);
     const languages = normalizeLanguageList(link.languages);
     const title = cleanText(link.title);
+
     if (!url || !from || !to || languages.length === 0 || !title) return null;
+
     return {
       title,
       url,
@@ -412,11 +486,13 @@ function matchesSourceFilters(item, source) {
   ].filter(Boolean).join(" "));
 
   const includeKeywords = Array.isArray(source.include_keywords) ? source.include_keywords : [];
+
   if (includeKeywords.length > 0 && !includeKeywords.some((keyword) => haystack.includes(normalizeForSearch(keyword)))) {
     return false;
   }
 
   const excludeKeywords = Array.isArray(source.exclude_keywords) ? source.exclude_keywords : [];
+
   if (excludeKeywords.some((keyword) => haystack.includes(normalizeForSearch(keyword)))) {
     return false;
   }
