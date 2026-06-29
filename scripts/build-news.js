@@ -285,7 +285,51 @@ async function fetchTextFallback(url, timeoutMs) {
     }
   }
 
+  // Last resort: headless Chromium via Playwright (handles Cloudflare JS challenges).
+  const playwrightResult = await fetchTextPlaywright(url, timeoutMs);
+  if (playwrightResult !== null) return playwrightResult;
+
   return null;
+}
+
+async function fetchTextPlaywright(url, timeoutMs) {
+  let playwright;
+  try {
+    playwright = require("playwright");
+  } catch {
+    console.warn("  [playwright] not available, skipping");
+    return null;
+  }
+
+  let browser;
+  try {
+    browser = await playwright.chromium.launch({ headless: true });
+    const context = await browser.newContext({
+      userAgent: BROWSER_USER_AGENTS[0],
+      extraHTTPHeaders: {
+        "Accept": "application/rss+xml, application/atom+xml, text/xml, application/xml, */*",
+        "Accept-Language": "en-US,en;q=0.9"
+      }
+    });
+    const page = await context.newPage();
+    await page.goto(url, { waitUntil: "networkidle", timeout: timeoutMs });
+    // Wait a moment for any JS challenge to resolve and redirect.
+    await page.waitForTimeout(3000);
+    const content = await page.content();
+    const trimmed = content ? content.trim() : "";
+    const preview = trimmed.slice(0, 120).replace(/\s+/g, " ");
+    if (trimmed && looksLikeFeed(trimmed)) {
+      console.log(`  [playwright] succeeded for ${url}`);
+      return content;
+    }
+    console.warn(`  [playwright] not a feed for ${url}: ${preview}`);
+    return null;
+  } catch (err) {
+    console.warn(`  [playwright] failed for ${url}: ${err.message}`);
+    return null;
+  } finally {
+    if (browser) await browser.close().catch(() => {});
+  }
 }
 
 function runCommand(cmd, args, timeoutMs) {

@@ -25,6 +25,9 @@ jobs:
         with:
           node-version: "24"
 
+      - name: Install Playwright Chromium
+        run: npx --yes playwright install chromium --with-deps
+
       - name: Build news JSON
         run: node scripts/build-news.js
 
