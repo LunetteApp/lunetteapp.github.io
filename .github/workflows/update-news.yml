@@ -28,23 +28,6 @@ jobs:
       - name: Build news JSON
         run: node scripts/build-news.js
 
-      - name: Check if Playwright retry needed
-        id: check_playwright
-        run: |
-          if [ -f .playwright-needed ]; then
-            echo "needed=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "needed=false" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Install Playwright Chromium (if needed)
-        if: steps.check_playwright.outputs.needed == 'true'
-        run: npm install playwright && npx playwright install chromium --with-deps
-
-      - name: Retry blocked sources with Playwright
-        if: steps.check_playwright.outputs.needed == 'true'
-        run: node scripts/build-news.js --playwright-retry
-
       - name: Commit updated news JSON
         run: |
           if git diff --quiet -- api/v1/news.json; then
