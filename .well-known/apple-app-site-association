@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["PJ3395Y66J.com.lunetteapp.ios"],
+        "components": [
+          { "/": "/wishlist/add", "?": { "url": "*" }, "comment": "Add listing to wishlist" },
+          { "/": "/wishlist", "comment": "Open wishlist tab" },
+          { "/": "/collection", "comment": "Open collection tab" },
+          { "/": "/journal/capture", "comment": "Open journal capture" },
+          { "/": "/journal/capture/photo", "comment": "Open journal photo capture" },
+          { "/": "/journal/capture/video", "comment": "Open journal video capture" },
+          { "/": "/accuracy", "comment": "Open accuracy tab" },
+          { "/": "/news", "?": { "url": "*" }, "comment": "Open news article" },
+          { "/": "/profile", "comment": "Open profile" },
+          { "/": "/settings", "comment": "Open settings" }
+        ]
+      }
+    ]
+  }
+}
