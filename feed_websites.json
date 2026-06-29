@@ -107,6 +107,12 @@
       "feed_url": "https://watchviews.com/feed/",
       "lang": "zh-Hans",
       "enabled": true
+    },
+    {
+      "source_name": "GMT Korea",
+      "feed_url": "https://www.gmtkoreaseoul.com/blog-feed.xml",
+      "lang": "ko",
+      "enabled": true
     }
   ]
 }
