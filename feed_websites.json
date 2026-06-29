@@ -106,14 +106,14 @@
       "source_name": "Hypebeast Korea",
       "feed_url": "https://hypebeast.kr/feed",
       "lang": "ko",
-      "include_keywords": ["시계", "손목시계", "롤렉스", "오메가", "파텍", "세이코", "튜더", "까르띠에", "브라이틀링", "태그호이어", "watch", "watches", "gmt", "miyota"],
+      "include_keywords": ["시계", "손목시계", "롤렉스", "오메가", "파텍", "세이코", "튜더", "까르띠에", "브라이틀링", "태그호이어", "watch", "watches", "gmt", "miyota", "rolex", "omega", "patek", "tag heuer", "tudor", "cartier", "breitling", "iwc", "jaeger", "hublot", "audemars", "longines", "tissot", "chronograph", "tourbillon"],
       "enabled": true
     },
     {
       "source_name": "Hypebeast China",
       "feed_url": "https://hypebeast.cn/feed",
       "lang": "zh-Hans",
-      "include_keywords": ["手表", "腕表", "钟表", "劳力士", "欧米茄", "百达翡丽", "精工", "帝舵", "卡地亚", "百年灵", "泰格豪雅"],
+      "include_keywords": ["手表", "腕表", "钟表", "劳力士", "欧米茄", "百达翡丽", "精工", "帝舵", "卡地亚", "百年灵", "泰格豪雅", "watch", "watches", "rolex", "omega", "patek", "tag heuer", "tudor", "cartier", "breitling", "iwc", "jaeger", "hublot", "audemars", "longines", "tissot", "chronograph", "tourbillon"],
       "enabled": true
     }
   ]
