@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
 
       - name: Build news JSON
         run: node scripts/build-news.js
