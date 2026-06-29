@@ -2,6 +2,7 @@
 
 const fs = require("fs/promises");
 const path = require("path");
+const { execFile } = require("child_process");
 const { serializedNews } = require("./news-hash");
 
 const ROOT = path.resolve(__dirname, "..");
@@ -103,6 +104,11 @@ async function fetchText(url, timeoutMs) {
       lastError = error;
 
       if (attempt === MAX_FETCH_ATTEMPTS || !isRetryableFetchError(error)) {
+        // On 403, try alternative tools before giving up
+        if (error?.status === 403) {
+          const fallback = await fetchTextFallback(url, timeoutMs);
+          if (fallback !== null) return fallback;
+        }
         throw error;
       }
 
@@ -140,6 +146,116 @@ async function fetchTextOnce(url, timeoutMs, attempt) {
   } finally {
     clearTimeout(timeout);
   }
+}
+
+const BROWSER_USER_AGENTS = [
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
+  "Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0"
+];
+
+// Fallback fetchers tried in order when Node fetch returns 403.
+// Returns the response text on first success, or null if all fail.
+async function fetchTextFallback(url, timeoutMs) {
+  const timeoutSec = Math.ceil(timeoutMs / 1000);
+  const botUa = USER_AGENTS[0];
+  const browserUa = BROWSER_USER_AGENTS[0];
+  const browserUa2 = BROWSER_USER_AGENTS[1];
+  const accept = "application/rss+xml, application/atom+xml, text/xml, application/xml, */*";
+  const acceptBrowser = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";
+
+  const tools = [
+    // 1. curl with bot UA
+    {
+      name: "curl",
+      cmd: "curl",
+      args: [
+        "-sS", "-L",
+        "--max-time", String(timeoutSec),
+        "-A", botUa,
+        "-H", `Accept: ${accept}`,
+        "-H", "Accept-Language: en-US,en;q=0.9",
+        url
+      ]
+    },
+    // 2. wget with bot UA
+    {
+      name: "wget",
+      cmd: "wget",
+      args: [
+        "-q", "-O", "-",
+        "--timeout", String(timeoutSec),
+        `--user-agent=${botUa}`,
+        `--header=Accept: ${accept}`,
+        url
+      ]
+    },
+    // 3. curl with Chrome browser UA + browser-like headers
+    {
+      name: "curl-browser",
+      cmd: "curl",
+      args: [
+        "-sS", "-L",
+        "--max-time", String(timeoutSec),
+        "-A", browserUa,
+        "-H", `Accept: ${acceptBrowser}`,
+        "-H", "Accept-Language: en-US,en;q=0.9",
+        "-H", "Accept-Encoding: gzip, deflate, br",
+        "-H", "Connection: keep-alive",
+        "--compressed",
+        url
+      ]
+    },
+    // 4. curl with HTTP/2 + Safari UA
+    {
+      name: "curl-http2",
+      cmd: "curl",
+      args: [
+        "-sS", "-L", "--http2",
+        "--max-time", String(timeoutSec),
+        "-A", browserUa2,
+        "-H", `Accept: ${acceptBrowser}`,
+        "-H", "Accept-Language: en-US,en;q=0.9",
+        "--compressed",
+        url
+      ]
+    },
+    // 5. python3 urllib with Firefox UA
+    {
+      name: "python3",
+      cmd: "python3",
+      args: [
+        "-c",
+        `import urllib.request,sys; req=urllib.request.Request("${url}",headers={"User-Agent":"${BROWSER_USER_AGENTS[3]}","Accept":"${accept}","Accept-Language":"en-US,en;q=0.9"}); print(urllib.request.urlopen(req,timeout=${timeoutSec}).read().decode("utf-8","replace"))`
+      ]
+    }
+  ];
+
+  for (const tool of tools) {
+    try {
+      const result = await runCommand(tool.cmd, tool.args, timeoutMs);
+      if (result && result.trim()) {
+        console.log(`  [fallback] ${tool.name} succeeded for ${url}`);
+        return result;
+      }
+    } catch {
+      console.warn(`  [fallback] ${tool.name} failed for ${url}`);
+    }
+  }
+
+  return null;
+}
+
+function runCommand(cmd, args, timeoutMs) {
+  return new Promise((resolve, reject) => {
+    const child = execFile(cmd, args, { timeout: timeoutMs, maxBuffer: 10 * 1024 * 1024 }, (error, stdout) => {
+      if (error) return reject(error);
+      resolve(stdout || null);
+    });
+
+    child.on("error", reject);
+  });
 }
 
 function userAgentForRequest(url, attempt) {
