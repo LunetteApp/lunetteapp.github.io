@@ -8,7 +8,6 @@ const { serializedNews } = require("./news-hash");
 const ROOT = path.resolve(__dirname, "..");
 const CONFIG_PATH = path.join(ROOT, "feed_websites.json");
 const OUTPUT_PATH = path.join(ROOT, "api", "v1", "news.json");
-const PLAYWRIGHT_NEEDED_FLAG = path.join(ROOT, ".playwright-needed");
 
 const USER_AGENTS = [
   "Lunette/1.0 (+https://lunetteapp.com; RSS reader)",
@@ -22,23 +21,11 @@ const USER_AGENT_RUN_OFFSET = Math.floor(Math.random() * USER_AGENTS.length);
 const MAX_FETCH_ATTEMPTS = 3;
 
 async function main() {
-  const playwrightRetry = process.argv.includes("--playwright-retry");
-
   const config = JSON.parse(await fs.readFile(CONFIG_PATH, "utf8"));
   const maxItems = numberOr(config.max_items, 40);
   const maxItemsPerSource = numberOr(config.max_items_per_source, 8);
   const timeoutMs = numberOr(config.request_timeout_ms, 15000);
-  const allSources = Array.isArray(config.sources) ? config.sources.filter((source) => source.enabled !== false) : [];
-
-  // In playwright-retry mode, only process URLs listed in the flag file.
-  let sources = allSources;
-  if (playwrightRetry) {
-    const flagContent = await fs.readFile(PLAYWRIGHT_NEEDED_FLAG, "utf8").catch(() => "");
-    const neededUrls = new Set(flagContent.split("\n").map((l) => l.trim()).filter(Boolean));
-    sources = allSources.filter((s) => neededUrls.has(s.feed_url));
-    console.log(`[playwright-retry] processing ${sources.length} source(s): ${[...neededUrls].join(", ")}`);
-    await fs.unlink(PLAYWRIGHT_NEEDED_FLAG).catch(() => {});
-  }
+  const sources = Array.isArray(config.sources) ? config.sources.filter((source) => source.enabled !== false) : [];
 
   const existingNews = await readExistingNews();
   const premium = existingNews?.premium ?? {
@@ -82,13 +69,7 @@ async function main() {
     }
   }
 
-  // In playwright-retry mode, merge new items into the existing news output,
-  // replacing any existing items from the same sources with fresher results.
-  const baseItems = playwrightRetry && existingNews
-    ? (existingNews.items ?? []).filter((item) => !sources.some((s) => item.source_name === s.source_name))
-    : [];
-
-  const newsItems = dedupeByUrl([...items, ...baseItems])
+  const newsItems = dedupeByUrl(items)
     .sort(compareNewsPriority)
     .slice(0, maxItems)
     .map((item) => ({
@@ -281,7 +262,16 @@ async function fetchTextFallback(url, timeoutMs) {
       cmd: "python3",
       args: [
         "-c",
-        `import urllib.request,sys;\ntry:\n  req=urllib.request.Request("${url}",headers={"User-Agent":"${BROWSER_USER_AGENTS[3]}","Accept":"${accept}","Accept-Language":"en-US,en;q=0.9"})\n  print(urllib.request.urlopen(req,timeout=${timeoutSec}).read().decode("utf-8","replace"))\nexcept urllib.error.HTTPError as e:\n  sys.stderr.write("HTTP "+str(e.code)+"\\n");sys.exit(1)\nexcept Exception as e:\n  sys.stderr.write(str(e)+"\\n");sys.exit(1)`
+        [
+          "import urllib.request,sys",
+          `req=urllib.request.Request(${JSON.stringify(url)},headers={"User-Agent":${JSON.stringify(BROWSER_USER_AGENTS[3])},"Accept":${JSON.stringify(accept)},"Accept-Language":"en-US,en;q=0.9"})`,
+          "try:",
+          `  print(urllib.request.urlopen(req,timeout=${timeoutSec}).read().decode("utf-8","replace"))`,
+          "except urllib.error.HTTPError as e:",
+          "  sys.stderr.write('HTTP '+str(e.code)+'\\n');sys.exit(1)",
+          "except Exception as e:",
+          "  sys.stderr.write(str(e)+'\\n');sys.exit(1)"
+        ].join("\n")
       ]
     }
   ];
@@ -305,52 +295,7 @@ async function fetchTextFallback(url, timeoutMs) {
     }
   }
 
-  // Last resort: headless Chromium via Playwright (handles Cloudflare JS challenges).
-  const playwrightResult = await fetchTextPlaywright(url, timeoutMs);
-  if (playwrightResult !== null) return playwrightResult;
-
   return null;
-}
-
-async function fetchTextPlaywright(url, timeoutMs) {
-  let playwright;
-  try {
-    playwright = require("playwright");
-  } catch {
-    console.warn("  [playwright] not available, writing flag for retry");
-    await fs.writeFile(PLAYWRIGHT_NEEDED_FLAG, url + "\n", { flag: "a" }).catch(() => {});
-    return null;
-  }
-
-  let browser;
-  try {
-    browser = await playwright.chromium.launch({ headless: true });
-    const context = await browser.newContext({
-      userAgent: BROWSER_USER_AGENTS[0],
-      extraHTTPHeaders: {
-        "Accept": "application/rss+xml, application/atom+xml, text/xml, application/xml, */*",
-        "Accept-Language": "en-US,en;q=0.9"
-      }
-    });
-    const page = await context.newPage();
-    await page.goto(url, { waitUntil: "networkidle", timeout: timeoutMs });
-    // Wait a moment for any JS challenge to resolve and redirect.
-    await page.waitForTimeout(3000);
-    const content = await page.content();
-    const trimmed = content ? content.trim() : "";
-    const preview = trimmed.slice(0, 120).replace(/\s+/g, " ");
-    if (trimmed && looksLikeFeed(trimmed)) {
-      console.log(`  [playwright] succeeded for ${url}`);
-      return content;
-    }
-    console.warn(`  [playwright] not a feed for ${url}: ${preview}`);
-    return null;
-  } catch (err) {
-    console.warn(`  [playwright] failed for ${url}: ${err.message}`);
-    return null;
-  } finally {
-    if (browser) await browser.close().catch(() => {});
-  }
 }
 
 function runCommand(cmd, args, timeoutMs) {
