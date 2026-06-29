@@ -22,11 +22,23 @@ const USER_AGENT_RUN_OFFSET = Math.floor(Math.random() * USER_AGENTS.length);
 const MAX_FETCH_ATTEMPTS = 3;
 
 async function main() {
+  const playwrightRetry = process.argv.includes("--playwright-retry");
+
   const config = JSON.parse(await fs.readFile(CONFIG_PATH, "utf8"));
   const maxItems = numberOr(config.max_items, 40);
   const maxItemsPerSource = numberOr(config.max_items_per_source, 8);
   const timeoutMs = numberOr(config.request_timeout_ms, 15000);
-  const sources = Array.isArray(config.sources) ? config.sources.filter((source) => source.enabled !== false) : [];
+  const allSources = Array.isArray(config.sources) ? config.sources.filter((source) => source.enabled !== false) : [];
+
+  // In playwright-retry mode, only process URLs listed in the flag file.
+  let sources = allSources;
+  if (playwrightRetry) {
+    const flagContent = await fs.readFile(PLAYWRIGHT_NEEDED_FLAG, "utf8").catch(() => "");
+    const neededUrls = new Set(flagContent.split("\n").map((l) => l.trim()).filter(Boolean));
+    sources = allSources.filter((s) => neededUrls.has(s.feed_url));
+    console.log(`[playwright-retry] processing ${sources.length} source(s): ${[...neededUrls].join(", ")}`);
+    await fs.unlink(PLAYWRIGHT_NEEDED_FLAG).catch(() => {});
+  }
 
   const existingNews = await readExistingNews();
   const premium = existingNews?.premium ?? {
@@ -70,7 +82,13 @@ async function main() {
     }
   }
 
-  const newsItems = dedupeByUrl(items)
+  // In playwright-retry mode, merge new items into the existing news output,
+  // replacing any existing items from the same sources with fresher results.
+  const baseItems = playwrightRetry && existingNews
+    ? (existingNews.items ?? []).filter((item) => !sources.some((s) => item.source_name === s.source_name))
+    : [];
+
+  const newsItems = dedupeByUrl([...items, ...baseItems])
     .sort(compareNewsPriority)
     .slice(0, maxItems)
     .map((item) => ({

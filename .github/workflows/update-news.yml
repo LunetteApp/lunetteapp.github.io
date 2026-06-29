@@ -32,9 +32,9 @@ jobs:
         if: ${{ hashFiles('.playwright-needed') != '' }}
         run: npm install playwright && npx playwright install chromium --with-deps
 
-      - name: Retry with Playwright
+      - name: Retry blocked sources with Playwright
         if: ${{ hashFiles('.playwright-needed') != '' }}
-        run: rm .playwright-needed && node scripts/build-news.js
+        run: node scripts/build-news.js --playwright-retry
 
       - name: Commit updated news JSON
         run: |
