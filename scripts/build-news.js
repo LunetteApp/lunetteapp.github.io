@@ -8,6 +8,7 @@ const { serializedNews } = require("./news-hash");
 const ROOT = path.resolve(__dirname, "..");
 const CONFIG_PATH = path.join(ROOT, "feed_websites.json");
 const OUTPUT_PATH = path.join(ROOT, "api", "v1", "news.json");
+const PLAYWRIGHT_NEEDED_FLAG = path.join(ROOT, ".playwright-needed");
 
 const USER_AGENTS = [
   "Lunette/1.0 (+https://lunetteapp.com; RSS reader)",
@@ -297,7 +298,8 @@ async function fetchTextPlaywright(url, timeoutMs) {
   try {
     playwright = require("playwright");
   } catch {
-    console.warn("  [playwright] not available, skipping");
+    console.warn("  [playwright] not available, writing flag for retry");
+    await fs.writeFile(PLAYWRIGHT_NEEDED_FLAG, url + "\n", { flag: "a" }).catch(() => {});
     return null;
   }
 
