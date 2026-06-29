@@ -95,6 +95,11 @@ async function main() {
 }
 
 async function fetchText(url, timeoutMs) {
+  // Try wget first — it handles more sites without 403.
+  const wgetResult = await fetchTextWget(url, timeoutMs);
+  if (wgetResult !== null) return wgetResult;
+
+  // Fall back to Node fetch with retries.
   let lastError;
 
   for (let attempt = 1; attempt <= MAX_FETCH_ATTEMPTS; attempt += 1) {
@@ -104,7 +109,7 @@ async function fetchText(url, timeoutMs) {
       lastError = error;
 
       if (attempt === MAX_FETCH_ATTEMPTS || !isRetryableFetchError(error)) {
-        // On 403, try alternative tools before giving up
+        // On 403, try remaining tools before giving up.
         if (error?.status === 403) {
           const fallback = await fetchTextFallback(url, timeoutMs);
           if (fallback !== null) return fallback;
@@ -117,6 +122,33 @@ async function fetchText(url, timeoutMs) {
   }
 
   throw lastError;
+}
+
+async function fetchTextWget(url, timeoutMs) {
+  const timeoutSec = Math.ceil(timeoutMs / 1000);
+  const ua = USER_AGENTS[0];
+  const accept = "application/rss+xml, application/atom+xml, text/xml, application/xml, */*";
+
+  try {
+    const result = await runCommand("wget", [
+      "-q", "-O", "-",
+      "--timeout", String(timeoutSec),
+      `--user-agent=${ua}`,
+      `--header=Accept: ${accept}`,
+      `--header=Accept-Language: en-US,en;q=0.9`,
+      url
+    ], timeoutMs);
+
+    const trimmed = result ? result.trim() : "";
+    if (trimmed && (/<(rss|feed|channel|item|entry)\b/i.test(trimmed) || trimmed.startsWith("{"))) {
+      return result;
+    }
+    if (trimmed) console.warn(`  [wget] response does not look like a feed for ${url}`);
+  } catch (err) {
+    console.warn(`  [wget] failed for ${url}: ${err.message}`);
+  }
+
+  return null;
 }
 
 async function fetchTextOnce(url, timeoutMs, attempt) {
@@ -179,19 +211,7 @@ async function fetchTextFallback(url, timeoutMs) {
         url
       ]
     },
-    // 2. wget with bot UA
-    {
-      name: "wget",
-      cmd: "wget",
-      args: [
-        "-q", "-O", "-",
-        "--timeout", String(timeoutSec),
-        `--user-agent=${botUa}`,
-        `--header=Accept: ${accept}`,
-        url
-      ]
-    },
-    // 3. curl with Chrome browser UA + browser-like headers
+    // 2. curl with Chrome browser UA + browser-like headers (compressed)
     {
       name: "curl-browser",
       cmd: "curl",
