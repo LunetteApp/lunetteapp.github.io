@@ -281,7 +281,7 @@ async function fetchTextFallback(url, timeoutMs) {
       cmd: "python3",
       args: [
         "-c",
-        `import urllib.request,sys; req=urllib.request.Request("${url}",headers={"User-Agent":"${BROWSER_USER_AGENTS[3]}","Accept":"${accept}","Accept-Language":"en-US,en;q=0.9"}); print(urllib.request.urlopen(req,timeout=${timeoutSec}).read().decode("utf-8","replace"))`
+        `import urllib.request,sys;\ntry:\n  req=urllib.request.Request("${url}",headers={"User-Agent":"${BROWSER_USER_AGENTS[3]}","Accept":"${accept}","Accept-Language":"en-US,en;q=0.9"})\n  print(urllib.request.urlopen(req,timeout=${timeoutSec}).read().decode("utf-8","replace"))\nexcept urllib.error.HTTPError as e:\n  sys.stderr.write("HTTP "+str(e.code)+"\\n");sys.exit(1)\nexcept Exception as e:\n  sys.stderr.write(str(e)+"\\n");sys.exit(1)`
       ]
     }
   ];
@@ -300,7 +300,8 @@ async function fetchTextFallback(url, timeoutMs) {
         console.warn(`  [fallback] ${tool.name} returned empty response`);
       }
     } catch (err) {
-      console.warn(`  [fallback] ${tool.name} failed for ${url}: ${err.message}`);
+      const detail = (err.stderr && err.stderr.trim()) ? err.stderr.trim() : err.message.split("\n")[0];
+      console.warn(`  [fallback] ${tool.name} failed for ${url}: ${detail}`);
     }
   }
 
