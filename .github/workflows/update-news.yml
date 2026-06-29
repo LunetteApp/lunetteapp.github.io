@@ -25,11 +25,16 @@ jobs:
         with:
           node-version: "24"
 
-      - name: Install Playwright Chromium
-        run: npx --yes playwright install chromium --with-deps
-
       - name: Build news JSON
         run: node scripts/build-news.js
+
+      - name: Install Playwright Chromium (if needed)
+        if: ${{ hashFiles('.playwright-needed') != '' }}
+        run: npm install playwright && npx playwright install chromium --with-deps
+
+      - name: Retry with Playwright
+        if: ${{ hashFiles('.playwright-needed') != '' }}
+        run: rm .playwright-needed && node scripts/build-news.js
 
       - name: Commit updated news JSON
         run: |
