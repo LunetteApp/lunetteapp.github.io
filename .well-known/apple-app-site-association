@@ -12,6 +12,9 @@
           { "/": "/journal/capture/video", "comment": "Open journal video capture" },
           { "/": "/accuracy", "comment": "Open accuracy tab" },
           { "/": "/news", "?": { "url": "*" }, "comment": "Open news article" },
+          { "/": "/story/today", "comment": "Create today story" },
+          { "/": "/story/current_week", "comment": "Create current week story" },
+          { "/": "/story/last_week", "comment": "Create last week story" },
           { "/": "/profile", "comment": "Open profile" },
           { "/": "/settings", "comment": "Open settings" }
         ]
