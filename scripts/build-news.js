@@ -104,12 +104,20 @@ async function fetchText(url, timeoutMs) {
 
   for (let attempt = 1; attempt <= MAX_FETCH_ATTEMPTS; attempt += 1) {
     try {
-      return await fetchTextOnce(url, timeoutMs, attempt);
+      const text = await fetchTextOnce(url, timeoutMs, attempt);
+      // A 200 with an HTML body (bot check, Cloudflare) should also trigger fallback.
+      if (!looksLikeFeed(text)) {
+        console.warn(`  [node] response does not look like a feed for ${url}, trying fallbacks`);
+        const fallback = await fetchTextFallback(url, timeoutMs);
+        if (fallback !== null) return fallback;
+        throw new Error(`No tool returned a valid feed for ${url}`);
+      }
+      return text;
     } catch (error) {
       lastError = error;
 
       if (attempt === MAX_FETCH_ATTEMPTS || !isRetryableFetchError(error)) {
-        // On 403, try remaining tools before giving up.
+        // On 403 or other hard failures, try remaining tools before giving up.
         if (error?.status === 403) {
           const fallback = await fetchTextFallback(url, timeoutMs);
           if (fallback !== null) return fallback;
@@ -122,6 +130,11 @@ async function fetchText(url, timeoutMs) {
   }
 
   throw lastError;
+}
+
+function looksLikeFeed(text) {
+  const trimmed = (text || "").trim();
+  return /<(rss|feed|channel|item|entry)\b/i.test(trimmed) || trimmed.startsWith("{");
 }
 
 async function fetchTextWget(url, timeoutMs) {
@@ -139,11 +152,11 @@ async function fetchTextWget(url, timeoutMs) {
       url
     ], timeoutMs);
 
-    const trimmed = result ? result.trim() : "";
-    if (trimmed && (/<(rss|feed|channel|item|entry)\b/i.test(trimmed) || trimmed.startsWith("{"))) {
-      return result;
+    if (result && looksLikeFeed(result)) return result;
+    if (result && result.trim()) {
+      const preview = result.trim().slice(0, 120).replace(/\s+/g, " ");
+      console.warn(`  [wget] not a feed for ${url}: ${preview}`);
     }
-    if (trimmed) console.warn(`  [wget] response does not look like a feed for ${url}`);
   } catch (err) {
     console.warn(`  [wget] failed for ${url}: ${err.message}`);
   }
@@ -169,7 +182,9 @@ async function fetchTextOnce(url, timeoutMs, attempt) {
     });
 
     if (!response.ok) {
-      const error = new Error(`HTTP ${response.status} for ${url}`);
+      const body = await response.text().catch(() => "");
+      const preview = body.trim().slice(0, 120).replace(/\s+/g, " ");
+      const error = new Error(`HTTP ${response.status} for ${url} — ${preview}`);
       error.status = response.status;
       throw error;
     }
@@ -258,9 +273,9 @@ async function fetchTextFallback(url, timeoutMs) {
       const trimmed = result ? result.trim() : "";
       const preview = trimmed.slice(0, 120).replace(/\s+/g, " ");
       if (trimmed) {
-        const looksLikeFeed = /<(rss|feed|channel|item|entry)\b/i.test(trimmed) || trimmed.startsWith("{");
-        console.log(`  [fallback] ${tool.name} got ${trimmed.length} bytes, feed=${looksLikeFeed}: ${preview}`);
-        if (looksLikeFeed) return result;
+        const isFeedResponse = looksLikeFeed(result);
+        console.log(`  [fallback] ${tool.name} got ${trimmed.length} bytes, feed=${isFeedResponse}: ${preview}`);
+        if (isFeedResponse) return result;
         console.warn(`  [fallback] ${tool.name} response does not look like a feed, skipping`);
       } else {
         console.warn(`  [fallback] ${tool.name} returned empty response`);
