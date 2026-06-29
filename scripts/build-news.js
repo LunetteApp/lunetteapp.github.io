@@ -235,12 +235,18 @@ async function fetchTextFallback(url, timeoutMs) {
   for (const tool of tools) {
     try {
       const result = await runCommand(tool.cmd, tool.args, timeoutMs);
-      if (result && result.trim()) {
-        console.log(`  [fallback] ${tool.name} succeeded for ${url}`);
-        return result;
+      const trimmed = result ? result.trim() : "";
+      const preview = trimmed.slice(0, 120).replace(/\s+/g, " ");
+      if (trimmed) {
+        const looksLikeFeed = /<(rss|feed|channel|item|entry)\b/i.test(trimmed) || trimmed.startsWith("{");
+        console.log(`  [fallback] ${tool.name} got ${trimmed.length} bytes, feed=${looksLikeFeed}: ${preview}`);
+        if (looksLikeFeed) return result;
+        console.warn(`  [fallback] ${tool.name} response does not look like a feed, skipping`);
+      } else {
+        console.warn(`  [fallback] ${tool.name} returned empty response`);
       }
-    } catch {
-      console.warn(`  [fallback] ${tool.name} failed for ${url}`);
+    } catch (err) {
+      console.warn(`  [fallback] ${tool.name} failed for ${url}: ${err.message}`);
     }
   }
 
