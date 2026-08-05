@@ -13,6 +13,19 @@ concurrency:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    env:
+      # Kill switch for the inference step: set the NEWS_SKIP_INFERENCE
+      # repository variable to 'true' to build and commit the feed with
+      # singleton clusters and unscored articles, which stay pending for a
+      # later run.
+      NEWS_SKIP_INFERENCE: ${{ vars.NEWS_SKIP_INFERENCE || 'false' }}
+      LLM_MODEL: ${{ vars.NEWS_LLM_MODEL || 'gpt-5.4' }}
+      LLM_REASONING_EFFORT: ${{ vars.NEWS_LLM_REASONING_EFFORT || 'medium' }}
+      # Rates come from scripts/llm-prices.js by model name. Set these variables
+      # only to override the table, in USD per million tokens.
+      LLM_PRICE_INPUT: ${{ vars.NEWS_LLM_PRICE_INPUT }}
+      LLM_PRICE_OUTPUT: ${{ vars.NEWS_LLM_PRICE_OUTPUT }}
+      LLM_PRICE_CACHED_INPUT: ${{ vars.NEWS_LLM_PRICE_CACHED_INPUT }}
 
     steps:
       - name: Check out repository
@@ -20,22 +33,93 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Build news JSON
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: Install runtime dependencies
+        run: npm ci
+
+      - name: Ensure headless browsers are available
+        shell: bash
+        run: |
+          chrome_bin=""
+          for candidate in google-chrome google-chrome-stable chromium chromium-browser; do
+            if command -v "$candidate" >/dev/null 2>&1; then
+              chrome_bin="$(command -v "$candidate")"
+              break
+            fi
+          done
+
+          if [ -z "$chrome_bin" ]; then
+            chrome_deb="$RUNNER_TEMP/google-chrome-stable_current_amd64.deb"
+            curl --fail --silent --show-error --location \
+              --output "$chrome_deb" \
+              https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+            sudo apt-get update
+            sudo apt-get install --yes "$chrome_deb"
+            chrome_bin="$(command -v google-chrome)"
+          fi
+
+          echo "CHROME_BIN=$chrome_bin" >> "$GITHUB_ENV"
+          "$chrome_bin" --version
+
+          if command -v firefox >/dev/null 2>&1; then
+            firefox_bin="$(command -v firefox)"
+            echo "FIREFOX_BIN=$firefox_bin" >> "$GITHUB_ENV"
+            "$firefox_bin" --version
+          else
+            echo "::error::Firefox is unavailable; the required second browser attempt cannot run."
+            exit 1
+          fi
+
+      - name: Build news JSON and article history
         run: node scripts/build-news.js
 
-      - name: Commit updated news JSON
+      - name: Detect pending inference
+        id: news_delta
         run: |
-          if git diff --quiet -- api/v1/news.json; then
+          if [ "$NEWS_SKIP_INFERENCE" = "true" ]; then
+            echo "NEWS_SKIP_INFERENCE is set; skipping scoring and clustering."
+            {
+              echo "needs_inference=false"
+              echo "needs_scoring=false"
+              echo "needs_clustering=false"
+            } >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          node scripts/detect-new-news.js >> "$GITHUB_OUTPUT"
+
+      - name: Analyse pending news
+        id: analyse_news
+        if: ${{ steps.news_delta.outputs.needs_inference == 'true' }}
+        continue-on-error: true
+        env:
+          LLM_URL: ${{ vars.NEWS_LLM_URL }}
+          LLM_API_KEY: ${{ secrets.NEWS_LLM_API_KEY }}
+        run: node scripts/analyze-news.js
+
+      - name: Validate generated state
+        run: node scripts/validate-news.js
+
+      - name: Rebase and commit updated news state
+        run: |
+          if [ -z "$(git status --porcelain -- api/v1/news.json data/old_articles.json)" ]; then
             echo "No news changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add api/v1/news.json
+
+          git add api/v1/news.json data/old_articles.json
+          git stash push --include-untracked --message "generated-news-state" -- api/v1/news.json data/old_articles.json
+          git pull --rebase origin main
+          git stash pop
+
+          node scripts/validate-news.js
+          git add api/v1/news.json data/old_articles.json
           git commit -m "Update news feed"
           git push
-
-  update-news-hash:
-    needs: update-news
-    uses: ./.github/workflows/update-news-hash.yml

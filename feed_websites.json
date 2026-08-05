@@ -2,6 +2,7 @@
   "max_items": 120,
   "max_items_per_source": 15,
   "request_timeout_ms": 15000,
+  "exclude_keywords": ["podcast"],
   "premium": {
     "links": []
   },
@@ -33,6 +34,48 @@
     {
       "source_name": "Unpolished Watches",
       "feed_url": "https://www.unpolishedwatches.com/feed",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "Teddy Baldassarre",
+      "feed_url": "https://teddybaldassarre.com/blogs/watches.atom",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "A Timely Perspective",
+      "feed_url": "https://atimelyperspective.com/feed/",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "Deployant",
+      "feed_url": "https://deployant.com/feed/",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "HODINKEE",
+      "feed_url": "https://www.hodinkee.com/articles.rss",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "SJX Watches",
+      "feed_url": "https://watchesbysjx.com/feed",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "Time+Tide",
+      "feed_url": "https://timeandtidewatches.com/feed/",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "source_name": "Watch Collecting Lifestyle",
+      "feed_url": "https://www.watchcollectinglifestyle.com/home?format=rss",
       "lang": "en",
       "enabled": true
     },
@@ -98,7 +141,7 @@
     },
     {
       "source_name": "webChronos",
-      "feed_url": "https://www.webchronos.net/feed/?post_type=article",
+      "feed_url": "https://www.webchronos.net/feed/?post_type=news",
       "lang": "ja",
       "enabled": true
     },

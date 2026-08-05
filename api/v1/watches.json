@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 12,
   "brands": {
     "A. Lange & Söhne": [
       {
@@ -16,13 +16,37 @@
       },
       {
         "name": "Odysseus",
-        "movement": "automatic"
+        "movement": "automatic",
+        "references": [
+          "363.068",
+          "363.117",
+          "363.150",
+          "363.179"
+        ]
+      },
+      {
+        "name": "Odysseus Chronograph",
+        "movement": "automatic",
+        "references": [
+          "463.178"
+        ]
       },
       {
         "name": "Richard Lange"
       },
       {
         "name": "Saxonia"
+      },
+      {
+        "name": "Saxonia Thin",
+        "movement": "manual",
+        "references": [
+          "201.027",
+          "201.033",
+          "205.086",
+          "211.052",
+          "211.062"
+        ]
       },
       {
         "name": "Tourbillon"
@@ -59,9 +83,6 @@
         "name": "Apple Watch"
       },
       {
-        "name": "Apple Watch Sport"
-      },
-      {
         "name": "Apple Watch Edition"
       },
       {
@@ -69,6 +90,15 @@
       },
       {
         "name": "Apple Watch Nike"
+      },
+      {
+        "name": "Apple Watch SE"
+      },
+      {
+        "name": "Apple Watch SE 2"
+      },
+      {
+        "name": "Apple Watch SE 3"
       },
       {
         "name": "Apple Watch Series 1"
@@ -104,13 +134,7 @@
         "name": "Apple Watch Series 11"
       },
       {
-        "name": "Apple Watch SE"
-      },
-      {
-        "name": "Apple Watch SE 2"
-      },
-      {
-        "name": "Apple Watch SE 3"
+        "name": "Apple Watch Sport"
       },
       {
         "name": "Apple Watch Ultra"
@@ -150,6 +174,9 @@
         "name": "CODE 11.59"
       },
       {
+        "name": "Établisseurs Galets"
+      },
+      {
         "name": "Jules Audemars"
       },
       {
@@ -163,9 +190,6 @@
       },
       {
         "name": "Royal Oak Offshore"
-      },
-      {
-        "name": "Établisseurs Galets"
       }
     ],
     "B.R.M Chronographes": [
@@ -347,9 +371,6 @@
     ],
     "Breitling": [
       {
-        "name": "AVI"
-      },
-      {
         "name": "Aerospace",
         "movement": "quartz"
       },
@@ -359,6 +380,9 @@
       },
       {
         "name": "Avenger"
+      },
+      {
+        "name": "AVI"
       },
       {
         "name": "Breitling for Bentley"
@@ -714,15 +738,15 @@
         "name": "The Twelve"
       }
     ],
+    "Chronoswiss": [
+      {
+        "name": "Pulse"
+      }
+    ],
     "ChronoTheory & Co": [
       {
         "name": "AV-98",
         "movement": "manual"
-      }
-    ],
-    "Chronoswiss": [
-      {
-        "name": "Pulse"
       }
     ],
     "Citizen": [
@@ -788,9 +812,6 @@
         "name": "Army"
       },
       {
-        "name": "SUB 1500T"
-      },
-      {
         "name": "SUB 200"
       },
       {
@@ -802,6 +823,9 @@
       },
       {
         "name": "SUB 600T"
+      },
+      {
+        "name": "SUB 1500T"
       }
     ],
     "Eberhard": [
@@ -827,14 +851,6 @@
       {
         "name": "X-Series",
         "movement": "automatic"
-      }
-    ],
-    "FP Journe": [
-      {
-        "name": "Octa"
-      },
-      {
-        "name": "Souveraine"
       }
     ],
     "Farer": [
@@ -865,6 +881,14 @@
     "Ferdinand Berthoud": [
       {
         "name": "Mesure du Temps 1787"
+      }
+    ],
+    "FP Journe": [
+      {
+        "name": "Octa"
+      },
+      {
+        "name": "Souveraine"
       }
     ],
     "Franck Muller": [
@@ -898,6 +922,234 @@
     ],
     "Fumagazzi": [
       {
+        "name": "“Il Pesce” La Carovana – Verde",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/11/FUMAGAZZI-LA-CAROVANA-IL-PESCE-F2556.07.02.AC_.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "10Cambiali Blu",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5310-FUMAGAZZI-10CAMBIALI-SS-BL-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "AutoBlu Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/02/AUTOBLU-ACCIAIO-M7778.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "AutoBlu Pelle",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/02/AUTOBLU-PELLE-M7778.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Biancatopa",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-BIANCATOPA-F2352.03.BRAC_-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Biancolopo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-Biancolopo.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "BiancoLopo numeri arabi",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/M8252.04-FUMAGAZZI.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Blasphemo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-Blasphemo.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Blasphemo Veneto",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/M8195BIC-GHIERA-GG-OCCHI-BL-FUMA.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "BoomWatch “ChronoZoo” – Nero",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/11/M8393-FUMA-NE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "BoomWatch “ChronoZoo” – Silver",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/11/M8393-FUMA-GRI-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "CentoCambiali",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/CENTOCAMBIALI.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "CieloAzzurra",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/F2556.14.02.AC-Fumagazzi.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Contrabbandiere",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-Contrabbandiere.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Corsaro Automatico",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/01/M8266.03-RSG-FUMAGAZZI-2.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Darth Taaak",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/09/DARTH-TAAAK-M8195.01.03-1.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Dittatore Automatico",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/02/FUMAGAZZI-Dittatore-auto-1.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Dittatore SangueBlu Automatico",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-DITTATORE-SANGUEBLU-M8266.02.BIC_.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "El Kaimano Negro",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/KAIMANO-NEGRO-M8266BLK.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "ElBocia",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/R34.03-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Er Cavaliere Neon",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/M8293.06.13AC-FUMA.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "ErPupo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/R34.01-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Grisù",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/11/GRISU-M8266BLK.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "GuardaQuà – Maleducato",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/05/FUMAGAZZI-GUARDAQUA-MALEDUCATO-FRONT-scaled.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "GuardaQuà – Strafottente",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/05/FUMAGAZZI-GUARDAQUA-STRAFOTTENTE-FRONT-scaled.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "IlBimbo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/R34.02-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "LackyLuciano",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/11/ACP5241-FUMA-BEI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "LackyLuciano NATO",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/M8387-FUMAGAZZI-LackyLuciano-NATO.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "LatOscuro",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/12/LATOSCURO-M8195BLK.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "LGBTQ RSTUVZ",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-LGBTQRSTUVZ.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Lo Scippo d’acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/SCIPPO-DACCIAIO-M8283.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Lunatico Luna Blu",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/03/LUNATICO-LUNABLU-M8278.02.BL_.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Lunatico Luna Blu Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/03/LUNATICO-LUNABLU-M8278.02.BL_.BRAC_.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Modello Z Black",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/M8409BLK.03.03.BRAC-FUMAGAZZI-MODELLO-Z.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Modello Z Blu",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/M8409.02.01.BRAC-FUMAGAZZI-MODELLO-Z.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Modello Z Silver",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/M8409.01.01.BRAC-FUMAGAZZI-MODELLO-Z.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "MonaAmour",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-MonaAmour.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "NeroTaaaK",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/NERO-TAAAK-M8195.03.03.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Nuovo CentoCambiali 2025 Nero",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5308-FUMAGAZZI-CENTOCAMBIALI-NE-NE-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Nuovo CentoCambiali 2025 Verde",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5308-FUMAGAZZI-CENTOCAMBIALI-NE-VE-1.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "oןןɐᴉƃoᴉɹɐɹʇuoɔuᴉ˥",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/01/FUMAGAZZI-LINCONTRARIO-GIALLO-M8290-BLK-GI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Pagherai Blu Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5311-FUMAGAZZI-PAGHERAI-BL.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Pagherai Giallo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5311-FUMAGAZZI-PAGHERAI-NE-GI.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Pagherai Nero Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/FUMAGAZZI-PAGHERAI-ACC-NE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Pagherai Verde",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5311-FUMAGAZZI-PAGHERAI-NE-VE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Pagherai Verde Acciaio",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/FUMAGAZZI-PAGHERAI-VE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Palombaro",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-PALOMBARO-M8266.03.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Palombaro Nero di Seppia",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-PALOMBARO-NeroDiSeppia.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Palombaro Sotto Spirito",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/02/FUMAGAZZI-PALOMBARO-SOTTO-SPIRITO-M8266ABLK.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "PataaaK",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/PATAAAK-M8195GG.01.03.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Pendaglio da Forca",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/04/FUMAGAZZI-PENDAGLIO-DA-FORCA-2.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "PolNiuman – Ed. Gran Galà",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/FUMAGAZZI-POLNIUMAN-COCCO-M8411.01.03.PL-COCCO.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Ricercato",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-Ricercato.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "RosaLopo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-RosaLopo.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "RosaTopa",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-ROSATOPA-F2352RSG.01.BRAC_.jpg?fit=558%2C929&ssl=1"
+      },
+      {
+        "name": "Soprano",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/11/ACP5241-CRONO-NE.jpg?fit=558%2C930&ssl=1"
+      },
+      {
+        "name": "Spateck – El Todo Negro",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/04/FUMAGAZZI-SPATEcK-M8401.03.03.jpg?fit=558%2C930&ssl=1"
+      },
+      {
         "name": "Spateck – Il Lapiscazzuli",
         "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/04/FUMAGAZZI-SPATEcK-M8401.02.LAPIS_.jpg?fit=558%2C930&ssl=1"
       },
@@ -910,134 +1162,6 @@
         "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/04/FUMAGAZZI-SPATEcK-M8401.02.02.jpg?fit=558%2C930&ssl=1"
       },
       {
-        "name": "Spateck – El Todo Negro",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/04/FUMAGAZZI-SPATEcK-M8401.03.03.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Velox Bamba",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/02/FUMAGAZZI-VELOX-BAMBA-M7778.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Velox Bamba ghiera nera",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/03/FUMAGAZZI-VELOX-BAMBA-GHIERA-NERA-M7778.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Modello Z Silver",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/M8409.01.01.BRAC-FUMAGAZZI-MODELLO-Z.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Modello Z Black",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/M8409BLK.03.03.BRAC-FUMAGAZZI-MODELLO-Z.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Modello Z Blu",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/M8409.02.01.BRAC-FUMAGAZZI-MODELLO-Z.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Palombaro Sotto Spirito",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/02/FUMAGAZZI-PALOMBARO-SOTTO-SPIRITO-M8266ABLK.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "MonaAmour",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-MonaAmour.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "oןןɐᴉƃoᴉɹɐɹʇuoɔuᴉ˥",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/01/FUMAGAZZI-LINCONTRARIO-GIALLO-M8290-BLK-GI.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "PolNiuman – Ed. Gran Galà",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/11/FUMAGAZZI-POLNIUMAN-COCCO-M8411.01.03.PL-COCCO.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "GuardaQuà – Maleducato",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/05/FUMAGAZZI-GUARDAQUA-MALEDUCATO-FRONT-scaled.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "GuardaQuà – Strafottente",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2025/05/FUMAGAZZI-GUARDAQUA-STRAFOTTENTE-FRONT-scaled.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "“Il Pesce” La Carovana – Verde",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/11/FUMAGAZZI-LA-CAROVANA-IL-PESCE-F2556.07.02.AC_.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "BoomWatch “ChronoZoo” – Nero",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/11/M8393-FUMA-NE.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "BoomWatch “ChronoZoo” – Silver",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/11/M8393-FUMA-GRI-1.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Pagherai Verde Acciaio",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/FUMAGAZZI-PAGHERAI-VE.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Pagherai Nero Acciaio",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/FUMAGAZZI-PAGHERAI-ACC-NE.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "LackyLuciano NATO",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/M8387-FUMAGAZZI-LackyLuciano-NATO.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Nuovo CentoCambiali 2025 Verde",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5308-FUMAGAZZI-CENTOCAMBIALI-NE-VE-1.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Nuovo CentoCambiali 2025 Nero",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5308-FUMAGAZZI-CENTOCAMBIALI-NE-NE-1.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "10Cambiali Blu",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5310-FUMAGAZZI-10CAMBIALI-SS-BL-1.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Pagherai Blu Acciaio",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5311-FUMAGAZZI-PAGHERAI-BL.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Pagherai Verde",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5311-FUMAGAZZI-PAGHERAI-NE-VE.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Pagherai Giallo",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2024/10/ACP5311-FUMAGAZZI-PAGHERAI-NE-GI.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Velox Lemon",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/12/FUMAGAZZI-VELOX-LEMON.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Velox Durox",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/12/FUMAGAZZI-VELOX-DUROX.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Soprano",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/11/ACP5241-CRONO-NE.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "LackyLuciano",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/11/ACP5241-FUMA-BEI.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "IlBimbo",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/R34.02-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "ElBocia",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/R34.03-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "ErPupo",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/R34.01-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Subbbaquo Rosso",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/M8304.03.RS-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
-      },
-      {
         "name": "Subbbaquo Blu",
         "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/M8304.01.BL-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
       },
@@ -1046,120 +1170,20 @@
         "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/M8304.03.NE-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
       },
       {
-        "name": "Pendaglio da Forca",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/04/FUMAGAZZI-PENDAGLIO-DA-FORCA-2.jpg?fit=558%2C929&ssl=1"
+        "name": "Subbbaquo Rosso",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/07/M8304.03.RS-FUMAGAZZI.jpg?fit=558%2C930&ssl=1"
       },
       {
-        "name": "Velox Drago",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/VELOX-IP-GREEN-M7778-FUMA.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Velox Drago Pelle",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/VELOX-IP-GREEN-COCCO-M7778-FUMA.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Blasphemo Veneto",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/M8195BIC-GHIERA-GG-OCCHI-BL-FUMA.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Er Cavaliere Neon",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/M8293.06.13AC-FUMA.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Blasphemo",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-Blasphemo.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "CieloAzzurra",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/F2556.14.02.AC-Fumagazzi.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "El Kaimano Negro",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/KAIMANO-NEGRO-M8266BLK.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "LGBTQ RSTUVZ",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-LGBTQRSTUVZ.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "Contrabbandiere",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-Contrabbandiere.jpg?fit=558%2C929&ssl=1"
+        "name": "TaaaK",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/TAAAK-M8195.01.03.jpg?fit=558%2C930&ssl=1"
       },
       {
         "name": "TerraPiatta",
         "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-TerraPiatta.jpg?fit=558%2C929&ssl=1"
       },
       {
-        "name": "Lunatico Luna Blu Acciaio",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/03/LUNATICO-LUNABLU-M8278.02.BL_.BRAC_.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Lunatico Luna Blu",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/03/LUNATICO-LUNABLU-M8278.02.BL_.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "LatOscuro",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/12/LATOSCURO-M8195BLK.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "Grisù",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/11/GRISU-M8266BLK.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "Ricercato",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2021/11/FUMAGAZZI-Ricercato.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "Darth Taaak",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/09/DARTH-TAAAK-M8195.01.03-1.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "AutoBlu Acciaio",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/02/AUTOBLU-ACCIAIO-M7778.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "AutoBlu Pelle",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/02/AUTOBLU-PELLE-M7778.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "Corsaro Automatico",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/01/M8266.03-RSG-FUMAGAZZI-2.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "Lo Scippo d’acciaio",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/SCIPPO-DACCIAIO-M8283.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "RosaLopo",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-RosaLopo.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "RosaTopa",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-ROSATOPA-F2352RSG.01.BRAC_.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "Palombaro Nero di Seppia",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-PALOMBARO-NeroDiSeppia.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "BiancoLopo numeri arabi",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/M8252.04-FUMAGAZZI.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "Dittatore SangueBlu Automatico",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/12/FUMAGAZZI-DITTATORE-SANGUEBLU-M8266.02.BIC_.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Biancatopa",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-BIANCATOPA-F2352.03.BRAC_-1.jpg?fit=558%2C930&ssl=1"
-      },
-      {
-        "name": "Biancolopo",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-Biancolopo.jpg?fit=558%2C929&ssl=1"
-      },
-      {
-        "name": "NeroTaaaK",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/NERO-TAAAK-M8195.03.03.jpg?fit=558%2C930&ssl=1"
+        "name": "Topolopo",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-TOPALOPA-UOMO.jpg?fit=558%2C929&ssl=1"
       },
       {
         "name": "Velox “Acciaio”",
@@ -1170,28 +1194,28 @@
         "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/VELOX-PELLE-M7778A.03.13PL22NE.jpg?fit=558%2C930&ssl=1"
       },
       {
-        "name": "CentoCambiali",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/CENTOCAMBIALI.jpg?fit=558%2C929&ssl=1"
+        "name": "Velox Bamba",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/02/FUMAGAZZI-VELOX-BAMBA-M7778.jpg?fit=558%2C930&ssl=1"
       },
       {
-        "name": "PataaaK",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/PATAAAK-M8195GG.01.03.jpg?fit=558%2C930&ssl=1"
+        "name": "Velox Bamba ghiera nera",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2026/03/FUMAGAZZI-VELOX-BAMBA-GHIERA-NERA-M7778.jpg?fit=558%2C930&ssl=1"
       },
       {
-        "name": "TaaaK",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/TAAAK-M8195.01.03.jpg?fit=558%2C930&ssl=1"
+        "name": "Velox Drago",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/VELOX-IP-GREEN-M7778-FUMA.jpg?fit=558%2C930&ssl=1"
       },
       {
-        "name": "Dittatore Automatico",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2020/02/FUMAGAZZI-Dittatore-auto-1.jpg?fit=558%2C929&ssl=1"
+        "name": "Velox Drago Pelle",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2022/11/VELOX-IP-GREEN-COCCO-M7778-FUMA.jpg?fit=558%2C930&ssl=1"
       },
       {
-        "name": "Palombaro",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-PALOMBARO-M8266.03.jpg?fit=558%2C930&ssl=1"
+        "name": "Velox Durox",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/12/FUMAGAZZI-VELOX-DUROX.jpg?fit=558%2C930&ssl=1"
       },
       {
-        "name": "Topolopo",
-        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2019/11/FUMAGAZZI-TOPALOPA-UOMO.jpg?fit=558%2C929&ssl=1"
+        "name": "Velox Lemon",
+        "image_url": "https://i0.wp.com/www.fumagazzi.it/wp-content/uploads/2023/12/FUMAGAZZI-VELOX-LEMON.jpg?fit=558%2C930&ssl=1"
       }
     ],
     "Furlan Marri": [
@@ -1977,6 +2001,40 @@
         "name": "Bambino"
       },
       {
+        "name": "Classic and Simple Style",
+        "movement": "automatic",
+        "references": [
+          "RA-AC0028S",
+          "RA-AC0029E",
+          "RA-AC0030L",
+          "RA-AC0031S",
+          "RA-AC0032V",
+          "RA-AC0033Y"
+        ]
+      },
+      {
+        "name": "Classic and Simple Style 38",
+        "movement": "automatic",
+        "references": [
+          "RA-BB0001E",
+          "RA-BB0002S",
+          "RA-BB0003Y",
+          "RA-BB0004Y",
+          "RA-BB0006N"
+        ]
+      },
+      {
+        "name": "Diver Design 40",
+        "movement": "automatic",
+        "references": [
+          "RA-AC0Q13E",
+          "RA-AC0Q14L",
+          "RA-AC0Q15Y",
+          "RA-AC0Q16N",
+          "RA-AC0Q17Y"
+        ]
+      },
+      {
         "name": "Kamasu"
       },
       {
@@ -1986,10 +2044,39 @@
         "name": "Open Heart"
       },
       {
+        "name": "Stretto Date",
+        "movement": "automatic",
+        "references": [
+          "RA-AC0R05E",
+          "RA-AC0R06L",
+          "RA-AC0R07P",
+          "RA-AC0R08Y",
+          "RA-AC0R09L"
+        ]
+      },
+      {
+        "name": "Stretto Day & Night",
+        "movement": "automatic",
+        "references": [
+          "RA-AK0312S",
+          "RA-AK0313Y",
+          "RA-AK0314E",
+          "RA-AK0315L",
+          "RA-AK0316L"
+        ]
+      },
+      {
         "name": "Sun & Moon"
       },
       {
-        "name": "World Map"
+        "name": "World Map",
+        "movement": "automatic",
+        "references": [
+          "RA-AA0E01S",
+          "RA-AA0E02E",
+          "RA-AA0E03L",
+          "RA-AA0E08Y"
+        ]
       }
     ],
     "Orient Star": [
@@ -1998,6 +2085,64 @@
       },
       {
         "name": "Contemporary"
+      },
+      {
+        "name": "Contemporary Date",
+        "movement": "automatic",
+        "references": [
+          "RE-AU0112V",
+          "RE-AU0113Y",
+          "RE-AU0114E"
+        ]
+      },
+      {
+        "name": "M34 F8 Date",
+        "movement": "automatic",
+        "references": [
+          "RE-BX0002S",
+          "RE-BX0004L",
+          "RE-BX0006E",
+          "RE-BX0009B",
+          "RE-BX0010A"
+        ]
+      },
+      {
+        "name": "M34 F8 Skeleton Hand Winding",
+        "movement": "manual",
+        "references": [
+          "RE-AZ0101N",
+          "RE-AZ0104L",
+          "RE-AZ0105N"
+        ]
+      },
+      {
+        "name": "M42 Diver 1964 1st Edition F6 Date 200m",
+        "movement": "automatic",
+        "references": [
+          "RE-AU0502S",
+          "RE-AU0503N"
+        ]
+      },
+      {
+        "name": "M45 F7 Small Second",
+        "movement": "automatic",
+        "references": [
+          "RE-BS0001E",
+          "RE-BS0002S",
+          "RE-BS0003N"
+        ]
+      },
+      {
+        "name": "Modern Skeleton",
+        "movement": "automatic",
+        "references": [
+          "RE-AV0134E",
+          "RE-AV0135L",
+          "RE-AV0136N",
+          "RE-AV0137S",
+          "RE-AV0138V",
+          "RE-AV0139Y"
+        ]
       },
       {
         "name": "Revival"
@@ -2011,7 +2156,24 @@
         "name": "Aquis"
       },
       {
+        "name": "Aquis Date Taste of Summer",
+        "movement": "automatic",
+        "references": [
+          "01 733 7789 4158-07 8 23 04PEB",
+          "01 733 7792 4158-07 8 19 05P"
+        ]
+      },
+      {
         "name": "Artelier"
+      },
+      {
+        "name": "Artelier Calibre 113",
+        "movement": "manual",
+        "references": [
+          "01 113 7806 4051-07 5 22 96FC",
+          "01 113 7806 4051-07 8 23 79PS",
+          "01 113 7806 4057-07 5 22 96FC"
+        ]
       },
       {
         "name": "Artix"
@@ -2041,6 +2203,27 @@
         "name": "Frank Sinatra"
       },
       {
+        "name": "Hölstein Edition 2026",
+        "movement": "automatic",
+        "references": [
+          "01 401 7812 4081-Set"
+        ]
+      },
+      {
+        "name": "Lou Gehrig Limited Edition",
+        "movement": "automatic",
+        "references": [
+          "01 754 7785 4091-Set"
+        ]
+      },
+      {
+        "name": "Oris Star Edition",
+        "movement": "automatic",
+        "references": [
+          "01 733 7813 4151-Set"
+        ]
+      },
+      {
         "name": "ProDiver"
       },
       {
@@ -2050,22 +2233,203 @@
         "name": "ProPilot X"
       },
       {
+        "name": "ProPilot X Calibre 115",
+        "movement": "manual",
+        "references": [
+          "01 115 7759 7153-Set5 22 04TLC",
+          "01 115 7759 7153-Set7 22 01TLC"
+        ]
+      },
+      {
+        "name": "ProPilot X Calibre 400",
+        "movement": "automatic",
+        "references": [
+          "01 400 7778 7153-07 7 20 01TLC",
+          "01 400 7778 7155-07 7 20 01TLC",
+          "01 400 7778 7158-07 7 20 01TLC"
+        ]
+      },
+      {
+        "name": "ProPilot X Calibre 400 Laser",
+        "movement": "automatic",
+        "references": [
+          "01 400 7778 7150-07 7 20 01TLC"
+        ]
+      },
+      {
+        "name": "ProPilot X CARE FOR LIFE Calibre 115",
+        "movement": "manual",
+        "references": [
+          "01 115 7759 7128-Set"
+        ]
+      },
+      {
+        "name": "ProPilot X Kermit Edition",
+        "movement": "automatic",
+        "references": [
+          "01 400 7778 7157-Set"
+        ]
+      },
+      {
+        "name": "ProPilot X Miss Piggy Edition",
+        "movement": "automatic",
+        "references": [
+          "01 531 7796 4158-07 8 17 05LC"
+        ]
+      },
+      {
         "name": "Rectangular"
       },
       {
         "name": "Tonneau",
         "movement": "automatic"
+      },
+      {
+        "name": "Year of the Snake Limited Edition",
+        "movement": "manual",
+        "references": [
+          "01 115 7759 7117-Set"
+        ]
       }
     ],
     "Panerai": [
       {
-        "name": "Luminor"
+        "name": "Luminor",
+        "references": [
+          "PAM01731",
+          "PAM01735"
+        ]
+      },
+      {
+        "name": "Luminor 8 Giorni",
+        "references": [
+          "PAM01733"
+        ]
+      },
+      {
+        "name": "Luminor 31 Giorni",
+        "references": [
+          "PAM01631"
+        ]
       },
       {
         "name": "Luminor 1950"
       },
       {
-        "name": "Luminor Due"
+        "name": "Luminor Base Logo",
+        "references": [
+          "PAM01087"
+        ]
+      },
+      {
+        "name": "Luminor Chrono Flyback Luna Rossa Titanio",
+        "references": [
+          "PAM01654"
+        ]
+      },
+      {
+        "name": "Luminor Destro",
+        "references": [
+          "PAM01732"
+        ]
+      },
+      {
+        "name": "Luminor Due",
+        "references": [
+          "PAM01123",
+          "PAM01124",
+          "PAM01280",
+          "PAM01309",
+          "PAM01311",
+          "PAM01387",
+          "PAM01423",
+          "PAM01428",
+          "PAM01429",
+          "PAM01508",
+          "PAM01539",
+          "PAM01550",
+          "PAM01552",
+          "PAM01672"
+        ]
+      },
+      {
+        "name": "Luminor Due Luna",
+        "references": [
+          "PAM01181",
+          "PAM01301",
+          "PAM01557"
+        ]
+      },
+      {
+        "name": "Luminor Due Luna Rossa",
+        "references": [
+          "PAM01673"
+        ]
+      },
+      {
+        "name": "Luminor Due TuttoOro",
+        "references": [
+          "PAM01182",
+          "PAM01326"
+        ]
+      },
+      {
+        "name": "Luminor Forged Titanium",
+        "references": [
+          "PAM01629"
+        ]
+      },
+      {
+        "name": "Luminor GMT",
+        "references": [
+          "PAM01460"
+        ]
+      },
+      {
+        "name": "Luminor GMT Ceramica",
+        "references": [
+          "PAM01783"
+        ]
+      },
+      {
+        "name": "Luminor Luna Rossa",
+        "references": [
+          "PAM01653"
+        ]
+      },
+      {
+        "name": "Luminor Luna Rossa Chrono",
+        "references": [
+          "PAM01768"
+        ]
+      },
+      {
+        "name": "Luminor Luna Rossa GMT",
+        "references": [
+          "PAM01791"
+        ]
+      },
+      {
+        "name": "Luminor Marina",
+        "references": [
+          "PAM03312",
+          "PAM03313",
+          "PAM03314",
+          "PAM03323",
+          "PAM03325"
+        ]
+      },
+      {
+        "name": "Luminor Marina Bronzo",
+        "references": [
+          "PAM01678"
+        ]
+      },
+      {
+        "name": "Luminor Marina Militare",
+        "references": [
+          "PAM05218"
+        ]
       },
       {
         "name": "Mare Nostrum"
@@ -2077,7 +2441,64 @@
         "name": "Radiomir 1940"
       },
       {
-        "name": "Submersible"
+        "name": "Submersible",
+        "references": [
+          "PAM01287",
+          "PAM01289",
+          "PAM01590",
+          "PAM01595",
+          "PAM01596",
+          "PAM01756",
+          "PAM02068"
+        ]
+      },
+      {
+        "name": "Submersible GMT",
+        "references": [
+          "PAM01495"
+        ]
+      },
+      {
+        "name": "Submersible Luna Rossa",
+        "references": [
+          "PAM01466",
+          "PAM01543",
+          "PAM01565",
+          "PAM01579"
+        ]
+      },
+      {
+        "name": "Submersible Marina Militare",
+        "references": [
+          "PAM01697",
+          "PAM01698"
+        ]
+      },
+      {
+        "name": "Submersible Mike Horn",
+        "references": [
+          "PAM01676"
+        ]
+      },
+      {
+        "name": "Submersible Navy SEALs",
+        "references": [
+          "PAM01518",
+          "PAM01738"
+        ]
+      },
+      {
+        "name": "Submersible Navy Seals Afniotech™ Experience",
+        "references": [
+          "PAM01089"
+        ]
+      },
+      {
+        "name": "Submersible Navy SEALs GMT",
+        "references": [
+          "PAM01323",
+          "PAM01513"
+        ]
       }
     ],
     "Parmigiani Fleurier": [
@@ -2114,7 +2535,15 @@
       },
       {
         "name": "Cubitus",
-        "movement": "automatic"
+        "movement": "automatic",
+        "references": [
+          "5821/1A-001",
+          "5821/1AR-001",
+          "5822P-001",
+          "5840P-001",
+          "7128/1G-001",
+          "7128/1R-001"
+        ]
       },
       {
         "name": "Golden Ellipse",
@@ -2155,6 +2584,15 @@
         "name": "Sixtie"
       },
       {
+        "name": "Swinging Pebble Sautoir Watch",
+        "movement": "quartz",
+        "references": [
+          "G0A51408",
+          "G0A51409",
+          "G0A51410"
+        ]
+      },
+      {
         "name": "Swinging Pebbles"
       }
     ],
@@ -2179,6 +2617,15 @@
       },
       {
         "name": "DiaMaster"
+      },
+      {
+        "name": "DiaStar Original Skeleton Limited Edition",
+        "movement": "automatic",
+        "references": [
+          "R12166309",
+          "R12169209",
+          "R12169409"
+        ]
       },
       {
         "name": "Golden Horse"
@@ -2209,6 +2656,62 @@
       }
     ],
     "Ressence": [
+      {
+        "name": "TYPE 1 Round Rose Gold",
+        "movement": "automatic",
+        "references": [
+          "T13R-GX1-KGA"
+        ]
+      },
+      {
+        "name": "TYPE 3 Black",
+        "movement": "automatic",
+        "references": [
+          "T36X-BXX1-SBA"
+        ]
+      },
+      {
+        "name": "TYPE 3 Eucalyptus",
+        "movement": "automatic",
+        "references": [
+          "T35X-EEX1-FGA"
+        ]
+      },
+      {
+        "name": "TYPE 5 Night Blue",
+        "movement": "automatic",
+        "references": [
+          "T51X-NXX1-RNA"
+        ]
+      },
+      {
+        "name": "TYPE 7 B",
+        "movement": "automatic",
+        "references": [
+          "T71G-BXX1-TUD"
+        ]
+      },
+      {
+        "name": "TYPE 7 C",
+        "movement": "automatic",
+        "references": [
+          "T71G-CAX1-TUD"
+        ]
+      },
+      {
+        "name": "TYPE 7 N",
+        "movement": "automatic",
+        "references": [
+          "T71G-NIG1-TUD"
+        ]
+      },
+      {
+        "name": "TYPE 7 XV",
+        "movement": "automatic",
+        "references": [
+          "T71G-XVX1-TUD"
+        ]
+      },
       {
         "name": "Type 11"
       }
@@ -2426,8 +2929,59 @@
     ],
     "Swatch": [
       {
+        "name": "ANTARCTIC OCEAN",
+        "movement": "automatic",
+        "references": [
+          "SO35S100"
+        ]
+      },
+      {
+        "name": "ARCTIC OCEAN",
+        "movement": "automatic",
+        "references": [
+          "SO35N100"
+        ]
+      },
+      {
+        "name": "ATLANTIC OCEAN",
+        "movement": "automatic",
+        "references": [
+          "SO35A100"
+        ]
+      },
+      {
+        "name": "GREEN ABYSS",
+        "movement": "automatic",
+        "references": [
+          "SO35G100"
+        ]
+      },
+      {
+        "name": "INDIAN OCEAN",
+        "movement": "automatic",
+        "references": [
+          "SO35I100",
+          "SO35I100D"
+        ]
+      },
+      {
         "name": "MoonSwatch",
         "movement": "quartz"
+      },
+      {
+        "name": "OCEAN OF STORMS",
+        "movement": "automatic",
+        "references": [
+          "SO35B400"
+        ]
+      },
+      {
+        "name": "PACIFIC OCEAN",
+        "movement": "automatic",
+        "references": [
+          "SO35P100",
+          "SO35P100D"
+        ]
       },
       {
         "name": "Royal Pop",
@@ -2502,6 +3056,38 @@
     "Timex": [
       {
         "name": "Atelier"
+      },
+      {
+        "name": "Atelier Chronograph Automatic M1a Ti",
+        "movement": "automatic",
+        "references": [
+          "TW6A02700",
+          "TW6A02800"
+        ]
+      },
+      {
+        "name": "Atelier Chronograph Quartz M1q",
+        "movement": "quartz",
+        "references": [
+          "TW6A06900",
+          "TW6A07000"
+        ]
+      },
+      {
+        "name": "Atelier GMT24 M1a",
+        "movement": "automatic",
+        "references": [
+          "TW2Y72300",
+          "TW2Y72400"
+        ]
+      },
+      {
+        "name": "Atelier Marine M1a",
+        "movement": "automatic",
+        "references": [
+          "TW2Y72500",
+          "TW2Y72600"
+        ]
       },
       {
         "name": "Expedition"
@@ -2595,6 +3181,14 @@
         "name": "PR516"
       },
       {
+        "name": "PR516 41mm",
+        "movement": "automatic",
+        "references": [
+          "T1494592105100",
+          "T1494621101100"
+        ]
+      },
+      {
         "name": "PRC 100"
       },
       {
@@ -2618,10 +3212,6 @@
         "name": "Quickster"
       },
       {
-        "name": "SRV",
-        "movement": "quartz"
-      },
-      {
         "name": "Sculpture"
       },
       {
@@ -2630,6 +3220,10 @@
       {
         "name": "Sideral",
         "movement": "automatic"
+      },
+      {
+        "name": "SRV",
+        "movement": "quartz"
       },
       {
         "name": "Stylist",
@@ -2681,7 +3275,13 @@
       },
       {
         "name": "Black Bay 54",
-        "movement": "automatic"
+        "movement": "automatic",
+        "references": [
+          "M79000B-0001",
+          "M79000B-0002",
+          "M79000N-0001",
+          "M79000N-0002"
+        ]
       },
       {
         "name": "Black Bay 58"
@@ -2733,7 +3333,11 @@
         "movement": "automatic"
       },
       {
-        "name": "Pelagos"
+        "name": "Pelagos",
+        "movement": "automatic",
+        "references": [
+          "M25407N-0001"
+        ]
       },
       {
         "name": "Ranger"
@@ -2752,6 +3356,27 @@
       }
     ],
     "Ulysse Nardin": [
+      {
+        "name": "Blast Dual Time",
+        "movement": "automatic",
+        "references": [
+          "243-20/42"
+        ]
+      },
+      {
+        "name": "Blast Free Wheel Maillechort",
+        "movement": "manual",
+        "references": [
+          "1760-401LE-4A-MAIL/3A"
+        ]
+      },
+      {
+        "name": "Blast Tourbillon",
+        "movement": "automatic",
+        "references": [
+          "1723-400/00"
+        ]
+      },
       {
         "name": "Diver"
       },
@@ -2815,17 +3440,28 @@
     ],
     "Vacheron Constantin": [
       {
-        "name": "1972",
-        "movement": "manual"
+        "name": "222",
+        "movement": "automatic",
+        "references": [
+          "4200H/222A-B934"
+        ]
       },
       {
-        "name": "222"
+        "name": "1972",
+        "movement": "manual"
       },
       {
         "name": "American 1921"
       },
       {
-        "name": "FiftySix"
+        "name": "Égérie"
+      },
+      {
+        "name": "FiftySix",
+        "movement": "automatic",
+        "references": [
+          "4600E/000A-B442"
+        ]
       },
       {
         "name": "Harmony"
@@ -2847,10 +3483,18 @@
         "name": "Métiers d'Art"
       },
       {
-        "name": "Overseas"
+        "name": "Overseas",
+        "movement": "automatic",
+        "references": [
+          "4520V/210A-B483"
+        ]
       },
       {
-        "name": "Patrimony"
+        "name": "Patrimony",
+        "movement": "automatic",
+        "references": [
+          "4110U/000G-B906"
+        ]
       },
       {
         "name": "Quai de l'Ile",
@@ -2858,9 +3502,6 @@
       },
       {
         "name": "Traditionnelle"
-      },
-      {
-        "name": "Égérie"
       }
     ],
     "Van Cleef & Arpels": [
@@ -2870,7 +3511,12 @@
     ],
     "Yema": [
       {
-        "name": "Flygraf"
+        "name": "Flygraf",
+        "movement": "automatic",
+        "references": [
+          "YFLY25-AMS",
+          "YFLY25-ZMS"
+        ]
       },
       {
         "name": "Rallygraf"
@@ -2901,7 +3547,10 @@
       },
       {
         "name": "Chronomaster Sport",
-        "movement": "automatic"
+        "movement": "automatic",
+        "references": [
+          "03.3100.3600/21.M3100"
+        ]
       },
       {
         "name": "Class",
@@ -2925,7 +3574,13 @@
         "name": "Elite"
       },
       {
-        "name": "G.F.J."
+        "name": "G.F.J.",
+        "movement": "manual",
+        "references": [
+          "30.1865.0135/56.C216",
+          "40.1865.0135/51.C200",
+          "98.1865.0135/21.C212"
+        ]
       },
       {
         "name": "Pilot"

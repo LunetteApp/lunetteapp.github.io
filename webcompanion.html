@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta id="page-description" name="description" content="Connect this browser directly to Lunette Web Companion on your local network.">
+    <meta name="color-scheme" content="dark">
+    <title>Connect to Lunette Web Companion</title>
+    <link rel="icon" type="image/png" href="assets/icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            color-scheme: dark;
+            --background: #0b0d11;
+            --surface: #15181f;
+            --border: rgba(143, 172, 218, 0.2);
+            --accent: #8facda;
+            --accent-soft: rgba(143, 172, 218, 0.12);
+            --text: #eceef3;
+            --secondary: #aeb5c0;
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            min-height: 100vh;
+            margin: 0;
+            display: grid;
+            place-items: center;
+            padding: 28px;
+            overflow-x: hidden;
+            font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+            color: var(--text);
+            background:
+                radial-gradient(circle at 70% 15%, rgba(74, 112, 165, 0.22), transparent 36rem),
+                radial-gradient(circle at 15% 85%, rgba(42, 75, 105, 0.16), transparent 30rem),
+                var(--background);
+        }
+
+        .shell {
+            width: min(100%, 560px);
+        }
+
+        .brand {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            margin: 0 0 18px 18px;
+            color: var(--text);
+            font-family: "Space Grotesk", sans-serif;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .brand img {
+            width: 34px;
+            height: 34px;
+            border-radius: 9px;
+        }
+
+        .card {
+            padding: clamp(34px, 7vw, 58px);
+            text-align: center;
+            background: rgba(21, 24, 31, 0.92);
+            border: 1px solid var(--border);
+            border-radius: 28px;
+            box-shadow: 0 28px 90px rgba(0, 0, 0, 0.38);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+        }
+
+        .connection-icon {
+            width: 76px;
+            height: 76px;
+            margin: 0 auto 26px;
+            display: grid;
+            place-items: center;
+            color: var(--accent);
+            background: var(--accent-soft);
+            border: 1px solid var(--border);
+            border-radius: 22px;
+        }
+
+        .connection-icon svg {
+            width: 39px;
+            height: 39px;
+        }
+
+        .connection-icon.is-searching svg {
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+
+        h1 {
+            margin: 0;
+            font-family: "Space Grotesk", sans-serif;
+            font-size: clamp(29px, 6vw, 40px);
+            line-height: 1.08;
+            letter-spacing: -0.035em;
+        }
+
+        .message {
+            min-height: 52px;
+            margin: 18px auto 0;
+            color: var(--secondary);
+            font-size: 16px;
+            line-height: 1.65;
+        }
+
+        .actions {
+            display: none;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 12px;
+            margin-top: 28px;
+        }
+
+        .actions.is-visible { display: flex; }
+
+        .button {
+            min-height: 48px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 12px 22px;
+            border: 1px solid transparent;
+            border-radius: 999px;
+            font: inherit;
+            font-weight: 600;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .button-primary {
+            color: #090b0f;
+            background: var(--accent);
+        }
+
+        .button-secondary {
+            color: var(--text);
+            background: transparent;
+            border-color: var(--border);
+        }
+
+        .hint {
+            margin: 24px 0 0;
+            color: #7f8794;
+            font-size: 13px;
+            line-height: 1.55;
+        }
+
+        .port-link {
+            display: none;
+            margin-top: 14px;
+            color: var(--accent);
+            font-size: 13px;
+            text-underline-offset: 3px;
+        }
+
+        .port-link.is-visible { display: inline-block; }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 0.45; transform: scale(0.92); }
+            50% { opacity: 1; transform: scale(1); }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .connection-icon.is-searching svg { animation: none; }
+        }
+    </style>
+</head>
+<body>
+    <main class="shell">
+        <a class="brand" id="home-link" href="/" aria-label="Lunette home">
+            <img src="assets/icon.png" alt="">
+            <span>Lunette</span>
+        </a>
+
+        <section class="card" aria-labelledby="connection-title">
+            <div class="connection-icon is-searching" id="connection-icon" aria-hidden="true">
+                <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="7" y="10" width="24" height="29" rx="4"></rect>
+                    <path d="M14 17h10M14 23h10M14 29h6"></path>
+                    <path d="M34 17a9 9 0 0 1 0 15M38 13a14 14 0 0 1 0 23"></path>
+                </svg>
+            </div>
+
+            <h1 id="connection-title">Connecting to Lunette</h1>
+            <p class="message" id="connection-message" role="status" aria-live="polite">
+                Looking for Web Companion on your local network…
+            </p>
+
+            <div class="actions" id="connection-actions">
+                <button class="button button-primary" id="retry-button" type="button">Try again</button>
+                <a class="button button-secondary" id="direct-link" href="http://lunette.local/">Open directly</a>
+            </div>
+            <a class="port-link" id="port-link" href="http://lunette.local:8080/">Try port 8080</a>
+
+            <p class="hint" id="connection-hint">
+                Keep Web Companion open on your iPhone and make sure both devices use the same Wi-Fi network. Your browser connects directly to your iPhone.
+            </p>
+        </section>
+    </main>
+
+    <noscript>
+        <p><a href="http://lunette.local/">Open Lunette Web Companion</a></p>
+    </noscript>
+
+    <script>
+        (() => {
+            const translations = {
+                en: {
+                    pageTitle: "Connect to Lunette Web Companion",
+                    description: "Connect this browser directly to Lunette Web Companion on your local network.",
+                    homeLabel: "Lunette home",
+                    connecting: "Connecting to Lunette",
+                    looking: "Looking for Web Companion on your local network…",
+                    found: "Web Companion found",
+                    opening: "Opening the private connection to your iPhone…",
+                    notFound: "Web Companion not found",
+                    notFoundBody: "Open Web Companion in Lunette and keep that screen visible, then try again.",
+                    retry: "Try again",
+                    openDirectly: "Open directly",
+                    tryPort: "Try port 8080",
+                    hint: "Keep Web Companion open on your iPhone and make sure both devices use the same Wi-Fi network. Your browser connects directly to your iPhone."
+                },
+                it: {
+                    pageTitle: "Connettiti a Lunette Web Companion",
+                    description: "Connetti questo browser direttamente a Lunette Web Companion sulla tua rete locale.",
+                    homeLabel: "Pagina iniziale di Lunette",
+                    connecting: "Connessione a Lunette",
+                    looking: "Ricerca di Web Companion sulla rete locale…",
+                    found: "Web Companion trovato",
+                    opening: "Apertura della connessione privata al tuo iPhone…",
+                    notFound: "Web Companion non trovato",
+                    notFoundBody: "Apri Web Companion in Lunette e mantieni visibile la schermata, poi riprova.",
+                    retry: "Riprova",
+                    openDirectly: "Apri direttamente",
+                    tryPort: "Prova la porta 8080",
+                    hint: "Mantieni Web Companion aperto sul tuo iPhone e assicurati che entrambi i dispositivi usino la stessa rete Wi-Fi. Il browser si connette direttamente al tuo iPhone."
+                },
+                es: {
+                    pageTitle: "Conectar con Lunette Web Companion",
+                    description: "Conecta este navegador directamente con Lunette Web Companion en tu red local.",
+                    homeLabel: "Inicio de Lunette",
+                    connecting: "Conectando con Lunette",
+                    looking: "Buscando Web Companion en tu red local…",
+                    found: "Web Companion encontrado",
+                    opening: "Abriendo la conexión privada con tu iPhone…",
+                    notFound: "No se encontró Web Companion",
+                    notFoundBody: "Abre Web Companion en Lunette y mantén esa pantalla visible. Después, inténtalo de nuevo.",
+                    retry: "Intentar de nuevo",
+                    openDirectly: "Abrir directamente",
+                    tryPort: "Probar el puerto 8080",
+                    hint: "Mantén Web Companion abierto en tu iPhone y asegúrate de que ambos dispositivos usen la misma red Wi-Fi. El navegador se conecta directamente con tu iPhone."
+                },
+                fr: {
+                    pageTitle: "Connexion à Lunette Web Companion",
+                    description: "Connectez directement ce navigateur à Lunette Web Companion sur votre réseau local.",
+                    homeLabel: "Accueil de Lunette",
+                    connecting: "Connexion à Lunette",
+                    looking: "Recherche de Web Companion sur votre réseau local…",
+                    found: "Web Companion trouvé",
+                    opening: "Ouverture de la connexion privée à votre iPhone…",
+                    notFound: "Web Companion introuvable",
+                    notFoundBody: "Ouvrez Web Companion dans Lunette et gardez cet écran visible, puis réessayez.",
+                    retry: "Réessayer",
+                    openDirectly: "Ouvrir directement",
+                    tryPort: "Essayer le port 8080",
+                    hint: "Gardez Web Companion ouvert sur votre iPhone et vérifiez que les deux appareils utilisent le même réseau Wi-Fi. Votre navigateur se connecte directement à votre iPhone."
+                },
+                de: {
+                    pageTitle: "Mit Lunette Web Companion verbinden",
+                    description: "Verbinde diesen Browser in deinem lokalen Netzwerk direkt mit Lunette Web Companion.",
+                    homeLabel: "Lunette Startseite",
+                    connecting: "Verbindung mit Lunette",
+                    looking: "Web Companion wird im lokalen Netzwerk gesucht…",
+                    found: "Web Companion gefunden",
+                    opening: "Die private Verbindung zu deinem iPhone wird geöffnet…",
+                    notFound: "Web Companion nicht gefunden",
+                    notFoundBody: "Öffne Web Companion in Lunette und lass den Bildschirm sichtbar. Versuche es dann erneut.",
+                    retry: "Erneut versuchen",
+                    openDirectly: "Direkt öffnen",
+                    tryPort: "Port 8080 versuchen",
+                    hint: "Lass Web Companion auf deinem iPhone geöffnet und stelle sicher, dass beide Geräte dasselbe WLAN verwenden. Dein Browser verbindet sich direkt mit deinem iPhone."
+                },
+                pt: {
+                    pageTitle: "Conectar ao Lunette Web Companion",
+                    description: "Conecte este navegador diretamente ao Lunette Web Companion na sua rede local.",
+                    homeLabel: "Início do Lunette",
+                    connecting: "Conectando ao Lunette",
+                    looking: "Procurando o Web Companion na sua rede local…",
+                    found: "Web Companion encontrado",
+                    opening: "Abrindo a conexão privada com o seu iPhone…",
+                    notFound: "Web Companion não encontrado",
+                    notFoundBody: "Abra o Web Companion no Lunette e mantenha essa tela visível. Depois, tente novamente.",
+                    retry: "Tentar novamente",
+                    openDirectly: "Abrir diretamente",
+                    tryPort: "Tentar a porta 8080",
+                    hint: "Mantenha o Web Companion aberto no seu iPhone e confirme que os dois dispositivos usam a mesma rede Wi-Fi. O navegador se conecta diretamente ao seu iPhone."
+                }
+            };
+
+            const requestedLanguages = [
+                new URLSearchParams(window.location.search).get("lang"),
+                ...(navigator.languages || []),
+                navigator.language
+            ].filter(Boolean);
+            const language = requestedLanguages
+                .map((candidate) => candidate.toLowerCase().split("-")[0])
+                .find((candidate) => translations[candidate]) || "en";
+            const copy = translations[language];
+            const candidates = ["http://lunette.local", "http://lunette.local:8080"];
+            const title = document.querySelector("#connection-title");
+            const message = document.querySelector("#connection-message");
+            const icon = document.querySelector("#connection-icon");
+            const actions = document.querySelector("#connection-actions");
+            const portLink = document.querySelector("#port-link");
+            const retryButton = document.querySelector("#retry-button");
+            const directLink = document.querySelector("#direct-link");
+            const hint = document.querySelector("#connection-hint");
+
+            document.documentElement.lang = language;
+            document.title = copy.pageTitle;
+            document.querySelector("#page-description").content = copy.description;
+            document.querySelector("#home-link").setAttribute("aria-label", copy.homeLabel);
+            retryButton.textContent = copy.retry;
+            directLink.textContent = copy.openDirectly;
+            portLink.textContent = copy.tryPort;
+            hint.textContent = copy.hint;
+
+            async function ping(baseURL) {
+                const controller = new AbortController();
+                const timeout = window.setTimeout(() => controller.abort(), 3000);
+
+                try {
+                    const request = new Request(`${baseURL}/api/v1/health?discovery=${Date.now()}`, {
+                        method: "GET",
+                        mode: "no-cors",
+                        cache: "no-store",
+                        credentials: "omit",
+                        targetAddressSpace: "local",
+                        signal: controller.signal
+                    });
+                    await fetch(request);
+                    return true;
+                } catch {
+                    return false;
+                } finally {
+                    window.clearTimeout(timeout);
+                }
+            }
+
+            async function connect() {
+                retryButton.disabled = true;
+                title.textContent = copy.connecting;
+                message.textContent = copy.looking;
+                icon.classList.add("is-searching");
+                actions.classList.remove("is-visible");
+                portLink.classList.remove("is-visible");
+
+                for (const candidate of candidates) {
+                    if (await ping(candidate)) {
+                        title.textContent = copy.found;
+                        message.textContent = copy.opening;
+                        window.location.replace(`${candidate}/`);
+                        return;
+                    }
+                }
+
+                title.textContent = copy.notFound;
+                message.textContent = copy.notFoundBody;
+                icon.classList.remove("is-searching");
+                actions.classList.add("is-visible");
+                portLink.classList.add("is-visible");
+                retryButton.disabled = false;
+            }
+
+            retryButton.addEventListener("click", connect);
+            window.setTimeout(connect, 200);
+        })();
+    </script>
+</body>
+</html>

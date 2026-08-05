@@ -2,41 +2,72 @@
 
 const fs = require("fs/promises");
 const path = require("path");
-const { execFile } = require("child_process");
+const Parser = require("rss-parser");
 const { serializedNews } = require("./news-hash");
+const {
+  closeHeadlessBrowsers,
+  fetchTextWithBrowser
+} = require("./headless-browser-fetch");
+const {
+  HISTORY_PATH,
+  historyRecord,
+  hostnameForURL,
+  publicationRateForHosts,
+  readArticleHistory,
+  upsertHistoryRecord,
+  writeArticleHistory
+} = require("./news-history");
+const {
+  canonicalNewsURL,
+  isScore,
+  singletonClusterID,
+  writeFileAtomically
+} = require("./news-utils");
 
 const ROOT = path.resolve(__dirname, "..");
 const CONFIG_PATH = path.join(ROOT, "feed_websites.json");
 const OUTPUT_PATH = path.join(ROOT, "api", "v1", "news.json");
 
-const USER_AGENTS = [
-  "Lunette/1.0 (+https://lunetteapp.com; RSS reader)",
-  "LunetteFeedFetcher/1.0 (+https://lunetteapp.com)",
-  "LunetteNewsFetcher/1.0 (+https://lunetteapp.com; RSS reader)",
-  "LunetteRSSBot/1.0 (+https://lunetteapp.com)",
-  "LunetteFeedReader/1.0 (+https://lunetteapp.com)"
-];
+const SOURCE_FETCH_CONCURRENCY = 8;
+const RATE_WINDOW_DAYS = 30;
 
-const USER_AGENT_RUN_OFFSET = Math.floor(Math.random() * USER_AGENTS.length);
-const MAX_FETCH_ATTEMPTS = 3;
+const feedParser = new Parser({
+  customFields: {
+    item: [
+      ["content:encoded", "contentEncoded"],
+      ["dc:date", "dcDate"],
+      ["media:content", "mediaContent", { keepArray: true }],
+      ["media:thumbnail", "mediaThumbnail", { keepArray: true }],
+      ["itunes:image", "itunesImage"],
+      ["source", "itemSource"]
+    ]
+  }
+});
 
 async function main() {
   const config = JSON.parse(await fs.readFile(CONFIG_PATH, "utf8"));
   const maxItems = numberOr(config.max_items, 40);
   const maxItemsPerSource = numberOr(config.max_items_per_source, 8);
   const timeoutMs = numberOr(config.request_timeout_ms, 15000);
+  const globalExcludeKeywords = Array.isArray(config.exclude_keywords) ? config.exclude_keywords : [];
   const sources = Array.isArray(config.sources) ? config.sources.filter((source) => source.enabled !== false) : [];
 
   const existingNews = await readExistingNews();
-  const premium = existingNews?.premium ?? {
+  const premium = {
     links: normalizePremiumLinks(config.premium?.links ?? config.premium_links ?? [])
   };
+  const checkedAt = new Date();
+  const { history, existed: historyExisted } = readArticleHistory();
+  const historyBefore = JSON.stringify(history);
+  const knownBefore = new Set(Object.keys(history.articles));
 
-  const settled = await Promise.allSettled(
-    sources.map(async (source) => {
+  const settled = await mapWithConcurrency(
+    sources,
+    SOURCE_FETCH_CONCURRENCY,
+    async (source) => {
       const feedText = await fetchText(source.feed_url, timeoutMs);
-      const parsedItems = parseFeed(feedText, source);
-      const acceptedItems = parsedItems.filter((item) => matchesSourceFilters(item, source));
+      const parsedItems = await parseFeed(feedText, source);
+      const acceptedItems = parsedItems.filter((item) => matchesSourceFilters(item, source, globalExcludeKeywords));
       const keptItems = acceptedItems.slice(0, maxItemsPerSource);
 
       logSourceResult(source, {
@@ -45,20 +76,29 @@ async function main() {
         keptCount: keptItems.length
       });
 
-      return keptItems;
-    })
+      return { acceptedItems, keptItems };
+    }
   );
 
   const items = [];
+  const sourceFetches = [];
 
   for (let index = 0; index < settled.length; index += 1) {
     const result = settled[index];
 
     if (result.status === "fulfilled") {
-      items.push(...result.value);
+      items.push(...result.value.keptItems);
+      sourceFetches[index] = {
+        succeeded: true,
+        acceptedItems: result.value.acceptedItems
+      };
     } else {
       const fallbackItems = existingItemsForSource(existingNews, sources[index])
         .slice(0, maxItemsPerSource);
+      sourceFetches[index] = {
+        succeeded: false,
+        acceptedItems: fallbackItems
+      };
 
       if (fallbackItems.length > 0) {
         console.warn(`Keeping ${fallbackItems.length} existing item(s) for ${sourceLabel(sources[index])} - ${result.reason?.message ?? result.reason}`);
@@ -69,10 +109,28 @@ async function main() {
     }
   }
 
-  const newsItems = dedupeByUrl(items)
+  for (const fetchResult of sourceFetches) {
+    if (!fetchResult?.succeeded) continue;
+    for (const article of fetchResult.acceptedItems) {
+      upsertHistoryRecord(history, article, checkedAt, {
+        bootstrap: !historyExisted
+      });
+    }
+  }
+
+  const rankedItems = dedupeByUrl(items)
+    .filter((item) => historyRecord(history, item.url)?.marketing !== true)
     .sort(compareNewsPriority)
-    .slice(0, maxItems)
-    .map((item) => ({
+    .slice(0, maxItems);
+
+  await attachArticleMetadata(rankedItems, existingNews, history, checkedAt, timeoutMs);
+
+  const existingItemsByURL = new Map(
+    (Array.isArray(existingNews?.items) ? existingNews.items : [])
+      .map((item) => [canonicalNewsURL(item.url), item])
+  );
+  const newsItems = rankedItems.map((item) => {
+    const output = {
       title: item.title,
       url: item.url,
       image: item.image,
@@ -81,55 +139,127 @@ async function main() {
       lang: item.lang,
       featured: item.featured,
       published_at: item.published_at
-    }));
+    };
+
+    return preserveEvaluationMetadata(
+      output,
+      existingItemsByURL.get(canonicalNewsURL(item.url))
+    );
+  });
+
+  for (const article of newsItems) {
+    const key = canonicalNewsURL(article.url);
+    const previousItem = existingItemsByURL.get(key);
+    const record = upsertHistoryRecord(history, article, checkedAt, {
+      bootstrap: !historyExisted
+    });
+    record.scoring_pending = article.score_quality === -1
+      || article.score_notif === -1;
+    record.clustering_pending = !knownBefore.has(key)
+      || record.clustering_pending === true
+      || typeof previousItem?.cluster !== "string"
+      || !previousItem.cluster.trim()
+      || typeof previousItem?.cluster_main !== "boolean";
+  }
+
+  const sourceCatalog = sources.map((source, index) => buildSourceMetadata({
+    source,
+    fetchResult: sourceFetches[index],
+    existingNews,
+    checkedAt,
+    history,
+    historyExisted,
+    knownBefore
+  }));
+
+  const stableSources = sourceCatalog.map(({ source_name, lang }) => ({ source_name, lang }));
+  const previousStableSources = (Array.isArray(existingNews?.sources) ? existingNews.sources : [])
+    .map(({ source_name, lang }) => ({ source_name, lang }));
+  const meaningfulChange = JSON.stringify(newsItems) !== JSON.stringify(existingNews?.items ?? [])
+    || JSON.stringify(premium) !== JSON.stringify(existingNews?.premium ?? { links: [] })
+    || JSON.stringify(stableSources) !== JSON.stringify(previousStableSources)
+    || JSON.stringify(history) !== historyBefore;
+
+  if (!meaningfulChange) {
+    console.log("No article, premium, source-catalog, or history changes; leaving generated files untouched");
+    return;
+  }
 
   const news = {
-    last_updated: new Date().toISOString(),
+    last_updated: checkedAt.toISOString(),
     premium,
+    sources: sourceCatalog,
     items: newsItems
   };
 
-  await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
-  await fs.writeFile(OUTPUT_PATH, serializedNews(news));
+  writeFileAtomically(OUTPUT_PATH, serializedNews(news));
+  writeArticleHistory(history, HISTORY_PATH);
   console.log(`Wrote ${news.items.length} news item(s) to ${path.relative(ROOT, OUTPUT_PATH)}`);
 }
 
-async function fetchText(url, timeoutMs) {
-  // Try wget first — it handles more sites without 403.
-  const wgetResult = await fetchTextWget(url, timeoutMs);
-  if (wgetResult !== null) return wgetResult;
-
-  // Fall back to Node fetch with retries.
-  let lastError;
-
-  for (let attempt = 1; attempt <= MAX_FETCH_ATTEMPTS; attempt += 1) {
-    try {
-      const text = await fetchTextOnce(url, timeoutMs, attempt);
-      // A 200 with an HTML body (bot check, Cloudflare) should also trigger fallback.
-      if (!looksLikeFeed(text)) {
-        console.warn(`  [node] response does not look like a feed for ${url}, trying fallbacks`);
-        const fallback = await fetchTextFallback(url, timeoutMs);
-        if (fallback !== null) return fallback;
-        throw new Error(`No tool returned a valid feed for ${url}`);
-      }
-      return text;
-    } catch (error) {
-      lastError = error;
-
-      if (attempt === MAX_FETCH_ATTEMPTS || !isRetryableFetchError(error)) {
-        // On 403 or other hard failures, try remaining tools before giving up.
-        if (error?.status === 403) {
-          const fallback = await fetchTextFallback(url, timeoutMs);
-          if (fallback !== null) return fallback;
+async function mapWithConcurrency(values, concurrency, operation) {
+  const results = new Array(values.length);
+  let cursor = 0;
+  const workers = Array.from(
+    { length: Math.min(Math.max(1, concurrency), values.length) },
+    async () => {
+      while (cursor < values.length) {
+        const index = cursor;
+        cursor += 1;
+        try {
+          results[index] = {
+            status: "fulfilled",
+            value: await operation(values[index], index)
+          };
+        } catch (reason) {
+          results[index] = { status: "rejected", reason };
         }
-        throw error;
       }
+    }
+  );
+  await Promise.all(workers);
+  return results;
+}
 
-      await sleep(2000 * attempt);
+// Fetch with a real browser network stack. Chrome gets one navigation; Firefox
+// gets one navigation only when Chrome fails or returns an invalid body. Each
+// browser process is shared for the whole run, and all subresources are blocked,
+// making two browser navigation attempts per publisher URL the hard maximum.
+async function fetchText(url, timeoutMs, options = {}) {
+  const validate = options.validate ?? looksLikeFeed;
+  const label = options.label ?? "feed";
+  const browserFetch = options.browserFetch ?? fetchTextWithBrowser;
+  const startedAt = Date.now();
+
+  console.log(`  [fetch] start ${label} ${url}`);
+  const done = (via, text) => {
+    console.log(`  [fetch] ok ${label} via ${via} in ${Date.now() - startedAt}ms, ${text.length} bytes: ${url}`);
+    return text;
+  };
+
+  const failures = [];
+  for (const engine of ["chrome", "firefox"]) {
+    try {
+      const result = await browserFetch(url, { engine, timeoutMs });
+      if (!result) {
+        failures.push(`${engine} unavailable`);
+        continue;
+      }
+      if (validate(result.text)) return done(engine, result.text);
+
+      const preview = result.text.trim().slice(0, 120).replace(/\s+/g, " ");
+      failures.push(`${engine} returned an invalid ${label}`);
+      console.warn(
+        `  [browser] ${engine} response did not look like ${label} for ${url} (${result.text.length} bytes): ${preview}`
+      );
+    } catch (error) {
+      failures.push(`${engine}: ${error?.message ?? error}`);
+      console.warn(`  [browser] ${engine} failed for ${url}: ${error?.message ?? error}`);
     }
   }
 
-  throw lastError;
+  console.warn(`  [fetch] giving up on ${label} after ${Date.now() - startedAt}ms: ${url}`);
+  throw new Error(`Chrome and Firefox did not return a valid ${label}: ${failures.join("; ")}`);
 }
 
 function looksLikeFeed(text) {
@@ -137,224 +267,164 @@ function looksLikeFeed(text) {
   return /<(rss|feed|channel|item|entry)\b/i.test(trimmed) || trimmed.startsWith("{");
 }
 
-async function fetchTextWget(url, timeoutMs) {
-  const timeoutSec = Math.ceil(timeoutMs / 1000);
-  const ua = USER_AGENTS[0];
-  const accept = "application/rss+xml, application/atom+xml, text/xml, application/xml, */*";
-
-  try {
-    const result = await runCommand("wget", [
-      "-q", "-O", "-",
-      "--timeout", String(timeoutSec),
-      `--user-agent=${ua}`,
-      `--header=Accept: ${accept}`,
-      `--header=Accept-Language: en-US,en;q=0.9`,
-      url
-    ], timeoutMs);
-
-    if (result && looksLikeFeed(result)) return result;
-    if (result && result.trim()) {
-      const preview = result.trim().slice(0, 120).replace(/\s+/g, " ");
-      console.warn(`  [wget] not a feed for ${url}: ${preview}`);
-    }
-  } catch (err) {
-    console.warn(`  [wget] failed for ${url}: ${err.message}`);
-  }
-
-  return null;
+// A usable HTML article page: substantial body with at least one paragraph.
+// Rejects short 403/challenge pages that some sites return with a 200 status.
+function looksLikeArticleHtml(text) {
+  const trimmed = (text || "").trim();
+  return trimmed.length > 1000 && /<p[\s>]/i.test(trimmed);
 }
 
-async function fetchTextOnce(url, timeoutMs, attempt) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), timeoutMs);
-  const userAgent = userAgentForRequest(url, attempt);
+const ARTICLE_METADATA_FETCH_CONCURRENCY = 8;
 
-  try {
-    const response = await fetch(url, {
-      headers: {
-        "User-Agent": userAgent,
-        Accept: "application/rss+xml, application/atom+xml, application/feed+json, application/json, text/xml;q=0.9, application/xml;q=0.8, */*;q=0.5",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Cache-Control": "no-cache",
-        Pragma: "no-cache"
-      },
-      signal: controller.signal
-    });
-
-    if (!response.ok) {
-      const body = await response.text().catch(() => "");
-      const preview = body.trim().slice(0, 120).replace(/\s+/g, " ");
-      const error = new Error(`HTTP ${response.status} for ${url} — ${preview}`);
-      error.status = response.status;
-      throw error;
-    }
-
-    return await response.text();
-  } finally {
-    clearTimeout(timeout);
+// Fill in social images missing from the feed, reusing the previous news.json
+// before fetching an article page. Reading time is intentionally not estimated:
+// the title-only analysis pipeline does not read or retain full article text.
+async function attachArticleMetadata(items, existingNews, history, checkedAt, timeoutMs) {
+  const cached = new Map();
+  for (const item of Array.isArray(existingNews?.items) ? existingNews.items : []) {
+    cached.set(canonicalNewsURL(item.url), item);
   }
+
+  const toFetch = [];
+  for (const item of items) {
+    const cachedItem = cached.get(canonicalNewsURL(item.url));
+    const record = historyRecord(history, item.url);
+    if (!item.image && cachedItem?.image) {
+      item.image = cachedItem.image;
+    }
+    const needsImage = !item.image && record?.skip_image_lookup !== true;
+    if (needsImage) {
+      toFetch.push(item);
+    }
+  }
+
+  if (toFetch.length === 0) {
+    console.log("Article metadata: all images covered by feed content or cache");
+    return;
+  }
+
+  const missingImages = toFetch.filter((item) =>
+    !item.image && historyRecord(history, item.url)?.skip_image_lookup !== true
+  ).length;
+  console.log(
+    `Article metadata: fetching ${toFetch.length} page(s) with concurrency ${ARTICLE_METADATA_FETCH_CONCURRENCY}; missing images=${missingImages}`
+  );
+
+  let cursor = 0;
+  let resolvedImages = 0;
+  let unresolvedImages = 0;
+  const workers = Array.from({ length: Math.min(ARTICLE_METADATA_FETCH_CONCURRENCY, toFetch.length) }, async () => {
+    while (cursor < toFetch.length) {
+      const item = toFetch[cursor];
+      cursor += 1;
+      const record = upsertHistoryRecord(history, item, checkedAt);
+      const needsImage = !item.image && record.skip_image_lookup !== true;
+
+      try {
+        const page = await fetchArticlePage(item.url, timeoutMs);
+        if (needsImage) {
+          const image = page ? absolutize(extractPageImage(page), item.url) : null;
+          if (image) {
+            item.image = image;
+            delete record.skip_image_lookup;
+            resolvedImages += 1;
+            console.log(`  [image] resolved for ${item.url}`);
+          } else {
+            record.skip_image_lookup = true;
+            unresolvedImages += 1;
+            console.warn(
+              `  [image] missing for ${item.url} (page ${page ? "has no social image" : "unreachable"})`
+            );
+          }
+        }
+      } catch (error) {
+        if (needsImage) {
+          record.skip_image_lookup = true;
+          unresolvedImages += 1;
+        }
+        console.warn(`  [metadata] failed for ${item.url} - ${error?.message ?? error}`);
+      }
+    }
+  });
+
+  await Promise.all(workers);
+  console.log(
+    `Article metadata: images resolved=${resolvedImages}, unresolved=${unresolvedImages}`
+  );
 }
 
-const BROWSER_USER_AGENTS = [
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
-  "Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0"
-];
-
-// Fallback fetchers tried in order when Node fetch returns 403.
-// Returns the response text on first success, or null if all fail.
-async function fetchTextFallback(url, timeoutMs) {
-  const timeoutSec = Math.ceil(timeoutMs / 1000);
-  const botUa = USER_AGENTS[0];
-  const browserUa = BROWSER_USER_AGENTS[0];
-  const browserUa2 = BROWSER_USER_AGENTS[1];
-  const accept = "application/rss+xml, application/atom+xml, text/xml, application/xml, */*";
-  const acceptBrowser = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";
-
-  const tools = [
-    // 1. curl with bot UA
-    {
-      name: "curl",
-      cmd: "curl",
-      args: [
-        "-sS", "-L",
-        "--max-time", String(timeoutSec),
-        "-A", botUa,
-        "-H", `Accept: ${accept}`,
-        "-H", "Accept-Language: en-US,en;q=0.9",
-        url
-      ]
-    },
-    // 2. curl with Chrome browser UA + browser-like headers (compressed)
-    {
-      name: "curl-browser",
-      cmd: "curl",
-      args: [
-        "-sS", "-L",
-        "--max-time", String(timeoutSec),
-        "-A", browserUa,
-        "-H", `Accept: ${acceptBrowser}`,
-        "-H", "Accept-Language: en-US,en;q=0.9",
-        "-H", "Accept-Encoding: gzip, deflate, br",
-        "-H", "Connection: keep-alive",
-        "--compressed",
-        url
-      ]
-    },
-    // 4. curl with HTTP/2 + Safari UA
-    {
-      name: "curl-http2",
-      cmd: "curl",
-      args: [
-        "-sS", "-L", "--http2",
-        "--max-time", String(timeoutSec),
-        "-A", browserUa2,
-        "-H", `Accept: ${acceptBrowser}`,
-        "-H", "Accept-Language: en-US,en;q=0.9",
-        "--compressed",
-        url
-      ]
-    },
-    // 5. python3 urllib with Firefox UA
-    {
-      name: "python3",
-      cmd: "python3",
-      args: [
-        "-c",
-        [
-          "import urllib.request,sys",
-          `req=urllib.request.Request(${JSON.stringify(url)},headers={"User-Agent":${JSON.stringify(BROWSER_USER_AGENTS[3])},"Accept":${JSON.stringify(accept)},"Accept-Language":"en-US,en;q=0.9"})`,
-          "try:",
-          `  print(urllib.request.urlopen(req,timeout=${timeoutSec}).read().decode("utf-8","replace"))`,
-          "except urllib.error.HTTPError as e:",
-          "  sys.stderr.write('HTTP '+str(e.code)+'\\n');sys.exit(1)",
-          "except Exception as e:",
-          "  sys.stderr.write(str(e)+'\\n');sys.exit(1)"
-        ].join("\n")
-      ]
-    }
+function extractPageImage(html) {
+  const metaTags = String(html || "").match(/<meta\b[^>]*>/gi) || [];
+  const priorities = [
+    "og:image",
+    "og:image:secure_url",
+    "twitter:image",
+    "twitter:image:src"
   ];
 
-  for (const tool of tools) {
-    try {
-      const result = await runCommand(tool.cmd, tool.args, timeoutMs);
-      const trimmed = result ? result.trim() : "";
-      const preview = trimmed.slice(0, 120).replace(/\s+/g, " ");
-      if (trimmed) {
-        const isFeedResponse = looksLikeFeed(result);
-        console.log(`  [fallback] ${tool.name} got ${trimmed.length} bytes, feed=${isFeedResponse}: ${preview}`);
-        if (isFeedResponse) return result;
-        console.warn(`  [fallback] ${tool.name} response does not look like a feed, skipping`);
-      } else {
-        console.warn(`  [fallback] ${tool.name} returned empty response`);
+  for (const key of priorities) {
+    for (const tag of metaTags) {
+      const attributes = htmlTagAttributes(tag);
+      const property = (attributes.property || attributes.name || "").toLowerCase();
+      if (property === key && attributes.content) {
+        return decodeXml(attributes.content).trim();
       }
-    } catch (err) {
-      const detail = (err.stderr && err.stderr.trim()) ? err.stderr.trim() : err.message.split("\n")[0];
-      console.warn(`  [fallback] ${tool.name} failed for ${url}: ${detail}`);
     }
   }
 
-  return null;
-}
-
-function runCommand(cmd, args, timeoutMs) {
-  return new Promise((resolve, reject) => {
-    const child = execFile(cmd, args, { timeout: timeoutMs, maxBuffer: 10 * 1024 * 1024 }, (error, stdout) => {
-      if (error) return reject(error);
-      resolve(stdout || null);
-    });
-
-    child.on("error", reject);
-  });
-}
-
-function userAgentForRequest(url, attempt) {
-  const seed = hashString(`${url}:${Date.now()}:${process.pid}:${attempt}`);
-  const index = (seed + USER_AGENT_RUN_OFFSET + attempt) % USER_AGENTS.length;
-  return USER_AGENTS[index];
-}
-
-function hashString(value) {
-  let hash = 0;
-
-  for (let index = 0; index < value.length; index += 1) {
-    hash = ((hash << 5) - hash + value.charCodeAt(index)) | 0;
+  const linkTags = String(html || "").match(/<link\b[^>]*>/gi) || [];
+  for (const tag of linkTags) {
+    const attributes = htmlTagAttributes(tag);
+    const rel = String(attributes.rel || "").toLowerCase().split(/\s+/);
+    if (rel.includes("image_src") && attributes.href) {
+      return decodeXml(attributes.href).trim();
+    }
   }
 
-  return Math.abs(hash);
+  return "";
 }
 
-function isRetryableFetchError(error) {
-  return error?.name === "AbortError"
-    || error?.status === 403
-    || error?.status === 429
-    || (error?.status >= 500 && error?.status <= 599);
+function htmlTagAttributes(tag) {
+  const attributes = {};
+  const pattern = /([:\w-]+)\s*=\s*(["'])([\s\S]*?)\2/g;
+  for (const match of String(tag || "").matchAll(pattern)) {
+    attributes[match[1].toLowerCase()] = match[3];
+  }
+  return attributes;
 }
 
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+// Fetch a full HTML article page through the same Chrome → Firefox path as
+// feeds, validating for an article-shaped HTML body so challenge pages are
+// rejected. Returns null on failure so callers can skip the item gracefully.
+async function fetchArticlePage(url, timeoutMs) {
+  try {
+    return await fetchText(url, timeoutMs, {
+      validate: looksLikeArticleHtml,
+      label: "article"
+    });
+  } catch {
+    return null;
+  }
 }
 
-function parseFeed(feedText, source) {
+async function parseFeed(feedText, source) {
   const trimmed = feedText.trim();
 
   if (trimmed.startsWith("{")) {
     return parseJsonFeed(trimmed, source);
   }
-
-  if (/<entry[\s>]/i.test(trimmed)) {
-    return parseAtom(trimmed, source);
-  }
-
-  return parseRss(trimmed, source);
+  const feed = await feedParser.parseString(trimmed);
+  return (Array.isArray(feed.items) ? feed.items : [])
+    .map((item) => normalizeParsedFeedItem(item, source))
+    .filter(Boolean);
 }
 
 async function readExistingNews() {
   try {
     return JSON.parse(await fs.readFile(OUTPUT_PATH, "utf8"));
-  } catch {
-    return null;
+  } catch (error) {
+    if (error?.code === "ENOENT") return null;
+    throw error;
   }
 }
 
@@ -364,6 +434,26 @@ function existingItemsForSource(existingNews, source) {
   const lang = normalizeLang(source.lang);
 
   return items.filter((item) => item.source_name === sourceName && normalizeLang(item.lang) === lang);
+}
+
+function preserveEvaluationMetadata(item, previousItem) {
+  if (isScore(previousItem?.score_quality)
+      && isScore(previousItem?.score_notif)) {
+    item.score_quality = previousItem.score_quality;
+    item.score_notif = previousItem.score_notif;
+  } else {
+    item.score_quality = -1;
+    item.score_notif = -1;
+  }
+  if (typeof previousItem?.cluster === "string" && previousItem.cluster.trim()) {
+    item.cluster = previousItem.cluster.trim();
+  } else {
+    item.cluster = singletonClusterID(item);
+  }
+  item.cluster_main = typeof previousItem?.cluster_main === "boolean"
+    ? previousItem.cluster_main
+    : true;
+  return item;
 }
 
 function logSourceResult(source, { parsedCount, acceptedCount, keptCount }) {
@@ -391,27 +481,61 @@ function parseJsonFeed(text, source) {
   })).filter(Boolean);
 }
 
-function parseRss(xml, source) {
-  return blocks(xml, "item").map((itemXml) => normalizeItem({
-    title: firstText(itemXml, "title"),
-    url: firstText(itemXml, "link") || firstAttr(itemXml, "guid", "href"),
-    image: extractImage(itemXml),
-    previewHtml: firstText(itemXml, "description") || firstText(itemXml, "content:encoded"),
-    publishedAt: firstText(itemXml, "pubDate") || firstText(itemXml, "dc:date") || firstText(itemXml, "date"),
-    itemSourceName: firstText(itemXml, "source"),
+function normalizeParsedFeedItem(item, source) {
+  const content = item.contentEncoded
+    ?? item["content:encoded"]
+    ?? item.content
+    ?? item.summary
+    ?? item.description
+    ?? "";
+  const preview = item.contentSnippet
+    ?? item.summary
+    ?? item.description
+    ?? content;
+  return normalizeItem({
+    title: item.title,
+    url: item.link ?? item.guid ?? item.id,
+    image: parsedFeedImage(item, content),
+    previewHtml: preview,
+    publishedAt: item.isoDate
+      ?? item.pubDate
+      ?? item.published
+      ?? item.updated
+      ?? item.dcDate,
+    itemSourceName: parsedSourceName(item.itemSource ?? item.source),
     source
-  })).filter(Boolean);
+  });
 }
 
-function parseAtom(xml, source) {
-  return blocks(xml, "entry").map((entryXml) => normalizeItem({
-    title: firstText(entryXml, "title"),
-    url: atomLink(entryXml),
-    image: extractImage(entryXml),
-    previewHtml: firstText(entryXml, "summary") || firstText(entryXml, "content"),
-    publishedAt: firstText(entryXml, "published") || firstText(entryXml, "updated"),
-    source
-  })).filter(Boolean);
+function parsedFeedImage(item, content) {
+  const candidates = [
+    item.mediaContent,
+    item["media:content"],
+    item.mediaThumbnail,
+    item["media:thumbnail"],
+    item.itunesImage,
+    item["itunes:image"],
+    item.enclosure
+  ].flatMap((value) => Array.isArray(value) ? value : [value]);
+
+  for (const candidate of candidates) {
+    if (!candidate) continue;
+    const type = String(candidate.type ?? candidate.$?.type ?? "").toLowerCase();
+    if (type.startsWith("audio/") || type.startsWith("video/")) continue;
+    const url = candidate.url
+      ?? candidate.href
+      ?? candidate.$?.url
+      ?? candidate.$?.href;
+    if (url) return String(url);
+  }
+  return firstImageFromHtml(content);
+}
+
+function parsedSourceName(value) {
+  if (typeof value === "string") return value;
+  if (typeof value?._ === "string") return value._;
+  if (typeof value?.value === "string") return value.value;
+  return "";
 }
 
 function normalizeItem({ title, url, image, previewHtml, publishedAt, itemSourceName, source }) {
@@ -438,62 +562,6 @@ function normalizeItem({ title, url, image, previewHtml, publishedAt, itemSource
     featured,
     published_at: published
   };
-}
-
-function blocks(xml, tagName) {
-  const pattern = new RegExp(`<${escapeRegExp(tagName)}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${escapeRegExp(tagName)}>`, "gi");
-  return [...xml.matchAll(pattern)].map((match) => match[1]);
-}
-
-function firstText(xml, tagName) {
-  const pattern = new RegExp(`<${escapeRegExp(tagName)}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${escapeRegExp(tagName)}>`, "i");
-  const match = xml.match(pattern);
-
-  return match ? decodeXml(stripCdata(match[1])).trim() : "";
-}
-
-function firstAttr(xml, tagName, attrName) {
-  const pattern = new RegExp(`<${escapeRegExp(tagName)}\\b[^>]*\\s${escapeRegExp(attrName)}=["']([^"']+)["'][^>]*>`, "i");
-  const match = xml.match(pattern);
-
-  return match ? decodeXml(match[1]).trim() : "";
-}
-
-function atomLink(xml) {
-  const alternate = xml.match(/<link\b(?=[^>]*\brel=["']alternate["'])[^>]*\bhref=["']([^"']+)["'][^>]*>/i);
-  if (alternate) return decodeXml(alternate[1]).trim();
-
-  const anyHref = xml.match(/<link\b[^>]*\bhref=["']([^"']+)["'][^>]*>/i);
-  if (anyHref) return decodeXml(anyHref[1]).trim();
-
-  return firstText(xml, "link");
-}
-
-function extractImage(xml) {
-  return firstAttr(xml, "media:content", "url")
-    || firstAttr(xml, "media:thumbnail", "url")
-    || imageEnclosure(xml)
-    || firstAttr(xml, "itunes:image", "href")
-    || firstImageFromHtml(firstText(xml, "content:encoded"))
-    || firstImageFromHtml(firstText(xml, "description"))
-    || firstImageFromHtml(firstText(xml, "summary"))
-    || "";
-}
-
-function imageEnclosure(xml) {
-  const tags = xml.match(/<enclosure\b[^>]*>/gi) || [];
-
-  for (const tag of tags) {
-    const typeMatch = tag.match(/\btype=["']([^"']+)["']/i);
-    const type = typeMatch ? typeMatch[1].toLowerCase() : "";
-
-    if (type.startsWith("audio/") || type.startsWith("video/")) continue;
-
-    const urlMatch = tag.match(/\burl=["']([^"']+)["']/i);
-    if (urlMatch) return decodeXml(urlMatch[1]).trim();
-  }
-
-  return "";
 }
 
 function firstImageFromHtml(html) {
@@ -554,7 +622,7 @@ function dedupeByUrl(items) {
   const deduped = [];
 
   for (const item of items) {
-    const key = item.url.replace(/[#?].*$/, "");
+    const key = canonicalNewsURL(item.url);
 
     if (seen.has(key)) continue;
 
@@ -583,6 +651,61 @@ function truncate(value, maxLength) {
 
 function numberOr(value, fallback) {
   return Number.isFinite(Number(value)) ? Number(value) : fallback;
+}
+
+function buildSourceMetadata({
+  source,
+  fetchResult,
+  existingNews,
+  checkedAt,
+  history,
+  historyExisted,
+  knownBefore
+}) {
+  const sourceName = cleanText(source.source_name) || new URL(source.feed_url).hostname;
+  const language = normalizeLang(source.lang);
+  const previousSource = (Array.isArray(existingNews?.sources) ? existingNews.sources : []).find(
+    (entry) => entry.source_name === sourceName && normalizeLang(entry.lang) === language
+  );
+  const acceptedItems = dedupeByUrl(fetchResult?.acceptedItems ?? []);
+  const latestTimestamp = acceptedItems.reduce(
+    (latest, item) => {
+      const timestamp = Date.parse(item.published_at || "");
+      return Number.isFinite(timestamp) && timestamp <= checkedAt.getTime() + 5 * 60 * 1_000
+        ? Math.max(latest, timestamp)
+        : latest;
+    },
+    Date.parse(previousSource?.latest_article_at || "") || 0
+  );
+  if (!fetchResult?.succeeded) {
+    return {
+      source_name: sourceName,
+      lang: language,
+      estimated_articles_per_day: Number(previousSource?.estimated_articles_per_day) || 0,
+      new_articles_since_last_update: previousSource?.new_articles_since_last_update ?? null,
+      latest_article_at: latestTimestamp > 0 ? new Date(latestTimestamp).toISOString() : null
+    };
+  }
+
+  const hostnames = new Set(acceptedItems.map((item) => hostnameForURL(item.url)).filter(Boolean));
+  const newArticleCount = historyExisted
+    ? acceptedItems.filter((item) => !knownBefore.has(canonicalNewsURL(item.url))).length
+    : null;
+  return {
+    source_name: sourceName,
+    lang: language,
+    estimated_articles_per_day: roundNumber(
+      publicationRateForHosts(history, hostnames, checkedAt, RATE_WINDOW_DAYS),
+      1
+    ),
+    new_articles_since_last_update: newArticleCount,
+    latest_article_at: latestTimestamp > 0 ? new Date(latestTimestamp).toISOString() : null
+  };
+}
+
+function roundNumber(value, fractionDigits) {
+  const scale = 10 ** fractionDigits;
+  return Math.round((Number(value) + Number.EPSILON) * scale) / scale;
 }
 
 function normalizeLang(value) {
@@ -645,7 +768,7 @@ function normalizePremiumLinks(links) {
   }).filter(Boolean);
 }
 
-function matchesSourceFilters(item, source) {
+function matchesSourceFilters(item, source, globalExcludeKeywords = []) {
   const haystack = normalizeForSearch([
     item.title,
     item.peek_preview,
@@ -658,7 +781,10 @@ function matchesSourceFilters(item, source) {
     return false;
   }
 
-  const excludeKeywords = Array.isArray(source.exclude_keywords) ? source.exclude_keywords : [];
+  const excludeKeywords = [
+    ...(Array.isArray(source.exclude_keywords) ? source.exclude_keywords : []),
+    ...globalExcludeKeywords
+  ];
 
   if (excludeKeywords.some((keyword) => haystack.includes(normalizeForSearch(keyword)))) {
     return false;
@@ -674,11 +800,19 @@ function normalizeForSearch(value) {
     .toLowerCase();
 }
 
-function escapeRegExp(value) {
-  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+if (require.main === module) {
+  main()
+    .catch((error) => {
+      console.error(error);
+      process.exitCode = 1;
+    })
+    .finally(closeHeadlessBrowsers);
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+module.exports = {
+  attachArticleMetadata,
+  buildSourceMetadata,
+  extractPageImage,
+  fetchText,
+  preserveEvaluationMetadata
+};
