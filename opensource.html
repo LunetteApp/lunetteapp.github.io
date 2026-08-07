@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lunette — Open Source & Data Attribution</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #08080A;
+            --surface: #111113;
+            --text: #F0ECE5;
+            --text-secondary: #A9A49C;
+            --accent: #C9A86A;
+            --border: rgba(255, 255, 255, 0.06);
+            --display: 'Space Grotesk', -apple-system, sans-serif;
+            --font: 'Inter', -apple-system, sans-serif;
+            --mono: 'Geist Mono', 'SF Mono', monospace;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font);
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            min-height: 100vh;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 48px 24px 80px;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 48px;
+            padding-bottom: 24px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .logo {
+            font-size: 16px;
+            font-weight: 600;
+            letter-spacing: -0.01em;
+            color: var(--text);
+        }
+
+        .updated {
+            font-family: var(--mono);
+            font-size: 11px;
+            color: var(--text-secondary);
+        }
+
+        h1 {
+            font-family: var(--display);
+            font-size: 28px;
+            font-weight: 500;
+            letter-spacing: -0.03em;
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
+        h2 {
+            font-family: var(--display);
+            font-size: 19px;
+            font-weight: 600;
+            letter-spacing: -0.02em;
+            margin-top: 40px;
+            margin-bottom: 12px;
+            color: var(--text);
+        }
+
+        p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+            font-size: 15px;
+        }
+
+        strong {
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .sources {
+            list-style: none;
+            margin-top: 24px;
+        }
+
+        .source {
+            padding: 20px 0;
+            border-top: 1px solid var(--border);
+        }
+
+        .source:last-child {
+            border-bottom: 1px solid var(--border);
+        }
+
+        .source-name {
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 4px;
+        }
+
+        .source-link {
+            font-family: var(--mono);
+            font-size: 12px;
+            word-break: break-all;
+        }
+
+        .license {
+            display: inline-block;
+            margin-top: 8px;
+            font-family: var(--mono);
+            font-size: 11px;
+            color: var(--accent);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 3px 8px;
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 24px 16px 60px;
+            }
+
+            header {
+                flex-direction: column;
+                gap: 12px;
+                align-items: flex-start;
+            }
+
+            h1 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">Lunette</div>
+            <div class="updated">Last updated: 2026-08-07</div>
+        </header>
+        <main>
+            <h1>Open Source &amp; Data Attribution</h1>
+            <p>Lunette's watch reference catalog is built from openly licensed datasets. We are grateful to the maintainers of these sources. Each dataset is used in accordance with its license, and the combined catalog is distributed as a derived database.</p>
+
+            <h2>Watches database sources</h2>
+            <ul class="sources">
+                <li class="source">
+                    <div class="source-name">Observatoire des montres de marque en France</div>
+                    <a class="source-link" href="https://www.data.gouv.fr/datasets/6a5776da676a8d207e6f1a60/" target="_blank" rel="noopener">data.gouv.fr — Observatoire des montres de marque en France</a>
+                    <div><span class="license">Licence Ouverte 2.0 (Etalab)</span></div>
+                </li>
+                <li class="source">
+                    <div class="source-name">Watches Dataset — Mustafa Yağız Fırat</div>
+                    <a class="source-link" href="https://www.kaggle.com/datasets/yagizfiratt/watches-dataset" target="_blank" rel="noopener">kaggle.com/datasets/yagizfiratt/watches-dataset</a>
+                    <div><span class="license">MIT</span></div>
+                </li>
+                <li class="source">
+                    <div class="source-name">Timepiece Treasures: A Luxury Watches Dataset — Yoeri Reumkens</div>
+                    <a class="source-link" href="https://www.kaggle.com/datasets/yoerireumkens/timepiece-treasures-a-luxury-watches-dataset" target="_blank" rel="noopener">kaggle.com/datasets/yoerireumkens/timepiece-treasures-a-luxury-watches-dataset</a>
+                    <div><span class="license">CC0 1.0 (Public Domain)</span></div>
+                </li>
+                <li class="source">
+                    <div class="source-name">Wikidata — watch manufacturer names &amp; aliases</div>
+                    <a class="source-link" href="https://www.wikidata.org/" target="_blank" rel="noopener">wikidata.org</a>
+                    <div><span class="license">CC0 1.0 (Public Domain)</span></div>
+                </li>
+            </ul>
+        </main>
+    </div>
+</body>
+</html>
