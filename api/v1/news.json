@@ -1,6 +1,6 @@
 {
-  "content_hash": "90df54e35f8abdc969a70cb556b2b79a5b17ecd6afd9f9b32bb792f1df68a970",
-  "last_updated": "2026-08-07T17:47:08.781Z",
+  "content_hash": "5968be7a92bb5baa89020dbbb4eca06cd363b5ca56915c9c30453929543e878e",
+  "last_updated": "2026-08-07T18:47:31.342Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-07T17:00:00.000Z"
     },
     {
@@ -635,7 +635,7 @@
       "score_quality": 68,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – A Restored Valjoux 72 Chronograph to Power the New Singer Heritage V72",
@@ -1193,9 +1193,9 @@
       "featured": false,
       "published_at": "2026-08-04T14:00:45.000Z",
       "score_quality": 83,
-      "score_notif": 40,
-      "cluster": "20260804-b3392414ac92",
-      "cluster_main": true
+      "score_notif": 23,
+      "cluster": "20260731-6ee9517a82bb",
+      "cluster_main": false
     },
     {
       "title": "New release: Seiko 5 Sports collaboration with Honda Motocompo",
@@ -1220,10 +1220,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-04T12:17:03.000Z",
-      "score_quality": 64,
+      "score_quality": 69,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1753,9 +1753,9 @@
       "featured": false,
       "published_at": "2026-07-31T16:00:07.000Z",
       "score_quality": 62,
-      "score_notif": 40,
-      "cluster": "20260731-1eb922bf9011",
-      "cluster_main": true
+      "score_notif": 23,
+      "cluster": "20260731-6ee9517a82bb",
+      "cluster_main": false
     },
     {
       "title": "Naissance d’une Montre: l’eredità di Bonniksen e la continuità della grande scuola orologiera",
@@ -1839,6 +1839,20 @@
       "score_quality": 56,
       "score_notif": 21,
       "cluster": "20260731-3057f1e1e3f8",
+      "cluster_main": true
+    },
+    {
+      "title": "Glashütte Original drops two turquoise SeaQ limited editions just for North America (live pics)",
+      "url": "https://timeandtidewatches.com/glashutte-original-seaq-seaq-panorama-date-northern-tide-limited-edition-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/07/Glashutte-Original-SeaQ-Northern-Tide-Limited-Editions-39-1750x984.jpg",
+      "peek_preview": "The Glashütte Original SeaQ 'Northern Tide' Limited Editions bring a fan-favourite turqouise hue to a pair of dive watches with real depth. The post Glashütte Original drops two turquoise SeaQ limited editions just for...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-07-31T12:01:09.000Z",
+      "score_quality": 84,
+      "score_notif": 23,
+      "cluster": "20260731-6ee9517a82bb",
       "cluster_main": true
     }
   ]
