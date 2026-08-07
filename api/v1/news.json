@@ -1,6 +1,6 @@
 {
-  "content_hash": "7609bb4350376c1f939f6c74bf591a0d8bd9157d721861dc8124e802c82610e2",
-  "last_updated": "2026-08-07T20:47:34.570Z",
+  "content_hash": "7e6b3c254516466e5c25a0fac68d69d9d542929f774e5b748d09285d096775ce",
+  "last_updated": "2026-08-07T21:46:50.789Z",
   "premium": {
     "links": []
   },
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-07T19:56:05.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-06T15:35:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-07T21:09:58.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
+      "url": "https://www.watchcollectinglifestyle.com/home/unimatic-modello-uno-ut1-pd",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786136224827-P86ULFN8OA3EUIA3IUXA/UNIMATIC+Modello+Uno+UT1-PD.jpg?format=1500w",
+      "peek_preview": "Milan-based UNIMATIC has introduced the Modello Uno UT1-PD, a new dive toolwatch built around the brand's Modello Uno architecture and engineered to combine professional underwater performance with the impact resistance...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-07T21:09:58.000Z",
+      "score_quality": 80,
+      "score_notif": 47,
+      "cluster": "20260807-905f7b9de971",
+      "cluster_main": true
+    },
+    {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
       "url": "https://teddybaldassarre.com/blogs/watches/tachymeter",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Breitling-Tachymeter-CU1-2.jpg?v=1671137565",
@@ -213,9 +227,9 @@
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
       "score_quality": 79,
-      "score_notif": 52,
+      "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -663,7 +677,7 @@
       "score_quality": 70,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – A Restored Valjoux 72 Chronograph to Power the New Singer Heritage V72",
@@ -746,8 +760,8 @@
       "published_at": "2026-08-06T08:01:41.000Z",
       "score_quality": 54,
       "score_notif": 57,
-      "cluster": "20260806-ca4527664e78",
-      "cluster_main": false
+      "cluster": "20260806-60ab2adc3feb",
+      "cluster_main": true
     },
     {
       "title": "Introducing – Seiko Celebrates 145 Years with New “Edo Purple” Watches",
@@ -1248,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-04T12:17:03.000Z",
-      "score_quality": 69,
+      "score_quality": 71,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1839,20 +1853,6 @@
       "score_quality": 60,
       "score_notif": 24,
       "cluster": "20260731-3346c0e43808",
-      "cluster_main": true
-    },
-    {
-      "title": "Hamilton Khaki Navy Scuba Auto y GMT: nuevos colores para la aventura",
-      "url": "https://derelojes.com/hamilton-khaki-navy-scuba-auto-gmt/",
-      "image": "https://derelojes.com/wp-content/uploads/2026/07/Hamilton-Khaki-Navy-Scuba-Auto-40-mm-H82415130-Frontal-300x300.jpeg",
-      "peek_preview": "Hamilton renueva una de sus colecciones deportivas más versátiles con ocho referencias que actualizan tanto el Khaki Navy Scuba Auto de 40 mm como el más contundente Khaki Navy Scuba Auto GMT de 43 mm. Los primeros reci...",
-      "source_name": "deRelojes",
-      "lang": "es",
-      "featured": false,
-      "published_at": "2026-07-31T12:20:28.000Z",
-      "score_quality": 56,
-      "score_notif": 21,
-      "cluster": "20260731-3057f1e1e3f8",
       "cluster_main": true
     }
   ]
