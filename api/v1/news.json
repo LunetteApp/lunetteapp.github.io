@@ -1,6 +1,6 @@
 {
-  "content_hash": "5968be7a92bb5baa89020dbbb4eca06cd363b5ca56915c9c30453929543e878e",
-  "last_updated": "2026-08-07T18:47:31.342Z",
+  "content_hash": "fce5f5a3054d4c08debf68e86756c125b51cfe46d0e1581c2177863a7782459a",
+  "last_updated": "2026-08-07T19:46:59.316Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-07T14:00:10.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-07T19:00:06.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Summer of Ana-Digi: a Helpful Guide to the Retro Format",
+      "url": "https://wornandwound.com/the-summer-of-ana-digi-a-helpful-guide-to-the-retro-format/",
+      "image": "https://wornandwound.com/library/uploads/2020/08/Seiko-SNJ029-Saharnie-Review-21.jpg",
+      "peek_preview": "Analog and digital timepieces used to wage war on the wrists of horological enthusiasts. Nowadays, though, they’re more of a united front against the tide of smart watches and phones, offering wildly differing price poi...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-07T19:00:06.000Z",
+      "score_quality": 62,
+      "score_notif": 16,
+      "cluster": "20260807-f985ca25e9b1",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Unimatic UT1-PD",
       "url": "https://www.hodinkee.com/articles/intro-unimatic-ut1-pd-prodiver",
@@ -632,10 +646,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T13:30:00.000Z",
-      "score_quality": 68,
+      "score_quality": 70,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – A Restored Valjoux 72 Chronograph to Power the New Singer Heritage V72",
@@ -718,8 +732,8 @@
       "published_at": "2026-08-06T08:01:41.000Z",
       "score_quality": 54,
       "score_notif": 57,
-      "cluster": "20260806-ca4527664e78",
-      "cluster_main": false
+      "cluster": "20260806-60ab2adc3feb",
+      "cluster_main": true
     },
     {
       "title": "Introducing – Seiko Celebrates 145 Years with New “Edo Purple” Watches",
@@ -1223,7 +1237,7 @@
       "score_quality": 69,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1405,20 +1419,6 @@
       "score_quality": 58,
       "score_notif": 22,
       "cluster": "20260803-0391c6f32cd1",
-      "cluster_main": true
-    },
-    {
-      "title": "Louis Erard Partners with Brilliant Earth on the Jeweler’s First Watch Collection",
-      "url": "https://wornandwound.com/louis-erard-partners-with-brilliant-earth-on-the-jewelers-first-watch-collection/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Brilliant-Earth-Banner.jpg",
-      "peek_preview": "Louis Erard has been making collaborative watches for years. In fact, you can pretty easily point to limited edition collaborations as a venture that has sustained the brand over the last several years, and made them ne...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-03T14:00:32.000Z",
-      "score_quality": 74,
-      "score_notif": 47,
-      "cluster": "20260803-2b54cbe56ded",
       "cluster_main": true
     },
     {
