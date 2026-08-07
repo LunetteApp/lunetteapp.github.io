@@ -1,6 +1,6 @@
 {
-  "content_hash": "fce5f5a3054d4c08debf68e86756c125b51cfe46d0e1581c2177863a7782459a",
-  "last_updated": "2026-08-07T19:46:59.316Z",
+  "content_hash": "7609bb4350376c1f939f6c74bf591a0d8bd9157d721861dc8124e802c82610e2",
+  "last_updated": "2026-08-07T20:47:34.570Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-07T19:00:06.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-06T19:41:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-07T19:56:05.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "21 Of The Best Tachymeter Watches (And How They Work)",
+      "url": "https://teddybaldassarre.com/blogs/watches/tachymeter",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Breitling-Tachymeter-CU1-2.jpg?v=1671137565",
+      "peek_preview": "It's a common refrain in the watch collector community that chronographs are one of the most popular complications while at the same time being one of the least practical in day-to-day life. Many of the most famous chro...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-07T19:56:05.000Z",
+      "score_quality": 36,
+      "score_notif": 8,
+      "cluster": "20260807-f08f9dfb037a",
+      "cluster_main": true
+    },
     {
       "title": "The Summer of Ana-Digi: a Helpful Guide to the Retro Format",
       "url": "https://wornandwound.com/the-summer-of-ana-digi-a-helpful-guide-to-the-retro-format/",
@@ -732,8 +746,8 @@
       "published_at": "2026-08-06T08:01:41.000Z",
       "score_quality": 54,
       "score_notif": 57,
-      "cluster": "20260806-60ab2adc3feb",
-      "cluster_main": true
+      "cluster": "20260806-ca4527664e78",
+      "cluster_main": false
     },
     {
       "title": "Introducing – Seiko Celebrates 145 Years with New “Edo Purple” Watches",
@@ -940,10 +954,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-05T15:25:30.000Z",
-      "score_quality": 60,
+      "score_quality": 76,
       "score_notif": 56,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Perspective: What the 2026 Swiss Watch Export Numbers Are Telling Us So Far",
@@ -1208,8 +1222,8 @@
       "published_at": "2026-08-04T14:00:45.000Z",
       "score_quality": 83,
       "score_notif": 23,
-      "cluster": "20260731-6ee9517a82bb",
-      "cluster_main": false
+      "cluster": "20260804-b3392414ac92",
+      "cluster_main": true
     },
     {
       "title": "New release: Seiko 5 Sports collaboration with Honda Motocompo",
@@ -1223,7 +1237,7 @@
       "score_quality": 75,
       "score_notif": 56,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Panerai Luminor Marina PAM01707—Vintage Codes in Carbotech",
@@ -1754,8 +1768,8 @@
       "published_at": "2026-07-31T16:00:07.000Z",
       "score_quality": 62,
       "score_notif": 23,
-      "cluster": "20260731-6ee9517a82bb",
-      "cluster_main": false
+      "cluster": "20260731-1eb922bf9011",
+      "cluster_main": true
     },
     {
       "title": "Naissance d’une Montre: l’eredità di Bonniksen e la continuità della grande scuola orologiera",
@@ -1839,20 +1853,6 @@
       "score_quality": 56,
       "score_notif": 21,
       "cluster": "20260731-3057f1e1e3f8",
-      "cluster_main": true
-    },
-    {
-      "title": "Glashütte Original drops two turquoise SeaQ limited editions just for North America (live pics)",
-      "url": "https://timeandtidewatches.com/glashutte-original-seaq-seaq-panorama-date-northern-tide-limited-edition-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/07/Glashutte-Original-SeaQ-Northern-Tide-Limited-Editions-39-1750x984.jpg",
-      "peek_preview": "The Glashütte Original SeaQ 'Northern Tide' Limited Editions bring a fan-favourite turqouise hue to a pair of dive watches with real depth. The post Glashütte Original drops two turquoise SeaQ limited editions just for...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-07-31T12:01:09.000Z",
-      "score_quality": 84,
-      "score_notif": 23,
-      "cluster": "20260731-6ee9517a82bb",
       "cluster_main": true
     }
   ]
