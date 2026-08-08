@@ -1,6 +1,6 @@
 {
-  "content_hash": "730640d00d89cb8decb7574d2f538328698197531e93c692b0570f989e5e6244",
-  "last_updated": "2026-08-08T05:46:44.579Z",
+  "content_hash": "aa5870a3226420e18253828f4138b9bce307a6b7e73352ac14a159d3455af464",
+  "last_updated": "2026-08-08T07:47:26.253Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-08T05:00:10.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-07T07:01:11.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-08T07:01:10.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Oil-Filled Circuit Board Tool Art Watch: U-Boat U-65 TEK Review",
+      "url": "https://www.ablogtowatch.com/the-oil-filled-circuit-board-tool-art-watch-u-boat-u-65-tek-review/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/U-Boat-U-65-TEK-Oil-SS-Watch-1-768x346.jpg",
+      "peek_preview": "This U-Boat U-65 TEK SS is a really fun watch. It looks cool on the wrist, is visually playful, and is extremely eye-catching. How can it not be when the expansive, domed crystal is filled with mineral oil and appears t...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-08T07:01:10.000Z",
+      "score_quality": 68,
+      "score_notif": 16,
+      "cluster": "20260808-f5651617ded9",
+      "cluster_main": true
+    },
     {
       "title": "The Best Watch I Have Ever Owned: The Jaeger-LeCoultre Geophysic Universal Time",
       "url": "https://www.fratellowatches.com/the-best-watch-i-have-ever-owned/",
@@ -733,7 +747,7 @@
       "score_quality": 74,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – A Restored Valjoux 72 Chronograph to Power the New Singer Heritage V72",
@@ -816,8 +830,8 @@
       "published_at": "2026-08-06T08:01:41.000Z",
       "score_quality": 54,
       "score_notif": 57,
-      "cluster": "20260806-60ab2adc3feb",
-      "cluster_main": true
+      "cluster": "20260806-ca4527664e78",
+      "cluster_main": false
     },
     {
       "title": "Introducing – Seiko Celebrates 145 Years with New “Edo Purple” Watches",
@@ -1278,7 +1292,7 @@
       "published_at": "2026-08-04T14:00:45.000Z",
       "score_quality": 83,
       "score_notif": 23,
-      "cluster": "20260731-1eb922bf9011",
+      "cluster": "20260804-b3392414ac92",
       "cluster_main": true
     },
     {
@@ -1304,10 +1318,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-04T12:17:03.000Z",
-      "score_quality": 73,
+      "score_quality": 75,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1797,7 +1811,7 @@
       "score_quality": 62,
       "score_notif": 23,
       "cluster": "20260731-1eb922bf9011",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Naissance d’une Montre: l’eredità di Bonniksen e la continuità della grande scuola orologiera",
@@ -1839,20 +1853,6 @@
       "score_quality": 72,
       "score_notif": 29,
       "cluster": "20260731-600ef131552d",
-      "cluster_main": true
-    },
-    {
-      "title": "Review: Grand Seiko Evolution 9 Spring Drive U.F.A. SLGB007",
-      "url": "https://deployant.com/review-grand-seiko-evolution-9-u-f-a-slgb007/?utm_source=rss&utm_medium=rss&utm_campaign=review-grand-seiko-evolution-9-u-f-a-slgb007",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/07/gssd-slgb007-dial.jpg?fit=1200%2C1171&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Grand Seiko renews its core flagship Evolution 9 collection with nine new references. Five feature the 9R Spring Drive and four with the 9S mechanical high be...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-07-31T13:30:00.000Z",
-      "score_quality": 82,
-      "score_notif": 22,
-      "cluster": "20260731-739cc9f0ccb9",
       "cluster_main": true
     }
   ]
