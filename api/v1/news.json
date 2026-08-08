@@ -1,6 +1,6 @@
 {
-  "content_hash": "774328e5ff61f106750ed90c1177bece725400515038cf1dc3b58c78b13147b2",
-  "last_updated": "2026-08-08T12:47:17.409Z",
+  "content_hash": "4a14104364f5a5e8d4422005fc98b4a2e78f45746041bcf2386a030cd545d9fe",
+  "last_updated": "2026-08-08T13:47:03.460Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-07T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-08T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-07T21:09:58.000Z"
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-08T13:13:59.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Singer Reimagined unveils the new Heritage V72 – a restoration-led watch",
+      "url": "https://deployant.com/singer-reimagined-unveils-the-new-heritage-v72-a-restoration-led-watch/?utm_source=rss&utm_medium=rss&utm_campaign=singer-reimagined-unveils-the-new-heritage-v72-a-restoration-led-watch",
+      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/SINGER_HERITAGEV72_GOLD_LIFESTYLE.jpg?fit=1200%2C1800&ssl=1",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Singer Reimagined extends their successful Heritage Collection with a new model – the Heritage V72, a restoration-led chronograph based on the iconic Valjoux...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-08T13:30:00.000Z",
+      "score_quality": 74,
+      "score_notif": 38,
+      "cluster": "20260806-b91cae2acd49",
+      "cluster_main": false
+    },
+    {
+      "title": "Weekend Reads: The Anatomy of Watch Hands, a Rare Collector's Interview, and the Swiss Exports Tell Their Own Story",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-08-08",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-08T13:13:59.000Z",
+      "score_quality": 33,
+      "score_notif": 8,
+      "cluster": "20260808-44d592bf2e20",
+      "cluster_main": true
+    },
     {
       "title": "Citizen Eco-Drive history explained: 50 years of light-powered watch innovation",
       "url": "https://timeandtidewatches.com/citizen-eco-drive-history-explained-50-years-of-light-powered-watch-innovation-in-depth/",
@@ -327,7 +355,7 @@
       "score_quality": 86,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -366,10 +394,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -814,7 +842,7 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T12:01:29.000Z",
-      "score_quality": 73,
+      "score_quality": 75,
       "score_notif": 38,
       "cluster": "20260806-b91cae2acd49",
       "cluster_main": true
@@ -886,8 +914,8 @@
       "published_at": "2026-08-06T08:01:41.000Z",
       "score_quality": 54,
       "score_notif": 57,
-      "cluster": "20260806-60ab2adc3feb",
-      "cluster_main": true
+      "cluster": "20260806-ca4527664e78",
+      "cluster_main": false
     },
     {
       "title": "Introducing – Seiko Celebrates 145 Years with New “Edo Purple” Watches",
@@ -1825,34 +1853,6 @@
       "score_quality": 63,
       "score_notif": 37,
       "cluster": "20260731-0d368c024838",
-      "cluster_main": true
-    },
-    {
-      "title": "Editors' Picks: Our Favorite Quartz Watches",
-      "url": "https://teddybaldassarre.com/blogs/watches/best-quartz-watches",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Girard-Perregaux-Casquette-Titanium-Gold-3.jpg?v=1729805747",
-      "peek_preview": "Once you really dive into the world of watches, the subject of quartz reveals itself to be somewhat contentious and tends to bring a lot of strong opinions to the surface. But it’s important to note that not all quartz-...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-07-31T19:30:04.000Z",
-      "score_quality": 38,
-      "score_notif": 10,
-      "cluster": "20260731-66c74a50ebbb",
-      "cluster_main": true
-    },
-    {
-      "title": "Perspective: The Best Five Vacheron Constantin Watches for Summer—All Roads Lead to the Overseas",
-      "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-best-summer-watches",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1785513557891-NM2XN7EZHG1S1JVTB7W6/VC%2BOverseas%2BUltra-Thin%2BCalibre%2B2550%2B-12.webp?format=1500w",
-      "peek_preview": "Vacheron Constantin has one collection built specifically for weather like this. Since 1996, the Overseas has been the Maison's answer to the season that punishes everything else in a collection—hot metal bracelets, cur...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-07-31T16:10:13.000Z",
-      "score_quality": 44,
-      "score_notif": 8,
-      "cluster": "20260731-6247964efc87",
       "cluster_main": true
     }
   ]
