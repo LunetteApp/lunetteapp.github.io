@@ -1,6 +1,6 @@
 {
-  "content_hash": "3c717dfa6be5a31e95d0c0c832c34d0404c84a97e8a90ecc8ae78f0599efc774",
-  "last_updated": "2026-08-08T11:46:59.719Z",
+  "content_hash": "774328e5ff61f106750ed90c1177bece725400515038cf1dc3b58c78b13147b2",
+  "last_updated": "2026-08-08T12:47:17.409Z",
   "premium": {
     "links": []
   },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-08T11:01:33.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-08T09:00:20.000Z"
     },
     {
@@ -310,10 +310,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T23:49:10.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 54,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -324,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -369,7 +369,7 @@
       "score_quality": 85,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -1335,7 +1335,7 @@
       "score_quality": 80,
       "score_notif": 54,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Panerai Luminor Marina PAM01707—Vintage Codes in Carbotech",
@@ -1839,6 +1839,20 @@
       "score_quality": 38,
       "score_notif": 10,
       "cluster": "20260731-66c74a50ebbb",
+      "cluster_main": true
+    },
+    {
+      "title": "Perspective: The Best Five Vacheron Constantin Watches for Summer—All Roads Lead to the Overseas",
+      "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-best-summer-watches",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1785513557891-NM2XN7EZHG1S1JVTB7W6/VC%2BOverseas%2BUltra-Thin%2BCalibre%2B2550%2B-12.webp?format=1500w",
+      "peek_preview": "Vacheron Constantin has one collection built specifically for weather like this. Since 1996, the Overseas has been the Maison's answer to the season that punishes everything else in a collection—hot metal bracelets, cur...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-07-31T16:10:13.000Z",
+      "score_quality": 44,
+      "score_notif": 8,
+      "cluster": "20260731-6247964efc87",
       "cluster_main": true
     }
   ]
