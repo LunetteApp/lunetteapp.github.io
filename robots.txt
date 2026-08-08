@@ -1,0 +1,80 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+# AI / LLM crawlers — explicitly welcomed (GEO)
+User-agent: GPTBot
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: Applebot
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: CCBot
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+Sitemap: https://lunetteapp.com/sitemap.xml
