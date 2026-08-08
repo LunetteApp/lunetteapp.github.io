@@ -1,6 +1,6 @@
 {
-  "content_hash": "cb507edfb16028052f7bf96790b4e2eb48ea8bc24fd788e535a53dbbd78f66cf",
-  "last_updated": "2026-08-08T10:46:51.024Z",
+  "content_hash": "3c717dfa6be5a31e95d0c0c832c34d0404c84a97e8a90ecc8ae78f0599efc774",
+  "last_updated": "2026-08-08T11:46:59.719Z",
   "premium": {
     "links": []
   },
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-08T08:00:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-08T11:01:33.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-08-08T09:00:20.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Citizen Eco-Drive history explained: 50 years of light-powered watch innovation",
+      "url": "https://timeandtidewatches.com/citizen-eco-drive-history-explained-50-years-of-light-powered-watch-innovation-in-depth/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/citizen-50-years-of-eco-drive-history-explained-1.jpg",
+      "peek_preview": "Solar watches have surged in recent years, but one brand was long ahead of the curve, debuting the technology 50 years ago: Citizen. The post Citizen Eco-Drive history explained: 50 years of light-powered watch innovati...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-08T11:01:33.000Z",
+      "score_quality": 72,
+      "score_notif": 20,
+      "cluster": "20260808-fd39b0c9a8f8",
+      "cluster_main": true
+    },
     {
       "title": "Dressing Down Your Rolex: Why Taking It Off The Bracelet Can Be A Good Idea",
       "url": "https://www.fratellowatches.com/dressing-down-your-rolex-why-taking-it-off-the-bracelet-can-be-a-good-idea/",
@@ -299,7 +313,7 @@
       "score_quality": 79,
       "score_notif": 54,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -313,7 +327,7 @@
       "score_quality": 84,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -352,10 +366,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -383,20 +397,6 @@
       "score_quality": 57,
       "score_notif": 32,
       "cluster": "20260807-bde2c06aa2e2",
-      "cluster_main": true
-    },
-    {
-      "title": "Bring a Loupe: A Patek Phillipe 5000R, A Seiko 7018-8000, Jaeger-LeCoultre Master Calendar Moonphase Meteorite, And Much More",
-      "url": "https://www.hodinkee.com/articles/a-patek-phillipe-5000r-a-seiko-7018-8000-a-zodiac-poor-mans-heuer-reference-7721-and-a-jaeger-lecoul",
-      "image": "https://hodinkee.imgix.net/uploads/images/be6a45d7-06bf-46e8-9ebc-fb2da8c219fe/BALW7Edit.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T15:00:00.000Z",
-      "score_quality": 47,
-      "score_notif": 10,
-      "cluster": "20260807-53c364781544",
       "cluster_main": true
     },
     {
@@ -1332,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-04T13:30:00.000Z",
-      "score_quality": 75,
+      "score_quality": 80,
       "score_notif": 54,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Panerai Luminor Marina PAM01707—Vintage Codes in Carbotech",
@@ -1364,6 +1364,20 @@
       "score_notif": 54,
       "cluster": "20260804-5bb00386fc08",
       "cluster_main": false
+    },
+    {
+      "title": "Da Interstellar a The Odyssey: gli orologi nel cinema di Christopher Nolan",
+      "url": "https://italianwatchspotter.com/gli-orologi-nel-cinema-di-nolan/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/08/Interstellar-RELOJ-Murph-scaled.webp",
+      "peek_preview": "Verso la fine di Interstellar, il blockbuster dal successo mondiale di Christopher Nolan, Cooper cerca di comunicare con la figlia Murph da una dimensione nella quale può osservare, ma non attraversare fisicamente, mome...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-04T09:00:00.000Z",
+      "score_quality": 61,
+      "score_notif": 10,
+      "cluster": "20260804-6bdeb779e05f",
+      "cluster_main": true
     },
     {
       "title": "Five Norqain watches that show how dynamic a brand can be",
@@ -1825,34 +1839,6 @@
       "score_quality": 38,
       "score_notif": 10,
       "cluster": "20260731-66c74a50ebbb",
-      "cluster_main": true
-    },
-    {
-      "title": "Perspective: The Best Five Vacheron Constantin Watches for Summer—All Roads Lead to the Overseas",
-      "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-best-summer-watches",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1785513557891-NM2XN7EZHG1S1JVTB7W6/VC%2BOverseas%2BUltra-Thin%2BCalibre%2B2550%2B-12.webp?format=1500w",
-      "peek_preview": "Vacheron Constantin has one collection built specifically for weather like this. Since 1996, the Overseas has been the Maison's answer to the season that punishes everything else in a collection—hot metal bracelets, cur...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-07-31T16:10:13.000Z",
-      "score_quality": 42,
-      "score_notif": 9,
-      "cluster": "20260731-6247964efc87",
-      "cluster_main": true
-    },
-    {
-      "title": "Glashütte Original SeaQ Northern Tide: A Turquoise North American Exclusive Edition",
-      "url": "https://teddybaldassarre.com/blogs/watches/glashutte-original-seaq-northern-tide",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Glashuette-Original-SeaQ-NorthernTide-wrist-2.jpg?v=1785266875",
-      "peek_preview": "With summer in full swing, Glashütte Original is letting its hair down with a new limited-edition SeaQ aimed exclusively at North American markets. It’s actually a pair of watches, boasting vibrant turquoise dials that...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-07-31T16:00:07.000Z",
-      "score_quality": 62,
-      "score_notif": 23,
-      "cluster": "20260731-1eb922bf9011",
       "cluster_main": true
     }
   ]
