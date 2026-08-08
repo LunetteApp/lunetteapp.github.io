@@ -1,6 +1,6 @@
 {
-  "content_hash": "8083af582726095c112a6934e9510309dc565f17d419632513e52a30a0b21378",
-  "last_updated": "2026-08-08T03:46:59.158Z",
+  "content_hash": "730640d00d89cb8decb7574d2f538328698197531e93c692b0570f989e5e6244",
+  "last_updated": "2026-08-08T05:46:44.579Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-07T09:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-08T05:00:10.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-08T03:00:53.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Best Watch I Have Ever Owned: The Jaeger-LeCoultre Geophysic Universal Time",
+      "url": "https://www.fratellowatches.com/the-best-watch-i-have-ever-owned/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Jaeger-LeCoultre-Geophysique-Universal-Time-True-Seconds-1.jpg",
+      "peek_preview": "The option of being like Thomas and picking the Rolex Explorer II for the best watch I have ever owned was tempting. I thought about it, and yes, my Explorer II 16570 “Polar” was a very good watch in many ways. But it w...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-08T05:00:10.000Z",
+      "score_quality": 60,
+      "score_notif": 10,
+      "cluster": "20260808-a6b90a622b1a",
+      "cluster_main": true
+    },
     {
       "title": "オリエント「マルチイヤーカレンダー」の海外展開モデルが国内でも販売決定",
       "url": "https://www.webchronos.net/news/168546/",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T13:30:00.000Z",
-      "score_quality": 72,
+      "score_quality": 74,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – A Restored Valjoux 72 Chronograph to Power the New Singer Heritage V72",
@@ -1072,20 +1086,6 @@
       "cluster_main": true
     },
     {
-      "title": "Five Rolex References That Identify You As An Enthusiast",
-      "url": "https://www.fratellowatches.com/five-rolex-references-that-would-identify-you-as-an-enthusiast/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Rolex-Explorer-II-16570-4.jpg",
-      "peek_preview": "Anyone can point at a modern Submariner and know it’s a Rolex. Recognizing that the watch takes no real knowledge of the brand, Rolex has spent decades making sure of that. But there’s a different, quieter tier of Rolex...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-05T11:00:07.000Z",
-      "score_quality": 24,
-      "score_notif": 4,
-      "cluster": "20260805-eced0cb89013",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing – The Grøne Oldenzaal Horologium, a Refined, Hand-Wound, Attainable Dress Watch by The Grönefeld",
       "url": "https://monochrome-watches.com/grone-oldenzaal-horologium-attainable-hand-wound-dress-watch-small-seconds-by-gronefeld-brother/",
       "image": "https://monochrome-watches.com/app/uploads/2026/08/Grene-Oldenzaal-Horologium-hand-wound-accessible-watch-by-the-Gronefelds-1-600x237.jpg",
@@ -1278,7 +1278,7 @@
       "published_at": "2026-08-04T14:00:45.000Z",
       "score_quality": 83,
       "score_notif": 23,
-      "cluster": "20260804-b3392414ac92",
+      "cluster": "20260731-1eb922bf9011",
       "cluster_main": true
     },
     {
@@ -1307,7 +1307,7 @@
       "score_quality": 73,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1797,7 +1797,7 @@
       "score_quality": 62,
       "score_notif": 23,
       "cluster": "20260731-1eb922bf9011",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Naissance d’une Montre: l’eredità di Bonniksen e la continuità della grande scuola orologiera",
