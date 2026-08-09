@@ -1,6 +1,6 @@
 {
-  "content_hash": "14837f86c67de38243b00cdc932a6a55b6508e98b1181b21d642b0d2eea32341",
-  "last_updated": "2026-08-09T16:46:38.149Z",
+  "content_hash": "94c8bb417c1b85d8be25de533c052cd3a813ec276d5a3bd815795a9571cb103c",
+  "last_updated": "2026-08-09T21:47:05.124Z",
   "premium": {
     "links": []
   },
@@ -43,7 +43,7 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
+      "estimated_articles_per_day": 1.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-07T19:56:05.000Z"
     },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-09T16:31:17.000Z"
     },
     {
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-07T12:31:35.000Z"
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-09T20:47:54.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Bronze-Uhren 2026: Bei diesen 7 Modellen ist Patina erwünscht",
+      "url": "https://www.uhrenkosmos.com/bronze-uhren-2026-7-uhren-mit-schoener-patina/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Bronze-Uhren-2026-neue-Modelle-von-kleinen-und-grossen-Marken.jpg",
+      "peek_preview": "Bronze-Uhren 2026 zeigen, dass das Material nichts von seinem Reiz verloren hat. Dies belegen die neuen Modelle von Panerai, Yema, Bell & Ross, Hamilton, Pinion. Noch mehr Bronze liefern Oris und Tudor mit Armbändern au...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-08-09T20:47:54.000Z",
+      "score_quality": 31,
+      "score_notif": 8,
+      "cluster": "20260809-dd315782f5ae",
+      "cluster_main": true
+    },
     {
       "title": "Lima’s GMT Transit puts design first without sacrificing function",
       "url": "https://timeandtidewatches.com/lima-gmt-transit-micro-mondays/",
@@ -352,10 +366,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-08T13:30:00.000Z",
-      "score_quality": 76,
+      "score_quality": 78,
       "score_notif": 38,
       "cluster": "20260806-b91cae2acd49",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weekend Reads: The Anatomy of Watch Hands, a Rare Collector's Interview, and the Swiss Exports Tell Their Own Story",
@@ -523,7 +537,7 @@
       "score_quality": 94,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -562,10 +576,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -996,10 +1010,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T13:30:00.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – A Restored Valjoux 72 Chronograph to Power the New Singer Heritage V72",
@@ -1013,7 +1027,7 @@
       "score_quality": 77,
       "score_notif": 38,
       "cluster": "20260806-b91cae2acd49",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hot Take: The Singer Reimagined Heritage V72 Now With A Midas Touch",
@@ -1068,8 +1082,8 @@
       "published_at": "2026-08-06T08:01:41.000Z",
       "score_quality": 54,
       "score_notif": 57,
-      "cluster": "20260806-ca4527664e78",
-      "cluster_main": false
+      "cluster": "20260806-60ab2adc3feb",
+      "cluster_main": true
     },
     {
       "title": "Introducing – Seiko Celebrates 145 Years with New “Edo Purple” Watches",
@@ -1503,7 +1517,7 @@
       "score_quality": 79,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1839,20 +1853,6 @@
       "score_quality": 72,
       "score_notif": 47,
       "cluster": "20260802-c0aedfd2a7d2",
-      "cluster_main": true
-    },
-    {
-      "title": "New releases from Baltic, DOXA, Ming and more",
-      "url": "https://timeandtidewatches.com/baltic-doxa-ming-last-week-in-watches/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-lwiw-aug-2.webp",
-      "peek_preview": "Over the past seven days, we’ve seen subtle updates to popular collections, such as the Baltic Aquascaphe, alongside limited editions created with fellow watch publication Hodinkee and collaborations that revive traditi...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-02T08:00:50.000Z",
-      "score_quality": 35,
-      "score_notif": 22,
-      "cluster": "20260802-9cbd3696a7e0",
       "cluster_main": true
     }
   ]
