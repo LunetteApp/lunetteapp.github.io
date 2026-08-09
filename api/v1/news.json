@@ -1,6 +1,6 @@
 {
-  "content_hash": "70915825f8787ee738a40ccd3b802cf06e096d0d8cbf65ac895f045f659c0ef0",
-  "last_updated": "2026-08-09T07:46:51.988Z",
+  "content_hash": "33859b6e5bc76b77992d52282d376ee7d0fee28e1d62e1b5d433e2edb765b23b",
+  "last_updated": "2026-08-09T09:47:05.308Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-09T05:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-09T09:00:11.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-08T14:00:34.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-09T09:35:28.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-09T07:01:37.000Z"
     },
     {
@@ -50,7 +50,7 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
+      "estimated_articles_per_day": 0.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-04T14:21:46.000Z"
     },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-09T06:53:38.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Just Because – The Rising Creativity of China’s Independent Watchmakers",
+      "url": "https://monochrome-watches.com/just-because-qin-gan-atelier-wen-fam-al-hut-qian-guobiao-peacock-chinese-watchmaking/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/05/Atelier-Wen-Perception-V3-review-integrated-sports-watch-french-pequignet-movement-17-600x237.jpg",
+      "peek_preview": "Despite Switzerland still being the epicentre of the industry, our love of watchmaking goes far beyond its borders. For years, we have been following the developments of other nations, virtually extending to all corners...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-09T09:35:28.000Z",
+      "score_quality": 78,
+      "score_notif": 22,
+      "cluster": "20260809-611a853e9376",
+      "cluster_main": true
+    },
+    {
+      "title": "A Watch Lover’s Pilgrimage to Vienna’s Uhrenmuseum",
+      "url": "https://www.fratellowatches.com/a-watch-lovers-pilgrimage-to-viennas-uhrenmuseum/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/07/Henry-Vienna-Clock-museum-2.jpg",
+      "peek_preview": "There’s a kind of quiet that settles over you in a room full of stopped clocks. It’s not exactly silence, somewhere a pendulum is still swinging, a bell is winding up to strike, but a hush that makes you lower your voic...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-09T09:00:11.000Z",
+      "score_quality": 66,
+      "score_notif": 12,
+      "cluster": "20260809-58b40efabcfa",
+      "cluster_main": true
+    },
     {
       "title": "Ferragamo Asymetrique Watch Review: An Honest Surprise",
       "url": "https://www.ablogtowatch.com/ferragamo-asymetrique-watch-review-an-honest-surprise/",
@@ -453,7 +481,7 @@
       "score_quality": 92,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -492,10 +520,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -988,20 +1016,6 @@
       "cluster_main": false
     },
     {
-      "title": "The Perfect Laureato? Hands-On With The Girard-Perregaux Laureato Fifty With A Rose-Gold Dial",
-      "url": "https://www.fratellowatches.com/the-perfect-laureato-hands-on-with-the-girard-perregaux-laureato-fifty-with-a-rose-gold-dial/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Girard-Perregaux-Laureato-Fifty-39mm81008-11-3627-1CM-81008-11-3627-1CM-19.jpg",
-      "peek_preview": "Last year, I had the honor of testing the new Girard-Perregaux Laureato Fifty in bi-color prior to its release. It’s a tricky thing to walk around with a watch that isn’t out yet, but luckily, I live in a small village...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T09:00:16.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20260806-243a8d086d86",
-      "cluster_main": true
-    },
-    {
       "title": "Seiko’s latest Asia-Pacific Prospex limited editions bring golden hour to the wrist",
       "url": "https://timeandtidewatches.com/seiko-prospex-hbb003k-hbb004k-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-seiko-prospex-sea-asia-le.jpg",
@@ -1153,20 +1167,6 @@
       "score_quality": 40,
       "score_notif": 12,
       "cluster": "20260805-0fb59f09f854",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-on – The Urwerk UR-100V Lightspeed Ceramic, Poetic Time Measurement at the Speed of Light",
-      "url": "https://monochrome-watches.com/urwerk-ur-100v-lightspeed-ceramic-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Urwerk-UR-100V-LightSpeed-Ceramic-review-4-600x237.jpg",
-      "peek_preview": "Since its debut in 2019, the UR-100 Series has become one of Urwerk‘s most approachable and recognisable creations. “Approachable” is, of course, a relative term in terms of price, yet it is true regarding wearability....",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-05T16:10:26.000Z",
-      "score_quality": 80,
-      "score_notif": 38,
-      "cluster": "20260805-a0de6f537054",
       "cluster_main": true
     },
     {
