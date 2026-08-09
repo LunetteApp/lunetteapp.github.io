@@ -1,6 +1,6 @@
 {
-  "content_hash": "c3786694a76aaee6bfeb0b7cd62fc6f4035212b28ea16a1387aba069c1595ab4",
-  "last_updated": "2026-08-09T00:46:48.466Z",
+  "content_hash": "d02d03aabb1e6135d40090f9a239765ddd8375738c129370b9c4230174c2caf4",
+  "last_updated": "2026-08-09T01:46:56.138Z",
   "premium": {
     "links": []
   },
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-08T09:00:20.000Z"
     },
     {
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-09T00:00:55.000Z"
     },
     {
@@ -397,7 +397,7 @@
       "score_quality": 90,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -436,10 +436,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -956,8 +956,8 @@
       "published_at": "2026-08-06T08:01:41.000Z",
       "score_quality": 54,
       "score_notif": 57,
-      "cluster": "20260806-60ab2adc3feb",
-      "cluster_main": true
+      "cluster": "20260806-ca4527664e78",
+      "cluster_main": false
     },
     {
       "title": "Introducing – Seiko Celebrates 145 Years with New “Edo Purple” Watches",
@@ -1839,6 +1839,20 @@
       "score_quality": 74,
       "score_notif": 50,
       "cluster": "20260801-7c8733a0e2ab",
+      "cluster_main": true
+    },
+    {
+      "title": "Cartier brings its Santos de Cartier Chronograph down to a more favourable “Large” size",
+      "url": "https://timeandtidewatches.com/cartier-santos-de-cartier-chronograph-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/07/featured-image-cartier-santos-de-cartier-chronograph.jpg",
+      "peek_preview": "The latest Cartier Santos de Cartier Chronograph drops down from XL sizing to Cartier's large size for more refined proportions. The post Cartier brings its Santos de Cartier Chronograph down to a more favourable “Large...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-01T11:01:05.000Z",
+      "score_quality": 68,
+      "score_notif": 24,
+      "cluster": "20260801-ed395ec3af2a",
       "cluster_main": true
     }
   ]
