@@ -1,6 +1,6 @@
 {
-  "content_hash": "6995386c6b83324947c1070e84320f4fe0b4ddb0be656dfb69cfc569f046543f",
-  "last_updated": "2026-08-09T13:46:40.209Z",
+  "content_hash": "14837f86c67de38243b00cdc932a6a55b6508e98b1181b21d642b0d2eea32341",
+  "last_updated": "2026-08-09T16:46:38.149Z",
   "premium": {
     "links": []
   },
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-09T13:31:45.000Z"
     },
     {
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-09T13:01:51.000Z"
+      "latest_article_at": "2026-08-09T16:31:17.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Lima’s GMT Transit puts design first without sacrificing function",
+      "url": "https://timeandtidewatches.com/lima-gmt-transit-micro-mondays/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Lima-GMT-Transit-The-Palette-Feature.jpg",
+      "peek_preview": "The GMT Transit brings Lima's design language to the popular multi-timezone category and has clearly been a success for the brand. The post Lima’s GMT Transit puts design first without sacrificing function appeared firs...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-09T16:31:17.000Z",
+      "score_quality": 59,
+      "score_notif": 28,
+      "cluster": "20260809-a6d9b49a887f",
+      "cluster_main": true
+    },
     {
       "title": "The only watch you can't dress up.",
       "url": "https://www.unpolishedwatches.com/p/the-only-watch-you-cant-dress-up",
@@ -506,10 +520,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -551,7 +565,7 @@
       "score_quality": 93,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -1054,8 +1068,8 @@
       "published_at": "2026-08-06T08:01:41.000Z",
       "score_quality": 54,
       "score_notif": 57,
-      "cluster": "20260806-60ab2adc3feb",
-      "cluster_main": true
+      "cluster": "20260806-ca4527664e78",
+      "cluster_main": false
     },
     {
       "title": "Introducing – Seiko Celebrates 145 Years with New “Edo Purple” Watches",
@@ -1839,20 +1853,6 @@
       "score_quality": 35,
       "score_notif": 22,
       "cluster": "20260802-9cbd3696a7e0",
-      "cluster_main": true
-    },
-    {
-      "title": "Watch Review: Is The Accutron Tuning Fork Spaceview 314 The Beginning Of The New Era Of Battery-Powered Luxury Watches?",
-      "url": "https://www.ablogtowatch.com/watch-review-is-the-accutron-tuning-fork-spaceview-314-the-beginning-of-the-new-era-of-battery-powered-luxury-watches/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/07/Accutron-Spaceview-314-Tuning-Fork-watch-12-768x346.jpg",
-      "peek_preview": "This is the first, but probably not the last, time I will be talking about a tuning fork movement in a watch that Accutron calls the Spaceview 314. I have been waiting nearly two decades for electronic wristwatches of t...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-02T07:01:08.000Z",
-      "score_quality": 73,
-      "score_notif": 28,
-      "cluster": "20260802-aff745f874db",
       "cluster_main": true
     }
   ]
