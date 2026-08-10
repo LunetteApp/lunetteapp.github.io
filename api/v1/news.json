@@ -1,6 +1,6 @@
 {
-  "content_hash": "2f230e19e536cc548fb8949615b520f532fb24bf86499bbbae8359c05e3800c4",
-  "last_updated": "2026-08-10T14:47:09.530Z",
+  "content_hash": "531417679e948f14c2157069092c39289cc71b1bad3dd9375d5d12b65919b9f3",
+  "last_updated": "2026-08-10T15:47:17.142Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-10T14:00:44.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-07T17:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Inside The Manufacture: Making A Tudor: A Behind-The-Scenes Look, From Raw Material To Finished Product [Video]",
+      "url": "https://www.hodinkee.com/articles/making-a-tudor-a-behind-the-scenes-look-from-raw-material-to-finished-product-video",
+      "image": "https://hodinkee.imgix.net/uploads/images/b4180ce2-b600-4ab3-9a26-546220f695bb/3.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "In this video, we spend multiple days inside Tudor's Swiss manufacturing network, watching the case, dial, and movement of a single watch come together.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-10T15:00:00.000Z",
+      "score_quality": 86,
+      "score_notif": 24,
+      "cluster": "20260810-8e02b12f66a1",
+      "cluster_main": true
+    },
+    {
       "title": "The Water Champion Is Back With The Edox Delfin 1961 Reissue And A New Delfin 1973 Series Of Watches",
       "url": "https://www.ablogtowatch.com/the-water-champion-is-back-with-the-edox-delfin-1961-reissue-and-a-new-delfin-1973-series-of-watches/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/07/Edox-Delfin-1961-8-768x329.jpeg",
@@ -212,10 +226,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T13:00:35.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -761,7 +775,7 @@
       "score_quality": 83,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -1797,20 +1811,6 @@
       "score_quality": 58,
       "score_notif": 22,
       "cluster": "20260803-0391c6f32cd1",
-      "cluster_main": true
-    },
-    {
-      "title": "Talking Watches: With Michael Friedman – Former Head Of Complications At Audemars Piguet And Founder Of Pattern Recognition",
-      "url": "https://www.hodinkee.com/articles/michael-friedman-talking-watches",
-      "image": "https://hodinkee.imgix.net/uploads/images/5e41e784-3ed7-4ce3-8770-faee61ac2b13/TW-friedmanhero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A lifelong scholar of horology shares a personal collection shaped by family history, formative discoveries, and decades of design thinking.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-03T13:00:00.000Z",
-      "score_quality": 86,
-      "score_notif": 24,
-      "cluster": "20260803-0c6d0d83d479",
       "cluster_main": true
     },
     {
