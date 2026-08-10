@@ -1,6 +1,6 @@
 {
-  "content_hash": "47c1827f088041fdd00b7414906bb32184d792ad0a72076f4a9a12646e90d4e9",
-  "last_updated": "2026-08-10T12:47:06.959Z",
+  "content_hash": "394667da7b4e3b8643fd2fc94b954343fa349eba9a1516ffea936bbb0c835114",
+  "last_updated": "2026-08-10T13:46:44.216Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-08T14:00:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T13:00:35.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-10T12:00:49.000Z"
     },
     {
@@ -51,15 +51,15 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-10T12:25:53.000Z"
     },
     {
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-09T06:53:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-10T09:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T12:01:28.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Review: Cleguer Horology Inspiration One, a technical masterpiece",
+      "url": "https://deployant.com/review-cleguer-horology-inspiration-one-a-technical-masterpiece/?utm_source=rss&utm_medium=rss&utm_campaign=review-cleguer-horology-inspiration-one-a-technical-masterpiece",
+      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/clegeur-inspirationone-wrist.jpg?fit=1200%2C853&ssl=1",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Technical review of the Cleguer Horology Inspiration One. This inaugural timepiece from independent watchmaker Mathieu Cleguer has instantly captured the atte...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-10T13:30:00.000Z",
+      "score_quality": 71,
+      "score_notif": 12,
+      "cluster": "20260810-4e93c49cbf94",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing the Seiko 5 Sports MOTOCOMPO Limited Edition",
+      "url": "https://wornandwound.com/introducing-the-seiko-5-sports-motocompo-limited-edition/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Seiko-Motocompo-banner.jpg",
+      "peek_preview": "I’m sure you’ve heard the saying that children are either car kids or dinosaur kids. Personally, I was firmly in the latter category. But the older I get, the more I realize how much I’ve missed out on. Now, I’m not say...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-10T13:00:35.000Z",
+      "score_quality": 82,
+      "score_notif": 48,
+      "cluster": "20260804-5bb00386fc08",
+      "cluster_main": true
+    },
+    {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
       "url": "https://www.atimelyperspective.com/tag-heuer-puts-solar-power-in-the-fast-lane-with-formula-1-zandvoort-prices/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/tag-heuer-formula-1-zandvoort-f1-2.jpg-copy-1024x683.jpg",
@@ -188,6 +216,20 @@
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
       "cluster_main": false
+    },
+    {
+      "title": "Moonwatch or Snoopy? Omega Speedmaster head-to-head (feat. Fratello’s R.J. Broer)",
+      "url": "https://timeandtidewatches.com/moonwatch-or-snoopy-omega-speedmaster-head-to-head-feat-fratellos-r-j-broer-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Omega-Ep-3-feature.jpg",
+      "peek_preview": "Episode 3 of Four New Ways to Fly to the Moon — and this one took a detour we didn’t plan. Andrew and Justin were set to go head-to-head on the classic Omega Speedmaster Professional Moonwatch versus the blue Snoopy Spe...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-10T12:01:28.000Z",
+      "score_quality": 62,
+      "score_notif": 15,
+      "cluster": "20260810-27baea5ef2ee",
+      "cluster_main": true
     },
     {
       "title": "First Look – The Maen Manhattan 37 Ultra-Thin Stone Dial Collection",
@@ -212,10 +254,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T09:00:26.000Z",
-      "score_quality": 76,
+      "score_quality": 78,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
@@ -229,7 +271,7 @@
       "score_quality": 77,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Orologi a carica solare: oltre i miti del marketing e del finto ecologismo",
@@ -703,9 +745,9 @@
       "featured": false,
       "published_at": "2026-08-07T23:49:10.000Z",
       "score_quality": 81,
-      "score_notif": 54,
+      "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -716,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -761,7 +803,7 @@
       "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -1361,7 +1403,7 @@
       "featured": false,
       "published_at": "2026-08-05T15:25:30.000Z",
       "score_quality": 76,
-      "score_notif": 54,
+      "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
       "cluster_main": false
     },
@@ -1445,7 +1487,7 @@
       "featured": false,
       "published_at": "2026-08-05T07:05:01.000Z",
       "score_quality": 61,
-      "score_notif": 54,
+      "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
       "cluster_main": false
     },
@@ -1562,20 +1604,6 @@
       "cluster_main": true
     },
     {
-      "title": "Glashütte Original Introduces Two New Limited Editions Versions of the SeaQ",
-      "url": "https://wornandwound.com/glashutte-original-introduces-two-new-limited-editions-versions-of-the-seaq/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/GO-Northern-Lights-banner.jpg",
-      "peek_preview": "When it comes to luxury divers in the $10,000-$20,000 range, the usual suspects are big Swiss heritage brands. Rolex, Omega, and Blancpain immediately come to mind, and IWC, Jaeger-LeCoultre, and a host of indies offer...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-04T14:00:45.000Z",
-      "score_quality": 83,
-      "score_notif": 23,
-      "cluster": "20260804-b3392414ac92",
-      "cluster_main": true
-    },
-    {
       "title": "New release: Seiko 5 Sports collaboration with Honda Motocompo",
       "url": "https://deployant.com/new-release-seiko-5-sports-collaboration-with-honda-motocompo/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-seiko-5-sports-collaboration-with-honda-motocompo",
       "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/Seiko-_5-_Sports_MOTOCOMPO-_Limited_H.jpg?fit=1200%2C675&ssl=1",
@@ -1585,7 +1613,7 @@
       "featured": false,
       "published_at": "2026-08-04T13:30:00.000Z",
       "score_quality": 80,
-      "score_notif": 54,
+      "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
       "cluster_main": false
     },
@@ -1613,7 +1641,7 @@
       "featured": false,
       "published_at": "2026-08-04T09:57:07.000Z",
       "score_quality": 74,
-      "score_notif": 54,
+      "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
       "cluster_main": false
     },
@@ -1825,34 +1853,6 @@
       "score_quality": 52,
       "score_notif": 18,
       "cluster": "20260803-a48730c256d2",
-      "cluster_main": true
-    },
-    {
-      "title": "The Chronoswiss Small Second Stone Dials tell the story of a brand",
-      "url": "https://timeandtidewatches.com/chronoswiss-small-second-jasper-serpentine-introduing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/07/featured-image-chronoswiss-small-seconds-stone-dials.jpg",
-      "peek_preview": "A simple watch that tells the story of the brand's past, present, and where it might be going in the future. The post The Chronoswiss Small Second Stone Dials tell the story of a brand appeared first on Time+Tide Watche...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-03T08:00:04.000Z",
-      "score_quality": 62,
-      "score_notif": 46,
-      "cluster": "20260803-fec337f4653e",
-      "cluster_main": false
-    },
-    {
-      "title": "New: Chronoswiss Small Second Stone Collection – Jasper and Serpentine",
-      "url": "https://deployant.com/new-chronoswiss-small-second-stone/?utm_source=rss&utm_medium=rss&utm_campaign=new-chronoswiss-small-second-stone",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/07/CS-Stone-LQ-9-16-1.jpg?fit=1080%2C1920&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Chronoswiss Small Second Stone: the Jasper and Serpentine bring natural stone dials to the 40mm Small Second, limited to 50 pieces each with caliber C.6000. T...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-03T08:00:00.000Z",
-      "score_quality": 87,
-      "score_notif": 46,
-      "cluster": "20260803-fec337f4653e",
       "cluster_main": true
     }
   ]
