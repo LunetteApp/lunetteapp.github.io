@@ -1,0 +1,132 @@
+{
+  "base": "EUR",
+  "source": {
+    "name": "European Central Bank",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+    "attribution": "Source: European Central Bank (ECB).",
+    "terms": "https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html",
+    "transformation": "Converted from the ECB XML feed to JSON; published rate values are unchanged."
+  },
+  "rates": {
+    "EUR": {
+      "date": "2026-08-07",
+      "rate": 1
+    },
+    "AUD": {
+      "date": "2026-08-07",
+      "rate": 1.6384
+    },
+    "BRL": {
+      "date": "2026-08-07",
+      "rate": 5.8826
+    },
+    "CAD": {
+      "date": "2026-08-07",
+      "rate": 1.616
+    },
+    "CHF": {
+      "date": "2026-08-07",
+      "rate": 0.9347
+    },
+    "CNY": {
+      "date": "2026-08-07",
+      "rate": 7.7834
+    },
+    "CZK": {
+      "date": "2026-08-07",
+      "rate": 24.261
+    },
+    "DKK": {
+      "date": "2026-08-07",
+      "rate": 7.4756
+    },
+    "GBP": {
+      "date": "2026-08-07",
+      "rate": 0.85765
+    },
+    "HKD": {
+      "date": "2026-08-07",
+      "rate": 9.0491
+    },
+    "HUF": {
+      "date": "2026-08-07",
+      "rate": 364.5
+    },
+    "IDR": {
+      "date": "2026-08-07",
+      "rate": 20584.96
+    },
+    "ILS": {
+      "date": "2026-08-07",
+      "rate": 3.4638
+    },
+    "INR": {
+      "date": "2026-08-07",
+      "rate": 109.8275
+    },
+    "ISK": {
+      "date": "2026-08-07",
+      "rate": 142.6
+    },
+    "JPY": {
+      "date": "2026-08-07",
+      "rate": 182.64
+    },
+    "KRW": {
+      "date": "2026-08-07",
+      "rate": 1633.3
+    },
+    "MXN": {
+      "date": "2026-08-07",
+      "rate": 19.7884
+    },
+    "MYR": {
+      "date": "2026-08-07",
+      "rate": 4.719
+    },
+    "NOK": {
+      "date": "2026-08-07",
+      "rate": 10.975
+    },
+    "NZD": {
+      "date": "2026-08-07",
+      "rate": 1.9646
+    },
+    "PHP": {
+      "date": "2026-08-07",
+      "rate": 70.21
+    },
+    "PLN": {
+      "date": "2026-08-07",
+      "rate": 4.2983
+    },
+    "RON": {
+      "date": "2026-08-07",
+      "rate": 5.2525
+    },
+    "SEK": {
+      "date": "2026-08-07",
+      "rate": 10.9455
+    },
+    "SGD": {
+      "date": "2026-08-07",
+      "rate": 1.4775
+    },
+    "THB": {
+      "date": "2026-08-07",
+      "rate": 38.129
+    },
+    "TRY": {
+      "date": "2026-08-07",
+      "rate": 55.0287
+    },
+    "USD": {
+      "date": "2026-08-07",
+      "rate": 1.1535
+    },
+    "ZAR": {
+      "date": "2026-08-07",
+      "rate": 18.7136
+    }
+  }
+}
