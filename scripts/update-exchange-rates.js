@@ -83,20 +83,19 @@ function buildDocument(rows) {
   const date = rows[0].date;
   const rates = {
     EUR: {
-      date,
       rate: 1,
     },
   };
 
   for (const row of [...rows].sort((left, right) => left.currency.localeCompare(right.currency))) {
     rates[row.currency] = {
-      date: row.date,
       rate: row.rate,
     };
   }
 
   return {
     base: BASE_CURRENCY,
+    date,
     source: {
       name: "European Central Bank",
       url: SOURCE_PAGE,
@@ -112,6 +111,7 @@ function validateDocument(document) {
   if (
     !document ||
     document.base !== BASE_CURRENCY ||
+    !/^\d{4}-\d{2}-\d{2}$/.test(document.date) ||
     document.source?.name !== "European Central Bank" ||
     document.source?.url !== SOURCE_PAGE ||
     document.source?.attribution !== "Source: European Central Bank (ECB)." ||
@@ -132,7 +132,6 @@ function validateDocument(document) {
     if (
       !/^[A-Z]{3}$/.test(currency) ||
       !value ||
-      !/^\d{4}-\d{2}-\d{2}$/.test(value.date) ||
       !Number.isFinite(value.rate) ||
       value.rate <= 0
     ) {
