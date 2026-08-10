@@ -1,6 +1,6 @@
 {
-  "content_hash": "8389d75bc5ac1377572b47216ba2869a0f46ccdee502489d6e9cb74d94f38ac0",
-  "last_updated": "2026-08-10T07:46:59.084Z",
+  "content_hash": "b800bde47c6ec2432569d84d0b13220feee7e14c1e411901cce32ec58577d689",
+  "last_updated": "2026-08-10T08:46:43.631Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-10T07:00:10.000Z"
     },
     {
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-10T07:00:42.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-10T07:01:34.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-09T16:31:17.000Z"
     },
     {
@@ -113,9 +113,9 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-07T08:00:00.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T08:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Orologi a carica solare: oltre i miti del marketing e del finto ecologismo",
+      "url": "https://giornaleorologi.it/2026/08/10/orologi-a-carica-solare-oltre-i-miti-del-marketing-e-del-finto-ecologismo/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/citizen-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Orologi a carica solare: oltre i miti del marketing e del finto ecologismo La stagione è favorevole: parliamo degli orologi a carica solare. Quegli orologi con movimento al quarzo dotati di mic...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-10T08:00:00.000Z",
+      "score_quality": 65,
+      "score_notif": 15,
+      "cluster": "20260810-58bd0cf31212",
+      "cluster_main": true
+    },
     {
       "title": "Grinding Gears: Watch Brands On Thin Ice When Chasing External Validations",
       "url": "https://www.ablogtowatch.com/grinding-gears-watch-brands-on-thin-ice-when-chasing-external-validations/",
@@ -646,10 +660,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -691,7 +705,7 @@
       "score_quality": 97,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -1125,7 +1139,7 @@
       "score_quality": 82,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – A Restored Valjoux 72 Chronograph to Power the New Singer Heritage V72",
@@ -1556,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-04T12:17:03.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1839,20 +1853,6 @@
       "score_quality": 50,
       "score_notif": 20,
       "cluster": "20260803-582ee2e55c69",
-      "cluster_main": true
-    },
-    {
-      "title": "In Depth: Breguet’s Pendule à Trois Roues",
-      "url": "https://watchesbysjx.com/2026/08/in-depth-breguets-pendule-a-trois-roues.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/07/0-SJX-Breguet-Three-Wheel-Clock-cover-300x200.jpg",
-      "peek_preview": "The pendule à trois roues — three-wheel pendulum [clock] — was Abraham-Louis Breguet’s radical answer to a fundamental horological question: how much could a clock be reduced without sacrificing precision? On the Februa...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-03T01:00:51.000Z",
-      "score_quality": 82,
-      "score_notif": 22,
-      "cluster": "20260803-201241003f1b",
       "cluster_main": true
     }
   ]
