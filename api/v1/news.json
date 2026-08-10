@@ -1,6 +1,6 @@
 {
-  "content_hash": "816475cd6b0f709dec1dd01d31d08aaf9c602dbf972e0a630332477ec6f70802",
-  "last_updated": "2026-08-10T19:46:49.725Z",
+  "content_hash": "17d8fdcc35fa16544772e2be50a3157fc8ef9fe17ec967fa5f43d7428f0e3811",
+  "last_updated": "2026-08-10T20:46:36.855Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-10T19:00:39.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-08T13:13:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T19:58:12.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: Artisans de Genève Spider Daytona—A Rolex Rebuilt Around Four Kilos of Arizona Turquoise",
+      "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-spider-daytona-rolex-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786391177632-BRMFEXMJ3ORVKNP9P4HL/Artisans+de+Geneve+Daytona+Spider-1.jpg?format=1500w",
+      "peek_preview": "Getting this piece in hand made the concept behind it click in a way the renderings never quite manage. Artisans de Genève has built plenty of Daytona projects over the years, but the Spider, commissioned privately by a...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-10T19:58:12.000Z",
+      "score_quality": 74,
+      "score_notif": 32,
+      "cluster": "20260810-dcedafd0dec6",
+      "cluster_main": true
+    },
     {
       "title": "Arcanaut Introduces Fordite 2.0, Now Fully Customizable",
       "url": "https://wornandwound.com/arcanaut-introduces-fordite-2-0-now-fully-customizable/",
@@ -1318,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T13:30:00.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko’s latest Asia-Pacific Prospex limited editions bring golden hour to the wrist",
@@ -1671,7 +1685,7 @@
       "score_quality": 85,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
