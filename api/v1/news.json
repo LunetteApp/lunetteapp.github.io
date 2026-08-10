@@ -1,6 +1,6 @@
 {
-  "content_hash": "94c8bb417c1b85d8be25de533c052cd3a813ec276d5a3bd815795a9571cb103c",
-  "last_updated": "2026-08-09T21:47:05.124Z",
+  "content_hash": "0379ac6fe9b10887d716339c06bc11668435faa29f50b0053547e41ad45ec4cf",
+  "last_updated": "2026-08-10T00:46:31.421Z",
   "premium": {
     "links": []
   },
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-09T20:47:54.000Z"
     },
     {
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-09T03:00:17.000Z"
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T00:00:55.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "グラスヒュッテ・オリジナルが「グラスヒュッテ腕時計100周年記念展」を開催。55点の歴史的タイムピースが展示",
+      "url": "https://www.webchronos.net/news/168574/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/glasshutte_100thanniversary.webp",
+      "peek_preview": "グラスヒュッテ・オリジナルが、グラスヒュッテにおける腕時計用ムーブメントの本格的な製造開始から100周年を記念し、「グラスヒュッテ腕時計100周年記念展」を東京・銀座で開催する。期間は2026年8月8日（土）から11日（ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-10T00:00:55.000Z",
+      "score_quality": 72,
+      "score_notif": 41,
+      "cluster": "20260810-b5ae4feaef09",
+      "cluster_main": true
+    },
     {
       "title": "Bronze-Uhren 2026: Bei diesen 7 Modellen ist Patina erwünscht",
       "url": "https://www.uhrenkosmos.com/bronze-uhren-2026-7-uhren-mit-schoener-patina/",
@@ -369,7 +383,7 @@
       "score_quality": 78,
       "score_notif": 38,
       "cluster": "20260806-b91cae2acd49",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: The Anatomy of Watch Hands, a Rare Collector's Interview, and the Swiss Exports Tell Their Own Story",
@@ -1013,7 +1027,7 @@
       "score_quality": 80,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – A Restored Valjoux 72 Chronograph to Power the New Singer Heritage V72",
@@ -1024,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T12:01:29.000Z",
-      "score_quality": 77,
+      "score_quality": 79,
       "score_notif": 38,
       "cluster": "20260806-b91cae2acd49",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hot Take: The Singer Reimagined Heritage V72 Now With A Midas Touch",
@@ -1380,20 +1394,6 @@
       "cluster_main": true
     },
     {
-      "title": "ジャガー・ルクルト、銀座に新ブティックを移転オープン！ 日本初「アトリエ・ド・アントワーヌ」も開設",
-      "url": "https://www.webchronos.net/news/168074/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/07/JAEGERLECOULTRE_GinzaNamiki-01.webp",
-      "peek_preview": "ジャガー・ルクルトが、銀座並木ブティックを並木通り沿いの新たなロケーションに移転させ、フラッグシップブティックをオープンする。同ブランドがスイスのル・サンティエに構えるマニュファクチュールの精神を映し出す空間として設計さ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-05T00:00:08.000Z",
-      "score_quality": 73,
-      "score_notif": 38,
-      "cluster": "20260805-0b99f766f77e",
-      "cluster_main": true
-    },
-    {
       "title": "Grand Seiko Masterpiece SBGZ011 Review: Fluid Artistry And Feather-Thin Engineering",
       "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-masterpiece-sbgz011-review",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand_Seiko_Masterpiece_SBGZ011-2.jpg?v=1785869830",
@@ -1514,10 +1514,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-04T12:17:03.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
