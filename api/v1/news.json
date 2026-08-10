@@ -1,6 +1,6 @@
 {
-  "content_hash": "9800fb1f9a1f3be204c3db24bd2ea7ed21f099cc8f436cbedd122e8d56f96d0c",
-  "last_updated": "2026-08-10T06:46:33.530Z",
+  "content_hash": "8389d75bc5ac1377572b47216ba2869a0f46ccdee502489d6e9cb74d94f38ac0",
+  "last_updated": "2026-08-10T07:46:59.084Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-10T05:00:47.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T07:00:10.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -22,16 +22,16 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-09T09:35:28.000Z"
+      "estimated_articles_per_day": 1.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T07:00:42.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-09T07:01:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-10T07:01:34.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Grinding Gears: Watch Brands On Thin Ice When Chasing External Validations",
+      "url": "https://www.ablogtowatch.com/grinding-gears-watch-brands-on-thin-ice-when-chasing-external-validations/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Grinding-Gears-Certifications-Featured-768x346.jpg",
+      "peek_preview": "Auction results, GPHG, Red Dot Design Awards, COSC chronometer certification, Geneva Seal, Qualité Fleurier, METAS Master Chronometer, Superlative Chronometer, Observatory Certificate, Patek Seal… The list goes on when...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-10T07:01:34.000Z",
+      "score_quality": 55,
+      "score_notif": 14,
+      "cluster": "20260810-5dacab597d3b",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The Ceon GR-01, an Indie Watch Designed and Built in Brazil",
+      "url": "https://monochrome-watches.com/the-ceon-gr-01-an-indie-watch-designed-and-built-in-brazil/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Ceon-GR-01-independent-watchmaker-Brasil-hand-made-watch-2-600x237.jpg",
+      "peek_preview": "Independent watchmaking sprouts far beyond well-known centres, and one of the latest examples comes from an unexpected country we largely associate with Carnival, samba, football legends, and the Amazon rainforest. Ceon...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-10T07:00:42.000Z",
+      "score_quality": 76,
+      "score_notif": 43,
+      "cluster": "20260810-cc451706fcd4",
+      "cluster_main": true
+    },
+    {
+      "title": "The Best Entry-Level Jaeger-LeCoultre Reverso Is The Downsized Tribute Duoface Small Seconds",
+      "url": "https://www.fratellowatches.com/the-best-entry-level-jaeger-lecoultre-reverso-is-the-downsized-tribute-duoface-small-seconds/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Jaeger-LeCoultre-Reverso-Tribute-Duoface-Small-Seconds-43mm-Q3908410-9.jpg",
+      "peek_preview": "If I asked you to draft a list of iconic dress watches, it probably wouldn’t take you long to come up with some answers. And it would not be unreasonable to assume that the Jaeger-LeCoultre Reverso would be on that list...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-10T07:00:10.000Z",
+      "score_quality": 46,
+      "score_notif": 12,
+      "cluster": "20260810-a18923a48d1d",
+      "cluster_main": true
+    },
     {
       "title": "Uncorking the Louis Moinet 1816 Chronograph Champagne: A Hands-On Experience",
       "url": "https://www.fratellowatches.com/uncorking-the-louis-moinet-1816-chronograph-champagne/",
@@ -1080,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T13:30:00.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – A Restored Valjoux 72 Chronograph to Power the New Singer Heritage V72",
@@ -1112,20 +1154,6 @@
       "score_notif": 38,
       "cluster": "20260806-b91cae2acd49",
       "cluster_main": false
-    },
-    {
-      "title": "A Touch Of Watch Heaven: Patek Philippe 6105G-001 Celestial Sunrise And Sunset",
-      "url": "https://www.fratellowatches.com/patek-philippe-6105g-001-celestial-sunrise-and-sunset/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Patek-Philippe-6105G-001-Celestial-Sunrise-And-Sunset-13.jpg",
-      "peek_preview": "An oversized white-gold case inspired by space modules, paired with a seamlessly integrated X-patterned composite strap and a dial depicting the sky as seen from Geneva on a sapphire-crystal dial. The Patek Philippe 610...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T11:00:30.000Z",
-      "score_quality": 65,
-      "score_notif": 42,
-      "cluster": "20260806-1e8bd452de74",
-      "cluster_main": true
     },
     {
       "title": "Seiko’s latest Asia-Pacific Prospex limited editions bring golden hour to the wrist",
@@ -1167,20 +1195,6 @@
       "score_quality": 67,
       "score_notif": 28,
       "cluster": "20260806-c1ce6747d625",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Favre Leuba Deep Raider Day Date, Now in Two-Tone Editions",
-      "url": "https://monochrome-watches.com/favre-leuba-deep-raider-day-date-two-tone-editions-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Favre-Leuba-Deep-Raider-Day-Date-Two-Tone-Editions-1-600x237.jpg",
-      "peek_preview": "Following its global relaunch in 2024 with Patrik Hoffmann at the helm, Favre Leuba retains the spirit of its historical tool watches but with a new focus on extreme wearability. Famous for engineering innovative, well-...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T07:00:22.000Z",
-      "score_quality": 62,
-      "score_notif": 32,
-      "cluster": "20260806-df6935a1db3c",
       "cluster_main": true
     },
     {
@@ -1545,7 +1559,7 @@
       "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1839,20 +1853,6 @@
       "score_quality": 82,
       "score_notif": 22,
       "cluster": "20260803-201241003f1b",
-      "cluster_main": true
-    },
-    {
-      "title": "Bell & Ross BR-05 GMT Green Steel: Grüne Stahl-GMT für Stadt und Büro",
-      "url": "https://www.uhrenkosmos.com/bell-ross-br-05-gmt-green-steel/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Bell-Ross-BR-05-GMT-Green-Steel-Kautschuk-und-Stahl-C-Uhrenkosmos.jpg",
-      "peek_preview": "Die neue Bell & Ross BR-05 GMT Green Steel bietet ein 41-Millimeter-Stahlgehäuse, Kautschuk- oder Gliederband, Automatikwerk, 54 Stunden Gangautonomie, zweite Zonenzeit und ein grünes Sonnenschliff-Lackzifferblatt. Die...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-02T19:52:33.000Z",
-      "score_quality": 60,
-      "score_notif": 32,
-      "cluster": "20260802-7222b1726d9f",
       "cluster_main": true
     }
   ]
