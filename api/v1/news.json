@@ -1,6 +1,6 @@
 {
-  "content_hash": "b55cae3100a45f9e573994d0c57e3d6a2bc48eaf9c418018568705cd0d7c1c83",
-  "last_updated": "2026-08-11T21:47:02.700Z",
+  "content_hash": "f707f698d1522d0744d2844d989940ad9a0f2e4fdbb65fc5bba1bd9a28aac08c",
+  "last_updated": "2026-08-11T22:47:40.982Z",
   "premium": {
     "links": []
   },
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T20:51:52.000Z"
     },
     {
@@ -270,7 +270,7 @@
       "published_at": "2026-08-11T14:03:52.000Z",
       "score_quality": 60,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
+      "cluster": "20260808-902fb7aaf116",
       "cluster_main": true
     },
     {
@@ -492,10 +492,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T21:06:17.000Z",
-      "score_quality": 81,
+      "score_quality": 86,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Spider Daytona—A Rolex Rebuilt Around Four Kilos of Arizona Turquoise",
@@ -691,7 +691,7 @@
       "score_quality": 85,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Orologi a carica solare: oltre i miti del marketing e del finto ecologismo",
@@ -732,7 +732,7 @@
       "published_at": "2026-08-10T07:01:01.000Z",
       "score_quality": 67,
       "score_notif": 18,
-      "cluster": "20260807-79c900f4b29e",
+      "cluster": "20260810-3f776df6e84c",
       "cluster_main": true
     },
     {
@@ -971,7 +971,7 @@
       "score_quality": 33,
       "score_notif": 68,
       "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1206,10 +1206,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -1248,10 +1248,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -1377,7 +1377,7 @@
       "score_quality": 48,
       "score_notif": 18,
       "cluster": "20260807-79c900f4b29e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Famed artist Alec Monopoly rage baits the watch community with splashes of paint",
@@ -1839,6 +1839,20 @@
       "score_quality": 29,
       "score_notif": 9,
       "cluster": "20260804-8fad331a4b33",
+      "cluster_main": true
+    },
+    {
+      "title": "A Closer Look At The Roger Dubuis Excalibur The Kabuto Legacy",
+      "url": "https://www.atimelyperspective.com/a-closer-look-at-the-roger-dubuis-excalibur-the-kabuto-legacy-price/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/RDDBEX1139_SD_SOLDAT_WBG-1024x1024.jpg",
+      "peek_preview": "Roger Dubuis has spent more than a decade turning its Excalibur Knights of the Round Table collection into wearable sculpture, replacing traditional hour markers with miniature figures that transform each watch into a n...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-04T14:21:46.000Z",
+      "score_quality": 58,
+      "score_notif": 15,
+      "cluster": "20260804-b7021128d2fb",
       "cluster_main": true
     }
   ]
