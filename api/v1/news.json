@@ -1,6 +1,6 @@
 {
-  "content_hash": "9f1723836d9862d0d1fead02ae05b2f673a23462cad653d1c1312034eda0a0a1",
-  "last_updated": "2026-08-11T17:47:34.093Z",
+  "content_hash": "3234dee08690e727fc4cbc429bfd9ed41177290c0290fe2393015b47003cf333",
+  "last_updated": "2026-08-11T19:47:47.297Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T16:00:53.000Z"
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-11T19:00:15.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-10T14:00:44.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-11T19:00:57.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T17:00:00.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "A Pocket Watch for the Purist from Bangalore Watch Company™",
+      "url": "https://www.ablogtowatch.com/a-pocket-watch-for-the-purist-from-bangalore-watch-company/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Bangalore-Watch-Co-Forty-Seven-SP-FI2-768x346.jpg",
+      "peek_preview": "Since its founding in 2018, Indian brand Bangalore Watch Company has developed collections inspired by aviation, cricket, space travel, and the outdoors, using each release to explore another facet of modern India’s rem...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-11T19:00:57.000Z",
+      "score_quality": 53,
+      "score_notif": 27,
+      "cluster": "20260811-d96435dae8c7",
+      "cluster_main": false
+    },
+    {
+      "title": "Fears Retires the Brunswick 40.5 Jump Hour with the ‘Ultimus’ Edition: an Appreciation of a Modern Classic",
+      "url": "https://wornandwound.com/fears-retires-the-brunswick-40-5-jump-hour-with-the-ultimus-edition-an-appreciation-of-a-modern-classic/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Fears-Ultimus-Jump-Hour-1.jpg.jpg",
+      "peek_preview": "Fears made some news this week not only with a new release, but also the announcement that one of their signature watches is being retired. The new Brunswick 40.5 Jump Hour ‘Ultimus’ is, somewhat surprisingly, the last...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-11T19:00:15.000Z",
+      "score_quality": 68,
+      "score_notif": 47,
+      "cluster": "20260809-813485634f1d",
+      "cluster_main": false
+    },
+    {
       "title": "Happenings: Watch Week Aspen Returns For Its Third Year",
       "url": "https://www.hodinkee.com/articles/watch-week-aspen-returns-for-its-third-year",
       "image": "https://hodinkee.imgix.net/uploads/images/4d1a58c1-85fa-4f7a-b82d-160497889699/AspenEdit.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -282,10 +310,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -355,7 +383,7 @@
       "score_quality": 87,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Moritz Grossmann TEFNUT 36: il quadrante turchese nato da una tecnica dell’Ottocento",
@@ -1534,20 +1562,6 @@
       "cluster_main": true
     },
     {
-      "title": "GRØNE Introduces the Horologium, a New Limited Edition in “Quirky” and “Classic” Variants",
-      "url": "https://wornandwound.com/grone-introduces-the-horologium-a-new-limited-edition-in-quirky-and-classic-variants/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Grone-Horologium-6.jpg",
-      "peek_preview": "The GRØNE brand was introduced in the fall of 2024 at the absolute height of what I think can fairly be called the diffusion line craze. Between MB&F with their M.A.D. Editions, Hajime Asaoka with Kurono Tokyo, and a ho...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T14:00:24.000Z",
-      "score_quality": 58,
-      "score_notif": 56,
-      "cluster": "20260806-35c25337f012",
-      "cluster_main": true
-    },
-    {
       "title": "Six Important Historic Marathon Watches, According To The Brand’s President",
       "url": "https://www.ablogtowatch.com/six-important-historic-marathon-watches/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2025/06/Marathon-Catalog-History-ADA-Featured-768x346.jpg",
@@ -1840,20 +1854,6 @@
       "score_notif": 22,
       "cluster": "20260804-b7021128d2fb",
       "cluster_main": true
-    },
-    {
-      "title": "New release: Seiko 5 Sports collaboration with Honda Motocompo",
-      "url": "https://deployant.com/new-release-seiko-5-sports-collaboration-with-honda-motocompo/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-seiko-5-sports-collaboration-with-honda-motocompo",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/Seiko-_5-_Sports_MOTOCOMPO-_Limited_H.jpg?fit=1200%2C675&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Seiko 5 releases the Seiko 5 Sports in a special collaboration with Honda Motocompo. Press release information with commentary in italics. New: Seiko 5 Sports...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-04T13:30:00.000Z",
-      "score_quality": 80,
-      "score_notif": 48,
-      "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
     }
   ]
 }
