@@ -1,6 +1,6 @@
 {
-  "content_hash": "1c4025c1d126f2719634dd96f954d0f45bec9a7d411a0a4df2e1c69bbaf9a5b9",
-  "last_updated": "2026-08-11T03:46:33.473Z",
+  "content_hash": "d643aafa11946909e19f699970c6386b1666e03a9ac1aea0b58d7a895b69b195",
+  "last_updated": "2026-08-11T04:46:43.484Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T01:00:47.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-11T04:00:43.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T03:00:44.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: Grand Seiko “Hisen” SBGZ011",
+      "url": "https://watchesbysjx.com/2026/08/grand-seiko-hisen-sbgz011-review.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Grand-Seiko-Masterpiece-Collection-Hisen-SBGZ011-dial-300x200.jpg",
+      "peek_preview": "Grand Seiko’s excellent dive watches may have stolen the show Watches & Wonders, but the waterfall-inspired Masterpiece Collection “Hisen” SBGZ011 proves the brand hasn’t let its next-generation Spring Drive rollout out...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-11T04:00:43.000Z",
+      "score_quality": 85,
+      "score_notif": 22,
+      "cluster": "20260804-1fa9fc0ecc04",
+      "cluster_main": true
+    },
     {
       "title": "「タグ・ホイヤー 東京 表参道」が移転し、最新ストアコンセプトでリニューアルオープン",
       "url": "https://www.webchronos.net/news/168840/",
@@ -1377,7 +1391,7 @@
       "score_quality": 86,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko’s latest Asia-Pacific Prospex limited editions bring golden hour to the wrist",
@@ -1613,9 +1627,9 @@
       "featured": false,
       "published_at": "2026-08-04T23:00:01.000Z",
       "score_quality": 74,
-      "score_notif": 20,
+      "score_notif": 22,
       "cluster": "20260804-1fa9fc0ecc04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "17 Of The Best Light Blue Watches From Entry-Level To Luxury",
@@ -1696,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-04T12:17:03.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1839,20 +1853,6 @@
       "score_quality": 84,
       "score_notif": 46,
       "cluster": "20260803-d4eacb6592a0",
-      "cluster_main": true
-    },
-    {
-      "title": "The Luminox Adventure Watch Brings Vintage Expedition Design Into The Modern Era",
-      "url": "https://www.ablogtowatch.com/the-luminox-adventure-watch-brings-vintage-expedition-design-into-the-modern-era/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/07/Luminox-Adventure-Watch-768x334.jpg",
-      "peek_preview": "Long before purpose-built dive and aviation watches became commonplace, expedition watches served as dependable all-around instruments for explorers traveling through unfamiliar environments. That versatility continues...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-03T15:00:20.000Z",
-      "score_quality": 58,
-      "score_notif": 22,
-      "cluster": "20260803-0391c6f32cd1",
       "cluster_main": true
     }
   ]
