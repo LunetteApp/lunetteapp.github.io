@@ -1,6 +1,6 @@
 {
-  "content_hash": "53544025b99405df6dd6abeb5c8cee394382e923713d3d5c351f09966ef923ef",
-  "last_updated": "2026-08-11T05:46:39.770Z",
+  "content_hash": "fc56446f3fec99f7da80bdf1dc40cc1d346002264b3355cc7747cdb8f9e891bc",
+  "last_updated": "2026-08-11T07:46:46.389Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T05:00:45.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-10T12:01:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-11T07:00:27.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -240,10 +240,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T21:06:17.000Z",
-      "score_quality": 72,
+      "score_quality": 79,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Spider Daytona—A Rolex Rebuilt Around Four Kilos of Arizona Turquoise",
@@ -425,7 +425,7 @@
       "score_quality": 78,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
@@ -926,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -968,10 +968,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -1391,7 +1391,7 @@
       "score_quality": 88,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko’s latest Asia-Pacific Prospex limited editions bring golden hour to the wrist",
@@ -1710,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-04T12:17:03.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
@@ -1839,20 +1839,6 @@
       "score_quality": 18,
       "score_notif": 4,
       "cluster": "20260803-7542035d473a",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: Greubel Forsey Balancier 3 Frosted Titanium—The Bridge That Reads Differently in Every Light",
-      "url": "https://www.watchcollectinglifestyle.com/home/greubel-forsey-balancier-3-frosted-titanium-review",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1785777148049-75OT03B499LLGEUJXM2H/Greubel+Forsey+Balancier+3+Frosted+Titanium-1.jpg?format=1500w",
-      "peek_preview": "At the time of its launch back in April of this year, our coverage of the Greubel Forsey Balancier 3 Frosted Titanium centered on a straightforward premise: a new surface treatment applied to a movement architecture tha...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-03T17:38:42.000Z",
-      "score_quality": 84,
-      "score_notif": 46,
-      "cluster": "20260803-d4eacb6592a0",
       "cluster_main": true
     }
   ]
