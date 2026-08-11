@@ -1,6 +1,6 @@
 {
-  "content_hash": "a12880b6348a75d62740c853b5a77fc6211fba841017cf4c83147afc0507c7af",
-  "last_updated": "2026-08-11T16:47:32.535Z",
+  "content_hash": "9f1723836d9862d0d1fead02ae05b2f673a23462cad653d1c1312034eda0a0a1",
+  "last_updated": "2026-08-11T17:47:34.093Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T16:00:53.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T16:00:25.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-11T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Happenings: Watch Week Aspen Returns For Its Third Year",
+      "url": "https://www.hodinkee.com/articles/watch-week-aspen-returns-for-its-third-year",
+      "image": "https://hodinkee.imgix.net/uploads/images/4d1a58c1-85fa-4f7a-b82d-160497889699/AspenEdit.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Everything to expect at this year's Watch Week Aspen, including its inaugural 3K run.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-11T17:00:00.000Z",
+      "score_quality": 48,
+      "score_notif": 12,
+      "cluster": "20260811-4be2bdeb13df",
+      "cluster_main": true
+    },
+    {
       "title": "Bangalore Watch Company Introduces the Forty-Seven, their First Pocket Watch",
       "url": "https://wornandwound.com/bangalore-watch-company-introduces-the-forty-seven-their-first-pocket-watch/",
       "image": "https://wornandwound.com/library/uploads/2026/08/Bangalore-Forty-Seven-8.jpg",
@@ -271,7 +285,7 @@
       "score_quality": 86,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -338,10 +352,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T12:00:02.000Z",
-      "score_quality": 81,
+      "score_quality": 87,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Moritz Grossmann TEFNUT 36: il quadrante turchese nato da una tecnica dell’Ottocento",
@@ -576,10 +590,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T13:00:35.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -690,7 +704,7 @@
       "published_at": "2026-08-10T07:01:01.000Z",
       "score_quality": 67,
       "score_notif": 18,
-      "cluster": "20260807-79c900f4b29e",
+      "cluster": "20260810-3f776df6e84c",
       "cluster_main": true
     },
     {
@@ -1153,7 +1167,7 @@
       "score_quality": 91,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -1335,7 +1349,7 @@
       "score_quality": 48,
       "score_notif": 18,
       "cluster": "20260807-79c900f4b29e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Famed artist Alec Monopoly rage baits the watch community with splashes of paint",
@@ -1558,7 +1572,7 @@
       "published_at": "2026-08-06T13:30:00.000Z",
       "score_quality": 94,
       "score_notif": 42,
-      "cluster": "20260804-8831e14880d2",
+      "cluster": "20260806-d35b33a3f3c6",
       "cluster_main": true
     },
     {
@@ -1839,20 +1853,6 @@
       "score_quality": 80,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: Panerai Luminor Marina PAM01707—Vintage Codes in Carbotech",
-      "url": "https://www.watchcollectinglifestyle.com/home/panerai-luminor-marina-pam01707-review",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1785845134615-FB13HXPCT60MLBKR3OIK/Panerai+Luminor+Marina+PAM01707_05.jpg?format=1500w",
-      "peek_preview": "Panerai has introduced the new Luminor Marina PAM01707, putting its material research in direct conversation with the 1960s visual language that built the Luminor identity. The silhouette is unmistakable: the robust Lum...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-04T12:17:03.000Z",
-      "score_quality": 93,
-      "score_notif": 42,
-      "cluster": "20260804-8831e14880d2",
       "cluster_main": false
     }
   ]
