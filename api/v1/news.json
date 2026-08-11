@@ -1,6 +1,6 @@
 {
-  "content_hash": "d00cc7a2b6dfd800897f0e776c72d984daeb3ac22342f1d8dad1993d16b6b087",
-  "last_updated": "2026-08-11T08:47:04.041Z",
+  "content_hash": "118963d686ce25e615555dcc16ba7595f354a145ca1613727e4d3ab5dfcdc291",
+  "last_updated": "2026-08-11T09:47:12.358Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T07:00:14.000Z"
     },
     {
@@ -22,15 +22,15 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-10T16:00:37.000Z"
+      "estimated_articles_per_day": 1.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-11T09:00:19.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-10T14:00:44.000Z"
     },
     {
@@ -120,7 +120,7 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.6,
+      "estimated_articles_per_day": 0.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-08T09:00:20.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – Celebrating the Founder’s 200th Anniversary, Moritz Grossmann Releases the Tefnut 36 Silver-Plated by Friction Turquoise Blue",
+      "url": "https://monochrome-watches.com/introducing-moritz-grossmann-tefnut-36-silver-plated-by-friction-turquoise-blue-specs-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Moritz-Grossmann-Tefnut-36mm-Silver-Plated-by-Friction-Turquoise-Blue-Featured-600x237.jpg",
+      "peek_preview": "Moritz Grossmann continues to celebrate the 200th anniversary of its founder, Carl Moritz Grossmann (1826-1885), one of the key figures behind Glashütte’s rise as a powerhouse of German watchmaking. Following the Hamati...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-11T09:00:19.000Z",
+      "score_quality": 82,
+      "score_notif": 47,
+      "cluster": "20260811-db48c6f2757a",
+      "cluster_main": true
+    },
     {
       "title": "Interview: A Glimpse Into The World Of Konstantin Chaykin",
       "url": "https://www.fratellowatches.com/interview-konstantin-chaykin/",
@@ -1324,20 +1338,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The Yema Superman Bronze CMM.10 Returns in Three new Colours",
-      "url": "https://monochrome-watches.com/2026-yema-superman-bronze-cmm-10-limited-edition-dive-watch-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Yema-Superman-Bronze-CMM.10-review-1-600x237.jpg",
-      "peek_preview": "Yema adds three new Bronze CMM.10 references to its increasingly capable and diversified Superman collection. While the French brand has explored bronze before through limited series, including a very cool Superman Bron...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T14:30:28.000Z",
-      "score_quality": 69,
-      "score_notif": 40,
-      "cluster": "20260806-47530ffa4058",
-      "cluster_main": true
-    },
-    {
       "title": "Christopher Ward Cleans Up with the Trident 30×30",
       "url": "https://timeandtidewatches.com/christopher-ward-trident-30x30-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/christopher-ward-c60-trident-30x30-1.jpg",
@@ -1363,7 +1363,7 @@
       "score_quality": 60,
       "score_notif": 40,
       "cluster": "20260806-47530ffa4058",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "GRØNE Introduces the Horologium, a New Limited Edition in “Quirky” and “Classic” Variants",
