@@ -1,6 +1,6 @@
 {
-  "content_hash": "118963d686ce25e615555dcc16ba7595f354a145ca1613727e4d3ab5dfcdc291",
-  "last_updated": "2026-08-11T09:47:12.358Z",
+  "content_hash": "f564d5e634140d355b19c65097baef2453a550eeca6cf48f4b87eadbd2810eea",
+  "last_updated": "2026-08-11T10:46:44.759Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T09:00:19.000Z"
     },
     {
@@ -141,8 +141,8 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-08-09T20:47:54.000Z"
     },
     {
@@ -397,7 +397,7 @@
       "score_quality": 86,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -750,6 +750,20 @@
       "cluster_main": true
     },
     {
+      "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
+      "url": "https://www.uhrenkosmos.com/regulierung-von-uhren-reglage-feinregulierung/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2021/09/Ruecker-versus-Masselot-C-Uhrenkosmos.png",
+      "peek_preview": "Nicht zu Unrecht wird das Regulierorgan der Uhr da und dort mit dem menschlichen Herzen verglichen. Die rhythmischen Schwingungen der Unruh samt ihrer Spiralfeder zerteilen die Zeit in messbare Abschnitte. Die möglichst...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-08-08T16:38:25.000Z",
+      "score_quality": 60,
+      "score_notif": 12,
+      "cluster": "20260808-40a3d213c791",
+      "cluster_main": true
+    },
+    {
       "title": "New releases from Trafford Watch Co, Seiko, Singer and more",
       "url": "https://timeandtidewatches.com/trafford-watch-unimatic-singer-last-week-in-watches/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/singer-web.jpg",
@@ -954,10 +968,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T23:49:10.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -1839,20 +1853,6 @@
       "score_quality": 33,
       "score_notif": 6,
       "cluster": "20260803-0c1b25f79350",
-      "cluster_main": true
-    },
-    {
-      "title": "The Best Solar Watches",
-      "url": "https://teddybaldassarre.com/blogs/watches/solar-watches",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/synchronar.jpg?v=1633109097",
-      "peek_preview": "Solar watches are an eco-friendly alternative to traditional quartz watches with lithium battery-powered movements. Watches with solar-powered movements still maintain the accuracy and reliability of quartz technology,...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-03T19:12:00.000Z",
-      "score_quality": 18,
-      "score_notif": 4,
-      "cluster": "20260803-7542035d473a",
       "cluster_main": true
     }
   ]
