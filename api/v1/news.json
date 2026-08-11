@@ -1,6 +1,6 @@
 {
-  "content_hash": "fc56446f3fec99f7da80bdf1dc40cc1d346002264b3355cc7747cdb8f9e891bc",
-  "last_updated": "2026-08-11T07:46:46.389Z",
+  "content_hash": "d00cc7a2b6dfd800897f0e776c72d984daeb3ac22342f1d8dad1993d16b6b087",
+  "last_updated": "2026-08-11T08:47:04.041Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T05:00:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-11T07:00:14.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -29,8 +29,8 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
+      "estimated_articles_per_day": 1.4,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-08-10T14:00:44.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T07:00:27.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Interview: A Glimpse Into The World Of Konstantin Chaykin",
+      "url": "https://www.fratellowatches.com/interview-konstantin-chaykin/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Konstantin-Chaykin-with-the-Joker-Selfie.jpg",
+      "peek_preview": "Konstantin Chaykin is a self-described watchmaker, inventor, and artist. In this interview (casually combating the English-Russian language barrier), Chaykin takes us on his journey from a maker of complex clocks to a m...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-11T07:00:14.000Z",
+      "score_quality": 78,
+      "score_notif": 20,
+      "cluster": "20260811-44360a4ebc89",
+      "cluster_main": true
+    },
+    {
       "title": "Rocking A New Look: The Maen Manhattan Stone Dial Series",
       "url": "https://www.fratellowatches.com/rocking-a-new-look-the-maen-manhattan-stone-dial-series/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Maen-Manhattan-37-snowflake-obsidian.jpg",
@@ -243,7 +257,7 @@
       "score_quality": 79,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Artisans de Genève Spider Daytona—A Rolex Rebuilt Around Four Kilos of Arizona Turquoise",
@@ -366,10 +380,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T13:00:35.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -422,10 +436,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T09:00:26.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
@@ -467,6 +481,20 @@
       "score_quality": 55,
       "score_notif": 14,
       "cluster": "20260810-5dacab597d3b",
+      "cluster_main": true
+    },
+    {
+      "title": "Mido Ocean Star 200 Watch Review: A Redesigned Model That Gets Things Right",
+      "url": "https://www.ablogtowatch.com/mido-ocean-star-200-watch-review-a-redesigned-model-that-gets-things-right/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Mido-Ocean-Star-200-RAZ-Crop-16-768x346.jpg",
+      "peek_preview": "Years ago, I bought a Mido from a serial flipper at a deep discount. It was basically new, and I wore it (the titanium Ocean Star Captain V) often. Eventually, it faded from my regular rotation, though I never stopped l...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-10T07:01:01.000Z",
+      "score_quality": 67,
+      "score_notif": 18,
+      "cluster": "20260807-79c900f4b29e",
       "cluster_main": true
     },
     {
@@ -915,7 +943,7 @@
       "score_quality": 85,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -926,10 +954,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -968,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
@@ -1123,9 +1151,9 @@
       "featured": false,
       "published_at": "2026-08-07T08:00:00.000Z",
       "score_quality": 48,
-      "score_notif": 16,
+      "score_notif": 18,
       "cluster": "20260807-79c900f4b29e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Famed artist Alec Monopoly rage baits the watch community with splashes of paint",
@@ -1167,20 +1195,6 @@
       "score_quality": 76,
       "score_notif": 16,
       "cluster": "20260807-19ab2bf8f381",
-      "cluster_main": true
-    },
-    {
-      "title": "Video: The Best Seiko Diver Just Got Better!",
-      "url": "https://www.fratellowatches.com/seiko-watches/video-the-best-seiko-diver-just-got-better/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Seiko-Marinemaster-HBF001-17.jpg",
-      "peek_preview": "I’ve owned my Seiko Marinemaster SBDX001 for over ten years, and it impresses me as much today as it did back in 2015. However, the original Marinemaster had some “flaws.” Such as the Hardlex crystal, steel bezel insert...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T05:00:02.000Z",
-      "score_quality": 24,
-      "score_notif": 22,
-      "cluster": "20260807-a3b1dd37c785",
       "cluster_main": true
     },
     {
@@ -1388,10 +1402,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T13:30:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko’s latest Asia-Pacific Prospex limited editions bring golden hour to the wrist",
@@ -1713,7 +1727,7 @@
       "score_quality": 89,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
