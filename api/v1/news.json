@@ -1,6 +1,6 @@
 {
-  "content_hash": "81cb5cea84b7198a687b38fa5a2fb8ff1a993fadabe77c79a595940c12c8659f",
-  "last_updated": "2026-08-11T15:46:49.323Z",
+  "content_hash": "a12880b6348a75d62740c853b5a77fc6211fba841017cf4c83147afc0507c7af",
+  "last_updated": "2026-08-11T16:47:32.535Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T13:00:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-11T16:00:53.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T12:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-11T16:00:25.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T15:00:24.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Bangalore Watch Company Introduces the Forty-Seven, their First Pocket Watch",
+      "url": "https://wornandwound.com/bangalore-watch-company-introduces-the-forty-seven-their-first-pocket-watch/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Bangalore-Forty-Seven-8.jpg",
+      "peek_preview": "I’m not quite sure that it would be correct to say that pocket watches are “having a moment,” but I’ve certainly thought and written about pocket watches more in 2026 than in any year I can remember. Mostly that’s due t...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-11T16:00:53.000Z",
+      "score_quality": 76,
+      "score_notif": 27,
+      "cluster": "20260811-d96435dae8c7",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The New Rado Captain Cook x European Cricket Special Edition",
+      "url": "https://monochrome-watches.com/introducing-rado-captain-cook-european-cricket-special-edition-r763-dive-watch-specs-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Rado-Captain-Cook-x-European-Cricket-Special-Edition-Featured-600x237.jpg",
+      "peek_preview": "Since its revival in 2017, the Rado Captain Cook collection has grown from a faithful vintage re-edition into one of the brand’s pillars, embracing models to include compact 37mm models, ceramic executions, bronze editi...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-11T16:00:25.000Z",
+      "score_quality": 78,
+      "score_notif": 23,
+      "cluster": "20260811-365baf6daabd",
+      "cluster_main": true
+    },
+    {
       "title": "Anders & Co adds its signature stone dial to its chronograph",
       "url": "https://timeandtidewatches.com/anders-co-ac1-stone-dial-chronograph-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/anders-co-ac1-stone-dials-1.jpg",
@@ -200,7 +228,7 @@
       "published_at": "2026-08-11T14:03:52.000Z",
       "score_quality": 60,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
+      "cluster": "20260811-67344ac4b454",
       "cluster_main": true
     },
     {
@@ -604,10 +632,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T09:00:26.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
@@ -621,7 +649,7 @@
       "score_quality": 83,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Orologi a carica solare: oltre i miti del marketing e del finto ecologismo",
@@ -901,7 +929,7 @@
       "score_quality": 33,
       "score_notif": 68,
       "cluster": "20260808-902fb7aaf116",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1282,20 +1310,6 @@
       "cluster_main": true
     },
     {
-      "title": "Twelve on Time – Urwerk’s Felix Baumgartner and his Personal Relationship with Time and Watches",
-      "url": "https://monochrome-watches.com/twelve-on-time-urwerk-felix-baumgartner-and-his-personal-relationship-with-time-and-watches/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Twelve-on-time-Urwerk-Felix-Baumgartner-and-his-Personal-Relationship-with-Time-and-Watches-600x237.jpeg",
-      "peek_preview": "Twelve on Time is a conversation series that invites leading personalities from the watch industry to step beyond their work and speak more personally about their relationship with time, creativity, and craft. Through a...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T12:00:31.000Z",
-      "score_quality": 73,
-      "score_notif": 18,
-      "cluster": "20260807-5e0a99f9b815",
-      "cluster_main": true
-    },
-    {
       "title": "Lorier revient avec quatre rééditions : Astra, Falcon, Neptune et Hyperion",
       "url": "https://www.welovewatches.fr/lorier-revient-avec-quatre-reeditions-astra-falcon-neptune-et-hyperion.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/07/lorier-hyperion-lifestyle-hi-une.jpg",
@@ -1542,10 +1556,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T13:30:00.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko’s latest Asia-Pacific Prospex limited editions bring golden hour to the wrist",
@@ -1839,20 +1853,6 @@
       "score_quality": 93,
       "score_notif": 42,
       "cluster": "20260804-8831e14880d2",
-      "cluster_main": true
-    },
-    {
-      "title": "Lo scooter pieghevole Honda diventa un orologio: il Seiko 5 Sports MOTOCOMPO",
-      "url": "https://www.orologidiclasse.com/seiko-5-sports-motocompo-limited-edition/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/08/seiko-5-sports-motocompo-cover.jpg",
-      "peek_preview": "Quarantacinque anni e non li dimostra. C’è qualcosa di irresistibile nell’idea che uno scooter pieghevole da 42 chilogrammi – progettato nel 1981 per stare nel bagagliaio di un’utilitaria – possa trasformarsi in un orol...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-04T09:57:07.000Z",
-      "score_quality": 74,
-      "score_notif": 48,
-      "cluster": "20260804-5bb00386fc08",
       "cluster_main": false
     }
   ]
