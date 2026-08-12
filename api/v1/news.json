@@ -1,6 +1,6 @@
 {
-  "content_hash": "7dd0910e2db08b77753c24cde8688f733b378316aab5a0d76f2ddaf4914bc089",
-  "last_updated": "2026-08-12T09:46:46.213Z",
+  "content_hash": "05957b6a01c7c6faf4937afc4e9606bb9b4ab2c217f2ed5361f7bddca7905820",
+  "last_updated": "2026-08-12T10:46:56.057Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T09:00:30.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-12T03:00:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-12T10:05:35.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Twelve on Time – PS Horology’s Peter Speake and his Personal Relationship with Time and Watches",
+      "url": "https://monochrome-watches.com/twelve-on-time-ps-horologys-peter-speake-and-his-personal-relationship-with-time-and-watches/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Twelve-on-Time-Peter-Speake-600x237.jpeg",
+      "peek_preview": "Twelve on Time is a conversation series that invites leading personalities from the watch industry to step beyond their work and speak more personally about their relationship with time, creativity, and craft. Through a...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-12T10:05:35.000Z",
+      "score_quality": 76,
+      "score_notif": 16,
+      "cluster": "20260812-dc1b4eafb360",
+      "cluster_main": true
+    },
     {
       "title": "They Grow Up So Fast! Meet The Casio Edifice Automatic EFK-200",
       "url": "https://www.fratellowatches.com/casio-edifice-automatic-efk-200/",
@@ -396,7 +410,7 @@
       "published_at": "2026-08-11T14:03:52.000Z",
       "score_quality": 60,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
+      "cluster": "20260808-902fb7aaf116",
       "cluster_main": true
     },
     {
@@ -621,7 +635,7 @@
       "score_quality": 93,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Artisans de Genève Spider Daytona—A Rolex Rebuilt Around Four Kilos of Arizona Turquoise",
@@ -800,10 +814,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T09:00:26.000Z",
-      "score_quality": 91,
+      "score_quality": 94,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
@@ -1097,7 +1111,7 @@
       "score_quality": 33,
       "score_notif": 68,
       "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1209,20 +1223,6 @@
       "score_quality": 56,
       "score_notif": 22,
       "cluster": "20260808-87d5c72b5530",
-      "cluster_main": true
-    },
-    {
-      "title": "The Petrolhead Corner – The Retro-Cool V8 Powered SP40 Restomod",
-      "url": "https://monochrome-watches.com/the-petrolhead-corner-iconic-auto-sports-sp40-restomod-edsel-ford-model-40-special-speedster-1934/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/07/Iconic-Auto-Sports-SP40-Restomod-Featured-600x237.jpg",
-      "peek_preview": "Looks can be deceiving, and this rather cool-looking SP40 Restomod might seem like a proverbial blast from the past, but in reality it’s a completely newly built car. It’s the latest discovery, for us at least, in what...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-08T08:35:08.000Z",
-      "score_quality": 14,
-      "score_notif": 3,
-      "cluster": "20260808-713214ec1220",
       "cluster_main": true
     },
     {
