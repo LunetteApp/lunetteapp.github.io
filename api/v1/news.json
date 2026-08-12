@@ -1,6 +1,6 @@
 {
-  "content_hash": "8b487d91281b312e8a18acebbcdb1e8a6e8aaec5a0789fbe4b7cbe132b442782",
-  "last_updated": "2026-08-12T17:47:11.831Z",
+  "content_hash": "adf171aa422297fafd394ac648e84da49b8fce5361f80fa8fe37af770e2c00be",
+  "last_updated": "2026-08-12T19:46:35.685Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-12T14:00:07.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-12T19:00:09.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T17:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: the Bernhardt Captain",
+      "url": "https://wornandwound.com/review/hands-on-the-bernhardt-captain/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Bernhardt_CaptFog_09_WR.jpg",
+      "peek_preview": "Bernhardt’s Captain collection is a new range of dress watches that I think loosely falls in the Calatrave-esque trend that has been emerging, most notably through a variety of Japanese indies and micros, over the last...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-12T19:00:09.000Z",
+      "score_quality": 72,
+      "score_notif": 26,
+      "cluster": "20260812-c4b342f5043d",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: The TAG Heuer Formula 1 Solargraph Limited Edition Inspired By Zandvoort For The Final Dutch Grand Prix",
       "url": "https://www.hodinkee.com/articles/the-tag-heuer-formula-1-solargraph-limited-edition-inspired-by-zandvoort-for-the-final-dutch-grand-p",
@@ -562,10 +576,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 84,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The Watch Ho & Co. x Selten Yum Cha Edition",
@@ -579,7 +593,7 @@
       "score_quality": 98,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1601,20 +1615,6 @@
       "score_quality": 56,
       "score_notif": 57,
       "cluster": "20260806-40886553736c",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Laps Leaps into New Territory with the Arche, their First Mechanical Model",
-      "url": "https://wornandwound.com/review/hands-on-laps-leaps-into-new-territory-with-the-arche-their-first-mechanical-model/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/LAPS_2.jpg",
-      "peek_preview": "What started as a fashion watch brand a decade ago is making a leap into more traditional watchmaking territory. Laps has introduced its first mechanical model, the Arche as part of a new Studio Series. The collection c...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T19:00:45.000Z",
-      "score_quality": 73,
-      "score_notif": 40,
-      "cluster": "20260806-2a828a9ae4d9",
       "cluster_main": true
     },
     {
