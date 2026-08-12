@@ -1,6 +1,6 @@
 {
-  "content_hash": "2712c4915d72dde027b823a1a9988f948bbc3e42e1851e1b9e7a397961df180f",
-  "last_updated": "2026-08-12T05:46:45.762Z",
+  "content_hash": "91627c1adabdfb480f3438b8a26c0ee718682c6d529cb7930397e5fc790a911e",
+  "last_updated": "2026-08-12T07:46:55.528Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T05:00:14.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T19:00:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-12T07:01:04.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The Zenith Defy Extreme Ultraviolet Watch Combines Radical Horology With Avant-Garde Color",
+      "url": "https://www.ablogtowatch.com/hands-on-the-zenith-defy-extreme-ultraviolet-watch-combines-radical-horology-with-avant-garde-color/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Zenith-Defy-Extreme-Ultraviolet-LOR-Crop-768x346.jpg",
+      "peek_preview": "In an age of demure, timid case sizes and slim, dressy, vintage-inspired silhouettes, there’s something primally satisfying about a watch that isn’t afraid to be big, bold, and aggressively futuristic. Alongside its ste...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-12T07:01:04.000Z",
+      "score_quality": 76,
+      "score_notif": 48,
+      "cluster": "20260812-89b7cbb61ae8",
+      "cluster_main": true
+    },
     {
       "title": "Seiko Explores The Unique Art Of Bonsai In Its New Presage Classic HCC009J1",
       "url": "https://www.fratellowatches.com/seiko-watches/seiko-explores-the-unique-art-of-bonsai-in-its-new-presage-classic-hcc009j1/",
@@ -354,7 +368,7 @@
       "published_at": "2026-08-11T14:03:52.000Z",
       "score_quality": 60,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
+      "cluster": "20260808-902fb7aaf116",
       "cluster_main": true
     },
     {
@@ -702,10 +716,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T13:00:35.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -1055,7 +1069,7 @@
       "score_quality": 33,
       "score_notif": 68,
       "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1265,7 +1279,7 @@
       "score_quality": 93,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -1840,20 +1854,6 @@
       "score_notif": 22,
       "cluster": "20260804-1fa9fc0ecc04",
       "cluster_main": false
-    },
-    {
-      "title": "17 Of The Best Light Blue Watches From Entry-Level To Luxury",
-      "url": "https://teddybaldassarre.com/blogs/watches/light-blue-watches",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Tsuyosa-37mm-IceBlue-2.jpg?v=1754058019",
-      "peek_preview": "Once something of a novelty in the industry, blue watches have become decidedly more mainstream. Nearly every brand and most modern models offer at least one dial option in some shade of blue, often launched in the firs...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-04T21:35:00.000Z",
-      "score_quality": 26,
-      "score_notif": 5,
-      "cluster": "20260804-d50bdae2a6d3",
-      "cluster_main": true
     }
   ]
 }
