@@ -1,6 +1,6 @@
 {
-  "content_hash": "d201cdcc0189394fe548f1733e989166eff960c13a8e2df912cfa3fe34b6e7f9",
-  "last_updated": "2026-08-12T01:46:50.862Z",
+  "content_hash": "87de0f3c77596eb0c72d584f3eb6a112712a58dc48e0f59a6b0b8683cb7a1130",
+  "last_updated": "2026-08-12T03:47:12.372Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T16:00:25.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-12T03:00:27.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T01:00:14.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-12T00:00:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-12T03:00:37.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "ロンジンが2026年サマーセレクションとして「ロンジン コンクエスト」と「ロンジン プリマルナ」に新作を投入！",
+      "url": "https://www.webchronos.net/news/168149/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/07/Longines_Conquest2026Summer-01.webp",
+      "peek_preview": "ロンジンが2026年サマーセレクションとして、「ロンジン コンクエスト」と「ロンジン プリマルナ」の新作モデルを発表した。コンクエストでは多彩なサイズとダイアルカラーのクォーツモデル、ロンジン プリマルナでは直径30mm […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-12T03:00:37.000Z",
+      "score_quality": 49,
+      "score_notif": 41,
+      "cluster": "20260812-c350f8ff9840",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The Seiko Presage Classic Series x Tradman’s Bonsai Limited Edition HCC009J1",
+      "url": "https://monochrome-watches.com/first-look-seiko-presage-classic-series-x-tradmans-bonsai-limited-edition-hcc009j1-specs-price-review/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Seiko-Presage-Classic-Series-x-Tradmans-Bonsai-HCC009J1-Limited-Edition-Featured-1-600x237.jpg",
+      "peek_preview": "Since its international relaunch in 2016, the Seiko Presage collection, for decades available only to Japanese customers, has become the brand’s showcase of the country’s traditional aesthetics and craftsmanship, offeri...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-12T03:00:27.000Z",
+      "score_quality": 81,
+      "score_notif": 46,
+      "cluster": "20260812-23731c0bba53",
+      "cluster_main": true
+    },
     {
       "title": "Hands On: Greubel Forsey Balancier 3 Titanium",
       "url": "https://watchesbysjx.com/2026/08/greubel-forsey-balancier-3-titanium-review.html",
@@ -352,10 +380,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -425,7 +453,7 @@
       "score_quality": 91,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Moritz Grossmann TEFNUT 36: il quadrante turchese nato da una tecnica dell’Ottocento",
@@ -534,10 +562,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T21:06:17.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Spider Daytona—A Rolex Rebuilt Around Four Kilos of Arizona Turquoise",
@@ -719,7 +747,7 @@
       "score_quality": 89,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
@@ -1296,20 +1324,6 @@
       "cluster_main": true
     },
     {
-      "title": "Video – An Almost Impossible Choice… Frank’s Long Journey to Finding his Favourite Omega Speedmaster",
-      "url": "https://monochrome-watches.com/monochrome-video-review-finding-my-favourite-omega-speedmaster-by-frank/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/monochrome-video-review-finding-my-favourite-omega-speedmaster-by-frank-600x237.jpg",
-      "peek_preview": "Some, from day-1, know what their favourite version of the all-time iconic Omega Speedmaster is. Whether it is the classic Moonwatch, a modern automatic version, a retro-inspired straight lugs or even a specific vintage...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T16:05:14.000Z",
-      "score_quality": 35,
-      "score_notif": 12,
-      "cluster": "20260807-97d8b5c7b3d5",
-      "cluster_main": true
-    },
-    {
       "title": "The echo/neutra Averau 42 Ceramic Sand Collection is built for the field, dressed for the dunes",
       "url": "https://timeandtidewatches.com/echo-neutra-averau-42-ceramic-sand-collection-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-echo-neutra-averau-42-sand.jpg",
@@ -1447,20 +1461,6 @@
       "score_quality": 68,
       "score_notif": 28,
       "cluster": "20260807-604e47804a18",
-      "cluster_main": true
-    },
-    {
-      "title": "デイ＆ナイト表示搭載の「オリエント ストレット サンアンドムーン」に4色の新作が追加",
-      "url": "https://www.webchronos.net/news/168271/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/Orient_Stretto_Sun_and_Moon_01.webp",
-      "peek_preview": "オリエントが展開するコンテンポラリーコレクションの「オリエント ストレット」に、新たに4色のサンアンドムーンモデルが登場。非対称の独特なダイアルレイアウトが特徴的なこのモデルに、ホワイト、ブラウン、グリーン、ネイビーカラ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-07T03:00:14.000Z",
-      "score_quality": 56,
-      "score_notif": 30,
-      "cluster": "20260807-428ea3ec47c4",
       "cluster_main": true
     },
     {
