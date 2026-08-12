@@ -1,6 +1,6 @@
 {
-  "content_hash": "33f6b4c3b4612e7b9fb6d87f20561dfaf66db1411cf0d9e37483165c546fe556",
-  "last_updated": "2026-08-12T16:47:01.422Z",
+  "content_hash": "8b487d91281b312e8a18acebbcdb1e8a6e8aaec5a0789fbe4b7cbe132b442782",
+  "last_updated": "2026-08-12T17:47:11.831Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T16:00:33.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-12T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-12T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T16:22:36.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: The TAG Heuer Formula 1 Solargraph Limited Edition Inspired By Zandvoort For The Final Dutch Grand Prix",
+      "url": "https://www.hodinkee.com/articles/the-tag-heuer-formula-1-solargraph-limited-edition-inspired-by-zandvoort-for-the-final-dutch-grand-p",
+      "image": "https://hodinkee.imgix.net/uploads/images/49ee8eb2-bca8-4972-a707-a81daa5496f2/tag-h-o-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Emblazoned in Dutch orange the two model limited edition pays tribute to the last F1 race at Zandvoort next weekend.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-12T17:00:00.000Z",
+      "score_quality": 98,
+      "score_notif": 57,
+      "cluster": "20260810-b2ee0e59a666",
+      "cluster_main": true
+    },
     {
       "title": "Insider: Jaquet Droz Rolling Stones Automaton 'The Studio'—A Unique Piece Built Around Blue & Lonesome",
       "url": "https://www.watchcollectinglifestyle.com/home/jaquet-droz-rolling-stones-studio-automaton",
@@ -562,10 +576,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -635,7 +649,7 @@
       "score_quality": 97,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Moritz Grossmann TEFNUT 36: il quadrante turchese nato da una tecnica dell’Ottocento",
@@ -870,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T13:00:35.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -943,7 +957,7 @@
       "score_quality": 97,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Orologi a carica solare: oltre i miti del marketing e del finto ecologismo",
@@ -1363,7 +1377,7 @@
       "score_quality": 97,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -1643,20 +1657,6 @@
       "score_quality": 36,
       "score_notif": 8,
       "cluster": "20260806-4fd42562daff",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Two Wild Dials From Ming, With The \"Peepshow\" and J.N. Shapiro Collaboration \"Lightning\"",
-      "url": "https://www.hodinkee.com/articles/hands-on-ming-dial-duo",
-      "image": "https://hodinkee.imgix.net/uploads/images/301cf938-9807-4514-92c2-52587f263b77/20260610_MingWatches_038.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "If you had any fear that dials were starting to get boring, Ming is here to remind you that there's still plenty of creativity out there.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T15:00:00.000Z",
-      "score_quality": 79,
-      "score_notif": 46,
-      "cluster": "20260806-220c0f4fd0c4",
       "cluster_main": true
     },
     {
