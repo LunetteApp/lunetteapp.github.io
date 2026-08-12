@@ -1,6 +1,6 @@
 {
-  "content_hash": "91627c1adabdfb480f3438b8a26c0ee718682c6d529cb7930397e5fc790a911e",
-  "last_updated": "2026-08-12T07:46:55.528Z",
+  "content_hash": "af915c5e2cd0835a17d15434c5333f54420e99ec72a66c7bf9714d80a24ca020",
+  "last_updated": "2026-08-12T08:47:26.125Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T07:01:04.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
+      "estimated_articles_per_day": 1.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-11T15:00:24.000Z"
     },
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-10T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-12T08:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Breguet No. 160 Maria-Antonietta: le disavventure dell’orologio della Regina",
+      "url": "https://giornaleorologi.it/2026/08/12/breguet-no-160-maria-antonietta/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/MarieAntoinetteWatch_cropped-copia-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Breguet No. 160 Maria-Antonietta: le disavventure dell’orologio della Regina Sotto il sole di metà estate, il frinire regolare delle cicale invita tutti al relax. Perfino gli appassionati di or...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-12T08:00:00.000Z",
+      "score_quality": 77,
+      "score_notif": 12,
+      "cluster": "20260812-b2875b9e8f54",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Zenith Defy Extreme Ultraviolet Watch Combines Radical Horology With Avant-Garde Color",
       "url": "https://www.ablogtowatch.com/hands-on-the-zenith-defy-extreme-ultraviolet-watch-combines-radical-horology-with-avant-garde-color/",
@@ -411,7 +425,7 @@
       "score_quality": 92,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -422,10 +436,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T13:00:41.000Z",
-      "score_quality": 80,
+      "score_quality": 93,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Modest Moonwatch Alternative: Omega’s Speedmaster Reduced",
@@ -550,7 +564,7 @@
       "published_at": "2026-08-11T04:00:43.000Z",
       "score_quality": 85,
       "score_notif": 22,
-      "cluster": "20260804-1fa9fc0ecc04",
+      "cluster": "20260811-39b51022586b",
       "cluster_main": true
     },
     {
@@ -775,7 +789,7 @@
       "score_quality": 91,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
@@ -786,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T09:00:22.000Z",
-      "score_quality": 85,
+      "score_quality": 92,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Orologi a carica solare: oltre i miti del marketing e del finto ecologismo",
@@ -1840,20 +1854,6 @@
       "score_notif": 57,
       "cluster": "20260805-2ba941808ecb",
       "cluster_main": true
-    },
-    {
-      "title": "Grand Seiko Masterpiece SBGZ011 Review: Fluid Artistry And Feather-Thin Engineering",
-      "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-masterpiece-sbgz011-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand_Seiko_Masterpiece_SBGZ011-2.jpg?v=1785869830",
-      "peek_preview": "Grand Seiko is a Japanese luxury watch brand that builds some of the finest timepieces in the world. Back in 1960, the watchmaker Seiko set out with a pretty wild goal: to beat the Swiss at their own game by making a wa...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-04T23:00:01.000Z",
-      "score_quality": 74,
-      "score_notif": 22,
-      "cluster": "20260804-1fa9fc0ecc04",
-      "cluster_main": false
     }
   ]
 }
