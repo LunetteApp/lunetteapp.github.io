@@ -1,6 +1,6 @@
 {
-  "content_hash": "d63d01259a2bf67d7cbf76f78ef54e18038f0844ee1ff016a04db490c8bf803f",
-  "last_updated": "2026-08-12T20:47:42.804Z",
+  "content_hash": "da7256e3f919c59988487a1f4145fe653a058e6ed01869eb007f90cab2ec3e5b",
+  "last_updated": "2026-08-12T23:47:33.634Z",
   "premium": {
     "links": []
   },
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T20:35:41.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T15:00:24.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-12T23:23:17.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T20:04:28.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
+      "url": "https://timeandtidewatches.com/omega-x-swatch-moonswatch-mission-to-the-sun-solar-eclipse-news/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Omega-x-Swatch-MoonSwatch-Mission-to-the-Sun-%E2%80%93-Solar-Eclipse.jpeg",
+      "peek_preview": "Timed to coincide with a solar eclipse casting its shadow across parts of Spain, the latest MoonSwatch is the Mission to the Sun – Solar Eclipse. The post Omega x Swatch quickly follow up the 1969 with a new, very limit...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-12T23:23:17.000Z",
+      "score_quality": 69,
+      "score_notif": 68,
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
+    },
     {
       "title": "Certina DS Action Diver 38 Titanium: The Tool Watch You've Been Waiting For?",
       "url": "https://teddybaldassarre.com/blogs/watches/certina-ds-action-diver-38-titanium",
@@ -576,9 +590,9 @@
       "lang": "fr",
       "featured": false,
       "published_at": "2026-08-11T14:03:52.000Z",
-      "score_quality": 60,
+      "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
+      "cluster": "20260811-67344ac4b454",
       "cluster_main": true
     },
     {
@@ -618,10 +632,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -688,10 +702,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T12:00:02.000Z",
-      "score_quality": 97,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Moritz Grossmann TEFNUT 36: il quadrante turchese nato da una tecnica dell’Ottocento",
@@ -929,7 +943,7 @@
       "score_quality": 98,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -1040,7 +1054,7 @@
       "published_at": "2026-08-10T07:01:01.000Z",
       "score_quality": 67,
       "score_notif": 18,
-      "cluster": "20260810-3f776df6e84c",
+      "cluster": "20260807-79c900f4b29e",
       "cluster_main": true
     },
     {
@@ -1251,7 +1265,7 @@
       "score_quality": 33,
       "score_notif": 68,
       "cluster": "20260808-902fb7aaf116",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1416,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T23:49:10.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -1587,7 +1601,7 @@
       "score_quality": 48,
       "score_notif": 18,
       "cluster": "20260807-79c900f4b29e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Famed artist Alec Monopoly rage baits the watch community with splashes of paint",
@@ -1839,20 +1853,6 @@
       "score_quality": 67,
       "score_notif": 48,
       "cluster": "20260805-974768134e91",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: G-SHOCK x Kanoa Igarashi G-LIDE",
-      "url": "https://deployant.com/new-release-g-shock-x-kanoa-iragashi-g-lide/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-g-shock-x-kanoa-iragashi-g-lide",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/feature_4.jpg?fit=1200%2C958&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Casio G-SHOCK launches a new G-LIDE watch in collaboration with professional surfer Kanoa IKanoa Igarashi. Introducing the new G-SHOCK G-LIDE GBX-H5600KI. Pre...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-05T13:30:00.000Z",
-      "score_quality": 57,
-      "score_notif": 22,
-      "cluster": "20260805-ed6ae85c3ef7",
       "cluster_main": true
     }
   ]
