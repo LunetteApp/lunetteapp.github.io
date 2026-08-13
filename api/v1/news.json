@@ -1,6 +1,6 @@
 {
-  "content_hash": "85d8a50ba9c31c8992533dd6dda995f0b88e357df9675bf4577baf87d31ab978",
-  "last_updated": "2026-08-13T09:47:23.892Z",
+  "content_hash": "bd36cc9901686290fe4e060555c3ca8aca00e4b2d2663c6adbba86934d6b5243",
+  "last_updated": "2026-08-13T10:47:52.642Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T09:00:30.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T08:14:06.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-13T10:05:22.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T07:00:00.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T09:10:06.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The New And Very Vintage Nivada Grenchen Autochron Automatic Orange",
+      "url": "https://monochrome-watches.com/introducing-nivada-grenchen-autochron-automatic-orange-valjoux-7750-specs-price-pics/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Nivada-Grenchen-Autochron-Automatic-Orange-1-600x237.jpg",
+      "peek_preview": "Some brands flourish in the field of heritage watchmaking, at least for inspiration. Remakes, re-editions, re-designs and whatnot all rely on successful designs of the past. Nivada Grenchen is one of those brands, bring...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-13T10:05:22.000Z",
+      "score_quality": 78,
+      "score_notif": 44,
+      "cluster": "20260813-638f907840fa",
+      "cluster_main": true
+    },
     {
       "title": "Minerva: Warum die Emanzipation der traditionsreichen Manufaktur aus Villeret zur richtigen Zeit kommt",
       "url": "https://www.uhrenkosmos.com/minerva-unveiled-comeback-manufaktur-villeret/",
@@ -942,8 +956,8 @@
       "published_at": "2026-08-11T05:00:45.000Z",
       "score_quality": 67,
       "score_notif": 37,
-      "cluster": "20260810-d82e264b0f93",
-      "cluster_main": false
+      "cluster": "20260811-aa8babe8b28e",
+      "cluster_main": true
     },
     {
       "title": "Hands On: Grand Seiko “Hisen” SBGZ011",
@@ -1156,20 +1170,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The Maen Manhattan 37 Ultra-Thin Stone Dial Collection",
-      "url": "https://monochrome-watches.com/introducing-maen-manhattan-37-ultra-thin-stone-dial-collection-la-joux-perret-d101-specs-price-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Maen-Manhattan-37-Ultra-Thin-Golden-Swan-1-600x237.jpg",
-      "peek_preview": "The Manhattan has become one of Maen’s defining collections, offering the angular aesthetics of 1970s integrated sports watches and increasingly refined execution at accessible prices. Building on the success of last ye...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-10T12:00:49.000Z",
-      "score_quality": 78,
-      "score_notif": 37,
-      "cluster": "20260810-d82e264b0f93",
-      "cluster_main": true
-    },
-    {
       "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
       "url": "https://timeandtidewatches.com/tag-heuer-formula-1-solargraph-zandvoort-f1-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-tag-heuer-formula-1-zandvoort-f1.jpg",
@@ -1376,8 +1376,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster": "20260808-902fb7aaf116",
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1528,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -1570,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The echo/neutra Averau 42 Ceramic Sand Collection is built for the field, dressed for the dunes",
