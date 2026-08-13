@@ -1,6 +1,6 @@
 {
-  "content_hash": "4535818bff0c8fc48485d580ca05ff09a638556da0fef047255a221df8646453",
-  "last_updated": "2026-08-13T07:47:07.055Z",
+  "content_hash": "ef701ff1feb9e8119606e60f76f79dc65c4f3b816b5153e9628c62bfbc770759",
+  "last_updated": "2026-08-13T08:47:14.423Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T03:02:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-13T08:14:06.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T07:01:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – IWC Celebrates 140 Years of Mercedes-Benz With A Special Big Pilot Perpetual Calendar Proset",
+      "url": "https://monochrome-watches.com/iwc-celebrates-140-years-of-mercedes-benz-with-a-special-big-pilot-perpetual-calendar-proset/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/IWC-Big-Pilots-Watch-Perpetual-Calendar-ProSet-140-Years-Mercedes-Benz-5-600x237.jpg",
+      "peek_preview": "Two companies, at the forefront of mechanical innovation, coming together to mark 140 years of history – that’s what IWC’s latest watch is all about. The brand has a long-standing partnership with Mercedes-Benz, exempli...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-13T08:14:06.000Z",
+      "score_quality": 78,
+      "score_notif": 46,
+      "cluster": "20260813-6a29b4c58b60",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The CIGA Design Hunter Vintage Watch Adds Golden Warmth To Its Futuristic Design",
       "url": "https://www.ablogtowatch.com/hands-on-the-ciga-design-hunter-vintage-watch-adds-golden-warmth-to-its-futuristic-design/",
@@ -1066,10 +1080,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T13:00:35.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -1180,21 +1194,7 @@
       "published_at": "2026-08-10T07:01:01.000Z",
       "score_quality": 67,
       "score_notif": 18,
-      "cluster": "20260807-79c900f4b29e",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Ceon GR-01, an Indie Watch Designed and Built in Brazil",
-      "url": "https://monochrome-watches.com/the-ceon-gr-01-an-indie-watch-designed-and-built-in-brazil/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Ceon-GR-01-independent-watchmaker-Brasil-hand-made-watch-2-600x237.jpg",
-      "peek_preview": "Independent watchmaking sprouts far beyond well-known centres, and one of the latest examples comes from an unexpected country we largely associate with Carnival, samba, football legends, and the Amazon rainforest. Ceon...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-10T07:00:42.000Z",
-      "score_quality": 76,
-      "score_notif": 43,
-      "cluster": "20260810-cc451706fcd4",
+      "cluster": "20260810-3f776df6e84c",
       "cluster_main": true
     },
     {
@@ -1348,8 +1348,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster": "20260808-902fb7aaf116",
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1486,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T23:49:10.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -1657,7 +1657,7 @@
       "score_quality": 48,
       "score_notif": 18,
       "cluster": "20260807-79c900f4b29e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Famed artist Alec Monopoly rage baits the watch community with splashes of paint",
