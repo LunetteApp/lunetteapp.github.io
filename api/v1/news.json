@@ -1,6 +1,6 @@
 {
-  "content_hash": "ef701ff1feb9e8119606e60f76f79dc65c4f3b816b5153e9628c62bfbc770759",
-  "last_updated": "2026-08-13T08:47:14.423Z",
+  "content_hash": "85d8a50ba9c31c8992533dd6dda995f0b88e357df9675bf4577baf87d31ab978",
+  "last_updated": "2026-08-13T09:47:23.892Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T05:00:40.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-13T09:00:30.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T08:14:06.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
+      "estimated_articles_per_day": 1.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T23:23:17.000Z"
     },
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-08T09:00:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-13T07:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-11T12:22:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-13T09:10:06.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Minerva: Warum die Emanzipation der traditionsreichen Manufaktur aus Villeret zur richtigen Zeit kommt",
+      "url": "https://www.uhrenkosmos.com/minerva-unveiled-comeback-manufaktur-villeret/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Minerva-Unveiled-Kollektion-2026.jpg",
+      "peek_preview": "Minerva kehrt als Signatur in die Uhrenwelt zurück. Ob daraus innerhalb des Richemont-Konzerns eine eigenständige Maison wird, ist derzeit offen. Das bieten die Minerva The Unveiled Crownless, Chronograph L30, Chronogra...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-08-13T09:10:06.000Z",
+      "score_quality": 53,
+      "score_notif": 16,
+      "cluster": "20260813-46d46bad6ec4",
+      "cluster_main": true
+    },
+    {
+      "title": "The Simple Pleasures Of Field Watch Design",
+      "url": "https://www.fratellowatches.com/the-simple-pleasures-of-field-watch-design/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/09/Hamilton-Khaki-Field-Auto-Call-of-Duty-1.jpg",
+      "peek_preview": "There’s a particular kind of contentment that comes from wearing a watch that asks nothing of you, and the master of this is the field watch. No complications to set, no bezel to align, no story to tell anyone who asks....",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-13T09:00:30.000Z",
+      "score_quality": 43,
+      "score_notif": 7,
+      "cluster": "20260813-ee68092b5a2f",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – IWC Celebrates 140 Years of Mercedes-Benz With A Special Big Pilot Perpetual Calendar Proset",
       "url": "https://monochrome-watches.com/iwc-celebrates-140-years-of-mercedes-benz-with-a-special-big-pilot-perpetual-calendar-proset/",
       "image": "https://monochrome-watches.com/app/uploads/2026/08/IWC-Big-Pilots-Watch-Perpetual-Calendar-ProSet-140-Years-Mercedes-Benz-5-600x237.jpg",
@@ -201,6 +229,20 @@
       "score_quality": 74,
       "score_notif": 22,
       "cluster": "20260813-e495bf430ad1",
+      "cluster_main": true
+    },
+    {
+      "title": "TAG Heuer Formula 1: il ritorno del Solargraph in 5 irresistibili tonalità pastello",
+      "url": "https://italianwatchspotter.com/tag-heuer-formula-1-solargraph-pastello/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/08/TAG-Heuer_F1_WBY1163_WBY1164_WBY1165_WBY111B_WBY111C_Cortina-Watch-scaled-1-1024x1024.webp",
+      "peek_preview": "Alcuni orologi hanno il raro talento di farsi riconoscere ancora prima di leggere il nome sul quadrante. Basta una silhouette, una lunetta, una combinazione di colori. Il TAG Heuer Formula 1 appartiene a questa famiglia...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-13T07:00:00.000Z",
+      "score_quality": 68,
+      "score_notif": 49,
+      "cluster": "20260813-3204fbf077bc",
       "cluster_main": true
     },
     {
@@ -1128,20 +1170,6 @@
       "cluster_main": true
     },
     {
-      "title": "Zandvoort’s Final Lap: The TAG Heuer Formula 1 Solargraph Limited Edition",
-      "url": "https://www.fratellowatches.com/final-lap-the-tag-heuer-formula-1-solargraph-limited-edition-for-the-last-dutch-grand-prix/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/TAG-Heuer-Formula-1-Solargraph-Zandvoort-GP-LE-1.jpg",
-      "peek_preview": "After 35 years of absence, the Dutch Grand Prix returned to Zandvoort in 2021. It almost seemed impossible at first to organize such a global event in the small beach town. The circuit received a few necessary updates,...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-10T09:00:26.000Z",
-      "score_quality": 96,
-      "score_notif": 57,
-      "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
-    },
-    {
       "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
       "url": "https://timeandtidewatches.com/tag-heuer-formula-1-solargraph-zandvoort-f1-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-tag-heuer-formula-1-zandvoort-f1.jpg",
@@ -1194,7 +1222,7 @@
       "published_at": "2026-08-10T07:01:01.000Z",
       "score_quality": 67,
       "score_notif": 18,
-      "cluster": "20260810-3f776df6e84c",
+      "cluster": "20260807-79c900f4b29e",
       "cluster_main": true
     },
     {
@@ -1348,8 +1376,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1500,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -1542,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The echo/neutra Averau 42 Ceramic Sand Collection is built for the field, dressed for the dunes",
@@ -1657,7 +1685,7 @@
       "score_quality": 48,
       "score_notif": 18,
       "cluster": "20260807-79c900f4b29e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Famed artist Alec Monopoly rage baits the watch community with splashes of paint",
@@ -1825,34 +1853,6 @@
       "score_quality": 54,
       "score_notif": 57,
       "cluster": "20260806-60ab2adc3feb",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Limited-Edition UNIMATIC Modello Uno UT1-IPN Tool Watch Celebrates Swimming Pool Summers",
-      "url": "https://www.ablogtowatch.com/hands-on-limited-edition-unimatic-modello-uno-ut1-ipn-tool-watch-celebrates-swimming-pool-summers/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/UNIMATIC-UT1-IPN-swimming-pool-blue-watch-1-768x346.jpg",
-      "peek_preview": "Earlier in the summer of 2026, Milan-based UNIMATIC debuted a capsule collection of six watches. All of these are dedicated to a favorite summertime activity: spending time in or near a swimming pool. The six watches in...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T07:01:08.000Z",
-      "score_quality": 67,
-      "score_notif": 28,
-      "cluster": "20260806-c1ce6747d625",
-      "cluster_main": true
-    },
-    {
-      "title": "Book Review: ‘Universal People Universal Dreams’",
-      "url": "https://watchesbysjx.com/2026/08/universal-people-universal-dreams-book-review.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Universal-People-Universal-Dreams-book-5-300x200.jpg",
-      "peek_preview": "Universal People Universal Dreams is a large-format book that explores, in great detail, a collection of 111 Universal Genève chronographs, and only chronographs. The 384-page book is also a record of the collecting jou...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T01:00:34.000Z",
-      "score_quality": 50,
-      "score_notif": 8,
-      "cluster": "20260806-cdef815d9584",
       "cluster_main": true
     }
   ]
