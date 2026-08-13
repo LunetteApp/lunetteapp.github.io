@@ -1,6 +1,6 @@
 {
-  "content_hash": "ca66981fb8c72bfaaf2be66865624e559f79bb5c9fae44798ee25449d55a9876",
-  "last_updated": "2026-08-13T13:47:11.013Z",
+  "content_hash": "efbffe1946c41874111532d497e56192694048f443f7459f29444f75b671c673",
+  "last_updated": "2026-08-13T14:47:27.034Z",
   "premium": {
     "links": []
   },
@@ -15,15 +15,15 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-12T19:00:09.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-13T14:00:45.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T13:00:40.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T13:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Albishorn Just Expanded its Marinagraph Collection With Two Ultra-Classic Colorways",
+      "url": "https://wornandwound.com/albishorn-just-expanded-its-marinagraph-collection-with-two-ultra-classic-colorways/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Albishorn-Marinagraph-Classic-8.jpg",
+      "peek_preview": "It wouldn’t be summer without a proper skin diver or regatta timer, or how about both? Roughly one year ago, we got the latest reimagining from Albishorn, giving us a mash up of two seafaring classics with the brand’s s...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-13T14:00:45.000Z",
+      "score_quality": 74,
+      "score_notif": 42,
+      "cluster": "20260813-3a693aad7472",
+      "cluster_main": false
+    },
     {
       "title": "Introducing – Round Two of the Albishorn Marinagraph Classic and Classic Fumé",
       "url": "https://monochrome-watches.com/introducing-albishorn-marinagraph-classic-fume-alb01-regatta-chronograph-specs-price-pics/",
@@ -396,7 +410,7 @@
       "published_at": "2026-08-13T00:00:42.000Z",
       "score_quality": 76,
       "score_notif": 63,
-      "cluster": "20260806-40886553736c",
+      "cluster": "20260813-4a16c64aa372",
       "cluster_main": true
     },
     {
@@ -1150,10 +1164,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T13:00:35.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -1236,7 +1250,7 @@
       "published_at": "2026-08-10T07:01:01.000Z",
       "score_quality": 67,
       "score_notif": 18,
-      "cluster": "20260810-3f776df6e84c",
+      "cluster": "20260807-79c900f4b29e",
       "cluster_main": true
     },
     {
@@ -1528,10 +1542,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T23:49:10.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -1601,20 +1615,6 @@
       "score_quality": 57,
       "score_notif": 32,
       "cluster": "20260807-bde2c06aa2e2",
-      "cluster_main": true
-    },
-    {
-      "title": "Rally for the Ages: A Tudor Experience in the Cotswolds",
-      "url": "https://wornandwound.com/30-seconds-rallying-in-the-cotswolds-with-tudor/",
-      "image": "https://wornandwound.com/library/uploads/2026/07/Tudor-Cotswolds-4.jpg",
-      "peek_preview": "Saturday, 11 July, 11:56AM. “30 Seconds” the timekeeper announces above the fluttering idle of the MG’s 4-cylinder dual carbureted motor. It’s not even midday and I am sweating. Part of it is the epic heatwave hitting B...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T14:00:10.000Z",
-      "score_quality": 32,
-      "score_notif": 10,
-      "cluster": "20260807-a4a63820027c",
       "cluster_main": true
     },
     {
@@ -1699,7 +1699,7 @@
       "score_quality": 48,
       "score_notif": 18,
       "cluster": "20260807-79c900f4b29e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Famed artist Alec Monopoly rage baits the watch community with splashes of paint",
@@ -1755,7 +1755,7 @@
       "score_quality": 75,
       "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Decoding The Master Chronometer: What Does METAS Certification Actually Mean?",
