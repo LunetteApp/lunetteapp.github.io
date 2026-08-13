@@ -1,6 +1,6 @@
 {
-  "content_hash": "da7256e3f919c59988487a1f4145fe653a058e6ed01869eb007f90cab2ec3e5b",
-  "last_updated": "2026-08-12T23:47:33.634Z",
+  "content_hash": "ffd3712581e25939424aa559372d301b405ca8ceee592037f39241851c525b07",
+  "last_updated": "2026-08-13T00:46:36.151Z",
   "premium": {
     "links": []
   },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T23:23:17.000Z"
     },
     {
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-12T03:00:37.000Z"
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-13T00:00:42.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "セイコーが創業145周年を記念して、「江戸紫」から着想を得た9種の限定モデルを発表",
+      "url": "https://www.webchronos.net/news/169350/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/seiko_edomurasaki_1.webp",
+      "peek_preview": "セイコーより、創業145周年を記念した限定モデル全9種が2026年10月9日（金）に発表される。日本の伝統色である江戸紫をテーマカラーに、本格的なスポーツウォッチである「プロスペックス」や、先進的な機能を搭載した「アスト […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-13T00:00:42.000Z",
+      "score_quality": 74,
+      "score_notif": 63,
+      "cluster": "20260806-40886553736c",
+      "cluster_main": true
+    },
+    {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
       "url": "https://timeandtidewatches.com/omega-x-swatch-moonswatch-mission-to-the-sun-solar-eclipse-news/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Omega-x-Swatch-MoonSwatch-Mission-to-the-Sun-%E2%80%93-Solar-Eclipse.jpeg",
@@ -184,10 +198,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-12T23:23:17.000Z",
-      "score_quality": 69,
+      "score_quality": 71,
       "score_notif": 68,
       "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Certina DS Action Diver 38 Titanium: The Tool Watch You've Been Waiting For?",
@@ -593,7 +607,7 @@
       "score_quality": 70,
       "score_notif": 68,
       "cluster": "20260811-67344ac4b454",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co(mmunity) are back with a new steamy-dialled watch",
@@ -632,10 +646,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -702,10 +716,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T12:00:02.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Moritz Grossmann TEFNUT 36: il quadrante turchese nato da una tecnica dell’Ottocento",
@@ -1264,8 +1278,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1405,20 +1419,6 @@
       "score_quality": 58,
       "score_notif": 42,
       "cluster": "20260808-24aaa4cf1639",
-      "cluster_main": true
-    },
-    {
-      "title": "ブルガリ「オクト フィニッシモ パーペチュアル カレンダー」にブルーワントーンの新作が登場",
-      "url": "https://www.webchronos.net/news/168522/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/BVLGARI_OctoFinissimoPerpetualCalendar-01.webp",
-      "peek_preview": "ブルガリは、「オクト フィニッシモ パーペチュアル カレンダー」のコレクションを拡充させる、ブルーワントーンの新作を発表した。2021年に永久カレンダーモデルとして薄さの世界記録を樹立したチタン製のオクト フィニッシモ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-08T00:00:31.000Z",
-      "score_quality": 63,
-      "score_notif": 46,
-      "cluster": "20260808-a5cfc41fb0c2",
       "cluster_main": true
     },
     {
@@ -1655,9 +1655,9 @@
       "featured": false,
       "published_at": "2026-08-06T19:41:49.000Z",
       "score_quality": 56,
-      "score_notif": 57,
+      "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Parmigiani Fleurier 30th Anniversary Carillon Tourbillon",
