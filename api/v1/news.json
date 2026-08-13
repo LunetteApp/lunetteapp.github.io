@@ -1,6 +1,6 @@
 {
-  "content_hash": "3c148d8e7eabd685dfccea4232415573b68907a380e48d9ef1272298d5bf4acc",
-  "last_updated": "2026-08-13T05:47:18.378Z",
+  "content_hash": "4535818bff0c8fc48485d580ca05ff09a638556da0fef047255a221df8646453",
+  "last_updated": "2026-08-13T07:47:07.055Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T05:00:40.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-12T14:00:05.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-13T07:01:00.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -106,7 +106,7 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-12T20:04:28.000Z"
     },
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T05:08:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The CIGA Design Hunter Vintage Watch Adds Golden Warmth To Its Futuristic Design",
+      "url": "https://www.ablogtowatch.com/hands-on-the-ciga-design-hunter-vintage-watch-adds-golden-warmth-to-its-futuristic-design/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/CIGA-design-Hunter-Vintage-LOR-Crop-768x346.jpg",
+      "peek_preview": "We’ve spoken extensively about CIGA design and its Hunter series of tonneau-shaped skeleton models here on aBlogtoWatch, from blacked-out base models to the tourbillon-sporting pinnacle of the collection. As part of its...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-13T07:01:00.000Z",
+      "score_quality": 74,
+      "score_notif": 22,
+      "cluster": "20260813-e495bf430ad1",
+      "cluster_main": true
+    },
     {
       "title": "Zenith Chronomaster Original Paris Edition : le vert-de-gris des toits parisiens sur un El Primero",
       "url": "https://www.welovewatches.fr/zenith-chronomaster-original-paris-edition-le-vert-de-gris-des-toits-parisiens-sur-un-el-primero.html",
@@ -394,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-12T15:00:00.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 31,
       "cluster": "20260806-d35b33a3f3c6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Brew Introduces the Limited Edition Retrograph Stone Blend",
@@ -425,7 +439,7 @@
       "score_quality": 85,
       "score_notif": 46,
       "cluster": "20260810-63b52975205f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "My National Day Watch: the amazing Cartier Santos Chronograph",
@@ -996,10 +1010,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T16:00:37.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 46,
       "cluster": "20260810-63b52975205f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Inside The Manufacture: Making A Tudor: A Behind-The-Scenes Look, From Raw Material To Finished Product [Video]",
@@ -1797,7 +1811,7 @@
       "score_quality": 96,
       "score_notif": 31,
       "cluster": "20260806-d35b33a3f3c6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko’s latest Asia-Pacific Prospex limited editions bring golden hour to the wrist",
@@ -1839,20 +1853,6 @@
       "score_quality": 50,
       "score_notif": 8,
       "cluster": "20260806-cdef815d9584",
-      "cluster_main": true
-    },
-    {
-      "title": "Leica Watches Brand Review: Can The Iconic Camera Maker Pull It Off?",
-      "url": "https://teddybaldassarre.com/blogs/watches/leica-watches-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Leica-Watches-pair-2.jpg?v=1785936434",
-      "peek_preview": "[toc-section heading=\"When a Camera Company Makes a Watch\"] Whenever a brand that isn’t traditionally known for making watches decides to enter the luxury timepiece space, my immediate reaction (and the reaction of a lo...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-05T19:43:52.000Z",
-      "score_quality": 46,
-      "score_notif": 12,
-      "cluster": "20260805-ca506c20eb32",
       "cluster_main": true
     }
   ]
