@@ -1,6 +1,44 @@
 {
-  "version": 5,
+  "version": 7,
   "templates": [
+    {
+      "id": "sardinia-cala",
+      "localized_name": {
+        "en": "Turquoise Cove",
+        "it": "Cala turchese",
+        "fr": "Crique turquoise",
+        "de": "Turkise Bucht",
+        "es": "Cala turquesa"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/sardinia_template_1.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/sardinia_template_1.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "SARDINIA",
+      "sort_order": 10,
+      "free": true
+    },
+    {
+      "id": "bellavita-amalfi",
+      "localized_name": {
+        "en": "Amalfi",
+        "it": "Amalfi",
+        "fr": "Amalfi",
+        "de": "Amalfi",
+        "es": "Amalfi"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/bellavita_template_1.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/bellavita_template_1.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "BELLA VITA",
+      "sort_order": 20,
+      "free": true
+    },
     {
       "id": "summer-coast",
       "localized_name": {
@@ -17,8 +55,173 @@
       "alert_title": {},
       "alert_message": {},
       "pack_name": "SUMMER",
-      "sort_order": 10,
+      "sort_order": 30,
       "free": true
+    },
+    {
+      "id": "palms-sunset",
+      "localized_name": {
+        "en": "Palm Sunset",
+        "it": "Tramonto tropicale",
+        "fr": "Coucher tropical",
+        "de": "Palmen-Sonnenuntergang",
+        "es": "Atardecer tropical"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/palms_template_3.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/palms_template_3.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "PALMS",
+      "sort_order": 40
+    },
+    {
+      "id": "sardinia-whitesands",
+      "localized_name": {
+        "en": "White Sands",
+        "it": "Spiaggia bianca",
+        "fr": "Sable blanc",
+        "de": "Weisser Strand",
+        "es": "Arena blanca"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/sardinia_template_2.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/sardinia_template_2.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "SARDINIA",
+      "sort_order": 50
+    },
+    {
+      "id": "diver-deep",
+      "localized_name": {
+        "en": "Deep Blue",
+        "it": "Blu profondo",
+        "fr": "Bleu profond",
+        "de": "Tiefes Blau",
+        "es": "Azul profundo"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/diver_template_1.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/diver_template_1.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "DIVER",
+      "sort_order": 60,
+      "free": true
+    },
+    {
+      "id": "palms-shade",
+      "localized_name": {
+        "en": "Palm Shade",
+        "it": "Ombra di palme",
+        "fr": "Ombre des palmiers",
+        "de": "Palmenschatten",
+        "es": "Sombra de palmeras"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/palms_template_1.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/palms_template_1.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "PALMS",
+      "sort_order": 70,
+      "free": true
+    },
+    {
+      "id": "bellavita-lemons",
+      "localized_name": {
+        "en": "Lemons",
+        "it": "Limoni",
+        "fr": "Citrons",
+        "de": "Zitronen",
+        "es": "Limones"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/bellavita_template_2.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/bellavita_template_2.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "BELLA VITA",
+      "sort_order": 80
+    },
+    {
+      "id": "pilot-clouds",
+      "localized_name": {
+        "en": "Above the Clouds",
+        "it": "Sopra le nuvole",
+        "fr": "Au-dessus des nuages",
+        "de": "Uber den Wolken",
+        "es": "Sobre las nubes"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/pilot_template_3.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/pilot_template_3.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "PILOT",
+      "sort_order": 90,
+      "free": true
+    },
+    {
+      "id": "sardinia-country",
+      "localized_name": {
+        "en": "Olive Country",
+        "it": "Campagna d'ulivi",
+        "fr": "Campagne d'oliviers",
+        "de": "Olivenland",
+        "es": "Campo de olivos"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/sardinia_template_4.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/sardinia_template_4.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "SARDINIA",
+      "sort_order": 100
+    },
+    {
+      "id": "palms-poolside",
+      "localized_name": {
+        "en": "Poolside",
+        "it": "Bordo piscina",
+        "fr": "Bord de piscine",
+        "de": "Am Pool",
+        "es": "Junto a la piscina"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/palms_template_2.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/palms_template_2.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "PALMS",
+      "sort_order": 110
+    },
+    {
+      "id": "bellavita-riviera",
+      "localized_name": {
+        "en": "Riviera",
+        "it": "Riviera",
+        "fr": "Riviera",
+        "de": "Riviera",
+        "es": "Riviera"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/bellavita_template_4.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/bellavita_template_4.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "BELLA VITA",
+      "sort_order": 120
     },
     {
       "id": "summer-linen",
@@ -36,25 +239,61 @@
       "alert_title": {},
       "alert_message": {},
       "pack_name": "SUMMER",
-      "sort_order": 20
+      "sort_order": 130
     },
     {
-      "id": "summer-night",
+      "id": "diver-wave",
       "localized_name": {
-        "en": "Summer Night",
-        "it": "Notte estiva",
-        "fr": "Nuit d'ete",
-        "de": "Sommernacht",
-        "es": "Noche de verano"
+        "en": "Ocean Wave",
+        "it": "Onda oceanica",
+        "fr": "Vague oceane",
+        "de": "Meereswelle",
+        "es": "Ola del oceano"
       },
-      "background_image_url": "https://lunetteapp.com/app_assets/summer_template_3.png",
-      "thumbnail_image_url": "https://lunetteapp.com/app_assets/summer_template_3.png",
+      "background_image_url": "https://lunetteapp.com/app_assets/diver_template_3.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/diver_template_3.png",
       "background_mode": "fill",
       "show_alert": false,
       "alert_title": {},
       "alert_message": {},
-      "pack_name": "SUMMER",
-      "sort_order": 30
+      "pack_name": "DIVER",
+      "sort_order": 140
+    },
+    {
+      "id": "sardinia-table",
+      "localized_name": {
+        "en": "Sardinian Table",
+        "it": "Tavola sarda",
+        "fr": "Table sarde",
+        "de": "Sardische Tafel",
+        "es": "Mesa sarda"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/sardinia_template_3.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/sardinia_template_3.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "SARDINIA",
+      "sort_order": 150
+    },
+    {
+      "id": "bellavita-espresso",
+      "localized_name": {
+        "en": "Espresso",
+        "it": "Espresso",
+        "fr": "Espresso",
+        "de": "Espresso",
+        "es": "Espresso"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/bellavita_template_3.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/bellavita_template_3.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "BELLA VITA",
+      "sort_order": 160
     },
     {
       "id": "summer-terrace",
@@ -72,7 +311,279 @@
       "alert_title": {},
       "alert_message": {},
       "pack_name": "SUMMER",
-      "sort_order": 40
+      "sort_order": 170
+    },
+    {
+      "id": "palms-terracotta",
+      "localized_name": {
+        "en": "Terracotta",
+        "it": "Terracotta",
+        "fr": "Terre cuite",
+        "de": "Terrakotta",
+        "es": "Terracota"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/palms_template_4.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/palms_template_4.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "PALMS",
+      "sort_order": 180
+    },
+    {
+      "id": "pilot-runway",
+      "localized_name": {
+        "en": "Runway",
+        "it": "Pista",
+        "fr": "Piste",
+        "de": "Startbahn",
+        "es": "Pista"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/pilot_template_2.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/pilot_template_2.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "PILOT",
+      "sort_order": 190
+    },
+    {
+      "id": "summer-night",
+      "localized_name": {
+        "en": "Summer Night",
+        "it": "Notte estiva",
+        "fr": "Nuit d'ete",
+        "de": "Sommernacht",
+        "es": "Noche de verano"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/summer_template_3.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/summer_template_3.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "SUMMER",
+      "sort_order": 200
+    },
+    {
+      "id": "diver-teak",
+      "localized_name": {
+        "en": "Teak Deck",
+        "it": "Ponte in teak",
+        "fr": "Pont en teck",
+        "de": "Teakdeck",
+        "es": "Cubierta de teca"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/diver_template_2.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/diver_template_2.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "DIVER",
+      "sort_order": 210
+    },
+    {
+      "id": "pilot-navigator",
+      "localized_name": {
+        "en": "Navigator",
+        "it": "Navigatore",
+        "fr": "Navigateur",
+        "de": "Navigator",
+        "es": "Navegante"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/pilot_template_4.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/pilot_template_4.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "PILOT",
+      "sort_order": 220
+    },
+    {
+      "id": "pilot-cockpit",
+      "localized_name": {
+        "en": "Cockpit",
+        "it": "Cabina di pilotaggio",
+        "fr": "Cockpit",
+        "de": "Cockpit",
+        "es": "Cabina"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/pilot_template_1.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/pilot_template_1.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "PILOT",
+      "sort_order": 230
+    },
+    {
+      "id": "diver-porthole",
+      "localized_name": {
+        "en": "Porthole",
+        "it": "Oblo",
+        "fr": "Hublot",
+        "de": "Bullauge",
+        "es": "Ojo de buey"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/diver_template_4.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/diver_template_4.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "DIVER",
+      "sort_order": 240
+    },
+    {
+      "id": "atelier-leather",
+      "localized_name": {
+        "en": "Leather",
+        "it": "Cuoio",
+        "fr": "Cuir",
+        "de": "Leder",
+        "es": "Cuero"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/atelier_template_2.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/atelier_template_2.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "ATELIER",
+      "sort_order": 250,
+      "free": true
+    },
+    {
+      "id": "atelier-velvet",
+      "localized_name": {
+        "en": "Velvet",
+        "it": "Velluto",
+        "fr": "Velours",
+        "de": "Samt",
+        "es": "Terciopelo"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/atelier_template_3.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/atelier_template_3.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "ATELIER",
+      "sort_order": 260
+    },
+    {
+      "id": "atelier-workbench",
+      "localized_name": {
+        "en": "Workbench",
+        "it": "Banco da lavoro",
+        "fr": "Etabli",
+        "de": "Werkbank",
+        "es": "Banco de trabajo"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/atelier_template_1.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/atelier_template_1.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "ATELIER",
+      "sort_order": 270
+    },
+    {
+      "id": "atelier-blueprint",
+      "localized_name": {
+        "en": "Blueprint",
+        "it": "Progetto",
+        "fr": "Plan",
+        "de": "Bauplan",
+        "es": "Plano"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/atelier_template_4.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/atelier_template_4.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "ATELIER",
+      "sort_order": 280
+    },
+    {
+      "id": "racing-carbon",
+      "localized_name": {
+        "en": "Carbon",
+        "it": "Carbonio",
+        "fr": "Carbone",
+        "de": "Karbon",
+        "es": "Carbono"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/racing_template_2.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/racing_template_2.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "RACING",
+      "sort_order": 290,
+      "free": true
+    },
+    {
+      "id": "racing-nightpit",
+      "localized_name": {
+        "en": "Night Pit",
+        "it": "Box notturno",
+        "fr": "Stand de nuit",
+        "de": "Nachtbox",
+        "es": "Box nocturno"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/racing_template_3.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/racing_template_3.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "RACING",
+      "sort_order": 300
+    },
+    {
+      "id": "racing-startline",
+      "localized_name": {
+        "en": "Start Line",
+        "it": "Linea di partenza",
+        "fr": "Ligne de depart",
+        "de": "Startlinie",
+        "es": "Linea de salida"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/racing_template_1.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/racing_template_1.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "RACING",
+      "sort_order": 310
+    },
+    {
+      "id": "racing-checkered",
+      "localized_name": {
+        "en": "Checkered",
+        "it": "Bandiera a scacchi",
+        "fr": "Damier",
+        "de": "Zielflagge",
+        "es": "Cuadros"
+      },
+      "background_image_url": "https://lunetteapp.com/app_assets/racing_template_4.png",
+      "thumbnail_image_url": "https://lunetteapp.com/app_assets/racing_template_4.png",
+      "background_mode": "fill",
+      "show_alert": false,
+      "alert_title": {},
+      "alert_message": {},
+      "pack_name": "RACING",
+      "sort_order": 320
     }
   ]
 }
