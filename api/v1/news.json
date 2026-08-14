@@ -1,6 +1,6 @@
 {
-  "content_hash": "209d222d217d530c382320c31f2ad894271df00f5095e718af8b64d2fb0e26d9",
-  "last_updated": "2026-08-14T09:46:56.322Z",
+  "content_hash": "29f7e4e88099c5a5bc81e3c79f41645ebc28436e84b6a3e32e1bdbe2b1e8e5b7",
+  "last_updated": "2026-08-14T10:47:02.550Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T09:00:42.000Z"
     },
     {
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T07:00:57.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-08-14T10:05:45.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Twelve on Time – Christiaan van der Klaauw’s Pim Koeslag and his Personal Relationship with Time and Watches",
+      "url": "https://monochrome-watches.com/christiaan-van-der-klaauws-pim-koeslag-and-his-personal-relationship-with-time-and-watches/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Twelve-on-Time-Pim-Koeslag-Christiaan-van-der-Klaauw-600x237.jpg",
+      "peek_preview": "Twelve on Time is a conversation series that invites leading personalities from the watch industry to step beyond their work and speak more personally about their relationship with time, creativity, and craft. Through a...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T10:05:45.000Z",
+      "score_quality": 76,
+      "score_notif": 18,
+      "cluster": "20260814-74ab5ddc45de",
+      "cluster_main": true
+    },
+    {
+      "title": "Twelve on Time – A. Lange & Söhne’s Wilhelm Schmidt and his Personal Relationship with Time and Watches",
+      "url": "https://monochrome-watches.com/a-lange-sohnes-wilhelm-schmidt-and-his-personal-relationship-with-time-and-watches/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/A.-Lange-Sohne-Wilhelm-Schmid-CEO-600x237.jpg",
+      "peek_preview": "Twelve on Time is a conversation series that invites leading personalities from the watch industry to step beyond their work and speak more personally about their relationship with time, creativity, and craft. Through a...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T10:05:12.000Z",
+      "score_quality": 78,
+      "score_notif": 20,
+      "cluster": "20260814-3342901ba6aa",
+      "cluster_main": true
+    },
     {
       "title": "The Top 5 Rolex Models From The 1990s",
       "url": "https://www.fratellowatches.com/the-top-5-rolex-models-from-the-1990s/",
@@ -375,7 +403,7 @@
       "title": "Louis Vuitton x Singer: l’Art of Travel al volante di una Porsche 911",
       "url": "https://italianwatchspotter.com/louis-vuitton-x-singer-porsche-911/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/08/Porsche-911-Reimagined-by-Singer-Classic-Classic-Turbo-02-copia-1.tif",
-      "peek_preview": "Cosa accade quando l’Art of Travel di Louis Vuitton incontra una delle espressioni più affascinanti della Porsche 911? A Monterey, in California, due universi abituati a trasformare la materia, il gesto e il tempo in og...",
+      "peek_preview": "A Monterey, in California, due universi abituati a trasformare la materia, il gesto e il tempo in oggetti da collezione hanno trovato un terreno comune. Louis Vuitton e Singer firmano così un progetto automobilistico in...",
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "featured": false,
@@ -498,7 +526,7 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – IWC Celebrates 140 Years of Mercedes-Benz With A Special Big Pilot Perpetual Calendar Proset",
+      "title": "Introducing – IWC Celebrates 140 Years of Mercedes-Benz with a Special Big Pilot Perpetual Calendar Proset",
       "url": "https://monochrome-watches.com/iwc-celebrates-140-years-of-mercedes-benz-with-a-special-big-pilot-perpetual-calendar-proset/",
       "image": "https://monochrome-watches.com/app/uploads/2026/08/IWC-Big-Pilots-Watch-Perpetual-Calendar-ProSet-140-Years-Mercedes-Benz-5-600x237.jpg",
       "peek_preview": "Two companies, at the forefront of mechanical innovation, coming together to mark 140 years of history – that’s what IWC’s latest watch is all about. The brand has a long-standing partnership with Mercedes-Benz, exempli...",
@@ -578,8 +606,8 @@
       "published_at": "2026-08-13T04:23:36.000Z",
       "score_quality": 55,
       "score_notif": 52,
-      "cluster": "20260813-94df4f60e96e",
-      "cluster_main": false
+      "cluster": "20260813-9a4481be7ae0",
+      "cluster_main": true
     },
     {
       "title": "Fratello Talks: Can A Case Back Make Or Break A Watch",
@@ -900,8 +928,8 @@
       "published_at": "2026-08-12T05:00:14.000Z",
       "score_quality": 73,
       "score_notif": 46,
-      "cluster": "20260812-23731c0bba53",
-      "cluster_main": false
+      "cluster": "20260812-994849b6f41e",
+      "cluster_main": true
     },
     {
       "title": "ロンジンが2026年サマーセレクションとして「ロンジン コンクエスト」と「ロンジン プリマルナ」に新作を投入！",
@@ -915,20 +943,6 @@
       "score_quality": 49,
       "score_notif": 41,
       "cluster": "20260812-c350f8ff9840",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The Seiko Presage Classic Series x Tradman’s Bonsai Limited Edition HCC009J1",
-      "url": "https://monochrome-watches.com/first-look-seiko-presage-classic-series-x-tradmans-bonsai-limited-edition-hcc009j1-specs-price-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Seiko-Presage-Classic-Series-x-Tradmans-Bonsai-HCC009J1-Limited-Edition-Featured-1-600x237.jpg",
-      "peek_preview": "Since its international relaunch in 2016, the Seiko Presage collection, for decades available only to Japanese customers, has become the brand’s showcase of the country’s traditional aesthetics and craftsmanship, offeri...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T03:00:27.000Z",
-      "score_quality": 81,
-      "score_notif": 46,
-      "cluster": "20260812-23731c0bba53",
       "cluster_main": true
     },
     {
@@ -1030,20 +1044,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The New Rado Captain Cook x European Cricket Special Edition",
-      "url": "https://monochrome-watches.com/introducing-rado-captain-cook-european-cricket-special-edition-r763-dive-watch-specs-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Rado-Captain-Cook-x-European-Cricket-Special-Edition-Featured-600x237.jpg",
-      "peek_preview": "Since its revival in 2017, the Rado Captain Cook collection has grown from a faithful vintage re-edition into one of the brand’s pillars, embracing models to include compact 37mm models, ceramic executions, bronze editi...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-11T16:00:25.000Z",
-      "score_quality": 78,
-      "score_notif": 23,
-      "cluster": "20260811-365baf6daabd",
-      "cluster_main": true
-    },
-    {
       "title": "Anders & Co adds its signature stone dial to its chronograph",
       "url": "https://timeandtidewatches.com/anders-co-ac1-stone-dial-chronograph-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/anders-co-ac1-stone-dials-1.jpg",
@@ -1094,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Watch Ho & Co. x Selten Yum Cha Edition",
@@ -1108,10 +1108,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1572,8 +1572,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster": "20260808-902fb7aaf116",
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
