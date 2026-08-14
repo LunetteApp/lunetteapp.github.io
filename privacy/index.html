@@ -189,6 +189,10 @@
                 <button class="lang-btn" data-lang="es">ES</button>
                 <button class="lang-btn" data-lang="fr">FR</button>
                 <button class="lang-btn" data-lang="de">DE</button>
+                <button class="lang-btn" data-lang="pt">PT</button>
+                <button class="lang-btn" data-lang="ko">KO</button>
+                <button class="lang-btn" data-lang="ja">JA</button>
+                <button class="lang-btn" data-lang="zh">ZH</button>
             </nav>
         </header>
         <main id="content">
@@ -213,10 +217,10 @@
 
         function detectLanguage() {
             const urlLang = new URLSearchParams(window.location.search).get('lang');
-            if (urlLang && ['en', 'it', 'es', 'fr', 'de'].includes(urlLang)) return urlLang;
+            if (urlLang && ['en', 'it', 'es', 'fr', 'de', 'pt', 'ko', 'ja', 'zh'].includes(urlLang)) return urlLang;
 
             const browserLang = (navigator.language || '').slice(0, 2).toLowerCase();
-            if (['en', 'it', 'es', 'fr', 'de'].includes(browserLang)) return browserLang;
+            if (['en', 'it', 'es', 'fr', 'de', 'pt', 'ko', 'ja', 'zh'].includes(browserLang)) return browserLang;
 
             return 'en';
         }
