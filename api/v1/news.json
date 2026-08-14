@@ -1,6 +1,6 @@
 {
-  "content_hash": "e84da0f7e9f2e66ac5af72a5a264f9ac9ec80c447078681dbd90fcfaf04c2318",
-  "last_updated": "2026-08-13T20:47:27.182Z",
+  "content_hash": "1889410d111bd2354aeaebd5b99bcba1226040711170e79a079aed68406e152e",
+  "last_updated": "2026-08-14T00:46:54.411Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T20:00:50.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T20:14:54.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T20:00:03.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T03:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T00:00:26.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -537,7 +537,7 @@
       "score_quality": 76,
       "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -996,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1066,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T12:00:02.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Moritz Grossmann TEFNUT 36: il quadrante turchese nato da una tecnica dell’Ottocento",
@@ -1516,8 +1516,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1822,10 +1822,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T19:41:49.000Z",
-      "score_quality": 75,
+      "score_quality": 77,
       "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Decoding The Master Chronometer: What Does METAS Certification Actually Mean?",
@@ -1839,20 +1839,6 @@
       "score_quality": 56,
       "score_notif": 14,
       "cluster": "20260806-e4d343ec1d56",
-      "cluster_main": true
-    },
-    {
-      "title": "From the Editor: Explaining the Hands that Tell Time and Everything Else",
-      "url": "https://www.watchcollectinglifestyle.com/home//types-of-watch-hands-explanation",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786030000957-3C0P75F3JPPF1LOB5EHY/Watch+Hands+Explanation.webp?format=1500w",
-      "peek_preview": "I have spent 36 years looking at watches, and if I am honest, the first thing I look at is never the dial text or the bezel. It is the hands. There are more than a dozen and a half different types of hands: slender or w...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T15:35:33.000Z",
-      "score_quality": 36,
-      "score_notif": 8,
-      "cluster": "20260806-4fd42562daff",
       "cluster_main": true
     }
   ]
