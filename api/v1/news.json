@@ -1,6 +1,6 @@
 {
-  "content_hash": "f14175e04e7086847e59a081fa52d677c3e79037a54ce54da22791a357bbd213",
-  "last_updated": "2026-08-14T16:47:01.405Z",
+  "content_hash": "d9c322055e949deb72b39376e1f23629d36808397568843daee29620d90e05cd",
+  "last_updated": "2026-08-14T17:47:05.112Z",
   "premium": {
     "links": []
   },
@@ -65,15 +65,15 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T01:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T17:28:08.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T16:30:19.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Alpinist to Astron: Seiko Celebrates 145 Years",
+      "url": "https://watchesbysjx.com/2026/08/seiko-alpinist-hbc006-astron-hab011-rotocall-hfl001.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Seiko-Alpinist-145-anniversary-3x2-centred-header-300x200.jpg",
+      "peek_preview": "Kintaro Hattori is considered the father of the Japanese watch and clock industry, having opened K. Hattori & Co. in Tokyo 145 years ago. Hattori’s humble store eventually evolved into an empire that made Seiko the larg...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T17:28:08.000Z",
+      "score_quality": 82,
+      "score_notif": 64,
+      "cluster": "20260813-4a16c64aa372",
+      "cluster_main": true
+    },
+    {
+      "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
+      "url": "https://www.hodinkee.com/articles/watch-spotting-at-the-hodinkee-happy-hour-at-one-vanderbilt-august-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/2bf19d83-0e7b-4ee6-a8be-e807e2e8af3c/HHHVandyClub.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A Monday night for the books.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T17:00:00.000Z",
+      "score_quality": 55,
+      "score_notif": 12,
+      "cluster": "20260814-e6eca56659ff",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: IWC Big Pilot's Watch Perpetual Calendar ProSet 140 Years Mercedes-Benz—A New Chapter for the Perpetual Calendar",
       "url": "https://www.watchcollectinglifestyle.com/home/iwc-big-pilots-watch-perpetual-proset-140-years-mercedes-benz",
@@ -268,10 +296,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-14T13:00:35.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 29,
       "cluster": "20260812-994849b6f41e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The small one costs 95% as much. Here's what's inside.",
@@ -704,8 +732,8 @@
       "published_at": "2026-08-13T04:23:36.000Z",
       "score_quality": 55,
       "score_notif": 52,
-      "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": true
+      "cluster": "20260813-94df4f60e96e",
+      "cluster_main": false
     },
     {
       "title": "Fratello Talks: Can A Case Back Make Or Break A Watch",
@@ -773,9 +801,9 @@
       "featured": false,
       "published_at": "2026-08-13T00:00:42.000Z",
       "score_quality": 80,
-      "score_notif": 63,
+      "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1027,7 +1055,7 @@
       "score_quality": 75,
       "score_notif": 29,
       "cluster": "20260812-994849b6f41e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ロンジンが2026年サマーセレクションとして「ロンジン コンクエスト」と「ロンジン プリマルナ」に新作を投入！",
@@ -1192,10 +1220,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Watch Ho & Co. x Selten Yum Cha Edition",
@@ -1206,10 +1234,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1642,8 +1670,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster": "20260808-902fb7aaf116",
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1782,7 +1810,7 @@
       "published_at": "2026-08-07T21:09:58.000Z",
       "score_quality": 100,
       "score_notif": 47,
-      "cluster": "20260807-905f7b9de971",
+      "cluster": "20260807-e0d59269cb99",
       "cluster_main": true
     },
     {
@@ -1798,20 +1826,6 @@
       "score_notif": 8,
       "cluster": "20260807-f08f9dfb037a",
       "cluster_main": true
-    },
-    {
-      "title": "Introducing: Unimatic UT1-PD",
-      "url": "https://www.hodinkee.com/articles/intro-unimatic-ut1-pd-prodiver",
-      "image": "https://hodinkee.imgix.net/uploads/images/4518fe25-681a-420d-beab-dd4b641e26f7/Squared_Water.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Unimatic's redesigned entry-point tool watch diver.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 99,
-      "score_notif": 47,
-      "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
     },
     {
       "title": "The echo/neutra Averau 42 Ceramic Sand Collection is built for the field, dressed for the dunes",
@@ -1839,20 +1853,6 @@
       "score_quality": 18,
       "score_notif": 2,
       "cluster": "20260807-948eda381dad",
-      "cluster_main": true
-    },
-    {
-      "title": "Angelus Tinkler 1958: Rückkehr einer klingenden Rarität",
-      "url": "https://www.uhrenkosmos.com/angelus-tinkler-1958-neuauflage-einer-ikone/",
-      "image": "https://www.youtube.com/embed/51xBB1NUN4s",
-      "peek_preview": "Die neue Angelus Tinkler 1958 Automatic knüpft an zwei seltene und heutzutage nahezu vergessene Schlagwerkuhren der traditionsreichen Schweizer Manufaktur an",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-07T12:31:35.000Z",
-      "score_quality": 62,
-      "score_notif": 36,
-      "cluster": "20260807-733375839f27",
       "cluster_main": true
     }
   ]
