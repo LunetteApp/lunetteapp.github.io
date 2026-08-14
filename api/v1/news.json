@@ -1,6 +1,6 @@
 {
-  "content_hash": "5954ceb73726b129557bff7086d1442c7f4fa910b33b16f00906e3ecc3e234b8",
-  "last_updated": "2026-08-14T03:47:15.517Z",
+  "content_hash": "7e972f5ee5fdabb8144f010cf9f6ba640b9cb6f40908675d8e71e38ddad2cac7",
+  "last_updated": "2026-08-14T05:47:19.171Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T09:00:30.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T05:00:42.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T03:00:16.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "This Bezel Does It All: Introducing The Minerva The Unveiled Crownless",
+      "url": "https://www.fratellowatches.com/this-bezel-does-it-all-introducing-the-minerva-the-unveiled-crownless/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Minerva-The-Unveiled-Crownless-Ref.-137544-17.jpg",
+      "peek_preview": "What’s the best watch-related invention ever? I realize it’s not an easy question to answer, but please, give it a go. I asked myself the exact same thing, and I concluded that it has to be the crown. We have Jean-Adrie...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T05:00:42.000Z",
+      "score_quality": 73,
+      "score_notif": 48,
+      "cluster": "20260814-374b691dac91",
+      "cluster_main": true
+    },
     {
       "title": "ベル&ロスが都会的なセージグリーンカラーを採用した「BR-05 GMT GREEN STEEL」を発表",
       "url": "https://www.webchronos.net/news/168867/",
@@ -565,7 +579,7 @@
       "score_quality": 78,
       "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -816,8 +830,8 @@
       "published_at": "2026-08-12T05:00:14.000Z",
       "score_quality": 73,
       "score_notif": 46,
-      "cluster": "20260812-994849b6f41e",
-      "cluster_main": true
+      "cluster": "20260812-23731c0bba53",
+      "cluster_main": false
     },
     {
       "title": "ロンジンが2026年サマーセレクションとして「ロンジン コンクエスト」と「ロンジン プリマルナ」に新作を投入！",
@@ -1024,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1094,10 +1108,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T12:00:02.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Moritz Grossmann TEFNUT 36: il quadrante turchese nato da una tecnica dell’Ottocento",
@@ -1125,20 +1139,6 @@
       "score_quality": 78,
       "score_notif": 20,
       "cluster": "20260811-44360a4ebc89",
-      "cluster_main": true
-    },
-    {
-      "title": "Rocking A New Look: The Maen Manhattan Stone Dial Series",
-      "url": "https://www.fratellowatches.com/rocking-a-new-look-the-maen-manhattan-stone-dial-series/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Maen-Manhattan-37-snowflake-obsidian.jpg",
-      "peek_preview": "There’s nothing wrong with a good stone dial. Even though they’ve been a thing for the past 2-3 years, I never get bored with seeing one. Granted, I do need to like the watch it’s in, and it also needs to fit the style....",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-11T05:00:45.000Z",
-      "score_quality": 67,
-      "score_notif": 37,
-      "cluster": "20260811-aa8babe8b28e",
       "cluster_main": true
     },
     {
@@ -1390,7 +1390,7 @@
       "published_at": "2026-08-10T07:01:01.000Z",
       "score_quality": 67,
       "score_notif": 18,
-      "cluster": "20260807-79c900f4b29e",
+      "cluster": "20260810-3f776df6e84c",
       "cluster_main": true
     },
     {
@@ -1783,7 +1783,7 @@
       "score_quality": 48,
       "score_notif": 18,
       "cluster": "20260807-79c900f4b29e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Famed artist Alec Monopoly rage baits the watch community with splashes of paint",
@@ -1836,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-06T19:41:49.000Z",
-      "score_quality": 77,
+      "score_quality": 79,
       "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Decoding The Master Chronometer: What Does METAS Certification Actually Mean?",
