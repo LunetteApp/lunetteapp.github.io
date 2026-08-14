@@ -1,6 +1,6 @@
 {
-  "content_hash": "09a1678ba32a22865c560085c50c143e40a74e13750b8f68d8ca9b0dc176a068",
-  "last_updated": "2026-08-14T07:47:16.509Z",
+  "content_hash": "6f63c71a237000a96ec881cc94c5c849fdbdc23be84639baba0e2a4477ff9834",
+  "last_updated": "2026-08-14T08:46:56.764Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T07:00:57.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T07:01:06.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T07:01:14.000Z"
     },
     {
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-12T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T08:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Ferragosto al polso: le app che lavorano mentre noi riposiamo",
+      "url": "https://giornaleorologi.it/2026/08/14/ferragosto-al-polso-le-app-che-lavorano-mentre-noi-riposiamo/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/07/01_foto-copia-1024x682.jpg",
+      "peek_preview": "Per l'articolo completo - Ferragosto al polso: le app che lavorano mentre noi riposiamo Dal meteo alle maree, dai sentieri alla musica dell’aperitivo: una selezione delle migliori app per smartwatch – in senso lato: wat...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-14T08:00:00.000Z",
+      "score_quality": 31,
+      "score_notif": 4,
+      "cluster": "20260814-ecf9f2f45a57",
+      "cluster_main": true
+    },
     {
       "title": "From FounderFest to Full Throttle with Tissot at Silverstone",
       "url": "https://timeandtidewatches.com/founderfest-to-full-throttle-friday-wind-down/",
@@ -620,7 +634,7 @@
       "published_at": "2026-08-13T00:00:42.000Z",
       "score_quality": 80,
       "score_notif": 63,
-      "cluster": "20260806-40886553736c",
+      "cluster": "20260813-4a16c64aa372",
       "cluster_main": true
     },
     {
@@ -1332,10 +1346,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T13:00:35.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
@@ -1682,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T23:49:10.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 48,
       "cluster": "20260804-5bb00386fc08",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
@@ -1840,20 +1854,6 @@
       "score_notif": 46,
       "cluster": "20260807-62d74a3ed3aa",
       "cluster_main": true
-    },
-    {
-      "title": "Seiko Introduces Six \"Edo Purple\" Limited Edition Watches For 145th Anniversary",
-      "url": "https://teddybaldassarre.com/blogs/watches/seiko-edo-purple-145th-anniversary",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko_Alpinist_HBC006-2.jpg?v=1786040415",
-      "peek_preview": "Just released by Seiko is a sextet of limited edition watches done in a special “Edo purple” for the brand’s 145th anniversary. Edo is, of course, the name that Tokyo went by until the mid-1800s and is the namesake of t...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T19:41:49.000Z",
-      "score_quality": 79,
-      "score_notif": 63,
-      "cluster": "20260806-40886553736c",
-      "cluster_main": false
     }
   ]
 }
