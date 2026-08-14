@@ -1,6 +1,6 @@
 {
-  "content_hash": "bcdcb5a6f13d2b5a85a50e79612c29646b32612838e1e35aaff95bc5525dc81c",
-  "last_updated": "2026-08-14T14:47:04.398Z",
+  "content_hash": "81328a4a9912b35de0a0062db7775513d928554674acaae3ebcec7a40b22b7b9",
+  "last_updated": "2026-08-14T15:47:43.971Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T10:05:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T15:00:53.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T14:00:31.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T19:03:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-13T15:51:36.000Z"
     },
@@ -176,7 +176,35 @@
   ],
   "items": [
     {
-      "title": "Movado’s Heritage Collection Brings The Brand’s Greatest Designs Into the Present",
+      "title": "Introducing – The New Kiwame Tokyo Yane",
+      "url": "https://monochrome-watches.com/introducing-kiwame-tokyo-yane-japanese-watchmaking-miyota-6t27-specs-price-pics/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Kiwame-Tokyo-Yane-Featured-600x237.jpg",
+      "peek_preview": "Kiwame Tokyo, the independent Japanese microbrand, is something of an anomaly in a country dominated by big players like Seiko, Orient, Citizen and Grand Seiko. Based in Asakusa, the historical centre of Tokyo, the bran...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T15:00:53.000Z",
+      "score_quality": 72,
+      "score_notif": 43,
+      "cluster": "20260814-075b64d2d054",
+      "cluster_main": true
+    },
+    {
+      "title": "Bring a Loupe: An Alpina-Gruen Techni-Quadron, A Universal Genève \"Eric Clapton,\" A Cartier \"Bebe Guillotine,\" And More",
+      "url": "https://www.hodinkee.com/articles/an-alpina-gruen-techni-quadron-a-universal-geneve-eric-clapton-ref-88110101-a-cartier-bebe-guillotin",
+      "image": "https://hodinkee.imgix.net/uploads/images/063bce34-454b-4694-8089-c6a4c3368d1c/AnAlpina-GruenTechni-QuadronAUniversalGeneveEricClaptonACartierBebeGuillotineAndMore.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T15:00:00.000Z",
+      "score_quality": 38,
+      "score_notif": 10,
+      "cluster": "20260814-80512fa59efa",
+      "cluster_main": true
+    },
+    {
+      "title": "Movado’s Heritage Collection Brings The Brand’s Greatest Designs Into The Present",
       "url": "https://www.ablogtowatch.com/movados-heritage-collection-brings-the-brands-greatest-designs-into-the-present/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Movado-Heritage-Kingmatic-SP-FI-768x346.jpg",
       "peek_preview": "Luxury watch brands often speak about heritage, but relatively few have archives as deep or stylistically diverse as Movado. Founded in 1881 in La Chaux-de-Fonds, Switzerland, the company has spent nearly a century and...",
@@ -229,7 +257,7 @@
       "score_quality": 74,
       "score_notif": 29,
       "cluster": "20260812-994849b6f41e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The small one costs 95% as much. Here's what's inside.",
@@ -257,20 +285,6 @@
       "score_quality": 76,
       "score_notif": 18,
       "cluster": "20260814-74ab5ddc45de",
-      "cluster_main": true
-    },
-    {
-      "title": "Twelve on Time – A. Lange & Söhne’s Wilhelm Schmidt and his Personal Relationship with Time and Watches",
-      "url": "https://monochrome-watches.com/a-lange-sohnes-wilhelm-schmidt-and-his-personal-relationship-with-time-and-watches/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/A.-Lange-Sohne-Wilhelm-Schmid-CEO-600x237.jpg",
-      "peek_preview": "Twelve on Time is a conversation series that invites leading personalities from the watch industry to step beyond their work and speak more personally about their relationship with time, creativity, and craft. Through a...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T10:05:12.000Z",
-      "score_quality": 78,
-      "score_notif": 20,
-      "cluster": "20260814-3342901ba6aa",
       "cluster_main": true
     },
     {
@@ -996,10 +1010,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-12T05:00:14.000Z",
-      "score_quality": 73,
+      "score_quality": 75,
       "score_notif": 29,
       "cluster": "20260812-994849b6f41e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ロンジンが2026年サマーセレクションとして「ロンジン コンクエスト」と「ロンジン プリマルナ」に新作を投入！",
@@ -1178,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1192,10 +1206,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T13:00:41.000Z",
-      "score_quality": 93,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5 : Bond, James Bond",
@@ -1752,10 +1766,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -1780,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The echo/neutra Averau 42 Ceramic Sand Collection is built for the field, dressed for the dunes",
@@ -1839,20 +1853,6 @@
       "score_quality": 50,
       "score_notif": 12,
       "cluster": "20260807-83ac58184087",
-      "cluster_main": true
-    },
-    {
-      "title": "Lorier revient avec quatre rééditions : Astra, Falcon, Neptune et Hyperion",
-      "url": "https://www.welovewatches.fr/lorier-revient-avec-quatre-reeditions-astra-falcon-neptune-et-hyperion.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/07/lorier-hyperion-lifestyle-hi-une.jpg",
-      "peek_preview": "Passée sous l'aile de Worn & Wound il y a quelques mois, la micro-marque new-yorkaise Lorier signe son grand retour avec la réintroduction simultanée de quatre modèles emblématiques : l'Astra habillée, la Falcon field w...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-08-07T10:51:19.000Z",
-      "score_quality": 60,
-      "score_notif": 34,
-      "cluster": "20260807-912e56aa893a",
       "cluster_main": true
     }
   ]
