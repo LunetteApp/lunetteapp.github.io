@@ -1,6 +1,6 @@
 {
-  "content_hash": "d9c322055e949deb72b39376e1f23629d36808397568843daee29620d90e05cd",
-  "last_updated": "2026-08-14T17:47:05.112Z",
+  "content_hash": "4ba739b9f6166e3dc610efe1cbf237b9b9132ae45eca1d1489bf2f9b4a8cbc7f",
+  "last_updated": "2026-08-14T19:46:39.501Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T13:00:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T19:00:08.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T20:14:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T18:52:36.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,14 +65,14 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T17:28:08.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Review: the Sinn 544, a Tool Watch for Minimalists",
+      "url": "https://wornandwound.com/review/review-the-sinn-544-a-tool-watch-for-minimalists/",
+      "image": "https://wornandwound.com/library/uploads/2026/07/SINN_544_1.jpg",
+      "peek_preview": "Simple and sporty. That’s it. That’s the review. Well, sure, I can elaborate. Sinn likes to surprise us on occasion, and in the most Sinn way possible. Not by releasing something high-tech or with a ton of bells and whi...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T19:00:08.000Z",
+      "score_quality": 77,
+      "score_notif": 22,
+      "cluster": "20260814-feb849b89225",
+      "cluster_main": true
+    },
+    {
+      "title": "Grand Seiko Spring Drive: The Complete Guide To The Unique Hybrid Calibers",
+      "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-spring-drive",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand-Seiko-First-1960-2_8363e48f-90f9-43b5-8980-d8f0cf9261fb.jpg?v=1673620815",
+      "peek_preview": "Japan’s Grand Seiko has become, in a relatively short span of time, one of the world’s most prestigious and collectible high-luxury watchmakers, competing for connoisseur attention and dollars with well-established mais...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T18:52:36.000Z",
+      "score_quality": 71,
+      "score_notif": 14,
+      "cluster": "20260814-5810928ac634",
+      "cluster_main": true
+    },
     {
       "title": "Alpinist to Astron: Seiko Celebrates 145 Years",
       "url": "https://watchesbysjx.com/2026/08/seiko-alpinist-hbc006-astron-hab011-rotocall-hfl001.html",
@@ -1366,20 +1394,6 @@
       "cluster_main": true
     },
     {
-      "title": "Arcanaut Introduces Fordite 2.0, Now Fully Customizable",
-      "url": "https://wornandwound.com/arcanaut-introduces-fordite-2-0-now-fully-customizable/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Arcanaut-fordite-banner.jpg",
-      "peek_preview": "Arcanaut, the Scandinavian indie known for their innovation with and unusual use of uncommon dial materials, has announced a major update to their signature watch. The Arc II Fordite, a personal favorite of mine and a w...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-10T19:00:39.000Z",
-      "score_quality": 73,
-      "score_notif": 41,
-      "cluster": "20260810-333b1140fabf",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: The Fears Brunswick 40.5 Jump Hour 'Ultimus'",
       "url": "https://www.hodinkee.com/articles/the-fears-brunswick-405-jump-hour-ultimus",
       "image": "https://hodinkee.imgix.net/uploads/images/8cfbff88-2654-4b93-9e46-6549a85aa554/fears-ultimus-jump-hour-oemphotos_0000_AndrewMorganWatchesxFearsBrunswick40.5JumpHourUltimus-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1839,20 +1853,6 @@
       "score_quality": 57,
       "score_notif": 32,
       "cluster": "20260807-bde2c06aa2e2",
-      "cluster_main": true
-    },
-    {
-      "title": "Beyond Watches: the best champagnes – our journal for July 2026",
-      "url": "https://deployant.com/beyond-watches-the-best-champagnes-our-journal-for-july-2026/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-watches-the-best-champagnes-our-journal-for-july-2026",
-      "image": "https://deployant.com/wp-content/uploads/2026/08/heidseick-1080x1920.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors July 2026 turned out to be a rather dry month for us. We not only drank less wines, but most were from the large houses’ entry level cuveés. Here are some of...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T13:30:00.000Z",
-      "score_quality": 18,
-      "score_notif": 2,
-      "cluster": "20260807-948eda381dad",
       "cluster_main": true
     }
   ]
