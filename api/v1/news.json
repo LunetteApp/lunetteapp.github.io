@@ -1,6 +1,6 @@
 {
-  "content_hash": "6f63c71a237000a96ec881cc94c5c849fdbdc23be84639baba0e2a4477ff9834",
-  "last_updated": "2026-08-14T08:46:56.764Z",
+  "content_hash": "209d222d217d530c382320c31f2ad894271df00f5095e718af8b64d2fb0e26d9",
+  "last_updated": "2026-08-14T09:46:56.322Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T05:00:42.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T09:00:42.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T08:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Top 5 Rolex Models From The 1990s",
+      "url": "https://www.fratellowatches.com/the-top-5-rolex-models-from-the-1990s/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Rolex-Explorer-II-16570-9.jpg",
+      "peek_preview": "Friday is here, which means it’s time for another list! This week, we follow up on a discussion we had on Fratello Talks two weeks ago. In that episode, Robert-Jan, Nacho, and I discussed the ultimate decade for watches...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T09:00:42.000Z",
+      "score_quality": 33,
+      "score_notif": 7,
+      "cluster": "20260814-1bce1e9ab698",
+      "cluster_main": true
+    },
     {
       "title": "Ferragosto al polso: le app che lavorano mentre noi riposiamo",
       "url": "https://giornaleorologi.it/2026/08/14/ferragosto-al-polso-le-app-che-lavorano-mentre-noi-riposiamo/",
@@ -1170,20 +1184,6 @@
       "cluster_main": true
     },
     {
-      "title": "Interview: A Glimpse Into The World Of Konstantin Chaykin",
-      "url": "https://www.fratellowatches.com/interview-konstantin-chaykin/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Konstantin-Chaykin-with-the-Joker-Selfie.jpg",
-      "peek_preview": "Konstantin Chaykin is a self-described watchmaker, inventor, and artist. In this interview (casually combating the English-Russian language barrier), Chaykin takes us on his journey from a maker of complex clocks to a m...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-11T07:00:14.000Z",
-      "score_quality": 78,
-      "score_notif": 20,
-      "cluster": "20260811-44360a4ebc89",
-      "cluster_main": true
-    },
-    {
       "title": "Hands On: Grand Seiko “Hisen” SBGZ011",
       "url": "https://watchesbysjx.com/2026/08/grand-seiko-hisen-sbgz011-review.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Grand-Seiko-Masterpiece-Collection-Hisen-SBGZ011-dial-300x200.jpg",
@@ -1572,8 +1572,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
