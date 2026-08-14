@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "templates": [
     {
       "id": "summer-coast",
@@ -17,7 +17,8 @@
       "alert_title": {},
       "alert_message": {},
       "pack_name": "SUMMER",
-      "sort_order": 10
+      "sort_order": 10,
+      "free": true
     },
     {
       "id": "summer-linen",
