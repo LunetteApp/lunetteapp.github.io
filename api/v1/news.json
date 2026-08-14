@@ -1,6 +1,6 @@
 {
-  "content_hash": "81328a4a9912b35de0a0062db7775513d928554674acaae3ebcec7a40b22b7b9",
-  "last_updated": "2026-08-14T15:47:43.971Z",
+  "content_hash": "f14175e04e7086847e59a081fa52d677c3e79037a54ce54da22791a357bbd213",
+  "last_updated": "2026-08-14T16:47:01.405Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T15:00:53.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T15:00:00.000Z"
     },
     {
@@ -78,16 +78,16 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
+      "estimated_articles_per_day": 1.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T07:01:14.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T15:51:36.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T16:30:19.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: IWC Big Pilot's Watch Perpetual Calendar ProSet 140 Years Mercedes-Benz—A New Chapter for the Perpetual Calendar",
+      "url": "https://www.watchcollectinglifestyle.com/home/iwc-big-pilots-watch-perpetual-proset-140-years-mercedes-benz",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786724505363-EG89TPPNG5QJODHJGZM3/IWC+Big+Pilot%27s+Watch+Perpetual+Calendar+ProSet+140+Years+Mercedes-Benz.jpg?format=1500w",
+      "peek_preview": "IWC has a long habit of dressing up corporate anniversaries as horological events, and ordinarily that's where my attention drifts elsewhere. This one is different, because tucked inside the Mercedes-Benz 140th-annivers...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T16:30:19.000Z",
+      "score_quality": 72,
+      "score_notif": 46,
+      "cluster": "20260813-6a29b4c58b60",
+      "cluster_main": false
+    },
     {
       "title": "Introducing – The New Kiwame Tokyo Yane",
       "url": "https://monochrome-watches.com/introducing-kiwame-tokyo-yane-japanese-watchmaking-miyota-6t27-specs-price-pics/",
@@ -690,8 +704,8 @@
       "published_at": "2026-08-13T04:23:36.000Z",
       "score_quality": 55,
       "score_notif": 52,
-      "cluster": "20260813-94df4f60e96e",
-      "cluster_main": false
+      "cluster": "20260813-9a4481be7ae0",
+      "cluster_main": true
     },
     {
       "title": "Fratello Talks: Can A Case Back Make Or Break A Watch",
@@ -1178,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The Watch Ho & Co. x Selten Yum Cha Edition",
@@ -1206,10 +1220,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T13:00:41.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5 : Bond, James Bond",
@@ -1628,8 +1642,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1839,20 +1853,6 @@
       "score_quality": 62,
       "score_notif": 36,
       "cluster": "20260807-733375839f27",
-      "cluster_main": true
-    },
-    {
-      "title": "Collecting 'Boomer Watches' in Pairs (w/ John Cote)",
-      "url": "https://www.unpolishedwatches.com/p/collecting-boomer-watches-in-pairs",
-      "image": "https://substackcdn.com/image/fetch/$s_!MApw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee5dc1e-197f-4c8a-a36d-45417ce87f2e_2048x1618.jpeg",
-      "peek_preview": "How watch collecting has changed over 30+ years with the collector and former NAWCC board member.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T12:13:10.000Z",
-      "score_quality": 50,
-      "score_notif": 12,
-      "cluster": "20260807-83ac58184087",
       "cluster_main": true
     }
   ]
