@@ -1,6 +1,6 @@
 {
-  "content_hash": "7e972f5ee5fdabb8144f010cf9f6ba640b9cb6f40908675d8e71e38ddad2cac7",
-  "last_updated": "2026-08-14T05:47:19.171Z",
+  "content_hash": "f8d5e31601b954b5beac93feff6bee2c01620c48be729fce92bc6f45233984de",
+  "last_updated": "2026-08-14T06:47:27.148Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T05:00:42.000Z"
     },
     {
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T05:08:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T05:32:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Bulgari Octo Finissimo PC Blue PVD Titanium : le calendrier perpétuel le plus fin du monde passe au bleu",
+      "url": "https://www.welovewatches.fr/bulgari-octo-finissimo-pc-blue-pvd-titanium-le-calendrier-perpetuel-le-plus-fin-du-monde-passe-au-bleu.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/07/bulgari-octo-finissimo-perpetual-calendar-blue-pvd-titanium-thinnest-perpetual-calendar-une.jpg",
+      "peek_preview": "Après le titane naturel, l \"'or carbone\" et l'or rose, la Bulgari Octo Finissimo Perpetual Calendar (PC pour les intimes) se pare pour 2026 d'une nouvelle exécution monochromatique en bleu profond. La référence 104262 e...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-08-14T05:32:00.000Z",
+      "score_quality": 68,
+      "score_notif": 44,
+      "cluster": "20260814-06824bffaa13",
+      "cluster_main": true
+    },
     {
       "title": "This Bezel Does It All: Introducing The Minerva The Unveiled Crownless",
       "url": "https://www.fratellowatches.com/this-bezel-does-it-all-introducing-the-minerva-the-unveiled-crownless/",
@@ -243,20 +257,6 @@
       "score_quality": 44,
       "score_notif": 22,
       "cluster": "20260813-a16e0d4678f9",
-      "cluster_main": true
-    },
-    {
-      "title": "FounderFest: The Baltic Heures du Monde “Horizon Line” is a worldtimer that takes the French brand into entirely new territory",
-      "url": "https://timeandtidewatches.com/founderfest-baltic-heures-du-monde-horizon-line-video/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/baltic-heures-du-monde-horizon-line-founderfest-featured-image.jpg",
-      "peek_preview": "Baltic’s Heures du Monde “Horizon Line” Time+Tide Studio Edition pairs a forged carbon dial with a worldtimer complication ready for FounderFest. The post FounderFest: The Baltic Heures du Monde “Horizon Line” is a worl...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-13T20:00:03.000Z",
-      "score_quality": 68,
-      "score_notif": 44,
-      "cluster": "20260813-e97b40e5d85e",
       "cluster_main": true
     },
     {
@@ -576,10 +576,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-13T00:00:42.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1530,8 +1530,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster": "20260808-902fb7aaf116",
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1839,21 +1839,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": true
-    },
-    {
-      "title": "Decoding The Master Chronometer: What Does METAS Certification Actually Mean?",
-      "url": "https://teddybaldassarre.com/blogs/watches/metas-certification-guide",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Ulysse-Nardin-marine-chronometer-2_4ae5a75b-bb6f-478a-94be-100b361b9e77.jpg?v=1690917985",
-      "peek_preview": "Whether you spend most of your time reading articles, contributing to forums, or watching videos on horology, you’ve likely noticed the sheer amount of abbreviations circulating the internet, so much so that we tend to...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-06T16:22:14.000Z",
-      "score_quality": 56,
-      "score_notif": 14,
-      "cluster": "20260806-e4d343ec1d56",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
