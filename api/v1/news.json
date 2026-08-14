@@ -1,6 +1,6 @@
 {
-  "content_hash": "1889410d111bd2354aeaebd5b99bcba1226040711170e79a079aed68406e152e",
-  "last_updated": "2026-08-14T00:46:54.411Z",
+  "content_hash": "48129c451eec83062d560d1acded8b12d823dfae479cba4af3bf4a640fdacbdd",
+  "last_updated": "2026-08-14T01:47:01.845Z",
   "premium": {
     "links": []
   },
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-13T04:23:36.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-14T01:00:39.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T00:00:26.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: Ferdinand Berthoud Chronometre FB 2TV",
+      "url": "https://watchesbysjx.com/2026/08/ferdinand-berthoud-chronometre-fb-2tv-review.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Ferdinand-Berthoud-3x2-centred-header-v2-1-300x200.jpg",
+      "peek_preview": "Now beginning its second decade under the leadership of Chopard Co-President Karl-Friedrich Scheufele, Ferdinand Berthoud (FB) has introduced the Chronomètre FB 2TV.1, the first model in the new Mesure du Temps 1787 col...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T01:00:39.000Z",
+      "score_quality": 84,
+      "score_notif": 24,
+      "cluster": "20260814-2624ea7c2c14",
+      "cluster_main": true
+    },
     {
       "title": "Studio Underd0g Brand Review: Fun Design And Serious Watchmaking Under $2,000",
       "url": "https://teddybaldassarre.com/blogs/watches/studio-underd0g-brand-review",
@@ -534,10 +548,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-13T00:00:42.000Z",
-      "score_quality": 76,
+      "score_quality": 78,
       "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1516,8 +1530,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster": "20260808-902fb7aaf116",
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1654,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "21 Of The Best Tachymeter Watches (And How They Work)",
@@ -1682,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-07T17:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260807-905f7b9de971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The echo/neutra Averau 42 Ceramic Sand Collection is built for the field, dressed for the dunes",
@@ -1825,7 +1839,7 @@
       "score_quality": 77,
       "score_notif": 63,
       "cluster": "20260806-40886553736c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Decoding The Master Chronometer: What Does METAS Certification Actually Mean?",
