@@ -1,6 +1,6 @@
 {
-  "content_hash": "5db9046ff4f9cb64a4fffbd89cf912f4a64ee0b6d4a7ee2e1c809606a8a61047",
-  "last_updated": "2026-08-15T13:47:09.239Z",
+  "content_hash": "63ab871a12451ba1b12c2b0eb0227504e1f7a57ccbfd969c9366b4eb4ef79d37",
+  "last_updated": "2026-08-15T14:46:33.529Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T19:00:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-15T14:00:09.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-15T08:35:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-15T14:00:25.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -50,7 +50,7 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.3,
+      "estimated_articles_per_day": 0.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-10T12:25:53.000Z"
     },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T13:30:00.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T13:22:42.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "The ABCs of Time – The History of Metal Bracelets for Wristwatches",
+      "url": "https://monochrome-watches.com/history-of-metal-bracelets-for-wristwatches-oyster-bonklip-milanese-jubilee-gay-freres-beads-of-rice-abcs-of-time/",
+      "image": "https://monochrome-watches.com/app/uploads/2025/05/Rolex-Perpetual-1908-Settimo-Bracelet-Yellow-gold-52508-review-8-600x237.jpg",
+      "peek_preview": "With few exceptions, metal bracelets are a 20th-century phenomenon, really surfacing in the 1920s as wristwatches became a cultural and fashion phenomenon. Three names are generally recognised as part of the rise of con...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-15T14:00:25.000Z",
+      "score_quality": 82,
+      "score_notif": 16,
+      "cluster": "20260815-8d7d5bfc321a",
+      "cluster_main": true
+    },
+    {
+      "title": "Watches, Stories, & Gear: Primetime Trailer, UNESCO World Heritage Sites, and Porsche 911s",
+      "url": "https://wornandwound.com/watches-stories-gear-primetime-trailer-unesco-world-heritage-sites-and-porsche-911s/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/louis-vuitton-takes-the-road-with-singer-thumb-900x643-1.jpg",
+      "peek_preview": "“Watches, Stories, and Gear” is a roundup of our favorite content, watch or otherwise, from around the internet. Here, we support other creators, explore interesting content that inspires us, and put a spotlight on caus...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-15T14:00:09.000Z",
+      "score_quality": 26,
+      "score_notif": 8,
+      "cluster": "20260815-3afdf5f6b840",
+      "cluster_main": true
+    },
     {
       "title": "MeisterSinger Unitas 1Z Edition – a new dial variation in enamel",
       "url": "https://deployant.com/meistersinger-unitas-1z-edition-a-fitting-tribute-to-its-origins/?utm_source=rss&utm_medium=rss&utm_campaign=meistersinger-unitas-1z-edition-a-fitting-tribute-to-its-origins",
@@ -366,10 +394,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-14T17:28:08.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -971,7 +999,7 @@
       "score_quality": 87,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1055,20 +1083,6 @@
       "score_quality": 76,
       "score_notif": 27,
       "cluster": "20260812-7d3de5c18525",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-on – Armin Strom’s Orbit in Midnight Purple Regalia",
-      "url": "https://monochrome-watches.com/hands-on-review-armin-strom-orbit-midnight-purple-regalia-independent-watchmaking-manufacture-specs-price-live-pics/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Armin-Strom-Orbit-Midnight-Purple-Review-Featured-B-600x237.jpg",
-      "peek_preview": "In the world of mainstream watchmaking, unconventional ideas rarely make it past the concept stage. But for an independent, inventive brand with a fully integrated manufacture like Armin Strom, the possibilities are far...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T16:00:33.000Z",
-      "score_quality": 83,
-      "score_notif": 30,
-      "cluster": "20260812-00572a7c71e4",
       "cluster_main": true
     },
     {
@@ -1360,20 +1374,6 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
-      "score_notif": 54,
-      "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
-    },
-    {
-      "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
-      "url": "https://wornandwound.com/selten-and-watch-ho-co-introduce-the-yum-cha-a-new-limited-edition-with-an-engraved-grand-feu-enamel-dial/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Selten-Yum-Cha-19.jpg",
-      "peek_preview": "Last year, Selten and Watch Ho & Co released the Jui, a limited run watch celebrating the community Watch Ho & Co has fostered in Hong Kong, and it kind of went viral. For a few days, it was basically the only watch you...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-11T13:00:41.000Z",
       "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
@@ -1754,8 +1754,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
