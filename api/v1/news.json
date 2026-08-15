@@ -1,6 +1,6 @@
 {
-  "content_hash": "bd211d90dde2f3befbeb0846fa37aeea401466e71ac0a015ecf0470d39900941",
-  "last_updated": "2026-08-15T12:46:56.679Z",
+  "content_hash": "5db9046ff4f9cb64a4fffbd89cf912f4a64ee0b6d4a7ee2e1c809606a8a61047",
+  "last_updated": "2026-08-15T13:47:09.239Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-15T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -79,15 +79,15 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T11:01:08.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T16:30:19.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-15T13:22:42.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "MeisterSinger Unitas 1Z Edition – a new dial variation in enamel",
+      "url": "https://deployant.com/meistersinger-unitas-1z-edition-a-fitting-tribute-to-its-origins/?utm_source=rss&utm_medium=rss&utm_campaign=meistersinger-unitas-1z-edition-a-fitting-tribute-to-its-origins",
+      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/MeisterSinger_ED-UNITAS-08E_Still_Landscape_low-res.jpg?fit=1200%2C900&ssl=1",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors One hand specialist MeisterSinger releases a variant to their Unitas 1Z Edition – now with a light blue enamel dial and decorated Unitas movement. This is the...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-15T13:30:00.000Z",
+      "score_quality": 71,
+      "score_notif": 28,
+      "cluster": "20260811-4962d94bcfe3",
+      "cluster_main": false
+    },
+    {
+      "title": "Weekend Reads: Breguet's Aiguille d'Or Winner, IWC's Perpetual Gets the Benz Treatment, and ALS Gold Flux",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-08-15",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-15T13:22:42.000Z",
+      "score_quality": 28,
+      "score_notif": 10,
+      "cluster": "20260815-124789cd21aa",
+      "cluster_main": true
+    },
     {
       "title": "Digging into the subtle, signifcant Grand Seiko Evolution 9 core lineup refresh",
       "url": "https://timeandtidewatches.com/grand-seiko-evolution-9-core-lineup-refresh-overview-video/",
@@ -341,7 +369,7 @@
       "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -940,10 +968,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-13T00:00:42.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1318,10 +1346,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The Watch Ho & Co. x Selten Yum Cha Edition",
@@ -1332,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1726,8 +1754,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster": "20260808-902fb7aaf116",
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1825,34 +1853,6 @@
       "score_quality": 52,
       "score_notif": 18,
       "cluster": "20260808-beb74747188d",
-      "cluster_main": true
-    },
-    {
-      "title": "The Oil-Filled Circuit Board Tool Art Watch: U-Boat U-65 TEK Review",
-      "url": "https://www.ablogtowatch.com/the-oil-filled-circuit-board-tool-art-watch-u-boat-u-65-tek-review/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/U-Boat-U-65-TEK-Oil-SS-Watch-1-768x346.jpg",
-      "peek_preview": "This U-Boat U-65 TEK SS is a really fun watch. It looks cool on the wrist, is visually playful, and is extremely eye-catching. How can it not be when the expansive, domed crystal is filled with mineral oil and appears t...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-08T07:01:10.000Z",
-      "score_quality": 68,
-      "score_notif": 16,
-      "cluster": "20260808-f5651617ded9",
-      "cluster_main": true
-    },
-    {
-      "title": "Seiko Celebrates Honda’s Quirky Bike with 5 Sports Motocompo",
-      "url": "https://watchesbysjx.com/2026/08/seiko-5-sports-motocompo-ref-hdb010.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Seiko-5-Sports-MOTOCOMPO-HDB010-feat-300x200.jpg",
-      "peek_preview": "Compact, affordable Japanese icons collide in the Seiko 5 Sports Motocompo Limited Edition ref. HDB010, a collaboration with Honda that celebrates a collectable and compact 1980s motorbike. It recreates the Motocompo’s...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T23:49:10.000Z",
-      "score_quality": 100,
-      "score_notif": 48,
-      "cluster": "20260807-e53d63f35867",
       "cluster_main": true
     }
   ]
