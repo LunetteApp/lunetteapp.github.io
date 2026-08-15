@@ -1,6 +1,6 @@
 {
-  "content_hash": "22a204c9ea3e1eb8dfddab464a6ea09d60a7c035cc085ee1cb0d9564276a93e6",
-  "last_updated": "2026-08-15T09:47:14.270Z",
+  "content_hash": "bd211d90dde2f3befbeb0846fa37aeea401466e71ac0a015ecf0470d39900941",
+  "last_updated": "2026-08-15T12:46:56.679Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T09:00:26.000Z"
     },
     {
@@ -79,13 +79,13 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T07:01:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-15T11:01:08.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T16:30:19.000Z"
     },
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T08:52:58.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Digging into the subtle, signifcant Grand Seiko Evolution 9 core lineup refresh",
+      "url": "https://timeandtidewatches.com/grand-seiko-evolution-9-core-lineup-refresh-overview-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Grand-Seiko-Evolution-9-2026-Core-Lineup-Refresh-51.jpg",
+      "peek_preview": "The new Grand Seiko SLGH029, SLGH031, SLGH033, & SLGH035, and SLGB007, SLGB009, SLGB011, SLGB013, & SLGB015 have subtle, significant updates. The post Digging into the subtle, signifcant Grand Seiko Evolution 9 core lin...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-15T11:01:08.000Z",
+      "score_quality": 61,
+      "score_notif": 43,
+      "cluster": "20260815-4b431e2d3da8",
+      "cluster_main": true
+    },
     {
       "title": "Reaching The Top With The Heavyweight HP Hercules In Polished Tantalum",
       "url": "https://www.fratellowatches.com/reaching-the-top-with-the-heavyweight-hp-hercules-in-polished-tantalum/",
@@ -324,10 +338,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-14T17:28:08.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -929,7 +943,7 @@
       "score_quality": 85,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1318,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1332,10 +1346,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T13:00:41.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5 : Bond, James Bond",
@@ -1839,20 +1853,6 @@
       "score_quality": 100,
       "score_notif": 48,
       "cluster": "20260807-e53d63f35867",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: UNIMATIC Modello Uno UT1-PD—A Toolwatch Built to Survive Pressure and Impact at a Budget",
-      "url": "https://www.watchcollectinglifestyle.com/home/unimatic-modello-uno-ut1-pd",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786136224827-P86ULFN8OA3EUIA3IUXA/UNIMATIC+Modello+Uno+UT1-PD.jpg?format=1500w",
-      "peek_preview": "Milan-based UNIMATIC has introduced the Modello Uno UT1-PD, a new dive toolwatch built around the brand's Modello Uno architecture and engineered to combine professional underwater performance with the impact resistance...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-07T21:09:58.000Z",
-      "score_quality": 100,
-      "score_notif": 47,
-      "cluster": "20260807-e0d59269cb99",
       "cluster_main": true
     }
   ]
