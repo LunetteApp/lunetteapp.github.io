@@ -1,6 +1,6 @@
 {
-  "content_hash": "5dbefb2f25b8caf77b75247028b5a5f7d0b9601bbac2174cf16c94a31f852b9b",
-  "last_updated": "2026-08-15T07:47:04.881Z",
+  "content_hash": "15f06c2ff9129befe3ec4d5ec9d50e12a099c6084d9f6c1b938e1037637a4489",
+  "last_updated": "2026-08-15T08:47:03.418Z",
   "premium": {
     "links": []
   },
@@ -22,15 +22,15 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T15:00:53.000Z"
+      "estimated_articles_per_day": 1.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-15T08:35:03.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T07:01:43.000Z"
     },
     {
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T07:30:00.000Z"
     },
     {
@@ -113,7 +113,7 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T08:00:00.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Petrolhead Corner – Singer and Louis Vuitton Go To Extremes With Two Bespoke Porsche 911s",
+      "url": "https://monochrome-watches.com/the-petrolhead-corner-porsche-911-reimagined-by-singer-vehicle-design-louis-vuitton-lv-01-classic-lv-02-classic-turbo-tambour/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Porsche-911-Reimagined-by-Singer-x-Louis-Vuitton-LV-01-Classic-LV-02-Classic-Turbo-Featured-600x237.jpg",
+      "peek_preview": "Collaborations between watch companies and other industries come in all shapes and sizes, and extend well beyond the usual realms of fashion and art. We’ve seen pretty much anything we’d say, but every now and then, one...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-15T08:35:03.000Z",
+      "score_quality": 35,
+      "score_notif": 7,
+      "cluster": "20260813-b455cefa8858",
+      "cluster_main": true
+    },
     {
       "title": "Communication 45, il worldtimer elegante firmato Andersen Genève",
       "url": "https://www.watchinsanity.it/andersen-geneve-communication-45-worldtimer/",
@@ -282,10 +296,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-14T17:28:08.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -313,7 +327,7 @@
       "score_quality": 79,
       "score_notif": 46,
       "cluster": "20260813-6a29b4c58b60",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Kiwame Tokyo Yane",
@@ -327,20 +341,6 @@
       "score_quality": 72,
       "score_notif": 43,
       "cluster": "20260814-075b64d2d054",
-      "cluster_main": true
-    },
-    {
-      "title": "Bring a Loupe: An Alpina-Gruen Techni-Quadron, A Universal Genève \"Eric Clapton,\" A Cartier \"Bebe Guillotine,\" And More",
-      "url": "https://www.hodinkee.com/articles/an-alpina-gruen-techni-quadron-a-universal-geneve-eric-clapton-ref-88110101-a-cartier-bebe-guillotin",
-      "image": "https://hodinkee.imgix.net/uploads/images/063bce34-454b-4694-8089-c6a4c3368d1c/AnAlpina-GruenTechni-QuadronAUniversalGeneveEricClaptonACartierBebeGuillotineAndMore.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T15:00:00.000Z",
-      "score_quality": 38,
-      "score_notif": 10,
-      "cluster": "20260814-80512fa59efa",
       "cluster_main": true
     },
     {
@@ -633,9 +633,9 @@
       "featured": false,
       "published_at": "2026-08-13T18:00:00.000Z",
       "score_quality": 34,
-      "score_notif": 16,
+      "score_notif": 7,
       "cluster": "20260813-b455cefa8858",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Breguet Classique Souscription 2025—The GPHG's Aiguille d'Or",
@@ -758,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-13T08:14:06.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 46,
       "cluster": "20260813-6a29b4c58b60",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The CIGA Design Hunter Vintage Watch Adds Golden Warmth To Its Futuristic Design",
@@ -830,8 +830,8 @@
       "published_at": "2026-08-13T04:23:36.000Z",
       "score_quality": 55,
       "score_notif": 52,
-      "cluster": "20260813-94df4f60e96e",
-      "cluster_main": false
+      "cluster": "20260813-9a4481be7ae0",
+      "cluster_main": true
     },
     {
       "title": "Fratello Talks: Can A Case Back Make Or Break A Watch",
@@ -901,7 +901,7 @@
       "score_quality": 83,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1083,20 +1083,6 @@
       "score_quality": 65,
       "score_notif": 36,
       "cluster": "20260812-5ff9ba1debff",
-      "cluster_main": true
-    },
-    {
-      "title": "Twelve on Time – PS Horology’s Peter Speake and his Personal Relationship with Time and Watches",
-      "url": "https://monochrome-watches.com/twelve-on-time-ps-horologys-peter-speake-and-his-personal-relationship-with-time-and-watches/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Twelve-on-Time-Peter-Speake-600x237.jpeg",
-      "peek_preview": "Twelve on Time is a conversation series that invites leading personalities from the watch industry to step beyond their work and speak more personally about their relationship with time, creativity, and craft. Through a...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T10:05:35.000Z",
-      "score_quality": 76,
-      "score_notif": 16,
-      "cluster": "20260812-dc1b4eafb360",
       "cluster_main": true
     },
     {
@@ -1318,10 +1304,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1332,10 +1318,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T13:00:41.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5 : Bond, James Bond",
@@ -1712,8 +1698,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
