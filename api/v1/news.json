@@ -1,6 +1,6 @@
 {
-  "content_hash": "d7545bf1e985a8449042fd62ba9192d2a5bc3294a9d31f5e826a710fd251e176",
-  "last_updated": "2026-08-15T03:46:57.513Z",
+  "content_hash": "4247011967c3ac67319bb9ebc6acc10675b195d2a62063d7df9d9b0adc377867",
+  "last_updated": "2026-08-15T05:46:55.025Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T13:30:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-15T05:00:48.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-14T05:32:00.000Z"
     },
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T03:00:04.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Tried And Tested: The CIGA Design Hunter Titanium Skeleton Automatic",
+      "url": "https://www.fratellowatches.com/tried-and-tested-the-ciga-design-hunter-titanium-skeleton-automatic/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/CIGA-Design-Hunter-Ti-2.jpg",
+      "peek_preview": "My first encounter with CIGA Design was with its Blue Planet model. In 2021, it won the Challenge Watch Prize at the Grand Prix d’Horlogerie de Genève (GPHG), which obviously gave it some proper traction. Although CIGA...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-15T05:00:48.000Z",
+      "score_quality": 82,
+      "score_notif": 20,
+      "cluster": "20260815-b32d980ee886",
+      "cluster_main": true
+    },
     {
       "title": "タグ・ホイヤーとチーム イクザワのコラボレーション「タグ・ホイヤー カレラ クロノグラフ × チーム イクザワ」が発表！",
       "url": "https://www.webchronos.net/news/168593/",
@@ -354,7 +368,7 @@
       "published_at": "2026-08-14T13:00:35.000Z",
       "score_quality": 78,
       "score_notif": 29,
-      "cluster": "20260812-994849b6f41e",
+      "cluster": "20260814-60434ac0b164",
       "cluster_main": true
     },
     {
@@ -1100,20 +1114,6 @@
       "cluster_main": true
     },
     {
-      "title": "Seiko Explores The Unique Art Of Bonsai In Its New Presage Classic HCC009J1",
-      "url": "https://www.fratellowatches.com/seiko-watches/seiko-explores-the-unique-art-of-bonsai-in-its-new-presage-classic-hcc009j1/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Seiko-HCC009J1-Presage-Classic-Series-Limited-Edition-13.jpg",
-      "peek_preview": "Although it’s the heart of the summer break, Seiko is definitely not taking any time off. We have been enjoying a steady stream of releases from the Japanese brand. At Fratello, we are in the lucky position to see some...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T05:00:14.000Z",
-      "score_quality": 77,
-      "score_notif": 29,
-      "cluster": "20260812-994849b6f41e",
-      "cluster_main": false
-    },
-    {
       "title": "ロンジンが2026年サマーセレクションとして「ロンジン コンクエスト」と「ロンジン プリマルナ」に新作を投入！",
       "url": "https://www.webchronos.net/news/168149/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/07/Longines_Conquest2026Summer-01.webp",
@@ -1290,10 +1290,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Selten and Watch Ho & Co. Introduce the Yum Cha, a New Limited Edition with an Engraved Grand Feu Enamel Dial",
@@ -1304,10 +1304,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T13:00:41.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5 : Bond, James Bond",
@@ -1684,8 +1684,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
