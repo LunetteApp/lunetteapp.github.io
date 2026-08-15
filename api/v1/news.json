@@ -1,6 +1,6 @@
 {
-  "content_hash": "b1361c580b6694d2711c13f5b4165f25f733c7f3130e69113e866e16eb101f7f",
-  "last_updated": "2026-08-14T23:45:57.614Z",
+  "content_hash": "dd8d174d6c20052f437805ffe2fd239f49a5df35e092063596fbe6f560eaaa00",
+  "last_updated": "2026-08-15T00:47:19.004Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T03:00:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-15T00:00:41.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "クロノスイス、ブランド初の天然石ダイアルを採用した「スモールセコンド サーペンティン」「スモールセコンド ジャスパー」を発表",
+      "url": "https://www.webchronos.net/news/169463/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/Chronoswiss_Small_Second_01.webp",
+      "peek_preview": "クロノスイスは「スモールセコンド サーペンティン」と「スモールセコンド ジャスパー」を発表した。今回の新作は、同社初となる天然石ダイアルを採用したモデルであり、天然素材ならではの個体ごとの表情の違いを楽しむことができる。 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-15T00:00:41.000Z",
+      "score_quality": 76,
+      "score_notif": 45,
+      "cluster": "20260815-b81aa66d0dd2",
+      "cluster_main": true
+    },
     {
       "title": "Review: the Sinn 544, a Tool Watch for Minimalists",
       "url": "https://wornandwound.com/review/review-the-sinn-544-a-tool-watch-for-minimalists/",
@@ -215,7 +229,7 @@
       "score_quality": 82,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -327,7 +341,7 @@
       "score_quality": 76,
       "score_notif": 29,
       "cluster": "20260812-994849b6f41e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Smaller watch, worse movement?",
@@ -828,10 +842,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-13T00:00:42.000Z",
-      "score_quality": 80,
+      "score_quality": 83,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-12T05:00:14.000Z",
-      "score_quality": 75,
+      "score_quality": 77,
       "score_notif": 29,
       "cluster": "20260812-994849b6f41e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ロンジンが2026年サマーセレクションとして「ロンジン コンクエスト」と「ロンジン プリマルナ」に新作を投入！",
@@ -1576,20 +1590,6 @@
       "cluster_main": true
     },
     {
-      "title": "グラスヒュッテ・オリジナルが「グラスヒュッテ腕時計100周年記念展」を開催。55点の歴史的タイムピースが展示",
-      "url": "https://www.webchronos.net/news/168574/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/glasshutte_100thanniversary.webp",
-      "peek_preview": "グラスヒュッテ・オリジナルが、グラスヒュッテにおける腕時計用ムーブメントの本格的な製造開始から100周年を記念し、「グラスヒュッテ腕時計100周年記念展」を東京・銀座で開催する。期間は2026年8月8日（土）から11日（ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-10T00:00:55.000Z",
-      "score_quality": 72,
-      "score_notif": 41,
-      "cluster": "20260810-b5ae4feaef09",
-      "cluster_main": true
-    },
-    {
       "title": "Bronze-Uhren 2026: Bei diesen 7 Modellen ist Patina erwünscht",
       "url": "https://www.uhrenkosmos.com/bronze-uhren-2026-7-uhren-mit-schoener-patina/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Bronze-Uhren-2026-neue-Modelle-von-kleinen-und-grossen-Marken.jpg",
@@ -1684,8 +1684,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
