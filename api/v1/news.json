@@ -1,6 +1,6 @@
 {
-  "content_hash": "63ab871a12451ba1b12c2b0eb0227504e1f7a57ccbfd969c9366b4eb4ef79d37",
-  "last_updated": "2026-08-15T14:46:33.529Z",
+  "content_hash": "c5850e8ecccdbc2b759a6c4e00df073957915144ce155a5e8761c7baf7471d9e",
+  "last_updated": "2026-08-15T15:46:56.606Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T14:00:09.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T14:00:25.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-15T11:01:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-15T15:31:47.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New releases from Seiko, IWC, Selten and more",
+      "url": "https://timeandtidewatches.com/seiko-iwc-selten-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/seiko-web.jpg",
+      "peek_preview": "During the past week, we’ve seen lots of brands looking back into the past and tradition for inspiration. Seiko looks into traditional Bonsais while IWC celebrates its historical partnership with Mercedes-Benz. Jackie H...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-15T15:31:47.000Z",
+      "score_quality": 28,
+      "score_notif": 18,
+      "cluster": "20260815-d60fa90b2d25",
+      "cluster_main": true
+    },
     {
       "title": "The ABCs of Time – The History of Metal Bracelets for Wristwatches",
       "url": "https://monochrome-watches.com/history-of-metal-bracelets-for-wristwatches-oyster-bonklip-milanese-jubilee-gay-freres-beads-of-rice-abcs-of-time/",
@@ -1839,20 +1853,6 @@
       "score_quality": 56,
       "score_notif": 22,
       "cluster": "20260808-87d5c72b5530",
-      "cluster_main": true
-    },
-    {
-      "title": "Why does Longines still sponsor the Commonwealth Games?",
-      "url": "https://timeandtidewatches.com/longines-commonwealth-games-in-depth/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/07/longines-commonwealth-games-2026-glasgow-1.jpg",
-      "peek_preview": "With a relationship stretching back 64 years, Longines and the Commonwealth Games have a storied history worth telling. The post Why does Longines still sponsor the Commonwealth Games? appeared first on Time+Tide Watche...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-08T08:00:45.000Z",
-      "score_quality": 52,
-      "score_notif": 18,
-      "cluster": "20260808-beb74747188d",
       "cluster_main": true
     }
   ]
