@@ -1,6 +1,6 @@
 {
-  "content_hash": "76265b1a7a1a0a3051ba3fca3a9e234191443d91da29a5e744d1d9db0981c691",
-  "last_updated": "2026-08-16T13:46:56.491Z",
+  "content_hash": "cb7fae7b478638d9e6a114a6c2b460afed009103a34b5d5d2a6f993244a40a4f",
+  "last_updated": "2026-08-16T15:47:13.099Z",
   "premium": {
     "links": []
   },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-16T13:30:00.000Z"
     },
     {
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T13:22:42.000Z"
     },
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-12T20:04:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-16T15:12:14.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "MoonSwatch Solar Eclipse: Swatch ha venduto un orologio per sole 24 ore. E funziona ancora",
+      "url": "https://www.orologidiclasse.com/moonswatch-solar-eclipse-24-ore-spagna/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/08/moonswatch-solar-eclipse-cover.jpg",
+      "peek_preview": "Come ben saprai, il 12 agosto 2026 si è verificata un’eclissi totale di Sole, visibile anche dall’Italia seppure solo parzialmente. Nello stesso giorno Swatch ha fatto qualcosa che, raccontato così, sembra quasi uno sch...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-16T15:12:14.000Z",
+      "score_quality": 50,
+      "score_notif": 68,
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
+    },
     {
       "title": "Quiet Luxury: Six understated and excellent timepieces to add into your watch collection",
       "url": "https://deployant.com/quiet-luxury-six-understated-and-excellent-timepieces-to-add-into-your-watch-collection/?utm_source=rss&utm_medium=rss&utm_campaign=quiet-luxury-six-understated-and-excellent-timepieces-to-add-into-your-watch-collection",
@@ -495,7 +509,7 @@
       "score_quality": 92,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -1080,10 +1094,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-13T00:00:42.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1839,20 +1853,6 @@
       "score_quality": 80,
       "score_notif": 38,
       "cluster": "20260808-91fb50013b11",
-      "cluster_main": true
-    },
-    {
-      "title": "Weekend Reads: The Anatomy of Watch Hands, a Rare Collector's Interview, and the Swiss Exports Tell Their Own Story",
-      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-08-08",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
-      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-08T13:13:59.000Z",
-      "score_quality": 33,
-      "score_notif": 8,
-      "cluster": "20260808-44d592bf2e20",
       "cluster_main": true
     }
   ]
