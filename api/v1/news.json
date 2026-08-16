@@ -1,6 +1,6 @@
 {
-  "content_hash": "dccc5508208b6c9cae986e38b0027a28e6ec4d807cea36a197b5dafb1092e48e",
-  "last_updated": "2026-08-16T05:46:40.073Z",
+  "content_hash": "51953ad11eb20ae1364d7230cba89173ddea275b5da3bb766de735c42f3bce3a",
+  "last_updated": "2026-08-16T07:46:39.734Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-16T05:00:26.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-15T07:01:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-16T07:01:40.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Watch Review: Nectere Eclipse Packs ‘Ultra-Thin’ Seagull Manual Movement",
+      "url": "https://www.ablogtowatch.com/watch-review-nectere-eclipse-packs-ultra-thin-seagull-manual-movement/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Nectere-Eclipse-Design-Dress-Watch-featured-768x346.jpg",
+      "peek_preview": "Gone are the days when one had to scour online vintage watch listings to quench a thirst for eclectic, era-specific designs. Instead, we are looking at a thriving and beautifully diverse watch industry (fueled as much b...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-16T07:01:40.000Z",
+      "score_quality": 68,
+      "score_notif": 18,
+      "cluster": "20260816-2159c87a293c",
+      "cluster_main": true
+    },
     {
       "title": "Sunday Morning Showdown: Citizen Tsuyosa 37 Vs. Casio Edifice EFK-200",
       "url": "https://www.fratellowatches.com/sunday-morning-showdown-citizen-tsuyosa-37-vs-casio-edifice-efk-200/",
@@ -453,7 +467,7 @@
       "score_quality": 90,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -478,10 +492,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-14T16:30:19.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 46,
       "cluster": "20260813-6a29b4c58b60",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Kiwame Tokyo Yane",
@@ -915,7 +929,7 @@
       "score_quality": 80,
       "score_notif": 46,
       "cluster": "20260813-6a29b4c58b60",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The CIGA Design Hunter Vintage Watch Adds Golden Warmth To Its Futuristic Design",
@@ -1052,10 +1066,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-13T00:00:42.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1402,10 +1416,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The Watch Ho & Co. x Selten Yum Cha Edition",
@@ -1416,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5 : Bond, James Bond",
@@ -1839,20 +1853,6 @@
       "score_quality": 33,
       "score_notif": 8,
       "cluster": "20260808-44d592bf2e20",
-      "cluster_main": true
-    },
-    {
-      "title": "Citizen Eco-Drive history explained: 50 years of light-powered watch innovation",
-      "url": "https://timeandtidewatches.com/citizen-eco-drive-history-explained-50-years-of-light-powered-watch-innovation-in-depth/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/citizen-50-years-of-eco-drive-history-explained-1.jpg",
-      "peek_preview": "Solar watches have surged in recent years, but one brand was long ahead of the curve, debuting the technology 50 years ago: Citizen. The post Citizen Eco-Drive history explained: 50 years of light-powered watch innovati...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-08T11:01:33.000Z",
-      "score_quality": 72,
-      "score_notif": 20,
-      "cluster": "20260808-fd39b0c9a8f8",
       "cluster_main": true
     }
   ]
