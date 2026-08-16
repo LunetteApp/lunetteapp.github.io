@@ -1,6 +1,6 @@
 {
-  "content_hash": "a990f841b13094a3bfa2d2dbc5cffa0d7e26cbfb23b1f29e6d5ce69209c92770",
-  "last_updated": "2026-08-16T03:46:51.766Z",
+  "content_hash": "dccc5508208b6c9cae986e38b0027a28e6ec4d807cea36a197b5dafb1092e48e",
+  "last_updated": "2026-08-16T05:46:40.073Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-15T09:00:26.000Z"
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-16T05:00:26.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-16T03:00:37.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Sunday Morning Showdown: Citizen Tsuyosa 37 Vs. Casio Edifice EFK-200",
+      "url": "https://www.fratellowatches.com/sunday-morning-showdown-citizen-tsuyosa-37-vs-casio-edifice-efk-200/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Casio_EFK-200_VS_Citizen-Tsuyosa-HEADER5.jpg",
+      "peek_preview": "With the summer break still in full swing, it’s time for another Sunday Morning Showdown. In today’s match-up, two watches that could have easily made for your perfect affordable summer watch. But that would also be sel...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-16T05:00:26.000Z",
+      "score_quality": 52,
+      "score_notif": 12,
+      "cluster": "20260816-a31025012a92",
+      "cluster_main": true
+    },
     {
       "title": "ブルガリが透け感のある高級レースをモチーフとした「エクレティカ」のカプセルコレクションを発表",
       "url": "https://www.webchronos.net/news/169632/",
@@ -436,10 +450,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-14T17:28:08.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -1041,7 +1055,7 @@
       "score_quality": 89,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1195,20 +1209,6 @@
       "score_quality": 58,
       "score_notif": 18,
       "cluster": "20260812-4f1c57eb0d2a",
-      "cluster_main": true
-    },
-    {
-      "title": "Budget-Friendly With Vintage Charm: The Updated Wolbrook Skindiver 38 Automatic",
-      "url": "https://www.fratellowatches.com/budget-friendly-with-vintage-charm-the-updated-wolbrook-skindiver-38-automatic/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Wolbrook-Skindiver-38-10.jpg",
-      "peek_preview": "It’s always nice when you run into an old acquaintance. A few years ago, I spent quite a bit of time on the Wolbrook website, as I really liked the brand’s Tropic-style rubber straps. To me, they were the perfect combin...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T11:00:33.000Z",
-      "score_quality": 65,
-      "score_notif": 36,
-      "cluster": "20260812-5ff9ba1debff",
       "cluster_main": true
     },
     {
@@ -1402,10 +1402,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Watch Ho & Co. x Selten Yum Cha Edition",
@@ -1416,10 +1416,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5 : Bond, James Bond",
@@ -1782,8 +1782,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
