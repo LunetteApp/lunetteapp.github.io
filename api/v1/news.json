@@ -1,6 +1,6 @@
 {
-  "content_hash": "4699c8f564c4d582585f6189a91e03b297e5e4f4f48d5451da9e17e824c97a82",
-  "last_updated": "2026-08-16T12:46:44.259Z",
+  "content_hash": "76265b1a7a1a0a3051ba3fca3a9e234191443d91da29a5e744d1d9db0981c691",
+  "last_updated": "2026-08-16T13:46:56.491Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-15T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-16T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Quiet Luxury: Six understated and excellent timepieces to add into your watch collection",
+      "url": "https://deployant.com/quiet-luxury-six-understated-and-excellent-timepieces-to-add-into-your-watch-collection/?utm_source=rss&utm_medium=rss&utm_campaign=quiet-luxury-six-understated-and-excellent-timepieces-to-add-into-your-watch-collection",
+      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2018/06/rexhep-dial.jpg?fit=1024%2C784&ssl=1",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The concept of quiet luxury has been an interesting one. It may be counterintuitive at first – how can something that is expensive appear to be low-key and un...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-16T13:30:00.000Z",
+      "score_quality": 32,
+      "score_notif": 6,
+      "cluster": "20260816-355ff77ce6ac",
+      "cluster_main": true
+    },
     {
       "title": "Looking Through The Blinds: A Peek At The Patek Philippe Cubitus Perpetual Calendar Skeleton Ref. 5840P-001",
       "url": "https://www.fratellowatches.com/a-peek-at-the-patek-philippe-cubitus-perpetual-calendar-skeleton/",
@@ -478,10 +492,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-14T17:28:08.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -998,7 +1012,7 @@
       "published_at": "2026-08-13T05:00:40.000Z",
       "score_quality": 78,
       "score_notif": 52,
-      "cluster": "20260813-9a4481be7ae0",
+      "cluster": "20260813-48f161fc0663",
       "cluster_main": true
     },
     {
@@ -1013,7 +1027,7 @@
       "score_quality": 55,
       "score_notif": 52,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fratello Talks: Can A Case Back Make Or Break A Watch",
@@ -1069,7 +1083,7 @@
       "score_quality": 91,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1782,8 +1796,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1839,20 +1853,6 @@
       "score_quality": 33,
       "score_notif": 8,
       "cluster": "20260808-44d592bf2e20",
-      "cluster_main": true
-    },
-    {
-      "title": "Citizen Eco-Drive history explained: 50 years of light-powered watch innovation",
-      "url": "https://timeandtidewatches.com/citizen-eco-drive-history-explained-50-years-of-light-powered-watch-innovation-in-depth/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/citizen-50-years-of-eco-drive-history-explained-1.jpg",
-      "peek_preview": "Solar watches have surged in recent years, but one brand was long ahead of the curve, debuting the technology 50 years ago: Citizen. The post Citizen Eco-Drive history explained: 50 years of light-powered watch innovati...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-08T11:01:33.000Z",
-      "score_quality": 74,
-      "score_notif": 14,
-      "cluster": "20260808-fd39b0c9a8f8",
       "cluster_main": true
     }
   ]
