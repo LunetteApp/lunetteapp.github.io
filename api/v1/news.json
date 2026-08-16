@@ -1,6 +1,6 @@
 {
-  "content_hash": "934a2f2beb91a6bf22d0535c438eb5dd6d5a801f3de02d74c7e650a9e642a300",
-  "last_updated": "2026-08-16T09:47:14.711Z",
+  "content_hash": "29da43bfbb900c4d087af489b6194664fe9c6f211db466e7af7f1e0cfdb62cba",
+  "last_updated": "2026-08-16T10:46:45.750Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-16T09:00:03.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-16T09:35:09.000Z"
     },
     {
@@ -1782,8 +1782,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster": "20260808-902fb7aaf116",
+      "cluster_main": true
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
@@ -1839,6 +1839,20 @@
       "score_quality": 33,
       "score_notif": 8,
       "cluster": "20260808-44d592bf2e20",
+      "cluster_main": true
+    },
+    {
+      "title": "The Oil-Filled Circuit Board Tool Art Watch: U-Boat U-65 TEK Review",
+      "url": "https://www.ablogtowatch.com/the-oil-filled-circuit-board-tool-art-watch-u-boat-u-65-tek-review/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/U-Boat-U-65-TEK-Oil-SS-Watch-1-768x346.jpg",
+      "peek_preview": "This U-Boat U-65 TEK SS is a really fun watch. It looks cool on the wrist, is visually playful, and is extremely eye-catching. How can it not be when the expansive, domed crystal is filled with mineral oil and appears t...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-08T07:01:10.000Z",
+      "score_quality": 66,
+      "score_notif": 15,
+      "cluster": "20260808-f5651617ded9",
       "cluster_main": true
     }
   ]
