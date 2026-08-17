@@ -1,6 +1,6 @@
 {
-  "content_hash": "4f45da69500e351c1e76dc7fdebc97d7747b07e612b848ec1b90f20fbfaf1368",
-  "last_updated": "2026-08-17T00:47:33.680Z",
+  "content_hash": "dc80052e600e05cdac4094f8eba58fde6bed73de5a5cc1d695429149a07e8f9b",
+  "last_updated": "2026-08-17T01:46:57.403Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-14T17:28:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-17T01:00:23.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-17T00:00:23.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Complicated Collectors: J. B. Champion Jr.",
+      "url": "https://watchesbysjx.com/2026/08/jb-champion-collector-profile.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/0-SJX-complicated-Collectors-J-B-Champion-cover-300x200.jpg",
+      "peek_preview": "On October 25, 1967, Joe Ben “J. B.” Champion Jr. sat silently through the murder trial of a client named E. K. Bearden. It was the second time the prominent Texas defence attorney had conducted himself in this fashion...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-17T01:00:23.000Z",
+      "score_quality": 78,
+      "score_notif": 12,
+      "cluster": "20260817-534bbd5bf318",
+      "cluster_main": true
+    },
     {
       "title": "日本に上陸を果たしたダイバーズウォッチブランドのドクサがISHIDA新宿で販売を開始",
       "url": "https://www.webchronos.net/news/169475/",
@@ -562,10 +576,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-14T17:28:08.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -1082,7 +1096,7 @@
       "published_at": "2026-08-13T05:00:40.000Z",
       "score_quality": 78,
       "score_notif": 52,
-      "cluster": "20260813-48f161fc0663",
+      "cluster": "20260813-9a4481be7ae0",
       "cluster_main": true
     },
     {
@@ -1097,7 +1111,7 @@
       "score_quality": 55,
       "score_notif": 52,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ジェラルド・チャールズ「マスターリンク」より、天然石をダイアルに用いた新作3種が登場",
@@ -1139,7 +1153,7 @@
       "score_quality": 95,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1840,20 +1854,6 @@
       "score_notif": 68,
       "cluster": "20260811-67344ac4b454",
       "cluster_main": false
-    },
-    {
-      "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
-      "url": "https://www.uhrenkosmos.com/regulierung-von-uhren-reglage-feinregulierung/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2021/09/Ruecker-versus-Masselot-C-Uhrenkosmos.png",
-      "peek_preview": "Nicht zu Unrecht wird das Regulierorgan der Uhr da und dort mit dem menschlichen Herzen verglichen. Die rhythmischen Schwingungen der Unruh samt ihrer Spiralfeder zerteilen die Zeit in messbare Abschnitte. Die möglichst...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-08T16:38:25.000Z",
-      "score_quality": 60,
-      "score_notif": 12,
-      "cluster": "20260808-40a3d213c791",
-      "cluster_main": true
     }
   ]
 }
