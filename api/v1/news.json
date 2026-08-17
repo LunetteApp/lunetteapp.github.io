@@ -1,6 +1,6 @@
 {
-  "content_hash": "c60fc6c4ecb7049f3ac4023b2b2243dfee13ad01f4e5036a3e380e5e852baa0e",
-  "last_updated": "2026-08-16T22:47:02.388Z",
+  "content_hash": "4f45da69500e351c1e76dc7fdebc97d7747b07e612b848ec1b90f20fbfaf1368",
+  "last_updated": "2026-08-17T00:47:33.680Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-16T22:01:56.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-16T03:00:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-17T00:00:23.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "日本に上陸を果たしたダイバーズウォッチブランドのドクサがISHIDA新宿で販売を開始",
+      "url": "https://www.webchronos.net/news/169475/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/DOXA_SUB_01.webp",
+      "peek_preview": "日本本格上陸を果たしたドクサが、ISHIDA新宿での販売をスタートする。ダイバーズウォッチの歴史を紡いできた同社のコレクションを、東京・新宿の名店で味わうことが可能となる。 話題のドクサの世界観を、実機とともに味わおう […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-17T00:00:23.000Z",
+      "score_quality": 45,
+      "score_notif": 27,
+      "cluster": "20260817-af66b1dea5d5",
+      "cluster_main": true
+    },
     {
       "title": "The Citizen Series 8 880 GMT Turns You Into a Local, Twice Over",
       "url": "https://www.fratellowatches.com/the-citizen-series-8-880-gmt-turns-you-into-a-local-twice-over/",
@@ -551,7 +565,7 @@
       "score_quality": 94,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -1068,7 +1082,7 @@
       "published_at": "2026-08-13T05:00:40.000Z",
       "score_quality": 78,
       "score_notif": 52,
-      "cluster": "20260813-9a4481be7ae0",
+      "cluster": "20260813-48f161fc0663",
       "cluster_main": true
     },
     {
@@ -1083,7 +1097,7 @@
       "score_quality": 55,
       "score_notif": 52,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ジェラルド・チャールズ「マスターリンク」より、天然石をダイアルに用いた新作3種が登場",
@@ -1122,10 +1136,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-13T00:00:42.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
@@ -1321,20 +1335,6 @@
       "score_quality": 84,
       "score_notif": 42,
       "cluster": "20260812-96b2c34c3094",
-      "cluster_main": true
-    },
-    {
-      "title": "ルミノックスが世界限定775本の「Navy SEAL 3500 “SEMPER-FORTIS”」を発売！",
-      "url": "https://www.webchronos.net/news/168601/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/Luminox_NavySEAL3500SEMPERFORTIS-01.webp",
-      "peek_preview": "ルミノックスから新作「Navy SEAL 3500 “SEMPER-FORTIS”」が発表された。本作は米海軍に敬意を表した数量限定モデルであり、ダイアルの8時位置から11時位置にかけて、米海軍の精神を象徴する言葉が2カ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-12T00:00:04.000Z",
-      "score_quality": 63,
-      "score_notif": 27,
-      "cluster": "20260812-f3ccde522a7d",
       "cluster_main": true
     },
     {
@@ -1838,8 +1838,8 @@
       "published_at": "2026-08-08T21:14:59.000Z",
       "score_quality": 33,
       "score_notif": 68,
-      "cluster": "20260808-902fb7aaf116",
-      "cluster_main": true
+      "cluster": "20260811-67344ac4b454",
+      "cluster_main": false
     },
     {
       "title": "Regulierung von Uhren: So funktionieren die Formen der Reglage",
