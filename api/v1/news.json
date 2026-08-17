@@ -1,6 +1,6 @@
 {
-  "content_hash": "dc80052e600e05cdac4094f8eba58fde6bed73de5a5cc1d695429149a07e8f9b",
-  "last_updated": "2026-08-17T01:46:57.403Z",
+  "content_hash": "2a4ce62ffa8da8155a670bb052f329c93077462b803027590c62b7dce49dd170",
+  "last_updated": "2026-08-17T03:47:36.516Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-17T01:00:23.000Z"
     },
     {
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-17T00:00:23.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-17T03:00:23.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "シチズン「クロスシー」より、ブランド誕生30周年を記念した「daichi collection」限定モデルが登場",
+      "url": "https://www.webchronos.net/news/169708/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/XC_daichi_1.webp",
+      "peek_preview": "シチズンは、レディースウォッチブランド「シチズン クロスシー」の誕生30周年を記念し、「daichi collection（ダイチ コレクション）」の限定モデルを発表した。「Morning Light」をテーマに、朝の情 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-17T03:00:23.000Z",
+      "score_quality": 61,
+      "score_notif": 24,
+      "cluster": "20260817-4a090db1290a",
+      "cluster_main": true
+    },
     {
       "title": "Complicated Collectors: J. B. Champion Jr.",
       "url": "https://watchesbysjx.com/2026/08/jb-champion-collector-profile.html",
@@ -1324,20 +1338,6 @@
       "cluster_main": true
     },
     {
-      "title": "ロンジンが2026年サマーセレクションとして「ロンジン コンクエスト」と「ロンジン プリマルナ」に新作を投入！",
-      "url": "https://www.webchronos.net/news/168149/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/07/Longines_Conquest2026Summer-01.webp",
-      "peek_preview": "ロンジンが2026年サマーセレクションとして、「ロンジン コンクエスト」と「ロンジン プリマルナ」の新作モデルを発表した。コンクエストでは多彩なサイズとダイアルカラーのクォーツモデル、ロンジン プリマルナでは直径30mm […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-12T03:00:37.000Z",
-      "score_quality": 49,
-      "score_notif": 41,
-      "cluster": "20260812-c350f8ff9840",
-      "cluster_main": true
-    },
-    {
       "title": "Hands On: Greubel Forsey Balancier 3 Titanium",
       "url": "https://watchesbysjx.com/2026/08/greubel-forsey-balancier-3-titanium-review.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Greubel-Forsey-Balancier-3-3x2-centred-header-300x200.jpg",
@@ -1472,10 +1472,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Watch Ho & Co. x Selten Yum Cha Edition",
@@ -1486,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5 : Bond, James Bond",
