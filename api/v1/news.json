@@ -1,6 +1,6 @@
 {
-  "content_hash": "3542369d4147aa7eb8e8e72e549cd43183d3861fde99a20422422d73f68b9c25",
-  "last_updated": "2026-08-17T09:47:42.518Z",
+  "content_hash": "12a7934b3f3c98e2bb5872bee7b24b9c00d6726ae623a7c095c6334f0c977d34",
+  "last_updated": "2026-08-17T11:46:45.538Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-17T09:00:25.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-17T07:00:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-17T10:05:12.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Twelve on Time – A. Lange & Söhne’s Wilhelm Schmid and his Personal Relationship with Time and Watches",
+      "url": "https://monochrome-watches.com/a-lange-sohnes-wilhelm-schmid-and-his-personal-relationship-with-time-and-watches/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/A.-Lange-Sohne-Wilhelm-Schmid-CEO-600x237.jpg",
+      "peek_preview": "Twelve on Time is a conversation series that invites leading personalities from the watch industry to step beyond their work and speak more personally about their relationship with time, creativity, and craft. Through a...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-17T10:05:12.000Z",
+      "score_quality": 82,
+      "score_notif": 22,
+      "cluster": "20260817-2ba79f8c29f8",
+      "cluster_main": true
+    },
+    {
       "title": "The Quiet Case For Neo-Vintage Jaeger-LeCoultre",
       "url": "https://www.fratellowatches.com/the-quiet-case-for-neo-vintage-jaeger-lecoultre/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/07/Henry-JLC-reverso-jaeger-8.jpg",
@@ -285,7 +299,7 @@
       "score_quality": 84,
       "score_notif": 7,
       "cluster": "20260813-b455cefa8858",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "シチズン「クロスシー」より、ブランド誕生30周年を記念した「daichi collection」限定モデルが登場",
@@ -590,10 +604,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-15T08:35:03.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 7,
       "cluster": "20260813-b455cefa8858",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Communication 45, il worldtimer elegante firmato Andersen Genève",
@@ -702,10 +716,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-14T17:28:08.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -1100,20 +1114,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – The New And Very Vintage Nivada Grenchen Autochron Automatic Orange",
-      "url": "https://monochrome-watches.com/introducing-nivada-grenchen-autochron-automatic-orange-valjoux-7750-specs-price-pics/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Nivada-Grenchen-Autochron-Automatic-Orange-1-600x237.jpg",
-      "peek_preview": "Some brands flourish in the field of heritage watchmaking, at least for inspiration. Remakes, re-editions, re-designs and whatnot all rely on successful designs of the past. Nivada Grenchen is one of those brands, bring...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-13T10:05:22.000Z",
-      "score_quality": 78,
-      "score_notif": 44,
-      "cluster": "20260813-638f907840fa",
-      "cluster_main": true
-    },
-    {
       "title": "Minerva: Warum die Emanzipation der traditionsreichen Manufaktur aus Villeret zur richtigen Zeit kommt",
       "url": "https://www.uhrenkosmos.com/minerva-unveiled-comeback-manufaktur-villeret/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Minerva-Unveiled-Kollektion-2026.jpg",
@@ -1223,7 +1223,7 @@
       "score_quality": 97,
       "score_notif": 64,
       "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
