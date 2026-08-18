@@ -1,6 +1,6 @@
 {
-  "content_hash": "e579b00716bf27c62ee5f77f7efccce19aabdd56b784a6aa015e165c9e8ab712",
-  "last_updated": "2026-08-18T09:46:51.475Z",
+  "content_hash": "b98a98d3725d3fdf6b1505edbe0c4873c7f9b916e040a9b2cfbb3bac06edb117",
+  "last_updated": "2026-08-18T13:47:34.919Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-18T09:00:52.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-18T07:00:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-18T10:00:00.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Just Because – Berneron Quietly Reveals its next Chapter, The Mirage Miroir",
+      "url": "https://monochrome-watches.com/berneron-mirage-miroir-inverted-movement-revealed/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/berneron-Mirage-Miroir-inverted-movement-2-600x237.jpg",
+      "peek_preview": "Since founding his independent brand in 2022, Sylvain Berneron has built a reputation around a distinctive approach to form, mechanics and scarcity. His experience on the creative side of major organisations clearly sha...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-18T10:00:00.000Z",
+      "score_quality": 76,
+      "score_notif": 47,
+      "cluster": "20260818-12ae5650b14b",
+      "cluster_main": true
+    },
     {
       "title": "Buying A Watch Tool Kit And Fitting A Sapphire Case Back To A King Seiko 44-9990",
       "url": "https://www.fratellowatches.com/first-watch-tool-kit-sapphire-case-back-king-seiko-44-9990/",
@@ -803,7 +817,7 @@
       "score_quality": 71,
       "score_notif": 28,
       "cluster": "20260811-4962d94bcfe3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weekend Reads: Breguet's Aiguille d'Or Winner, IWC's Perpetual Gets the Benz Treatment, and ALS Gold Flux",
@@ -1156,20 +1170,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The MeisterSinger Edition Unitas 1Z Blue",
-      "url": "https://monochrome-watches.com/introducing-meistesinger-edition-unitas-1z-blue-grand-feu-enamel-dial-limited-edition-specs-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/MeisterSinger-Edition-Unitas-1Z-Blue-Featured-600x237.jpg",
-      "peek_preview": "For 25 years, MeisterSinger’s signature single-hand watches encouraged a more relaxed perception of time, focusing on the broader flow of the day rather than its smallest divisions. Earlier this year, the German brand p...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T07:00:57.000Z",
-      "score_quality": 78,
-      "score_notif": 28,
-      "cluster": "20260811-4962d94bcfe3",
-      "cluster_main": true
-    },
-    {
       "title": "Bulgari Octo Finissimo PC Blue PVD Titanium : le calendrier perpétuel le plus fin du monde passe au bleu",
       "url": "https://www.welovewatches.fr/bulgari-octo-finissimo-pc-blue-pvd-titanium-le-calendrier-perpetuel-le-plus-fin-du-monde-passe-au-bleu.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/07/bulgari-octo-finissimo-perpetual-calendar-blue-pvd-titanium-thinnest-perpetual-calendar-une.jpg",
@@ -1475,7 +1475,7 @@
       "score_quality": 98,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Jaquet Droz Rolling Stones Automaton 'The Studio'—A Unique Piece Built Around Blue & Lonesome",
@@ -1738,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-10T21:06:17.000Z",
-      "score_quality": 95,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Spider Daytona—A Rolex Rebuilt Around Four Kilos of Arizona Turquoise",
