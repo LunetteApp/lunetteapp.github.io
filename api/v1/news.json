@@ -1,6 +1,6 @@
 {
-  "content_hash": "b98a98d3725d3fdf6b1505edbe0c4873c7f9b916e040a9b2cfbb3bac06edb117",
-  "last_updated": "2026-08-18T13:47:34.919Z",
+  "content_hash": "aceb285116a7c7c27c20321443ea1be6d4ed7a5b7e45642120fd0513c0a3c39b",
+  "last_updated": "2026-08-18T16:47:20.992Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-17T19:00:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-18T14:00:26.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-18T10:00:00.000Z"
+      "latest_article_at": "2026-08-18T14:00:00.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-18T06:00:00.000Z"
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-18T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Seiko x Tradman's Bonsai Presage Classic Series",
+      "url": "https://www.hodinkee.com/articles/seiko-x-tradmans-bonsai-presage-classic-series",
+      "image": "https://hodinkee.imgix.net/uploads/images/aa6b7b97-6d6e-47ea-a48b-b0a05b3598d6/seiko-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Seiko finds a new collaborator and celebrates the art of Japanese Bonsai with a new gold-and-green limited edition.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-18T15:00:00.000Z",
+      "score_quality": 79,
+      "score_notif": 42,
+      "cluster": "20260813-9a4481be7ae0",
+      "cluster_main": true
+    },
+    {
+      "title": "Jacques Bianchi Introduces their First Watch in Partnership with the Olympique de Marseille Football Club",
+      "url": "https://wornandwound.com/jacques-bianchi-introduces-their-first-watch-in-partnership-with-the-olympique-de-marseille-football-club/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/JB-Marseille-banner-.jpg",
+      "peek_preview": "Jacques Bianchi, the Marseille based brand specializing in dive watches, has released the first watch in what is expected to be an ongoing partnership with Olympique de Marseille, the city’s historic football club. This...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-18T14:00:26.000Z",
+      "score_quality": 66,
+      "score_notif": 32,
+      "cluster": "20260818-2c56b878e8bd",
+      "cluster_main": true
+    },
+    {
+      "title": "Just Because – A Baltic MR Classic for the Bangladesh Watch Club",
+      "url": "https://monochrome-watches.com/baltic-mr-classic-for-the-bangladesh-watch-club-introducing/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Baltic-MR-Classic-Bangladesh-Watch-Club-1-600x237.jpg",
+      "peek_preview": "The passion for watches has no borders, as we reiterated on multiple occasions. We have already covered several initiatives coming from the Emirates Watch Club, the Singapore Watch Club or the Qatar Watch Club. This tim...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-18T14:00:00.000Z",
+      "score_quality": 62,
+      "score_notif": 25,
+      "cluster": "20260818-088991ffd6a0",
+      "cluster_main": true
+    },
     {
       "title": "Just Because – Berneron Quietly Reveals its next Chapter, The Mirage Miroir",
       "url": "https://monochrome-watches.com/berneron-mirage-miroir-inverted-movement-revealed/",
@@ -507,7 +549,7 @@
       "featured": false,
       "published_at": "2026-08-17T08:01:46.000Z",
       "score_quality": 74,
-      "score_notif": 29,
+      "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
       "cluster_main": false
     },
@@ -1095,9 +1137,9 @@
       "featured": false,
       "published_at": "2026-08-14T13:00:35.000Z",
       "score_quality": 78,
-      "score_notif": 29,
+      "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Smaller watch, worse movement?",
@@ -1111,20 +1153,6 @@
       "score_quality": 24,
       "score_notif": 7,
       "cluster": "20260814-b46ae83319aa",
-      "cluster_main": true
-    },
-    {
-      "title": "Twelve on Time – Christiaan van der Klaauw’s Pim Koeslag and his Personal Relationship with Time and Watches",
-      "url": "https://monochrome-watches.com/christiaan-van-der-klaauws-pim-koeslag-and-his-personal-relationship-with-time-and-watches/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Twelve-on-Time-Pim-Koeslag-Christiaan-van-der-Klaauw-600x237.jpg",
-      "peek_preview": "Twelve on Time is a conversation series that invites leading personalities from the watch industry to step beyond their work and speak more personally about their relationship with time, creativity, and craft. Through a...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T10:05:45.000Z",
-      "score_quality": 76,
-      "score_notif": 18,
-      "cluster": "20260814-74ab5ddc45de",
       "cluster_main": true
     },
     {
@@ -1389,7 +1417,7 @@
       "featured": false,
       "published_at": "2026-08-13T04:23:36.000Z",
       "score_quality": 55,
-      "score_notif": 29,
+      "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
       "cluster_main": false
     },
@@ -1472,10 +1500,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-12T17:00:00.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Jaquet Droz Rolling Stones Automaton 'The Studio'—A Unique Piece Built Around Blue & Lonesome",
@@ -1503,20 +1531,6 @@
       "score_quality": 97,
       "score_notif": 31,
       "cluster": "20260812-4d0d5b93a762",
-      "cluster_main": true
-    },
-    {
-      "title": "Brew Introduces the Limited Edition Retrograph Stone Blend",
-      "url": "https://wornandwound.com/brew-introduces-the-limited-edition-retrograph-stone-blend/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Brew-retrograph-stone-blend-8.jpg",
-      "peek_preview": "Just last week, I wrote about the stone dial trend and how it’s all getting just a little tiresome. And while I certainly stand by my position, we have to acknowledge and accept that there will continue to be stone dial...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T14:00:07.000Z",
-      "score_quality": 76,
-      "score_notif": 39,
-      "cluster": "20260812-73373598d2ad",
       "cluster_main": true
     },
     {
@@ -1741,7 +1755,7 @@
       "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Artisans de Genève Spider Daytona—A Rolex Rebuilt Around Four Kilos of Arizona Turquoise",
@@ -1840,20 +1854,6 @@
       "score_notif": 57,
       "cluster": "20260810-b2ee0e59a666",
       "cluster_main": false
-    },
-    {
-      "title": "Orologi a carica solare: oltre i miti del marketing e del finto ecologismo",
-      "url": "https://giornaleorologi.it/2026/08/10/orologi-a-carica-solare-oltre-i-miti-del-marketing-e-del-finto-ecologismo/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/citizen-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Orologi a carica solare: oltre i miti del marketing e del finto ecologismo La stagione è favorevole: parliamo degli orologi a carica solare. Quegli orologi con movimento al quarzo dotati di mic...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-10T08:00:00.000Z",
-      "score_quality": 60,
-      "score_notif": 12,
-      "cluster": "20260810-58bd0cf31212",
-      "cluster_main": true
     }
   ]
 }
