@@ -1,6 +1,6 @@
 {
-  "content_hash": "7250ade35792d51c421051a8e5954617ecfa94778cf3b48aa0e6834c943692fa",
-  "last_updated": "2026-08-17T22:47:19.878Z",
+  "content_hash": "208f6e2606f411bfa6b4039304416b63a46e25097d42ecee8e23351ac0c5249d",
+  "last_updated": "2026-08-18T01:47:28.561Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-17T19:00:03.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-17T16:05:05.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-17T21:20:16.000Z"
     },
     {
@@ -58,22 +58,22 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-17T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-17T17:04:10.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-17T04:57:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-18T01:00:09.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-17T16:30:28.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-17T03:00:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-18T00:00:52.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Insight: The Science of Gear Tooth Profiles",
+      "url": "https://watchesbysjx.com/2026/08/insight-watch-gears-and-profiles.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2025/05/Greubel-Forsey-EWT-Nano-Foudroyante-movement-1-300x200.jpg",
+      "peek_preview": "Having explored several concepts related to energy systems in watchmaking, from mainspring barrel capacity to automatic winding and the chain and fusee, our technical series continues with a detailed examination of how...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-18T01:00:09.000Z",
+      "score_quality": 86,
+      "score_notif": 18,
+      "cluster": "20260818-a53c82eabb47",
+      "cluster_main": true
+    },
+    {
+      "title": "スピニカーとピーナッツの初コラボが実現！ UVライトで隠しコミックが現れる限定スポーティーウォッチが登場",
+      "url": "https://www.webchronos.net/news/169589/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/Spinnaker_Fleuss_40_Automatic_01.webp",
+      "peek_preview": "スピニカーは、『PEANUTS（ピーナッツ）』とコラボレーションした数量限定モデル「ピーナッツ スヌーピー シーサイド シュノーケル リミテッド エディション」を発表した。スヌーピーの両腕で時刻を知らせるギミックや、UV […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-18T00:00:52.000Z",
+      "score_quality": 64,
+      "score_notif": 41,
+      "cluster": "20260818-b8afdb859235",
+      "cluster_main": true
+    },
     {
       "title": "Tudor Black Bay Monochrome Review: The \"Gilt-Free\" Master Chronometer Diver",
       "url": "https://teddybaldassarre.com/blogs/watches/tudor-black-bay-monochrome",
@@ -830,8 +858,8 @@
       "published_at": "2026-08-14T17:28:08.000Z",
       "score_quality": 98,
       "score_notif": 64,
-      "cluster": "20260813-4a16c64aa372",
-      "cluster_main": false
+      "cluster": "20260814-68a0932a6f64",
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour At One Vanderbilt [August 2026]",
@@ -1310,20 +1338,6 @@
       "cluster_main": true
     },
     {
-      "title": "セイコーが創業145周年を記念して、「江戸紫」から着想を得た9種の限定モデルを発表",
-      "url": "https://www.webchronos.net/news/169350/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/seiko_edomurasaki_1.webp",
-      "peek_preview": "セイコーより、創業145周年を記念した限定モデル全9種が2026年10月9日（金）に発表される。日本の伝統色である江戸紫をテーマカラーに、本格的なスポーツウォッチである「プロスペックス」や、先進的な機能を搭載した「アスト […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-13T00:00:42.000Z",
-      "score_quality": 99,
-      "score_notif": 64,
-      "cluster": "20260813-4a16c64aa372",
-      "cluster_main": true
-    },
-    {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
       "url": "https://timeandtidewatches.com/omega-x-swatch-moonswatch-mission-to-the-sun-solar-eclipse-news/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Omega-x-Swatch-MoonSwatch-Mission-to-the-Sun-%E2%80%93-Solar-Eclipse.jpeg",
@@ -1598,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Watch Ho & Co. x Selten Yum Cha Edition",
@@ -1612,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-11T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260811-475dd95d930d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5 : Bond, James Bond",
@@ -1671,20 +1685,6 @@
       "score_quality": 85,
       "score_notif": 22,
       "cluster": "20260811-39b51022586b",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Patek Philippe Calatrava Ref. 5227G-015 “Rose Gilt”",
-      "url": "https://watchesbysjx.com/2026/08/patek-philippe-calatrava-5227g-rose-gilt.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/patek-philippe-calatrava-5227g-rose-gilt-review-1-300x200.jpg",
-      "peek_preview": "Patek Philippe’s headline launches this year included the surprising Celestial ref. 6105G and Nautilus 50th anniversary editions, but also more classical, yet under-the-radar, watches, like the Calatrava ref. 5227G-015...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-11T01:00:47.000Z",
-      "score_quality": 88,
-      "score_notif": 54,
-      "cluster": "20260811-4d62810d1d44",
       "cluster_main": true
     },
     {
