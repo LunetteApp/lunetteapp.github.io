@@ -1,6 +1,6 @@
 {
-  "content_hash": "aceb285116a7c7c27c20321443ea1be6d4ed7a5b7e45642120fd0513c0a3c39b",
-  "last_updated": "2026-08-18T16:47:20.992Z",
+  "content_hash": "36f0bc1fee0bcb057fc500619b72419dcdf29599cf35cc451e6787eef42febed",
+  "last_updated": "2026-08-18T18:46:57.391Z",
   "premium": {
     "links": []
   },
@@ -15,16 +15,16 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
+      "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-18T14:00:26.000Z"
+      "latest_article_at": "2026-08-18T18:00:47.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
+      "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-18T14:00:00.000Z"
+      "latest_article_at": "2026-08-18T17:00:00.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-18T15:00:00.000Z"
+      "latest_article_at": "2026-08-18T17:51:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-17T16:30:28.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-18T17:01:29.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: Vario’s Navi Collection Goes International",
+      "url": "https://wornandwound.com/review/hands-on-varios-navi-collection-goes-international/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Vario_Navi_Spain_001_WR.jpg",
+      "peek_preview": "As I expand my knowledge of microbrands, I was super excited to receive a sample from Vario, a Singapore-based company that’s been going strong for a decade. The brand’s latest offering builds on its Navi collection, wh...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-18T18:00:47.000Z",
+      "score_quality": 73,
+      "score_notif": 28,
+      "cluster": "20260818-56746520dcd1",
+      "cluster_main": true
+    },
+    {
+      "title": "Twelve Market Observations By Ben Clymer (August 2026)",
+      "url": "https://www.hodinkee.com/articles/twelve-market-observations-by-ben-clymer-august-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/cd0dae25-aece-4635-8d6f-b5a34cb50828/Lange2026-61.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Six things happening in today's watch market that make zero sense, and six that make lots of sense.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-18T17:51:00.000Z",
+      "score_quality": 58,
+      "score_notif": 18,
+      "cluster": "20260818-29687e10c3e4",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Legare Chapter I AGP Inverted—A New Independent Watch Brand Enters the Arena",
+      "url": "https://www.watchcollectinglifestyle.com/home/introducing-legare-chapter-i-agp-inverteda-new-watch-brand-enters-the-arena",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787071296647-YF6OIYT9VU9KHN5BVBVC/2.-Legare-Chapter-1-AGP-Inverted-Elegant-and-Darth-scaled.webp?format=1500w",
+      "peek_preview": "A new maison entered the conversation today, bringing an unusually specific thesis. Legare, the work of Wei Koh, founder of Revolution magazine, and Guillaume Tétu, co-founder of Hautlence, is their debut watch, the Cha...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-18T17:01:29.000Z",
+      "score_quality": 75,
+      "score_notif": 42,
+      "cluster": "20260818-c8609b603e7c",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing – Tutima Expands its Fleet with the Compact Flieger T5 in Titanium",
+      "url": "https://monochrome-watches.com/tutima-flieger-t5-titanium-38mm-pilot-watch-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/tutima-flieger-t5-titanium-38mm-pilot-watch-4-600x237.jpg",
+      "peek_preview": "Tutima, based in Glashütte, earned its wings in the 1940s with its military and pilot’s watches and, in 1941, produced Germany’s first two-pusher flyback chronograph (later referred to as the Flieger). In 2019, Tutima r...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-18T17:00:00.000Z",
+      "score_quality": 78,
+      "score_notif": 42,
+      "cluster": "20260818-498af8198713",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Seiko x Tradman's Bonsai Presage Classic Series",
       "url": "https://www.hodinkee.com/articles/seiko-x-tradmans-bonsai-presage-classic-series",
@@ -368,8 +424,8 @@
       "published_at": "2026-08-18T03:00:35.000Z",
       "score_quality": 68,
       "score_notif": 31,
-      "cluster": "20260812-4d0d5b93a762",
-      "cluster_main": false
+      "cluster": "20260818-9aead8c975a3",
+      "cluster_main": true
     },
     {
       "title": "Insight: The Science of Gear Tooth Profiles",
@@ -507,9 +563,9 @@
       "featured": false,
       "published_at": "2026-08-17T13:30:00.000Z",
       "score_quality": 47,
-      "score_notif": 45,
-      "cluster": "20260817-b6350e93bc92",
-      "cluster_main": true
+      "score_notif": 42,
+      "cluster": "20260813-9a4481be7ae0",
+      "cluster_main": false
     },
     {
       "title": "Twelve on Time – A. Lange & Söhne’s Wilhelm Schmid and his Personal Relationship with Time and Watches",
@@ -1072,20 +1128,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The New Kiwame Tokyo Yane",
-      "url": "https://monochrome-watches.com/introducing-kiwame-tokyo-yane-japanese-watchmaking-miyota-6t27-specs-price-pics/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Kiwame-Tokyo-Yane-Featured-600x237.jpg",
-      "peek_preview": "Kiwame Tokyo, the independent Japanese microbrand, is something of an anomaly in a country dominated by big players like Seiko, Orient, Citizen and Grand Seiko. Based in Asakusa, the historical centre of Tokyo, the bran...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T15:00:53.000Z",
-      "score_quality": 72,
-      "score_notif": 43,
-      "cluster": "20260814-075b64d2d054",
-      "cluster_main": true
-    },
-    {
       "title": "Movado’s Heritage Collection Brings The Brand’s Greatest Designs Into The Present",
       "url": "https://www.ablogtowatch.com/movados-heritage-collection-brings-the-brands-greatest-designs-into-the-present/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Movado-Heritage-Kingmatic-SP-FI-768x346.jpg",
@@ -1478,20 +1520,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: the Bernhardt Captain",
-      "url": "https://wornandwound.com/review/hands-on-the-bernhardt-captain/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Bernhardt_CaptFog_09_WR.jpg",
-      "peek_preview": "Bernhardt’s Captain collection is a new range of dress watches that I think loosely falls in the Calatrave-esque trend that has been emerging, most notably through a variety of Japanese indies and micros, over the last...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T19:00:09.000Z",
-      "score_quality": 72,
-      "score_notif": 26,
-      "cluster": "20260812-c4b342f5043d",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: The TAG Heuer Formula 1 Solargraph Limited Edition Inspired By Zandvoort For The Final Dutch Grand Prix",
       "url": "https://www.hodinkee.com/articles/the-tag-heuer-formula-1-solargraph-limited-edition-inspired-by-zandvoort-for-the-final-dutch-grand-p",
       "image": "https://hodinkee.imgix.net/uploads/images/49ee8eb2-bca8-4972-a707-a81daa5496f2/tag-h-o-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1517,20 +1545,6 @@
       "score_quality": 76,
       "score_notif": 27,
       "cluster": "20260812-7d3de5c18525",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Panerai’s Luminor Marina PAM01707 Is All Classic Everything, Except For The High-Tech Composite Case",
-      "url": "https://www.hodinkee.com/articles/panerais-luminor-marina-pam01707-is-all-classic-everything-except-for-the-high-tech-composite-case",
-      "image": "https://hodinkee.imgix.net/uploads/images/18aaeb03-c5c4-4b23-84a3-c7aa84ad9836/021432c1c45a951d1b23b73856f80957.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "44mm, patented crown guard, creamy lume, and sandwich dial with small seconds at 9 o’clock - it’s as traditional and as lightweight as a PAM gets.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T15:00:00.000Z",
-      "score_quality": 97,
-      "score_notif": 31,
-      "cluster": "20260812-4d0d5b93a762",
       "cluster_main": true
     },
     {
@@ -1840,20 +1854,6 @@
       "score_notif": 15,
       "cluster": "20260810-27baea5ef2ee",
       "cluster_main": true
-    },
-    {
-      "title": "The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Dutch Grand Prix’s final lap in a blaze of orange",
-      "url": "https://timeandtidewatches.com/tag-heuer-formula-1-solargraph-zandvoort-f1-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-tag-heuer-formula-1-zandvoort-f1.jpg",
-      "peek_preview": "TAG Heuer celebrates the final Dutch Grand Prix at Zandvoort with two Formula 1 Solargraph limited editions inspired by the Orange Army. The post The TAG Heuer Formula 1 Solargraph Zandvoort F1 editions celebrate the Du...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-10T09:00:22.000Z",
-      "score_quality": 97,
-      "score_notif": 57,
-      "cluster": "20260810-b2ee0e59a666",
-      "cluster_main": false
     }
   ]
 }
