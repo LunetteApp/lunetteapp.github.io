@@ -1,6 +1,6 @@
 {
-  "content_hash": "b6667d25126e4440a1497cf0db84ebbfacb3028671074936582270f724c1c139",
-  "last_updated": "2026-08-20T11:45:52.735Z",
+  "content_hash": "c4d1482023856f8ea080d4a0cc9c288267c370676be605b621e9119422b1c86c",
+  "last_updated": "2026-08-20T13:47:02.687Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T07:30:21.000Z"
+      "estimated_articles_per_day": 2.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T13:00:37.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T08:01:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T13:01:05.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-19T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T13:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T01:00:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T13:00:47.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -176,6 +176,62 @@
   ],
   "items": [
     {
+      "title": "First Look – The new Czapek Promenade Transparencies Aqua Blue",
+      "url": "https://monochrome-watches.com/czapek-promenade-transparencies-aqua-blue-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Czapek-Promenade-Transparencies-Aqua-Blue-review-1-600x237.jpg",
+      "peek_preview": "Independent watchmaking brand Czapek introduced the Promenade collection in 2024 as a more classic and elegant vision of its contemporary watchmaking. Since then, the model has been used for several creative dial execut...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-20T13:01:05.000Z",
+      "score_quality": 85,
+      "score_notif": 55,
+      "cluster": "20260820-8be1f55a6fe5",
+      "cluster_main": true
+    },
+    {
+      "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
+      "url": "https://watchesbysjx.com/2026/08/czapek-promenade-transparencies-aqua-blue.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Czapek-Promenade-Transparencies-Aqua-Blue-3x2-centred-header-300x200.jpg",
+      "peek_preview": "In the lead up to Geneva Watch Days, Czapek has unveiled the Promenade Transparencies Aqua Blue — a gradient blue variant of a sapphire-dialled dress watch the brand released in late 2024. The watch breaks little new gr...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-20T13:00:47.000Z",
+      "score_quality": 81,
+      "score_notif": 55,
+      "cluster": "20260820-8be1f55a6fe5",
+      "cluster_main": false
+    },
+    {
+      "title": "Movement And Dial Hand In Hand: Czapek Promenade Transparencies Aqua Blue",
+      "url": "https://www.fratellowatches.com/movement-and-dial-hand-in-hand-czapek-promenade-transparencies-aqua-blue/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Czapek-Transparencies-Bleu-cover.jpg",
+      "peek_preview": "Czapek & Cie introduces the Promenade Transparencies Aqua Blue, a new 38-piece limited edition that takes the transparency concept from the Czapek × Fratello Promenade Transparencies Viridian Green and gives it a new co...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-20T13:00:37.000Z",
+      "score_quality": 77,
+      "score_notif": 55,
+      "cluster": "20260820-8be1f55a6fe5",
+      "cluster_main": false
+    },
+    {
+      "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
+      "url": "https://deployant.com/czapek-goes-transparent-with-the-new-promenade-transparencies-aqua-blue/?utm_source=rss&utm_medium=rss&utm_campaign=czapek-goes-transparent-with-the-new-promenade-transparencies-aqua-blue",
+      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/Czapek-Promenade-Transparence-AMB01-1.jpg?fit=1200%2C1599&ssl=1",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Czapek expands the Promenade collection with the Transparencies Aqua Blue with a smoked sapphire dial to subtly showcase the movement. Press Release informati...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-20T13:00:00.000Z",
+      "score_quality": 79,
+      "score_notif": 55,
+      "cluster": "20260820-8be1f55a6fe5",
+      "cluster_main": false
+    },
+    {
       "title": "Tutima Flieger T5: Fliegeruhr? Ja, das geht auch leicht und kleiner!",
       "url": "https://www.uhrenkosmos.com/tutima-flieger-t5-in-38-5-mm-fliegeruhr-titan/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Fliegeruhr-mit-385-mm-Titangehaeuse-die-Tutima-Flieger-T5-Fliegeruhr-aus-Glashuette.jpg",
@@ -229,7 +285,7 @@
       "score_quality": 82,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Glashütte Orginal debuts new Senator Chronograph models that tribute German timekeeping",
@@ -338,10 +394,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T07:00:48.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Heavenly “Match” — The Olympique De Marseille × Jacques Bianchi Marseille JB200 Chronometer Limited Edition",
@@ -355,7 +411,7 @@
       "score_quality": 74,
       "score_notif": 41,
       "cluster": "20260818-2c56b878e8bd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fratello Talks: Building A Dream Two-Watch Collection",
@@ -814,10 +870,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-18T14:00:26.000Z",
-      "score_quality": 66,
+      "score_quality": 75,
       "score_notif": 41,
       "cluster": "20260818-2c56b878e8bd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Just Because – A Baltic MR Classic for the Bangladesh Watch Club",
@@ -915,20 +971,6 @@
       "score_quality": 65,
       "score_notif": 19,
       "cluster": "20260818-4921aa2d324a",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Porsche Design Chronograph 1 – 911 GT3 100 Jahre Nürburgring",
-      "url": "https://monochrome-watches.com/porsche-design-chronograph-1-911-gt3-100-jahre-nurburgring-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Porsche-Design-Chronograph-1-911-GT3-100-Jahre-Nurburgring-1-600x237.jpg",
-      "peek_preview": "Few racing circuits are as well-known outside the car fan community and command the respect and mythology of the Nürburgring Nordschleife. For almost a century, it has served as the proving ground for racing drivers, ma...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-18T07:00:59.000Z",
-      "score_quality": 81,
-      "score_notif": 47,
-      "cluster": "20260816-5de5bc976327",
       "cluster_main": true
     },
     {
@@ -1240,20 +1282,6 @@
       "cluster_main": true
     },
     {
-      "title": "The Citizen Series 8 880 GMT Turns You Into a Local, Twice Over",
-      "url": "https://www.fratellowatches.com/the-citizen-series-8-880-gmt-turns-you-into-a-local-twice-over/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Citizen-NB6031-56E-NB6034-58L-Series-8-GMT-9.jpg",
-      "peek_preview": "Ask me about my current favorite Citizen models, and I’ll quickly point to the brand’s Series 8 watches. It’s Citizens’ collection of modern mechanical watches that falls somewhere between the high-end “The Citizen” lin...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-16T22:01:56.000Z",
-      "score_quality": 71,
-      "score_notif": 23,
-      "cluster": "20260816-6482a6c8e470",
-      "cluster_main": true
-    },
-    {
       "title": "CIGA design’s EDGE Collection puts exposed mechanics front and centre",
       "url": "https://timeandtidewatches.com/ciga-design-edge-collection-in-depth/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/ciga-design-edge-collection-featured-image.jpg",
@@ -1279,7 +1307,7 @@
       "score_quality": 66,
       "score_notif": 47,
       "cluster": "20260816-5de5bc976327",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MoonSwatch Solar Eclipse: Swatch ha venduto un orologio per sole 24 ore. Ma funziona ancora",
@@ -1772,20 +1800,6 @@
       "cluster_main": true
     },
     {
-      "title": "Seiko’s Latest Presage is a Handsome Surprise",
-      "url": "https://watchesbysjx.com/2026/08/seiko-presage-craftsmanship-enamel-urushi-hcc005-hcc006.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Seiko-Presage-Craftsmanship-Urushi-HCC006-3-300x200.jpg",
-      "peek_preview": "The Presage is Seiko’s line of affordable dress watches that boasts impressive diversity, but there can be too much of a good thing; sometimes it’s difficult to distinguish one Presage model from another. The fresh-off-...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-13T04:23:36.000Z",
-      "score_quality": 55,
-      "score_notif": 42,
-      "cluster": "20260813-9a4481be7ae0-2",
-      "cluster_main": true
-    },
-    {
       "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
       "url": "https://timeandtidewatches.com/omega-x-swatch-moonswatch-mission-to-the-sun-solar-eclipse-news/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Omega-x-Swatch-MoonSwatch-Mission-to-the-Sun-%E2%80%93-Solar-Eclipse.jpeg",
@@ -1839,20 +1853,6 @@
       "score_quality": 76,
       "score_notif": 27,
       "cluster": "20260812-7d3de5c18525",
-      "cluster_main": true
-    },
-    {
-      "title": "Tangente Neomatik 38 From NOMOS Glashütte Update Reimagines The Date Display",
-      "url": "https://www.ablogtowatch.com/tangente-neomatik-38-from-nomos-glashutte-update-reimagines-the-date-display/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/07/Nomos-Tangente-Neomatik-38-Updated-SP-11-768x346.jpg",
-      "peek_preview": "Few brands express the principles of modern German design as clearly as NOMOS Glashütte. The classic Bauhaus-inspired style captured in almost every model from the brand is almost immediately recognizable. Among its cat...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T14:00:05.000Z",
-      "score_quality": 85,
-      "score_notif": 46,
-      "cluster": "20260812-c10663948a43",
       "cluster_main": true
     }
   ]
