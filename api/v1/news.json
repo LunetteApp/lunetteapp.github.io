@@ -1,6 +1,6 @@
 {
-  "content_hash": "32094ad819d01cbfdc3bc5f5bbeb98063dad215571408a3389d257924fd7c8fc",
-  "last_updated": "2026-08-20T18:47:37.829Z",
+  "content_hash": "00c9fc15f7052ddecc28d3905661dba065d62862289955b3a48fec7e81a4e9a2",
+  "last_updated": "2026-08-20T20:47:28.903Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-20T18:00:26.000Z"
     },
     {
@@ -43,7 +43,7 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-20T14:56:55.000Z"
     },
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T13:00:47.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T19:10:29.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Blancpain Faithfully Revisits 1968 Bathyscaphe",
+      "url": "https://watchesbysjx.com/2026/08/blancpain-fifty-fathoms-bathyscaphe-70-anniversary.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Blancpain-bathyscaphe-70-anniversary-3x2-header-1-300x200.jpg",
+      "peek_preview": "Blancpain is marking the 70th anniversary of its lesser-known dive watch with the 1960s-inspired Fifty Fathoms Bathyscaphe. With a faithful 37.4 mm steel case and high-end movement, the Bathyscaphe will likely be welcom...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-20T19:10:29.000Z",
+      "score_quality": 80,
+      "score_notif": 63,
+      "cluster": "20260820-0443d4aeb9d1",
+      "cluster_main": false
+    },
     {
       "title": "Hands-On with the Studio Underd0g 02SERIES (Gen2): A Refreshing New Take on the Famous Dirty Dozen",
       "url": "https://wornandwound.com/review/hands-on-with-the-studio-underd0g-02series-gen2-a-refreshing-new-take-on-the-famous-dirty-dozen/",
@@ -1713,20 +1727,6 @@
       "score_quality": 68,
       "score_notif": 44,
       "cluster": "20260814-06824bffaa13",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Ferdinand Berthoud Chronometre FB 2TV",
-      "url": "https://watchesbysjx.com/2026/08/ferdinand-berthoud-chronometre-fb-2tv-review.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Ferdinand-Berthoud-3x2-centred-header-v2-1-300x200.jpg",
-      "peek_preview": "Now beginning its second decade under the leadership of Chopard Co-President Karl-Friedrich Scheufele, Ferdinand Berthoud (FB) has introduced the Chronomètre FB 2TV.1, the first model in the new Mesure du Temps 1787 col...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T01:00:39.000Z",
-      "score_quality": 84,
-      "score_notif": 24,
-      "cluster": "20260814-2624ea7c2c14",
       "cluster_main": true
     },
     {
