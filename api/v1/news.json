@@ -1,6 +1,6 @@
 {
-  "content_hash": "040fb92eff47ffbf274a6460498a2d36d5e8b78a43a35ec5ddf9dec71cce3af5",
-  "last_updated": "2026-08-20T09:47:28.781Z",
+  "content_hash": "93a1c6d04c34e416f88c5fd8ef210ef1aff44ed90608a9cb20f9f7a19e4824da",
+  "last_updated": "2026-08-20T10:46:53.805Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-20T09:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-20T09:01:51.000Z"
     },
     {
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-16T15:12:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T09:00:45.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-18T08:42:35.000Z"
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T10:37:47.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Tutima Flieger T5: Fliegeruhr? Ja, aber das geht auch kleiner!",
+      "url": "https://www.uhrenkosmos.com/tutima-flieger-t5-in-38-5-mm-fliegeruhr-titan/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Fliegeruhr-mit-385-mm-Titangehaeuse-die-Tutima-Flieger-T5-Fliegeruhr-aus-Glashuette.jpg",
+      "peek_preview": "Tutima verkleinert die Tutima Flieger T5 auf 38,5 Millimeter. Am Konzept aus Gehäuse aus Titan Grade 5, klarer Zifferblattgestaltung und solider Technik ändert sich dabei nichts. Zum Glück, möchte man sagen. Schließlich...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-08-20T10:37:47.000Z",
+      "score_quality": 66,
+      "score_notif": 42,
+      "cluster": "20260818-498af8198713",
+      "cluster_main": false
+    },
+    {
       "title": "Blancpain turns back the clock with its new Fifty Fathoms Bathyscaphe 70th Anniversary Limited Edition",
       "url": "https://timeandtidewatches.com/blancpain-bathyscaphe-70th-anniversary-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-blancpain-bathyscaphe-70th-anniversary.jpg",
@@ -187,6 +201,20 @@
       "score_quality": 76,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
+      "cluster_main": false
+    },
+    {
+      "title": "Senator Chronograph Navigator 2026 Live: cosa cambia davvero",
+      "url": "https://www.orologidiclasse.com/senator-chronograph-navigator-glashutte-original-2026/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/08/glashutte-original-senator-chronograph-2026-live.jpg",
+      "peek_preview": "Per molti orologi un millimetro in meno cambia poco o niente. Ce ne sono però altri che basta metterli al polso per accorgersi che quel millimetro, insieme a qualche altra modifica apparentemente secondaria, cambiano de...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-20T09:00:45.000Z",
+      "score_quality": 67,
+      "score_notif": 68,
+      "cluster": "20260820-9004ba7afe24",
       "cluster_main": false
     },
     {
@@ -1082,8 +1110,8 @@
       "published_at": "2026-08-17T13:30:00.000Z",
       "score_quality": 47,
       "score_notif": 42,
-      "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
+      "cluster": "20260817-b6350e93bc92",
+      "cluster_main": true
     },
     {
       "title": "The Quiet Case For Neo-Vintage Jaeger-LeCoultre",
@@ -1825,34 +1853,6 @@
       "score_quality": 85,
       "score_notif": 46,
       "cluster": "20260812-c10663948a43",
-      "cluster_main": true
-    },
-    {
-      "title": "My National Day Watch: the amazing Cartier Santos Chronograph",
-      "url": "https://deployant.com/my-national-day-watch-the-amazing-cartier-santos-chronograph/?utm_source=rss&utm_medium=rss&utm_campaign=my-national-day-watch-the-amazing-cartier-santos-chronograph",
-      "image": "https://deployant.com/wp-content/uploads/2026/08/cartier-santos-mirror.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors As Singapore celebrated its National Day on August 9, I had the Cartier Santos Chronograph as a fitting companion for the Sunday. The timepiece beautifully bl...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T13:30:00.000Z",
-      "score_quality": 44,
-      "score_notif": 9,
-      "cluster": "20260812-49860093136e",
-      "cluster_main": true
-    },
-    {
-      "title": "Breguet No. 160 Maria-Antonietta: le disavventure dell’orologio della Regina",
-      "url": "https://giornaleorologi.it/2026/08/12/breguet-no-160-maria-antonietta/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/MarieAntoinetteWatch_cropped-copia-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Breguet No. 160 Maria-Antonietta: le disavventure dell’orologio della Regina Sotto il sole di metà estate, il frinire regolare delle cicale invita tutti al relax. Perfino gli appassionati di or...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-12T08:00:00.000Z",
-      "score_quality": 77,
-      "score_notif": 12,
-      "cluster": "20260812-b2875b9e8f54",
       "cluster_main": true
     }
   ]
