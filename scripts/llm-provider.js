@@ -103,6 +103,7 @@ async function requestStructuredOutput(
     } catch (error) {
       lastError = error;
       log(`Structured-output attempt ${attempt} failed: ${error.message}`);
+      log(`LLM output for attempt ${attempt}:\n${response.message.content}`);
       if (attempt === MAX_STRUCTURED_ATTEMPTS) break;
       currentRequest = {
         ...request,
