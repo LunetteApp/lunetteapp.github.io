@@ -309,6 +309,49 @@ test("an established cluster id survives when a new duplicate is added", () => {
   assert.deepEqual(articles.map((item) => item.cluster_main), [false, true, false]);
 });
 
+test("a member dropped from an inherited cluster does not become a second main", () => {
+  const seed = article({
+    title: "Seed report",
+    url: "https://seed.example/story",
+    published: "2026-08-13T04:00:00.000Z"
+  });
+  const clusterID = singletonClusterID(seed);
+  const articles = [
+    { ...seed, cluster: clusterID },
+    article({
+      title: "Follow-up report",
+      url: "https://two.example/story",
+      published: "2026-08-14T13:00:00.000Z",
+      cluster: clusterID
+    }),
+    article({
+      title: "Third report",
+      url: "https://three.example/story",
+      published: "2026-08-17T08:00:00.000Z",
+      cluster: clusterID
+    })
+  ];
+  const ids = articles.map((item) => compactArticleID(item.url));
+
+  // The model regroups only the two later reports, leaving the seed out.
+  applyClusterGroups(articles, [{
+    story: "Follow-up",
+    mainArticleID: ids[1],
+    articleIDs: [ids[1], ids[2]]
+  }]);
+
+  assert.equal(articles[1].cluster, clusterID);
+  assert.equal(articles[2].cluster, clusterID);
+  assert.notEqual(articles[0].cluster, clusterID);
+  assert.deepEqual(articles.map((item) => item.cluster_main), [true, true, false]);
+  const perCluster = new Map();
+  for (const item of articles) {
+    const mains = perCluster.get(item.cluster) ?? 0;
+    perCluster.set(item.cluster, mains + (item.cluster_main ? 1 : 0));
+  }
+  for (const mains of perCluster.values()) assert.equal(mains, 1);
+});
+
 test("JavaScript marks singleton stories as their own cluster main", () => {
   const articles = [article({
     title: "A standalone watch story",

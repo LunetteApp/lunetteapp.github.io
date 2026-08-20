@@ -529,22 +529,34 @@ function applyClusterGroups(articles, groups) {
   const previousClusters = new Map(
     articles.map((article) => [compactArticleID(article.url), article.cluster])
   );
-  for (const article of articles) {
-    article.cluster = singletonClusterID(article);
-    article.cluster_main = true;
-  }
-
+  // Assign groups first, reserving each id, so a singleton that seeded an
+  // inherited id (a former cluster member the model left out this run) cannot
+  // reuse it. Otherwise the group and that singleton would share one id, each
+  // flagged cluster_main.
+  const usedClusters = new Set();
+  const grouped = new Set();
   for (const group of groups) {
     const ids = Array.isArray(group) ? group : group?.articleIDs;
     const groupedArticles = (ids ?? []).map((id) => byID.get(id)).filter(Boolean);
     if (groupedArticles.length < 2) continue;
-    const cluster = existingGroupCluster(ids, previousClusters)
+    let cluster = existingGroupCluster(ids, previousClusters)
       ?? singletonClusterID([...groupedArticles].sort(comparePublicationTime)[0]);
+    cluster = uniqueClusterID(cluster, usedClusters);
+    usedClusters.add(cluster);
     const mainArticleID = ids[0];
     for (const article of groupedArticles) {
       article.cluster = cluster;
       article.cluster_main = compactArticleID(article.url) === mainArticleID;
+      grouped.add(article);
     }
+  }
+
+  for (const article of articles) {
+    if (grouped.has(article)) continue;
+    const cluster = uniqueClusterID(singletonClusterID(article), usedClusters);
+    usedClusters.add(cluster);
+    article.cluster = cluster;
+    article.cluster_main = true;
   }
 }
 
@@ -563,6 +575,15 @@ function existingGroupCluster(ids, previousClusters) {
     .filter(([, count]) => count >= 2)
     .sort((left, right) => right[1] - left[1] || left[0].localeCompare(right[0]))[0]?.[0]
     ?? null;
+}
+
+// Guarantee a cluster id is used once. A collision is minted into a distinct id
+// so no two clusters share one, which would flag two cluster_main articles.
+function uniqueClusterID(cluster, used) {
+  if (!used.has(cluster)) return cluster;
+  let suffix = 2;
+  while (used.has(`${cluster}-${suffix}`)) suffix += 1;
+  return `${cluster}-${suffix}`;
 }
 
 function comparePublicationTime(left, right) {
