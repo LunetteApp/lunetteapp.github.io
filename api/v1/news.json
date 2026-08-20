@@ -1,6 +1,6 @@
 {
-  "content_hash": "c4d1482023856f8ea080d4a0cc9c288267c370676be605b621e9119422b1c86c",
-  "last_updated": "2026-08-20T13:47:02.687Z",
+  "content_hash": "479c6811d2eb05ca9a8d78b2a09263abefae2b9370d4349a20b455132fd20e9c",
+  "last_updated": "2026-08-20T14:47:41.859Z",
   "premium": {
     "links": []
   },
@@ -9,21 +9,21 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-20T13:00:37.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-19T20:00:32.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T14:00:59.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-20T13:01:05.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-20T13:00:00.000Z"
     },
     {
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-20T13:00:47.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Wei Koh and Guillaume Tetu Launch Legare with the Chapter 1 AGP Inverted",
+      "url": "https://wornandwound.com/wei-koh-and-guillaume-tetu-launch-legare-with-the-chapter-1-agp-inverted/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Legare-Chapter-1-4.jpg",
+      "peek_preview": "Just ahead of Geneva Watch Days, we see the debut of a new haute horlogerie brand, brought to us in part by Wei Koh, founder of Revolution and the Rake, and a longtime fixture in the watch media landscape. The new brand...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-20T14:00:59.000Z",
+      "score_quality": 77,
+      "score_notif": 42,
+      "cluster": "20260818-c8609b603e7c",
+      "cluster_main": false
+    },
     {
       "title": "First Look – The new Czapek Promenade Transparencies Aqua Blue",
       "url": "https://monochrome-watches.com/czapek-promenade-transparencies-aqua-blue-review-price/",
@@ -282,10 +296,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T09:00:00.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Glashütte Orginal debuts new Senator Chronograph models that tribute German timekeeping",
@@ -397,7 +411,7 @@
       "score_quality": 83,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Heavenly “Match” — The Olympique De Marseille × Jacques Bianchi Marseille JB200 Chronometer Limited Edition",
@@ -408,10 +422,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T05:00:38.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 41,
       "cluster": "20260818-2c56b878e8bd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fratello Talks: Building A Dream Two-Watch Collection",
@@ -873,7 +887,7 @@
       "score_quality": 75,
       "score_notif": 41,
       "cluster": "20260818-2c56b878e8bd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Just Because – A Baltic MR Classic for the Bangladesh Watch Club",
@@ -1152,8 +1166,8 @@
       "published_at": "2026-08-17T13:30:00.000Z",
       "score_quality": 47,
       "score_notif": 42,
-      "cluster": "20260817-b6350e93bc92",
-      "cluster_main": true
+      "cluster": "20260813-9a4481be7ae0",
+      "cluster_main": false
     },
     {
       "title": "The Quiet Case For Neo-Vintage Jaeger-LeCoultre",
@@ -1839,20 +1853,6 @@
       "score_quality": 55,
       "score_notif": 36,
       "cluster": "20260812-fe449bc2e945",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: Jaquet Droz Rolling Stones Automaton 'The Studio'—A Unique Piece Built Around Blue & Lonesome",
-      "url": "https://www.watchcollectinglifestyle.com/home/jaquet-droz-rolling-stones-studio-automaton",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786549848857-R6EYQCYSUW39AP2CD24M/Jaquet+Droz+Rolling+Stones+Studio+Unique+Piece-1.jpg?format=1500w",
-      "peek_preview": "Jaquet Droz has previously released several editions honoring one of the most legendary rock bands of all time: The Rolling Stones. The latest watch we’ve had the pleasure of reviewing is the Jaquet Droz Rolling Stones...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T16:22:36.000Z",
-      "score_quality": 76,
-      "score_notif": 27,
-      "cluster": "20260812-7d3de5c18525",
       "cluster_main": true
     }
   ]
