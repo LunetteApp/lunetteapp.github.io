@@ -1,6 +1,6 @@
 {
-  "content_hash": "c22cdb625b8e76d9066db25846b849b35248dbbc08cf3c790667110c409bf521",
-  "last_updated": "2026-08-20T08:46:58.329Z",
+  "content_hash": "040fb92eff47ffbf274a6460498a2d36d5e8b78a43a35ec5ddf9dec71cce3af5",
+  "last_updated": "2026-08-20T09:47:28.781Z",
   "premium": {
     "links": []
   },
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T09:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T08:01:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-20T09:01:51.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Blancpain turns back the clock with its new Fifty Fathoms Bathyscaphe 70th Anniversary Limited Edition",
+      "url": "https://timeandtidewatches.com/blancpain-bathyscaphe-70th-anniversary-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-blancpain-bathyscaphe-70th-anniversary.jpg",
+      "peek_preview": "Blancpain revives a 1968 Bathyscaphe for its 70th anniversary, with a 37.4mm case, vintage-inspired details and a 100-hour movement. The post Blancpain turns back the clock with its new Fifty Fathoms Bathyscaphe 70th An...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-20T09:01:51.000Z",
+      "score_quality": 76,
+      "score_notif": 63,
+      "cluster": "20260820-0443d4aeb9d1",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: Blancpain Fifty Fathoms Bathyscaphe 70th Anniversary Limited Edition",
+      "url": "https://www.hodinkee.com/articles/blancpain-fifty-fathoms-bathyscaphe-70th-anniversary-limited-edition",
+      "image": "https://hodinkee.imgix.net/uploads/images/6d80c793-8d2b-43f7-b7ce-116f83a53f86/bp12.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Blancpain marks the occasion with a 300-piece limited edition heavily inspired by a reference from 1968.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-20T09:00:00.000Z",
+      "score_quality": 82,
+      "score_notif": 63,
+      "cluster": "20260820-0443d4aeb9d1",
+      "cluster_main": true
+    },
+    {
       "title": "Glashütte Orginal debuts new Senator Chronograph models that tribute German timekeeping",
       "url": "https://timeandtidewatches.com/glashutte-original-senator-chronograph-senator-chronograph-navigator-2026-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Glashutte-Original-Senator-Chronograph-Senator-Chronograph-Navigator-7.jpg",
@@ -201,7 +229,7 @@
       "score_quality": 86,
       "score_notif": 68,
       "cluster": "20260820-9004ba7afe24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Glashütte Original Senator Chronograph Watches In Classic And Navigator Configurations",
@@ -240,10 +268,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T08:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 68,
       "cluster": "20260820-9004ba7afe24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Nice Vintage-Inspired Surprise: The Blancpain Fifty Fathoms Bathyscaphe 70th Anniversary",
@@ -255,7 +283,7 @@
       "featured": false,
       "published_at": "2026-08-20T07:30:21.000Z",
       "score_quality": 72,
-      "score_notif": 62,
+      "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
       "cluster_main": false
     },
@@ -283,9 +311,9 @@
       "featured": false,
       "published_at": "2026-08-20T07:00:48.000Z",
       "score_quality": 81,
-      "score_notif": 62,
+      "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Heavenly “Match” — The Olympique De Marseille × Jacques Bianchi Marseille JB200 Chronometer Limited Edition",
@@ -1054,8 +1082,8 @@
       "published_at": "2026-08-17T13:30:00.000Z",
       "score_quality": 47,
       "score_notif": 42,
-      "cluster": "20260817-b6350e93bc92",
-      "cluster_main": true
+      "cluster": "20260813-9a4481be7ae0",
+      "cluster_main": false
     },
     {
       "title": "The Quiet Case For Neo-Vintage Jaeger-LeCoultre",
@@ -1825,34 +1853,6 @@
       "score_quality": 77,
       "score_notif": 12,
       "cluster": "20260812-b2875b9e8f54",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Zenith Defy Extreme Ultraviolet Watch Combines Radical Horology With Avant-Garde Color",
-      "url": "https://www.ablogtowatch.com/hands-on-the-zenith-defy-extreme-ultraviolet-watch-combines-radical-horology-with-avant-garde-color/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Zenith-Defy-Extreme-Ultraviolet-LOR-Crop-768x346.jpg",
-      "peek_preview": "In an age of demure, timid case sizes and slim, dressy, vintage-inspired silhouettes, there’s something primally satisfying about a watch that isn’t afraid to be big, bold, and aggressively futuristic. Alongside its ste...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T07:01:04.000Z",
-      "score_quality": 76,
-      "score_notif": 48,
-      "cluster": "20260812-89b7cbb61ae8",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: A. Lange & Söhne Little Lange 1 Moon Phase—Wearing a Piece of the Night Sky",
-      "url": "https://www.watchcollectinglifestyle.com/home/a-lange-and-sohne-little-lange-1-moon-phase",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786488088650-XZ18SWLBJRMO47NY29HT/ALS+Little+Lange+1+Moon+Phase+Blue+Gold+Flux+-12.jpg?format=1500w",
-      "peek_preview": "There is a particular kind of watch that photographs beautifully and then, once it is finally on the wrist, does something photographs cannot: it moves. The A. Lange & Söhne Little Lange 1 Moon Phase in its 18K white go...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-11T23:02:52.000Z",
-      "score_quality": 68,
-      "score_notif": 20,
-      "cluster": "20260811-86b868afa484",
       "cluster_main": true
     }
   ]
