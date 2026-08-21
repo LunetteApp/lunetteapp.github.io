@@ -1,6 +1,6 @@
 {
-  "content_hash": "5b8f931a9604e4c42b98494f608e0fc0cda0295263bda54ae7ad05384033bddc",
-  "last_updated": "2026-08-21T07:47:20.598Z",
+  "content_hash": "d51ea99b92af859a5e797fb6340c2c55cfad8909c878dd3b37f277f9f35ffcb6",
+  "last_updated": "2026-08-21T08:47:08.851Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T07:00:07.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T07:01:54.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T07:01:29.000Z"
     },
     {
@@ -113,9 +113,9 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-19T08:00:00.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T08:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Fontana Orologi: il microbrand che dipinge storie di vita sui quadranti",
+      "url": "https://giornaleorologi.it/2026/08/21/fontana-orologi-il-microbrand-che-dipinge-storie-di-vita-sui-quadranti/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/Sofia-Cambin-Fontana-orologi-22-ottobre-25-32-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Fontana Orologi: il microbrand che dipinge storie di vita sui quadranti Tra alta personalizzazione, Swiss Made e mestieri d’arte: intervista in esclusiva a Giulia Fontana, l’artista che trasfor...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-21T08:00:00.000Z",
+      "score_quality": 56,
+      "score_notif": 18,
+      "cluster": "20260821-7aa39ef81bd0",
+      "cluster_main": true
+    },
     {
       "title": "Retro Femininity For Today: Baume & Mercier Joia Watch Hands-On",
       "url": "https://www.ablogtowatch.com/retro-femininity-for-today-baume-mercier-joia-watch-hands-on/",
@@ -495,7 +509,7 @@
       "score_quality": 86,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Glashütte Orginal debuts new Senator Chronograph models that tribute German timekeeping",
@@ -520,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T08:01:23.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 68,
       "cluster": "20260820-9004ba7afe24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Glashütte Original Senator Chronograph Watches In Classic And Navigator Configurations",
@@ -565,7 +579,7 @@
       "score_quality": 89,
       "score_notif": 68,
       "cluster": "20260820-9004ba7afe24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ProTek USMC 250th Anniversary ‘Semper Fidelis’ Sports Watches Aren’t Just For Marines",
@@ -590,10 +604,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T07:00:48.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Heavenly “Match” — The Olympique De Marseille × Jacques Bianchi Marseille JB200 Chronometer Limited Edition",
