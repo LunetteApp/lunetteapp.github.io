@@ -1,6 +1,6 @@
 {
-  "content_hash": "212eafabc84900f9fdabb68dad04da76375ee36bef51e790d810f784d91668cc",
-  "last_updated": "2026-08-21T13:47:19.393Z",
+  "content_hash": "3af24603e31c0a61848b3beb44667b008e57e99c8990ea466b9c8bee1d8a5767",
+  "last_updated": "2026-08-21T14:47:04.967Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T13:00:44.000Z"
     },
     {
@@ -58,14 +58,14 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T13:36:29.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T07:01:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T14:01:31.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-08-20T10:37:47.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Into the abyss: Wren takes the Diver One to its darkest depths yet",
+      "url": "https://timeandtidewatches.com/wren-diver-one-abyss-in-the-shop/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-wren-diver-one-abyss.jpg",
+      "peek_preview": "Wren's 41mm Diver One returns with a clear DLC coated stainless steel case, and a dial so black, not even light can escape its pull. The post Into the abyss: Wren takes the Diver One to its darkest depths yet appeared f...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-21T14:01:31.000Z",
+      "score_quality": 55,
+      "score_notif": 37,
+      "cluster": "20260821-2e77a9f8120f",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Sylvain Pinaud Tourbillon",
       "url": "https://www.hodinkee.com/articles/the-sylvain-pinaud-tourbillon",
@@ -436,10 +450,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -481,7 +495,7 @@
       "score_quality": 87,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1698,7 +1712,7 @@
       "published_at": "2026-08-14T16:30:19.000Z",
       "score_quality": 83,
       "score_notif": 46,
-      "cluster": "20260813-6a29b4c58b60",
+      "cluster": "20260814-2359a324ec57",
       "cluster_main": true
     },
     {
@@ -1840,20 +1854,6 @@
       "score_notif": 28,
       "cluster": "20260813-e8df1200edad",
       "cluster_main": true
-    },
-    {
-      "title": "IWC celebrates 140 years of Innovation with Mercedes-Benz",
-      "url": "https://deployant.com/iwc-celebrates-140-years-of-innovation-with-mercedes-benz/?utm_source=rss&utm_medium=rss&utm_campaign=iwc-celebrates-140-years-of-innovation-with-mercedes-benz",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/iw329603_mood1.jpg?fit=1200%2C675&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors IWC releases a new Big Pilot’s Watch to celebrate Mercedes-Benz’s 140 years of innovation. This novelty features a Perpetual calendar with the new Proset feat...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-13T13:30:00.000Z",
-      "score_quality": 46,
-      "score_notif": 46,
-      "cluster": "20260813-6a29b4c58b60",
-      "cluster_main": false
     }
   ]
 }
