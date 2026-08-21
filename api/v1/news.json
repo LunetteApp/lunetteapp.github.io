@@ -1,6 +1,6 @@
 {
-  "content_hash": "49d0a71a3bdbd692e5619371dd81f5cb1d40985e6c38a65842c8db70b1627b5c",
-  "last_updated": "2026-08-21T05:47:19.953Z",
+  "content_hash": "6391a7ea578a4855e14d18e545ea9d265499164f4748b4beeb5e1b2fe9a25c68",
+  "last_updated": "2026-08-21T06:47:36.793Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T05:00:47.000Z"
     },
     {
@@ -127,9 +127,9 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T05:30:00.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T05:54:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Rolex crée une Daytona « Ice Gradient » unique pour Drake",
+      "url": "https://www.welovewatches.fr/rolex-cree-une-daytona-ice-gradient-unique-pour-drake.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/08/rolex-drake-ice-gradient-une.jpg",
+      "peek_preview": "Le rappeur canadien Drake a dévoilé sur Instagram, dans la nuit du 14 au 15 août 2026, une nouvelle pièce spectaculaire : une Rolex Cosmograph Daytona entièrement sertie de diamants et de saphirs bleus. Présentée...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-08-21T05:54:00.000Z",
+      "score_quality": 58,
+      "score_notif": 43,
+      "cluster": "20260819-deccbc35afe7",
+      "cluster_main": true
+    },
     {
       "title": "Bespoke One-Of-A-Kind And Off-Catalog Watches: A Story As Old As Time",
       "url": "https://www.fratellowatches.com/one-of-a-kind-and-off-catalog-watches/",
@@ -759,9 +773,9 @@
       "featured": false,
       "published_at": "2026-08-19T12:05:55.000Z",
       "score_quality": 46,
-      "score_notif": 18,
+      "score_notif": 43,
       "cluster": "20260819-deccbc35afe7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Norqain Independence Skeleton Titanium DLC",
@@ -1432,8 +1446,8 @@
       "published_at": "2026-08-16T15:12:14.000Z",
       "score_quality": 50,
       "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
-      "cluster_main": false
+      "cluster": "20260816-fa4f3c775752",
+      "cluster_main": true
     },
     {
       "title": "Quiet Luxury: Six understated and excellent timepieces to add into your watch collection",
@@ -1839,20 +1853,6 @@
       "score_quality": 68,
       "score_notif": 41,
       "cluster": "20260813-2cdb41a5c487",
-      "cluster_main": true
-    },
-    {
-      "title": "Omega x Swatch quickly follow up the 1969 with a new, very limited Mission to the Sun – Solar Eclipse",
-      "url": "https://timeandtidewatches.com/omega-x-swatch-moonswatch-mission-to-the-sun-solar-eclipse-news/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Omega-x-Swatch-MoonSwatch-Mission-to-the-Sun-%E2%80%93-Solar-Eclipse.jpeg",
-      "peek_preview": "Timed to coincide with a solar eclipse casting its shadow across parts of Spain, the latest MoonSwatch is the Mission to the Sun – Solar Eclipse. The post Omega x Swatch quickly follow up the 1969 with a new, very limit...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-12T23:23:17.000Z",
-      "score_quality": 71,
-      "score_notif": 68,
-      "cluster": "20260811-67344ac4b454",
       "cluster_main": true
     }
   ]
