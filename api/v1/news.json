@@ -1,6 +1,6 @@
 {
-  "content_hash": "5ce8cc115be0ce59e0a3781d91c219781037c10a80482a0e7b94cfb8870bb943",
-  "last_updated": "2026-08-21T21:47:33.713Z",
+  "content_hash": "cbd57609836951e29374182d8f346e9da110af6ec7508ac51516f0c93e16389b",
+  "last_updated": "2026-08-21T22:47:42.968Z",
   "premium": {
     "links": []
   },
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T14:01:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T22:01:53.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Baume et Mercier gives its Clifton Baumatic an icy blue makeover",
+      "url": "https://timeandtidewatches.com/baume-et-mercier-clifton-baumatic-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/baume-et-mercier-clifton-baumatic-1.jpg",
+      "peek_preview": "A new ice blue dial with a refined texture helps elevate this everyday dress watch to a new level this summer. The post Baume et Mercier gives its Clifton Baumatic an icy blue makeover appeared first on Time+Tide Watche...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-21T22:01:53.000Z",
+      "score_quality": 60,
+      "score_notif": 42,
+      "cluster": "20260821-585b5bee4472",
+      "cluster_main": true
+    },
     {
       "title": "Perspective: The Best Five Perpetual Calendars Released in 2026—Genuine Mechanical Progress in the Industry's Oldest Complication",
       "url": "https://www.watchcollectinglifestyle.com/home/top-perpetual-calendars-2026",
@@ -481,7 +495,7 @@
       "score_quality": 92,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -520,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1840,20 +1854,6 @@
       "score_notif": 46,
       "cluster": "20260813-5af05760d1a4",
       "cluster_main": false
-    },
-    {
-      "title": "Minerva: Warum die Emanzipation der traditionsreichen Manufaktur aus Villeret zur richtigen Zeit kommt",
-      "url": "https://www.uhrenkosmos.com/minerva-unveiled-comeback-manufaktur-villeret/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Minerva-Unveiled-Kollektion-2026.jpg",
-      "peek_preview": "Minerva kehrt als Signatur in die Uhrenwelt zurück. Ob daraus innerhalb des Richemont-Konzerns eine eigenständige Maison wird, ist derzeit offen. Das bieten die Minerva The Unveiled Crownless, Chronograph L30, Chronogra...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-13T09:10:06.000Z",
-      "score_quality": 61,
-      "score_notif": 16,
-      "cluster": "20260813-46d46bad6ec4",
-      "cluster_main": true
     }
   ]
 }
