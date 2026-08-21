@@ -1,6 +1,6 @@
 {
-  "content_hash": "1105e82cb556d71eacee8269e9ccb3cb602499954c70b14435f4e40d7650778b",
-  "last_updated": "2026-08-21T18:47:11.770Z",
+  "content_hash": "c2ed93bef30aad34316bd67fc5714986a1218c4df74fcf94f32a7691d10dd20f",
+  "last_updated": "2026-08-21T19:46:54.426Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T13:00:44.000Z"
+      "estimated_articles_per_day": 1.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T19:00:46.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T17:53:04.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "eBay Finds: Classics from Omega, a Well Preserved Bulova, and More",
+      "url": "https://wornandwound.com/ebay-finds-classics-from-omega-a-well-preserved-bulova-and-more/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/eBay-Finds-August-21-26.-4.jpg",
+      "peek_preview": "eBay Finds is back! This bi-weekly installment will feature a selection of watches currently listed on eBay that have caught the eye of editor Christoph McNeil (@vintagediver). If you come across any hidden gems on the...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-21T19:00:46.000Z",
+      "score_quality": 31,
+      "score_notif": 8,
+      "cluster": "20260821-d92d05b46b29",
+      "cluster_main": true
+    },
     {
       "title": "Perspective: The Best Five Perpetual Calendars Released in 2026—Genuine Mechanical Progress in the Industry's Oldest Complication",
       "url": "https://www.watchcollectinglifestyle.com/home/top-perpetual-calendars-2026",
@@ -492,10 +506,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -537,7 +551,7 @@
       "score_quality": 89,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1587,20 +1601,6 @@
       "score_quality": 28,
       "score_notif": 18,
       "cluster": "20260815-d60fa90b2d25",
-      "cluster_main": true
-    },
-    {
-      "title": "Watches, Stories, & Gear: Primetime Trailer, UNESCO World Heritage Sites, and Porsche 911s",
-      "url": "https://wornandwound.com/watches-stories-gear-primetime-trailer-unesco-world-heritage-sites-and-porsche-911s/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/louis-vuitton-takes-the-road-with-singer-thumb-900x643-1.jpg",
-      "peek_preview": "“Watches, Stories, and Gear” is a roundup of our favorite content, watch or otherwise, from around the internet. Here, we support other creators, explore interesting content that inspires us, and put a spotlight on caus...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-15T14:00:09.000Z",
-      "score_quality": 26,
-      "score_notif": 8,
-      "cluster": "20260815-3afdf5f6b840",
       "cluster_main": true
     },
     {
