@@ -1,6 +1,6 @@
 {
-  "content_hash": "3af24603e31c0a61848b3beb44667b008e57e99c8990ea466b9c8bee1d8a5767",
-  "last_updated": "2026-08-21T14:47:04.967Z",
+  "content_hash": "e24366b49aafbdf633b8a41b5fb69e7420597ba73de29c6a991217fc93950431",
+  "last_updated": "2026-08-21T15:47:21.357Z",
   "premium": {
     "links": []
   },
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T13:36:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T14:01:31.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-20T10:37:47.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Bring a Loupe: A Seiko Sportura, A Breitling Tabarly Racing Mate, A Hublot Classic Fusion Orlinski, And More",
+      "url": "https://www.hodinkee.com/articles/a-seiko-sportura-a-breitling-tabarly-racing-mate-a-hublot-classic-fusion-orlinski-and-a-yema-tomahaw",
+      "image": "https://hodinkee.imgix.net/uploads/images/55e4ebe4-95ff-449a-9ed0-5218a35fffad/balcollage21.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-21T15:00:00.000Z",
+      "score_quality": 18,
+      "score_notif": 6,
+      "cluster": "20260821-6b38b9421917",
+      "cluster_main": true
+    },
     {
       "title": "Into the abyss: Wren takes the Diver One to its darkest depths yet",
       "url": "https://timeandtidewatches.com/wren-diver-one-abyss-in-the-shop/",
@@ -1335,20 +1349,6 @@
       "score_quality": 62,
       "score_notif": 25,
       "cluster": "20260817-4b14bf821d0a",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Frederique Constant Rebuilds Its Classic Worldtimer From The Ground Up",
-      "url": "https://www.hodinkee.com/articles/frederique-constant-rebuilds-its-classic-worldtimer-from-the-ground-up",
-      "image": "https://hodinkee.imgix.net/uploads/images/6bd9f7e4-119c-481e-9fd6-be21d741a632/fc-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "New movement, new case size, improved design—all under five figures.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-17T17:04:10.000Z",
-      "score_quality": 84,
-      "score_notif": 46,
-      "cluster": "20260817-182bec6b2924",
       "cluster_main": true
     },
     {
