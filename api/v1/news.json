@@ -1,6 +1,6 @@
 {
-  "content_hash": "c08e23f461c0d26f713532fa3d76d0d8d3f583297ff297c651681e0973fe77d6",
-  "last_updated": "2026-08-21T16:47:03.533Z",
+  "content_hash": "1105e82cb556d71eacee8269e9ccb3cb602499954c70b14435f4e40d7650778b",
+  "last_updated": "2026-08-21T18:47:11.770Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T16:00:44.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T16:24:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T17:53:04.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Perspective: The Best Five Perpetual Calendars Released in 2026—Genuine Mechanical Progress in the Industry's Oldest Complication",
+      "url": "https://www.watchcollectinglifestyle.com/home/top-perpetual-calendars-2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787334071220-3KDC2KFDPKTK54MKSKX8/A.%2BLange%2B%26%2BSo%CC%88hne%2BLange%2B1%2BTourbillon%2BPerpetual%2BCalendar%2BLumen-14.webp?format=1500w",
+      "peek_preview": "Most years, the perpetual calendar gets a handful of new dial colors and gets called innovation. 2026 was different. Between Watches and Wonders Geneva and the releases that followed it through the summer, the complicat...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-21T17:53:04.000Z",
+      "score_quality": 55,
+      "score_notif": 16,
+      "cluster": "20260821-d1c62c7939ea",
+      "cluster_main": true
+    },
     {
       "title": "Hands-on – The Practical Elegance of the Louis Vuitton Escale Twin Zone",
       "url": "https://monochrome-watches.com/louis-vuitton-escale-twin-zone-pink-gold-dual-time-review-price/",
@@ -481,7 +495,7 @@
       "score_quality": 88,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -520,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1840,20 +1854,6 @@
       "score_notif": 7,
       "cluster": "20260813-b455cefa8858",
       "cluster_main": false
-    },
-    {
-      "title": "Insider: Breguet Classique Souscription 2025—The GPHG's Aiguille d'Or",
-      "url": "https://www.watchcollectinglifestyle.com/home/breguet-classique-souscription-2025-review-gphg",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786636239765-NBD48DKZTGCX4XCCGZGO/Breguet+Classique+Souscription+2025+Enamel-8.jpg?format=1500w",
-      "peek_preview": "Last November, the 25th Grand Prix d'Horlogerie de Genève handed its Aiguille d'Or to a watch with a single hand. At a ceremony held at Geneva's Bâtiment des Forces Motrices, the jury passed over the room's more technic...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-13T15:51:36.000Z",
-      "score_quality": 62,
-      "score_notif": 28,
-      "cluster": "20260813-e8df1200edad",
-      "cluster_main": true
     }
   ]
 }
