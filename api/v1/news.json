@@ -1,6 +1,6 @@
 {
-  "content_hash": "bde1c1b427f3d665ec268b43f249aa2f71e370495e9877eaf35bf0c5948c4800",
-  "last_updated": "2026-08-21T11:47:19.297Z",
+  "content_hash": "212eafabc84900f9fdabb68dad04da76375ee36bef51e790d810f784d91668cc",
+  "last_updated": "2026-08-21T13:47:19.393Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T18:00:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T13:00:44.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T11:00:18.000Z"
     },
     {
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T11:12:35.000Z"
     },
     {
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-21T13:36:29.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The Sylvain Pinaud Tourbillon",
+      "url": "https://www.hodinkee.com/articles/the-sylvain-pinaud-tourbillon",
+      "image": "https://hodinkee.imgix.net/uploads/images/e2a7e5ac-79c9-467f-97cf-f8bad743dd0e/tan2h-sylvainpinaud-tourbillon-07399-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The independent watchmaker combines the design language of the Origine with a 30-second tourbillon and zero-reset system for a limited run of watches.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-21T13:36:29.000Z",
+      "score_quality": 84,
+      "score_notif": 27,
+      "cluster": "20260821-2001a08e203f",
+      "cluster_main": true
+    },
+    {
+      "title": "Blancpain celebrates 70 years of diving with a new Bathyscaphe",
+      "url": "https://deployant.com/blancpain-celebrates-70-years-of-diving-with-a-new-bathyscaphe/?utm_source=rss&utm_medium=rss&utm_campaign=blancpain-celebrates-70-years-of-diving-with-a-new-bathyscaphe",
+      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-9.49.49-AM.jpg?fit=892%2C1225&ssl=1",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Blancpain celebrates 70 years of iconic dive watch heritage with the Bathyscaphe 70th Anniversary Limited Edition, a faithful recreation of the classic 1968 v...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-21T13:30:00.000Z",
+      "score_quality": 74,
+      "score_notif": 63,
+      "cluster": "20260820-0443d4aeb9d1",
+      "cluster_main": false
+    },
+    {
+      "title": "Maen Jumps on the Stone Dial Bandwagon with New Versions of Its Manhattan 37 Ultra-Thin",
+      "url": "https://wornandwound.com/maen-jumps-on-the-stone-dial-bandwagon-with-new-versions-of-its-manhattan-37-ultra-thin/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Maen_TI-StoneDial_03_wr.jpg",
+      "peek_preview": "Ahead of the launch of the new stone dial editions of Maen’s Manhattan 37 Ultra-Thin, I got to test drive the Obsidian Snowflake variation. This was my first time seeing one of the models from the collection in the meta...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-21T13:00:44.000Z",
+      "score_quality": 61,
+      "score_notif": 38,
+      "cluster": "20260821-480b9d7ef4cf",
+      "cluster_main": true
+    },
     {
       "title": "What We Want from IWC, and How to Make a T-Shirt (Wesley Smith, Standard H)",
       "url": "https://www.unpolishedwatches.com/p/what-we-want-from-iwc-and-how-to",
@@ -397,7 +439,7 @@
       "score_quality": 86,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -436,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1310,20 +1352,6 @@
       "cluster_main": false
     },
     {
-      "title": "Recommended Reading: ERG Media’s “Grand Seiko” Book Is How Modern Brand Books Should Be Done",
-      "url": "https://www.hodinkee.com/articles/recommended-reading-grand-seiko-erg-media",
-      "image": "https://hodinkee.imgix.net/uploads/images/377c941a-5379-4d23-b36c-b28d7ac455a3/ERG_Grand-Seiko_UAS_20251113_4628.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "With a beautiful and useful combination of artwork and scholarship, with thoughtful packaging from inside to out, it doesn't get much better than this.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-17T15:00:00.000Z",
-      "score_quality": 64,
-      "score_notif": 10,
-      "cluster": "20260817-5b331d389590",
-      "cluster_main": true
-    },
-    {
       "title": "Sheffield Unveils a Chronograph for a Great Cause",
       "url": "https://wornandwound.com/sheffield-unveils-a-chronograph-for-a-great-cause/",
       "image": "https://wornandwound.com/library/uploads/2026/08/Sheffield-Brians-Chrono-1.jpg",
@@ -1632,20 +1660,6 @@
       "cluster_main": true
     },
     {
-      "title": "Review: the Sinn 544, a Tool Watch for Minimalists",
-      "url": "https://wornandwound.com/review/review-the-sinn-544-a-tool-watch-for-minimalists/",
-      "image": "https://wornandwound.com/library/uploads/2026/07/SINN_544_1.jpg",
-      "peek_preview": "Simple and sporty. That’s it. That’s the review. Well, sure, I can elaborate. Sinn likes to surprise us on occasion, and in the most Sinn way possible. Not by releasing something high-tech or with a ton of bells and whi...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T19:00:08.000Z",
-      "score_quality": 77,
-      "score_notif": 22,
-      "cluster": "20260814-feb849b89225",
-      "cluster_main": true
-    },
-    {
       "title": "Grand Seiko Spring Drive: The Complete Guide To The Unique Hybrid Calibers",
       "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-spring-drive",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand-Seiko-First-1960-2_8363e48f-90f9-43b5-8980-d8f0cf9261fb.jpg?v=1673620815",
@@ -1840,20 +1854,6 @@
       "score_notif": 46,
       "cluster": "20260813-6a29b4c58b60",
       "cluster_main": false
-    },
-    {
-      "title": "Minerva: Warum die Emanzipation der traditionsreichen Manufaktur aus Villeret zur richtigen Zeit kommt",
-      "url": "https://www.uhrenkosmos.com/minerva-unveiled-comeback-manufaktur-villeret/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Minerva-Unveiled-Kollektion-2026.jpg",
-      "peek_preview": "Minerva kehrt als Signatur in die Uhrenwelt zurück. Ob daraus innerhalb des Richemont-Konzerns eine eigenständige Maison wird, ist derzeit offen. Das bieten die Minerva The Unveiled Crownless, Chronograph L30, Chronogra...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-13T09:10:06.000Z",
-      "score_quality": 53,
-      "score_notif": 16,
-      "cluster": "20260813-46d46bad6ec4",
-      "cluster_main": true
     }
   ]
 }
