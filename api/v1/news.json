@@ -1,6 +1,6 @@
 {
-  "content_hash": "daa977b621b3aab947e15f3e708c73b9e955e935113851a6c0c2ceaa328d3352",
-  "last_updated": "2026-08-22T09:46:56.067Z",
+  "content_hash": "bedb030c8d7129190da6581573ad8c5f803bdf4c7720540d6a93b0854416f6de",
+  "last_updated": "2026-08-22T11:47:28.575Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T09:00:22.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T22:01:53.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-22T11:01:28.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Two new Seiko Presage Classic Series watches – one Goldilocks size fans love",
+      "url": "https://timeandtidewatches.com/seiko-presage-classic-series-hcc002-hc008-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Seiko-Presage-Classic-Series-HCC002-HCC008-20.jpg",
+      "peek_preview": "The new Seiko Presage Classic Series HCC002 & HC008 present attractive dials and versatile aesthetics at an attractive, approachable price. The post Two new Seiko Presage Classic Series watches – one Goldilocks size fan...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-22T11:01:28.000Z",
+      "score_quality": 58,
+      "score_notif": 42,
+      "cluster": "20260817-b6350e93bc92",
+      "cluster_main": false
+    },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
       "url": "https://www.fratellowatches.com/the-photographer-preserving-centuries-of-pocket-watches/",
@@ -593,7 +607,7 @@
       "score_quality": 96,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -632,10 +646,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1458,7 +1472,7 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-17T13:30:00.000Z",
-      "score_quality": 47,
+      "score_quality": 59,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
       "cluster_main": true
@@ -1839,20 +1853,6 @@
       "score_quality": 73,
       "score_notif": 16,
       "cluster": "20260814-c3bc3dc0c08c",
-      "cluster_main": true
-    },
-    {
-      "title": "Bulgari Octo Finissimo PC Blue PVD Titanium : le calendrier perpétuel le plus fin du monde passe au bleu",
-      "url": "https://www.welovewatches.fr/bulgari-octo-finissimo-pc-blue-pvd-titanium-le-calendrier-perpetuel-le-plus-fin-du-monde-passe-au-bleu.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/07/bulgari-octo-finissimo-perpetual-calendar-blue-pvd-titanium-thinnest-perpetual-calendar-une.jpg",
-      "peek_preview": "Après le titane naturel, l \"'or carbone\" et l'or rose, la Bulgari Octo Finissimo Perpetual Calendar (PC pour les intimes) se pare pour 2026 d'une nouvelle exécution monochromatique en bleu profond. La référence 104262 e...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-08-14T05:32:00.000Z",
-      "score_quality": 68,
-      "score_notif": 44,
-      "cluster": "20260814-06824bffaa13",
       "cluster_main": true
     }
   ]
