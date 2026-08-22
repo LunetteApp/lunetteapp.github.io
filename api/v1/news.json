@@ -1,6 +1,6 @@
 {
-  "content_hash": "d903057267761cd6bdc70ba73156f8528264549ea4643b4208629e96d631f390",
-  "last_updated": "2026-08-22T14:47:16.240Z",
+  "content_hash": "1d7ff20cdc9e769d2f111e4c65526bae96d736af7887b0446323187206cf82a3",
+  "last_updated": "2026-08-22T15:47:04.734Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T14:00:36.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T14:00:01.000Z"
     },
     {
@@ -79,14 +79,14 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-22T11:01:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-22T15:30:08.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T14:04:10.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "New releases from Czapek, Alexandre Martin, Wren and more",
+      "url": "https://timeandtidewatches.com/czapek-alexandre-martin-wren-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/wren-web.jpg",
+      "peek_preview": "A week defined by big moves being made by small independents has brought us some unexpected hits in mid-August. The post New releases from Czapek, Alexandre Martin, Wren and more appeared first on Time+Tide Watches.",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-22T15:30:08.000Z",
+      "score_quality": 32,
+      "score_notif": 14,
+      "cluster": "20260822-1b72e1ffd822",
+      "cluster_main": true
+    },
+    {
       "title": "Weekend Reads: Legare's Bold Debut, Singer Makes Two Porsches Out of an LV Clock, and a Breitling We've Owned Three Times",
       "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-08-22",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
@@ -242,8 +256,8 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 58,
       "score_notif": 42,
-      "cluster": "20260817-b6350e93bc92",
-      "cluster_main": false
+      "cluster": "20260822-a17f6072c609",
+      "cluster_main": true
     },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
@@ -1839,20 +1853,6 @@
       "score_quality": 24,
       "score_notif": 7,
       "cluster": "20260814-b46ae83319aa",
-      "cluster_main": true
-    },
-    {
-      "title": "Ferragosto al polso: le app che lavorano mentre noi riposiamo",
-      "url": "https://giornaleorologi.it/2026/08/14/ferragosto-al-polso-le-app-che-lavorano-mentre-noi-riposiamo/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/07/01_foto-copia-1024x682.jpg",
-      "peek_preview": "Per l'articolo completo - Ferragosto al polso: le app che lavorano mentre noi riposiamo Dal meteo alle maree, dai sentieri alla musica dell’aperitivo: una selezione delle migliori app per smartwatch – in senso lato: wat...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-14T08:00:00.000Z",
-      "score_quality": 31,
-      "score_notif": 4,
-      "cluster": "20260814-ecf9f2f45a57",
       "cluster_main": true
     }
   ]
