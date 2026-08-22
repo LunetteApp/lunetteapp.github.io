@@ -1,6 +1,6 @@
 {
-  "content_hash": "5d708fda70336759191d066e5ce5210456ba0b3659273db28ae69414252c9fb0",
-  "last_updated": "2026-08-22T08:47:06.194Z",
+  "content_hash": "daa977b621b3aab947e15f3e708c73b9e955e935113851a6c0c2ceaa328d3352",
+  "last_updated": "2026-08-22T09:46:56.067Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-22T05:00:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-22T09:00:22.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T08:35:37.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Photographer Preserving Centuries Of Pocket Watches",
+      "url": "https://www.fratellowatches.com/the-photographer-preserving-centuries-of-pocket-watches/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/07/Photo-Auckland-Museum-62.jpg",
+      "peek_preview": "Today, we have a slightly different story here on Fratello. This is the experience of one New Zealand photographer who has been diligently capturing the mechanical lives of pocket watches at the Tāmaki Paenga Hira Auckl...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-22T09:00:22.000Z",
+      "score_quality": 76,
+      "score_notif": 18,
+      "cluster": "20260822-4b1c68ecc1e2",
+      "cluster_main": true
+    },
     {
       "title": "The Petrolhead Corner – Three Incredible New Hypercars From The Monterey Car Week",
       "url": "https://monochrome-watches.com/the-petrolhead-corner-gordon-murray-special-vehicles-s1-spyker-c8-preliator-xxv-aston-martin-valen/",
@@ -576,10 +590,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -621,7 +635,7 @@
       "score_quality": 95,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T09:00:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Glashütte Orginal debuts new Senator Chronograph models that tribute German timekeeping",
@@ -817,7 +831,7 @@
       "score_quality": 89,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Heavenly “Match” — The Olympique De Marseille × Jacques Bianchi Marseille JB200 Chronometer Limited Edition",
@@ -1252,20 +1266,6 @@
       "score_notif": 41,
       "cluster": "20260818-2c56b878e8bd",
       "cluster_main": false
-    },
-    {
-      "title": "Buying A Watch Tool Kit And Fitting A Sapphire Case Back To A King Seiko 44-9990",
-      "url": "https://www.fratellowatches.com/first-watch-tool-kit-sapphire-case-back-king-seiko-44-9990/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/05/Henry-King-Seiko-17.jpg",
-      "peek_preview": "There is a moment in every watch enthusiast’s journey when admiration turns into curiosity. You stop merely wearing watches and begin to wonder what lies beneath the dial, behind the polished steel, and under the engrav...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-18T09:00:52.000Z",
-      "score_quality": 55,
-      "score_notif": 10,
-      "cluster": "20260818-eaa0ed45d64f",
-      "cluster_main": true
     },
     {
       "title": "New independent maison – Legare opens fire with Chapter 1",
