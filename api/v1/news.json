@@ -1,6 +1,6 @@
 {
-  "content_hash": "8cf1e1746f0d39b5f243c12392104ada2bd3088a0e9b1059b04d20172c67a5a0",
-  "last_updated": "2026-08-22T13:47:44.469Z",
+  "content_hash": "d903057267761cd6bdc70ba73156f8528264549ea4643b4208629e96d631f390",
+  "last_updated": "2026-08-22T14:47:16.240Z",
   "premium": {
     "links": []
   },
@@ -16,20 +16,20 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T19:00:46.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-22T14:00:36.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-22T08:35:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-22T14:00:01.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
+      "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T07:01:53.000Z"
     },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T13:00:00.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T17:53:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-22T14:04:10.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Weekend Reads: Legare's Bold Debut, Singer Makes Two Porsches Out of an LV Clock, and a Breitling We've Owned Three Times",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-08-22",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-22T14:04:10.000Z",
+      "score_quality": 27,
+      "score_notif": 8,
+      "cluster": "20260822-c2df5d84f99d",
+      "cluster_main": true
+    },
+    {
+      "title": "Watches, Stories, & Gear: Celebrity Scams, Alien-Theme Pens, and a New Desktop Mic",
+      "url": "https://wornandwound.com/watches-stories-gear-celebrity-scans-alien-theme-pens-and-a-new-desktop-mic/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Anythink-Library_Courtesy-of-Unfound-Door_Anythink-Library_Exterior_1_Vs.jpg",
+      "peek_preview": "“Watches, Stories, and Gear” is a roundup of our favorite content, watch or otherwise, from around the internet. Here, we support other creators, explore interesting content that inspires us, and put a spotlight on caus...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-22T14:00:36.000Z",
+      "score_quality": 23,
+      "score_notif": 6,
+      "cluster": "20260822-94cb14c4e281",
+      "cluster_main": true
+    },
+    {
+      "title": "The ABCs of Time – The History and Evolution of Watch Clasps",
+      "url": "https://monochrome-watches.com/abcs-of-time-history-and-evolution-of-watch-clasps/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/abcs-of-time-history-and-evolution-of-watch-clasps-600x237.jpg",
+      "peek_preview": "Following up on our recent ABCs of Time article on the history of watch bracelets, we turn our attention to clasps, which are much more than simple closures today. In fact, some of the best are R&D marvels with intense...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-22T14:00:01.000Z",
+      "score_quality": 77,
+      "score_notif": 18,
+      "cluster": "20260822-290ead098206",
+      "cluster_main": true
+    },
+    {
       "title": "New: NORQAIN Independence Skeleton Titanium DLC – blacked out and 82 grams",
       "url": "https://deployant.com/norqain-independence-skeleton-titanium-dlc/?utm_source=rss&utm_medium=rss&utm_campaign=norqain-independence-skeleton-titanium-dlc",
       "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/unnamed-1.jpg?fit=1080%2C1350&ssl=1",
@@ -186,8 +228,8 @@
       "published_at": "2026-08-22T13:00:00.000Z",
       "score_quality": 71,
       "score_notif": 41,
-      "cluster": "20260819-147d1298e939",
-      "cluster_main": false
+      "cluster": "20260822-8afc0a536f45",
+      "cluster_main": true
     },
     {
       "title": "Two new Seiko Presage Classic Series watches – one Goldilocks size fans love",
@@ -618,10 +660,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -663,7 +705,7 @@
       "score_quality": 97,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1072,20 +1114,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – The New Norqain Independence Skeleton Titanium DLC",
-      "url": "https://monochrome-watches.com/norqain-independence-skeleton-titanium-dlc-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Norqain-Independence-Skeleton-Titanium-DLC-1-600x237.jpg",
-      "peek_preview": "Since the debut of the Independence Skeleton in 2022, followed by the fifth-anniversary Skeleton editions in 2023 and the more compact 40mm model introduced last year, Norqain has established its approach to skeletonisa...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-19T12:01:48.000Z",
-      "score_quality": 74,
-      "score_notif": 41,
-      "cluster": "20260819-147d1298e939",
-      "cluster_main": true
-    },
-    {
       "title": "FounderFest: Why the echo/neutra Rivanera Piccolo “Rosa d’Epoca” is Zach’s personal favourite of the seven",
       "url": "https://timeandtidewatches.com/echo-neutra-rivanera-piccolo-rosa-depoca-timetide-studio-edition-foudnerfest-video/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/echo-neutra-rivanera-rosa-depoca-founders-fest-featured-image.jpg",
@@ -1464,20 +1492,6 @@
       "cluster_main": false
     },
     {
-      "title": "Sheffield Unveils a Chronograph for a Great Cause",
-      "url": "https://wornandwound.com/sheffield-unveils-a-chronograph-for-a-great-cause/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Sheffield-Brians-Chrono-1.jpg",
-      "peek_preview": "If you’ve attended a recent Windup Watch Fair in Chicago, there’s a very good chance you’ve run into Doug LaViolette. Doug is the founder of the Brian LaViolette Scholarship Foundation, a Wisconsin based watch enthusias...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-17T14:00:15.000Z",
-      "score_quality": 52,
-      "score_notif": 19,
-      "cluster": "20260817-78cf1240443f",
-      "cluster_main": true
-    },
-    {
       "title": "Two stunning new Seiko Presage Classic Series “Craftsmanship”",
       "url": "https://deployant.com/two-stunning-new-seiko-presage-classic-series-craftsmanship/?utm_source=rss&utm_medium=rss&utm_campaign=two-stunning-new-seiko-presage-classic-series-craftsmanship",
       "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/Main_Visual_RGB.jpg?fit=1200%2C675&ssl=1",
@@ -1839,20 +1853,6 @@
       "score_quality": 31,
       "score_notif": 4,
       "cluster": "20260814-ecf9f2f45a57",
-      "cluster_main": true
-    },
-    {
-      "title": "From FounderFest to Full Throttle with Tissot at Silverstone",
-      "url": "https://timeandtidewatches.com/founderfest-to-full-throttle-friday-wind-down/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-fwd-aug14.jpg",
-      "peek_preview": "FounderFest launches, Time+Tide heads behind the scenes at MotoGP, and Tom reflects on why not every watch needs to be an everyday watch. The post From FounderFest to Full Throttle with Tissot at Silverstone appeared fi...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T07:01:14.000Z",
-      "score_quality": 34,
-      "score_notif": 12,
-      "cluster": "20260814-7a93ee50429f",
       "cluster_main": true
     }
   ]
