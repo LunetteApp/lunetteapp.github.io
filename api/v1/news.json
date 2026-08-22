@@ -1,6 +1,6 @@
 {
-  "content_hash": "7f0a9b85122b08fc8a42d877322836f3f51c86c4df0d33e7264806b2029e0d3e",
-  "last_updated": "2026-08-22T17:47:08.292Z",
+  "content_hash": "3678f23d85eda7908ffe60799db2db7b7c23c95aef05704666b2b1be6ddb9594",
+  "last_updated": "2026-08-22T18:47:48.766Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T17:00:09.000Z"
     },
     {
@@ -677,7 +677,7 @@
       "score_quality": 98,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -716,10 +716,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1839,6 +1839,20 @@
       "score_quality": 24,
       "score_notif": 7,
       "cluster": "20260814-b46ae83319aa",
+      "cluster_main": true
+    },
+    {
+      "title": "Ferragosto al polso: le app che lavorano mentre noi riposiamo",
+      "url": "https://giornaleorologi.it/2026/08/14/ferragosto-al-polso-le-app-che-lavorano-mentre-noi-riposiamo/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/07/01_foto-copia-1024x682.jpg",
+      "peek_preview": "Per l'articolo completo - Ferragosto al polso: le app che lavorano mentre noi riposiamo Dal meteo alle maree, dai sentieri alla musica dell’aperitivo: una selezione delle migliori app per smartwatch – in senso lato: wat...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-14T08:00:00.000Z",
+      "score_quality": 29,
+      "score_notif": 6,
+      "cluster": "20260814-ecf9f2f45a57",
       "cluster_main": true
     }
   ]
