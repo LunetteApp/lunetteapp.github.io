@@ -1,6 +1,6 @@
 {
-  "content_hash": "bedb030c8d7129190da6581573ad8c5f803bdf4c7720540d6a93b0854416f6de",
-  "last_updated": "2026-08-22T11:47:28.575Z",
+  "content_hash": "8cf1e1746f0d39b5f243c12392104ada2bd3088a0e9b1059b04d20172c67a5a0",
+  "last_updated": "2026-08-22T13:47:44.469Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-22T13:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T11:01:28.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New: NORQAIN Independence Skeleton Titanium DLC – blacked out and 82 grams",
+      "url": "https://deployant.com/norqain-independence-skeleton-titanium-dlc/?utm_source=rss&utm_medium=rss&utm_campaign=norqain-independence-skeleton-titanium-dlc",
+      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/unnamed-1.jpg?fit=1080%2C1350&ssl=1",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors NORQAIN Independence Skeleton Titanium DLC: the openworked 42mm goes Grade 5 titanium and black DLC at 82 grams, COSC-certified NB08S, from CHF 4,500. The pos...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-22T13:00:00.000Z",
+      "score_quality": 71,
+      "score_notif": 41,
+      "cluster": "20260819-147d1298e939",
+      "cluster_main": false
+    },
     {
       "title": "Two new Seiko Presage Classic Series watches – one Goldilocks size fans love",
       "url": "https://timeandtidewatches.com/seiko-presage-classic-series-hcc002-hc008-hands-on/",
@@ -1839,20 +1853,6 @@
       "score_quality": 34,
       "score_notif": 12,
       "cluster": "20260814-7a93ee50429f",
-      "cluster_main": true
-    },
-    {
-      "title": "Watch Review: (Almost) Flying High With The Bell & Ross BR-X3 Patrouille De France",
-      "url": "https://www.ablogtowatch.com/watch-review-almost-flying-high-with-the-bell-ross-br-x3-patrouille-de-france/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/07/Bell-Ross-BR-X3-Patrouille-de-France-RAZ-Crop-03-768x346.jpg",
-      "peek_preview": "A few weeks ago, I almost got to see the French Air and Space Force’s precision aerobatic demonstration team perform. The Patrouille de France were in the U.S. for the country’s 250th anniversary and had a practice sess...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T07:01:06.000Z",
-      "score_quality": 73,
-      "score_notif": 16,
-      "cluster": "20260814-c3bc3dc0c08c",
       "cluster_main": true
     }
   ]
