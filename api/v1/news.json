@@ -1,6 +1,6 @@
 {
-  "content_hash": "59eda7ce6a89caa976cfe777d5e4409ee946d5aea0975bf02a33aafb639a5266",
-  "last_updated": "2026-08-22T05:47:04.967Z",
+  "content_hash": "ce9bda7d6d0b480212c7bfe60e51d141a58c296e61de0578734225d768da4457",
+  "last_updated": "2026-08-22T07:47:28.104Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-22T05:00:03.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T07:01:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-22T07:01:53.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -113,7 +113,7 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-21T08:00:00.000Z"
     },
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T10:37:47.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-22T06:58:02.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Watch Review: Rolex Oyster Perpetual 36 126000 With Jubilee Dial",
+      "url": "https://www.ablogtowatch.com/watch-review-rolex-oyster-perpetual-36-126000-with-jubilee-dial/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Rolex-Oyster-Perpetual-36-Jubilee-Dial-126000-0016-featured-768x346.jpg",
+      "peek_preview": "It was not long ago that I ranted, “Too Many Luxury Watches Feel Too Cheap (Even To The Untrained Eye)” in one of my Grinding Gears columns. I brought up a Rolex Oyster Perpetual watch, and how its CNC-etched clasp look...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-22T07:01:53.000Z",
+      "score_quality": 74,
+      "score_notif": 18,
+      "cluster": "20260822-4e5771818edf",
+      "cluster_main": true
+    },
+    {
+      "title": "CPO-Uhren im Aufwind: Rüschenbeck und eine außergewöhnliche IWC Da Vinci Tourbillon Leonardo",
+      "url": "https://www.uhrenkosmos.com/cpo-uhren-im-aufwind-iwc-da-vinci-tourbillon/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/IWC-Da-Vinci-Tourbillon-Leonardo-Rueschenbeck-C-Uhrenkosmos.jpg",
+      "peek_preview": "Der Markt für gebrauchte Luxusuhren professionalisiert sich. Juwelier Rüschenbeck hat Certified Pre-Owned längst als eigenes Geschäftsfeld etabliert. Die seltene IWC Da Vinci Tourbillon Leonardo von 2002 zeigt, warum CP...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-08-22T06:58:02.000Z",
+      "score_quality": 47,
+      "score_notif": 14,
+      "cluster": "20260822-9625f6cd0929",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On With The Girard-Perregaux Neo Constant Escapement — Could We Catch The Purple “Butterfly” Inside?",
       "url": "https://www.fratellowatches.com/hands-on-girard-perregaux-neo-constant-escapement/",
@@ -1825,34 +1853,6 @@
       "score_quality": 68,
       "score_notif": 44,
       "cluster": "20260814-06824bffaa13",
-      "cluster_main": true
-    },
-    {
-      "title": "Studio Underd0g Brand Review: Fun Design And Serious Watchmaking Under $2,000",
-      "url": "https://teddybaldassarre.com/blogs/watches/studio-underd0g-brand-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Studio-Underdog-watermelon-Gen-3-2.jpg?v=1786548125",
-      "peek_preview": "For too long, watch brands tended to play it safe with dial colors, many of which rarely stretch their imaginations beyond a boardroom grey, a midnight blue, or (if we’re incredibly lucky) a muted salmon. Recently, howe...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-13T20:14:54.000Z",
-      "score_quality": 60,
-      "score_notif": 15,
-      "cluster": "20260813-0c4f137fc44c",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: Breguet Classique Souscription 2025—The GPHG's Aiguille d'Or",
-      "url": "https://www.watchcollectinglifestyle.com/home/breguet-classique-souscription-2025-review-gphg",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786636239765-NBD48DKZTGCX4XCCGZGO/Breguet+Classique+Souscription+2025+Enamel-8.jpg?format=1500w",
-      "peek_preview": "Last November, the 25th Grand Prix d'Horlogerie de Genève handed its Aiguille d'Or to a watch with a single hand. At a ceremony held at Geneva's Bâtiment des Forces Motrices, the jury passed over the room's more technic...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-13T15:51:36.000Z",
-      "score_quality": 74,
-      "score_notif": 18,
-      "cluster": "20260813-e8df1200edad",
       "cluster_main": true
     }
   ]
