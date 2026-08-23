@@ -1,6 +1,6 @@
 {
-  "content_hash": "cc04260c537ed4fe085a7466c62ba3b65f25b66ad2c7e77e7dadb669398d7d07",
-  "last_updated": "2026-08-23T05:46:50.047Z",
+  "content_hash": "57407012e16fc57b60cd9a72850fbc6cbacf32d9276ea17eb0c25da4540b1040",
+  "last_updated": "2026-08-23T07:47:31.868Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-23T05:00:42.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-22T07:01:53.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-23T07:01:24.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Genta Meets Garcia: Gerald Charles Masterlink Perpetual Calendar Micro-Rotor Watch Review",
+      "url": "https://www.ablogtowatch.com/genta-meets-garcia-gerald-charles-masterlink-perpetual-calendar-micro-rotor-watch-review/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/07/Gerald-Charles-Masterlink-Perpetual-Calendar-Fume-Titanium-watch-10-768x346.jpg",
+      "peek_preview": "In the timepiece collector space, wristwatches with automatic perpetual calendar movements fitted inside cases with integrated bracelets are a niche product category unto themselves. Multiple brands offer elite products...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-23T07:01:24.000Z",
+      "score_quality": 81,
+      "score_notif": 18,
+      "cluster": "20260823-a70befdd874f",
+      "cluster_main": true
+    },
+    {
       "title": "Sunday Morning Showdown: Blancpain Fifty Fathoms Bathyscaphe 70th Anniversary Vs. Blancpain Fifty Fathoms Automatique 38",
       "url": "https://www.fratellowatches.com/sunday-morning-showdown-blancpain-fifty-fathoms-bathyscaphe-70th-anniversary-vs-blancpain-fifty-fathoms-automatique-38/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Blancpain-Bathyscaphe-70th-Anniversary_VS_Blancpain_Fifty_Fathoms_38-HEADER-2.jpg",
@@ -298,8 +312,8 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 58,
       "score_notif": 42,
-      "cluster": "20260822-a17f6072c609",
-      "cluster_main": true
+      "cluster": "20260817-b6350e93bc92",
+      "cluster_main": false
     },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -758,10 +772,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1839,20 +1853,6 @@
       "score_quality": 24,
       "score_notif": 7,
       "cluster": "20260814-b46ae83319aa",
-      "cluster_main": true
-    },
-    {
-      "title": "Ferragosto al polso: le app che lavorano mentre noi riposiamo",
-      "url": "https://giornaleorologi.it/2026/08/14/ferragosto-al-polso-le-app-che-lavorano-mentre-noi-riposiamo/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/07/01_foto-copia-1024x682.jpg",
-      "peek_preview": "Per l'articolo completo - Ferragosto al polso: le app che lavorano mentre noi riposiamo Dal meteo alle maree, dai sentieri alla musica dell’aperitivo: una selezione delle migliori app per smartwatch – in senso lato: wat...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-14T08:00:00.000Z",
-      "score_quality": 29,
-      "score_notif": 6,
-      "cluster": "20260814-ecf9f2f45a57",
       "cluster_main": true
     }
   ]
