@@ -1,6 +1,6 @@
 {
-  "content_hash": "ddff7cef347544be476698c19a54bb7c867ce5732fe4f1f8ec8aa59720f2c29c",
-  "last_updated": "2026-08-23T11:47:29.714Z",
+  "content_hash": "4d3f4bc3fd62e9bb5e64fc48d1fd0b111958f7388f2ee17dbff5e121e1834e8c",
+  "last_updated": "2026-08-23T12:47:08.620Z",
   "premium": {
     "links": []
   },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-23T11:01:48.000Z"
     },
     {
@@ -338,10 +338,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-22T11:01:28.000Z",
-      "score_quality": 58,
+      "score_quality": 60,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
@@ -758,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -800,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -901,7 +901,7 @@
       "score_quality": 90,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Glashütte Orginal debuts new Senator Chronograph models that tribute German timekeeping",
@@ -996,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T07:00:48.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Heavenly “Match” — The Olympique De Marseille × Jacques Bianchi Marseille JB200 Chronometer Limited Edition",
@@ -1503,7 +1503,7 @@
       "score_quality": 59,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative Presage Classic Limited Edition",
@@ -1825,6 +1825,34 @@
       "score_quality": 69,
       "score_notif": 18,
       "cluster": "20260814-72fa6b391f76",
+      "cluster_main": true
+    },
+    {
+      "title": "Smaller watch, worse movement?",
+      "url": "https://www.unpolishedwatches.com/p/the-small-one-costs-95-as-much-heres",
+      "image": "https://substackcdn.com/image/fetch/$s_!WgAn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d4aa092-8c69-42de-8f7b-a4b41be43bac_1080x1080.png",
+      "peek_preview": "Comparing eight integrated bracelet watches, three approaches to the movement, and two brands worth respecting.",
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T12:52:42.000Z",
+      "score_quality": 33,
+      "score_notif": 9,
+      "cluster": "20260814-b46ae83319aa",
+      "cluster_main": true
+    },
+    {
+      "title": "Ferragosto al polso: le app che lavorano mentre noi riposiamo",
+      "url": "https://giornaleorologi.it/2026/08/14/ferragosto-al-polso-le-app-che-lavorano-mentre-noi-riposiamo/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/07/01_foto-copia-1024x682.jpg",
+      "peek_preview": "Per l'articolo completo - Ferragosto al polso: le app che lavorano mentre noi riposiamo Dal meteo alle maree, dai sentieri alla musica dell’aperitivo: una selezione delle migliori app per smartwatch – in senso lato: wat...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-14T08:00:00.000Z",
+      "score_quality": 22,
+      "score_notif": 3,
+      "cluster": "20260814-ecf9f2f45a57",
       "cluster_main": true
     }
   ]
