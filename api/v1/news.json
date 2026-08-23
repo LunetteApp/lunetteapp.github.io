@@ -1,6 +1,6 @@
 {
-  "content_hash": "a734a376f2012678b4ac2cc357395fa728dc682f192b890154502f3d0a2025ec",
-  "last_updated": "2026-08-23T00:47:13.404Z",
+  "content_hash": "20f9a9a62cbdb644696617d6828cde4d5695f9224c5dc986c8a8d95d154253cd",
+  "last_updated": "2026-08-23T03:47:20.178Z",
   "premium": {
     "links": []
   },
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.9,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-23T00:00:45.000Z"
+      "latest_article_at": "2026-08-23T03:00:56.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ロジェ・デュブイが宇宙の神秘から着想を得た「エクスカリバー バイレトログラード カレンダー」を発表",
+      "url": "https://www.webchronos.net/news/170339/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/main-3.webp",
+      "peek_preview": "ロジェ・デュブイは、宇宙の神秘から着想を得たコズミックブルーで仕上げた「エクスカリバー バイレトログラード カレンダー」の新作を発表した。7層もの多層構造からなる文字盤はコズミックブルーを基調とし、ブロードアジュール仕上 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-23T03:00:56.000Z",
+      "score_quality": 64,
+      "score_notif": 46,
+      "cluster": "20260823-0b35c58ce4dc",
+      "cluster_main": true
+    },
     {
       "title": "シチズン「エクシード」に中秋の名月をテーマとしたムーンフェイズ表示モデルが登場",
       "url": "https://www.webchronos.net/news/169904/",
@@ -270,8 +284,8 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 58,
       "score_notif": 42,
-      "cluster": "20260822-a17f6072c609",
-      "cluster_main": true
+      "cluster": "20260817-b6350e93bc92",
+      "cluster_main": false
     },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
@@ -1436,20 +1450,6 @@
       "cluster_main": true
     },
     {
-      "title": "パネライからカーボテック™を採用した新作「ルミノール マリーナ」PAM01707が登場",
-      "url": "https://www.webchronos.net/news/169761/",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png",
-      "peek_preview": "パネライはハイテク素材であるカーボテック™製のケースを備える新作モデル「ルミノール マリーナ」PAM01707を披露した。ダイアルには、1960年代のルミノールを想起させるデザインコードが取り入れられており、ブランドのヘ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-18T03:00:35.000Z",
-      "score_quality": 68,
-      "score_notif": 31,
-      "cluster": "20260818-9aead8c975a3",
-      "cluster_main": true
-    },
-    {
       "title": "Insight: The Science of Gear Tooth Profiles",
       "url": "https://watchesbysjx.com/2026/08/insight-watch-gears-and-profiles.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2025/05/Greubel-Forsey-EWT-Nano-Foudroyante-movement-1-300x200.jpg",
@@ -1486,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-17T16:30:28.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 7,
       "cluster": "20260813-b455cefa8858",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Two stunning new Seiko Presage Classic Series “Craftsmanship”",
@@ -1573,7 +1573,7 @@
       "score_quality": 88,
       "score_notif": 7,
       "cluster": "20260813-b455cefa8858",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Complicated Collectors: J. B. Champion Jr.",
