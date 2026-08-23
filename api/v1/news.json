@@ -1,6 +1,6 @@
 {
-  "content_hash": "3d72962a90b797fdb30c34ab8a5412b3fc266f0310c44b41a002da36f04aa774",
-  "last_updated": "2026-08-23T19:47:07.130Z",
+  "content_hash": "961199e50f87395447468e441d432b3a3e46f9c5a3ac921ef838e05d714401f2",
+  "last_updated": "2026-08-23T22:47:25.348Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-23T09:00:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-23T22:01:23.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-23T19:00:54.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Parmigiani Fleurier And The Collector’s Path Beyond The Obvious Brands",
+      "url": "https://www.fratellowatches.com/parmigiani-fleurier-and-the-collectors-path-beyond-the-obvious-brands/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/03/Parmigiani-Fleurier-Tonda-PF-Micro-Rotor-Salmon-2.jpg",
+      "peek_preview": "The journey of a watch collector often unfolds like the passage of time itself. In many ways, it is sequential, but it is often marked by profound moments of discovery. For so many of us, we begin our collecting journey...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-23T22:01:23.000Z",
+      "score_quality": 63,
+      "score_notif": 18,
+      "cluster": "20260823-b8e80c4d189b",
+      "cluster_main": true
+    },
     {
       "title": "Greubel Forsey Balancier QM: Der Maßstab hat einen Namen",
       "url": "https://www.uhrenkosmos.com/greubel-forsey-balancier-qm-qualite-musee/",
@@ -800,10 +814,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -842,10 +856,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1055,20 +1069,6 @@
       "score_quality": 76,
       "score_notif": 41,
       "cluster": "20260818-2c56b878e8bd",
-      "cluster_main": true
-    },
-    {
-      "title": "Fratello Talks: Building A Dream Two-Watch Collection",
-      "url": "https://www.fratellowatches.com/fratello-talks-building-a-dream-two-watch-collection/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/05/Lange-Datograph-Wrist-shot-2.jpg",
-      "peek_preview": "Two watches should be enough, at least in theory. If you had no budget limitations and could own only two watches, which would you choose? The challenge isn’t simply to pick two favorites. With only two spots available,...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T04:00:16.000Z",
-      "score_quality": 32,
-      "score_notif": 8,
-      "cluster": "20260820-53f03a64756c",
       "cluster_main": true
     },
     {
