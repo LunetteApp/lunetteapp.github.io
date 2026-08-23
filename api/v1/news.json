@@ -1,6 +1,6 @@
 {
-  "content_hash": "04afc174d26b6f8a2fe240c98cf48fd13a21582712b6accb0f999c6987bf3224",
-  "last_updated": "2026-08-23T17:45:45.316Z",
+  "content_hash": "3d72962a90b797fdb30c34ab8a5412b3fc266f0310c44b41a002da36f04aa774",
+  "last_updated": "2026-08-23T19:47:07.130Z",
   "premium": {
     "links": []
   },
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-22T06:58:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-23T19:00:54.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Greubel Forsey Balancier QM: Der Maßstab hat einen Namen",
+      "url": "https://www.uhrenkosmos.com/greubel-forsey-balancier-qm-qualite-musee/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Greubel-Forsey-Balancier-QM-mit-Ansicht-der-Rueckseite.jpg",
+      "peek_preview": "Unter CEO Michel Nydegger zeigt Greubel Forsey mit der Greubel Forsey Balancier QM eine kultiviertere, beinahe leise Seite seiner ansonsten großen und selbstbewusst auftretenden Haute Horlogerie. Das steckt hinter der Q...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-08-23T19:00:54.000Z",
+      "score_quality": 56,
+      "score_notif": 38,
+      "cluster": "20260823-54ae82ce1fe6",
+      "cluster_main": true
+    },
     {
       "title": "6 Spectacular Recommendations for the Bling Watch of Your Dreams",
       "url": "https://deployant.com/best-bling-watches/?utm_source=rss&utm_medium=rss&utm_campaign=best-bling-watches",
@@ -786,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -828,10 +842,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1839,20 +1853,6 @@
       "score_quality": 51,
       "score_notif": 43,
       "cluster": "20260814-1999afb90c88",
-      "cluster_main": true
-    },
-    {
-      "title": "Review: falling in love with the 2026 Piaget Polo 79 with the beautiful Sodalite dial",
-      "url": "https://deployant.com/review-falling-in-love-with-the-2026-piaget-polo-79-with-the-beautiful-sodalite-dial/?utm_source=rss&utm_medium=rss&utm_campaign=review-falling-in-love-with-the-2026-piaget-polo-79-with-the-beautiful-sodalite-dial",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/piager-polo-sodalite-mirror.jpg?fit=1200%2C964&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors We organised a special collector event for Piaget recently and got intimate with the Polo 79 Sodalite. The dial is made from Sodalite, a rich royal-blue miner...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T13:30:00.000Z",
-      "score_quality": 69,
-      "score_notif": 18,
-      "cluster": "20260814-72fa6b391f76",
       "cluster_main": true
     }
   ]
