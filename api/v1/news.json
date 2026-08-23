@@ -1,6 +1,6 @@
 {
-  "content_hash": "57407012e16fc57b60cd9a72850fbc6cbacf32d9276ea17eb0c25da4540b1040",
-  "last_updated": "2026-08-23T07:47:31.868Z",
+  "content_hash": "328009b0d4b591021b451de7ab4a379d403fa427cc5bfb0d00a77bbc940a2c14",
+  "last_updated": "2026-08-23T09:47:42.505Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-23T05:00:42.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-23T09:00:52.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-22T14:00:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-23T09:35:27.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-23T07:01:24.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Buying Guide – Four Captivating Watches With Inverted Movements",
+      "url": "https://monochrome-watches.com/buying-guide-inverted-movements-ulysse-nardin-super-freak-moritz-grossmann-backpage-tremblage-lederer-inverto-titanium-39-minerva-unveiled-chronograph-limited-edition-30-review-specs-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/04/2026-Ulysse-Nardin-Super-Freak-Featured-600x237.jpg",
+      "peek_preview": "For those with a passion for mechanics, like surely many us have, there’s something magical about seeing a watch movement run. Seeing a whole bunch of minuscule parts working in perfect harmony to tell time, and well be...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-23T09:35:27.000Z",
+      "score_quality": 57,
+      "score_notif": 12,
+      "cluster": "20260823-20e155420e71",
+      "cluster_main": true
+    },
+    {
+      "title": "Spending Time With The New Ollech & Wajs Early Bird EB-24",
+      "url": "https://www.fratellowatches.com/hands-on-new-ollech-wajs-early-bird-eb-24/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/07/Henry-Ollech-Wajs-Early-Bird-8.jpg",
+      "peek_preview": "There are watches named after places, people, and the animals their designers admired on long-ago fishing trips. And then there is the Ollech & Wajs Early Bird, a watch named after a satellite. I liked this watch so muc...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-23T09:00:52.000Z",
+      "score_quality": 77,
+      "score_notif": 26,
+      "cluster": "20260823-970007b728e3",
+      "cluster_main": true
+    },
+    {
       "title": "Genta Meets Garcia: Gerald Charles Masterlink Perpetual Calendar Micro-Rotor Watch Review",
       "url": "https://www.ablogtowatch.com/genta-meets-garcia-gerald-charles-masterlink-perpetual-calendar-micro-rotor-watch-review/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/07/Gerald-Charles-Masterlink-Perpetual-Calendar-Fume-Titanium-watch-10-768x346.jpg",
@@ -312,8 +340,8 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 58,
       "score_notif": 42,
-      "cluster": "20260817-b6350e93bc92",
-      "cluster_main": false
+      "cluster": "20260822-a17f6072c609",
+      "cluster_main": true
     },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
@@ -1100,20 +1128,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-on – The Yellow Gold Minerva The Unveiled Chronograph Limited Edition 30",
-      "url": "https://monochrome-watches.com/2026-yellow-gold-minerva-the-unveiled-chronograph-limited-edition-30-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Minerva-The-Unveiled-Chronograph-Limited-Edition-30-Yellow-Gold-review-6-600x237.jpg",
-      "peek_preview": "Minerva‘s Unveiled Chronograph series is an exercise in turning conventional watchmaking inside out. Instead of hiding the movement under the dial, which would require taking the watch off the wrist to admire its calibr...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-19T16:30:06.000Z",
-      "score_quality": 88,
-      "score_notif": 47,
-      "cluster": "20260819-0d78016e69d5",
-      "cluster_main": true
-    },
-    {
       "title": "Inside The Manufacture: Why Fam al Hut Is Pursuing Manufacture Status",
       "url": "https://www.hodinkee.com/articles/why-fam-al-hut-is-pursuing-manufacture-status",
       "image": "https://hodinkee.imgix.net/uploads/images/80ac5b22-41fc-4288-9165-cca8e643072b/FamalHut.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1209,20 +1223,6 @@
       "score_quality": 64,
       "score_notif": 36,
       "cluster": "20260819-956c6d8a1ad5",
-      "cluster_main": true
-    },
-    {
-      "title": "The Charming Kiwame Tokyo Yane Is Like Putting A Japanese Temple Roof On Your Wrist",
-      "url": "https://www.fratellowatches.com/the-charming-kiwame-tokyo-yane-is-like-putting-a-japanese-temple-roof-on-your-wrist/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Kiwame-Tokyo-Yane-41.jpg",
-      "peek_preview": "Ten years ago, my wife and I went to Japan for vacation. We strolled through Tokyo, visited the beaches of Okinawa, and toured the temples of Kyoto. Some of the things I photographed most on that trip must’ve been the c...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-19T09:00:41.000Z",
-      "score_quality": 58,
-      "score_notif": 19,
-      "cluster": "20260819-7a09d00fe5d7",
       "cluster_main": true
     },
     {
