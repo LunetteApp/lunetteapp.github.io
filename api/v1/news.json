@@ -1,6 +1,6 @@
 {
-  "content_hash": "328009b0d4b591021b451de7ab4a379d403fa427cc5bfb0d00a77bbc940a2c14",
-  "last_updated": "2026-08-23T09:47:42.505Z",
+  "content_hash": "ddff7cef347544be476698c19a54bb7c867ce5732fe4f1f8ec8aa59720f2c29c",
+  "last_updated": "2026-08-23T11:47:29.714Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-23T09:00:52.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-23T09:35:27.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-22T15:30:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-23T11:01:48.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -340,8 +340,8 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 58,
       "score_notif": 42,
-      "cluster": "20260822-a17f6072c609",
-      "cluster_main": true
+      "cluster": "20260817-b6350e93bc92",
+      "cluster_main": false
     },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
@@ -1198,20 +1198,6 @@
       "cluster_main": false
     },
     {
-      "title": "FounderFest: Why the echo/neutra Rivanera Piccolo “Rosa d’Epoca” is Zach’s personal favourite of the seven",
-      "url": "https://timeandtidewatches.com/echo-neutra-rivanera-piccolo-rosa-depoca-timetide-studio-edition-foudnerfest-video/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/echo-neutra-rivanera-rosa-depoca-founders-fest-featured-image.jpg",
-      "peek_preview": "Echo/neutra's Rivanera Piccolo \"Rosa d'Epoca\" Time+Tide Studio Edition pairs a titanium case with a grained black dial with pink details The post FounderFest: Why the echo/neutra Rivanera Piccolo “Rosa d’Epoca” is Zach’...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-19T11:01:54.000Z",
-      "score_quality": 31,
-      "score_notif": 9,
-      "cluster": "20260819-75422f11ff24",
-      "cluster_main": true
-    },
-    {
       "title": "A Closer Look At The New Bulova Shelby Racer Chronograph LE",
       "url": "https://www.atimelyperspective.com/a-closer-look-at-the-new-bulova-shelby-racer-chronograph-le/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/96K118_Strap_Bulova_Shelby_Shoot_Lifestyle_16-1024x683.jpeg",
@@ -1839,20 +1825,6 @@
       "score_quality": 69,
       "score_notif": 18,
       "cluster": "20260814-72fa6b391f76",
-      "cluster_main": true
-    },
-    {
-      "title": "Smaller watch, worse movement?",
-      "url": "https://www.unpolishedwatches.com/p/the-small-one-costs-95-as-much-heres",
-      "image": "https://substackcdn.com/image/fetch/$s_!WgAn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d4aa092-8c69-42de-8f7b-a4b41be43bac_1080x1080.png",
-      "peek_preview": "Comparing eight integrated bracelet watches, three approaches to the movement, and two brands worth respecting.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T12:52:42.000Z",
-      "score_quality": 24,
-      "score_notif": 7,
-      "cluster": "20260814-b46ae83319aa",
       "cluster_main": true
     }
   ]
