@@ -222,6 +222,20 @@ body {
     color: var(--text-3);
 }
 
+.product-hunt-badge {
+    margin-top: 24px;
+}
+
+.product-hunt-badge a,
+.product-hunt-badge img {
+    display: block;
+}
+
+.product-hunt-badge img {
+    max-width: 100%;
+    height: auto;
+}
+
 .btn-primary {
     display: inline-block;
     font-family: var(--sans);
@@ -543,6 +557,11 @@ body {
     .hero-actions {
         flex-direction: column;
         gap: 12px;
+    }
+
+    .product-hunt-badge {
+        display: flex;
+        justify-content: center;
     }
 
     .hero-device img { width: 230px; }
