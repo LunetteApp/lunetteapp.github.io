@@ -1,6 +1,6 @@
 {
-  "content_hash": "78dde93a529c341ab612638c5eb020fb6957bf2ab4ca7f670f8cd4e855c066a5",
-  "last_updated": "2026-08-24T14:47:42.082Z",
+  "content_hash": "934029936c0c3c9f316a1098efa61c84eb44ec765a39a6df58a5e56515f0961c",
+  "last_updated": "2026-08-24T15:47:25.905Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T14:00:37.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
+      "estimated_articles_per_day": 0.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-23T19:00:54.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Recommended Reading: 'Universal People, Universal Dreams' Is A Timely, Heartfelt Telling Of One Man's Collecting Journey Into The Rarest Of The Rare",
+      "url": "https://www.hodinkee.com/articles/recommended-reading-universal-people",
+      "image": "https://hodinkee.imgix.net/uploads/images/f35e6741-da2b-4094-a4c1-cf442b3529af/Laterale_libro_silver.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The book weaves a personal narrative of friendship, challenges, and focus that brought together arguably the rarest collection of complicated Universal watches ever.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T15:00:00.000Z",
+      "score_quality": 46,
+      "score_notif": 8,
+      "cluster": "20260824-c6e2893025ea",
+      "cluster_main": true
+    },
     {
       "title": "Wren Introduces the Diver One Abyss",
       "url": "https://wornandwound.com/wren-introduces-the-diver-one-abyss/",
@@ -1478,20 +1492,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: Seiko x Tradman's Bonsai Presage Classic Series",
-      "url": "https://www.hodinkee.com/articles/seiko-x-tradmans-bonsai-presage-classic-series",
-      "image": "https://hodinkee.imgix.net/uploads/images/aa6b7b97-6d6e-47ea-a48b-b0a05b3598d6/seiko-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Seiko finds a new collaborator and celebrates the art of Japanese Bonsai with a new gold-and-green limited edition.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-18T15:00:00.000Z",
-      "score_quality": 81,
-      "score_notif": 42,
-      "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": true
-    },
-    {
       "title": "New independent maison – Legare opens fire with Chapter 1",
       "url": "https://deployant.com/new-independent-maison-legare-opens-fire-with-chapter-1/?utm_source=rss&utm_medium=rss&utm_campaign=new-independent-maison-legare-opens-fire-with-chapter-1",
       "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/05/legare-chapter1-1.jpg?fit=1200%2C1005&ssl=1",
@@ -1629,7 +1629,7 @@
       "score_quality": 74,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Quadranti Tropical: perché il sole rende unici gli orologi",
