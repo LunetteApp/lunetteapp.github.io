@@ -1,6 +1,6 @@
 {
-  "content_hash": "6daa7dd5dcb292d47af0f11f67a50ad80c0e6883899ea31f93872f4daf5b43a8",
-  "last_updated": "2026-08-24T18:47:02.416Z",
+  "content_hash": "db9e3ee9cccfbbd27fae542733b520fe10a40f27723d67a2d60fdc6fa56c92ec",
+  "last_updated": "2026-08-24T21:47:37.448Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T18:30:20.000Z"
     },
     {
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T20:45:32.000Z"
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T21:04:14.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-22T14:04:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T21:36:55.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: Artisans de Genève Superamerica—A Rolex Daytona Named after a Ferrari, Cloaked in Copper and 70s Midnight Blue",
+      "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-superamerica-daytona-copper",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787604257606-BWRP1HZPGTETQLLI7XWX/Artisans+de+Geneve+Daytona+Super+America-2.jpg?format=1500w",
+      "peek_preview": "There’s a particular strain of nostalgia only a copper dial and a blue lacquer finish can trigger, and Artisans de Genève's Superamerica leans into it directly. The name nods to Ferrari's own Superamerica bloodline—the...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T21:36:55.000Z",
+      "score_quality": 81,
+      "score_notif": 42,
+      "cluster": "20260824-0e89a85d569b",
+      "cluster_main": true
+    },
+    {
+      "title": "Citizen Eco-Drive: The Ultimate Guide To The Revolutionary Light-Powered Watch Movement",
+      "url": "https://teddybaldassarre.com/blogs/watches/citizen-eco-drive",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Pocket-Watch-1924-2_bb7e0b9a-0586-487f-b1e3-d71f2cedfe6c_2048x2048.jpg?v=1714750949",
+      "peek_preview": "The history of the watch industry is rife with groundbreaking technological developments that came about through necessity. Dive watches’ unidirectional rotating bezels were developed to save the lives of scuba divers b...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T21:04:14.000Z",
+      "score_quality": 54,
+      "score_notif": 7,
+      "cluster": "20260824-948a238896cf",
+      "cluster_main": true
+    },
     {
       "title": "Blancpain Introduces the Fifty Fathoms Bathyscaphe 70th Anniversary Limited Edition",
       "url": "https://wornandwound.com/blancpain-introduces-the-fifty-fathoms-bathyscaphe-70th-anniversary-limited-edition/",
@@ -646,10 +674,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-22T11:01:28.000Z",
-      "score_quality": 60,
+      "score_quality": 62,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
@@ -1052,10 +1080,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -1083,7 +1111,7 @@
       "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1094,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
@@ -1486,10 +1514,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-18T17:01:29.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New independent maison – Legare opens fire with Chapter 1",
@@ -1615,7 +1643,7 @@
       "score_quality": 61,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative Presage Classic Limited Edition",
@@ -1825,34 +1853,6 @@
       "score_quality": 60,
       "score_notif": 44,
       "cluster": "20260815-e3f1543f5797",
-      "cluster_main": true
-    },
-    {
-      "title": "Watch Review: How Good Is The All-Black Ceramic Tudor Black Bay With Matching Bracelet?",
-      "url": "https://www.ablogtowatch.com/watch-review-how-good-is-the-all-black-ceramic-tudor-black-bay-with-matching-bracelet/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Tudor-Black-Bay-Ceramic-Bracelet-M7941A1ACNU-0001-watch-10-768x346.jpg",
-      "peek_preview": "For the first time, Geneva-based Tudor has released an all-ceramic bracelet to match the existing Tudor Black Bay Ceramic case, which has previously existed in a handful of Tudor models but only paired with a strap. (aB...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-15T07:01:43.000Z",
-      "score_quality": 74,
-      "score_notif": 18,
-      "cluster": "20260815-bbf505079343",
-      "cluster_main": true
-    },
-    {
-      "title": "Grand Seiko Spring Drive: The Complete Guide To The Unique Hybrid Calibers",
-      "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-spring-drive",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand-Seiko-First-1960-2_8363e48f-90f9-43b5-8980-d8f0cf9261fb.jpg?v=1673620815",
-      "peek_preview": "Japan’s Grand Seiko has become, in a relatively short span of time, one of the world’s most prestigious and collectible high-luxury watchmakers, competing for connoisseur attention and dollars with well-established mais...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T18:52:36.000Z",
-      "score_quality": 67,
-      "score_notif": 12,
-      "cluster": "20260814-5810928ac634",
       "cluster_main": true
     }
   ]
