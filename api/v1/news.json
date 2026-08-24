@@ -1,6 +1,6 @@
 {
-  "content_hash": "e8be162c062c273ce59194cf38a28bc1683fb55d347227274759519f82f1b29b",
-  "last_updated": "2026-08-24T11:47:41.207Z",
+  "content_hash": "2ea0c04051e6bb5212d0a4f75ad82d68f33a5678651b2dd93eb5e090b1a9ec28",
+  "last_updated": "2026-08-24T14:00:17.487Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T11:00:02.000Z"
     },
     {
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T10:45:45.000Z"
     },
     {
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-23T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T15:00:00.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-21T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T13:52:49.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "News orologi agosto 2026, fra grandi eventi e partnership",
+      "url": "https://giornaleorologi.it/2026/08/24/news-orologi-agosto-2026-fra-grandi-eventi-e-partnership/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/Naissance-dune-montre-4-1024x682.jpg",
+      "peek_preview": "Per l'articolo completo - News orologi agosto 2026, fra grandi eventi e partnership “L’estate sta finendo e un anno se ne va”, cantavano i Righera nel lontano 1985. In effetti mancano ancora quattro mesi prima della fin...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-24T13:52:49.000Z",
+      "score_quality": 30,
+      "score_notif": 14,
+      "cluster": "20260824-327b5b451e27",
+      "cluster_main": true
+    },
+    {
+      "title": "New: Henri Grandjean Magician Atrivm in Red and Green Sapphire",
+      "url": "https://deployant.com/new-henri-grandjean-magician-atrivm-in-red-and-green-sapphire/?utm_source=rss&utm_medium=rss&utm_campaign=new-henri-grandjean-magician-atrivm-in-red-and-green-sapphire",
+      "image": "https://deployant.com/wp-content/uploads/2026/08/HG_AT_Red_dial.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Henri Grandjean makes a definitive statement in ultra-high-end independent watchmaking with the introduction of the Magician Atrivm in Green Sapphire and Red...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T13:30:00.000Z",
+      "score_quality": 74,
+      "score_notif": 42,
+      "cluster": "20260824-4308de777d1f",
+      "cluster_main": true
+    },
+    {
+      "title": "Announcements: Geneva Watch Days 2026 Will Take Place September 2-6",
+      "url": "https://www.hodinkee.com/articles/geneva-watch-days-2026-will-take-place-september-2-6",
+      "image": "https://hodinkee.imgix.net/uploads/images/0d74714a-d511-4d15-bbc8-6d64745f289e/GenevaWatchDays2026.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Five days, dozens of brands – all in one city.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T13:00:00.000Z",
+      "score_quality": 61,
+      "score_notif": 47,
+      "cluster": "20260824-3bf33bc427c1",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Peacock Black Hole III Curved Guilloche Central Tourbillon; Bold, Complex yet Attainable",
       "url": "https://monochrome-watches.com/the-peacock-black-hole-iii-curved-guilloche-central-tourbillon-bold-complex-yet-attainable/",
@@ -940,10 +982,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -982,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1416,10 +1458,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-18T17:01:29.000Z",
-      "score_quality": 75,
+      "score_quality": 78,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Seiko x Tradman's Bonsai Presage Classic Series",
@@ -1503,20 +1545,6 @@
       "score_quality": 65,
       "score_notif": 19,
       "cluster": "20260818-4921aa2d324a",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Legare Chapter 1 AGP Inverted — The First Watch From A New Brand By Wei Koh And Guillaume Tetu",
-      "url": "https://www.hodinkee.com/articles/the-legare-chapter-1-agp-inverted-the-first-watch-from-a-new-brand-by-wei-koh-and-guillaume-tetu",
-      "image": "https://hodinkee.imgix.net/uploads/images/0d1166c3-ff79-4d60-9f93-773d20dbb858/4.LegareChapter1AGPInvertedElegantandDarth.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The brand begins with a modernized take on a legendary movement.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-18T06:00:00.000Z",
-      "score_quality": 84,
-      "score_notif": 42,
-      "cluster": "20260818-c8609b603e7c",
       "cluster_main": true
     },
     {
@@ -1825,34 +1853,6 @@
       "score_quality": 76,
       "score_notif": 15,
       "cluster": "20260814-5810928ac634",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: IWC Big Pilot's Watch Perpetual Calendar ProSet 140 Years Mercedes-Benz—A New Chapter for the Perpetual Calendar",
-      "url": "https://www.watchcollectinglifestyle.com/home/iwc-big-pilots-watch-perpetual-proset-140-years-mercedes-benz",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786724505363-EG89TPPNG5QJODHJGZM3/IWC+Big+Pilot%27s+Watch+Perpetual+Calendar+ProSet+140+Years+Mercedes-Benz.jpg?format=1500w",
-      "peek_preview": "IWC has a long habit of dressing up corporate anniversaries as horological events, and ordinarily that's where my attention drifts elsewhere. This one is different, because tucked inside the Mercedes-Benz 140th-annivers...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T16:30:19.000Z",
-      "score_quality": 67,
-      "score_notif": 25,
-      "cluster": "20260814-2359a324ec57",
-      "cluster_main": true
-    },
-    {
-      "title": "Movado’s Heritage Collection Brings The Brand’s Greatest Designs Into The Present",
-      "url": "https://www.ablogtowatch.com/movados-heritage-collection-brings-the-brands-greatest-designs-into-the-present/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Movado-Heritage-Kingmatic-SP-FI-768x346.jpg",
-      "peek_preview": "Luxury watch brands often speak about heritage, but relatively few have archives as deep or stylistically diverse as Movado. Founded in 1881 in La Chaux-de-Fonds, Switzerland, the company has spent nearly a century and...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T14:00:31.000Z",
-      "score_quality": 43,
-      "score_notif": 10,
-      "cluster": "20260814-1999afb90c88",
       "cluster_main": true
     }
   ]
