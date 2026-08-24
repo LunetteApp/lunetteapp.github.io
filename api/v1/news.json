@@ -1,6 +1,6 @@
 {
-  "content_hash": "1376a4b17a383c6637d9601392eabdce1c695f0135166a583811ca60d643e79f",
-  "last_updated": "2026-08-24T16:47:21.017Z",
+  "content_hash": "1ae83b4831d3eba75e7717646fbb10e88cd9ab34f7bd5b31b973ef7968db1aa8",
+  "last_updated": "2026-08-24T17:47:29.851Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T09:00:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T17:00:15.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T16:00:55.000Z"
     },
     {
@@ -51,8 +51,8 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-19T10:08:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T17:29:52.000Z"
     },
     {
       "source_name": "Deployant",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
+      "url": "https://www.atimelyperspective.com/hands-on-i-wore-the-sold-out-seiko-x-rowing-blazers-x-eric-wind-watch/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_0374-576x1024.jpeg",
+      "peek_preview": "Some watch collaborations make you wonder what exactly the collaborators did besides put their names on the same timepiece and press release. Others work because the people involved understand the history they are playi...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T17:29:52.000Z",
+      "score_quality": 76,
+      "score_notif": 22,
+      "cluster": "20260824-7b4b205641bf",
+      "cluster_main": true
+    },
+    {
+      "title": "The New Straum Expedition: Built For Those Who Crave Adventure",
+      "url": "https://www.fratellowatches.com/the-new-straum-expedition-built-for-those-who-crave-adventure/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Straum-Expedition-collection-3.jpg",
+      "peek_preview": "Are you looking for a watch representing the overwhelmingly beautiful scenes of Norwegian nature? Straum has you covered with the Jan Mayen line. But what if you want a watch to actually wear on an adventure or expediti...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T17:00:15.000Z",
+      "score_quality": 66,
+      "score_notif": 43,
+      "cluster": "20260824-95c861743774",
+      "cluster_main": true
+    },
     {
       "title": "Hands-on – The Porsche Design Chronograph 1 All-Titanium, Now With Leather Straps",
       "url": "https://monochrome-watches.com/hands-on-review-porsche-design-chronograph-1-all-titanium-numbered-edition-specs-price-live-pics/",
@@ -946,20 +974,6 @@
       "cluster_main": true
     },
     {
-      "title": "A Nice Vintage-Inspired Surprise: The Blancpain Fifty Fathoms Bathyscaphe 70th Anniversary",
-      "url": "https://www.fratellowatches.com/hands-on-new-blancpain-fifty-fathoms-bathyscaphe-70th-anniversary/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Blancpain-Bathyscaphe-70th-Anniversary-5.jpg",
-      "peek_preview": "Over the past few years, we have seen great changes within the Blancpain Fifty Fathoms lineup. The brand celebrated the 70th anniversary of its iconic diver in multiple “acts.” On top of that, Blancpain created a full c...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T22:01:21.000Z",
-      "score_quality": 72,
-      "score_notif": 63,
-      "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
-    },
-    {
       "title": "Blancpain Faithfully Revisits 1968 Bathyscaphe",
       "url": "https://watchesbysjx.com/2026/08/blancpain-fifty-fathoms-bathyscaphe-70-anniversary.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Blancpain-bathyscaphe-70-anniversary-3x2-header-1-300x200.jpg",
@@ -1052,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T14:00:59.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1464,20 +1478,6 @@
       "cluster_main": true
     },
     {
-      "title": "Twelve Market Observations By Ben Clymer (August 2026)",
-      "url": "https://www.hodinkee.com/articles/twelve-market-observations-by-ben-clymer-august-2026",
-      "image": "https://hodinkee.imgix.net/uploads/images/cd0dae25-aece-4635-8d6f-b5a34cb50828/Lange2026-61.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Six things happening in today's watch market that make zero sense, and six that make lots of sense.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-18T17:51:00.000Z",
-      "score_quality": 58,
-      "score_notif": 18,
-      "cluster": "20260818-29687e10c3e4",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: Legare Chapter I AGP Inverted—A New Independent Watch Brand Enters the Arena",
       "url": "https://www.watchcollectinglifestyle.com/home/introducing-legare-chapter-i-agp-inverteda-new-watch-brand-enters-the-arena",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787071296647-YF6OIYT9VU9KHN5BVBVC/2.-Legare-Chapter-1-AGP-Inverted-Elegant-and-Darth-scaled.webp?format=1500w",
@@ -1489,7 +1489,7 @@
       "score_quality": 80,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New independent maison – Legare opens fire with Chapter 1",
@@ -1839,20 +1839,6 @@
       "score_quality": 74,
       "score_notif": 18,
       "cluster": "20260815-bbf505079343",
-      "cluster_main": true
-    },
-    {
-      "title": "Grand Seiko Spring Drive: The Complete Guide To The Unique Hybrid Calibers",
-      "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-spring-drive",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand-Seiko-First-1960-2_8363e48f-90f9-43b5-8980-d8f0cf9261fb.jpg?v=1673620815",
-      "peek_preview": "Japan’s Grand Seiko has become, in a relatively short span of time, one of the world’s most prestigious and collectible high-luxury watchmakers, competing for connoisseur attention and dollars with well-established mais...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T18:52:36.000Z",
-      "score_quality": 76,
-      "score_notif": 15,
-      "cluster": "20260814-5810928ac634",
       "cluster_main": true
     }
   ]
