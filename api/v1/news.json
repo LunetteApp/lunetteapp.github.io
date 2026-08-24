@@ -1,6 +1,6 @@
 {
-  "content_hash": "2ea0c04051e6bb5212d0a4f75ad82d68f33a5678651b2dd93eb5e090b1a9ec28",
-  "last_updated": "2026-08-24T14:00:17.487Z",
+  "content_hash": "78dde93a529c341ab612638c5eb020fb6957bf2ab4ca7f670f8cd4e855c066a5",
+  "last_updated": "2026-08-24T14:47:42.082Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-22T17:00:09.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T14:00:37.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -58,14 +58,14 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T13:00:00.000Z"
     },
     {
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T13:52:49.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Wren Introduces the Diver One Abyss",
+      "url": "https://wornandwound.com/wren-introduces-the-diver-one-abyss/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Wren-Diver-One-Abyss-11.jpg",
+      "peek_preview": "Are you afraid of the dark? No, really—it’s one of the most common phobias and for good reason. The dark represents the unknown, the impossible, and the very idea of danger. And while that uncertainty often leads to an...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T14:00:37.000Z",
+      "score_quality": 73,
+      "score_notif": 31,
+      "cluster": "20260821-2e77a9f8120f",
+      "cluster_main": true
+    },
     {
       "title": "News orologi agosto 2026, fra grandi eventi e partnership",
       "url": "https://giornaleorologi.it/2026/08/24/news-orologi-agosto-2026-fra-grandi-eventi-e-partnership/",
@@ -298,7 +312,7 @@
       "published_at": "2026-08-24T07:00:19.000Z",
       "score_quality": 83,
       "score_notif": 43,
-      "cluster": "20260818-2c56b878e8bd",
+      "cluster": "20260824-0d22fe2a7c66",
       "cluster_main": true
     },
     {
@@ -717,9 +731,9 @@
       "featured": false,
       "published_at": "2026-08-21T14:01:31.000Z",
       "score_quality": 55,
-      "score_notif": 37,
+      "score_notif": 31,
       "cluster": "20260821-2e77a9f8120f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Sylvain Pinaud Tourbillon",
@@ -1010,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T14:00:59.000Z",
-      "score_quality": 77,
+      "score_quality": 79,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The New Czapek Promenade Transparencies Aqua Blue",
@@ -1461,7 +1475,7 @@
       "score_quality": 78,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Seiko x Tradman's Bonsai Presage Classic Series",
@@ -1476,20 +1490,6 @@
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
       "cluster_main": true
-    },
-    {
-      "title": "Jacques Bianchi Introduces their First Watch in Partnership with the Olympique de Marseille Football Club",
-      "url": "https://wornandwound.com/jacques-bianchi-introduces-their-first-watch-in-partnership-with-the-olympique-de-marseille-football-club/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/JB-Marseille-banner-.jpg",
-      "peek_preview": "Jacques Bianchi, the Marseille based brand specializing in dive watches, has released the first watch in what is expected to be an ongoing partnership with Olympique de Marseille, the city’s historic football club. This...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-18T14:00:26.000Z",
-      "score_quality": 75,
-      "score_notif": 43,
-      "cluster": "20260818-2c56b878e8bd",
-      "cluster_main": false
     },
     {
       "title": "New independent maison – Legare opens fire with Chapter 1",
