@@ -1,6 +1,6 @@
 {
-  "content_hash": "1ae83b4831d3eba75e7717646fbb10e88cd9ab34f7bd5b31b973ef7968db1aa8",
-  "last_updated": "2026-08-24T17:47:29.851Z",
+  "content_hash": "6daa7dd5dcb292d47af0f11f67a50ad80c0e6883899ea31f93872f4daf5b43a8",
+  "last_updated": "2026-08-24T18:47:02.416Z",
   "premium": {
     "links": []
   },
@@ -9,15 +9,15 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T17:00:15.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T14:00:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T18:30:20.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T17:29:52.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T17:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Blancpain Introduces the Fifty Fathoms Bathyscaphe 70th Anniversary Limited Edition",
+      "url": "https://wornandwound.com/blancpain-introduces-the-fifty-fathoms-bathyscaphe-70th-anniversary-limited-edition/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Blancpain-Bathyscahpe-70th-Anniversary-7.jpg",
+      "peek_preview": "You know, I actually wasn’t going to write about this watch. An $18,000 vintage inspired dive watch from a brand that doesn’t hold a ton of personal relevance to me was just not super high on my list of priorities as Ge...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T18:30:20.000Z",
+      "score_quality": 76,
+      "score_notif": 63,
+      "cluster": "20260820-0443d4aeb9d1",
+      "cluster_main": false
+    },
     {
       "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
       "url": "https://www.atimelyperspective.com/hands-on-i-wore-the-sold-out-seiko-x-rowing-blazers-x-eric-wind-watch/",
@@ -634,8 +648,8 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 60,
       "score_notif": 42,
-      "cluster": "20260822-a17f6072c609",
-      "cluster_main": true
+      "cluster": "20260817-b6350e93bc92",
+      "cluster_main": false
     },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
@@ -1041,7 +1055,7 @@
       "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 81,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
@@ -1464,20 +1478,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: Vario’s Navi Collection Goes International",
-      "url": "https://wornandwound.com/review/hands-on-varios-navi-collection-goes-international/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Vario_Navi_Spain_001_WR.jpg",
-      "peek_preview": "As I expand my knowledge of microbrands, I was super excited to receive a sample from Vario, a Singapore-based company that’s been going strong for a decade. The brand’s latest offering builds on its Navi collection, wh...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-18T18:00:47.000Z",
-      "score_quality": 73,
-      "score_notif": 28,
-      "cluster": "20260818-56746520dcd1",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: Legare Chapter I AGP Inverted—A New Independent Watch Brand Enters the Arena",
       "url": "https://www.watchcollectinglifestyle.com/home/introducing-legare-chapter-i-agp-inverteda-new-watch-brand-enters-the-arena",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787071296647-YF6OIYT9VU9KHN5BVBVC/2.-Legare-Chapter-1-AGP-Inverted-Elegant-and-Darth-scaled.webp?format=1500w",
@@ -1612,7 +1612,7 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-17T13:30:00.000Z",
-      "score_quality": 59,
+      "score_quality": 61,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
       "cluster_main": true
@@ -1839,6 +1839,20 @@
       "score_quality": 74,
       "score_notif": 18,
       "cluster": "20260815-bbf505079343",
+      "cluster_main": true
+    },
+    {
+      "title": "Grand Seiko Spring Drive: The Complete Guide To The Unique Hybrid Calibers",
+      "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-spring-drive",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand-Seiko-First-1960-2_8363e48f-90f9-43b5-8980-d8f0cf9261fb.jpg?v=1673620815",
+      "peek_preview": "Japan’s Grand Seiko has become, in a relatively short span of time, one of the world’s most prestigious and collectible high-luxury watchmakers, competing for connoisseur attention and dollars with well-established mais...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T18:52:36.000Z",
+      "score_quality": 67,
+      "score_notif": 12,
+      "cluster": "20260814-5810928ac634",
       "cluster_main": true
     }
   ]
