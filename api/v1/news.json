@@ -1,6 +1,6 @@
 {
-  "content_hash": "934029936c0c3c9f316a1098efa61c84eb44ec765a39a6df58a5e56515f0961c",
-  "last_updated": "2026-08-24T15:47:25.905Z",
+  "content_hash": "1376a4b17a383c6637d9601392eabdce1c695f0135166a583811ca60d643e79f",
+  "last_updated": "2026-08-24T16:47:21.017Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T11:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T16:00:55.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T15:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-on – The Porsche Design Chronograph 1 All-Titanium, Now With Leather Straps",
+      "url": "https://monochrome-watches.com/hands-on-review-porsche-design-chronograph-1-all-titanium-numbered-edition-specs-price-live-pics/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Porsche-Design-Chronograph-1-All-Titanium-Numbered-Edition-Leather-Straps-Featured-600x237.jpg",
+      "peek_preview": "Small changes can go a long way, but when a watch goes from bracelet-only (sort of) to a leather strap, it can go a very long way. Especially when said watch is a true pioneer in the field, with historical relevance and...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T16:00:55.000Z",
+      "score_quality": 80,
+      "score_notif": 34,
+      "cluster": "20260824-9ae10a9b6eeb",
+      "cluster_main": true
+    },
     {
       "title": "Recommended Reading: 'Universal People, Universal Dreams' Is A Timely, Heartfelt Telling Of One Man's Collecting Journey Into The Rarest Of The Rare",
       "url": "https://www.hodinkee.com/articles/recommended-reading-universal-people",
@@ -1013,7 +1027,7 @@
       "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -1041,21 +1055,7 @@
       "score_quality": 79,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The New Czapek Promenade Transparencies Aqua Blue",
-      "url": "https://monochrome-watches.com/czapek-promenade-transparencies-aqua-blue-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Czapek-Promenade-Transparencies-Aqua-Blue-review-1-600x237.jpg",
-      "peek_preview": "Independent watchmaking brand Czapek introduced the Promenade collection in 2024 as a more classic and elegant vision of its contemporary watchmaking. Since then, the model has been used for several creative dial execut...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 100,
-      "score_notif": 55,
-      "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1486,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-18T17:01:29.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New independent maison – Legare opens fire with Chapter 1",
