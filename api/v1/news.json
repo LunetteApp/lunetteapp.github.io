@@ -1,6 +1,6 @@
 {
-  "content_hash": "b94b409612945387d3f55e6b16ef8e23e6d23750de36d574bf6557ca749453cf",
-  "last_updated": "2026-08-24T00:47:29.294Z",
+  "content_hash": "a4123d2fce47e617a7ac94f02c7f0279e69101692284245ab254e816fb4c1601",
+  "last_updated": "2026-08-24T01:47:14.919Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-20T19:10:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T01:00:23.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T00:00:50.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: Roger Dubuis Excalibur Biretrograde Perpetual Calendar",
+      "url": "https://watchesbysjx.com/2026/08/roger-dubuis-excalibur-biretrograde-perpetual-calendar-review.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Roger-Dubuis-Excalibur-Biretrograde-Perpetual-3x2-centred-header-300x200.jpg",
+      "peek_preview": "The Roger Dubuis (RD) Excalibur Biretrograde Perpetual Calendar is something of a bridge across eras for RD, combining the brand’s seminal biretrograde calendar format with the 2000s-era Excalibur case, executed in RD’s...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T01:00:23.000Z",
+      "score_quality": 82,
+      "score_notif": 48,
+      "cluster": "20260823-0b35c58ce4dc",
+      "cluster_main": true
+    },
     {
       "title": "ハミルトンからノーラン監督「オデュッセイア」着想の「カーキ フィールド オート」の限定モデルが登場",
       "url": "https://www.webchronos.net/news/170356/",
@@ -311,9 +325,9 @@
       "featured": false,
       "published_at": "2026-08-23T03:00:56.000Z",
       "score_quality": 64,
-      "score_notif": 46,
+      "score_notif": 48,
       "cluster": "20260823-0b35c58ce4dc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "シチズン「エクシード」に中秋の名月をテーマとしたムーンフェイズ表示モデルが登場",
@@ -410,7 +424,7 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 60,
       "score_notif": 42,
-      "cluster": "20260822-a17f6072c609",
+      "cluster": "20260817-b6350e93bc92",
       "cluster_main": true
     },
     {
@@ -828,10 +842,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -870,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:01:05.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1545,7 +1559,7 @@
       "score_quality": 59,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative Presage Classic Limited Edition",
@@ -1811,20 +1825,6 @@
       "score_quality": 71,
       "score_notif": 14,
       "cluster": "20260814-5810928ac634",
-      "cluster_main": true
-    },
-    {
-      "title": "Alpinist to Astron: Seiko Celebrates 145 Years",
-      "url": "https://watchesbysjx.com/2026/08/seiko-alpinist-hbc006-astron-hab011-rotocall-hfl001.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Seiko-Alpinist-145-anniversary-3x2-centred-header-300x200.jpg",
-      "peek_preview": "Kintaro Hattori is considered the father of the Japanese watch and clock industry, having opened K. Hattori & Co. in Tokyo 145 years ago. Hattori’s humble store eventually evolved into an empire that made Seiko the larg...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-14T17:28:08.000Z",
-      "score_quality": 98,
-      "score_notif": 64,
-      "cluster": "20260814-68a0932a6f64",
       "cluster_main": true
     },
     {
