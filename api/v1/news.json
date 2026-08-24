@@ -1,6 +1,6 @@
 {
-  "content_hash": "3c6ae006133e83dc250a7ffb7a70020a6b1ece97d06d127a752b2cc7de335605",
-  "last_updated": "2026-08-24T08:46:58.624Z",
+  "content_hash": "1e3d45bb3891185a023671baa1ea166fb1a663db22491106dfa2c5c2b44f21b0",
+  "last_updated": "2026-08-24T09:47:37.733Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T05:00:34.000Z"
+      "estimated_articles_per_day": 2.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-24T09:00:14.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T08:01:11.000Z"
     },
     {
@@ -99,7 +99,7 @@
     {
       "source_name": "Watch Insanity",
       "lang": "it",
-      "estimated_articles_per_day": 0.2,
+      "estimated_articles_per_day": 0.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-15T07:30:00.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Evolution Of “Ultimate Simplicity” — Introducing The Minase Mastercraft J3",
+      "url": "https://www.fratellowatches.com/introducing-the-minase-mastercraft-j3/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/minase-watches-j7-06.jpg",
+      "peek_preview": "As time passes, you often accumulate stuff. Visualize what’s in your attic, and you’ll know what I’m talking about. Now, Minase is doing the opposite. The new J3 is a model inspired by the M3, but instead of adding deta...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-24T09:00:14.000Z",
+      "score_quality": 76,
+      "score_notif": 47,
+      "cluster": "20260824-1ab48254855a",
+      "cluster_main": true
+    },
     {
       "title": "Wise’s material choices make for a stand-out diver with its ADAMASCUS A8.1 Forged Carbon",
       "url": "https://timeandtidewatches.com/wise-adamascus-forged-carbon-diver-micro-mondays/",
@@ -932,7 +946,7 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – The new Czapek Promenade Transparencies Aqua Blue",
+      "title": "First Look – The New Czapek Promenade Transparencies Aqua Blue",
       "url": "https://monochrome-watches.com/czapek-promenade-transparencies-aqua-blue-review-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/08/Czapek-Promenade-Transparencies-Aqua-Blue-review-1-600x237.jpg",
       "peek_preview": "Independent watchmaking brand Czapek introduced the Promenade collection in 2024 as a more classic and elegant vision of its contemporary watchmaking. Since then, the model has been used for several creative dial execut...",
@@ -955,20 +969,6 @@
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
       "score_quality": 81,
-      "score_notif": 55,
-      "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
-    },
-    {
-      "title": "Movement And Dial Hand In Hand: Czapek Promenade Transparencies Aqua Blue",
-      "url": "https://www.fratellowatches.com/movement-and-dial-hand-in-hand-czapek-promenade-transparencies-aqua-blue/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Czapek-Transparencies-Bleu-cover.jpg",
-      "peek_preview": "Czapek & Cie introduces the Promenade Transparencies Aqua Blue, a new 38-piece limited edition that takes the transparency concept from the Czapek × Fratello Promenade Transparencies Viridian Green and gives it a new co...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T13:00:37.000Z",
-      "score_quality": 77,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
       "cluster_main": false
@@ -1797,6 +1797,62 @@
       "score_quality": 74,
       "score_notif": 18,
       "cluster": "20260815-bbf505079343",
+      "cluster_main": true
+    },
+    {
+      "title": "Grand Seiko Spring Drive: The Complete Guide To The Unique Hybrid Calibers",
+      "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-spring-drive",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand-Seiko-First-1960-2_8363e48f-90f9-43b5-8980-d8f0cf9261fb.jpg?v=1673620815",
+      "peek_preview": "Japan’s Grand Seiko has become, in a relatively short span of time, one of the world’s most prestigious and collectible high-luxury watchmakers, competing for connoisseur attention and dollars with well-established mais...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T18:52:36.000Z",
+      "score_quality": 76,
+      "score_notif": 15,
+      "cluster": "20260814-5810928ac634",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: IWC Big Pilot's Watch Perpetual Calendar ProSet 140 Years Mercedes-Benz—A New Chapter for the Perpetual Calendar",
+      "url": "https://www.watchcollectinglifestyle.com/home/iwc-big-pilots-watch-perpetual-proset-140-years-mercedes-benz",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1786724505363-EG89TPPNG5QJODHJGZM3/IWC+Big+Pilot%27s+Watch+Perpetual+Calendar+ProSet+140+Years+Mercedes-Benz.jpg?format=1500w",
+      "peek_preview": "IWC has a long habit of dressing up corporate anniversaries as horological events, and ordinarily that's where my attention drifts elsewhere. This one is different, because tucked inside the Mercedes-Benz 140th-annivers...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T16:30:19.000Z",
+      "score_quality": 67,
+      "score_notif": 25,
+      "cluster": "20260814-2359a324ec57",
+      "cluster_main": true
+    },
+    {
+      "title": "Movado’s Heritage Collection Brings The Brand’s Greatest Designs Into The Present",
+      "url": "https://www.ablogtowatch.com/movados-heritage-collection-brings-the-brands-greatest-designs-into-the-present/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Movado-Heritage-Kingmatic-SP-FI-768x346.jpg",
+      "peek_preview": "Luxury watch brands often speak about heritage, but relatively few have archives as deep or stylistically diverse as Movado. Founded in 1881 in La Chaux-de-Fonds, Switzerland, the company has spent nearly a century and...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T14:00:31.000Z",
+      "score_quality": 43,
+      "score_notif": 10,
+      "cluster": "20260814-1999afb90c88",
+      "cluster_main": true
+    },
+    {
+      "title": "Review: falling in love with the 2026 Piaget Polo 79 with the beautiful Sodalite dial",
+      "url": "https://deployant.com/review-falling-in-love-with-the-2026-piaget-polo-79-with-the-beautiful-sodalite-dial/?utm_source=rss&utm_medium=rss&utm_campaign=review-falling-in-love-with-the-2026-piaget-polo-79-with-the-beautiful-sodalite-dial",
+      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/piager-polo-sodalite-mirror.jpg?fit=1200%2C964&ssl=1",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors We organised a special collector event for Piaget recently and got intimate with the Polo 79 Sodalite. The dial is made from Sodalite, a rich royal-blue miner...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-14T13:30:00.000Z",
+      "score_quality": 72,
+      "score_notif": 20,
+      "cluster": "20260814-72fa6b391f76",
       "cluster_main": true
     }
   ]
