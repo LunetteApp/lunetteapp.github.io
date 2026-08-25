@@ -1,6 +1,6 @@
 {
-  "content_hash": "70bf6d2601688519d38d7153a1336cec6c6ab515aa8dc224333f77ac7480a1fa",
-  "last_updated": "2026-08-25T00:47:06.318Z",
+  "content_hash": "87ee5d533c9283662f7b564613bb5d34ac408b08e7225f1e4f45b3f1b82ea0fa",
+  "last_updated": "2026-08-25T03:47:07.960Z",
   "premium": {
     "links": []
   },
@@ -164,7 +164,7 @@
       "lang": "ja",
       "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-25T00:00:29.000Z"
+      "latest_article_at": "2026-08-25T03:00:27.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -1010,10 +1010,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-21T03:00:56.000Z",
-      "score_quality": 71,
+      "score_quality": 75,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "H.モーザーが夜空に降り注ぐ星々を表現した「エンデバー」のコンプリケーションモデルを発表",
@@ -1122,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T14:00:59.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1279,20 +1279,6 @@
       "score_quality": 50,
       "score_notif": 18,
       "cluster": "20260820-eeff2e975d7f",
-      "cluster_main": true
-    },
-    {
-      "title": "ヴァシュロン・コンスタンタンが西日本初となる神戸店をオープン",
-      "url": "https://www.webchronos.net/news/170162/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/vc_kobe_1.webp",
-      "peek_preview": "老舗高級時計ブランドのヴァシュロン・コンスタンタンは、2026年9月10日（木）に西日本エリア初となる路面店を兵庫県神戸市にグランドオープンする。1755年の創業以来、絶え間なく時計を作り続けてきた同ブランドの伝統と技術 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-20T03:00:23.000Z",
-      "score_quality": 46,
-      "score_notif": 24,
-      "cluster": "20260820-24a0a5863cd8",
       "cluster_main": true
     },
     {
@@ -1517,7 +1503,7 @@
       "score_quality": 82,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New independent maison – Legare opens fire with Chapter 1",
@@ -1657,7 +1643,7 @@
       "score_quality": 74,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Quadranti Tropical: perché il sole rende unici gli orologi",
