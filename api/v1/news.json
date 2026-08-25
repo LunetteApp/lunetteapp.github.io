@@ -1,6 +1,6 @@
 {
-  "content_hash": "464a9f84f5b7e6d57800a0a95818563d8b9c6b26544d98a6da6e3ac1e52c1e19",
-  "last_updated": "2026-08-24T22:46:53.334Z",
+  "content_hash": "70bf6d2601688519d38d7153a1336cec6c6ab515aa8dc224333f77ac7480a1fa",
+  "last_updated": "2026-08-25T00:47:06.318Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-24T22:01:58.000Z"
     },
     {
@@ -162,19 +162,33 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T03:00:08.000Z"
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-25T00:00:29.000Z"
     },
     {
       "source_name": "GMT Korea",
       "lang": "ko",
-      "estimated_articles_per_day": 0.2,
+      "estimated_articles_per_day": 0.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-07-26T13:58:19.000Z"
     }
   ],
   "items": [
+    {
+      "title": "ユニタスを搭載するマイスタージンガー「エディション ユニタス 1Z」に、ブルーエナメルダイアルの新作が登場",
+      "url": "https://www.webchronos.net/news/170554/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/MeisterSinger_1.webp",
+      "peek_preview": "マイスタージンガーは、ブランドの創業25周年記念モデルの第2弾として、「エディション ユニタス 1Z ブルー」を発表した。前作に続き、ユニタスムーブメントを搭載する本作では、ブランド初となるカラーエナメルを使ったダイアル […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-25T00:00:29.000Z",
+      "score_quality": 72,
+      "score_notif": 28,
+      "cluster": "20260815-93ada3983a2e",
+      "cluster_main": true
+    },
     {
       "title": "An Ultra-Rare Complication Featuring Delicate Hand-Made Decorations: The ArtyA Genève Complexity Métiers d’Art",
       "url": "https://www.fratellowatches.com/artya-geneve-complexity-metiers-dart/",
@@ -1296,20 +1310,6 @@
       "cluster_main": true
     },
     {
-      "title": "タグ・ホイヤーが最後のF1 オランダGP™を記念した「フォーミュラ1 ソーラーグラフ」2モデルを発売",
-      "url": "https://www.webchronos.net/news/170095/",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png",
-      "peek_preview": "タグ・ホイヤーより、新作「タグ・ホイヤー フォーミュラ1 ソーラーグラフ 38mm」2種が発表された。本作はオランダ・ザントフォールトで最後の開催を迎えるF1 オランダGP™を記念したモデルであり、ビビットなオレンジを取 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-20T00:00:52.000Z",
-      "score_quality": 68,
-      "score_notif": 45,
-      "cluster": "20260820-1cb3b1ff207c",
-      "cluster_main": true
-    },
-    {
       "title": "Longines Adds a Light Blue Conquest Heritage Central Power Reserve",
       "url": "https://wornandwound.com/longines-adds-a-light-blue-conquest-heritage-central-power-reserve/",
       "image": "https://wornandwound.com/library/uploads/2026/08/Longines-Central-Power-Blue-5.jpg",
@@ -1797,7 +1797,7 @@
       "score_quality": 71,
       "score_notif": 28,
       "cluster": "20260815-93ada3983a2e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: Breguet's Aiguille d'Or Winner, IWC's Perpetual Gets the Benz Treatment, and ALS Gold Flux",
