@@ -1,6 +1,6 @@
 {
-  "content_hash": "913ce4cd8ea7dc6a74ee60a8c3490c5df75dd60345ebe42266f62d5511482288",
-  "last_updated": "2026-08-25T10:47:15.668Z",
+  "content_hash": "4e4abe2c9d64a86d001ca250701c9d83fcf7a58e935f6146759c5aac0c4b766b",
+  "last_updated": "2026-08-25T11:47:13.529Z",
   "premium": {
     "links": []
   },
@@ -9,21 +9,21 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T10:00:07.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T18:30:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-25T11:24:17.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.8,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T10:01:56.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T10:00:02.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T10:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T10:01:00.000Z"
     },
     {
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T10:00:00.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T10:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Review: Is the New Omega Speedmaster 38 the Modern Speedmaster Reduced?",
+      "url": "https://wornandwound.com/review/review-is-the-new-omega-speedmaster-38-the-modern-speedmaster-reduced/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/SPEEDMASTER_38_2.jpg",
+      "peek_preview": "The name “Speedmaster Reduced” is a blanket term for the Speedmaster Automatics with cases smaller than the iconic 42mm Omega Speedmaster Professional. First launched in the late ’80s, there is a dizzying number of refe...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-25T11:24:17.000Z",
+      "score_quality": 78,
+      "score_notif": 71,
+      "cluster": "20260825-32a3e1d6541a",
+      "cluster_main": false
+    },
     {
       "title": "First Look – The New Longines Master Chrono Monopusher (Incl. Video)",
       "url": "https://monochrome-watches.com/2026-longines-master-chrono-monopusher-handwound-video-review-price/",
@@ -1012,8 +1026,8 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 62,
       "score_notif": 42,
-      "cluster": "20260817-b6350e93bc92",
-      "cluster_main": false
+      "cluster": "20260822-a17f6072c609",
+      "cluster_main": true
     },
     {
       "title": "The Petrolhead Corner – Three Incredible New Hypercars From The Monterey Car Week",
@@ -1559,20 +1573,6 @@
       "score_quality": 69,
       "score_notif": 22,
       "cluster": "20260819-b4f2de0b69b0",
-      "cluster_main": true
-    },
-    {
-      "title": "Version Watches, and a Uniquely French Take on Midcentury Design",
-      "url": "https://wornandwound.com/version-watches-and-a-uniquely-french-take-on-midcentury-design/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Version-Watches-Feature-8.jpg",
-      "peek_preview": "Cybèle Vigneron and Carla Lanfranchini first met at the Strate École de Design outside of Paris, arriving at the institution with enviable backgrounds: Lanfranchini had served as an artistic director and graphic designe...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-19T17:00:02.000Z",
-      "score_quality": 63,
-      "score_notif": 20,
-      "cluster": "20260819-64a2f2e241b9",
       "cluster_main": true
     },
     {
