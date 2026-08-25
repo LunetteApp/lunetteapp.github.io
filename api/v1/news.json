@@ -1,6 +1,6 @@
 {
-  "content_hash": "4e4abe2c9d64a86d001ca250701c9d83fcf7a58e935f6146759c5aac0c4b766b",
-  "last_updated": "2026-08-25T11:47:13.529Z",
+  "content_hash": "4a2ca74ec3d718ddac21800827c56b817836095936399ecfbfb88c619100703c",
+  "last_updated": "2026-08-25T13:47:04.758Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T11:24:17.000Z"
     },
     {
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-25T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-25T04:00:07.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-25T13:00:37.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T09:35:56.000Z"
     },
     {
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
+      "estimated_articles_per_day": 0.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T08:14:57.000Z"
     },
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
+      "url": "https://deployant.com/jaquet-droz-tourbillon-plasma-ceramic-a-new-piece-unique-with-price-specs-and-details/?utm_source=rss&utm_medium=rss&utm_campaign=jaquet-droz-tourbillon-plasma-ceramic-a-new-piece-unique-with-price-specs-and-details",
+      "image": "https://deployant.com/wp-content/uploads/2026/08/Jaquet-Droz-TOURBILLON-SKELET-CERAMIC-PLASMA-OBERALP-wheel.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Jaquet Droz has announced the new Tourbillon Plasma Ceramic Oberlap, a piece unique which carries the story of co-creation. The watch is inspired by the owner...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-25T13:30:00.000Z",
+      "score_quality": 79,
+      "score_notif": 33,
+      "cluster": "20260825-1d0ce490da0a",
+      "cluster_main": true
+    },
+    {
+      "title": "Reinvented Royter Debuts Hand-Engraved Nova",
+      "url": "https://watchesbysjx.com/2026/08/royter-legacy-series-nova.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Royter-Legacy-Series-Nova-Edition-Feat-300x200.jpg",
+      "peek_preview": "Brooklyn-based independent watchmaker Dan Royter takes a new direction with the Legacy Series Nova Edition, entirely unlike his past portfolio of chronographs. The first entry in the brand’s new chapter combines a hand-...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-25T13:00:37.000Z",
+      "score_quality": 75,
+      "score_notif": 37,
+      "cluster": "20260825-f9667b0a4530",
+      "cluster_main": true
+    },
     {
       "title": "Review: Is the New Omega Speedmaster 38 the Modern Speedmaster Reduced?",
       "url": "https://wornandwound.com/review/review-is-the-new-omega-speedmaster-38-the-modern-speedmaster-reduced/",
@@ -481,7 +509,7 @@
       "score_quality": 77,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Silent Sleepers: The Best Watch Releases No One Talks About",
@@ -1026,8 +1054,8 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 62,
       "score_notif": 42,
-      "cluster": "20260822-a17f6072c609",
-      "cluster_main": true
+      "cluster": "20260817-b6350e93bc92",
+      "cluster_main": false
     },
     {
       "title": "The Petrolhead Corner – Three Incredible New Hypercars From The Monterey Car Week",
@@ -1332,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -1374,10 +1402,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
@@ -1825,34 +1853,6 @@
       "score_quality": 63,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
-      "cluster_main": true
-    },
-    {
-      "title": "Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative Presage Classic Limited Edition",
-      "url": "https://timeandtidewatches.com/seiko-presage-classic-series-tradmans-bonsai-limited-edition-hcc009j-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Seiko-TRADMANS-Bonsai-feature.jpg",
-      "peek_preview": "Seiko continues its celebration of Japanese traditional arts with a new Presage Classic limited edition inspired by the art of Bonsai. The post Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-17T08:01:46.000Z",
-      "score_quality": 78,
-      "score_notif": 42,
-      "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": true
-    },
-    {
-      "title": "Quadranti Tropical: perché il sole rende unici gli orologi",
-      "url": "https://giornaleorologi.it/2026/08/17/quadranti-tropical/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/Rolex-Submariner-1-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Quadranti Tropical: perché il sole rende unici gli orologi La radiazione solare cambia la materia, ma non lo fa sempre allo stesso modo. Sulla pelle umana stimola la melanina e regala una tempo...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-17T08:00:00.000Z",
-      "score_quality": 69,
-      "score_notif": 12,
-      "cluster": "20260817-d8ba7d64c21b",
       "cluster_main": true
     }
   ]
