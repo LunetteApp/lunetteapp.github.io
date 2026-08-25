@@ -1,6 +1,6 @@
 {
-  "content_hash": "70550ae74d4ddff64c7a20432bd58ab2b41d5ec241cac70d4e4304653e63f587",
-  "last_updated": "2026-08-25T19:47:01.957Z",
+  "content_hash": "dc5dfce3728d8749db44ac34576ffacbd62cbaaa9613d3271032d28b4cc0880c",
+  "last_updated": "2026-08-25T20:47:40.859Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-25T17:00:36.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-25T20:00:35.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -65,14 +65,14 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T19:20:29.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T21:36:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-25T20:07:27.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Watch Shopping: Hublot Opens Its First Chicago Boutique—Fulton Market Gets Its Porthole",
+      "url": "https://www.watchcollectinglifestyle.com/home/hublot-chicago-boutique-geneva-seal-fulton-market",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787687231293-BRLXMOP17WCURIY0U612/Hublot+Boutique+Chicago+Geneva+Seal+Fulton+Market.jpg?format=1500w",
+      "peek_preview": "Hublot has planted its flag in Chicago. On August 18, the LVMH-owned Maison opened its first Chicago boutique in the Fulton Market District in partnership with Geneva Seal. The neighborhood, which has spent the last dec...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-25T20:07:27.000Z",
+      "score_quality": 45,
+      "score_notif": 25,
+      "cluster": "20260825-bd2672d0df37",
+      "cluster_main": true
+    },
     {
       "title": "Longines Masters The Monopusher",
       "url": "https://watchesbysjx.com/2026/08/longines-master-monopusher.html",
@@ -520,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:01:10.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega amplia lo Speedmaster 38 nel 2026: sette nuovi modelli",
@@ -565,7 +579,7 @@
       "score_quality": 90,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -593,7 +607,7 @@
       "score_quality": 79,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Silent Sleepers: The Best Watch Releases No One Talks About",
@@ -1346,10 +1360,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-21T03:00:56.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "H.モーザーが夜空に降り注ぐ星々を表現した「エンデバー」のコンプリケーションモデルを発表",
@@ -1434,20 +1448,6 @@
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
       "cluster_main": false
-    },
-    {
-      "title": "Wei Koh and Guillaume Tetu Launch Legare with the Chapter 1 AGP Inverted",
-      "url": "https://wornandwound.com/wei-koh-and-guillaume-tetu-launch-legare-with-the-chapter-1-agp-inverted/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Legare-Chapter-1-4.jpg",
-      "peek_preview": "Just ahead of Geneva Watch Days, we see the debut of a new haute horlogerie brand, brought to us in part by Wei Koh, founder of Revolution and the Rake, and a longtime fixture in the watch media landscape. The new brand...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T14:00:59.000Z",
-      "score_quality": 87,
-      "score_notif": 42,
-      "cluster": "20260818-c8609b603e7c",
-      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1741,7 +1741,7 @@
       "score_quality": 86,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New independent maison – Legare opens fire with Chapter 1",
