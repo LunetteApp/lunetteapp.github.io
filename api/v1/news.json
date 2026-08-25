@@ -1,6 +1,6 @@
 {
-  "content_hash": "87ee5d533c9283662f7b564613bb5d34ac408b08e7225f1e4f45b3f1b82ea0fa",
-  "last_updated": "2026-08-25T03:47:07.960Z",
+  "content_hash": "7645c99bed6cfb127bd92d209998f7d3ada0f2212ea3d14256a9a47f9e6656b9",
+  "last_updated": "2026-08-25T04:47:26.876Z",
   "premium": {
     "links": []
   },
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T02:00:08.000Z"
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-25T04:00:07.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T03:00:27.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Why Is Everything Inverted?",
+      "url": "https://watchesbysjx.com/2026/08/inverted-movements.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2025/06/Louis-Vuitton-Escale-en-Amazonie-movement-300x200.jpg",
+      "peek_preview": "At the beginning of the year, we wondered if 2026 might become the year of the jumping hours wristwatch. While that trend is still developing, a spate of new releases in the past few months has crystallised another tren...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-25T04:00:07.000Z",
+      "score_quality": 28,
+      "score_notif": 10,
+      "cluster": "20260825-ca5718fc63bc",
+      "cluster_main": true
+    },
+    {
       "title": "ユニタスを搭載するマイスタージンガー「エディション ユニタス 1Z」に、ブルーエナメルダイアルの新作が登場",
       "url": "https://www.webchronos.net/news/170554/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/08/MeisterSinger_1.webp",
@@ -187,7 +201,7 @@
       "score_quality": 72,
       "score_notif": 28,
       "cluster": "20260815-93ada3983a2e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "An Ultra-Rare Complication Featuring Delicate Hand-Made Decorations: The ArtyA Genève Complexity Métiers d’Art",
@@ -705,7 +719,7 @@
       "score_quality": 62,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Photographer Preserving Centuries Of Pocket Watches",
@@ -1013,7 +1027,7 @@
       "score_quality": 75,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "H.モーザーが夜空に降り注ぐ星々を表現した「エンデバー」のコンプリケーションモデルを発表",
@@ -1125,7 +1139,7 @@
       "score_quality": 83,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1500,10 +1514,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-18T17:01:29.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New independent maison – Legare opens fire with Chapter 1",
@@ -1626,10 +1640,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-17T13:30:00.000Z",
-      "score_quality": 61,
+      "score_quality": 63,
       "score_notif": 42,
       "cluster": "20260817-b6350e93bc92",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative Presage Classic Limited Edition",
@@ -1640,10 +1654,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-17T08:01:46.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Quadranti Tropical: perché il sole rende unici gli orologi",
@@ -1780,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-15T13:30:00.000Z",
-      "score_quality": 71,
+      "score_quality": 73,
       "score_notif": 28,
       "cluster": "20260815-93ada3983a2e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weekend Reads: Breguet's Aiguille d'Or Winner, IWC's Perpetual Gets the Benz Treatment, and ALS Gold Flux",
