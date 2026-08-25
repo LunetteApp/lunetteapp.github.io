@@ -1,6 +1,6 @@
 {
-  "content_hash": "dc5dfce3728d8749db44ac34576ffacbd62cbaaa9613d3271032d28b4cc0880c",
-  "last_updated": "2026-08-25T20:47:40.859Z",
+  "content_hash": "959def64aa1ef9347f1d0b6e1d202f8f56821a118d6cb1d2d27836723445b74e",
+  "last_updated": "2026-08-25T21:47:40.205Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T20:00:35.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T20:07:27.000Z"
     },
     {
@@ -537,7 +537,7 @@
       "score_quality": 91,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega amplia lo Speedmaster 38 nel 2026: sette nuovi modelli",
@@ -576,10 +576,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:00.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -604,10 +604,10 @@
       "lang": "fr",
       "featured": false,
       "published_at": "2026-08-25T05:42:00.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Silent Sleepers: The Best Watch Releases No One Talks About",
@@ -1363,7 +1363,7 @@
       "score_quality": 80,
       "score_notif": 42,
       "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "H.モーザーが夜空に降り注ぐ星々を表現した「エンデバー」のコンプリケーションモデルを発表",
@@ -1839,6 +1839,20 @@
       "score_quality": 89,
       "score_notif": 7,
       "cluster": "20260817-bcea9c8680a1",
+      "cluster_main": true
+    },
+    {
+      "title": "Two stunning new Seiko Presage Classic Series “Craftsmanship”",
+      "url": "https://deployant.com/two-stunning-new-seiko-presage-classic-series-craftsmanship/?utm_source=rss&utm_medium=rss&utm_campaign=two-stunning-new-seiko-presage-classic-series-craftsmanship",
+      "image": "https://deployant.com/wp-content/uploads/2026/08/Main_Visual_RGB.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Discover the new Seiko Presage Classic Craftsmanship Series (HCC005 & HCC006). These stunning enamel and urushi lacquer watches beautifully revive the histori...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-17T13:30:00.000Z",
+      "score_quality": 47,
+      "score_notif": 18,
+      "cluster": "20260817-b6350e93bc92",
       "cluster_main": true
     }
   ]
