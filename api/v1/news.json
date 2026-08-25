@@ -1,6 +1,6 @@
 {
-  "content_hash": "ea9c00d0f0897b8eef67340d509b2e969559e3b43e358d75944329ab6ef93649",
-  "last_updated": "2026-08-25T07:46:57.915Z",
+  "content_hash": "edf25d0cc81937f0f2cb5debc2a92ce7611e6d7331f40e98c05643a9d97e5afb",
+  "last_updated": "2026-08-25T08:47:23.822Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T07:00:16.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T07:01:01.000Z"
     },
     {
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-23T19:00:54.000Z"
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-25T08:14:57.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Uhrenmarkt 2026: Juni und Juli drehen das Vorzeichen",
+      "url": "https://www.uhrenkosmos.com/internationaler-uhrenmarkt-2026-im-aufwind/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Uhrenmarkt-Juni-Juli-2026-C-Uhrenkosmos.jpg",
+      "peek_preview": "Die Exporte der Schweizer Uhrenindustrie erholen sich. Von einer nachhaltigen Trendwende oder gar Boomphase lässt sich allerdings noch nicht sprechen. Positiv entwickelt sich der Handel mit Uhren aus Vorbesitz. Der Uhre...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-08-25T08:14:57.000Z",
+      "score_quality": 62,
+      "score_notif": 46,
+      "cluster": "20260825-f5fd01e07d52",
+      "cluster_main": true
+    },
+    {
       "title": "Inaugural ‘Time At Wynn’ High-End Watch Collectors’ Event Shines Light On Las Vegas",
       "url": "https://www.ablogtowatch.com/inaugural-time-at-wynn-high-end-watch-collectors-event-shines-light-on-las-vegas/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Time-At-Wynn-Las-Vegas-2026-featured-1-768x346.jpg",
@@ -198,10 +212,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T07:01:00.000Z",
-      "score_quality": 64,
+      "score_quality": 78,
       "score_notif": 26,
       "cluster": "20260823-970007b728e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fratello On Air: The Watches That Got Away",
@@ -747,7 +761,7 @@
       "score_quality": 77,
       "score_notif": 26,
       "cluster": "20260823-970007b728e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Genta Meets Garcia: Gerald Charles Masterlink Perpetual Calendar Micro-Rotor Watch Review",
@@ -773,9 +787,9 @@
       "featured": false,
       "published_at": "2026-08-23T05:00:42.000Z",
       "score_quality": 45,
-      "score_notif": 10,
-      "cluster": "20260823-a4f997d2fc57",
-      "cluster_main": true
+      "score_notif": 63,
+      "cluster": "20260820-0443d4aeb9d1",
+      "cluster_main": false
     },
     {
       "title": "ロジェ・デュブイが宇宙の神秘から着想を得た「エクスカリバー バイレトログラード カレンダー」を発表",
@@ -886,8 +900,8 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 62,
       "score_notif": 42,
-      "cluster": "20260817-b6350e93bc92",
-      "cluster_main": false
+      "cluster": "20260822-a17f6072c609",
+      "cluster_main": true
     },
     {
       "title": "The Petrolhead Corner – Three Incredible New Hypercars From The Monterey Car Week",
@@ -1251,7 +1265,7 @@
       "score_quality": 85,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1612,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-18T17:01:29.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 42,
       "cluster": "20260818-c8609b603e7c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New independent maison – Legare opens fire with Chapter 1",
@@ -1839,20 +1853,6 @@
       "score_quality": 66,
       "score_notif": 47,
       "cluster": "20260816-5de5bc976327",
-      "cluster_main": true
-    },
-    {
-      "title": "MoonSwatch Solar Eclipse: Swatch ha venduto un orologio per sole 24 ore. Ma funziona ancora",
-      "url": "https://www.orologidiclasse.com/moonswatch-solar-eclipse-24-ore-spagna/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/08/moonswatch-solar-eclipse-cover.jpg",
-      "peek_preview": "Come ben saprai, il 12 agosto 2026 si è verificata un’eclissi totale di Sole, visibile anche dall’Italia seppure solo parzialmente. Nello stesso giorno Swatch ha fatto qualcosa che, raccontato così, sembra quasi uno sch...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-16T15:12:14.000Z",
-      "score_quality": 50,
-      "score_notif": 68,
-      "cluster": "20260816-fa4f3c775752",
       "cluster_main": true
     }
   ]
