@@ -1,6 +1,6 @@
 {
-  "content_hash": "479645f9346644eb797fc5a1d288e2e26af0c2e537b5bf0242a1fbb802317986",
-  "last_updated": "2026-08-26T05:47:01.934Z",
+  "content_hash": "0772643efa543bf29923f482b372a8716a2f2e16fa34ce14a8e92397d0446380",
+  "last_updated": "2026-08-26T07:47:20.173Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-26T05:00:07.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-25T16:05:32.000Z"
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-08-26T07:15:39.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-25T07:01:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-26T07:01:14.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
+      "estimated_articles_per_day": 1.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T10:01:00.000Z"
     },
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – By Popular Choice… The new Seiko Prospex 1965 Heritage Diver “Fan-Selected” HBC011",
+      "url": "https://monochrome-watches.com/introducing-popular-choice-the-new-seiko-prospex-1965-heritage-diver-fan-selected-hbc011-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Seiko-Prospex-1965-Heritage-Diver-Watch-Fan-Selected-Limited-Edition-HBC011-1-600x237.jpg",
+      "peek_preview": "Last year marked the 60th anniversary of the first-ever dive watch created by Seiko, the now-emblematic 62MAS model. Still a great source of inspiration for the brand, its clean and purposeful design has been modernised...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-26T07:15:39.000Z",
+      "score_quality": 81,
+      "score_notif": 56,
+      "cluster": "20260826-1e62082855ef",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: Perrelet Turbine Casino Roulette Watch Is On-Trend For Today’s Gambling-Fascinated World",
+      "url": "https://www.ablogtowatch.com/hands-on-perrelet-turbine-casino-roulette-watch-is-on-trend-for-todays-gambling-fascinated-world/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Perrelet-Turbine-Casino-Roulette-Watch-FEATURE-768x346.jpg",
+      "peek_preview": "The popularity of gambling has significantly increased in recent years due to the proliferation of online prediction markets, and it is now possible to place a bet on virtually anything imaginable. In much the same way...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-26T07:01:14.000Z",
+      "score_quality": 69,
+      "score_notif": 18,
+      "cluster": "20260826-cbafcc37b4d3",
+      "cluster_main": true
+    },
+    {
+      "title": "Just Because – Carved in Titanium, the Fully-Engraved Urwerk UR-1001 Amadeus",
+      "url": "https://monochrome-watches.com/carved-in-titanium-the-fully-engraved-urwerk-ur-1001-amadeus-unique-piece-introducing/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Urwerk-UR-1001-Amadeus-Hand-Engraved-Titanium-1-600x237.jpg",
+      "peek_preview": "There’s nothing conventional at Urwerk, and hardly any watch feels classic. Even the watch with the most traditional display of the time, the UR-10 SpaceMeter, remains some sort of a horological UFO for the wrist. And w...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-26T07:00:16.000Z",
+      "score_quality": 74,
+      "score_notif": 14,
+      "cluster": "20260826-05604e0ad6c6",
+      "cluster_main": true
+    },
     {
       "title": "The Case For Keeping Your Rolex On The Bracelet",
       "url": "https://www.fratellowatches.com/the-case-for-keeping-your-rolex-on-the-bracelet/",
@@ -576,10 +618,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:01:10.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega amplia lo Speedmaster 38 nel 2026: sette nuovi modelli",
@@ -621,7 +663,7 @@
       "score_quality": 94,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1128,20 +1170,6 @@
       "cluster_main": true
     },
     {
-      "title": "The ABCs of Time – The History and Evolution of Watch Clasps",
-      "url": "https://monochrome-watches.com/abcs-of-time-history-and-evolution-of-watch-clasps/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/abcs-of-time-history-and-evolution-of-watch-clasps-600x237.jpg",
-      "peek_preview": "Following up on our recent ABCs of Time article on the history of watch bracelets, we turn our attention to clasps, which are much more than simple closures today. In fact, some of the best are R&D marvels with intense...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-22T14:00:01.000Z",
-      "score_quality": 77,
-      "score_notif": 18,
-      "cluster": "20260822-290ead098206",
-      "cluster_main": true
-    },
-    {
       "title": "New: NORQAIN Independence Skeleton Titanium DLC – blacked out and 82 grams",
       "url": "https://deployant.com/norqain-independence-skeleton-titanium-dlc/?utm_source=rss&utm_medium=rss&utm_campaign=norqain-independence-skeleton-titanium-dlc",
       "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/unnamed-1.jpg?fit=1080%2C1350&ssl=1",
@@ -1166,21 +1194,7 @@
       "published_at": "2026-08-22T11:01:28.000Z",
       "score_quality": 62,
       "score_notif": 18,
-      "cluster": "20260817-b6350e93bc92",
-      "cluster_main": false
-    },
-    {
-      "title": "The Petrolhead Corner – Three Incredible New Hypercars From The Monterey Car Week",
-      "url": "https://monochrome-watches.com/the-petrolhead-corner-gordon-murray-special-vehicles-s1-spyker-c8-preliator-xxv-aston-martin-valen/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/GMSCV-S1-Gordon-Murray-Special-Vehicles-McLaren-F1-Monterey-Car-Week-Featured-600x237.jpg",
-      "peek_preview": "Just last week, we showed you a pair of stunning Porsches made by Singer Vehicle Design and, surprisingly, Louis Vuitton, launched at the 2026 Monterey Car Week. It was a week full of surprises, with records being shatt...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-22T08:35:37.000Z",
-      "score_quality": 27,
-      "score_notif": 4,
-      "cluster": "20260822-c8ecf0abc680",
+      "cluster": "20260822-a17f6072c609",
       "cluster_main": true
     },
     {
@@ -1839,20 +1853,6 @@
       "score_quality": 89,
       "score_notif": 7,
       "cluster": "20260817-bcea9c8680a1",
-      "cluster_main": true
-    },
-    {
-      "title": "Two stunning new Seiko Presage Classic Series “Craftsmanship”",
-      "url": "https://deployant.com/two-stunning-new-seiko-presage-classic-series-craftsmanship/?utm_source=rss&utm_medium=rss&utm_campaign=two-stunning-new-seiko-presage-classic-series-craftsmanship",
-      "image": "https://deployant.com/wp-content/uploads/2026/08/Main_Visual_RGB.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Discover the new Seiko Presage Classic Craftsmanship Series (HCC005 & HCC006). These stunning enamel and urushi lacquer watches beautifully revive the histori...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-17T13:30:00.000Z",
-      "score_quality": 63,
-      "score_notif": 18,
-      "cluster": "20260817-b6350e93bc92",
       "cluster_main": true
     }
   ]
