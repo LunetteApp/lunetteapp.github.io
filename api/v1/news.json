@@ -1,6 +1,6 @@
 {
-  "content_hash": "5578e64e4a29fb2965c12114c26f8a7e6bfe938c55fd6a95b454a102afd55662",
-  "last_updated": "2026-08-26T16:47:10.422Z",
+  "content_hash": "b841afbd4bd0d1a60cfa4794a3f7511ec79ea121aec263922f3be1031078ef05",
+  "last_updated": "2026-08-26T17:47:15.686Z",
   "premium": {
     "links": []
   },
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-25T10:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-26T17:36:57.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-26T16:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
+      "url": "https://teddybaldassarre.com/blogs/watches/sea-gull-1963-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Sea-Gull-1963-Chronograph-flat-2.jpg?v=1787676982",
+      "peek_preview": "If you have spent more than five minutes on a watch forum, you’ve undoubtedly encountered a watch with a warm champagne dial adorned with a red star, blued hands, and an intriguing mechanical movement fully exposed arou...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-26T17:36:57.000Z",
+      "score_quality": 70,
+      "score_notif": 13,
+      "cluster": "20260826-e5b0785aa884",
+      "cluster_main": true
+    },
     {
       "title": "Dispatch: Diving With Force Blue And Luminox For Reef Restoration In Miami",
       "url": "https://www.hodinkee.com/articles/diving-with-force-blue-and-luminox-for-reef-restoration-in-miami",
@@ -564,7 +578,7 @@
       "published_at": "2026-08-25T16:05:32.000Z",
       "score_quality": 74,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6-3",
+      "cluster": "20260825-d294c338b5e6",
       "cluster_main": false
     },
     {
@@ -676,8 +690,8 @@
       "published_at": "2026-08-25T10:01:00.000Z",
       "score_quality": 74,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6-2",
-      "cluster_main": true
+      "cluster": "20260825-d294c338b5e6",
+      "cluster_main": false
     },
     {
       "title": "First Look – The Updated Longines Master Chronograph Moonphase (Incl. Video)",
@@ -690,8 +704,8 @@
       "published_at": "2026-08-25T10:00:13.000Z",
       "score_quality": 82,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6-3",
-      "cluster_main": true
+      "cluster": "20260825-d294c338b5e6",
+      "cluster_main": false
     },
     {
       "title": "Longines Impressively Expands The Master Collection",
@@ -704,7 +718,7 @@
       "published_at": "2026-08-25T10:00:07.000Z",
       "score_quality": 60,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6-2",
+      "cluster": "20260825-d294c338b5e6",
       "cluster_main": false
     },
     {
@@ -746,7 +760,7 @@
       "published_at": "2026-08-25T10:00:00.000Z",
       "score_quality": 66,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6-2",
+      "cluster": "20260825-d294c338b5e6",
       "cluster_main": false
     },
     {
@@ -760,7 +774,7 @@
       "published_at": "2026-08-25T10:00:00.000Z",
       "score_quality": 68,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6-2",
+      "cluster": "20260825-d294c338b5e6",
       "cluster_main": false
     },
     {
@@ -1024,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-24T18:30:20.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
@@ -1531,7 +1545,7 @@
       "score_quality": 98,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: A. Lange & Söhne Zeitwerk Date in Pink Gold—Hands-on With The Digital Mechanical Watch",
@@ -1573,7 +1587,7 @@
       "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
@@ -1584,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:00.000Z",
-      "score_quality": 79,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tutima Flieger T5: Fliegeruhr? Ja, das geht auch leicht und kleiner!",
@@ -1839,20 +1853,6 @@
       "score_quality": 85,
       "score_notif": 27,
       "cluster": "20260819-b7aea8051a76",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Legare Chapter I AGP Inverted—A New Independent Watch Brand Enters the Arena",
-      "url": "https://www.watchcollectinglifestyle.com/home/introducing-legare-chapter-i-agp-inverteda-new-watch-brand-enters-the-arena",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787071296647-YF6OIYT9VU9KHN5BVBVC/2.-Legare-Chapter-1-AGP-Inverted-Elegant-and-Darth-scaled.webp?format=1500w",
-      "peek_preview": "A new maison entered the conversation today, bringing an unusually specific thesis. Legare, the work of Wei Koh, founder of Revolution magazine, and Guillaume Tétu, co-founder of Hautlence, is their debut watch, the Cha...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-18T17:01:29.000Z",
-      "score_quality": 60,
-      "score_notif": 20,
-      "cluster": "20260818-ab402332a91a",
       "cluster_main": true
     }
   ]
