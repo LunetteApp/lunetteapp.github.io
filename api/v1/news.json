@@ -1,6 +1,6 @@
 {
-  "content_hash": "b841afbd4bd0d1a60cfa4794a3f7511ec79ea121aec263922f3be1031078ef05",
-  "last_updated": "2026-08-26T17:47:15.686Z",
+  "content_hash": "0374e45f3046fd9dd63fbfee0808f17877cd3f5364d1ad55556b737ecad2c65a",
+  "last_updated": "2026-08-26T18:47:45.611Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-26T13:59:18.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-26T18:00:39.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-26T17:36:57.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-26T16:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-26T18:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Ming Introduces a New Take on the Worldtimer, the 57.05 Comet",
+      "url": "https://wornandwound.com/ming-introduces-a-new-take-on-the-worldtimer-the-57-05-comet/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Ming-Comet-13.jpg",
+      "peek_preview": "It’s somewhat hard to believe (well, hard for me to believe, anyway) but 2026 marks the ninth year of Ming. If you had told me in the earliest days of the brand in 2017 that less than a decade later they’d factor in as...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-26T18:00:39.000Z",
+      "score_quality": 76,
+      "score_notif": 65,
+      "cluster": "20260826-28bfc36c0308",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: The Maison Alcée x MB&F Nostromo",
+      "url": "https://www.hodinkee.com/articles/the-maison-alcee-x-mbandf-nostromo",
+      "image": "https://hodinkee.imgix.net/uploads/images/a3460506-e05a-4fd4-845d-bde5e3e781c0/MBandF_MADGallery_Maison_Alcee_x_MBandF_Nostromo_2_Lres.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Maison Alcée teams up with MB&F and designer Maximilian Maertens on an extraterrestrial-inspired clock you can build yourself.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-26T18:00:00.000Z",
+      "score_quality": 74,
+      "score_notif": 42,
+      "cluster": "20260826-23c8d6bb6e69",
+      "cluster_main": false
+    },
     {
       "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
       "url": "https://teddybaldassarre.com/blogs/watches/sea-gull-1963-review",
@@ -1041,7 +1069,7 @@
       "score_quality": 99,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
@@ -1055,20 +1083,6 @@
       "score_quality": 76,
       "score_notif": 22,
       "cluster": "20260824-7b4b205641bf",
-      "cluster_main": true
-    },
-    {
-      "title": "Recommended Reading: 'Universal People, Universal Dreams' Is A Timely, Heartfelt Telling Of One Man's Collecting Journey Into The Rarest Of The Rare",
-      "url": "https://www.hodinkee.com/articles/recommended-reading-universal-people",
-      "image": "https://hodinkee.imgix.net/uploads/images/f35e6741-da2b-4094-a4c1-cf442b3529af/Laterale_libro_silver.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The book weaves a personal narrative of friendship, challenges, and focus that brought together arguably the rarest collection of complicated Universal watches ever.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-24T15:00:00.000Z",
-      "score_quality": 46,
-      "score_notif": 8,
-      "cluster": "20260824-c6e2893025ea",
       "cluster_main": true
     },
     {
@@ -1464,20 +1478,6 @@
       "cluster_main": false
     },
     {
-      "title": "Maen Jumps on the Stone Dial Bandwagon with New Versions of Its Manhattan 37 Ultra-Thin",
-      "url": "https://wornandwound.com/maen-jumps-on-the-stone-dial-bandwagon-with-new-versions-of-its-manhattan-37-ultra-thin/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Maen_TI-StoneDial_03_wr.jpg",
-      "peek_preview": "Ahead of the launch of the new stone dial editions of Maen’s Manhattan 37 Ultra-Thin, I got to test drive the Obsidian Snowflake variation. This was my first time seeing one of the models from the collection in the meta...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-21T13:00:44.000Z",
-      "score_quality": 61,
-      "score_notif": 38,
-      "cluster": "20260821-480b9d7ef4cf",
-      "cluster_main": true
-    },
-    {
       "title": "What We Want from IWC, and How to Make a T-Shirt (Wesley Smith, Standard H)",
       "url": "https://www.unpolishedwatches.com/p/what-we-want-from-iwc-and-how-to",
       "image": "https://substackcdn.com/image/fetch/$s_!Bz_X!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38d13048-a4b0-43fd-abfa-a31e374f960f_3000x2000.jpeg",
@@ -1570,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T14:56:55.000Z",
-      "score_quality": 79,
+      "score_quality": 100,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1584,10 +1584,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
@@ -1598,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tutima Flieger T5: Fliegeruhr? Ja, das geht auch leicht und kleiner!",
