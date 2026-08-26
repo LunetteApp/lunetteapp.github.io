@@ -1,6 +1,6 @@
 {
-  "content_hash": "223e97a26c5b3ab41e42f51f67c43908684281d6fb09f5d663c4abec1524c983",
-  "last_updated": "2026-08-26T15:51:25.030Z",
+  "content_hash": "5578e64e4a29fb2965c12114c26f8a7e6bfe938c55fd6a95b454a102afd55662",
+  "last_updated": "2026-08-26T16:47:10.422Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-26T15:00:32.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-26T15:01:53.000Z"
     },
     {
@@ -50,7 +50,7 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.3,
+      "estimated_articles_per_day": 0.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-25T15:00:31.000Z"
     },
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-26T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-26T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Dispatch: Diving With Force Blue And Luminox For Reef Restoration In Miami",
+      "url": "https://www.hodinkee.com/articles/diving-with-force-blue-and-luminox-for-reef-restoration-in-miami",
+      "image": "https://hodinkee.imgix.net/uploads/images/3be44d1e-e377-4e47-a49a-b2af5ac82407/LuminoxHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Luminox marks the release of its new Pacific Diver with Force Blue, in support of the organization's ongoing efforts to restore and protect Miami's reef ecosystems.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-26T16:00:00.000Z",
+      "score_quality": 74,
+      "score_notif": 16,
+      "cluster": "20260826-e2ec9d9726cd",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Atelier Wen x Massena LAB Inflection Shuo, A Tantalum Integrated Watch with Two Gold Dial Variants",
       "url": "https://monochrome-watches.com/atelier-wen-x-massena-lab-inflection-shuo-tantalum-integrated-watch-solid-gold-dial-introducing-price/",
@@ -550,7 +564,7 @@
       "published_at": "2026-08-25T16:05:32.000Z",
       "score_quality": 74,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
+      "cluster": "20260825-d294c338b5e6-3",
       "cluster_main": false
     },
     {
@@ -662,8 +676,8 @@
       "published_at": "2026-08-25T10:01:00.000Z",
       "score_quality": 74,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster": "20260825-d294c338b5e6-2",
+      "cluster_main": true
     },
     {
       "title": "First Look – The Updated Longines Master Chronograph Moonphase (Incl. Video)",
@@ -676,8 +690,8 @@
       "published_at": "2026-08-25T10:00:13.000Z",
       "score_quality": 82,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster": "20260825-d294c338b5e6-3",
+      "cluster_main": true
     },
     {
       "title": "Longines Impressively Expands The Master Collection",
@@ -690,7 +704,7 @@
       "published_at": "2026-08-25T10:00:07.000Z",
       "score_quality": 60,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
+      "cluster": "20260825-d294c338b5e6-2",
       "cluster_main": false
     },
     {
@@ -732,7 +746,7 @@
       "published_at": "2026-08-25T10:00:00.000Z",
       "score_quality": 66,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
+      "cluster": "20260825-d294c338b5e6-2",
       "cluster_main": false
     },
     {
@@ -746,7 +760,7 @@
       "published_at": "2026-08-25T10:00:00.000Z",
       "score_quality": 68,
       "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
+      "cluster": "20260825-d294c338b5e6-2",
       "cluster_main": false
     },
     {
@@ -1013,7 +1027,7 @@
       "score_quality": 97,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
@@ -1083,20 +1097,6 @@
       "score_quality": 74,
       "score_notif": 42,
       "cluster": "20260824-4308de777d1f",
-      "cluster_main": true
-    },
-    {
-      "title": "Announcements: Geneva Watch Days 2026 Will Take Place September 2-6",
-      "url": "https://www.hodinkee.com/articles/geneva-watch-days-2026-will-take-place-september-2-6",
-      "image": "https://hodinkee.imgix.net/uploads/images/0d74714a-d511-4d15-bbc8-6d64745f289e/GenevaWatchDays2026.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Five days, dozens of brands – all in one city.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-24T13:00:00.000Z",
-      "score_quality": 61,
-      "score_notif": 47,
-      "cluster": "20260824-3bf33bc427c1",
       "cluster_main": true
     },
     {
@@ -1528,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T19:10:29.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: A. Lange & Söhne Zeitwerk Date in Pink Gold—Hands-on With The Digital Mechanical Watch",
