@@ -1,6 +1,6 @@
 {
-  "content_hash": "0374e45f3046fd9dd63fbfee0808f17877cd3f5364d1ad55556b737ecad2c65a",
-  "last_updated": "2026-08-26T18:47:45.611Z",
+  "content_hash": "ec451b25c896c9d2c94822e415496db2bb6a1a348fa6fc269071dd4e40f32057",
+  "last_updated": "2026-08-26T21:47:07.156Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-26T18:00:39.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
+      "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-26T18:00:00.000Z"
+      "latest_article_at": "2026-08-26T21:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Straum Expedition",
+      "url": "https://www.hodinkee.com/articles/straum-expedition",
+      "image": "https://hodinkee.imgix.net/uploads/images/7102519d-057e-4196-833c-8b7bf87cc0e8/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Straum hits the great outdoors with a new watch and a new direction.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-26T21:00:00.000Z",
+      "score_quality": 67,
+      "score_notif": 36,
+      "cluster": "20260826-ea0e1a0e8659",
+      "cluster_main": true
+    },
     {
       "title": "Ming Introduces a New Take on the Worldtimer, the 57.05 Comet",
       "url": "https://wornandwound.com/ming-introduces-a-new-take-on-the-worldtimer-the-57-05-comet/",
@@ -1542,10 +1556,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T19:10:29.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: A. Lange & Söhne Zeitwerk Date in Pink Gold—Hands-on With The Digital Mechanical Watch",
@@ -1570,10 +1584,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T14:56:55.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
@@ -1839,20 +1853,6 @@
       "score_quality": 67,
       "score_notif": 14,
       "cluster": "20260819-13a233462957",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Richard Mille RM 64-01 Tourbillon Colnago",
-      "url": "https://watchesbysjx.com/2026/08/richard-mille-rm-64-01-tourbillon-colnago.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Richard-Mille-RM-64-01-Colnago-300x200.jpg",
-      "peek_preview": "Launched just a few weeks ago, the RM 64-01 Tourbillon Colnago is modelled on the Colnago C68, the same road bike used by Tadej Pogacar, the current Tour de France champion who has long worn a Richard Mille while racing...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-19T01:00:18.000Z",
-      "score_quality": 85,
-      "score_notif": 27,
-      "cluster": "20260819-b7aea8051a76",
       "cluster_main": true
     }
   ]
