@@ -1,6 +1,6 @@
 {
-  "content_hash": "6efd01169f95792d45786680091898178ec0c6bfd6bd67e1553ba00ae150f30d",
-  "last_updated": "2026-08-26T02:45:44.211Z",
+  "content_hash": "f62e55961f7f318125dd3d963fc2dce84beabe2044cea88b3cdbe1de2f1d524a",
+  "last_updated": "2026-08-26T03:47:54.710Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-26T00:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-26T03:00:17.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ラドーがクリケットの世界観を表現した「キャプテンクック × ヨーロピアン クリケット スペシャルエディション」を発表",
+      "url": "https://www.webchronos.net/news/170687/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/rado_c_1.webp",
+      "peek_preview": "ラドーは、ヨーロピアン クリケットとのコラボレーションモデル「キャプテンクック × ヨーロピアン クリケット スペシャルエディション」を発表した。ブルーとゴールドを基調としたカラーと、クリケットにまつわるディテールを盛り […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-26T03:00:17.000Z",
+      "score_quality": 64,
+      "score_notif": 31,
+      "cluster": "20260826-a94aa9a8fcc8",
+      "cluster_main": true
+    },
     {
       "title": "ヴァン クリーフ＆アーペル、スパンコールモチーフの「パルミル」へ2色のサファイアを用いた新作ジュエリーを追加",
       "url": "https://www.webchronos.net/news/170604/",
@@ -548,10 +562,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:01:10.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega amplia lo Speedmaster 38 nel 2026: sette nuovi modelli",
@@ -593,7 +607,7 @@
       "score_quality": 92,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -620,7 +634,7 @@
       "published_at": "2026-08-25T05:42:00.000Z",
       "score_quality": 81,
       "score_notif": 42,
-      "cluster": "20260813-9a4481be7ae0",
+      "cluster": "20260825-16cc23461068",
       "cluster_main": true
     },
     {
@@ -1366,20 +1380,6 @@
       "cluster_main": true
     },
     {
-      "title": "盆栽×腕時計の異色コラボレーション！ セイコー プレザージュから「TRADMAN’S BONSAI」限定モデルが誕生",
-      "url": "https://www.webchronos.net/news/169969/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/presage_bonsai_1.webp",
-      "peek_preview": "セイコー プレザージュ「クラシックシリーズ」の新作として、TRADMAN’S BONSAIとのコラボレーションモデルを発表した。本モデルは、月の光に照らされる黒松の盆栽を表現している。文字盤色は古来より吉色とされる伝統色 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-21T03:00:56.000Z",
-      "score_quality": 80,
-      "score_notif": 42,
-      "cluster": "20260813-9a4481be7ae0",
-      "cluster_main": false
-    },
-    {
       "title": "Blancpain Faithfully Revisits 1968 Bathyscaphe",
       "url": "https://watchesbysjx.com/2026/08/blancpain-fifty-fathoms-bathyscaphe-70-anniversary.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Blancpain-bathyscaphe-70-anniversary-3x2-header-1-300x200.jpg",
@@ -1430,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
@@ -1458,10 +1458,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
