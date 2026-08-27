@@ -1,6 +1,6 @@
 {
-  "content_hash": "798203a6b92f463b21671b18860d707b31e9872d3a2d52351be803ffc9c1a553",
-  "last_updated": "2026-08-27T15:48:14.059Z",
+  "content_hash": "9d7cb386536a1782d3ad54a8eb201021961d3133505002069b64daed34499405",
+  "last_updated": "2026-08-27T16:46:48.528Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T13:00:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T16:00:20.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T13:01:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T16:00:30.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T15:00:00.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Introducing – Bianchet Unveils the UltraFino Tonneau in Full Ceramic",
+      "url": "https://monochrome-watches.com/bianchet-ultrafino-tonneau-full-ceramic-versions-white-blue-2026-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Bianchet-UltraFino-Tonneau-Ceramic-versions-2026-1-600x237.jpg",
+      "peek_preview": "Unveiled in 2025, the Bianchet UltraFino Tonneau (to differentiate it from the circular-shaped Ultrafino Rotondo) was an important release for the young independent watch brand. It was its first ultra-thin model, its fi...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T16:00:30.000Z",
+      "score_quality": 80,
+      "score_notif": 46,
+      "cluster": "20260827-2bcd55894497",
+      "cluster_main": true
+    },
+    {
+      "title": "These are 9 Under the Radar Enamel Dials You Should Know",
+      "url": "https://wornandwound.com/these-are-9-under-the-radar-enamel-dials-you-should-know/",
+      "image": "https://wornandwound.com/library/uploads/2024/12/Statera_ST02_WR_6.jpg",
+      "peek_preview": "Probably one of the proudest informal titles I’ve garnered in my nearly 15-year career in the watch industry is “the resident enamel girl.” As a refresher, I fell in love with the artform in a hands-on workshop during a...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T16:00:20.000Z",
+      "score_quality": 52,
+      "score_notif": 12,
+      "cluster": "20260827-424f5c69b1c3",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: The AnOrdain Model 1 Porcelain (Live Pics)",
       "url": "https://www.hodinkee.com/articles/the-anordain-model-1-porcelain-live-pics",
       "image": "https://hodinkee.imgix.net/uploads/images/54ff6082-ae81-449f-a62a-297a383bd42a/tan2h-anordain-model1-porcelain-08310-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -187,7 +215,7 @@
       "score_quality": 87,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -352,10 +380,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 84,
+      "score_quality": 88,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -492,10 +520,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-27T00:23:26.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Straum Expedition",
@@ -746,7 +774,7 @@
       "published_at": "2026-08-26T12:01:37.000Z",
       "score_quality": 76,
       "score_notif": 14,
-      "cluster": "20260826-05604e0ad6c6",
+      "cluster": "20260826-5eb33ab5774f",
       "cluster_main": true
     },
     {
@@ -846,20 +874,6 @@
       "score_notif": 18,
       "cluster": "20260826-cbafcc37b4d3",
       "cluster_main": true
-    },
-    {
-      "title": "Just Because – Carved in Titanium, the Fully-Engraved Urwerk UR-1001 Amadeus",
-      "url": "https://monochrome-watches.com/carved-in-titanium-the-fully-engraved-urwerk-ur-1001-amadeus-unique-piece-introducing/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Urwerk-UR-1001-Amadeus-Hand-Engraved-Titanium-1-600x237.jpg",
-      "peek_preview": "There’s nothing conventional at Urwerk, and hardly any watch feels classic. Even the watch with the most traditional display of the time, the UR-10 SpaceMeter, remains some sort of a horological UFO for the wrist. And w...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-26T07:00:16.000Z",
-      "score_quality": 75,
-      "score_notif": 14,
-      "cluster": "20260826-05604e0ad6c6",
-      "cluster_main": false
     },
     {
       "title": "The Case For Keeping Your Rolex On The Bracelet",
@@ -968,10 +982,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T15:00:31.000Z",
-      "score_quality": 67,
+      "score_quality": 80,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1167,7 +1181,7 @@
       "score_quality": 79,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1520,20 +1534,6 @@
       "cluster_main": true
     },
     {
-      "title": "Watches, Stories, & Gear: Celebrity Scams, Alien-Theme Pens, and a New Desktop Mic",
-      "url": "https://wornandwound.com/watches-stories-gear-celebrity-scans-alien-theme-pens-and-a-new-desktop-mic/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Anythink-Library_Courtesy-of-Unfound-Door_Anythink-Library_Exterior_1_Vs.jpg",
-      "peek_preview": "“Watches, Stories, and Gear” is a roundup of our favorite content, watch or otherwise, from around the internet. Here, we support other creators, explore interesting content that inspires us, and put a spotlight on caus...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-22T14:00:36.000Z",
-      "score_quality": 23,
-      "score_notif": 6,
-      "cluster": "20260822-94cb14c4e281",
-      "cluster_main": true
-    },
-    {
       "title": "New: NORQAIN Independence Skeleton Titanium DLC – blacked out and 82 grams",
       "url": "https://deployant.com/norqain-independence-skeleton-titanium-dlc/?utm_source=rss&utm_medium=rss&utm_campaign=norqain-independence-skeleton-titanium-dlc",
       "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/unnamed-1.jpg?fit=1080%2C1350&ssl=1",
@@ -1601,7 +1601,7 @@
       "score_quality": 79,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Perspective: The Best Five Perpetual Calendars Released in 2026—Genuine Mechanical Progress in the Industry's Oldest Complication",
