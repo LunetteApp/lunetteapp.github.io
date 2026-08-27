@@ -1,6 +1,6 @@
 {
-  "content_hash": "ec451b25c896c9d2c94822e415496db2bb6a1a348fa6fc269071dd4e40f32057",
-  "last_updated": "2026-08-26T21:47:07.156Z",
+  "content_hash": "f2b314e4594c0955d3687d57ff0a36406303e725bcf12a56e21b77a4b67b2ddd",
+  "last_updated": "2026-08-27T00:46:58.658Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-26T21:00:00.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-26T03:00:17.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T00:23:26.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ボーム＆メルシエ「クリフトン」より、アイスブルーをまとった限定モデル2種が登場",
+      "url": "https://www.webchronos.net/news/170876/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/BM_cliftoniceblue_1.webp",
+      "peek_preview": "ボーム＆メルシエは、「クリフトン」コレクションの新作として、アイスブルーダイアルを共有するふたつの限定モデルを披露した。ラインナップは、直径39mmの3針モデルと、直径40mmのパーペチュアルカレンダーモデルの2種。いず […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-27T00:23:26.000Z",
+      "score_quality": 74,
+      "score_notif": 40,
+      "cluster": "20260821-585b5bee4472",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Straum Expedition",
       "url": "https://www.hodinkee.com/articles/straum-expedition",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-24T18:30:20.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
@@ -1422,20 +1436,6 @@
       "cluster_main": true
     },
     {
-      "title": "ティファニーのブルー ボックス カフェが「2026 Patisserie Opening of the Year」を受賞",
-      "url": "https://www.webchronos.net/news/170371/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/main.webp",
-      "peek_preview": "ティファニー 銀座本店内の「Blue Box Café by Natsuko Shoji」が、世界的なレストランガイド「La Liste（ラ・リスト）」による2026年度の「パティスリー オープニング オブ ザ イヤー賞 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-22T00:00:05.000Z",
-      "score_quality": 24,
-      "score_notif": 0,
-      "cluster": "20260822-cc7afbdb31e1",
-      "cluster_main": true
-    },
-    {
       "title": "Baume et Mercier gives its Clifton Baumatic an icy blue makeover",
       "url": "https://timeandtidewatches.com/baume-et-mercier-clifton-baumatic-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/baume-et-mercier-clifton-baumatic-1.jpg",
@@ -1445,9 +1445,9 @@
       "featured": false,
       "published_at": "2026-08-21T22:01:53.000Z",
       "score_quality": 60,
-      "score_notif": 42,
+      "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Perspective: The Best Five Perpetual Calendars Released in 2026—Genuine Mechanical Progress in the Industry's Oldest Complication",
@@ -1556,10 +1556,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T19:10:29.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: A. Lange & Söhne Zeitwerk Date in Pink Gold—Hands-on With The Digital Mechanical Watch",
@@ -1598,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
@@ -1612,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tutima Flieger T5: Fliegeruhr? Ja, das geht auch leicht und kleiner!",
