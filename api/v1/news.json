@@ -1,6 +1,6 @@
 {
-  "content_hash": "3e6e83999103a119591373352a894dd3d6d65ae668679dc2df3d1a021d0d0785",
-  "last_updated": "2026-08-27T09:47:18.529Z",
+  "content_hash": "d9254254f70ea2654d736404b3ca40da0a830e97dc751c3fb89bbfdfb87bd771",
+  "last_updated": "2026-08-27T10:47:13.930Z",
   "premium": {
     "links": []
   },
@@ -31,7 +31,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-27T07:01:08.000Z"
+      "latest_article_at": "2026-08-27T10:00:22.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -72,14 +72,14 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T09:00:58.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T09:00:26.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New Release: Formex Essence 39mm Automatic COSC Watches Get A Generational Upgrade",
+      "url": "https://www.ablogtowatch.com/new-release-formex-essence-39mm-automatic-cosc-watches-get-a-generational-upgrade/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Formex-Essence-39mm-Automatic-COSC-Watches-768x346.jpg",
+      "peek_preview": "Originally introduced in 2018 as the first new model since the brand’s 2016 re-launch under CEO Raphael Granito, the Formex Essence serves as the bread and butter of the Swiss brand’s modern catalog. The classic 39mm st...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T10:00:22.000Z",
+      "score_quality": 63,
+      "score_notif": 46,
+      "cluster": "20260827-973841989f9e",
+      "cluster_main": false
+    },
     {
       "title": "Anordain’s New Model 1 Combines Porcelain Dial and Custom Font",
       "url": "https://watchesbysjx.com/2026/08/anordain-model-1-porcelain.html",
@@ -450,10 +464,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T14:00:43.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
@@ -523,7 +537,7 @@
       "score_quality": 81,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Ming's New 57.05 'Comet' Worldtime Is Out Of This World Innovation",
@@ -1698,8 +1712,8 @@
       "published_at": "2026-08-20T10:37:47.000Z",
       "score_quality": 66,
       "score_notif": 42,
-      "cluster": "20260818-498af8198713",
-      "cluster_main": false
+      "cluster": "20260820-11231f1c81e9",
+      "cluster_main": true
     },
     {
       "title": "Blancpain turns back the clock with its new Fifty Fathoms Bathyscaphe 70th Anniversary Limited Edition",
@@ -1839,20 +1853,6 @@
       "score_quality": 28,
       "score_notif": 8,
       "cluster": "20260819-70c0d0444648",
-      "cluster_main": true
-    },
-    {
-      "title": "Tutima goes titanium with the new Flieger T5",
-      "url": "https://deployant.com/tutima-goes-titanium-with-the-new-flieger-t5/?utm_source=rss&utm_medium=rss&utm_campaign=tutima-goes-titanium-with-the-new-flieger-t5",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/Tutima_Flieger-T5_6109-02_Wristshot_1.jpg?fit=1200%2C800&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Tutima adds to their famed Flieger collection with the new Flieger T5, now in grade 5 titanium, and still the same 38.5mm diameter case, with the strong pilot...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-19T13:30:00.000Z",
-      "score_quality": 73,
-      "score_notif": 42,
-      "cluster": "20260818-498af8198713",
       "cluster_main": true
     }
   ]
