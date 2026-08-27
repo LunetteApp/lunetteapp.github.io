@@ -1,6 +1,6 @@
 {
-  "content_hash": "d9254254f70ea2654d736404b3ca40da0a830e97dc751c3fb89bbfdfb87bd771",
-  "last_updated": "2026-08-27T10:47:13.930Z",
+  "content_hash": "c2ab157c9d74015fa0c88768656c4ad7f872ed16e2ff2d47e736ccc65a298be3",
+  "last_updated": "2026-08-27T11:47:03.049Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T07:00:37.000Z"
+      "estimated_articles_per_day": 3.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T11:00:18.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T07:01:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T10:55:48.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T10:00:22.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T09:00:26.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T11:00:22.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "FounderFest: The Dennison ALD Dual Time “Carnaby Blue” is a mod icon in mother-of-pearl",
+      "url": "https://timeandtidewatches.com/founderfest-the-dennison-ald-dual-time-carnaby-blue-is-a-mod-icon-in-mother-of-pearl/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-dennison-carnaby-blue-founders-fest.jpg",
+      "peek_preview": "There are few periods in history that shaped Britain’s identity quite like the 1960s. It was a decade when the country seemed to lead the world in music, fashion and design. Jaguar E-Types, Triumph Bonnevilles, and Mini...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T11:00:22.000Z",
+      "score_quality": 67,
+      "score_notif": 35,
+      "cluster": "20260827-cba6d0fb4cbc",
+      "cluster_main": true
+    },
+    {
+      "title": "Geneva Watch Days 2026: The Biggest One Yet",
+      "url": "https://www.fratellowatches.com/geneva-watch-days-2026-the-biggest-one-yet/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/GWD2025-22.jpg",
+      "peek_preview": "Geneva Watch Days returns September 2nd–6th, 2026, bringing 71 independent watchmaking maisons to Geneva for five days of presentations, exhibitions, discussions, and events. Now in its seventh and biggest edition yet,...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T11:00:18.000Z",
+      "score_quality": 57,
+      "score_notif": 45,
+      "cluster": "20260827-ef4eee923ff7",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The Tiffany Timer, now in a Titanium and Platinum Combination",
+      "url": "https://monochrome-watches.com/tiffany-timer-chronograph-titanium-and-platinum-limited-edition-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Tiffany-Timer-Titanium-Platinum-Blue-Dial-El-Primero-Chronograph-review-3-600x237.jpg",
+      "peek_preview": "While Tiffany is mostly known for its emblematic blue colour and its high-end jewellery, the NYC-based brand has been involved in watchmaking for much longer than most would expect. For instance, Tiffany introduced its...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T10:55:48.000Z",
+      "score_quality": 80,
+      "score_notif": 50,
+      "cluster": "20260827-fb85bf472e7a",
+      "cluster_main": true
+    },
+    {
       "title": "New Release: Formex Essence 39mm Automatic COSC Watches Get A Generational Upgrade",
       "url": "https://www.ablogtowatch.com/new-release-formex-essence-39mm-automatic-cosc-watches-get-a-generational-upgrade/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Formex-Essence-39mm-Automatic-COSC-Watches-768x346.jpg",
@@ -201,7 +243,7 @@
       "score_quality": 82,
       "score_notif": 50,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -213,9 +255,9 @@
       "featured": false,
       "published_at": "2026-08-27T09:00:26.000Z",
       "score_quality": 76,
-      "score_notif": 57,
+      "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new Christopher Ward C60 Trident Biscay looks back across six decades of diving",
@@ -268,10 +310,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T07:00:37.000Z",
-      "score_quality": 74,
+      "score_quality": 83,
       "score_notif": 50,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ciga Design Z Edge : la montre squelette futuriste qui ne coûte pas une fortune !",
@@ -338,10 +380,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-27T00:23:26.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Straum Expedition",
@@ -467,7 +509,7 @@
       "score_quality": 82,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
@@ -534,10 +576,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:00.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Ming's New 57.05 'Comet' Worldtime Is Out Of This World Innovation",
@@ -904,20 +946,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – The Updated Longines Master Chronograph Moonphase (Incl. Video)",
-      "url": "https://monochrome-watches.com/2026-updated-longines-master-chronograph-moonphase-video-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Longines-Master-Chronograph-Moonphase-Full-Calendar-Video-Review-12-600x237.jpg",
-      "peek_preview": "As the most complex expression of Longines’ watchmaking capabilities, the Master Chronograph Moonphase can be considered not only the collection’s flagship, but also one of the brand’s poster boys. Ever since its introd...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-25T10:00:13.000Z",
-      "score_quality": 82,
-      "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
-    },
-    {
       "title": "Longines Impressively Expands The Master Collection",
       "url": "https://www.fratellowatches.com/longines-impressively-expands-the-master-collection/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Longines-Master-Chrono-Monopusher-L2.960.4.78.2-Master-Chronograph-Moonphase-L2.962.4.73.2-and-41mm-L2.950.4.99.2-2.jpg",
@@ -1041,20 +1069,6 @@
       "score_quality": 78,
       "score_notif": 26,
       "cluster": "20260825-9d2aac942895",
-      "cluster_main": true
-    },
-    {
-      "title": "Fratello On Air: The Watches That Got Away",
-      "url": "https://www.fratellowatches.com/fratello-on-air-the-watches-that-got-away/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/01/Heuer-Autavia-2446-2025-3.jpg",
-      "peek_preview": "Welcome back to another episode of Fratello On Air! We’ve been away for a couple of weeks, but we’re now back (sort of) and have taken the time to record. This week, we’re talking about the watches that got away. Yes, t...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-25T07:00:16.000Z",
-      "score_quality": 26,
-      "score_notif": 7,
-      "cluster": "20260825-57950fa4950d",
       "cluster_main": true
     },
     {
@@ -1531,7 +1545,7 @@
       "score_quality": 75,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Perspective: The Best Five Perpetual Calendars Released in 2026—Genuine Mechanical Progress in the Industry's Oldest Complication",
@@ -1839,20 +1853,6 @@
       "score_quality": 69,
       "score_notif": 22,
       "cluster": "20260819-b4f2de0b69b0",
-      "cluster_main": true
-    },
-    {
-      "title": "10 Takes | Seiko, Bulgari, Chopard, and the $445k Datograph",
-      "url": "https://www.unpolishedwatches.com/p/10-takes-seiko-bulgari-chopard-and",
-      "image": "https://substackcdn.com/image/fetch/$s_!2V41!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7bd46f0-fcf9-4f94-817d-0a030edfd182_2048x2048.jpeg",
-      "peek_preview": "Where you're supposed to try on a Royal Oak; vintage collectors are the real snobs; and the midsize flagship nobody's made.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-19T14:29:10.000Z",
-      "score_quality": 28,
-      "score_notif": 8,
-      "cluster": "20260819-70c0d0444648",
       "cluster_main": true
     }
   ]
