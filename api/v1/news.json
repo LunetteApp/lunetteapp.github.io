@@ -1,6 +1,6 @@
 {
-  "content_hash": "f2b314e4594c0955d3687d57ff0a36406303e725bcf12a56e21b77a4b67b2ddd",
-  "last_updated": "2026-08-27T00:46:58.658Z",
+  "content_hash": "8dcddb1e56aa693ae3c9cac739b3e0cb1050b7ba8cc12635f4e4e5208f515dda",
+  "last_updated": "2026-08-27T03:47:16.730Z",
   "premium": {
     "links": []
   },
@@ -71,7 +71,7 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
+      "estimated_articles_per_day": 1.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-26T13:00:26.000Z"
     },
@@ -164,7 +164,7 @@
       "lang": "ja",
       "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-27T00:23:26.000Z"
+      "latest_article_at": "2026-08-27T03:00:42.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "初のメテオライト文字盤に注目！ ベル&ロス「BR-X5 メテオライト」が登場",
+      "url": "https://www.webchronos.net/news/170727/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/BR_BRX_1.webp",
+      "peek_preview": "ベル&ロスは2026年8月27日、「BR-X5」に新作モデルを追加した。ブランド初となるメテオライト文字盤を備えた1本だ。 ベル&ロス「BR-X5」に加わったメテオライト文字盤 「コックピットから腕時 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-27T03:00:42.000Z",
+      "score_quality": 69,
+      "score_notif": 43,
+      "cluster": "20260826-0b3a8ebbf238",
+      "cluster_main": false
+    },
     {
       "title": "ボーム＆メルシエ「クリフトン」より、アイスブルーをまとった限定モデル2種が登場",
       "url": "https://www.webchronos.net/news/170876/",
@@ -1094,10 +1108,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-24T18:30:20.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
@@ -1422,20 +1436,6 @@
       "cluster_main": true
     },
     {
-      "title": "エンジェルクローバーより『頭文字D』連載30周年を記念するコラボレーションウォッチが登場",
-      "url": "https://www.webchronos.net/news/169828/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/ueni_D_1.webp",
-      "peek_preview": "ウエニ貿易が展開するエンジェルクローバーは、しげの秀一による漫画作品『頭文字D（イニシャルD）』の連載30周年を記念する「藤原親子」のコラボレーションウォッチを発表した。主人公・藤原拓海と父・藤原文太の愛車である「トヨタ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-22T03:00:19.000Z",
-      "score_quality": 58,
-      "score_notif": 20,
-      "cluster": "20260822-2336563fd311",
-      "cluster_main": true
-    },
-    {
       "title": "Baume et Mercier gives its Clifton Baumatic an icy blue makeover",
       "url": "https://timeandtidewatches.com/baume-et-mercier-clifton-baumatic-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/baume-et-mercier-clifton-baumatic-1.jpg",
@@ -1556,10 +1556,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T19:10:29.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: A. Lange & Söhne Zeitwerk Date in Pink Gold—Hands-on With The Digital Mechanical Watch",
@@ -1598,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
@@ -1612,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tutima Flieger T5: Fliegeruhr? Ja, das geht auch leicht und kleiner!",
