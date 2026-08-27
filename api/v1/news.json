@@ -1,6 +1,6 @@
 {
-  "content_hash": "9d7cb386536a1782d3ad54a8eb201021961d3133505002069b64daed34499405",
-  "last_updated": "2026-08-27T16:46:48.528Z",
+  "content_hash": "3c2e24f68a79a6dc77a694a854fb6beb239d116701f5df575b2f3aafab9f5db1",
+  "last_updated": "2026-08-27T17:47:03.081Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T16:00:20.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T16:00:30.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-26T17:36:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T17:35:01.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "An Evening With King Seiko And The Seiko Summer Jazz Camp All Stars",
+      "url": "https://teddybaldassarre.com/blogs/watches/king-seiko-summer-jazz-camp-all-stars-event",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-Event-Dizzys-Club-2.jpg?v=1787840936",
+      "peek_preview": "Dizzy’s Club in Columbus Circle, an extension of Jazz at Lincoln Center, is one of New York City’s premier destinations for live jazz, with world-class acts performing directly in front of a panoramic view of the city s...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T17:35:01.000Z",
+      "score_quality": 30,
+      "score_notif": 12,
+      "cluster": "20260827-f8703608f427",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: The Laurent Ferrier Sport Traveller",
+      "url": "https://www.hodinkee.com/articles/hands-on-laurent-ferrier-sport-traveller",
+      "image": "https://hodinkee.imgix.net/uploads/images/83c6a786-5bb3-4028-8191-cd92f8d63e17/20260717_LaurentFerrierSportTraveller_126.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "We take a look at the latest integrated-bracelet offering from Laurent Ferrier and consider where it fits in the market.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T17:00:00.000Z",
+      "score_quality": 83,
+      "score_notif": 38,
+      "cluster": "20260827-81328d10cdf4",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – Bianchet Unveils the UltraFino Tonneau in Full Ceramic",
       "url": "https://monochrome-watches.com/bianchet-ultrafino-tonneau-full-ceramic-versions-white-blue-2026-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/08/Bianchet-UltraFino-Tonneau-Ceramic-versions-2026-1-600x237.jpg",
@@ -212,10 +240,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -257,7 +285,7 @@
       "score_quality": 85,
       "score_notif": 45,
       "cluster": "20260825-b6fdff11d4f2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New & Reviewed: IWC Pilot’s Watch Chronograph 41 Mercedes-AMG Petronas F1 Team 2026",
@@ -383,7 +411,7 @@
       "score_quality": 88,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -562,10 +590,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T18:00:00.000Z",
-      "score_quality": 74,
+      "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260826-23c8d6bb6e69",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
@@ -761,7 +789,7 @@
       "score_quality": 80,
       "score_notif": 42,
       "cluster": "20260826-23c8d6bb6e69",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Urwerk UR-1001 ‘Amadeus’ Is A Hand-Engraved Pocket Watch With A Millennium Tracker",
@@ -828,10 +856,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 76,
+      "score_quality": 81,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -960,20 +988,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: The Doxa Sub 300 Beta \"Frogger\" (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/the-doxa-sub-300-beta-frogger-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/6acd9528-8a46-41b3-878e-3baeeb60b37e/tan2h-doxa-frogger-05260-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Doxa teams up with San Diego–based Belmont Watches for a military-inspired take on the Doxa Sub 300 Beta.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-25T16:00:00.000Z",
-      "score_quality": 86,
-      "score_notif": 45,
-      "cluster": "20260825-b6fdff11d4f2",
-      "cluster_main": true
-    },
-    {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
       "url": "https://www.atimelyperspective.com/omega-endows-new-speedmaster-38mm-more-moonwatch-dna/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/324.20.38.50.02.002_SP_Packshot_Front_4x5_RVB-819x1024.jpg",
@@ -985,7 +999,7 @@
       "score_quality": 80,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1840,20 +1854,6 @@
       "score_notif": 68,
       "cluster": "20260820-9004ba7afe24",
       "cluster_main": true
-    },
-    {
-      "title": "New Glashütte Original Senator Chronographs Celebrate Two Eras of German Watchmaking",
-      "url": "https://teddybaldassarre.com/blogs/watches/glashutte-original-senator-chronographs",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Glashuette-Original-Senator-Chrono-Navigator-reclining-2.jpg?v=1787076591",
-      "peek_preview": "Germany’s Glashütte Original pays tribute to the long and distinguished watchmaking traditions of its namesake home base, the town of Glashütte in Saxony, with a pair of vintage-influenced chronograph wristwatches that...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T08:00:05.000Z",
-      "score_quality": 72,
-      "score_notif": 68,
-      "cluster": "20260820-9004ba7afe24",
-      "cluster_main": false
     }
   ]
 }
