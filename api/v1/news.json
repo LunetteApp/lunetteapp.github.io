@@ -1,6 +1,6 @@
 {
-  "content_hash": "3c2e24f68a79a6dc77a694a854fb6beb239d116701f5df575b2f3aafab9f5db1",
-  "last_updated": "2026-08-27T17:47:03.081Z",
+  "content_hash": "61a6854f6b823741ac44d49ca19b718ca0ec69b7499db3f7bee119963e48278a",
+  "last_updated": "2026-08-27T19:47:20.805Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T16:00:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T19:00:13.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T17:35:01.000Z"
     },
     {
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-27T17:00:00.000Z"
+      "latest_article_at": "2026-08-27T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Review: the Autodromo Group C Turbo Sport",
+      "url": "https://wornandwound.com/review/review-the-autodromo-group-c-turbo-sport/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Autodromo_Group-C_editorial_001_WR.jpg",
+      "peek_preview": "It’s hard to believe in our era of always-online smart watches and AI-everything (eye rolls welcome), but there was a time when the digital watch was the new kid on the block, challenging analog conventions. Cries of “k...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T19:00:13.000Z",
+      "score_quality": 76,
+      "score_notif": 20,
+      "cluster": "20260827-fbbdf98c38e8",
+      "cluster_main": true
+    },
+    {
       "title": "An Evening With King Seiko And The Seiko Summer Jazz Camp All Stars",
       "url": "https://teddybaldassarre.com/blogs/watches/king-seiko-summer-jazz-camp-all-stars-event",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-Event-Dizzys-Club-2.jpg?v=1787840936",
@@ -243,7 +257,7 @@
       "score_quality": 89,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -271,7 +285,7 @@
       "score_quality": 81,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa and Belmont Watches Team Up for the Sub 300 Beta “Frogger” Limited Edition",
@@ -296,10 +310,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T13:00:00.000Z",
-      "score_quality": 77,
+      "score_quality": 82,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Noah x Timex MK1 Anchor (Live Pics)",
@@ -408,10 +422,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -593,7 +607,7 @@
       "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260826-23c8d6bb6e69",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
@@ -677,7 +691,7 @@
       "score_quality": 84,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
@@ -744,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:00.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Ming's New 57.05 'Comet' Worldtime Is Out Of This World Innovation",
@@ -786,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T12:01:58.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 42,
       "cluster": "20260826-23c8d6bb6e69",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Urwerk UR-1001 ‘Amadeus’ Is A Hand-Engraved Pocket Watch With A Millennium Tracker",
@@ -859,7 +873,7 @@
       "score_quality": 81,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1192,10 +1206,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 79,
+      "score_quality": 82,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1824,35 +1838,7 @@
       "published_at": "2026-08-20T09:00:45.000Z",
       "score_quality": 67,
       "score_notif": 68,
-      "cluster": "20260820-9004ba7afe24",
-      "cluster_main": false
-    },
-    {
-      "title": "Glashütte Orginal debuts new Senator Chronograph models that tribute German timekeeping",
-      "url": "https://timeandtidewatches.com/glashutte-original-senator-chronograph-senator-chronograph-navigator-2026-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Glashutte-Original-Senator-Chronograph-Senator-Chronograph-Navigator-7.jpg",
-      "peek_preview": "The new Glashütte Original Senator Chronograph and Senator Chronograph Navigator pay tribute to the history of German chronograph watches. The post Glashütte Orginal debuts new Senator Chronograph models that tribute Ge...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T08:01:39.000Z",
-      "score_quality": 60,
-      "score_notif": 68,
-      "cluster": "20260820-9004ba7afe24",
-      "cluster_main": false
-    },
-    {
-      "title": "New Release: Glashütte Original Senator Chronograph Watches In Classic And Navigator Configurations",
-      "url": "https://www.ablogtowatch.com/new-release-glashutte-original-senator-chronograph-watches-in-classic-and-navigator-configurations/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Glashutte-Original-Senator-Chronograph-Navigator-Watches-768x346.jpg",
-      "peek_preview": "For its latest release of 2026, Glashütte Original has unveiled a duo of Senator Chronograph watches that feature flyback functionality and the German brand’s signature Panorama date display. Both models are inspired by...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T08:00:19.000Z",
-      "score_quality": 76,
-      "score_notif": 68,
-      "cluster": "20260820-9004ba7afe24",
+      "cluster": "20260820-dc4be9e8f8dd",
       "cluster_main": true
     }
   ]
