@@ -1,6 +1,6 @@
 {
-  "content_hash": "8dcddb1e56aa693ae3c9cac739b3e0cb1050b7ba8cc12635f4e4e5208f515dda",
-  "last_updated": "2026-08-27T03:47:16.730Z",
+  "content_hash": "b94b40eaff128ecf94cbaadf80aec2c79e18fd224aa58bbbb8f08bbeec9bf141",
+  "last_updated": "2026-08-27T04:47:09.631Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-26T15:00:32.000Z"
+      "estimated_articles_per_day": 3.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-27T04:00:35.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T03:00:42.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Fratello Talks: How Microbrands Have Changed The Game",
+      "url": "https://www.fratellowatches.com/fratello-talks-how-microbrands-have-changed-the-game/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/07/Laventure-Marine-Chronometer-19.jpg",
+      "peek_preview": "Microbrands have come a long way. What were once largely associated with inexpensive, enthusiast-driven watches have developed into a much broader part of the industry. Today, small brands are experimenting with materia...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T04:00:35.000Z",
+      "score_quality": 47,
+      "score_notif": 10,
+      "cluster": "20260827-c65373224aa0",
+      "cluster_main": true
+    },
     {
       "title": "初のメテオライト文字盤に注目！ ベル&ロス「BR-X5 メテオライト」が登場",
       "url": "https://www.webchronos.net/news/170727/",
@@ -1058,20 +1072,6 @@
       "cluster_main": true
     },
     {
-      "title": "An Ultra-Rare Complication Featuring Delicate Hand-Made Decorations: The ArtyA Genève Complexity Métiers d’Art",
-      "url": "https://www.fratellowatches.com/artya-geneve-complexity-metiers-dart/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/artya_lifestyle_4-LD.jpg",
-      "peek_preview": "There is no shame in admitting you’ve never heard of something. You know the tourbillon is a little mechanical anti-gravity device, so to speak. The cônillon, however, is very rare. It is a tourbillon regulator with a t...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-24T22:01:58.000Z",
-      "score_quality": 72,
-      "score_notif": 43,
-      "cluster": "20260824-7fcbe44c6a3f",
-      "cluster_main": true
-    },
-    {
       "title": "Insider: Artisans de Genève Superamerica—A Rolex Daytona Named after a Ferrari, Cloaked in Copper and 70s Midnight Blue",
       "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-superamerica-daytona-copper",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787604257606-BWRP1HZPGTETQLLI7XWX/Artisans+de+Geneve+Daytona+Super+America-2.jpg?format=1500w",
@@ -1598,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
@@ -1612,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tutima Flieger T5: Fliegeruhr? Ja, das geht auch leicht und kleiner!",
