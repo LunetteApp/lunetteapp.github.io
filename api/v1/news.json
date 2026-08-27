@@ -1,6 +1,6 @@
 {
-  "content_hash": "786c5cec884a418fc86c35df5d4adae2ca280466a40cab6b1ebdb55943810d58",
-  "last_updated": "2026-08-27T13:47:18.205Z",
+  "content_hash": "798203a6b92f463b21671b18860d707b31e9872d3a2d52351be803ffc9c1a553",
+  "last_updated": "2026-08-27T15:48:14.059Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T13:00:31.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T13:01:04.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T13:00:00.000Z"
     },
     {
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-27T13:00:00.000Z"
+      "latest_article_at": "2026-08-27T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T13:44:58.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: The AnOrdain Model 1 Porcelain (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/the-anordain-model-1-porcelain-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/54ff6082-ae81-449f-a62a-297a383bd42a/tan2h-anordain-model1-porcelain-08310-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The brand takes its second porcelain offering in a more classical direction with a playful twist.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-27T15:00:00.000Z",
+      "score_quality": 87,
+      "score_notif": 55,
+      "cluster": "20260827-f8a65ebcf45f",
+      "cluster_main": true
+    },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
       "url": "https://www.uhrenkosmos.com/chronext-ag-schweiz-insolvenz-onlineshop-aktiv/",
@@ -215,7 +229,7 @@
       "score_quality": 85,
       "score_notif": 45,
       "cluster": "20260825-b6fdff11d4f2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New & Reviewed: IWC Pilot’s Watch Chronograph 41 Mercedes-AMG Petronas F1 Team 2026",
@@ -310,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T10:55:48.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex Essence 39mm Automatic COSC Watches Get A Generational Upgrade",
@@ -339,9 +353,9 @@
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
       "score_quality": 84,
-      "score_notif": 50,
+      "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -355,7 +369,7 @@
       "score_quality": 81,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new Christopher Ward C60 Trident Biscay looks back across six decades of diving",
@@ -409,7 +423,7 @@
       "featured": false,
       "published_at": "2026-08-27T07:00:37.000Z",
       "score_quality": 83,
-      "score_notif": 50,
+      "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
       "cluster_main": false
     },
@@ -481,7 +495,7 @@
       "score_quality": 78,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Straum Expedition",
@@ -604,10 +618,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T14:00:43.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
@@ -677,7 +691,7 @@
       "score_quality": 83,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Ming's New 57.05 'Comet' Worldtime Is Out Of This World Innovation",
@@ -912,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T19:20:29.000Z",
-      "score_quality": 72,
+      "score_quality": 79,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Channel Your Inner Navy SEAL With The Doxa × Belmont Watches Sub 300 Beta “Frogger”",
@@ -940,10 +954,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T16:00:00.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 45,
       "cluster": "20260825-b6fdff11d4f2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
@@ -1042,20 +1056,6 @@
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
       "cluster_main": false
-    },
-    {
-      "title": "Hands-On: The Longines Master Collection Launches A New Monopusher Chronograph Alongside A Refresh Of The Triple Calendar Chrono",
-      "url": "https://www.hodinkee.com/articles/longines-introduces-a-new-monopusher-chronograph-design-and-updates-its-triple-calendar-chronograph",
-      "image": "https://hodinkee.imgix.net/uploads/images/b1d536d1-de1a-4f06-ac02-c0578bcd06aa/tan2h-longines-mastercollection-chronographs-01682-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Longines carries momentum with strong specs, aesthetic refinement, and value-driven pricing in the chronograph category.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-25T10:00:00.000Z",
-      "score_quality": 86,
-      "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
     },
     {
       "title": "Longines Master Collection: i nuovi chrono monopusher e chrono moonphase",
@@ -1404,7 +1404,7 @@
       "published_at": "2026-08-24T01:00:23.000Z",
       "score_quality": 82,
       "score_notif": 48,
-      "cluster": "20260824-c2eee57cc534",
+      "cluster": "20260823-0b35c58ce4dc",
       "cluster_main": true
     },
     {
@@ -1475,7 +1475,7 @@
       "score_quality": 64,
       "score_notif": 48,
       "cluster": "20260823-0b35c58ce4dc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "シチズン「エクシード」に中秋の名月をテーマとしたムーンフェイズ表示モデルが登場",
@@ -1598,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-21T22:01:53.000Z",
-      "score_quality": 77,
+      "score_quality": 79,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Perspective: The Best Five Perpetual Calendars Released in 2026—Genuine Mechanical Progress in the Industry's Oldest Complication",
