@@ -1,6 +1,6 @@
 {
-  "content_hash": "b3e800f996d7675bec242d4b6cc7f94f3a3eb109b355c9d3894c0d2fa715de99",
-  "last_updated": "2026-08-28T06:48:09.031Z",
+  "content_hash": "ff176e46c910ee991febd24c97ba060aa3b8ee753ee9dd3258b45d916c83e0ad",
+  "last_updated": "2026-08-28T07:46:59.480Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T06:00:52.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T06:01:04.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T10:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T07:01:16.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -51,8 +51,8 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T19:58:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T07:33:09.000Z"
     },
     {
       "source_name": "Deployant",
@@ -72,21 +72,21 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T06:00:25.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T23:01:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T07:00:56.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T06:00:00.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T05:51:00.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin Pushes Dial Art Further With Animal Kingdom Tribute",
+      "url": "https://www.atimelyperspective.com/vacheron-constantin-pushes-dial-art-further-with-animal-kingdom-tribute/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/octo--724x1024.jpeg",
+      "peek_preview": "For centuries, Vacheron Constantin has understood something that only the finest watchmakers bring to reality: the fact that a watch dial does not have to be merely functional. It can be a canvas. The Maison’s Métiers d...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-28T07:33:09.000Z",
+      "score_quality": 71,
+      "score_notif": 49,
+      "cluster": "20260828-b87963f73785",
+      "cluster_main": false
+    },
+    {
+      "title": "Hands-On With Chanel’s High-End Men’s J12 Golden Black Ceramic 42mm Watch",
+      "url": "https://www.ablogtowatch.com/chanel-j12-golden-black-42mm-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Chanel-J12-Golden-Black-42-ceramic-H11060-watch-1-768x346.jpg",
+      "peek_preview": "Back in April of 2026, I covered the news that Chanel was (after a long wait) introducing a new set of thoroughly masculine Chanel J12 collection timepieces. I wrote about the two new 42mm matte-black ceramic J12 models...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-28T07:01:16.000Z",
+      "score_quality": 79,
+      "score_notif": 26,
+      "cluster": "20260828-ab5452f0d79c",
+      "cluster_main": true
+    },
+    {
+      "title": "IWC takes us into the garage for its latest F1 release",
+      "url": "https://timeandtidewatches.com/iwc-takes-us-into-the-garage-for-its-latest-f1-release-friday-wind-down/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/iwc-mercedes-f1-headquarters-1.jpg",
+      "peek_preview": "Seeing how the partnership between IWC and Mercedes F1 really works is the best way to appreciate their newest release. The post IWC takes us into the garage for its latest F1 release appeared first on Time+Tide Watches.",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-28T07:00:56.000Z",
+      "score_quality": 50,
+      "score_notif": 50,
+      "cluster": "20260827-3f6715ad7cfb",
+      "cluster_main": false
+    },
     {
       "title": "Introducing – The Vacheron Constantin Métiers d’Art Tribute to the Animal Kingdom",
       "url": "https://monochrome-watches.com/vacheron-constantin-metiers-dart-tribute-to-the-animal-kingdom-2026-introducing/",
@@ -523,7 +565,7 @@
       "score_quality": 83,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa and Belmont Watches Team Up for the Sub 300 Beta “Frogger” Limited Edition",
@@ -548,10 +590,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T13:00:00.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Noah x Timex MK1 Anchor (Live Pics)",
@@ -635,7 +677,7 @@
       "score_quality": 84,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Formex Essence 39mm Automatic COSC Watches Get A Generational Upgrade",
@@ -674,10 +716,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:26.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new Christopher Ward C60 Trident Biscay looks back across six decades of diving",
@@ -1094,10 +1136,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 81,
+      "score_quality": 84,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1363,7 +1405,7 @@
       "score_quality": 83,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Launches Latest Generation Of The Speedmaster 38, And It’s Closer To The Moonwatch Professional Than Ever",
@@ -1472,10 +1514,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-24T18:30:20.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
@@ -1808,52 +1850,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-21T13:30:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
-    },
-    {
-      "title": "What We Want from IWC, and How to Make a T-Shirt (Wesley Smith, Standard H)",
-      "url": "https://www.unpolishedwatches.com/p/what-we-want-from-iwc-and-how-to",
-      "image": "https://substackcdn.com/image/fetch/$s_!Bz_X!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38d13048-a4b0-43fd-abfa-a31e374f960f_3000x2000.jpeg",
-      "peek_preview": "Talking t-shirts, TAG Heuer, IWC, Lange, and more during Wesley’s visit to Chicago.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-21T11:12:35.000Z",
-      "score_quality": 29,
-      "score_notif": 8,
-      "cluster": "20260821-e599ecffcf4f",
-      "cluster_main": true
-    },
-    {
-      "title": "Fontana Orologi: il microbrand che dipinge storie di vita sui quadranti",
-      "url": "https://giornaleorologi.it/2026/08/21/fontana-orologi-il-microbrand-che-dipinge-storie-di-vita-sui-quadranti/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/Sofia-Cambin-Fontana-orologi-22-ottobre-25-32-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Fontana Orologi: il microbrand che dipinge storie di vita sui quadranti Tra alta personalizzazione, Swiss Made e mestieri d’arte: intervista in esclusiva a Giulia Fontana, l’artista che trasfor...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-21T08:00:00.000Z",
-      "score_quality": 56,
-      "score_notif": 18,
-      "cluster": "20260821-7aa39ef81bd0",
-      "cluster_main": true
-    },
-    {
-      "title": "Retro Femininity For Today: Baume & Mercier Joia Watch Hands-On",
-      "url": "https://www.ablogtowatch.com/retro-femininity-for-today-baume-mercier-joia-watch-hands-on/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/07/Baume-Mercier-Joia-10850-watch-8-768x346.jpg",
-      "peek_preview": "2026 is a fascinating year for Baume & Mercier. This is the year the company transitions ownership from the Richemont Group to the Damiani Group. That leads to a number of unknowns, but also opportunity for optimism. Th...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-21T07:01:54.000Z",
-      "score_quality": 59,
-      "score_notif": 23,
-      "cluster": "20260821-412c09dd0013",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
