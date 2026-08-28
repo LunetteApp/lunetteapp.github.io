@@ -1,6 +1,6 @@
 {
-  "content_hash": "cf650e740404e8b7887b7565b3d33dabd3273d02e1fd1ae06925cba1e33a9add",
-  "last_updated": "2026-08-28T00:46:59.862Z",
+  "content_hash": "6f2565da0d34b65235d71a1b8ada14046183ad60e714a929915e3a3359f27c52",
+  "last_updated": "2026-08-28T01:47:45.770Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T09:00:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T01:00:01.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,18 +163,46 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T00:00:54.000Z"
     },
     {
       "source_name": "GMT Korea",
       "lang": "ko",
       "estimated_articles_per_day": 0,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-07-26T13:58:19.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T01:29:08.000Z"
     }
   ],
   "items": [
+    {
+      "title": "까르띠에가 발견한 미래의 워치메이킹 세대",
+      "url": "https://www.gmtkoreaseoul.com/post/%EA%B9%8C%EB%A5%B4%EB%9D%A0%EC%97%90%EA%B0%80-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EB%AF%B8%EB%9E%98%EC%9D%98-%EC%9B%8C%EC%B9%98%EB%A9%94%EC%9D%B4%ED%82%B9-%EC%84%B8%EB%8C%80",
+      "image": "https://static.wixstatic.com/media/bd93d4_a3b5d58afb6245afb65dee29b2a2a414~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "peek_preview": "미래 워치메이킹의 향방을 예측하고 싶다면 신예 워치메이커들이 주목하는 경연 무대나 명성 높은 워치메이킹 브랜드가 눈여겨보는 인재들의 동향을 살펴보면 된다. 최근 세계적인 주얼리 & 워치 메종 까르띠에가 차세대 워치메이킹 인재를 발굴하고 육성하기 위한 ‘제28회 까르띠에 미래의 워치메이킹 인재상(Cartier Watchmaking Talents of Tomorrow)’ 시상식을 개최했다.",
+      "source_name": "GMT Korea",
+      "lang": "ko",
+      "featured": false,
+      "published_at": "2026-08-28T01:29:08.000Z",
+      "score_quality": 41,
+      "score_notif": 14,
+      "cluster": "20260828-ca49d879fa15",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands On: Patek Philippe In-Line Perpetual Ref. 5236P-011 “Gradient Silver”",
+      "url": "https://watchesbysjx.com/2026/08/patek-philippe-in-line-perpetual-5236p-011-gradient-silver.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Patek-Philippe-In-Line-Perpetual-5236P-011-Gradient-Silver-1-300x200.jpg",
+      "peek_preview": "Patek Philippe’s latest take on its flagship perpetual calendar is the In-Line Perpetual Calendar ref. 5236P-011 with a “gradient silver” dial. Though a cosmetic update to a model that’s only been in production since 20...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-28T01:00:01.000Z",
+      "score_quality": 88,
+      "score_notif": 44,
+      "cluster": "20260828-ec9da40b06ef",
+      "cluster_main": true
+    },
     {
       "title": "グラスヒュッテ・オリジナルが歴史的モデルから着想を得た「セネタ・クロノグラフ」2モデルを発表",
       "url": "https://www.webchronos.net/news/170661/",
@@ -341,7 +369,7 @@
       "score_quality": 93,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -478,10 +506,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T10:55:48.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex Essence 39mm Automatic COSC Watches Get A Generational Upgrade",
@@ -506,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -523,7 +551,7 @@
       "score_quality": 83,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new Christopher Ward C60 Trident Biscay looks back across six decades of diving",
@@ -1139,7 +1167,7 @@
       "score_quality": 82,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1150,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T10:00:02.000Z",
-      "score_quality": 78,
+      "score_quality": 83,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Master Collection: i nuovi chrono monopusher e chrono moonphase",
@@ -1824,35 +1852,7 @@
       "published_at": "2026-08-20T13:00:47.000Z",
       "score_quality": 99,
       "score_notif": 55,
-      "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
-    },
-    {
-      "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
-      "url": "https://deployant.com/czapek-goes-transparent-with-the-new-promenade-transparencies-aqua-blue/?utm_source=rss&utm_medium=rss&utm_campaign=czapek-goes-transparent-with-the-new-promenade-transparencies-aqua-blue",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/Czapek-Promenade-Transparence-AMB01-1.jpg?fit=1200%2C1599&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The Czapek Promenade Transparencies Aqua Blue is a new exploration of the genre with a smoked sapphire dial to subtly showcase the movement. Press Release inf...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T13:00:00.000Z",
-      "score_quality": 100,
-      "score_notif": 55,
-      "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
-    },
-    {
-      "title": "Tutima Flieger T5: Fliegeruhr? Ja, das geht auch leicht und kleiner!",
-      "url": "https://www.uhrenkosmos.com/tutima-flieger-t5-in-38-5-mm-fliegeruhr-titan/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Fliegeruhr-mit-385-mm-Titangehaeuse-die-Tutima-Flieger-T5-Fliegeruhr-aus-Glashuette.jpg",
-      "peek_preview": "Tutima verkleinert die Tutima Flieger T5 auf 38,5 Millimeter. Das Gehäuse besteht aus Titan Grade 5, die Zifferblattgestaltung bleibt klar und an der soliden Werktechnik ändert sich dabei nichts. Zum Glück, möchte man s...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-20T10:37:47.000Z",
-      "score_quality": 66,
-      "score_notif": 42,
-      "cluster": "20260820-11231f1c81e9",
+      "cluster": "20260820-2f25f3ccbcb5",
       "cluster_main": true
     }
   ]
