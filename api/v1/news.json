@@ -1,6 +1,6 @@
 {
-  "content_hash": "767534d871b89d48a392e314c48a921dc40264824a57094f2bf393ab47543029",
-  "last_updated": "2026-08-28T08:47:47.206Z",
+  "content_hash": "2296627de20d0644d245c095ca077acede81e780e475b8d4efe3964ce7b9349a",
+  "last_updated": "2026-08-28T10:46:52.401Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T08:01:03.000Z"
     },
     {
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-26T11:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T10:00:02.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Richard Arbib, il designer futurista di Hamilton Electric",
+      "url": "https://giornaleorologi.it/2026/08/28/richard-arbib-ed-hamilton-electric/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/arbib-scan.63-1-1024x681.jpg",
+      "peek_preview": "Per l'articolo completo - Richard Arbib, il designer futurista di Hamilton Electric Richard Arbib non è stato un semplice designer, ma un visionario capace di dar forma al futuro. Negli anni ’50, in pieno boom dello sti...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-28T10:00:02.000Z",
+      "score_quality": 74,
+      "score_notif": 8,
+      "cluster": "20260828-c5ac93cf98b8",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Hanhart MAD Preventor HD12, Launching a new 36mm Case",
       "url": "https://monochrome-watches.com/hanhart-mad-preventor-hd12-new-36mm-case-introducing-price/",
@@ -982,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T14:00:43.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
@@ -1055,7 +1069,7 @@
       "score_quality": 89,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Ming's New 57.05 'Comet' Worldtime Is Out Of This World Innovation",
@@ -1220,10 +1234,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T19:20:29.000Z",
-      "score_quality": 81,
+      "score_quality": 85,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
@@ -1293,7 +1307,7 @@
       "score_quality": 84,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1516,7 +1530,7 @@
       "published_at": "2026-08-24T18:30:20.000Z",
       "score_quality": 100,
       "score_notif": 63,
-      "cluster": "20260820-0443d4aeb9d1",
+      "cluster": "20260824-274828bc4ffa",
       "cluster_main": true
     },
     {
@@ -1839,20 +1853,6 @@
       "score_quality": 55,
       "score_notif": 31,
       "cluster": "20260821-2e77a9f8120f",
-      "cluster_main": false
-    },
-    {
-      "title": "Blancpain celebrates 70 years of diving with a new Bathyscaphe",
-      "url": "https://deployant.com/blancpain-celebrates-70-years-of-diving-with-a-new-bathyscaphe/?utm_source=rss&utm_medium=rss&utm_campaign=blancpain-celebrates-70-years-of-diving-with-a-new-bathyscaphe",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-9.49.49-AM.jpg?fit=892%2C1225&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Blancpain celebrates 70 years of iconic dive watch heritage with the Bathyscaphe 70th Anniversary Limited Edition, a faithful recreation of the classic 1968 v...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-21T13:30:00.000Z",
-      "score_quality": 99,
-      "score_notif": 63,
-      "cluster": "20260820-0443d4aeb9d1",
       "cluster_main": false
     }
   ]
