@@ -1,6 +1,6 @@
 {
-  "content_hash": "adb7e016e09ccaca4af3a4dd58eb84b2e1f9a618e78218cd7c91aa7c6b8c6749",
-  "last_updated": "2026-08-28T12:47:26.165Z",
+  "content_hash": "c03d7cc176d4610fd3f8d7c003aac3406ccc1458b03281d6ff07c075fd477156",
+  "last_updated": "2026-08-28T13:47:40.238Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T19:00:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T13:00:50.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T12:00:39.000Z"
     },
     {
@@ -114,14 +114,14 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T10:00:02.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T11:50:31.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Go Big or Go Home: Fears Adds Its First High Complication with a QP",
+      "url": "https://wornandwound.com/go-big-or-go-home-fears-adds-its-first-high-complication-with-a-qp/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/2026_08_GWD_Fears-Perpetual-Calendar_009_wr.jpg",
+      "peek_preview": "Fears has decided to add its first high complication by tackling one of the most complex of them all: the perpetual calendar. Charting new territory seems like just the right way to celebrate the brand’s 10th anniversar...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-28T13:00:50.000Z",
+      "score_quality": 69,
+      "score_notif": 64,
+      "cluster": "20260827-150e08e3bcaa",
+      "cluster_main": false
+    },
     {
       "title": "Introducing – Fears goes High-End with the Brunswick 39 Perpetual Calendar",
       "url": "https://monochrome-watches.com/fears-brunswick-39-perpetual-calendar-introducing-price/",
@@ -593,7 +607,7 @@
       "score_quality": 97,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -621,7 +635,7 @@
       "score_quality": 85,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa and Belmont Watches Team Up for the Sub 300 Beta “Frogger” Limited Edition",
@@ -646,10 +660,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T13:00:00.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Noah x Timex MK1 Anchor (Live Pics)",
@@ -758,10 +772,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -1052,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:26.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Choosin’ Texas With The New Jack Mason Canton Day-Date",
@@ -1097,7 +1111,7 @@
       "score_quality": 83,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Speedmaster 38 : 7 nouvelles références, la Speedmaster Reduced des temps modernes ?",
@@ -1265,7 +1279,7 @@
       "score_quality": 86,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1444,10 +1458,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1559,20 +1573,6 @@
       "score_quality": 76,
       "score_notif": 22,
       "cluster": "20260824-7b4b205641bf",
-      "cluster_main": true
-    },
-    {
-      "title": "Wren Introduces the Diver One Abyss",
-      "url": "https://wornandwound.com/wren-introduces-the-diver-one-abyss/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Wren-Diver-One-Abyss-11.jpg",
-      "peek_preview": "Are you afraid of the dark? No, really—it’s one of the most common phobias and for good reason. The dark represents the unknown, the impossible, and the very idea of danger. And while that uncertainty often leads to an...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-24T14:00:37.000Z",
-      "score_quality": 73,
-      "score_notif": 31,
-      "cluster": "20260824-e0feb1914587",
       "cluster_main": true
     },
     {
