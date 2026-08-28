@@ -1,6 +1,6 @@
 {
-  "content_hash": "862103b7d5d2bed8e8bf118861acffcb81b4106d02a6797a606f86ffb761490c",
-  "last_updated": "2026-08-28T18:46:46.982Z",
+  "content_hash": "e8f2593b8be61307ca4722191160fe461fb7658a064dc6c98dc280f473b2d968",
+  "last_updated": "2026-08-28T19:46:51.356Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T13:00:50.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T19:00:30.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -1220,10 +1220,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 90,
+      "score_quality": 93,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1304,10 +1304,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T19:20:29.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
@@ -1321,7 +1321,7 @@
       "score_quality": 92,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1377,7 +1377,7 @@
       "score_quality": 86,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1587,20 +1587,6 @@
       "score_quality": 54,
       "score_notif": 7,
       "cluster": "20260824-948a238896cf",
-      "cluster_main": true
-    },
-    {
-      "title": "Blancpain Introduces the Fifty Fathoms Bathyscaphe 70th Anniversary Limited Edition",
-      "url": "https://wornandwound.com/blancpain-introduces-the-fifty-fathoms-bathyscaphe-70th-anniversary-limited-edition/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Blancpain-Bathyscahpe-70th-Anniversary-7.jpg",
-      "peek_preview": "You know, I actually wasn’t going to write about this watch. An $18,000 vintage inspired dive watch from a brand that doesn’t hold a ton of personal relevance to me was just not super high on my list of priorities as Ge...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-24T18:30:20.000Z",
-      "score_quality": 100,
-      "score_notif": 63,
-      "cluster": "20260824-274828bc4ffa",
       "cluster_main": true
     },
     {
