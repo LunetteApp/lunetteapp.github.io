@@ -1,6 +1,6 @@
 {
-  "content_hash": "72788577c39cd34b8949fa63f237143b8f069875e4da8912b788f21de81f3bde",
-  "last_updated": "2026-08-28T02:46:58.310Z",
+  "content_hash": "488e90ec7dc90974b5f7de38c4181c3f8c7a5ea110d19dd8b22dacdc859b5fa5",
+  "last_updated": "2026-08-28T03:47:06.411Z",
   "premium": {
     "links": []
   },
@@ -163,18 +163,32 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T00:00:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T03:00:09.000Z"
     },
     {
       "source_name": "GMT Korea",
       "lang": "ko",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T02:08:19.000Z"
     }
   ],
   "items": [
+    {
+      "title": "ジャガー・ルクルトが銀座・並木通りに新たなフラッグシップブティックをオープン",
+      "url": "https://www.webchronos.net/news/170858/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/JL_ginzaboutique_1.webp",
+      "peek_preview": "ジャガー・ルクルトは2026年8月20日（木）、東京・銀座の並木通りに新たなフラッグシップブティックをオープンした。同社のマニュファクチュールが位置する、スイス・ジュウ渓谷の豊かな自然をテーマとした店舗内では、日本初とな […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-28T03:00:09.000Z",
+      "score_quality": 60,
+      "score_notif": 22,
+      "cluster": "20260828-8b50eaa7fa22",
+      "cluster_main": true
+    },
     {
       "title": "[인터뷰] 리차드 밀 세일즈 디렉터 알렉상드르 밀",
       "url": "https://www.gmtkoreaseoul.com/post/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%A6%AC%EC%B0%A8%EB%93%9C-%EB%B0%80-%EC%84%B8%EC%9D%BC%EC%A6%88-%EB%94%94%EB%A0%89%ED%84%B0-%EC%95%8C%EB%A0%89%EC%83%81%EB%93%9C%EB%A5%B4-%EB%B0%80",
@@ -218,7 +232,7 @@
       "cluster_main": true
     },
     {
-      "title": "Hands On: Patek Philippe In-Line Perpetual Ref. 5236P-011 “Gradient Silver”",
+      "title": "Hands On: Patek Philippe In-Line Perpetual Ref. 5236P “Gradient Silver”",
       "url": "https://watchesbysjx.com/2026/08/patek-philippe-in-line-perpetual-5236p-011-gradient-silver.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Patek-Philippe-In-Line-Perpetual-5236P-011-Gradient-Silver-1-300x200.jpg",
       "peek_preview": "Patek Philippe’s latest take on its flagship perpetual calendar is the In-Line Perpetual Calendar ref. 5236P-011 with a “gradient silver” dial. Though a cosmetic update to a model that’s only been in production since 20...",
@@ -394,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -565,7 +579,7 @@
       "score_quality": 94,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -702,10 +716,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-27T00:23:26.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Straum Expedition",
@@ -1416,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-24T18:30:20.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
@@ -1558,7 +1572,7 @@
       "published_at": "2026-08-24T01:00:23.000Z",
       "score_quality": 82,
       "score_notif": 48,
-      "cluster": "20260823-0b35c58ce4dc",
+      "cluster": "20260824-c2eee57cc534",
       "cluster_main": true
     },
     {
@@ -1616,20 +1630,6 @@
       "score_notif": 18,
       "cluster": "20260823-a70befdd874f",
       "cluster_main": true
-    },
-    {
-      "title": "ロジェ・デュブイが宇宙の神秘から着想を得た「エクスカリバー バイレトログラード カレンダー」を発表",
-      "url": "https://www.webchronos.net/news/170339/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/main-3.webp",
-      "peek_preview": "ロジェ・デュブイは、宇宙の神秘から着想を得たコズミックブルーで仕上げた「エクスカリバー バイレトログラード カレンダー」の新作を発表した。7層もの多層構造からなる文字盤はコズミックブルーを基調とし、ブロードアジュール仕上 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-23T03:00:56.000Z",
-      "score_quality": 64,
-      "score_notif": 48,
-      "cluster": "20260823-0b35c58ce4dc",
-      "cluster_main": false
     },
     {
       "title": "New releases from Czapek, Alexandre Martin, Wren and more",
@@ -1727,7 +1727,7 @@
       "score_quality": 83,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Perspective: The Best Five Perpetual Calendars Released in 2026—Genuine Mechanical Progress in the Industry's Oldest Complication",
@@ -1836,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T19:10:29.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: A. Lange & Söhne Zeitwerk Date in Pink Gold—Hands-on With The Digital Mechanical Watch",
