@@ -1,6 +1,6 @@
 {
-  "content_hash": "2296627de20d0644d245c095ca077acede81e780e475b8d4efe3964ce7b9349a",
-  "last_updated": "2026-08-28T10:46:52.401Z",
+  "content_hash": "adb7e016e09ccaca4af3a4dd58eb84b2e1f9a618e78218cd7c91aa7c6b8c6749",
+  "last_updated": "2026-08-28T12:47:26.165Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T08:01:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T12:00:39.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -113,7 +113,7 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
+      "estimated_articles_per_day": 0.5,
       "new_articles_since_last_update": 1,
       "latest_article_at": "2026-08-28T10:00:02.000Z"
     },
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-25T10:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T11:50:31.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -176,17 +176,45 @@
   ],
   "items": [
     {
+      "title": "Introducing – Fears goes High-End with the Brunswick 39 Perpetual Calendar",
+      "url": "https://monochrome-watches.com/fears-brunswick-39-perpetual-calendar-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Fears-Brunswick-39-Perpetual-Calendar-1-600x237.jpg",
+      "peek_preview": "One of Britain’s oldest family-run watch companies, first established in 1846 by Edwin Fear in Bristol, the Fears Watch Company ran for 130 years until it closed in 1976. In 2016, it was re-established by Edwin Fear’s g...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-28T12:00:39.000Z",
+      "score_quality": 86,
+      "score_notif": 64,
+      "cluster": "20260827-150e08e3bcaa",
+      "cluster_main": true
+    },
+    {
+      "title": "CHANEL COCO GAME: la Thematic Collection 2026 che porta il gioco nel lessico dell’Alta Orologeria",
+      "url": "https://italianwatchspotter.com/chanel-coco-game-thematic-collection-2026/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/08/the-chessboard-3quarts-black-rgb-1024x724.jpg",
+      "peek_preview": "Il gioco accompagna l’umanità da secoli. Ha attraversato civiltà, culture e linguaggi, trasformandosi di volta in volta in sfida, strategia, immaginazione ed espressione creativa. È un universo fatto di simboli, gesti e...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-28T11:50:31.000Z",
+      "score_quality": 66,
+      "score_notif": 47,
+      "cluster": "20260828-408f227b334d",
+      "cluster_main": true
+    },
+    {
       "title": "Richard Arbib, il designer futurista di Hamilton Electric",
-      "url": "https://giornaleorologi.it/2026/08/28/richard-arbib-ed-hamilton-electric/",
+      "url": "https://giornaleorologi.it/2026/08/28/richard-arbib-jeff-hess-ed-hamilton-electric/",
       "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/arbib-scan.63-1-1024x681.jpg",
       "peek_preview": "Per l'articolo completo - Richard Arbib, il designer futurista di Hamilton Electric Richard Arbib non è stato un semplice designer, ma un visionario capace di dar forma al futuro. Negli anni ’50, in pieno boom dello sti...",
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "featured": false,
       "published_at": "2026-08-28T10:00:02.000Z",
-      "score_quality": 74,
-      "score_notif": 8,
-      "cluster": "20260828-c5ac93cf98b8",
+      "score_quality": 78,
+      "score_notif": 17,
+      "cluster": "20260828-783b99da6d3d",
       "cluster_main": true
     },
     {
@@ -423,7 +451,7 @@
       "featured": false,
       "published_at": "2026-08-27T23:01:01.000Z",
       "score_quality": 72,
-      "score_notif": 58,
+      "score_notif": 64,
       "cluster": "20260827-150e08e3bcaa",
       "cluster_main": false
     },
@@ -437,9 +465,9 @@
       "featured": false,
       "published_at": "2026-08-27T23:01:00.000Z",
       "score_quality": 80,
-      "score_notif": 58,
+      "score_notif": 64,
       "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fears Celebrates Its (Re-)Birthday With The New Brunswick 39 — The Brand’s First Perpetual Calendar",
@@ -451,7 +479,7 @@
       "featured": false,
       "published_at": "2026-08-27T23:00:11.000Z",
       "score_quality": 79,
-      "score_notif": 58,
+      "score_notif": 64,
       "cluster": "20260827-150e08e3bcaa",
       "cluster_main": false
     },
@@ -1016,20 +1044,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The Ming 57.05 Comet, A Worldtimer with a Clever Answer to Daylight Saving Time",
-      "url": "https://monochrome-watches.com/ming-57-05-comet-worldtimer-daylight-saving-time-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Ming-57.05-Comet-Worldtimer-with-Daylight-Saving-Time-review-1-600x237.jpg",
-      "peek_preview": "Worldtimers are among the most practical complications for frequent travellers, yet they have, apart from a few high-end, complex watches, one persistent limitation: daylight saving time. Twice a year, depending on wher...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-26T13:01:54.000Z",
-      "score_quality": 85,
-      "score_notif": 65,
-      "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
-    },
-    {
       "title": "The Ming 57.05 Comet Springs Forward",
       "url": "https://watchesbysjx.com/2026/08/ming-57-05-comet.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Ming-5705-Comet-3x2-centred-header-2-300x200.jpg",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:00.000Z",
-      "score_quality": 79,
+      "score_quality": 83,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Speedmaster 38 : 7 nouvelles références, la Speedmaster Reduced des temps modernes ?",
@@ -1237,7 +1251,7 @@
       "score_quality": 85,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
@@ -1248,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T15:00:31.000Z",
-      "score_quality": 80,
+      "score_quality": 86,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1304,10 +1318,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T10:01:00.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1433,7 +1447,7 @@
       "score_quality": 85,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1558,7 +1572,7 @@
       "published_at": "2026-08-24T14:00:37.000Z",
       "score_quality": 73,
       "score_notif": 31,
-      "cluster": "20260821-2e77a9f8120f",
+      "cluster": "20260824-e0feb1914587",
       "cluster_main": true
     },
     {
@@ -1840,20 +1854,6 @@
       "score_notif": 16,
       "cluster": "20260821-d1c62c7939ea",
       "cluster_main": true
-    },
-    {
-      "title": "Into the abyss: Wren takes the Diver One to its darkest depths yet",
-      "url": "https://timeandtidewatches.com/wren-diver-one-abyss-in-the-shop/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-wren-diver-one-abyss.jpg",
-      "peek_preview": "Wren's 41mm Diver One returns with a clear DLC coated stainless steel case, and a dial so black, not even light can escape its pull. The post Into the abyss: Wren takes the Diver One to its darkest depths yet appeared f...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-21T14:01:31.000Z",
-      "score_quality": 55,
-      "score_notif": 31,
-      "cluster": "20260821-2e77a9f8120f",
-      "cluster_main": false
     }
   ]
 }
