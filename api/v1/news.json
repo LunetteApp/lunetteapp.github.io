@@ -1,6 +1,6 @@
 {
-  "content_hash": "d9b2466c2381014de0fbe56ac87871e6be7d56997395d78abe24a578f0761f20",
-  "last_updated": "2026-08-28T15:47:49.763Z",
+  "content_hash": "2b73f4eec30e4b42289908ccba5b886c7251b40c624e340083d57cd643ac41fe",
+  "last_updated": "2026-08-28T16:46:59.002Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T15:00:40.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T12:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T16:05:09.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T15:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The Quantum Barracuda BAR1208B Could Be This Year’s Performance Bargain (Incl. Video)",
+      "url": "https://monochrome-watches.com/first-look-video-review-quantum-barracuda-bar1208b-miyota-8215-automatic-dive-watch-value-proposition-specs-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Quantum-Barracuda-BAR1208B-Dive-Watch-Review-Automatic-Affordable-Dive-Watch-Video-Review-9-600x237.jpg",
+      "peek_preview": "The name Quantum might not be familiar to you, and nor was it to us before we discovered the Barracuda. Quantum is a watchmaking company that has been around for more than thirty years, operating in more than 35 countri...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-28T16:05:09.000Z",
+      "score_quality": 78,
+      "score_notif": 28,
+      "cluster": "20260828-5cfac9693b9d",
+      "cluster_main": true
+    },
     {
       "title": "The New Unimatic Impronte Collection Leaves A Permanent Imprint",
       "url": "https://www.fratellowatches.com/the-new-unimatic-impronte-collection-leaves-a-permanent-imprint/",
@@ -1058,20 +1072,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The new Bell & Ross BR-X5 Meteorite",
-      "url": "https://monochrome-watches.com/bell-ross-br-x5-meteorite-introducing/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Bell-and-Ross-BR-X5-Meteorite-2-600x237.jpg",
-      "peek_preview": "With the introduction of its BR-01 model in 2005, Bell & Ross took flight with its graphic, cockpit-inspired design language, translated into the brand’s signature circle-within-a-square geometry. In 2019, the brand ven...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-26T14:00:43.000Z",
-      "score_quality": 90,
-      "score_notif": 43,
-      "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": true
-    },
-    {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
       "url": "https://www.watchcollectinglifestyle.com/home/gphg-jury-2026-wei-koh",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787751368485-W4PA0PTWXQZWNEZ282T2/GPHGJury2026.jpg?format=1500w",
@@ -1111,7 +1111,7 @@
       "score_quality": 89,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Speedmaster 38 : 7 nouvelles références, la Speedmaster Reduced des temps modernes ?",
@@ -1164,10 +1164,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1447,7 +1447,7 @@
       "score_quality": 89,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1839,6 +1839,20 @@
       "score_quality": 55,
       "score_notif": 16,
       "cluster": "20260821-d1c62c7939ea",
+      "cluster_main": true
+    },
+    {
+      "title": "Into the abyss: Wren takes the Diver One to its darkest depths yet",
+      "url": "https://timeandtidewatches.com/wren-diver-one-abyss-in-the-shop/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-wren-diver-one-abyss.jpg",
+      "peek_preview": "Wren's 41mm Diver One returns with a clear DLC coated stainless steel case, and a dial so black, not even light can escape its pull. The post Into the abyss: Wren takes the Diver One to its darkest depths yet appeared f...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-21T14:01:31.000Z",
+      "score_quality": 56,
+      "score_notif": 12,
+      "cluster": "20260821-2e77a9f8120f",
       "cluster_main": true
     }
   ]
