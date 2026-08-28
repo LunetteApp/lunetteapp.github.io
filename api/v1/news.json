@@ -1,6 +1,6 @@
 {
-  "content_hash": "ff176e46c910ee991febd24c97ba060aa3b8ee753ee9dd3258b45d916c83e0ad",
-  "last_updated": "2026-08-28T07:46:59.480Z",
+  "content_hash": "767534d871b89d48a392e314c48a921dc40264824a57094f2bf393ab47543029",
+  "last_updated": "2026-08-28T08:47:47.206Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T06:01:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T08:01:03.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T07:01:16.000Z"
     },
     {
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T07:33:09.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T07:00:56.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The Hanhart MAD Preventor HD12, Launching a new 36mm Case",
+      "url": "https://monochrome-watches.com/hanhart-mad-preventor-hd12-new-36mm-case-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Hanhart-MAD-Preventor-HD12-36mm-compact-all-rounder-sports-watch-forest-green-dial-1-600x237.jpg",
+      "peek_preview": "Last year, Hanhart introduced the Preventor HD12 as its vision of a robust and versatile everyday watch. Positioned alongside the brand’s historically inspired pilot’s watches and chronographs, the series offered a comp...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-28T08:01:03.000Z",
+      "score_quality": 81,
+      "score_notif": 45,
+      "cluster": "20260828-2d5f16b69f96",
+      "cluster_main": true
+    },
     {
       "title": "Vacheron Constantin Pushes Dial Art Further With Animal Kingdom Tribute",
       "url": "https://www.atimelyperspective.com/vacheron-constantin-pushes-dial-art-further-with-animal-kingdom-tribute/",
@@ -534,10 +548,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -562,10 +576,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T13:01:04.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa and Belmont Watches Team Up for the Sub 300 Beta “Frogger” Limited Edition",
@@ -593,7 +607,7 @@
       "score_quality": 84,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Noah x Timex MK1 Anchor (Live Pics)",
@@ -674,10 +688,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T10:55:48.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex Essence 39mm Automatic COSC Watches Get A Generational Upgrade",
@@ -705,7 +719,7 @@
       "score_quality": 96,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -719,7 +733,7 @@
       "score_quality": 85,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new Christopher Ward C60 Trident Biscay looks back across six decades of diving",
@@ -886,8 +900,8 @@
       "published_at": "2026-08-26T18:00:00.000Z",
       "score_quality": 81,
       "score_notif": 42,
-      "cluster": "20260826-23c8d6bb6e69",
-      "cluster_main": false
+      "cluster": "20260826-13dd9b99cfa4",
+      "cluster_main": true
     },
     {
       "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
@@ -971,7 +985,7 @@
       "score_quality": 88,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
@@ -1038,10 +1052,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:00.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Ming's New 57.05 'Comet' Worldtime Is Out Of This World Innovation",
@@ -1070,20 +1084,6 @@
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing – The Maison Alcée x MB&F Nostromo, an Alien-Like Creation to Build Yourself",
-      "url": "https://monochrome-watches.com/maison-alcee-x-mbf-nostromo-an-alien-like-creation-to-biuld-yourself-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Maison-Alcee-x-MBandF-Nostromo-MAD-Gallery-DIY-clock-1-600x237.jpg",
-      "peek_preview": "Just ahead of Geneva Watch Days, MB&F has teamed up with Maison Alcée to release a wonderful build-it-yourself mechanical desk clock. Celebrating the 15th anniversary of MB&F’s M.A.D. Gallery, the two brands have collab...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-26T12:01:58.000Z",
-      "score_quality": 82,
-      "score_notif": 42,
-      "cluster": "20260826-23c8d6bb6e69",
-      "cluster_main": true
     },
     {
       "title": "New Release: Urwerk UR-1001 ‘Amadeus’ Is A Hand-Engraved Pocket Watch With A Millennium Tracker",
@@ -1139,7 +1139,7 @@
       "score_quality": 84,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1416,10 +1416,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 82,
+      "score_quality": 85,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
