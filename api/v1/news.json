@@ -1,6 +1,6 @@
 {
-  "content_hash": "c03d7cc176d4610fd3f8d7c003aac3406ccc1458b03281d6ff07c075fd477156",
-  "last_updated": "2026-08-28T13:47:40.238Z",
+  "content_hash": "a9b7f5761b96d7bcd1289c5a77b9c4688f2b5648cc08f0869f4c47c395431594",
+  "last_updated": "2026-08-28T14:46:55.022Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T13:00:50.000Z"
     },
     {
@@ -29,7 +29,7 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
+      "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T07:01:16.000Z"
     },
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T19:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Studio Underd0g 02Series \"Mantis\"",
+      "url": "https://www.hodinkee.com/articles/tktk-4",
+      "image": "https://hodinkee.imgix.net/uploads/images/da9b4a64-004c-44b6-bdc7-4a91bc20b2e4/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Studio Underd0g introduces their first limited edition Gen 2 02Series watch, bringing with it their brightest dial ever.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-28T14:00:00.000Z",
+      "score_quality": 76,
+      "score_notif": 48,
+      "cluster": "20260828-2e80a53de699",
+      "cluster_main": true
+    },
     {
       "title": "Go Big or Go Home: Fears Adds Its First High Complication with a QP",
       "url": "https://wornandwound.com/go-big-or-go-home-fears-adds-its-first-high-complication-with-a-qp/",
@@ -604,10 +618,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -632,10 +646,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T13:01:04.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa and Belmont Watches Team Up for the Sub 300 Beta “Frogger” Limited Edition",
@@ -663,7 +677,7 @@
       "score_quality": 86,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Noah x Timex MK1 Anchor (Live Pics)",
@@ -690,8 +704,8 @@
       "published_at": "2026-08-27T12:36:15.000Z",
       "score_quality": 56,
       "score_notif": 62,
-      "cluster": "20260826-514a2a1e23d8",
-      "cluster_main": false
+      "cluster": "20260827-b0d35bbe441f",
+      "cluster_main": true
     },
     {
       "title": "Introducing – Awake Adds Storm, Blood Moon, and Lagoon Colours to the Son Mai Frosted Leaf Collection",
@@ -775,7 +789,7 @@
       "score_quality": 98,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -1069,7 +1083,7 @@
       "score_quality": 84,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Choosin’ Texas With The New Jack Mason Canton Day-Date",
@@ -1108,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:00.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Speedmaster 38 : 7 nouvelles références, la Speedmaster Reduced des temps modernes ?",
@@ -1142,20 +1156,6 @@
       "cluster_main": true
     },
     {
-      "title": "Business News: Middle East Conflict Forces The Escapement To Cancel Abu Dhabi Event And Move To Las Vegas",
-      "url": "https://www.hodinkee.com/articles/middle-east-war-forces-the-escapement-to-cancel-abu-dhabi-event-and-move-to-las-vegas",
-      "image": "https://hodinkee.imgix.net/uploads/images/c73dfd07-7dc1-4d51-a4a0-5eb20f0555b2/Image8-26-26at11.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Due to corporate travel restrictions in the Middle East amid ongoing U.S. military conflict with Iran, the watch event organizer shifted the November event to Las Vegas in February 2027.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-26T12:00:00.000Z",
-      "score_quality": 82,
-      "score_notif": 62,
-      "cluster": "20260826-514a2a1e23d8",
-      "cluster_main": true
-    },
-    {
       "title": "News: Jaeger-LeCoultre Recreates the Vallée de Joux in Shanghai—Open September 10-23, 2026",
       "url": "https://www.watchcollectinglifestyle.com/home/jaeger-lecoultre-valley-of-inventions-valle-de-joux-in-shanghai",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787694339058-L5J3CXB0EAWCQJD2GXV5/The+Valley+of+Inventions+1.jpg?format=1500w",
@@ -1178,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 84,
+      "score_quality": 88,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1461,7 +1461,7 @@
       "score_quality": 87,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
