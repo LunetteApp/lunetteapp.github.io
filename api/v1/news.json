@@ -1,6 +1,6 @@
 {
-  "content_hash": "e8f2593b8be61307ca4722191160fe461fb7658a064dc6c98dc280f473b2d968",
-  "last_updated": "2026-08-28T19:46:51.356Z",
+  "content_hash": "c10cc2b115dbfb170d4846299ad4308de17ba44166bae8d3cfd28cda0bcb4c20",
+  "last_updated": "2026-08-28T20:47:25.942Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T19:00:30.000Z"
     },
     {
@@ -1041,7 +1041,7 @@
       "score_quality": 87,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Maison Alcée x MB&F Nostromo",
@@ -1150,10 +1150,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:26.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Bell & Ross BR-X5 Meteorite- Hands-on, Price & Specs",
@@ -1223,7 +1223,7 @@
       "score_quality": 93,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1307,7 +1307,7 @@
       "score_quality": 87,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
@@ -1374,10 +1374,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T10:01:00.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1500,10 +1500,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 91,
+      "score_quality": 94,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1839,6 +1839,20 @@
       "score_quality": 73,
       "score_notif": 16,
       "cluster": "20260822-4e5771818edf",
+      "cluster_main": true
+    },
+    {
+      "title": "CPO-Uhren im Aufwind: Rüschenbeck und eine außergewöhnliche IWC Da Vinci Tourbillon Leonardo",
+      "url": "https://www.uhrenkosmos.com/cpo-uhren-im-aufwind-iwc-da-vinci-tourbillon/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/IWC-Da-Vinci-Tourbillon-Leonardo-Rueschenbeck-C-Uhrenkosmos.jpg",
+      "peek_preview": "Der Markt für gebrauchte Luxusuhren professionalisiert sich. Juwelier Rüschenbeck hat Certified Pre-Owned längst als eigenes Geschäftsfeld etabliert. Die seltene IWC Da Vinci Tourbillon Leonardo von 2002 zeigt, warum CP...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-08-22T06:58:02.000Z",
+      "score_quality": 42,
+      "score_notif": 10,
+      "cluster": "20260822-9625f6cd0929",
       "cluster_main": true
     }
   ]
