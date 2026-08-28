@@ -1,6 +1,6 @@
 {
-  "content_hash": "17712caac3c5aa97e7120d7f5eb6e364d868000de8e32ae32aa0bd10050694f1",
-  "last_updated": "2026-08-27T23:47:21.234Z",
+  "content_hash": "cf650e740404e8b7887b7565b3d33dabd3273d02e1fd1ae06925cba1e33a9add",
+  "last_updated": "2026-08-28T00:46:59.862Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T23:00:11.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T23:01:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-27T23:01:01.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-27T03:00:42.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T00:00:54.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "グラスヒュッテ・オリジナルが歴史的モデルから着想を得た「セネタ・クロノグラフ」2モデルを発表",
+      "url": "https://www.webchronos.net/news/170661/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/gho_se_1.webp",
+      "peek_preview": "グラスヒュッテ・オリジナルは、パイロットクロノグラフを着想源とする「セネタ・クロノグラフ ナビゲーター」と、歴史的な航海用懐中時計を思わせる「セネタ・クロノグラフ」のふたつの新作クロノグラフを発表した。いずれもドイツ・グ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-28T00:00:54.000Z",
+      "score_quality": 72,
+      "score_notif": 48,
+      "cluster": "20260828-6e4e12d4c16f",
+      "cluster_main": true
+    },
     {
       "title": "The Fears Brunswick 39 Perpetual Calendar marks a new chapter for the British brand",
       "url": "https://timeandtidewatches.com/fears-brunswick-39-perpetual-calendar-hands-on/",
@@ -324,10 +338,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -467,7 +481,7 @@
       "score_quality": 82,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Formex Essence 39mm Automatic COSC Watches Get A Generational Upgrade",
@@ -495,7 +509,7 @@
       "score_quality": 92,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -506,10 +520,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:26.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new Christopher Ward C60 Trident Biscay looks back across six decades of diving",
@@ -761,7 +775,7 @@
       "score_quality": 86,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
@@ -828,10 +842,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Ming's New 57.05 'Comet' Worldtime Is Out Of This World Innovation",
@@ -1055,7 +1069,7 @@
       "score_quality": 81,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
@@ -1122,10 +1136,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T10:01:00.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1562,20 +1576,6 @@
       "cluster_main": false
     },
     {
-      "title": "シチズン「エクシード」に中秋の名月をテーマとしたムーンフェイズ表示モデルが登場",
-      "url": "https://www.webchronos.net/news/169904/",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png",
-      "peek_preview": "シチズンは光発電エコ・ドライブと標準電波受信機能を持つ「エクシード」の新作として、中秋の名月をテーマとした限定モデルを発表した。文字盤をブラック、各種針やインデックスをゴールドカラーに仕立て、ムーンフェイズ部には月の光に […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-23T00:00:45.000Z",
-      "score_quality": 66,
-      "score_notif": 38,
-      "cluster": "20260823-17da3420e6a0",
-      "cluster_main": true
-    },
-    {
       "title": "New releases from Czapek, Alexandre Martin, Wren and more",
       "url": "https://timeandtidewatches.com/czapek-alexandre-martin-wren-last-week-in-watches/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/wren-web.jpg",
@@ -1822,10 +1822,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
@@ -1836,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T13:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260820-8be1f55a6fe5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tutima Flieger T5: Fliegeruhr? Ja, das geht auch leicht und kleiner!",
