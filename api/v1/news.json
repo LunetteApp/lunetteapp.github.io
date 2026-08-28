@@ -1,6 +1,6 @@
 {
-  "content_hash": "054dc0b7356e2d442c0d6977576ade7bc701e2887ac02af1030f4532d294353d",
-  "last_updated": "2026-08-28T17:46:53.516Z",
+  "content_hash": "862103b7d5d2bed8e8bf118861acffcb81b4106d02a6797a606f86ffb761490c",
+  "last_updated": "2026-08-28T18:46:46.982Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T17:00:32.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T16:59:55.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T17:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T16:50:38.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T17:32:30.000Z"
     },
     {
@@ -1038,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T18:00:39.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Maison Alcée x MB&F Nostromo",
@@ -1153,7 +1153,7 @@
       "score_quality": 86,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Bell & Ross BR-X5 Meteorite- Hands-on, Price & Specs",
@@ -1318,10 +1318,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T15:00:31.000Z",
-      "score_quality": 86,
+      "score_quality": 92,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1503,7 +1503,7 @@
       "score_quality": 91,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1839,6 +1839,20 @@
       "score_quality": 62,
       "score_notif": 18,
       "cluster": "20260822-a17f6072c609",
+      "cluster_main": true
+    },
+    {
+      "title": "Watch Review: Rolex Oyster Perpetual 36 126000 With Jubilee Dial",
+      "url": "https://www.ablogtowatch.com/watch-review-rolex-oyster-perpetual-36-126000-with-jubilee-dial/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Rolex-Oyster-Perpetual-36-Jubilee-Dial-126000-0016-featured-768x346.jpg",
+      "peek_preview": "It was not long ago that I ranted, “Too Many Luxury Watches Feel Too Cheap (Even To The Untrained Eye)” in one of my Grinding Gears columns. I brought up a Rolex Oyster Perpetual watch, and how its CNC-etched clasp look...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-22T07:01:53.000Z",
+      "score_quality": 73,
+      "score_notif": 16,
+      "cluster": "20260822-4e5771818edf",
       "cluster_main": true
     }
   ]
