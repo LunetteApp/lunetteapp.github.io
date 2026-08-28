@@ -1,6 +1,6 @@
 {
-  "content_hash": "6f2565da0d34b65235d71a1b8ada14046183ad60e714a929915e3a3359f27c52",
-  "last_updated": "2026-08-28T01:47:45.770Z",
+  "content_hash": "72788577c39cd34b8949fa63f237143b8f069875e4da8912b788f21de81f3bde",
+  "last_updated": "2026-08-28T02:46:58.310Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T01:00:01.000Z"
     },
     {
@@ -169,12 +169,40 @@
     {
       "source_name": "GMT Korea",
       "lang": "ko",
-      "estimated_articles_per_day": 0,
-      "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-28T01:29:08.000Z"
+      "estimated_articles_per_day": 0.1,
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-08-28T02:08:19.000Z"
     }
   ],
   "items": [
+    {
+      "title": "[인터뷰] 리차드 밀 세일즈 디렉터 알렉상드르 밀",
+      "url": "https://www.gmtkoreaseoul.com/post/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%A6%AC%EC%B0%A8%EB%93%9C-%EB%B0%80-%EC%84%B8%EC%9D%BC%EC%A6%88-%EB%94%94%EB%A0%89%ED%84%B0-%EC%95%8C%EB%A0%89%EC%83%81%EB%93%9C%EB%A5%B4-%EB%B0%80",
+      "image": "https://static.wixstatic.com/media/bd93d4_d7ca4082edc6405f8c8c4a806aa75125~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "peek_preview": "리차드 밀은 창립 25주년을 특별히 기념하지 않았지만 많은 마일스톤이 있었다. 이 모든 것이 어떻게 시작되었는지 기억하는가? 사실 과거 기억은 명확하지 않다. 부모님은 별거 중이었고, 나는 아버지와 살고 있지 않았다. 아버지는 자신의 브랜드를 론칭하느라 바빴고, 자신의 이름을 딴 독자적인 브랜드를 만들고 싶다고 설명한 것은 분명 기억한다. 완벽에 가까운 시계를 만들고 싶다고 말했는데 매우...",
+      "source_name": "GMT Korea",
+      "lang": "ko",
+      "featured": false,
+      "published_at": "2026-08-28T02:08:19.000Z",
+      "score_quality": 72,
+      "score_notif": 20,
+      "cluster": "20260828-0f11c17cfefb",
+      "cluster_main": true
+    },
+    {
+      "title": "리차드 밀 RM 64-01 더 강하게, 더 가볍게",
+      "url": "https://www.gmtkoreaseoul.com/post/%EB%A6%AC%EC%B0%A8%EB%93%9C-%EB%B0%80-rm-64-01-%EB%8D%94-%EA%B0%95%ED%95%98%EA%B2%8C-%EB%8D%94-%EA%B0%80%EB%B3%8D%EA%B2%8C",
+      "image": "https://static.wixstatic.com/media/bd93d4_a820ae2290324f7b98fc3413a3026c0b~mv2.jpeg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "peek_preview": "초경량 자전거 프레임을 연상케 하는 무브먼트와 크라운 캡의 에이스 로고를 발견하고 회심의 미소를 지었다면 아마도 사이클, 혹은 이탈리아 스포츠 문화에 정통한 사람일 것이다. 새롭게 선보인 RM 64-01 매뉴얼 와인딩 투르비용 콜나고는 전설적인 이탈리아 사이클링 브랜드 콜나고(COLNAGO)와의 협업 작품이다. 시계 애호가라면 스포츠 종목을 듣는 순간 경량과 강성을 주제로 한 기술 혁신을...",
+      "source_name": "GMT Korea",
+      "lang": "ko",
+      "featured": false,
+      "published_at": "2026-08-28T02:02:46.000Z",
+      "score_quality": 52,
+      "score_notif": 40,
+      "cluster": "20260828-53b05dbe4f68",
+      "cluster_main": true
+    },
     {
       "title": "까르띠에가 발견한 미래의 워치메이킹 세대",
       "url": "https://www.gmtkoreaseoul.com/post/%EA%B9%8C%EB%A5%B4%EB%9D%A0%EC%97%90%EA%B0%80-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EB%AF%B8%EB%9E%98%EC%9D%98-%EC%9B%8C%EC%B9%98%EB%A9%94%EC%9D%B4%ED%82%B9-%EC%84%B8%EB%8C%80",
@@ -240,10 +268,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T23:01:00.000Z",
-      "score_quality": 74,
+      "score_quality": 80,
       "score_notif": 58,
       "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fears Celebrates Its (Re-)Birthday With The New Brunswick 39 — The Brand’s First Perpetual Calendar",
@@ -257,7 +285,7 @@
       "score_quality": 79,
       "score_notif": 58,
       "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Impressively Expands The Master Collection",
@@ -677,7 +705,7 @@
       "score_quality": 82,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Straum Expedition",
@@ -800,10 +828,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T14:00:43.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
@@ -873,7 +901,7 @@
       "score_quality": 87,
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Ming's New 57.05 'Comet' Worldtime Is Out Of This World Innovation",
@@ -1164,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T10:01:00.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1181,7 +1209,7 @@
       "score_quality": 83,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Master Collection: i nuovi chrono monopusher e chrono moonphase",
@@ -1388,10 +1416,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-24T18:30:20.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
@@ -1696,10 +1724,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-21T22:01:53.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 40,
       "cluster": "20260821-585b5bee4472",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Perspective: The Best Five Perpetual Calendars Released in 2026—Genuine Mechanical Progress in the Industry's Oldest Complication",
@@ -1808,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-20T19:10:29.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 63,
       "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: A. Lange & Söhne Zeitwerk Date in Pink Gold—Hands-on With The Digital Mechanical Watch",
@@ -1825,34 +1853,6 @@
       "score_quality": 82,
       "score_notif": 49,
       "cluster": "20260820-03214d518f3d",
-      "cluster_main": true
-    },
-    {
-      "title": "Blancpain Fifty Fathoms Bathyscaphe Marks 70 Years with 37mm Vintage Re-Edition",
-      "url": "https://teddybaldassarre.com/blogs/watches/blancpain-fifty-fathoms-bathyscaphe-70th-anniversary",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Vintage_Batyscaphe_duo_02.jpg?v=1787235568",
-      "peek_preview": "Blancpain famously introduced its trendsetting Fifty Fathoms divers’ watch in 1953, aiming it originally at military and professional divers. Its popularity gave rise to a civilian-targeted model, the Fifty Fathoms Bath...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T14:56:55.000Z",
-      "score_quality": 99,
-      "score_notif": 63,
-      "cluster": "20260820-0443d4aeb9d1",
-      "cluster_main": false
-    },
-    {
-      "title": "Into the Blue: Czapek’s Promenade Transparencies Aqua Blue",
-      "url": "https://watchesbysjx.com/2026/08/czapek-promenade-transparencies-aqua-blue.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Czapek-Promenade-Transparencies-Aqua-Blue-3x2-centred-header-300x200.jpg",
-      "peek_preview": "In the lead up to Geneva Watch Days, Czapek has unveiled the Promenade Transparencies Aqua Blue — a gradient blue variant of a sapphire-dialled dress watch the brand released in late 2024. The watch breaks little new gr...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-20T13:00:47.000Z",
-      "score_quality": 99,
-      "score_notif": 55,
-      "cluster": "20260820-2f25f3ccbcb5",
       "cluster_main": true
     }
   ]
