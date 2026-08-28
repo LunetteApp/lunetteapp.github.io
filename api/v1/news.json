@@ -1,6 +1,6 @@
 {
-  "content_hash": "c10cc2b115dbfb170d4846299ad4308de17ba44166bae8d3cfd28cda0bcb4c20",
-  "last_updated": "2026-08-28T20:47:25.942Z",
+  "content_hash": "89993fa14e392c79bc7ba502f78d19e017684fe91f6a5946d7199a55bb33d556",
+  "last_updated": "2026-08-28T22:46:43.450Z",
   "premium": {
     "links": []
   },
@@ -106,9 +106,9 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-25T06:00:53.000Z"
+      "estimated_articles_per_day": 0.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-28T22:05:37.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Nuovi Formex Essence 39 mm: l’evoluzione che non si vede",
+      "url": "https://www.orologidiclasse.com/formex-essence-39-mm-2026-evoluzione/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/08/formex-essence-39-2026.jpg",
+      "peek_preview": "Quando un orologio vende bene, la tentazione di non toccarlo è fortissima. Si cambia un quadrante, si aggiunge una colorazione, si lascia tutto il resto esattamente dov’è. Ed è una strategia comprensibile: perché rischi...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-28T22:05:37.000Z",
+      "score_quality": 58,
+      "score_notif": 46,
+      "cluster": "20260827-973841989f9e",
+      "cluster_main": false
+    },
     {
       "title": "Omega Speedmaster Alaska Project: Die etwas andere Moonwatch",
       "url": "https://www.uhrenkosmos.com/omega-speedmaster-alaska-project-cpo-check/",
@@ -1304,10 +1318,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T19:20:29.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
@@ -1318,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T15:00:31.000Z",
-      "score_quality": 92,
+      "score_quality": 95,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1377,7 +1391,7 @@
       "score_quality": 88,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1503,7 +1517,7 @@
       "score_quality": 94,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1839,20 +1853,6 @@
       "score_quality": 73,
       "score_notif": 16,
       "cluster": "20260822-4e5771818edf",
-      "cluster_main": true
-    },
-    {
-      "title": "CPO-Uhren im Aufwind: Rüschenbeck und eine außergewöhnliche IWC Da Vinci Tourbillon Leonardo",
-      "url": "https://www.uhrenkosmos.com/cpo-uhren-im-aufwind-iwc-da-vinci-tourbillon/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/IWC-Da-Vinci-Tourbillon-Leonardo-Rueschenbeck-C-Uhrenkosmos.jpg",
-      "peek_preview": "Der Markt für gebrauchte Luxusuhren professionalisiert sich. Juwelier Rüschenbeck hat Certified Pre-Owned längst als eigenes Geschäftsfeld etabliert. Die seltene IWC Da Vinci Tourbillon Leonardo von 2002 zeigt, warum CP...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-22T06:58:02.000Z",
-      "score_quality": 42,
-      "score_notif": 10,
-      "cluster": "20260822-9625f6cd0929",
       "cluster_main": true
     }
   ]
