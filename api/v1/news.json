@@ -1,6 +1,6 @@
 {
-  "content_hash": "1a0aea9c8c9c91be383d22a2e838bc6fa323b7e9af5befbe5a86ec0e038b06cb",
-  "last_updated": "2026-08-29T13:47:33.067Z",
+  "content_hash": "0de9efdc2dbb9f6de8a5bc2f2dcb42fad6c0c1a7416be4bc6cdcfa53dd3e57f6",
+  "last_updated": "2026-08-29T14:47:13.169Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T19:00:30.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-29T14:00:40.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-29T08:35:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-29T14:00:15.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,13 +58,13 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-29T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
+      "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T17:00:00.000Z"
     },
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-29T13:11:35.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-29T13:08:12.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Watches, Stories, & Gear: The Pitt Season 3, Mr Jones Watch Contest, and Remembering Dolly Parton & Tim Curry",
+      "url": "https://wornandwound.com/watches-stories-gear-the-pitt-season-3-mr-jones-watch-contest-and-remembering-dolly-parton-tim-curry/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/QCYOQDJPS5CKTPSWKMWXH6PTSE-scaled-e1787867088596.webp",
+      "peek_preview": "“Watches, Stories, and Gear” is a roundup of our favorite content, watch or otherwise, from around the internet. Here, we support other creators, explore interesting content that inspires us, and put a spotlight on caus...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-29T14:00:40.000Z",
+      "score_quality": 26,
+      "score_notif": 7,
+      "cluster": "20260829-48a6a2c3ccf4",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The new L.Leroy Vox Temporis Tourbillon Minute Repeater, with Tact-Inspired Single-Hand Display",
+      "url": "https://monochrome-watches.com/new-l-leroy-vox-temporis-tourbillon-minute-repeater-tact-watch-inspired-single-hand-display-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/L.Leroy-Vox-Temporis-Tourbillon-Minute-Repeater-Tact-Watch-Inspired-SIngle-hand-display-1-600x237.jpg",
+      "peek_preview": "Named after the illustrious 18th-century watchmaker Charles Leroy, L.Leroy made its return over the past couple of years with high-end complications such as the Osmior Bal du Temps Tourbillon Minute Repeater or the Elyo...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-29T14:00:15.000Z",
+      "score_quality": 86,
+      "score_notif": 31,
+      "cluster": "20260826-eec435f0f197",
+      "cluster_main": true
+    },
     {
       "title": "New: Hanhart MAD Preventor HD12, 36 mm in Black Forest Green",
       "url": "https://deployant.com/hanhart-mad-preventor-hd12/?utm_source=rss&utm_medium=rss&utm_campaign=hanhart-mad-preventor-hd12",
@@ -929,7 +957,7 @@
       "score_quality": 87,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa and Belmont Watches Team Up for the Sub 300 Beta “Frogger” Limited Edition",
@@ -954,10 +982,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T13:00:00.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Noah x Timex MK1 Anchor (Live Pics)",
@@ -1055,7 +1083,7 @@
       "score_quality": 63,
       "score_notif": 46,
       "cluster": "20260827-973841989f9e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Anordain’s New Model 1 Combines Porcelain Dial and Custom Font",
@@ -1097,20 +1125,6 @@
       "score_quality": 60,
       "score_notif": 47,
       "cluster": "20260827-efc01e8b2bbf",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The New Formex Essence 39mm Automatic COSC, Upgraded Where It Counts",
-      "url": "https://monochrome-watches.com/2026-formex-essence-39mm-automatic-cosc-upgraded-movement-clasp-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Updated-Formex-Essence-39-mm-Automatic-COSC-Sellita-Power-Plus-Movement-New-Micro-Adjust-Clasp-review-8-600x237.jpg",
-      "peek_preview": "Formex is giving its best-selling, compact Essence 39mm a refresh, bringing in technical and ergonomic improvements. The 39mm Essence was first showcased in 2020 as the smaller sibling to the original 43mm model, and we...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T07:01:38.000Z",
-      "score_quality": 80,
-      "score_notif": 46,
-      "cluster": "20260827-973841989f9e",
       "cluster_main": true
     },
     {
@@ -1263,9 +1277,9 @@
       "featured": false,
       "published_at": "2026-08-26T14:35:15.000Z",
       "score_quality": 68,
-      "score_notif": 44,
+      "score_notif": 31,
       "cluster": "20260826-eec435f0f197",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: GPHG Unveils Its 2026 Jury—The Twenty-Four Deciding Horology's Biggest Night",
@@ -1360,10 +1374,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 93,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1490,20 +1504,6 @@
       "score_notif": 37,
       "cluster": "20260825-f9667b0a4530",
       "cluster_main": true
-    },
-    {
-      "title": "Review: Is the New Omega Speedmaster 38 the Modern Speedmaster Reduced?",
-      "url": "https://wornandwound.com/review/review-is-the-new-omega-speedmaster-38-the-modern-speedmaster-reduced/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/SPEEDMASTER_38_2.jpg",
-      "peek_preview": "The name “Speedmaster Reduced” is a blanket term for the Speedmaster Automatics with cases smaller than the iconic 42mm Omega Speedmaster Professional. First launched in the late ’80s, there is a dizzying number of refe...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-25T11:24:17.000Z",
-      "score_quality": 78,
-      "score_notif": 71,
-      "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
     },
     {
       "title": "Longines adds a Monopusher and more to updated Master Collection",
@@ -1643,7 +1643,7 @@
       "score_quality": 98,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
