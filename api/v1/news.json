@@ -1,6 +1,6 @@
 {
-  "content_hash": "2f49ec3b78fe81283fe6b5ec38a00c36debe1c42fde1b1b9152591662101a96b",
-  "last_updated": "2026-08-29T07:47:12.602Z",
+  "content_hash": "1833a9927b4e5139c02133bbdb67b9ac547a2925cac93a3dce5583d92119e0bb",
+  "last_updated": "2026-08-29T08:46:44.710Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-29T07:00:21.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T16:05:09.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-29T08:35:29.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T17:00:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-29T07:01:37.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "The Petrolhead Corner – Porsche Versus Porsche, a Very Personal Take on the Cayenne Turbo Electric & Macan GTS",
+      "url": "https://monochrome-watches.com/the-petrolhead-corner-2026-porsche-cayenne-turbo-electric-macan-gts-ev-suv-comparison-driving-experience/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Porsche-Cayenne-Turbo-Electric-3-600x237.jpg",
+      "peek_preview": "My pre-assumption about EVs is that they’re like battery-powered watches. That means they are of no interest to me. Yet, when Porsche asked me to join them in the south of France and have a drive in their latest EV that...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-29T08:35:29.000Z",
+      "score_quality": 12,
+      "score_notif": 0,
+      "cluster": "20260829-49104338a2e3",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: The Limited-Edition Bulova Shelby Racer Chronograph Watch Combines Bare-Metal Brilliance With American Racing Style",
+      "url": "https://www.ablogtowatch.com/hands-on-the-limited-edition-bulova-shelby-racer-chronograph-watch-combines-bare-metal-brilliance-with-american-racing-style/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Bulova-Shelby-Racer-Chronograph-LOR-Crop-768x346.jpg",
+      "peek_preview": "2026 has already been an excellent year for dramatic materials and interesting chronographs at Bulova. While the ultra-black Lunar Pilot Black Hole may have captured the headlines, the brand has also spent the year expe...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-29T07:01:37.000Z",
+      "score_quality": 78,
+      "score_notif": 33,
+      "cluster": "20260829-17c3b1e1832f",
+      "cluster_main": true
+    },
     {
       "title": "Power To The People: The Fan-Selected Seiko Prospex 1965 Heritage Diver",
       "url": "https://www.fratellowatches.com/new-fan-selected-seiko-prospex-1965-heritage-diver-hbc011/",
@@ -1142,20 +1170,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – Atelier Wen x Massena LAB Inflection Shuo, A Tantalum Integrated Watch with Two Gold Dial Variants",
-      "url": "https://monochrome-watches.com/atelier-wen-x-massena-lab-inflection-shuo-tantalum-integrated-watch-solid-gold-dial-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Atelier-Wen-x-Massena-LAB-Inflection-Shuo-Tantalum-Integrated-Sports-Watch-Solid-Gold-Dials-2-600x237.jpg",
-      "peek_preview": "The Atelier Wen Inflection collection (2025) marked an important step up for the brand, with its complex, fully curved case, an integrated bracelet made almost entirely from tantalum, high-end dials, and a customised mo...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-26T15:01:53.000Z",
-      "score_quality": 84,
-      "score_notif": 46,
-      "cluster": "20260826-268c7319a36a",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: L. Leroy Vox Temporis—The Voice of Time in a Minute Repeater Flying Tourbillon",
       "url": "https://www.watchcollectinglifestyle.com/home/l-leroy-vox-temporis-minute-repeater-flying-tourbillon",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787753134451-U41ZZPRIRO5ZT2HUQZI2/L.Leroy+Vox+Temporis+-14.jpg?format=1500w",
@@ -1363,7 +1377,7 @@
       "score_quality": 97,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1416,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T10:01:00.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1461,7 +1475,7 @@
       "score_quality": 93,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OMEGA Speedmaster 38 mm: una nuova identità in sette referenze",
@@ -1542,10 +1556,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1839,20 +1853,6 @@
       "score_quality": 62,
       "score_notif": 18,
       "cluster": "20260822-a17f6072c609",
-      "cluster_main": true
-    },
-    {
-      "title": "Watch Review: Rolex Oyster Perpetual 36 126000 With Jubilee Dial",
-      "url": "https://www.ablogtowatch.com/watch-review-rolex-oyster-perpetual-36-126000-with-jubilee-dial/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Rolex-Oyster-Perpetual-36-Jubilee-Dial-126000-0016-featured-768x346.jpg",
-      "peek_preview": "It was not long ago that I ranted, “Too Many Luxury Watches Feel Too Cheap (Even To The Untrained Eye)” in one of my Grinding Gears columns. I brought up a Rolex Oyster Perpetual watch, and how its CNC-etched clasp look...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-22T07:01:53.000Z",
-      "score_quality": 73,
-      "score_notif": 16,
-      "cluster": "20260822-4e5771818edf",
       "cluster_main": true
     }
   ]
