@@ -1,6 +1,6 @@
 {
-  "content_hash": "c1cac434bed686c476a00141fde8e2dc14875b97f8c7a60905d27c80cf0f8f13",
-  "last_updated": "2026-08-29T09:46:45.392Z",
+  "content_hash": "2f911d5c9582ddf04ef5c5a0ad95e45b328e8345964e29cdd9625cfddf3f239c",
+  "last_updated": "2026-08-29T12:46:51.386Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-29T09:00:40.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-29T07:01:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-29T12:00:23.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T16:50:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-29T11:01:06.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "New Release: Perrelet Weekend Stone Dials Collection Expands With A Quartet Of New Watches",
+      "url": "https://www.ablogtowatch.com/new-release-perrelet-weekend-stone-dials-collection-expands-with-a-quartet-of-new-watches/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Perrelet-Weekend-Stone-Dials-Watches-21-768x349.jpg",
+      "peek_preview": "Best known for its Turbine collection of watches with rotating dials, Perrelet is most frequently associated with a rather bold aesthetic. However, the Swiss brand’s Weekend collection consists of contemporary dress wat...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-29T12:00:23.000Z",
+      "score_quality": 54,
+      "score_notif": 33,
+      "cluster": "20260829-043167c32631",
+      "cluster_main": true
+    },
+    {
+      "title": "I told Breguet how to fix the brand – then they invited me to tour their manufacture",
+      "url": "https://timeandtidewatches.com/breguet-manufacture-tour-2026-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/breguet-manufacture-tour-feature-image.jpg",
+      "peek_preview": "Andrew McUtchen visits the Breguet manufacture for an in-depth tour, and an in-depth conversation with CEO Gregory Kissling. The post I told Breguet how to fix the brand – then they invited me to tour their manufacture...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-29T11:01:06.000Z",
+      "score_quality": 45,
+      "score_notif": 18,
+      "cluster": "20260829-9d4d8de51c9a",
+      "cluster_main": true
+    },
     {
       "title": "An Artistic Homage To Venice: The Jaeger-LeCoultre Reverso Tribute Enamel “Turner Series”",
       "url": "https://www.fratellowatches.com/jaeger-lecoultre-reverso-tribute-enamel-turner-series-watches/",
@@ -1825,34 +1853,6 @@
       "score_quality": 27,
       "score_notif": 8,
       "cluster": "20260822-c2df5d84f99d",
-      "cluster_main": true
-    },
-    {
-      "title": "New: NORQAIN Independence Skeleton Titanium DLC – blacked out and 82 grams",
-      "url": "https://deployant.com/norqain-independence-skeleton-titanium-dlc/?utm_source=rss&utm_medium=rss&utm_campaign=norqain-independence-skeleton-titanium-dlc",
-      "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/unnamed-1.jpg?fit=1080%2C1350&ssl=1",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors NORQAIN Independence Skeleton Titanium DLC: the openworked 42mm goes Grade 5 titanium and black DLC at 82 grams, COSC-certified NB08S, from CHF 4,500. The pos...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-22T13:00:00.000Z",
-      "score_quality": 71,
-      "score_notif": 41,
-      "cluster": "20260822-8afc0a536f45",
-      "cluster_main": true
-    },
-    {
-      "title": "Two new Seiko Presage Classic Series watches – one Goldilocks size fans love",
-      "url": "https://timeandtidewatches.com/seiko-presage-classic-series-hcc002-hc008-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Seiko-Presage-Classic-Series-HCC002-HCC008-20.jpg",
-      "peek_preview": "The new Seiko Presage Classic Series HCC002 & HC008 present attractive dials and versatile aesthetics at an attractive, approachable price. The post Two new Seiko Presage Classic Series watches – one Goldilocks size fan...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-22T11:01:28.000Z",
-      "score_quality": 62,
-      "score_notif": 18,
-      "cluster": "20260822-a17f6072c609",
       "cluster_main": true
     }
   ]
