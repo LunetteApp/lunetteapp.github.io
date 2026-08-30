@@ -1,6 +1,6 @@
 {
-  "content_hash": "3663ed9361c70b6a60e8c6a2e242bad82e478da620114d2e9eb30a369170d06a",
-  "last_updated": "2026-08-30T00:47:00.246Z",
+  "content_hash": "c6569701dc4fa9f00195cca5069a13b0db30630eb9c8cf33b2f95c77db4f8bd6",
+  "last_updated": "2026-08-30T03:47:02.434Z",
   "premium": {
     "links": []
   },
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-29T13:30:00.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-30T03:20:04.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -164,7 +164,7 @@
       "lang": "ja",
       "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-30T00:00:22.000Z"
+      "latest_article_at": "2026-08-30T03:00:10.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Live from Geneva Watch Days: Your hub for the latest happenings in GWD26",
+      "url": "https://deployant.com/live-from-geneva-watch-days-your-hub-for-the-latest-happenings-in-gwd26/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-geneva-watch-days-your-hub-for-the-latest-happenings-in-gwd26",
+      "image": "https://deployant.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-at-10.57.37-AM.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Here is your hub for all the latest from Geneva, as it happens! We are covering Geneva Watch Days 2026 this year, bringing you the usual live coverage that yo...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-30T03:20:04.000Z",
+      "score_quality": 42,
+      "score_notif": 45,
+      "cluster": "20260827-ef4eee923ff7",
+      "cluster_main": false
+    },
+    {
+      "title": "アルナス・フェダラヴィシャスがウブロのタイムピースを着用して『MUTINY』のプレミアに登場",
+      "url": "https://www.webchronos.net/news/171132/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/hublot_MUTINY_1.webp",
+      "peek_preview": "リトアニア出身の俳優アルナス・フェダラヴィシャスが、エレガントかつスポーティーなウブロの「クラシック・フュージョン クロノグラフ チタニウム レーシンググレー」を着用し、映画「MUTINY」のプレミアに登場した。アルナス […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-08-30T03:00:10.000Z",
+      "score_quality": 28,
+      "score_notif": 6,
+      "cluster": "20260830-26b450dee11e",
+      "cluster_main": true
+    },
     {
       "title": "セイコーと漫画『D.Gray-man』のコラボレーションモデルが通販サイト「AMNIBUS」にて受注開始",
       "url": "https://www.webchronos.net/news/171144/",
@@ -985,7 +1013,7 @@
       "score_quality": 89,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa and Belmont Watches Team Up for the Sub 300 Beta “Frogger” Limited Edition",
@@ -1010,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T13:00:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Noah x Timex MK1 Anchor (Live Pics)",
@@ -1251,7 +1279,7 @@
       "score_quality": 91,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Maison Alcée x MB&F Nostromo",
@@ -1332,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:26.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Bell & Ross BR-X5 Meteorite- Hands-on, Price & Specs",
@@ -1500,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T15:00:31.000Z",
-      "score_quality": 97,
+      "score_quality": 100,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1668,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1825,34 +1853,6 @@
       "score_quality": 70,
       "score_notif": 16,
       "cluster": "20260824-90304fbfc589",
-      "cluster_main": true
-    },
-    {
-      "title": "Audemars Piguet Brings Le Brassus to Singapore",
-      "url": "https://watchesbysjx.com/2026/08/audemars-piguet-perspectives-on-time-singapore.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Audemars-Piguet-Perspectives-on-Time-3x2-header-300x200.jpg",
-      "peek_preview": "Next month the National Museum of Singapore’s Gallery Theatre will play host to Audemars Piguet’s Perspectives On Time exhibition. The pop-up event will explore 150 years of Audemars Piguet through four curated spaces,...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-24T02:00:08.000Z",
-      "score_quality": 61,
-      "score_notif": 27,
-      "cluster": "20260824-2773d81243e2",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Roger Dubuis Excalibur Biretrograde Perpetual Calendar",
-      "url": "https://watchesbysjx.com/2026/08/roger-dubuis-excalibur-biretrograde-perpetual-calendar-review.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Roger-Dubuis-Excalibur-Biretrograde-Perpetual-3x2-centred-header-300x200.jpg",
-      "peek_preview": "The Roger Dubuis (RD) Excalibur Biretrograde Perpetual Calendar is something of a bridge across eras for RD, combining the brand’s seminal biretrograde calendar format with the 2000s-era Excalibur case, executed in RD’s...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-24T01:00:23.000Z",
-      "score_quality": 82,
-      "score_notif": 48,
-      "cluster": "20260824-c2eee57cc534",
       "cluster_main": true
     }
   ]
