@@ -1,6 +1,6 @@
 {
-  "content_hash": "c6569701dc4fa9f00195cca5069a13b0db30630eb9c8cf33b2f95c77db4f8bd6",
-  "last_updated": "2026-08-30T03:47:02.434Z",
+  "content_hash": "a80c3d82a94532cf36f41a63913fc9443bf2e377c01254cc07c1d7ea4b969685",
+  "last_updated": "2026-08-30T05:47:36.393Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-29T09:00:40.000Z"
+      "estimated_articles_per_day": 3.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-30T05:00:40.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-30T03:20:04.000Z"
     },
     {
@@ -71,7 +71,7 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
+      "estimated_articles_per_day": 1.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-28T06:00:25.000Z"
     },
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-30T03:00:10.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Sunday Morning Showdown: Straum Expedition Vs. Laventure Marine Type 3",
+      "url": "https://www.fratellowatches.com/sunday-morning-showdown-straum-expedition-vs-laventure-marine-type-3/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/SMS-LAventure-vs-Straum-cover.jpg",
+      "peek_preview": "Welcome, one and all, to the weekly spectacle that is Sunday Morning Showdown. This week, we’re giving Daan a break and bringing our illustrious head of content, Nacho, into the ring. In the red corner, defending his si...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-30T05:00:40.000Z",
+      "score_quality": 44,
+      "score_notif": 8,
+      "cluster": "20260830-24cfb7d59b37",
+      "cluster_main": true
+    },
+    {
       "title": "Live from Geneva Watch Days: Your hub for the latest happenings in GWD26",
       "url": "https://deployant.com/live-from-geneva-watch-days-your-hub-for-the-latest-happenings-in-gwd26/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-geneva-watch-days-your-hub-for-the-latest-happenings-in-gwd26",
       "image": "https://deployant.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-at-10.57.37-AM.jpg",
@@ -186,8 +200,8 @@
       "published_at": "2026-08-30T03:20:04.000Z",
       "score_quality": 42,
       "score_notif": 45,
-      "cluster": "20260827-ef4eee923ff7",
-      "cluster_main": false
+      "cluster": "20260830-333ec1712414",
+      "cluster_main": true
     },
     {
       "title": "アルナス・フェダラヴィシャスがウブロのタイムピースを着用して『MUTINY』のプレミアに登場",
@@ -982,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -1125,7 +1139,7 @@
       "score_quality": 86,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Formex Essence 39mm Automatic COSC Watches Get A Generational Upgrade",
@@ -1150,10 +1164,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -1164,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:26.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 50,
       "cluster": "20260827-fb85bf472e7a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new Christopher Ward C60 Trident Biscay looks back across six decades of diving",
@@ -1196,20 +1210,6 @@
       "score_notif": 12,
       "cluster": "20260827-c3d083bdf9bb",
       "cluster_main": true
-    },
-    {
-      "title": "True Craftsmanship Takes Center Stage: The AnOrdain Model 1 Porcelain With Numerals By Kia Tasbihgou",
-      "url": "https://www.fratellowatches.com/true-craftsmanship-takes-center-stage-the-anordain-model-1-porcelain-with-numerals-by-kia-tasbihgou/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/AnOrdain-Porcelain-Model-1-With-Numerals-by-Kia-Tasbihgou-9.jpg",
-      "peek_preview": "Every time anOrdain announces a new release, I sit up and listen carefully. Over the past decade, the Scottish brand has made a name for itself for creating some of the absolute best dials in the industry. The craftsman...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T07:00:37.000Z",
-      "score_quality": 83,
-      "score_notif": 55,
-      "cluster": "20260827-f8a65ebcf45f",
-      "cluster_main": false
     },
     {
       "title": "Ciga Design Z Edge : la montre squelette futuriste qui ne coûte pas une fortune !",
@@ -1528,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T15:00:31.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1696,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
