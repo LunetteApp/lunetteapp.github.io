@@ -1,6 +1,6 @@
 {
-  "content_hash": "cf41ab41ba31cf17a5268c9d6891e6ea232caa9bc51faa1b469e6dbb6b7bc7e2",
-  "last_updated": "2026-08-30T09:47:01.552Z",
+  "content_hash": "ebcabe1d1f4ed4be39af0d955a84c29231141553c8b671fc09244eaba7435132",
+  "last_updated": "2026-08-30T12:46:49.083Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-30T09:00:58.000Z"
     },
     {
@@ -22,8 +22,8 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-30T09:35:22.000Z"
     },
     {
@@ -36,9 +36,9 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-24T10:45:45.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-30T12:10:30.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-30T08:01:22.000Z"
     },
@@ -155,7 +155,7 @@
     {
       "source_name": "deRelojes",
       "lang": "es",
-      "estimated_articles_per_day": 0.1,
+      "estimated_articles_per_day": 0,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-07-31T12:35:51.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "What are we waiting for?",
+      "url": "https://www.unpolishedwatches.com/p/what-are-we-waiting-for",
+      "image": "https://substackcdn.com/image/fetch/$s_!x5KZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28f3a5cc-4cd3-44bf-806d-9cb042aee47c_2048x1365.jpeg",
+      "peek_preview": "AnOrdain's new porcelain dial is as good as the enamel I've been waiting for since 2024. Plus: Kiwame's ownership, IWC layoffs, and Wired gets corrected.",
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-30T12:10:30.000Z",
+      "score_quality": 16,
+      "score_notif": 3,
+      "cluster": "20260830-78967242e064",
+      "cluster_main": true
+    },
     {
       "title": "Buying Guide – Extending Summer With Six Light-Blue Beauties",
       "url": "https://monochrome-watches.com/buying-guide-iwc-schaffhausen-longines-bulgari-bvlgari-czapek-parmigiani-fleurier-chopard-specs-price-review/",
@@ -1556,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T15:00:31.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1724,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1839,20 +1853,6 @@
       "score_quality": 74,
       "score_notif": 42,
       "cluster": "20260824-4308de777d1f",
-      "cluster_main": true
-    },
-    {
-      "title": "6 (potential) future classics from 2006 | Ref. 10",
-      "url": "https://www.unpolishedwatches.com/p/6-potential-future-classics-from",
-      "image": "https://substackcdn.com/image/fetch/$s_!H-Gz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a8d5eef-6994-4705-8d4b-371dc3175491_2000x2000.webp",
-      "peek_preview": "What we got wrong about the year that just turned vintage.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-24T10:45:45.000Z",
-      "score_quality": 58,
-      "score_notif": 14,
-      "cluster": "20260824-967dbd9b7767",
       "cluster_main": true
     }
   ]
