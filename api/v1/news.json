@@ -1,6 +1,6 @@
 {
-  "content_hash": "717337f7a557c4566e8d0ed5a251b45e6d4e6d6f7e4b53924114e6fa7afd73ab",
-  "last_updated": "2026-08-31T19:47:40.162Z",
+  "content_hash": "a7113b05f73cfb77a3ea543e012c7fdacb49629674d525f54438734b5bbe3285",
+  "last_updated": "2026-08-31T21:47:17.096Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T19:00:56.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-31T17:00:00.000Z"
+      "estimated_articles_per_day": 1.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T21:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Dispatch: Climbing High With The Vacheron Constantin Overseas Dual Time Cardinal Points",
+      "url": "https://www.hodinkee.com/articles/climbing-high-with-the-vacheron-constantin-overseas-dual-time-cardinal-points",
+      "image": "https://hodinkee.imgix.net/uploads/images/ef2ef3cb-e8ff-4e1c-8102-adc586772ed6/L1030884-Edit-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Scaling a less-than-casual route in Utah with one of the hottest luxury sports watches in the world strapped to my wrist.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T21:00:00.000Z",
+      "score_quality": 76,
+      "score_notif": 18,
+      "cluster": "20260831-e5fa87508df0",
+      "cluster_main": true
+    },
     {
       "title": "Review: the DWC Terra",
       "url": "https://wornandwound.com/review/review-the-dwc-terra/",
@@ -1402,10 +1416,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -1447,20 +1461,6 @@
       "score_quality": 92,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Noah x Timex MK1 Anchor (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/noah-x-timex-mk1-anchor-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/410f2a96-dd6f-42bb-8535-534beac2e4bc/TimexNoahHeader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "With their latest collab, Noah and Timex leave the dress watches at home.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T13:00:00.000Z",
-      "score_quality": 72,
-      "score_notif": 40,
-      "cluster": "20260827-6efd9ebb6276",
       "cluster_main": true
     },
     {
@@ -1514,10 +1514,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -1612,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T18:00:39.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
@@ -1671,7 +1671,7 @@
       "score_quality": 96,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Bell & Ross BR-X5 Meteorite- Hands-on, Price & Specs",
@@ -1794,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T19:20:29.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
@@ -1850,10 +1850,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T10:01:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     }
   ]
 }
