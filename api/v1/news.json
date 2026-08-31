@@ -1,6 +1,6 @@
 {
-  "content_hash": "a3c202788ec9796751275be655a252cf1b3b78528c39149e05ff1d47ab315116",
-  "last_updated": "2026-08-31T18:47:33.448Z",
+  "content_hash": "717337f7a557c4566e8d0ed5a251b45e6d4e6d6f7e4b53924114e6fa7afd73ab",
+  "last_updated": "2026-08-31T19:47:40.162Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-31T16:00:42.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T19:00:56.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T18:30:24.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Review: the DWC Terra",
+      "url": "https://wornandwound.com/review/review-the-dwc-terra/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/DWC_Terra_009_WR.jpg",
+      "peek_preview": "What happens when a watch goes viral? Well, besides the obvious – everyone sees them, everyone buys them, second hand prices go crazy – you know the deal. That’s exactly what happened with the DWC Terra – a unique take...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T19:00:56.000Z",
+      "score_quality": 74,
+      "score_notif": 18,
+      "cluster": "20260831-0555feefb46f",
+      "cluster_main": true
+    },
     {
       "title": "Omega Speedmaster: The Ultimate Guide To The First Watch On The Moon",
       "url": "https://teddybaldassarre.com/blogs/watches/omega-speedmaster",
@@ -1601,7 +1615,7 @@
       "score_quality": 95,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
@@ -1654,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:26.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Bell & Ross BR-X5 Meteorite- Hands-on, Price & Specs",
@@ -1682,10 +1696,10 @@
       "lang": "fr",
       "featured": false,
       "published_at": "2026-08-26T12:20:28.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Urwerk UR-1001 ‘Amadeus’ Is A Hand-Engraved Pocket Watch With A Millennium Tracker",
@@ -1724,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1837,20 +1851,6 @@
       "featured": false,
       "published_at": "2026-08-25T10:01:00.000Z",
       "score_quality": 99,
-      "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
-    },
-    {
-      "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
-      "url": "https://teddybaldassarre.com/blogs/watches/longines-master-collection-chrono-monopusher-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Longines-1913-Chronograph-2.jpg?v=1787577786",
-      "peek_preview": "Longines unveiled the first stage in its major revamp of the elegant Master Collection back in June 2026, introducing a host of time-only watches that ushered in new aesthetic elements, case options, and technical detai...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-25T10:00:02.000Z",
-      "score_quality": 83,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
       "cluster_main": false
