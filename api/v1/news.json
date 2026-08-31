@@ -1,6 +1,6 @@
 {
-  "content_hash": "4989f90f03b75a550c25109248f738741824dbc4f0d324ec7652f13256993f17",
-  "last_updated": "2026-08-31T10:48:01.368Z",
+  "content_hash": "35f5bcef60749a4475030e8c43714a36937799e0ba3f399df3a0ddce64f64190",
+  "last_updated": "2026-08-31T11:47:29.581Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T10:00:13.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T10:01:19.000Z"
     },
     {
@@ -78,16 +78,16 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T10:01:00.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-29T13:11:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T11:32:48.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-29T13:08:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T10:46:58.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Hermès Arceau Cheval Natté—A Horse Stitched From 400 Threads of Silk",
+      "url": "https://www.watchcollectinglifestyle.com/home/hermes-arceau-cheval-natte-horse-stitched-watch",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787927060299-NPQVV6EWRCQCCCMZBOP9/Arceau-Cheval-natte-copyright-Anita-Schlaefli-2.jpg?format=1500w",
+      "peek_preview": "Hermès has never treated its watches as mere timekeepers, and the Arceau Cheval Natté makes that philosophy explicit. Rather than paint, enamel, or engrave its dial, the house has woven it—nearly 400 individually laid s...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T11:32:48.000Z",
+      "score_quality": 66,
+      "score_notif": 42,
+      "cluster": "20260831-fae5ff2e9acc",
+      "cluster_main": true
+    },
+    {
+      "title": "Mühle Glashütte Marinefliegeruhr I Edition 2026: Zurück zu den Wurzeln",
+      "url": "https://www.uhrenkosmos.com/muehle-glashuette-marinefliegeruhr-i-edition/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Uhr-mit-maritimen-Wurzeln-Muehle-Glashuette-Marinefliegeruhr-I-Edition-von-2026.jpg",
+      "peek_preview": "Mühle feiert 30 Jahre Armbanduhren mit der Neuauflage eines frühen Zeitmessers: Die Mühle Glashütte Marinefliegeruhr I Edition 2026 kombiniert das eigenständige Design des Originals von 1996 mit moderner Mühle-Technik....",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-08-31T10:46:58.000Z",
+      "score_quality": 62,
+      "score_notif": 36,
+      "cluster": "20260831-1f5d25668300",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The new Parmigiani Fleurier Tonda PF Skeleton Rose Gold Milano Blue",
       "url": "https://monochrome-watches.com/the-new-parmigiani-fleurier-tonda-pf-skeleton-rose-gold-milano-blue/",
@@ -1570,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1808,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1826,34 +1854,6 @@
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
       "cluster_main": false
-    },
-    {
-      "title": "Seiko fait du bonsaï une montre : la Presage HCC009J1 dévoile son cadran texturé matsuba-iro",
-      "url": "https://www.welovewatches.fr/seiko-fait-du-bonsai-une-montre-la-presage-hcc009j1-devoile-son-cadran-texture-matsuba-iro.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/08/seiko-presage-tradmans-bonsai-une.jpg",
-      "peek_preview": "Seiko poursuit sa série d'hommages aux arts traditionnels japonais dans le cadre de son 145e anniversaire, cette fois avec une pièce dédiée à l'art du bonsaï. Dévoilée cet été, la Presage Classic Series HCC009J1 est...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-08-25T05:42:00.000Z",
-      "score_quality": 81,
-      "score_notif": 42,
-      "cluster": "20260825-16cc23461068",
-      "cluster_main": true
-    },
-    {
-      "title": "Why Is Everything Inverted?",
-      "url": "https://watchesbysjx.com/2026/08/inverted-movements.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2025/06/Louis-Vuitton-Escale-en-Amazonie-movement-300x200.jpg",
-      "peek_preview": "At the beginning of the year, we wondered if 2026 might become the year of the jumping hours wristwatch. While that trend is still developing, a spate of new releases in the past few months has crystallised another tren...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-25T04:00:07.000Z",
-      "score_quality": 28,
-      "score_notif": 10,
-      "cluster": "20260825-ca5718fc63bc",
-      "cluster_main": true
     }
   ]
 }
