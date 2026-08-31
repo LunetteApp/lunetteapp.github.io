@@ -1,6 +1,6 @@
 {
-  "content_hash": "b80d11d1f8249e8ac117fa821815462f3c8253b3592d6305b43ac190379bceaa",
-  "last_updated": "2026-08-31T06:47:03.432Z",
+  "content_hash": "80dc6baabd191793c1a906f3f77617ddaef0b236d9a66e971df73534e5b7ffcf",
+  "last_updated": "2026-08-31T07:47:02.274Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T06:30:59.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T06:31:20.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-30T07:01:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T07:01:36.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T06:30:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-30T08:01:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T07:04:25.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "OCTO brings the 1970’s to the wrist with new OCTO 3003 World Timer",
+      "url": "https://timeandtidewatches.com/octo-3003-world-timer-micro-mondays/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/OCTO-Worldtimer-soldier-feature.jpg",
+      "peek_preview": "The OCTO 3003 World Timer is for those wanting to dip their toes into vintage watches without the potential pitfalls. The post OCTO brings the 1970’s to the wrist with new OCTO 3003 World Timer appeared first on Time+Ti...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T07:04:25.000Z",
+      "score_quality": 67,
+      "score_notif": 43,
+      "cluster": "20260831-a4ce198407ed",
+      "cluster_main": true
+    },
+    {
+      "title": "According To Ariel: The Popularity Paradox, Or Why ‘Top Watches’ Are Rarely The Most Satisfying To Collect",
+      "url": "https://www.ablogtowatch.com/according-to-ariel-the-popularity-paradox-or-why-top-watches-are-rarely-the-most-satisfying-to-collect/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/ABTW_AA_The_Popularity_Paradox_2000x900_G2A-768x346.png",
+      "peek_preview": "My goal in writing this article about the truth behind “popular watches” is to help people enjoy the wristwatch-collecting hobby more. Investing time and money into watch collecting should offer people a positive return...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T07:01:36.000Z",
+      "score_quality": 47,
+      "score_notif": 12,
+      "cluster": "20260831-d7c69053d958",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The New Piaget Polo Minute Repeater",
       "url": "https://monochrome-watches.com/2026-piaget-polo-minute-repeater-ultra-thin-introducing/",
@@ -1377,7 +1405,7 @@
       "score_quality": 93,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Maison Alcée x MB&F Nostromo",
@@ -1458,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T13:00:26.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Bell & Ross BR-X5 Meteorite- Hands-on, Price & Specs",
@@ -1752,10 +1780,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-08-25T06:00:53.000Z",
-      "score_quality": 83,
+      "score_quality": 100,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Launches Latest Generation Of The Speedmaster 38, And It’s Closer To The Moonwatch Professional Than Ever",
@@ -1766,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
@@ -1825,20 +1853,6 @@
       "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260824-0e89a85d569b",
-      "cluster_main": true
-    },
-    {
-      "title": "Citizen Eco-Drive: The Ultimate Guide To The Revolutionary Light-Powered Watch Movement",
-      "url": "https://teddybaldassarre.com/blogs/watches/citizen-eco-drive",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Pocket-Watch-1924-2_bb7e0b9a-0586-487f-b1e3-d71f2cedfe6c_2048x2048.jpg?v=1714750949",
-      "peek_preview": "The history of the watch industry is rife with groundbreaking technological developments that came about through necessity. Dive watches’ unidirectional rotating bezels were developed to save the lives of scuba divers b...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-24T21:04:14.000Z",
-      "score_quality": 54,
-      "score_notif": 7,
-      "cluster": "20260824-948a238896cf",
       "cluster_main": true
     }
   ]
