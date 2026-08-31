@@ -1,6 +1,6 @@
 {
-  "content_hash": "3108365b82fc9bee4b7764e203a24d2ca065434aa25b8196dec8a309b17ba818",
-  "last_updated": "2026-08-31T15:47:51.653Z",
+  "content_hash": "3beccd14ebc43e10b14ea29ee4478e7017ef63c23d286b3f1f48601e6d74e807",
+  "last_updated": "2026-08-31T16:48:24.467Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-31T13:00:05.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T16:00:42.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-31T15:00:52.000Z"
+      "latest_article_at": "2026-08-31T16:01:04.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T15:00:00.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T14:00:00.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – Indie Watchmaker Alexandre Martin Launches his Debut Watch, the Superb 1965",
+      "url": "https://monochrome-watches.com/indie-watchmaker-alexandre-martin-launches-his-debut-watch-the-superb-1965/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/New-independent-watchmaker-first-watch-Alexandre-Martin-1965-watch-review-1-600x237.jpg",
+      "peek_preview": "There is currently a real wave of new, young independent watchmakers launching their own brand, and we are always delighted to showcase their work at MONOCHROME. One of the latest among them is Alexandre Martin, a 28-ye...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T16:01:04.000Z",
+      "score_quality": 83,
+      "score_notif": 43,
+      "cluster": "20260831-4f8723c9f02f",
+      "cluster_main": true
+    },
+    {
+      "title": "Atelier Wen and Massena LAB Collaborate on a Limited Edition Inflection",
+      "url": "https://wornandwound.com/atelier-wen-and-massena-lab-collaborate-on-a-limited-edition-inflection/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Atelier-Wen-x-Massena-5.jpg",
+      "peek_preview": "When it comes to watchmaking, it’s usually a marathon not a sprint. Bringing a model to life is a lesson in patience, and, well, timing. A tale we often hear about how a watch came to be starts with a chance meeting, so...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T16:00:42.000Z",
+      "score_quality": 74,
+      "score_notif": 48,
+      "cluster": "20260831-805f324d6578",
+      "cluster_main": true
+    },
     {
       "title": "First Look – O&HoraPictor Atelier Launches the New Duet Collection, an Attainable Take on Grand Feu Enamel",
       "url": "https://monochrome-watches.com/ohorapictor-atelier-launches-the-new-duet-collection-an-attainable-take-on-grand-feu-enamel/",
@@ -1002,20 +1030,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – Fears goes High-End with the Brunswick 39 Perpetual Calendar",
-      "url": "https://monochrome-watches.com/fears-brunswick-39-perpetual-calendar-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Fears-Brunswick-39-Perpetual-Calendar-1-600x237.jpg",
-      "peek_preview": "One of Britain’s oldest family-run watch companies, first established in 1846 by Edwin Fear in Bristol, the Fears Watch Company ran for 130 years until it closed in 1976. In 2016, it was re-established by Edwin Fear’s g...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-28T12:00:39.000Z",
-      "score_quality": 86,
-      "score_notif": 64,
-      "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": true
-    },
-    {
       "title": "CHANEL COCO GAME: la Thematic Collection 2026 che porta il gioco nel lessico dell’Alta Orologeria",
       "url": "https://italianwatchspotter.com/chanel-coco-game-thematic-collection-2026/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/08/the-chessboard-3quarts-black-rgb-1024x724.jpg",
@@ -1237,7 +1251,7 @@
       "score_quality": 80,
       "score_notif": 64,
       "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Goes Purple For Singapore With New Mercedes-AMG Petronas F1 Watch",
