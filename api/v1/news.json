@@ -1,6 +1,6 @@
 {
-  "content_hash": "33284ab60b969aa0e0235ae16c61126afab03c38a35a45436f6a24db1c9e7638",
-  "last_updated": "2026-08-31T14:47:38.923Z",
+  "content_hash": "3108365b82fc9bee4b7764e203a24d2ca065434aa25b8196dec8a309b17ba818",
+  "last_updated": "2026-08-31T15:47:51.653Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T14:00:52.000Z"
     },
     {
@@ -22,15 +22,15 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.1,
+      "estimated_articles_per_day": 3.2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-08-31T14:01:14.000Z"
+      "latest_article_at": "2026-08-31T15:00:52.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T14:00:22.000Z"
     },
     {
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T13:47:54.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-31T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -121,14 +121,14 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T11:50:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T14:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T14:27:48.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – O&HoraPictor Atelier Launches the New Duet Collection, an Attainable Take on Grand Feu Enamel",
+      "url": "https://monochrome-watches.com/ohorapictor-atelier-launches-the-new-duet-collection-an-attainable-take-on-grand-feu-enamel/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/HoraPictor-Atelier-Duet-Collection-Grand-Feu-Enamel-review-1-600x237.jpg",
+      "peek_preview": "Enamel watches are nothing new, of course, but it is always interesting to discover a young independent brand approaching this centuries-old craft with a new take. O&HoraPictor was founded only recently, in 2024; the br...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T15:00:52.000Z",
+      "score_quality": 78,
+      "score_notif": 42,
+      "cluster": "20260831-e702c84c9de6",
+      "cluster_main": true
+    },
+    {
+      "title": "Auctions: Auction House Phillips Walks Back Claim Early Résonance Delivered in 1999 After F.P. Journe Statement",
+      "url": "https://www.hodinkee.com/articles/auction-house-phillips-walks-back-claim-early-resonance-delivered-in-1999-after-fp-journe-statement",
+      "image": "https://hodinkee.imgix.net/uploads/images/56926e0e-ec10-4d45-af2a-34be0aaa8ed3/L1030133.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Phillips says it \"stands corrected\" after F.P. Journe posts a letter clarifying the delivery date of Chronmètre à Résonance.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T15:00:00.000Z",
+      "score_quality": 85,
+      "score_notif": 64,
+      "cluster": "20260831-5d090a11813a",
+      "cluster_main": true
+    },
     {
       "title": "Tissot PRX : la montre culte se refait une beauté en violet",
       "url": "https://www.welovewatches.fr/tissot-prx-la-montre-culte-se-refait-une-beaute-en-violet.html",
@@ -226,10 +254,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-31T14:00:22.000Z",
-      "score_quality": 62,
+      "score_quality": 73,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Colorful Celebration Of Life: The IFL Watches × Out Of Order Shaker Happy Hour",
@@ -244,6 +272,20 @@
       "score_notif": 23,
       "cluster": "20260831-d63cf8afcc28",
       "cluster_main": true
+    },
+    {
+      "title": "Gagà Laboratorio Labormatic Superleggero: il nuovo volto in titanio della collezione",
+      "url": "https://italianwatchspotter.com/gaga-laboratorio-labormatic-superleggero/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/08/image-66-791x1024.png",
+      "peek_preview": "Un Labormatic si riconosce a colpo d’occhio: la costruzione del quadrante, l’indicazione periferica delle ore, la grande sfera centrale dei minuti e quell’inconfondibile cassa dalle proporzioni generose. Sono i codici c...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-08-31T14:00:00.000Z",
+      "score_quality": 62,
+      "score_notif": 40,
+      "cluster": "20260831-7538be516cb9",
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Hands-on with the Amazing Rexhep Rexhepi Chrono Flyback",
@@ -296,10 +338,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-31T13:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 47,
       "cluster": "20260831-a8c3c0070f93",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Jaeger-LeCoultre Reverso Tribute Enamel Turner Series—Homage to 'La Serenissima'",
@@ -355,7 +397,7 @@
       "score_quality": 86,
       "score_notif": 47,
       "cluster": "20260831-a8c3c0070f93",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Milano Blue brings a new depth to Parmigiani Fleurier’s rose gold Tonda PF Skeleton",
@@ -624,20 +666,6 @@
       "cluster_main": true
     },
     {
-      "title": "アルナス・フェダラヴィシャスがウブロのタイムピースを着用して『MUTINY』のプレミアに登場",
-      "url": "https://www.webchronos.net/news/171132/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/hublot_MUTINY_1.webp",
-      "peek_preview": "リトアニア出身の俳優アルナス・フェダラヴィシャスが、エレガントかつスポーティーなウブロの「クラシック・フュージョン クロノグラフ チタニウム レーシンググレー」を着用し、映画「MUTINY」のプレミアに登場した。アルナス […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-30T03:00:10.000Z",
-      "score_quality": 28,
-      "score_notif": 6,
-      "cluster": "20260830-26b450dee11e",
-      "cluster_main": true
-    },
-    {
       "title": "New releases from Fears, Vacheron Constantin, Atelier Wen and more",
       "url": "https://timeandtidewatches.com/fears-vacheron-constantin-atelier-wen-last-week-in-watches/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/atelier-wen-web.jpg",
@@ -691,7 +719,7 @@
       "score_quality": 74,
       "score_notif": 45,
       "cluster": "20260828-2d5f16b69f96",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Collector’s View: Revealing My Watch Collecting Journey by Not Knowing Where It’s Going",
@@ -1016,20 +1044,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The Hanhart MAD Preventor HD12, Launching a new 36mm Case",
-      "url": "https://monochrome-watches.com/hanhart-mad-preventor-hd12-new-36mm-case-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Hanhart-MAD-Preventor-HD12-36mm-compact-all-rounder-sports-watch-forest-green-dial-1-600x237.jpg",
-      "peek_preview": "Last year, Hanhart introduced the Preventor HD12 as its vision of a robust and versatile everyday watch. Positioned alongside the brand’s historically inspired pilot’s watches and chronographs, the series offered a comp...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-28T08:01:03.000Z",
-      "score_quality": 81,
-      "score_notif": 45,
-      "cluster": "20260828-2d5f16b69f96",
-      "cluster_main": true
-    },
-    {
       "title": "Vacheron Constantin Pushes Dial Art Further With Animal Kingdom Tribute",
       "url": "https://www.atimelyperspective.com/vacheron-constantin-pushes-dial-art-further-with-animal-kingdom-tribute/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/octo--724x1024.jpeg",
@@ -1195,7 +1209,7 @@
       "score_quality": 72,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Fears Brunswick 39 Perpetual Calendar marks a new chapter for the British brand",
@@ -1304,10 +1318,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -1416,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -1532,20 +1546,6 @@
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing: The Maison Alcée x MB&F Nostromo",
-      "url": "https://www.hodinkee.com/articles/the-maison-alcee-x-mbandf-nostromo",
-      "image": "https://hodinkee.imgix.net/uploads/images/a3460506-e05a-4fd4-845d-bde5e3e781c0/MBandF_MADGallery_Maison_Alcee_x_MBandF_Nostromo_2_Lres.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Maison Alcée teams up with MB&F and designer Maximilian Maertens on an extraterrestrial-inspired clock you can build yourself.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-26T18:00:00.000Z",
-      "score_quality": 81,
-      "score_notif": 42,
-      "cluster": "20260826-13dd9b99cfa4",
-      "cluster_main": true
     },
     {
       "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
@@ -1668,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1780,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T10:01:00.000Z",
-      "score_quality": 96,
+      "score_quality": 99,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1825,7 +1825,7 @@
       "score_quality": 98,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OMEGA Speedmaster 38 mm: una nuova identità in sette referenze",
@@ -1836,24 +1836,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-08-25T09:35:56.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
-    },
-    {
-      "title": "Uhrenmarkt 2026: Juni und Juli drehen das Vorzeichen",
-      "url": "https://www.uhrenkosmos.com/internationaler-uhrenmarkt-2026-im-aufwind/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Uhrenmarkt-Juni-Juli-2026-C-Uhrenkosmos.jpg",
-      "peek_preview": "Die Exporte der Schweizer Uhrenindustrie erholen sich. Von einer nachhaltigen Trendwende oder gar Boomphase lässt sich allerdings noch nicht sprechen. Positiv entwickelt sich der Handel mit Uhren aus Vorbesitz. Der Uhre...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-25T08:14:57.000Z",
-      "score_quality": 62,
-      "score_notif": 46,
-      "cluster": "20260825-f5fd01e07d52",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
