@@ -1,6 +1,6 @@
 {
-  "content_hash": "3b5a0bb2129285896263326401c0e13c09b17c7577532ffbdda860311b2435fe",
-  "last_updated": "2026-08-31T00:47:21.241Z",
+  "content_hash": "6ba44a2a1c98eaadb7f29a09f79556d50e1501defbb07dae05226e9ce10c8d3d",
+  "last_updated": "2026-08-31T01:46:40.681Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T06:00:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T01:00:55.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T00:00:30.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Insight: The Keyless Works",
+      "url": "https://watchesbysjx.com/2026/08/keyless-works-explained.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/02/daniel-roth-extra-plat-skeleton-movement-detail-4-300x200.jpg",
+      "peek_preview": "Having previously examined concepts related to energy flow inside watch movements, from automatic winding to barrel capacity and gear tooth profiles, we now turn and look at how energy enters the movement through the ke...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T01:00:55.000Z",
+      "score_quality": 84,
+      "score_notif": 11,
+      "cluster": "20260831-3ca217e3d9b9",
+      "cluster_main": true
+    },
     {
       "title": "ボーム＆メルシエがレクタンギュラーケースを持つ「ハンプトン」に最小サイズの「ハンプトン XS」を追加",
       "url": "https://www.webchronos.net/news/171080/",
@@ -1094,10 +1108,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -1234,10 +1248,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -1839,20 +1853,6 @@
       "score_quality": 76,
       "score_notif": 22,
       "cluster": "20260824-7b4b205641bf",
-      "cluster_main": true
-    },
-    {
-      "title": "News orologi agosto 2026, fra grandi eventi e partnership",
-      "url": "https://giornaleorologi.it/2026/08/24/news-orologi-agosto-2026-fra-grandi-eventi-e-partnership/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/08/Naissance-dune-montre-4-1024x682.jpg",
-      "peek_preview": "Per l'articolo completo - News orologi agosto 2026, fra grandi eventi e partnership “L’estate sta finendo e un anno se ne va”, cantavano i Righera nel lontano 1985. In effetti mancano ancora quattro mesi prima della fin...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-24T13:52:49.000Z",
-      "score_quality": 30,
-      "score_notif": 14,
-      "cluster": "20260824-327b5b451e27",
       "cluster_main": true
     }
   ]
