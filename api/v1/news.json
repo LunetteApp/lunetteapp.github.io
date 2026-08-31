@@ -1,6 +1,6 @@
 {
-  "content_hash": "22ffc336a2b5de7ad63ec992eeea44db91779fc84a8e88fbbf6234a97f674e23",
-  "last_updated": "2026-08-31T03:47:07.986Z",
+  "content_hash": "8071a494e3be248c6e516800a39c65972f4496f3cd21d48bf14d05451c7ca2cc",
+  "last_updated": "2026-08-31T05:46:55.296Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-30T09:00:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T05:00:54.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T03:00:43.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Living La Dolce Vita: New Colors For The HTD Aquatìc Bicchierini And SpaceBoy Dive Watches",
+      "url": "https://www.fratellowatches.com/living-la-dolce-vita-new-colors-for-the-htd-aquatic-bicchierini-and-spaceboy-dive-watches/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/HTD-Aquatic-3.jpg",
+      "peek_preview": "With the Italian summer coming to an end, HTD is just in time to grace us with new colors for its Aquatìc divers for one last jump into the warm Mediterranean waters. But before jumping in, you first have to choose from...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T05:00:54.000Z",
+      "score_quality": 61,
+      "score_notif": 27,
+      "cluster": "20260831-ec0307bec68a",
+      "cluster_main": true
+    },
     {
       "title": "シャネル「プルミエール」より、華やかなトーンの「アイコニック チェーン ゴールデンブラウン」が数量限定で登場",
       "url": "https://www.webchronos.net/news/171073/",
@@ -1016,20 +1030,6 @@
       "cluster_main": false
     },
     {
-      "title": "Longines Impressively Expands The Master Collection",
-      "url": "https://www.fratellowatches.com/longines-impressively-expands-the-master-collection/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Longines-Master-Chrono-Monopusher-L2.960.4.78.2-Master-Chronograph-Moonphase-L2.962.4.73.2-and-41mm-L2.950.4.99.2-2.jpg",
-      "peek_preview": "Within the Longines lineup, the Master collection focuses on the rich history of the brand’s craftsmanship and watchmaking elegance. Back in June, the time-and-date Master models got a complete overhaul. Longines now in...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T22:01:07.000Z",
-      "score_quality": 60,
-      "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
-    },
-    {
       "title": "IWC Goes Purple For Singapore With New Mercedes-AMG Petronas F1 Watch",
       "url": "https://www.atimelyperspective.com/iwc-goes-purple-for-singapore-with-new-mercedes-amg-petronas-f1-watch/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/IW388131_Mood_Front-1.jpeg",
@@ -1598,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T15:00:31.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaquet Droz Tourbillon Plasma Ceramic: a new Piece Unique with Price, Specs and Details",
@@ -1766,10 +1766,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T06:00:03.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I nuovi OMEGA Speedmaster “Reduced”: sette inediti modelli entrano in scena",
