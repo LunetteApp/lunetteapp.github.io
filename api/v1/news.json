@@ -1,6 +1,6 @@
 {
-  "content_hash": "391435cc8388b595bab08c775d674c6ecc0a31c0f4352539d6a372b7ee29463e",
-  "last_updated": "2026-08-31T17:47:40.266Z",
+  "content_hash": "a3c202788ec9796751275be655a252cf1b3b78528c39149e05ff1d47ab315116",
+  "last_updated": "2026-08-31T18:47:33.448Z",
   "premium": {
     "links": []
   },
@@ -44,14 +44,14 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-28T16:59:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-08-31T18:30:24.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T17:06:28.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T17:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T17:11:03.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Omega Speedmaster: The Ultimate Guide To The First Watch On The Moon",
+      "url": "https://teddybaldassarre.com/blogs/watches/omega-speedmaster",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Omega-Speedmaster-vintage-1957-2.jpg?v=1667573210",
+      "peek_preview": "The Omega Speedmaster, aka the Moonwatch, is one of the most legendary and collectible watch models in the world. Originally conceived as a wristwatch for race car drivers, it has since become much more associated with...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T18:30:24.000Z",
+      "score_quality": 56,
+      "score_notif": 5,
+      "cluster": "20260831-d56fcbb31ea0",
+      "cluster_main": true
+    },
     {
       "title": "“Chasing vs. defending” — Novak Djokovic on tennis, tourbillons & his Hublot collection",
       "url": "https://timeandtidewatches.com/chasing-vs-defending-novak-djokovic-on-tennis-tourbillons-his-hublot-collection/",
@@ -1584,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T18:00:39.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
@@ -1643,7 +1657,7 @@
       "score_quality": 94,
       "score_notif": 65,
       "cluster": "20260826-28bfc36c0308",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Bell & Ross BR-X5 Meteorite- Hands-on, Price & Specs",
@@ -1668,10 +1682,10 @@
       "lang": "fr",
       "featured": false,
       "published_at": "2026-08-26T12:20:28.000Z",
-      "score_quality": 69,
+      "score_quality": 100,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Urwerk UR-1001 ‘Amadeus’ Is A Hand-Engraved Pocket Watch With A Millennium Tracker",
@@ -1710,10 +1724,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-26T11:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 71,
       "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe 5924G: il cronografo Calatrava per grandi viaggiatori",
@@ -1766,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-25T19:20:29.000Z",
-      "score_quality": 97,
+      "score_quality": 100,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
@@ -1825,7 +1839,7 @@
       "score_quality": 99,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Master Collection Chrono Monopusher Review: Defiantly Retro and Under $4K",
@@ -1837,20 +1851,6 @@
       "featured": false,
       "published_at": "2026-08-25T10:00:02.000Z",
       "score_quality": 83,
-      "score_notif": 62,
-      "cluster": "20260825-d294c338b5e6",
-      "cluster_main": false
-    },
-    {
-      "title": "Longines Master Collection: i nuovi chrono monopusher e chrono moonphase",
-      "url": "https://www.watchinsanity.it/longines-master-collection-chrono-monopusher-moonphase/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/08/Longines_Master_Collection_Chronograph_Watch_Insanity_08-1024x682.jpg",
-      "peek_preview": "The Longines Master Collection introduce due cronografi, un nuovo monopulsante - Chrono Monopusher - e un Chrono Moonphase che aggiorna un modello esistente. The post Longines Master Collection: i nuovi chrono monopushe...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-25T10:00:00.000Z",
-      "score_quality": 66,
       "score_notif": 62,
       "cluster": "20260825-d294c338b5e6",
       "cluster_main": false
