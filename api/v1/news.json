@@ -1,6 +1,6 @@
 {
-  "content_hash": "a97ea2306d37c6946147c82b238fab034cfee446ea71933310c827d674c7b32e",
-  "last_updated": "2026-09-01T06:47:16.147Z",
+  "content_hash": "39d6a8367ed9a84fb29592f7974f19c48e39e8d3b7f0322492dff0e129864096",
+  "last_updated": "2026-09-01T07:47:29.437Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T05:00:13.000Z"
+      "estimated_articles_per_day": 3.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T07:00:10.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T06:00:02.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-31T14:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T07:01:39.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Fratello On Air: The Modern Watches Destined To Become Classics",
+      "url": "https://www.fratellowatches.com/fratello-on-air-the-modern-watches-destined-to-become-classics/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/08/Nomos-Club-Sport-Neomatik-Weltzeit-4.jpg",
+      "peek_preview": "Welcome back to another episode of Fratello On Air! This week, we’re both back in our respective homes before traveling again. Our show is about modern watches destined to become classics. Now, before you accuse us of f...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-01T07:00:10.000Z",
+      "score_quality": 42,
+      "score_notif": 10,
+      "cluster": "20260901-347f766560a3",
+      "cluster_main": true
+    },
+    {
       "title": "First Look – The Hamilton Khaki Field Murph 38mm Gets a Textured Blue Makeover",
       "url": "https://monochrome-watches.com/hamilton-khaki-field-murph-38mm-blue-textured-dial-2026-review-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/08/Hamilton-Khaki-Field-Murph-38mm-Blue-Dial-Review-1-600x237.jpg",
@@ -187,7 +201,7 @@
       "score_quality": 79,
       "score_notif": 45,
       "cluster": "20260901-166c2597690a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko Expands The Speedtimer Collection With Four New References",
@@ -226,10 +240,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T04:01:03.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 45,
       "cluster": "20260901-166c2597690a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Seiko Adds 4 new References to its Prospex Speedtimer Mechanical Collection",
@@ -495,7 +509,7 @@
       "score_quality": 81,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Colorful Celebration Of Life: The IFL Watches × Out Of Order Shaker Happy Hour",
@@ -1044,20 +1058,6 @@
       "cluster_main": true
     },
     {
-      "title": "Power To The People: The Fan-Selected Seiko Prospex 1965 Heritage Diver",
-      "url": "https://www.fratellowatches.com/new-fan-selected-seiko-prospex-1965-heritage-diver-hbc011/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Fan-selected_Dial_Thumbnail.jpg",
-      "peek_preview": "Seiko has added something unusual to its Prospex collection — a watch with a design chosen by the brand’s fan community. The new 1965 Heritage Diver’s Watch Fan-Selected Limited Edition HBC011 takes the modern interpret...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-29T07:00:21.000Z",
-      "score_quality": 77,
-      "score_notif": 47,
-      "cluster": "20260828-8b0676343443",
-      "cluster_main": false
-    },
-    {
       "title": "クオ「ROYAL SMITH 90-006」にファン待望の39mmモデルが追加",
       "url": "https://www.webchronos.net/news/171176/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/08/kuoe_royalsmith90-006_1.webp",
@@ -1374,10 +1374,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-28T00:00:54.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Fears Brunswick 39 Perpetual Calendar marks a new chapter for the British brand",
@@ -1486,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -1584,10 +1584,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -1656,8 +1656,8 @@
       "published_at": "2026-08-26T18:00:39.000Z",
       "score_quality": 99,
       "score_notif": 65,
-      "cluster": "20260826-28bfc36c0308",
-      "cluster_main": false
+      "cluster": "20260826-6671cfde44ad",
+      "cluster_main": true
     },
     {
       "title": "Seagull 1963 Review: Why This Chinese Military Chronograph Is An International Fan Favorite",
@@ -1712,7 +1712,7 @@
       "published_at": "2026-08-26T13:00:26.000Z",
       "score_quality": 100,
       "score_notif": 65,
-      "cluster": "20260826-28bfc36c0308",
+      "cluster": "20260826-ec97bf8c780f",
       "cluster_main": true
     },
     {
