@@ -1,6 +1,6 @@
 {
-  "content_hash": "2c34ec8c50b91f552b7881230d8823651f3d071f6098b3924f6bd0d2e936c7fe",
-  "last_updated": "2026-09-01T16:47:41.915Z",
+  "content_hash": "b57f72841adc6e19ba620b90ff5b905d19337dd3904fc5737882c16767df014d",
+  "last_updated": "2026-09-01T17:47:28.369Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T15:59:55.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T15:34:53.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Vacheron Constantin Métiers d'Art Tribute To The Animal Kingdom",
+      "url": "https://www.hodinkee.com/articles/vacheron-constantin-metiers-dart-tribute-to-the-animal-kingdom",
+      "image": "https://hodinkee.imgix.net/uploads/images/4c1893a7-f667-4111-935b-62c8a65f2154/vc-animal-kingdom-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Vacheron Constantin evokes nature with a collection of six mind-blowing concept watches.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-01T17:00:00.000Z",
+      "score_quality": 83,
+      "score_notif": 28,
+      "cluster": "20260828-b87963f73785",
+      "cluster_main": true
+    },
     {
       "title": "Tudor’s 100th Anniversary Celebration Continues with the Return of the North Flag",
       "url": "https://wornandwound.com/tudors-100th-anniversary-celebration-continues-with-the-return-of-the-north-flag/",
@@ -523,7 +537,7 @@
       "score_quality": 82,
       "score_notif": 58,
       "cluster": "20260831-05b357674528",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Classics Moneta Handwinding: l’addio al quarzo di Frederique Constant",
@@ -872,8 +886,8 @@
       "published_at": "2026-09-01T00:00:20.000Z",
       "score_quality": 74,
       "score_notif": 47,
-      "cluster": "20260828-8b0676343443",
-      "cluster_main": false
+      "cluster": "20260901-984a277c4be8",
+      "cluster_main": true
     },
     {
       "title": "Cinque Glashütte Original che hanno fatto fare alla meccanica cose mai viste",
@@ -956,8 +970,8 @@
       "published_at": "2026-08-31T17:06:28.000Z",
       "score_quality": 58,
       "score_notif": 47,
-      "cluster": "20260831-a8c3c0070f93",
-      "cluster_main": false
+      "cluster": "20260831-5940ceaa43fc",
+      "cluster_main": true
     },
     {
       "title": "Recommended Reading: John Nagayama's '96' Is An Essential Guide To The Rarest Of Patek Philippe's Quintessential Calatravas",
@@ -1234,10 +1248,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-31T06:30:00.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 58,
       "cluster": "20260831-05b357674528",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "シャネル「プルミエール」より、華やかなトーンの「アイコニック チェーン ゴールデンブラウン」が数量限定で登場",
@@ -1534,20 +1548,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Seiko Prospex 1965 Heritage Diver's Watch HBC011",
-      "url": "https://www.hodinkee.com/articles/seiko-prospex-1965-heritage-divers-watch-hbc011",
-      "image": "https://hodinkee.imgix.net/uploads/images/9f9e5daf-b116-4314-ab72-5f88287e1f7d/SeikoFan.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Seiko drops a new take on the 1965 Heritage Diver with a look and dial chosen by their fans.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-28T17:00:00.000Z",
-      "score_quality": 78,
-      "score_notif": 47,
-      "cluster": "20260828-8b0676343443",
-      "cluster_main": true
-    },
-    {
       "title": "What Is A Tourbillon? A Brief History and 18 Modern Tourbillons You Should Know",
       "url": "https://teddybaldassarre.com/blogs/watches/tourbillon-watches",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Abraham-Louis-Breguet-2_1e02c4cc-a3a9-46d3-ad2b-789af5e1b176.jpg?v=1677690018",
@@ -1627,7 +1627,7 @@
       "featured": false,
       "published_at": "2026-08-28T07:33:09.000Z",
       "score_quality": 71,
-      "score_notif": 49,
+      "score_notif": 28,
       "cluster": "20260828-b87963f73785",
       "cluster_main": false
     },
@@ -1656,8 +1656,8 @@
       "published_at": "2026-08-28T07:00:56.000Z",
       "score_quality": 50,
       "score_notif": 50,
-      "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": false
+      "cluster": "20260828-31e3d1777770",
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin’s Adventures in the Animal Kingdom",
@@ -1669,7 +1669,7 @@
       "featured": false,
       "published_at": "2026-08-28T06:00:25.000Z",
       "score_quality": 79,
-      "score_notif": 49,
+      "score_notif": 28,
       "cluster": "20260828-b87963f73785",
       "cluster_main": false
     },
@@ -1683,9 +1683,9 @@
       "featured": false,
       "published_at": "2026-08-28T06:00:00.000Z",
       "score_quality": 80,
-      "score_notif": 49,
+      "score_notif": 28,
       "cluster": "20260828-b87963f73785",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer arrête la montre connectée : production stoppée, ventes jusqu’à fin 2027 ?",
@@ -1794,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T23:01:01.000Z",
-      "score_quality": 72,
+      "score_quality": 81,
       "score_notif": 64,
       "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Fears Brunswick 39 Perpetual Calendar",
@@ -1811,7 +1811,7 @@
       "score_quality": 80,
       "score_notif": 64,
       "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC Goes Purple For Singapore With New Mercedes-AMG Petronas F1 Watch",
@@ -1824,7 +1824,7 @@
       "published_at": "2026-08-27T19:58:38.000Z",
       "score_quality": 58,
       "score_notif": 50,
-      "cluster": "20260827-3f6715ad7cfb",
+      "cluster": "20260827-6f73d234e43a",
       "cluster_main": true
     },
     {
