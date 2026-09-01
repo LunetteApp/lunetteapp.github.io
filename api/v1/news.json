@@ -1,6 +1,6 @@
 {
-  "content_hash": "9b88c45e16c762c3f3d36258171cbb9ea8eba7c725b1421d061727126b50704a",
-  "last_updated": "2026-09-01T18:47:17.466Z",
+  "content_hash": "66c92cb1922ee20e6aac6c31449cb961a52f8cd4eb18d6b7123066a342fee9de",
+  "last_updated": "2026-09-01T19:47:14.288Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T15:59:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T19:00:22.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T17:28:13.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T18:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Christopher Ward Introduces the new Biscay Dive Watch Collection",
+      "url": "https://wornandwound.com/christopher-ward-introduces-the-new-biscay-dive-watch-collection/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/CW-Biscay-banner.jpg",
+      "peek_preview": "Christopher Ward has recently expanded their Trident family with the C60 Trident Biscay, set to replace the C65 Aquitaine. The UK-based watchmaker has pulled inspiration from two reference points: the skin divers of the...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-01T19:00:22.000Z",
+      "score_quality": 68,
+      "score_notif": 46,
+      "cluster": "20260901-dceec15f1cfc",
+      "cluster_main": true
+    },
     {
       "title": "Tudor ressuscite la Northflag et lui offre enfin un GMT",
       "url": "https://www.welovewatches.fr/tudor-ressuscite-la-northflag-et-lui-offre-enfin-un-gmt.html",
@@ -284,7 +298,7 @@
       "published_at": "2026-09-01T14:05:11.000Z",
       "score_quality": 85,
       "score_notif": 48,
-      "cluster": "20260901-def61fe016ba",
+      "cluster": "20260901-f370f9343803",
       "cluster_main": true
     },
     {
@@ -369,7 +383,7 @@
       "score_quality": 90,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tudor finally breaks the ice with an all-new Northflag",
@@ -464,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T12:08:28.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tudor Launches New Northflag With GMT Function",
@@ -662,8 +676,8 @@
       "published_at": "2026-09-01T10:00:25.000Z",
       "score_quality": 83,
       "score_notif": 48,
-      "cluster": "20260901-aaa17d242fb5",
-      "cluster_main": true
+      "cluster": "20260901-f370f9343803",
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -761,7 +775,7 @@
       "score_quality": 84,
       "score_notif": 48,
       "cluster": "20260901-f370f9343803",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Ferdinand Berthoud Chronomètre FB 3SPC.4-1 in Black Ceramised Titanium",
@@ -998,8 +1012,8 @@
       "published_at": "2026-08-31T17:06:28.000Z",
       "score_quality": 58,
       "score_notif": 47,
-      "cluster": "20260831-5940ceaa43fc",
-      "cluster_main": true
+      "cluster": "20260831-a8c3c0070f93",
+      "cluster_main": false
     },
     {
       "title": "Recommended Reading: John Nagayama's '96' Is An Essential Guide To The Rarest Of Patek Philippe's Quintessential Calatravas",
@@ -1083,7 +1097,7 @@
       "score_quality": 85,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Colorful Celebration Of Life: The IFL Watches × Out Of Order Shaker Happy Hour",
@@ -1684,8 +1698,8 @@
       "published_at": "2026-08-28T07:00:56.000Z",
       "score_quality": 50,
       "score_notif": 50,
-      "cluster": "20260827-6f73d234e43a",
-      "cluster_main": false
+      "cluster": "20260828-31e3d1777770",
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin’s Adventures in the Animal Kingdom",
@@ -1808,10 +1822,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-28T00:00:54.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Fears Brunswick 39 Perpetual Calendar marks a new chapter for the British brand",
@@ -1839,20 +1853,6 @@
       "score_quality": 82,
       "score_notif": 64,
       "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": true
-    },
-    {
-      "title": "IWC Goes Purple For Singapore With New Mercedes-AMG Petronas F1 Watch",
-      "url": "https://www.atimelyperspective.com/iwc-goes-purple-for-singapore-with-new-mercedes-amg-petronas-f1-watch/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/IW388131_Mood_Front-1.jpeg",
-      "peek_preview": "Formula One watches tend to come dressed for the racetrack: carbon, titanium and, increasingly, plenty of team colors. For the upcoming Singapore Grand Prix, IWC Schaffhausen is taking a decidedly more colorful route. I...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T19:58:38.000Z",
-      "score_quality": 58,
-      "score_notif": 50,
-      "cluster": "20260827-6f73d234e43a",
       "cluster_main": true
     }
   ]
