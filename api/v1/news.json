@@ -1,6 +1,6 @@
 {
-  "content_hash": "9f9c5a128dfcd277e38c4e8ed89b978e69ab1c5bf0daef669ae57761bee5b7ae",
-  "last_updated": "2026-09-01T14:47:47.715Z",
+  "content_hash": "54e3910f1aefa2561f7983be5993f52212d93184ae3613f5d3d4237218ab37bd",
+  "last_updated": "2026-09-01T15:47:26.509Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T14:00:01.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T14:00:26.000Z"
     },
     {
@@ -57,16 +57,16 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T13:00:00.000Z"
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T15:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-01T14:05:11.000Z"
+      "latest_article_at": "2026-09-01T15:34:53.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T13:03:04.000Z"
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T15:18:31.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T13:49:42.000Z"
     },
     {
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Introducing: Czapek's New Quai des Bergues And Place Vendôme Complicité",
+      "url": "https://www.hodinkee.com/articles/introducing-czapek-gwd-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/f0f24fb9-9c28-4fea-931b-1b397a338416/czapek2026GWD.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The brand inaugurates its new Geneva boutique with two new takes on existing models.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-01T15:34:53.000Z",
+      "score_quality": 85,
+      "score_notif": 51,
+      "cluster": "20260901-f0a4ef5bc556",
+      "cluster_main": true
+    },
+    {
+      "title": "Hublot goes velvety smooth with the new Big Bang Original Soft Touch",
+      "url": "https://timeandtidewatches.com/hublot-big-bang-original-soft-touch-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Hublot-Big-Bang-Original-Soft-Touch-All-Red-4.jpg",
+      "peek_preview": "The master of materials is at it again, not giving us a completely new tactile feel for our watches with the new Soft Touch rubber. The post Hublot goes velvety smooth with the new Big Bang Original Soft Touch appeared...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-01T15:18:31.000Z",
+      "score_quality": 66,
+      "score_notif": 42,
+      "cluster": "20260901-8acca17596cd",
+      "cluster_main": true
+    },
+    {
+      "title": "Live from GWD26: 2 new releases from Louis Moinet | Hands-on Impression",
+      "url": "https://deployant.com/live-from-gwd26-2-new-releases-from-louis-moinet-hands-on-impression/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-2-new-releases-from-louis-moinet-hands-on-impression",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0435-1080x1920.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors We dropped by Louis Moinet’s station at the potato cafe in the Quai des Bergues and got those hands-on with the two novelties. First the Moon Meteor and the S...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-01T15:00:00.000Z",
+      "score_quality": 62,
+      "score_notif": 41,
+      "cluster": "20260901-bf85befa1f77",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: Chopard L.U.C. 1963 Heritage Regulator And L.U.C 1963 Heritage Chronograph Limited Editions",
       "url": "https://www.hodinkee.com/articles/introducing-chopard-luc-1963-heritage-regulator",
       "image": "https://hodinkee.imgix.net/uploads/images/7d30f7bf-9c86-457d-9cad-4c5d65607b76/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -184,9 +226,9 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T14:05:11.000Z",
-      "score_quality": 77,
+      "score_quality": 85,
       "score_notif": 48,
-      "cluster": "20260901-def61fe016ba",
+      "cluster": "20260901-f370f9343803",
       "cluster_main": true
     },
     {
@@ -325,9 +367,9 @@
       "featured": false,
       "published_at": "2026-09-01T13:00:00.000Z",
       "score_quality": 75,
-      "score_notif": 56,
+      "score_notif": 51,
       "cluster": "20260901-f0a4ef5bc556",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "STOWA Chrono WRC Stage 1 Black und Steel: Große Emotionen fürs Handgelenk",
@@ -534,10 +576,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:00:44.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Movement Is The Dial: The Berneron Mirage Miroir In White And Yellow Gold",
@@ -551,7 +593,7 @@
       "score_quality": 82,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Chopard L.U.C 1963 Heritage Chronograph, now in Prussian Blue",
@@ -563,9 +605,9 @@
       "featured": false,
       "published_at": "2026-09-01T10:00:25.000Z",
       "score_quality": 83,
-      "score_notif": 45,
-      "cluster": "20260901-aaa17d242fb5",
-      "cluster_main": true
+      "score_notif": 48,
+      "cluster": "20260901-f370f9343803",
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -661,9 +703,9 @@
       "featured": false,
       "published_at": "2026-09-01T08:30:00.000Z",
       "score_quality": 84,
-      "score_notif": 50,
+      "score_notif": 48,
       "cluster": "20260901-f370f9343803",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Ferdinand Berthoud Chronomètre FB 3SPC.4-1 in Black Ceramised Titanium",
@@ -900,8 +942,8 @@
       "published_at": "2026-08-31T17:06:28.000Z",
       "score_quality": 58,
       "score_notif": 47,
-      "cluster": "20260831-5940ceaa43fc",
-      "cluster_main": true
+      "cluster": "20260831-a8c3c0070f93",
+      "cluster_main": false
     },
     {
       "title": "Recommended Reading: John Nagayama's '96' Is An Essential Guide To The Rarest Of Patek Philippe's Quintessential Calatravas",
@@ -1769,7 +1811,7 @@
       "score_quality": 58,
       "score_notif": 50,
       "cluster": "20260827-3f6715ad7cfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: the Autodromo Group C Turbo Sport",
@@ -1811,48 +1853,6 @@
       "score_quality": 52,
       "score_notif": 12,
       "cluster": "20260827-424f5c69b1c3",
-      "cluster_main": true
-    },
-    {
-      "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
-      "url": "https://www.uhrenkosmos.com/chronext-ag-schweiz-insolvenz-onlineshop-aktiv/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Chronext-Schweiz-Insolvenz-versus-Chronext-Deutschland-Online-Betrieb.jpg",
-      "peek_preview": "Die Schweizer Chronext AG ist insolvent, ebenso befindet sich die Chronext Group AG in Liquidation. Die Marke Chronext und der operative Shop bestehen jedoch weiter: Sie wurden bereits 2024 von The Platform Group überno...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-27T13:44:58.000Z",
-      "score_quality": 79,
-      "score_notif": 70,
-      "cluster": "20260827-4f5441b4416b",
-      "cluster_main": true
-    },
-    {
-      "title": "Doxa and Belmont Watches Team Up for the Sub 300 Beta “Frogger” Limited Edition",
-      "url": "https://wornandwound.com/doxa-and-belmont-watches-team-up-for-the-sub-300-beta-frogger-limited-edition/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Doxa-Frogger-29.jpg",
-      "peek_preview": "Doxa is on a historic, Anne Hathaway-like tear in 2026. The Oscar winning actress will appear in a total of five films by the end of the year, including The Odyssey (a huge hit), The Devil Wears Prada II (also a huge hi...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T13:00:31.000Z",
-      "score_quality": 85,
-      "score_notif": 45,
-      "cluster": "20260827-042fcbada71f",
-      "cluster_main": true
-    },
-    {
-      "title": "New & Reviewed: IWC Pilot’s Watch Chronograph 41 Mercedes-AMG Petronas F1 Team 2026",
-      "url": "https://deployant.com/new-reviewed-iwc-pilots-watch-chronograph-41-mercedes-amg-petronas-f1-team/?utm_source=rss&utm_medium=rss&utm_campaign=new-reviewed-iwc-pilots-watch-chronograph-41-mercedes-amg-petronas-f1-team",
-      "image": "https://deployant.com/wp-content/uploads/2026/08/iwc-pilot-chrono-mercedes-amg-f1-mirror-deployant.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors IWC updates their Pilot’s Watch Chronograph 41 watch with a new, 2026 collaboration with Mercedes-AMG Petronas Formula One Team. We had the opportunity to spe...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T13:00:00.000Z",
-      "score_quality": 92,
-      "score_notif": 50,
-      "cluster": "20260827-3f6715ad7cfb",
       "cluster_main": true
     }
   ]
