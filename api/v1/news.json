@@ -1,6 +1,6 @@
 {
-  "content_hash": "375e05e6417e6d9e0120537f81f0820d6658cdaff0ce55e877c26555ad067b6a",
-  "last_updated": "2026-08-31T22:47:26.777Z",
+  "content_hash": "9be52da0c04582416792a4258a34979622284749d2e0c886222c41ed4616f895",
+  "last_updated": "2026-09-01T00:47:35.707Z",
   "premium": {
     "links": []
   },
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-08-31T22:05:04.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-31T03:00:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T00:00:20.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "セイコー プロスペックスがファン投票で選ばれたデザインの「ダイバーズ 1965 ヘリテージ ファンセレクト限定モデル」を発表",
+      "url": "https://www.webchronos.net/news/171287/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/seiko_pX_d_1.webp",
+      "peek_preview": "セイコー プロスペックスより、ファン投票で選ばれたデザインを製品化した「ダイバーズ 1965 ヘリテージ ファンセレクト限定モデル」が発表された。このファン投票は、セイコーのダイバーズウォッチ誕生60周年を記念して行われ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-01T00:00:20.000Z",
+      "score_quality": 74,
+      "score_notif": 47,
+      "cluster": "20260828-8b0676343443",
+      "cluster_main": false
+    },
     {
       "title": "Cinque Glashütte Original che hanno fatto fare alla meccanica cose mai viste",
       "url": "https://www.orologidiclasse.com/glashutte-original-innovazioni-meccaniche/",
@@ -383,7 +397,7 @@
       "score_quality": 75,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Colorful Celebration Of Life: The IFL Watches × Out Of Order Shaker Happy Hour",
@@ -464,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-31T13:00:00.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 47,
       "cluster": "20260831-a8c3c0070f93",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Jaeger-LeCoultre Reverso Tribute Enamel Turner Series—Homage to 'La Serenissima'",
@@ -523,7 +537,7 @@
       "score_quality": 88,
       "score_notif": 47,
       "cluster": "20260831-a8c3c0070f93",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Milano Blue brings a new depth to Parmigiani Fleurier’s rose gold Tonda PF Skeleton",
@@ -1318,10 +1332,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-28T00:00:54.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Fears Brunswick 39 Perpetual Calendar marks a new chapter for the British brand",
@@ -1430,10 +1444,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -1528,10 +1542,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -1602,20 +1616,6 @@
       "score_notif": 43,
       "cluster": "20260826-0b3a8ebbf238",
       "cluster_main": false
-    },
-    {
-      "title": "ボーム＆メルシエ「クリフトン」より、アイスブルーをまとった限定モデル2種が登場",
-      "url": "https://www.webchronos.net/news/170876/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/BM_cliftoniceblue_1.webp",
-      "peek_preview": "ボーム＆メルシエは、「クリフトン」コレクションの新作として、アイスブルーダイアルを共有するふたつの限定モデルを披露した。ラインナップは、直径39mmの3針モデルと、直径40mmのパーペチュアルカレンダーモデルの2種。いず […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-27T00:23:26.000Z",
-      "score_quality": 84,
-      "score_notif": 40,
-      "cluster": "20260827-36e23f1c5024",
-      "cluster_main": true
     },
     {
       "title": "Ming Introduces a New Take on the Worldtimer, the 57.05 Comet",
