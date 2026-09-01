@@ -1,6 +1,6 @@
 {
-  "content_hash": "8a0e39be5f4ac18e464a6bb5efd08158edff1a62d029da3a46c7100ebea4081c",
-  "last_updated": "2026-09-01T04:47:17.597Z",
+  "content_hash": "16acba2b64e8fe242848c22096f6afc10c568567b86c04b56c09d15540406bb3",
+  "last_updated": "2026-09-01T05:47:53.510Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-31T14:00:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T05:00:13.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T04:01:03.000Z"
     },
     {
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-31T13:47:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T05:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Seiko Expands The Speedtimer Collection With Four New References",
+      "url": "https://www.fratellowatches.com/seiko-expands-the-speedtimer-collection-with-four-new-references/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Seiko-Speedtimer-Models-HBD001-HBD002-HBC003-HBC004-10.jpg",
+      "peek_preview": "The Seiko Speedtimer has relatively quickly grown into a full collection of watches inspired by Seiko’s first automatic chronographs from the late ’60s and early ’70s. What began as a line of chronographs in 2021 has ex...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-01T05:00:13.000Z",
+      "score_quality": 76,
+      "score_notif": 48,
+      "cluster": "20260901-9fa903307033",
+      "cluster_main": false
+    },
+    {
+      "title": "New: Citizen Promaster Skyhawk and Tsuno Chrono",
+      "url": "https://deployant.com/new-citizen-promaster-skyhawk-and-tsuno-chrono/?utm_source=rss&utm_medium=rss&utm_campaign=new-citizen-promaster-skyhawk-and-tsuno-chrono",
+      "image": "https://deployant.com/wp-content/uploads/2026/08/Deployant-JY8144-50E_wear_IMG02_re20032.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Citizen Promaster adds to their lineup with two new limited edition models to celebrate the 50th Anniversary of Eco-Drive. The two novelties are the Skyhawk f...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-01T05:00:00.000Z",
+      "score_quality": 71,
+      "score_notif": 54,
+      "cluster": "20260901-d03f92f6ecea",
+      "cluster_main": true
+    },
     {
       "title": "The New Hamilton Murph 38mm With \"Stardust\" Blue Dial (Hands-On)",
       "url": "https://teddybaldassarre.com/blogs/watches/hamilton-khaki-field-murph-38mm-blue-dial",
@@ -453,7 +481,7 @@
       "score_quality": 79,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Colorful Celebration Of Life: The IFL Watches × Out Of Order Shaker Happy Hour",
@@ -1044,20 +1072,6 @@
       "cluster_main": false
     },
     {
-      "title": "You Don’t Wanna Mess With The Black-Dial Certina DS-2 Powermatic 80 On A Steel Mesh Bracelet",
-      "url": "https://www.fratellowatches.com/black-dial-certina-ds-2-powermatic-80/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Certina-DS-2-Black-Mesh-Bracelet-3.jpg",
-      "peek_preview": "Yes, this watch’s origins unmistakably lie in the 1960s. Still, the black-dial Certina DS-2 on a steel mesh bracelet seems to be in the right place at the right time. Its black lacquered dial, sharp lines, and steel mes...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-29T05:00:48.000Z",
-      "score_quality": 58,
-      "score_notif": 24,
-      "cluster": "20260829-c8dc022e3c82",
-      "cluster_main": true
-    },
-    {
       "title": "クオ「ROYAL SMITH 90-006」にファン待望の39mmモデルが追加",
       "url": "https://www.webchronos.net/news/171176/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/08/kuoe_royalsmith90-006_1.webp",
@@ -1374,10 +1388,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-08-28T00:00:54.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 48,
       "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Fears Brunswick 39 Perpetual Calendar marks a new chapter for the British brand",
@@ -1486,10 +1500,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chronext AG Schweiz Insolvenz: Online Shop von Chronext Deutschland läuft weiter",
@@ -1584,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T09:00:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 55,
       "cluster": "20260827-7b40c44db6cb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new 100-piece Tiffany & Co. Timer brings a customised Zenith El Primero movement to a new titanium and platinum case",
@@ -1840,20 +1854,6 @@
       "score_notif": 62,
       "cluster": "20260825-0990d6138e1b",
       "cluster_main": true
-    },
-    {
-      "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
-      "url": "https://www.atimelyperspective.com/omega-endows-new-speedmaster-38mm-more-moonwatch-dna/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/324.20.38.50.02.002_SP_Packshot_Front_4x5_RVB-819x1024.jpg",
-      "peek_preview": "Omega is giving its Speedmaster 38mm collection a meaningful refresh, introducing seven new references that sharpen the family resemblance to the legendary Moonwatch while retaining the smaller proportions and more colo...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-25T15:00:31.000Z",
-      "score_quality": 99,
-      "score_notif": 71,
-      "cluster": "20260825-32a3e1d6541a",
-      "cluster_main": false
     }
   ]
 }
