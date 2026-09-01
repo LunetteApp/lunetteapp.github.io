@@ -1,6 +1,6 @@
 {
-  "content_hash": "b57f72841adc6e19ba620b90ff5b905d19337dd3904fc5737882c16767df014d",
-  "last_updated": "2026-09-01T17:47:28.369Z",
+  "content_hash": "9b88c45e16c762c3f3d36258171cbb9ea8eba7c725b1421d061727126b50704a",
+  "last_updated": "2026-09-01T18:47:17.466Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T17:00:00.000Z"
     },
     {
@@ -93,8 +93,8 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-08-25T09:35:56.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T17:28:13.000Z"
     },
     {
       "source_name": "Watch Insanity",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T09:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-01T18:00:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Tudor ressuscite la Northflag et lui offre enfin un GMT",
+      "url": "https://www.welovewatches.fr/tudor-ressuscite-la-northflag-et-lui-offre-enfin-un-gmt.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/tudor-northflag-une.jpg",
+      "peek_preview": "La North Flag revient. Disparue du catalogue Tudor en 2021, elle refait surface cinq ans plus tard avec un nouveau mouvement, un cadran redessiné et une fonction GMT. Elle change aussi légèrement de nom :...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-01T18:00:00.000Z",
+      "score_quality": 65,
+      "score_notif": 72,
+      "cluster": "20260901-2a4b0cb5e22f",
+      "cluster_main": false
+    },
+    {
+      "title": "GPHG 2026: svelati gli 84 orologi nominati",
+      "url": "https://www.perpetualpassion.com/2026/09/01/gphg-2026-orologi-nominati-aiguille-dor/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/20251113184156_gphg_ceremo_2025_LIEBER_f03e97dabc-scaled.jpg",
+      "peek_preview": "La corsa verso l’Aiguille d’Or è ufficialmente iniziata. La Fondation du Grand Prix d’Horlogerie de Genève ha annunciato [...] L'articolo GPHG 2026: svelati gli 84 orologi nominati proviene da PERPETUAL PASSION.",
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-01T17:28:13.000Z",
+      "score_quality": 63,
+      "score_notif": 52,
+      "cluster": "20260901-e9c098fa0312",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Vacheron Constantin Métiers d'Art Tribute To The Animal Kingdom",
       "url": "https://www.hodinkee.com/articles/vacheron-constantin-metiers-dart-tribute-to-the-animal-kingdom",
@@ -338,10 +366,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T13:32:52.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tudor finally breaks the ice with an all-new Northflag",
@@ -439,7 +467,7 @@
       "score_quality": 89,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tudor Launches New Northflag With GMT Function",
@@ -1656,8 +1684,8 @@
       "published_at": "2026-08-28T07:00:56.000Z",
       "score_quality": 50,
       "score_notif": 50,
-      "cluster": "20260828-31e3d1777770",
-      "cluster_main": true
+      "cluster": "20260827-6f73d234e43a",
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin’s Adventures in the Animal Kingdom",
@@ -1797,7 +1825,7 @@
       "score_quality": 81,
       "score_notif": 64,
       "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Fears Brunswick 39 Perpetual Calendar",
@@ -1808,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-27T23:01:00.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 64,
       "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Goes Purple For Singapore With New Mercedes-AMG Petronas F1 Watch",
@@ -1825,34 +1853,6 @@
       "score_quality": 58,
       "score_notif": 50,
       "cluster": "20260827-6f73d234e43a",
-      "cluster_main": true
-    },
-    {
-      "title": "Review: the Autodromo Group C Turbo Sport",
-      "url": "https://wornandwound.com/review/review-the-autodromo-group-c-turbo-sport/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Autodromo_Group-C_editorial_001_WR.jpg",
-      "peek_preview": "It’s hard to believe in our era of always-online smart watches and AI-everything (eye rolls welcome), but there was a time when the digital watch was the new kid on the block, challenging analog conventions. Cries of “k...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T19:00:13.000Z",
-      "score_quality": 76,
-      "score_notif": 20,
-      "cluster": "20260827-fbbdf98c38e8",
-      "cluster_main": true
-    },
-    {
-      "title": "An Evening With King Seiko And The Seiko Summer Jazz Camp All Stars",
-      "url": "https://teddybaldassarre.com/blogs/watches/king-seiko-summer-jazz-camp-all-stars-event",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-Event-Dizzys-Club-2.jpg?v=1787840936",
-      "peek_preview": "Dizzy’s Club in Columbus Circle, an extension of Jazz at Lincoln Center, is one of New York City’s premier destinations for live jazz, with world-class acts performing directly in front of a panoramic view of the city s...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T17:35:01.000Z",
-      "score_quality": 30,
-      "score_notif": 12,
-      "cluster": "20260827-f8703608f427",
       "cluster_main": true
     }
   ]
