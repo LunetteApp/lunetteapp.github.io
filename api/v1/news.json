@@ -1,6 +1,6 @@
 {
-  "content_hash": "06d351bdb1b7ef438f1e6d77c3d14473f7cfee4368c438ed2f16fdd4c80aa097",
-  "last_updated": "2026-09-02T08:48:01.031Z",
+  "content_hash": "a5c77f07ca10537fd7d5701efd5f52b7e615d1fb0145f7f4d79dd7fcd0fc805a",
+  "last_updated": "2026-09-02T09:47:27.322Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T08:00:46.000Z"
     },
     {
@@ -24,7 +24,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.7,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-02T08:00:37.000Z"
+      "latest_article_at": "2026-09-02T09:00:03.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-02T07:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T09:07:09.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 2,
-      "latest_article_at": "2026-09-02T08:01:07.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T09:00:36.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T08:00:00.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T08:00:00.000Z"
     },
     {
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-02T07:16:47.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T09:43:04.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -176,6 +176,62 @@
   ],
   "items": [
     {
+      "title": "DOXA SUB 300 Ti5: So geht leichter und robuster mit Zertifikat",
+      "url": "https://www.uhrenkosmos.com/doxa-sub-300-ti5-modelle-in-titan/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/DOXA-SUB-300-Ti5-Whitepearl-mit-weissem-nachts-luminiszierenden-Zifferblatt-und-Titangehaeuse.jpg",
+      "peek_preview": "Die DOXA SUB 300 Ti5 verbindet das Design des Taucheruhrenklassikers mit einem Gehäuse aus Titan Grade 5. Damit bieten die Uhren ein geringeres Gewicht bei höherer Festigkeit und Korrosionsbeständigkeit. Zur Ausstattung...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-02T09:43:04.000Z",
+      "score_quality": 63,
+      "score_notif": 48,
+      "cluster": "20260902-413671dd1842",
+      "cluster_main": false
+    },
+    {
+      "title": "Live from GWD26: Speake Marin Tourbillon Royal Blue Hands-on",
+      "url": "https://deployant.com/live-from-gwd26-speake-marin-tourbillon-royal-blue-hands-on/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-speake-marin-tourbillon-royal-blue-hands-on",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0475-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors At the Speake Marin suite, we were introduced to the Tourbillon Royal Blue. Here is our hands-on impression after handling the watch at the Beau Rivage. Live...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T09:07:09.000Z",
+      "score_quality": 82,
+      "score_notif": 39,
+      "cluster": "20260902-17a5ba08b768",
+      "cluster_main": true
+    },
+    {
+      "title": "Striking a chord: The L.Leroy Vox Temporis swaps a minute hand for a minute repeater",
+      "url": "https://timeandtidewatches.com/striking-a-chord-the-l-leroy-vox-temporis-swaps-a-minute-hand-for-a-minute-repeater/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/L.Leroy-Vox-Temporis-Header.jpg",
+      "peek_preview": "L.Leroy introduces the Vox Temporis, an exclusive minute repeater and flying tourbillon. It features an unconventional single fixed hand with a rotating dial, inspired by a historic 1810 tact watch. Produced in titanium...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T09:00:36.000Z",
+      "score_quality": 72,
+      "score_notif": 48,
+      "cluster": "20260902-bda4ce8452f6",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Trilobe Releases the Chateau Trente-Deux with a Burgundy dial",
+      "url": "https://monochrome-watches.com/trilobe-chateau-trente-deux-with-a-burgundy-dial-integrated-sports-watch-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Trilobe-Chateau-Trente-Deux-Integrated-Sports-Watch-Burgundy-dial-6-600x237.jpg",
+      "peek_preview": "Founded by Gautier Massonneau in 2018, Trilobe is a French brand distinguished by its hand-free displays. Instead of traditional hands, Trilobe uses three rotating rings that align with fixed markings to display time in...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T09:00:03.000Z",
+      "score_quality": 79,
+      "score_notif": 34,
+      "cluster": "20260902-6143177b54de",
+      "cluster_main": true
+    },
+    {
       "title": "The new Gerald Charles Masterlink Atelier Edition introduces hand-hammered Maillechort dials",
       "url": "https://timeandtidewatches.com/the-new-gerald-charles-masterlink-atelier-edition-introduces-hand-hammered-maillechort-dials/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/gerald-charles-featured-image-1.jpg",
@@ -187,7 +243,7 @@
       "score_quality": 75,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Doxa Sub 300 Ti5 In Grade 5 Titanium Joins The Brand’s Regular Collection",
@@ -312,7 +368,7 @@
       "published_at": "2026-09-02T07:10:05.000Z",
       "score_quality": 87,
       "score_notif": 68,
-      "cluster": "20260902-83b44fc260ad",
+      "cluster": "20260902-94c376c95492",
       "cluster_main": true
     },
     {
@@ -410,8 +466,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-9c06b90d3bf0",
-      "cluster_main": true
+      "cluster": "20260902-05f797be2ac3",
+      "cluster_main": false
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -520,10 +576,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:00.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Gérald Genta Geneva Minute Repeater Golden Obsidian",
@@ -551,7 +607,7 @@
       "score_quality": 78,
       "score_notif": 68,
       "cluster": "20260902-94c376c95492",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1016,20 +1072,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – The new M.A.D.3 Brings Vincent Calabrese’s Jumping Hour into the M.A.D.Editions Universe",
-      "url": "https://monochrome-watches.com/the-new-mad-3-brings-vincent-calabreses-jumping-hour-into-the-mad-editions-universe-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/MADEditions_MAD3_Vincent_Calabrese_wandering_jumping_hour_review_10-600x237.jpg",
-      "peek_preview": "A celebration of proper independent watchmaking, looking back at the early days of creative thinking, unusual displays and complications that, back then, felt almost rebellious. A best of all we love here at MONOCHROME,...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T12:01:31.000Z",
-      "score_quality": 84,
-      "score_notif": 66,
-      "cluster": "20260901-05c0b5eeb00a",
-      "cluster_main": true
-    },
-    {
       "title": "M.A.D.Editions unviels its new M.A.D.3 Vincent Calabrese – and it may be the brand’s best yet",
       "url": "https://timeandtidewatches.com/m-a-d-editions-m-a-d-3-vincent-calabrese-video/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/MADEditions-MAD3-Vincent-Calabrese-feature.jpeg",
@@ -1069,7 +1111,7 @@
       "score_quality": 79,
       "score_notif": 66,
       "cluster": "20260901-05c0b5eeb00a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Striking Resemblance: The Piaget Polo Minute Repeater",
@@ -1688,20 +1730,6 @@
       "cluster_main": true
     },
     {
-      "title": "New releases from Fears, Vacheron Constantin, Atelier Wen and more",
-      "url": "https://timeandtidewatches.com/fears-vacheron-constantin-atelier-wen-last-week-in-watches/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/atelier-wen-web.jpg",
-      "peek_preview": "With Geneva Watch Days kicking off Tuesday, most of this week’s novelties are trying to get ahead of next week’s flood of news, and they’re not holding back. You’ll find completely new perpetual calendars, fresh chronog...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-29T15:31:45.000Z",
-      "score_quality": 31,
-      "score_notif": 12,
-      "cluster": "20260829-60aead6bd727",
-      "cluster_main": true
-    },
-    {
       "title": "Watches, Stories, & Gear: The Pitt Season 3, Mr Jones Watch Contest, and Remembering Dolly Parton & Tim Curry",
       "url": "https://wornandwound.com/watches-stories-gear-the-pitt-season-3-mr-jones-watch-contest-and-remembering-dolly-parton-tim-curry/",
       "image": "https://wornandwound.com/library/uploads/2026/08/QCYOQDJPS5CKTPSWKMWXH6PTSE-scaled-e1787867088596.webp",
@@ -1825,34 +1853,6 @@
       "score_quality": 72,
       "score_notif": 42,
       "cluster": "20260829-65757656dab3",
-      "cluster_main": true
-    },
-    {
-      "title": "Nuovi Formex Essence 39 mm: l’evoluzione che non si vede",
-      "url": "https://www.orologidiclasse.com/formex-essence-39-mm-2026-evoluzione/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/08/formex-essence-39-2026.jpg",
-      "peek_preview": "Quando un orologio vende bene, la tentazione di non toccarlo è fortissima. Si cambia un quadrante, si aggiunge una colorazione, si lascia tutto il resto esattamente dov’è. Ed è una strategia comprensibile: perché rischi...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-28T22:05:37.000Z",
-      "score_quality": 58,
-      "score_notif": 46,
-      "cluster": "20260828-3a28304e9129",
-      "cluster_main": true
-    },
-    {
-      "title": "Omega Speedmaster Alaska Project: Die etwas andere Moonwatch",
-      "url": "https://www.uhrenkosmos.com/omega-speedmaster-alaska-project-cpo-check/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/08/Mondtauglich-Omega-Speedmaster-Alaska-Referenz-311.32.42.30.04.001-Edition.jpg",
-      "peek_preview": "Die Omega Speedmaster Alaska Project verbindet geheime NASA-Entwicklungsarbeiten der späten 1960er mit einer auf 1.970 Exemplare limitierten Omega Speedmaster Neuauflage von 2008 – heute eine der gefragtesten Speedmaste...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-08-28T17:32:30.000Z",
-      "score_quality": 68,
-      "score_notif": 14,
-      "cluster": "20260828-8d21ee7d94f5",
       "cluster_main": true
     }
   ]
