@@ -1,6 +1,6 @@
 {
-  "content_hash": "f3b150d8bedb95fca8b72f73b18c5ac955de19c9cf0ebae74647c00d758e18f9",
-  "last_updated": "2026-09-02T14:48:05.758Z",
+  "content_hash": "f0fc41be2e55a25d2cc34904d92047311aa98b941282670419f814317c8ce846",
+  "last_updated": "2026-09-02T15:47:21.203Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T14:00:10.000Z"
     },
     {
@@ -24,7 +24,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-02T14:00:55.000Z"
+      "latest_article_at": "2026-09-02T15:00:53.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-02T12:00:03.000Z"
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T15:42:57.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T14:00:35.000Z"
     },
     {
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-02T07:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T15:36:20.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: The Doxa Sub 300 Ti5",
+      "url": "https://www.hodinkee.com/articles/the-doxa-sub-300-ti5",
+      "image": "https://hodinkee.imgix.net/uploads/images/96c61174-2ab5-42ce-bcea-df4c2a79baa7/DoxaTI.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Doxa brings titanium out of the limited edition world and into their standard line with a lightweight take on their classic diver.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T15:42:57.000Z",
+      "score_quality": 78,
+      "score_notif": 55,
+      "cluster": "20260902-413671dd1842",
+      "cluster_main": false
+    },
+    {
+      "title": "Breitling Navitimer Miles Davis: 500 pezzi ai Geneva Watch Days 2026",
+      "url": "https://www.orologidiclasse.com/breitling-navitimer-b09-miles-davis-2026/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/breitling-navitimer-b09-miles-davis-2026.jpg",
+      "peek_preview": "Breitling apre i Geneva Watch Days 2026 con il Navitimer B09 Chronograph 41 Tribute to Miles Davis, edizione limitata a 500 esemplari realizzata per il centenario della nascita del musicista americano. Il nuovo modello...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-02T15:36:20.000Z",
+      "score_quality": 70,
+      "score_notif": 50,
+      "cluster": "20260902-563386bb6f5d",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing – The New Doxa SUB 300 Ti5 Brings Titanium to the Permanent Collection",
+      "url": "https://monochrome-watches.com/introducing-doxa-sub-300-ti5-titanium-dive-watch-geneva-watch-days-specs-price-review/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Doxa-SUB-300-Ti5-Titanium-Permanent-Collection-2026-1-600x237.jpg",
+      "peek_preview": "Following the limited Clive Cussler edition introduced earlier this year, the Doxa SUB 300 Ti5 takes the well-known, historically inspired design and reworks it in Grade 5 titanium. This time, however, titanium is here...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T15:00:53.000Z",
+      "score_quality": 84,
+      "score_notif": 55,
+      "cluster": "20260902-413671dd1842",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The New Oris ProPilot Bronze",
       "url": "https://monochrome-watches.com/introducing-2026-oris-propilot-bronze-specs-price/",
@@ -383,7 +425,7 @@
       "score_quality": 80,
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Gerald Charles Masterlink Atelier Edition",
@@ -397,7 +439,7 @@
       "score_quality": 80,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -409,7 +451,7 @@
       "featured": false,
       "published_at": "2026-09-02T11:01:02.000Z",
       "score_quality": 68,
-      "score_notif": 48,
+      "score_notif": 55,
       "cluster": "20260902-413671dd1842",
       "cluster_main": false
     },
@@ -479,7 +521,7 @@
       "featured": false,
       "published_at": "2026-09-02T09:43:04.000Z",
       "score_quality": 63,
-      "score_notif": 48,
+      "score_notif": 55,
       "cluster": "20260902-413671dd1842",
       "cluster_main": false
     },
@@ -549,9 +591,9 @@
       "featured": false,
       "published_at": "2026-09-02T08:00:46.000Z",
       "score_quality": 76,
-      "score_notif": 48,
+      "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The New Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor 39mm",
@@ -621,7 +663,7 @@
       "score_quality": 86,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The New Frederique Constant Highlife Moonphase Date Manufacture (Incl. Video)",
@@ -677,20 +719,6 @@
       "score_quality": 76,
       "score_notif": 18,
       "cluster": "20260902-467e23a5ad23",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The Zenith Chronomaster Solo Sport, The Time-Only High-Frequency El Primero (Incl. Video)",
-      "url": "https://monochrome-watches.com/zenith-chronomaster-solo-sport-time-only-high-frequency-el-primero-review-video-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Zenith-Chronomaster-Solo-Sport-Collection-2026-Time-Only-EL-Primero-Sports-Watch-Review-Video-5-600x237.jpg",
-      "peek_preview": "The Chronomaster Sport is one of Zenith’s most recognisable modern series, featuring a contemporary sports-watch case and, naturally, an El Primero chronograph movement. For 2026, however, Zenith takes an unexpected tur...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T07:01:44.000Z",
-      "score_quality": 84,
-      "score_notif": 66,
-      "cluster": "20260902-5c8e8deb344d",
       "cluster_main": true
     },
     {
@@ -786,10 +814,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:03.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris ProPilot X Gonzo Edition (Live Pics)",
@@ -803,34 +831,6 @@
       "score_quality": 88,
       "score_notif": 55,
       "cluster": "20260902-05f797be2ac3",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Oris Social Club Edition II",
-      "url": "https://www.hodinkee.com/articles/the-oris-social-club-edition-ii",
-      "image": "https://hodinkee.imgix.net/uploads/images/352ef8d4-9734-4ebc-80f8-f3cbb2330170/Oris-social-club-2-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The second outing of a special edition for the brand's international online community takes the Aquis Relief in an unexpected direction.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:02.000Z",
-      "score_quality": 72,
-      "score_notif": 44,
-      "cluster": "20260902-10602857845a",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Bulgari Titanio Chronograph And GMT",
-      "url": "https://www.hodinkee.com/articles/the-bulgari-titanio-chronograph-and-gmt",
-      "image": "https://hodinkee.imgix.net/uploads/images/14cf82d5-989c-4e86-9ba2-16cdf2b7db7d/Bulgari-titanio-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A pair of sporty titanium models expands upon Bulgari's base of aluminum and bronze.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:02.000Z",
-      "score_quality": 75,
-      "score_notif": 57,
-      "cluster": "20260902-82c30c80a5da",
       "cluster_main": true
     },
     {
@@ -870,10 +870,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:00.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1321,7 +1321,7 @@
       "score_quality": 81,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Alto refines the concept with the integrated bracelet ART 02",
@@ -1332,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:00:50.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Miroir Image: Berneron Inverts the Mirage",
@@ -1349,7 +1349,7 @@
       "score_quality": 91,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Movement Is The Dial: The Berneron Mirage Miroir In White And Yellow Gold",
@@ -1360,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:00:35.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
