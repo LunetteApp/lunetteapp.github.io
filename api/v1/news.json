@@ -1,6 +1,6 @@
 {
-  "content_hash": "f11536fd529133f458e0b91c9240aa2172a2a9301958d825fc5bffebc1b4b1a2",
-  "last_updated": "2026-09-01T21:47:08.030Z",
+  "content_hash": "d418eb288e1965f5f6a7b982053af863af4cf0fdbdb1a3fa1c6ae6ac684dfa49",
+  "last_updated": "2026-09-02T00:47:22.063Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
+      "estimated_articles_per_day": 3.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T12:29:56.000Z"
     },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T20:46:27.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T03:00:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T00:00:53.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "エンジェルクローバーより、アニメ『呪術廻戦』の放送5周年を記念したコラボウォッチが登場",
+      "url": "https://www.webchronos.net/news/171358/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/AC_jk_1.webp",
+      "peek_preview": "ウエニ貿易が展開する腕時計ブランド「ANGEL CLOVER（エンジェルクローバー）」は、アニメ『呪術廻戦』の5周年を記念したコラボレーションウォッチを発表した。全8モデルが展開される本コレクションは、劇中の人気キャラク […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-02T00:00:53.000Z",
+      "score_quality": 52,
+      "score_notif": 14,
+      "cluster": "20260902-e218ec4f3538",
+      "cluster_main": true
+    },
     {
       "title": "New Release: Tudor North Flag Returns As A GMT Watch",
       "url": "https://www.ablogtowatch.com/new-release-tudor-north-flag-returns-as-a-gmt-watch/",
@@ -397,7 +411,7 @@
       "score_quality": 92,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tudor finally breaks the ice with an all-new Northflag",
@@ -492,10 +506,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T12:08:28.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tudor Launches New Northflag With GMT Function",
@@ -663,7 +677,7 @@
       "score_quality": 85,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Movement Is The Dial: The Berneron Mirage Miroir In White And Yellow Gold",
@@ -674,10 +688,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:00:35.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Chopard L.U.C 1963 Heritage Chronograph, now in Prussian Blue",
@@ -744,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T09:01:10.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Limited-Edition TAG Heuer Monza Flyback Chronograph Celebrates 50 Years Of Monza With A ‘Greatest Hits’ Watch Design",
@@ -775,7 +789,7 @@
       "score_quality": 89,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – Chopard Revives its Classic Regulator with the New L.U.C 1963 Heritage Regulator",
@@ -1026,8 +1040,8 @@
       "published_at": "2026-08-31T17:06:28.000Z",
       "score_quality": 58,
       "score_notif": 47,
-      "cluster": "20260831-5940ceaa43fc",
-      "cluster_main": true
+      "cluster": "20260831-a8c3c0070f93",
+      "cluster_main": false
     },
     {
       "title": "Recommended Reading: John Nagayama's '96' Is An Essential Guide To The Rarest Of Patek Philippe's Quintessential Calatravas",
@@ -1097,7 +1111,7 @@
       "score_quality": 75,
       "score_notif": 40,
       "cluster": "20260831-7538be516cb9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Pair Of Glashütte Original Senator Chronographs Inspired By The Past",
@@ -1110,7 +1124,7 @@
       "published_at": "2026-08-31T14:00:22.000Z",
       "score_quality": 87,
       "score_notif": 48,
-      "cluster": "20260828-6e4e12d4c16f",
+      "cluster": "20260831-4381fe6e2b01",
       "cluster_main": true
     },
     {
@@ -1136,10 +1150,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-08-31T14:00:00.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 40,
       "cluster": "20260831-7538be516cb9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Hands-on with the Amazing Rexhep Rexhepi Chrono Flyback",
@@ -1826,20 +1840,6 @@
       "score_notif": 44,
       "cluster": "20260828-ec9da40b06ef",
       "cluster_main": true
-    },
-    {
-      "title": "グラスヒュッテ・オリジナルが歴史的モデルから着想を得た「セネタ・クロノグラフ」2モデルを発表",
-      "url": "https://www.webchronos.net/news/170661/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/gho_se_1.webp",
-      "peek_preview": "グラスヒュッテ・オリジナルは、パイロットクロノグラフを着想源とする「セネタ・クロノグラフ ナビゲーター」と、歴史的な航海用懐中時計を思わせる「セネタ・クロノグラフ」のふたつの新作クロノグラフを発表した。いずれもドイツ・グ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-28T00:00:54.000Z",
-      "score_quality": 86,
-      "score_notif": 48,
-      "cluster": "20260828-6e4e12d4c16f",
-      "cluster_main": false
     },
     {
       "title": "The Fears Brunswick 39 Perpetual Calendar marks a new chapter for the British brand",
