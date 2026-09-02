@@ -1,6 +1,6 @@
 {
-  "content_hash": "a5c77f07ca10537fd7d5701efd5f52b7e615d1fb0145f7f4d79dd7fcd0fc805a",
-  "last_updated": "2026-09-02T09:47:27.322Z",
+  "content_hash": "11425c4ab98845c4dc18fc67fc81681a1b95c9725edd323e0a03d5426e676049",
+  "last_updated": "2026-09-02T10:47:35.738Z",
   "premium": {
     "links": []
   },
@@ -24,7 +24,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.7,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-02T09:00:03.000Z"
+      "latest_article_at": "2026-09-02T10:30:30.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
+      "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-02T09:07:09.000Z"
+      "latest_article_at": "2026-09-02T10:08:35.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T09:00:36.000Z"
     },
     {
@@ -113,9 +113,9 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T11:00:04.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T10:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T09:43:04.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The ProPilot X Gonzo Edition, the new Muppets Watch by Oris",
+      "url": "https://monochrome-watches.com/oris-propilot-x-gonzo-edition-muppets-watch-calobre-115-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Oris-ProPilot-X-Gonzo-Muppets-Watch-Calibre-115-review-1-600x237.jpg",
+      "peek_preview": "After Kermit the Frog and Miss Piggy, Oris brings Disney’s The Muppets to the stage for a third collaboration. This time, the spotlight is on The Great Gonzo, the stuntman-showman whose unconventional personality seems...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T10:30:30.000Z",
+      "score_quality": 85,
+      "score_notif": 55,
+      "cluster": "20260902-05f797be2ac3",
+      "cluster_main": false
+    },
+    {
+      "title": "Live from GWD26: Dominique Renaud Pulse 60 | Hands-on",
+      "url": "https://deployant.com/live-from-gwd26-dominique-renaud-pulse-60-hands-on/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-dominique-renaud-pulse-60-hands-on",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0479-Large-rotated.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors I bumped up with my good friend Boon and he dragged me to Dominique Renaud and we were presented with the Pulse 60. This is not a new release, but the first t...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T10:08:35.000Z",
+      "score_quality": 84,
+      "score_notif": 42,
+      "cluster": "20260902-d03ed4648bb1",
+      "cluster_main": true
+    },
+    {
+      "title": "ProPilot X Gonzo Edition: Oris e Muppet, atto terzo",
+      "url": "https://giornaleorologi.it/2026/09/02/oris-propilot-x-gonzo-edition/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/Cover-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - ProPilot X Gonzo Edition: Oris e Muppet, atto terzo Io ve lo dico, anzi, ve lo scrivo: se siete appassionati di orologi, tenete d’occhio Oris. Il marchio di Hölstein ha alle spalle oltre 120 an...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-02T10:00:00.000Z",
+      "score_quality": 58,
+      "score_notif": 55,
+      "cluster": "20260902-05f797be2ac3",
+      "cluster_main": false
+    },
     {
       "title": "DOXA SUB 300 Ti5: So geht leichter und robuster mit Zertifikat",
       "url": "https://www.uhrenkosmos.com/doxa-sub-300-ti5-modelle-in-titan/",
@@ -327,7 +369,7 @@
       "score_quality": 84,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The New Frederique Constant Highlife Moonphase Date Manufacture (Incl. Video)",
@@ -368,7 +410,7 @@
       "published_at": "2026-09-02T07:10:05.000Z",
       "score_quality": 87,
       "score_notif": 68,
-      "cluster": "20260902-94c376c95492",
+      "cluster": "20260902-83b44fc260ad",
       "cluster_main": true
     },
     {
@@ -466,8 +508,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster": "20260902-9c06b90d3bf0",
+      "cluster_main": true
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -492,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:03.000Z",
-      "score_quality": 82,
+      "score_quality": 85,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris ProPilot X Gonzo Edition (Live Pics)",
@@ -506,7 +548,7 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:03.000Z",
-      "score_quality": 80,
+      "score_quality": 86,
       "score_notif": 55,
       "cluster": "20260902-05f797be2ac3",
       "cluster_main": true
@@ -607,7 +649,7 @@
       "score_quality": 78,
       "score_notif": 68,
       "cluster": "20260902-94c376c95492",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -957,7 +999,7 @@
       "score_quality": 94,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tudor finally breaks the ice with an all-new Northflag",
@@ -972,20 +1014,6 @@
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
       "cluster_main": false
-    },
-    {
-      "title": "First Look – The New Louis Erard Marqueterie de Paille, an Attainable take on the Straw Marquetry",
-      "url": "https://monochrome-watches.com/new-louis-erard-marqueterie-de-paille-straw-marquetry-dial-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Louis-Erard-Marqueterie-de-Paille-Attainable-take-on-the-Straw-Marquetry-Dial-review-7-600x237.jpg",
-      "peek_preview": "It’s fair to say that since Manuel Emch joined Louis Erard in 2021, the brand has blossomed. Whether it’s the wide range of collaboration watches produced with esteemed watchmakers (Silberstein, Chaykin, Halter) or its...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T13:01:00.000Z",
-      "score_quality": 80,
-      "score_notif": 44,
-      "cluster": "20260901-81606476f57d",
-      "cluster_main": true
     },
     {
       "title": "A Majestic Journey Through Clocks & Watches Made for Royalty: King George III, the Scientific Monarch and his Passion for Science and Horology",
@@ -1052,10 +1080,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T12:08:28.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tudor Launches New Northflag With GMT Function",
@@ -1192,10 +1220,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:00:44.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Movement Is The Dial: The Berneron Mirage Miroir In White And Yellow Gold",
@@ -1209,7 +1237,7 @@
       "score_quality": 88,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -1825,34 +1853,6 @@
       "score_quality": 78,
       "score_notif": 33,
       "cluster": "20260829-17c3b1e1832f",
-      "cluster_main": true
-    },
-    {
-      "title": "クオ「ROYAL SMITH 90-006」にファン待望の39mmモデルが追加",
-      "url": "https://www.webchronos.net/news/171176/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/kuoe_royalsmith90-006_1.webp",
-      "peek_preview": "クオは「ROYAL SMITH 90-006」コレクションに新しい直径39mmモデルを発表した。従来の35mm径ケースモデルが持つクラシカルなデザインを継承しつつ、世界各国のユーザーから寄せられた「より大きなケースサイズ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-29T03:00:06.000Z",
-      "score_quality": 70,
-      "score_notif": 41,
-      "cluster": "20260829-983b294cb38e",
-      "cluster_main": true
-    },
-    {
-      "title": "チャペック、新作「プロムナード トランスペアレンシーズ アクアブルー」を発表！ 半透明のダイアルからムーブメントがのぞく限定モデル",
-      "url": "https://www.webchronos.net/news/170955/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/cza_tr_1.webp",
-      "peek_preview": "チャペックより、新作「プロムナード トランスペアレンシーズ アクアブルー」が発表された。本作は、メタライゼーションの手法によってブルー・フュメのグラデーションコーティングを施した、サファイアクリスタル製ダイアルを特徴とす […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-29T00:00:34.000Z",
-      "score_quality": 72,
-      "score_notif": 42,
-      "cluster": "20260829-65757656dab3",
       "cluster_main": true
     }
   ]
