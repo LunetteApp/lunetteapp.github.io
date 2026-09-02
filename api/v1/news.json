@@ -1,6 +1,6 @@
 {
-  "content_hash": "38cefdd310af463955208c25f8d00331addbde0d3d01a69bc37abd70b5005bb6",
-  "last_updated": "2026-09-02T05:45:50.549Z",
+  "content_hash": "f3b72c520bc84814b9add7dfe36f01d7900dcf84fd964db65a97a11e59a17ca2",
+  "last_updated": "2026-09-02T06:47:03.925Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T12:29:56.000Z"
+      "estimated_articles_per_day": 3.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T06:00:27.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T14:00:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T06:01:16.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-01T13:45:17.000Z"
+      "estimated_articles_per_day": 1.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T06:00:10.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The Laurent Ferrier Classic Moon Dusk Serie Atelier",
+      "url": "https://monochrome-watches.com/laurent-ferrier-classic-moon-dusk-serie-atelier-annual-calendar-moon-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Laurent-Ferrier-Classic-Moon-Dusk-Serie-Atelier-Yellow-Gold-1-600x237.jpg",
+      "peek_preview": "Following the inaugural Classic Moon models presented in 2024 by Laurent Ferrier, the new Classic Moon Dusk Série Atelier retains the same combination of annual calendar and moon phase but introduces an entirely differe...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T06:01:16.000Z",
+      "score_quality": 82,
+      "score_notif": 52,
+      "cluster": "20260902-2ce7f426146d",
+      "cluster_main": true
+    },
+    {
+      "title": "Hittin’ Switches With The Voxel Meridion VX01-E",
+      "url": "https://www.fratellowatches.com/hittin-switches-with-the-voxel-meridion-vx01-e/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/VOXEL_MERIDION_VX01-E_COLLECTION-3.jpg",
+      "peek_preview": "New brands pop up frequently, but few open with a proprietary mechanical complication that actually changes how you read the time throughout the day. Voxel, founded by French creative director Thibault Luc and Vallée de...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T06:00:27.000Z",
+      "score_quality": 63,
+      "score_notif": 24,
+      "cluster": "20260902-b0000abe38f6",
+      "cluster_main": true
+    },
+    {
+      "title": "De Bethune Revives the Digitale in Style",
+      "url": "https://watchesbysjx.com/2026/09/de-bethune-db25-digitale-db25vd.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/de-bethune-db25-digitale-DB25VD-3-300x200.jpg",
+      "peek_preview": "One of De Bethune’s earliest models was a jumping hours wristwatch and now the brand has returned to concept with the DB25 Digitale. While largely similar to the earlier version in terms of function, the latest Digitale...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T06:00:10.000Z",
+      "score_quality": 75,
+      "score_notif": 57,
+      "cluster": "20260902-0ded27d018c4",
+      "cluster_main": true
+    },
     {
       "title": "バルチックの手巻きクロノグラフ「スケールグラフ」が、装い新たにレギュラーコレクションで登場",
       "url": "https://www.webchronos.net/news/171431/",
@@ -422,10 +464,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T13:32:52.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tudor finally breaks the ice with an all-new Northflag",
@@ -523,7 +565,7 @@
       "score_quality": 93,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tudor Launches New Northflag With GMT Function",
@@ -688,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:00:44.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Movement Is The Dial: The Berneron Mirage Miroir In White And Yellow Gold",
@@ -705,7 +747,7 @@
       "score_quality": 86,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Chopard L.U.C 1963 Heritage Chronograph, now in Prussian Blue",
@@ -876,20 +918,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The Hamilton Khaki Field Murph 38mm Gets a Textured Blue Makeover",
-      "url": "https://monochrome-watches.com/hamilton-khaki-field-murph-38mm-blue-textured-dial-2026-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Hamilton-Khaki-Field-Murph-38mm-Blue-Dial-Review-1-600x237.jpg",
-      "peek_preview": "Hamilton’s Murph watch got its popularity almost entirely from its role in Christopher Nolan’s 2014 film Interstellar. The watch created for the film returned as a production model in 2019, first in 42mm, before Hamilto...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T06:00:02.000Z",
-      "score_quality": 83,
-      "score_notif": 45,
-      "cluster": "20260901-166c2597690a",
-      "cluster_main": true
-    },
-    {
       "title": "Seiko Expands The Speedtimer Collection With Four New References",
       "url": "https://www.fratellowatches.com/seiko-expands-the-speedtimer-collection-with-four-new-references/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Seiko-Speedtimer-Models-HBD001-HBD002-HBC003-HBC004-10.jpg",
@@ -929,7 +957,7 @@
       "score_quality": 82,
       "score_notif": 45,
       "cluster": "20260901-166c2597690a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "アメリカ発のプレジダスがノルマンディー上陸作戦をテーマとした新作を発表",
@@ -1125,7 +1153,7 @@
       "score_quality": 77,
       "score_notif": 40,
       "cluster": "20260831-7538be516cb9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Pair Of Glashütte Original Senator Chronographs Inspired By The Past",
@@ -1164,10 +1192,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-08-31T14:00:00.000Z",
-      "score_quality": 76,
+      "score_quality": 78,
       "score_notif": 40,
       "cluster": "20260831-7538be516cb9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Hands-on with the Amazing Rexhep Rexhepi Chrono Flyback",
@@ -1308,20 +1336,6 @@
       "score_notif": 12,
       "cluster": "20260831-d7c69053d958",
       "cluster_main": true
-    },
-    {
-      "title": "Get It On And Bang A Gong With The New Piaget Polo Minute Repeater",
-      "url": "https://www.fratellowatches.com/bang-a-gong-with-the-new-piaget-polo-minute-repeater/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/PIAGET-POLO-MINUTE-REPEATER_G0A51038_16_1x1_embargo-until-31st-of-August-2026.jpg",
-      "peek_preview": "Let’s put the volume that the new Piaget Polo Minute Repeater produces into perspective. Most traditional repeater watches don’t exceed 60 decibels (dB). They make a sound you can compare to a whispered conversation. No...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-31T06:30:59.000Z",
-      "score_quality": 66,
-      "score_notif": 58,
-      "cluster": "20260831-05b357674528",
-      "cluster_main": false
     },
     {
       "title": "Piaget Polo Minute Repeater Complication: specs, price, video and commentary",
@@ -1670,8 +1684,8 @@
       "published_at": "2026-08-28T13:00:50.000Z",
       "score_quality": 69,
       "score_notif": 64,
-      "cluster": "20260827-150e08e3bcaa",
-      "cluster_main": false
+      "cluster": "20260828-4b78f8285ee9",
+      "cluster_main": true
     },
     {
       "title": "CHANEL COCO GAME: la Thematic Collection 2026 che porta il gioco nel lessico dell’Alta Orologeria",
@@ -1839,20 +1853,6 @@
       "score_quality": 88,
       "score_notif": 44,
       "cluster": "20260828-ec9da40b06ef",
-      "cluster_main": true
-    },
-    {
-      "title": "The Fears Brunswick 39 Perpetual Calendar marks a new chapter for the British brand",
-      "url": "https://timeandtidewatches.com/fears-brunswick-39-perpetual-calendar-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-fears-brunswick-39-perpetual-calendar.jpg",
-      "peek_preview": "Fears brings high-complication watchmaking back to Britain with the Brunswick 39 Perpetual Calendar, a stunning QP with compact proportions The post The Fears Brunswick 39 Perpetual Calendar marks a new chapter for the...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-27T23:01:01.000Z",
-      "score_quality": 81,
-      "score_notif": 64,
-      "cluster": "20260827-150e08e3bcaa",
       "cluster_main": true
     }
   ]
