@@ -1,6 +1,6 @@
 {
-  "content_hash": "d418eb288e1965f5f6a7b982053af863af4cf0fdbdb1a3fa1c6ae6ac684dfa49",
-  "last_updated": "2026-09-02T00:47:22.063Z",
+  "content_hash": "a8487cddff185212869b4ed7a2f2ee1045d514a9e7442071738d7db1f930df41",
+  "last_updated": "2026-09-02T03:46:58.185Z",
   "premium": {
     "links": []
   },
@@ -71,7 +71,7 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
+      "estimated_articles_per_day": 1.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-01T13:45:17.000Z"
     },
@@ -164,7 +164,7 @@
       "lang": "ja",
       "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-02T00:00:53.000Z"
+      "latest_article_at": "2026-09-02T03:00:49.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "バルチックの手巻きクロノグラフ「スケールグラフ」が、装い新たにレギュラーコレクションで登場",
+      "url": "https://www.webchronos.net/news/171431/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/BT_cg_1.webp",
+      "peek_preview": "フランス発のウォッチブランド「バルチック」より、手巻きクロノグラフ「スケールグラフ」の新作が発表された。これまで限定モデルとして高い人気を集めてきた同モデルだが、今回ケースデザインやスペックを刷新し、待望のレギュラーコレ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-02T03:00:49.000Z",
+      "score_quality": 65,
+      "score_notif": 49,
+      "cluster": "20260902-9d8d564e1e9d",
+      "cluster_main": true
+    },
     {
       "title": "エンジェルクローバーより、アニメ『呪術廻戦』の放送5周年を記念したコラボウォッチが登場",
       "url": "https://www.webchronos.net/news/171358/",
@@ -326,7 +340,7 @@
       "published_at": "2026-09-01T14:05:11.000Z",
       "score_quality": 85,
       "score_notif": 48,
-      "cluster": "20260901-f370f9343803",
+      "cluster": "20260901-def61fe016ba",
       "cluster_main": true
     },
     {
@@ -704,8 +718,8 @@
       "published_at": "2026-09-01T10:00:25.000Z",
       "score_quality": 83,
       "score_notif": 48,
-      "cluster": "20260901-f370f9343803",
-      "cluster_main": false
+      "cluster": "20260901-aaa17d242fb5",
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -761,7 +775,7 @@
       "score_quality": 90,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Limited-Edition TAG Heuer Monza Flyback Chronograph Celebrates 50 Years Of Monza With A ‘Greatest Hits’ Watch Design",
@@ -786,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T09:00:00.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Chopard Revives its Classic Regulator with the New L.U.C 1963 Heritage Regulator",
@@ -803,7 +817,7 @@
       "score_quality": 84,
       "score_notif": 48,
       "cluster": "20260901-f370f9343803",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Ferdinand Berthoud Chronomètre FB 3SPC.4-1 in Black Ceramised Titanium",
@@ -870,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T06:00:02.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 45,
       "cluster": "20260901-166c2597690a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko Expands The Speedtimer Collection With Four New References",
@@ -915,7 +929,7 @@
       "score_quality": 82,
       "score_notif": 45,
       "cluster": "20260901-166c2597690a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "アメリカ発のプレジダスがノルマンディー上陸作戦をテーマとした新作を発表",
@@ -1108,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-31T14:00:52.000Z",
-      "score_quality": 75,
+      "score_quality": 77,
       "score_notif": 40,
       "cluster": "20260831-7538be516cb9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Pair Of Glashütte Original Senator Chronographs Inspired By The Past",
@@ -1153,7 +1167,7 @@
       "score_quality": 76,
       "score_notif": 40,
       "cluster": "20260831-7538be516cb9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Hands-on with the Amazing Rexhep Rexhepi Chrono Flyback",
@@ -1769,20 +1783,6 @@
       "score_quality": 58,
       "score_notif": 67,
       "cluster": "20260828-c6b2e1342d38",
-      "cluster_main": true
-    },
-    {
-      "title": "ジャガー・ルクルトが銀座・並木通りに新たなフラッグシップブティックをオープン",
-      "url": "https://www.webchronos.net/news/170858/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/JL_ginzaboutique_1.webp",
-      "peek_preview": "ジャガー・ルクルトは2026年8月20日（木）、東京・銀座の並木通りに新たなフラッグシップブティックをオープンした。同社のマニュファクチュールが位置する、スイス・ジュウ渓谷の豊かな自然をテーマとした店舗内では、日本初とな […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-08-28T03:00:09.000Z",
-      "score_quality": 60,
-      "score_notif": 22,
-      "cluster": "20260828-8b50eaa7fa22",
       "cluster_main": true
     },
     {
