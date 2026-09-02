@@ -1,6 +1,6 @@
 {
-  "content_hash": "f0fc41be2e55a25d2cc34904d92047311aa98b941282670419f814317c8ce846",
-  "last_updated": "2026-09-02T15:47:21.203Z",
+  "content_hash": "c94743d74a11c9cf31012e6292551aeaedffe09038476e51a3ebbd6218b501b2",
+  "last_updated": "2026-09-02T16:47:12.282Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-02T12:00:00.000Z"
+      "estimated_articles_per_day": 3.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-02T16:00:57.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -24,12 +24,12 @@
       "lang": "en",
       "estimated_articles_per_day": 3.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-02T15:00:53.000Z"
+      "latest_article_at": "2026-09-02T16:01:54.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
+      "estimated_articles_per_day": 1.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T07:06:45.000Z"
     },
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-02T15:42:57.000Z"
+      "latest_article_at": "2026-09-02T16:07:11.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T15:36:20.000Z"
     },
     {
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Introducing: The H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition",
+      "url": "https://www.hodinkee.com/articles/introducing-moser-streamliner-alpine",
+      "image": "https://hodinkee.imgix.net/uploads/images/f9a300a4-1e6f-4f69-b7e6-f4451ae662a5/HMoser_6814-2100_Streamliner_Tourbillon_Skeleton_Ceramic_Alpine_Limited_Edition__Lifestyle.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The two brands extend their partnership with a new take on the Streamliner.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T16:07:11.000Z",
+      "score_quality": 84,
+      "score_notif": 58,
+      "cluster": "20260902-76eaf6833984",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing – H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition",
+      "url": "https://monochrome-watches.com/moser-streamliner-tourbillon-skeleton-ceramic-alpine-limited-edition-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/H-Moser-Cie-Streamliner-Tourbillon-Skeleton-Ceramic-Alpine-Limited-Edition-1-600x237.jpg",
+      "peek_preview": "H. Moser & Cie. and Alpine Motorsports continue their collaboration with a new creation, following the Streamliner Cylindrical Tourbillon Skeleton Alpine Limited Edition and the more performance-oriented Alpine Drivers...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T16:01:54.000Z",
+      "score_quality": 86,
+      "score_notif": 58,
+      "cluster": "20260902-76eaf6833984",
+      "cluster_main": true
+    },
+    {
+      "title": "A Ceramic Makeover For The H. Moser & Cie. Streamliner Tourbillon Skeleton — An Alpine Limited Edition",
+      "url": "https://www.fratellowatches.com/new-h-moser-cie-streamliner-tourbillon-skeleton-alpine-limited-edition/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/HMoser_6814-2100_Streamliner_Tourbillon_Skeleton_Ceramic_Alpine_Limited_Edition__Lifestyle_front.jpg",
+      "peek_preview": "There is something particularly Moser about taking a watch already built around an absurd amount of visible mechanics and deciding that what it really needs is a ceramic case. Today, I’m taking a look at the new H. Mose...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-02T16:00:57.000Z",
+      "score_quality": 78,
+      "score_notif": 58,
+      "cluster": "20260902-76eaf6833984",
+      "cluster_main": false
+    },
+    {
       "title": "Introducing: The Doxa Sub 300 Ti5",
       "url": "https://www.hodinkee.com/articles/the-doxa-sub-300-ti5",
       "image": "https://hodinkee.imgix.net/uploads/images/96c61174-2ab5-42ce-bcea-df4c2a79baa7/DoxaTI.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -183,7 +225,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "featured": false,
-      "published_at": "2026-09-02T15:42:57.000Z",
+      "published_at": "2026-09-02T15:42:00.000Z",
       "score_quality": 78,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
@@ -436,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:00.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -481,7 +523,7 @@
       "score_quality": 87,
       "score_notif": 55,
       "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Dominique Renaud Pulse 60 | Hands-on",
@@ -694,20 +736,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – The Bulgari Octo Finissimo Dual Time x Vianney Halter, An Antiqua-Inspired Take on Ultra-Thin (Incl. Video)",
-      "url": "https://monochrome-watches.com/bulgari-octo-finissimo-dual-time-x-vianney-halter-antiqua-inspired-video-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/bulgari-octo-finissimo-dual-time-x-vianney-halter-antiqua-inspired-video-review-1-600x237.jpg",
-      "peek_preview": "For Geneva Watch Days 2026, Italian brand Bulgari and independent watchmaker Vianney Halter joined forces to bring us one of the most distinctive interpretations of the Octo Finissimo to date. Seen at a glance, the infl...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T07:10:05.000Z",
-      "score_quality": 87,
-      "score_notif": 68,
-      "cluster": "20260902-83b44fc260ad",
-      "cluster_main": true
-    },
-    {
       "title": "The Design Lover’s Light-Powered Watch: Review Of The Citizen Photon Eco-Drive 50th Anniversary Limited Edition",
       "url": "https://www.ablogtowatch.com/the-design-lovers-light-powered-watch-review-of-the-citizen-photon-eco-drive-50th-anniversary-limited-edition/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Citizen-Eco-Drive-Photon-BJ6569-59X-watch-13-768x346.jpg",
@@ -820,20 +848,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: The Oris ProPilot X Gonzo Edition (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/the-oris-propilot-x-gonzo-edition-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/bf1834ad-1048-43f7-9c5e-6e4d4611ad1a/tan2h-oris-gonzo-edition-06496-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "And for his next stunt, the Great Gonzo will attempt to make his way onto a ProPilot X.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:03.000Z",
-      "score_quality": 88,
-      "score_notif": 55,
-      "cluster": "20260902-05f797be2ac3",
-      "cluster_main": true
-    },
-    {
       "title": "Frederique Constant Highlife Moonphase Date Manufacture: novità dei Geneva Watch Days 2026",
       "url": "https://www.orologidiclasse.com/frederique-constant-highlife-moonphase-date-2026/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/frederique-constant-highlife-moonphase-date-2026-foto-copertina.jpg",
@@ -873,7 +887,7 @@
       "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1122,10 +1136,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T13:45:17.000Z",
-      "score_quality": 83,
+      "score_quality": 87,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bulova Shelby Racer Chronograph 96K118: l’alluminio della Daytona Coupe al polso",
@@ -1209,7 +1223,7 @@
       "score_quality": 86,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tudor Launches New Northflag With GMT Function",
@@ -1276,10 +1290,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T11:19:38.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 58,
       "cluster": "20260831-05b357674528",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Classics Moneta Handwinding: l’addio al quarzo di Frederique Constant",
@@ -1318,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:10:44.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alto refines the concept with the integrated bracelet ART 02",
@@ -1335,7 +1349,7 @@
       "score_quality": 82,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Miroir Image: Berneron Inverts the Mirage",
@@ -1346,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:00:44.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Movement Is The Dial: The Berneron Mirage Miroir In White And Yellow Gold",
@@ -1363,7 +1377,7 @@
       "score_quality": 92,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -1402,10 +1416,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T09:01:43.000Z",
-      "score_quality": 75,
+      "score_quality": 79,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Limited-Edition TAG Heuer Monza Flyback Chronograph Celebrates 50 Years Of Monza With A ‘Greatest Hits’ Watch Design",
@@ -1419,20 +1433,6 @@
       "score_quality": 78,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": true
-    },
-    {
-      "title": "Murphy Cooper’s Choice: The Hamilton Khaki Field Murph 38mm With A New Blue Dial",
-      "url": "https://www.fratellowatches.com/murphy-coopers-choice-the-hamilton-khaki-field-murph-38mm-with-a-new-blue-dial/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Hamilton-murph-blue-dial-38-H70405140-3.jpg",
-      "peek_preview": "I bet that, if given a choice, Murphy Cooper would wear a different watch. In Christopher Nolan’s Interstellar (2014), “Murph” wears a black-dial watch with vintage elements, like cathedral hands, and probably a 42mm ca...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T08:00:46.000Z",
-      "score_quality": 72,
-      "score_notif": 45,
-      "cluster": "20260901-166c2597690a",
       "cluster_main": false
     },
     {
@@ -1727,7 +1727,7 @@
       "score_quality": 83,
       "score_notif": 58,
       "cluster": "20260831-05b357674528",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "シャネル「プルミエール」より、華やかなトーンの「アイコニック チェーン ゴールデンブラウン」が数量限定で登場",
