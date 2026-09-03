@@ -1,6 +1,6 @@
 {
-  "content_hash": "462c1c8ca9863b5d77b03ed814fe19a124a16b629523322329d8b2d527c2ba4e",
-  "last_updated": "2026-09-03T16:47:34.473Z",
+  "content_hash": "f7da9c6ec51990853b42ad01158af826360ef6cd26f1b3b02255ee0c94a7858a",
+  "last_updated": "2026-09-03T17:47:17.717Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T13:00:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-03T17:00:27.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T16:00:00.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 3,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T15:55:55.000Z"
     },
     {
@@ -243,7 +243,7 @@
       "score_quality": 84,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Hamilton Murph 38mm enters a new dimension with a cosmic blue dial",
@@ -282,10 +282,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T14:00:00.000Z",
-      "score_quality": 78,
+      "score_quality": 85,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
@@ -424,8 +424,8 @@
       "published_at": "2026-09-03T10:47:00.000Z",
       "score_quality": 55,
       "score_notif": 36,
-      "cluster": "20260903-5c3f4ab9a6ac",
-      "cluster_main": true
+      "cluster": "20260903-c05e05425407",
+      "cluster_main": false
     },
     {
       "title": "First Look – The Alpina Seastrong Diver Extreme Automatic Route du Rhum in Turquoise",
@@ -663,7 +663,7 @@
       "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Akhor Brings Rare Stones on its AK-10 Stromatolite and AK-10 Maw Sit Sit",
@@ -957,7 +957,7 @@
       "score_quality": 67,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Goes Back to Basics with Its First Time-Only Chronomaster",
@@ -1013,7 +1013,7 @@
       "score_quality": 80,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1024,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:17.000Z",
-      "score_quality": 72,
+      "score_quality": 81,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor 39",
@@ -1220,10 +1220,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-02T08:00:00.000Z",
-      "score_quality": 61,
+      "score_quality": 68,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Chronomaster Solo Sport: Chronomaster ohne Chrono",
@@ -1360,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:01.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 42,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Gerald Charles Masterlink Atelier Edition: Update with Hands-on",
@@ -1503,7 +1503,7 @@
       "score_quality": 93,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward Introduces the new Biscay Dive Watch Collection",
@@ -1710,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T12:03:47.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "M.A.D.Editions unviels its new M.A.D.3 Vincent Calabrese – and it may be the brand’s best yet",
@@ -1797,7 +1797,7 @@
       "score_quality": 85,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Alto refines the concept with the integrated bracelet ART 02",
@@ -1808,10 +1808,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:00:50.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -1824,8 +1824,8 @@
       "published_at": "2026-09-01T09:30:09.000Z",
       "score_quality": 68,
       "score_notif": 66,
-      "cluster": "20260901-503d52df9c76",
-      "cluster_main": false
+      "cluster": "20260901-fdea9e37eefb",
+      "cluster_main": true
     },
     {
       "title": "Before Geneva Watch Days Go Inside Watch Week Aspen",
@@ -1839,20 +1839,6 @@
       "score_quality": 26,
       "score_notif": 22,
       "cluster": "20260901-cb12ad397537",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: The Limited-Edition TAG Heuer Monza Flyback Chronograph Celebrates 50 Years Of Monza With A ‘Greatest Hits’ Watch Design",
-      "url": "https://www.ablogtowatch.com/new-release-the-limited-edition-tag-heuer-monza-flyback-chronograph-celebrates-50-years-of-monza-with-a-greatest-hits-watch-design/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/TAG-Heuer-Monza-Flyback-Chronograph-LOR-Crop-1-768x346.jpg",
-      "peek_preview": "It’s always a special moment when a new TAG Heuer Monza gets announced. Unlike brand mainstays such as the Monaco and the Carrera, the historic Monza nameplate is a fleeting inclusion in TAG Heuer’s catalog, only appear...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T09:00:06.000Z",
-      "score_quality": 86,
-      "score_notif": 66,
-      "cluster": "20260901-503d52df9c76",
       "cluster_main": true
     }
   ]
