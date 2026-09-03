@@ -1,6 +1,6 @@
 {
-  "content_hash": "3c6dacfb8e41fa0e73a027a8a5c39fc30eddb969287aa57a262971d7101ee8e7",
-  "last_updated": "2026-09-03T05:47:06.655Z",
+  "content_hash": "3fe646da5af8880fee6b7f67d4d3e4c1e8c428342e355393d20607e84b5d09e1",
+  "last_updated": "2026-09-03T06:48:02.162Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T05:00:35.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T05:30:00.000Z"
     },
     {
@@ -243,20 +243,6 @@
       "score_quality": 73,
       "score_notif": 66,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
-    },
-    {
-      "title": "The Louis Vuitton Monterey Ceramic Returns",
-      "url": "https://watchesbysjx.com/2026/09/louis-vuitton-monterey-ceramic.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Louis-Vuitton-Monterey-ceramic-black-1-300x200.jpg",
-      "peek_preview": "Having remade – and refined – its first-ever wristwatch, Louis Vuitton now does the same for the second. The Monterey Ceramic is a reimagining of the LV II of 1988, preserving the Gae Aulenti-designed case and dial but...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T01:00:13.000Z",
-      "score_quality": 78,
-      "score_notif": 52,
-      "cluster": "20260903-83f8266bad79",
       "cluster_main": true
     },
     {
@@ -383,7 +369,7 @@
       "score_quality": 85,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Navitimer Miles Davis: 500 pezzi ai Geneva Watch Days 2026",
@@ -408,10 +394,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T15:00:53.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Oris ProPilot Bronze",
@@ -452,8 +438,8 @@
       "published_at": "2026-09-02T14:00:10.000Z",
       "score_quality": 69,
       "score_notif": 66,
-      "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": false
+      "cluster": "20260902-b1878d65c6ea",
+      "cluster_main": true
     },
     {
       "title": "De Bethune DB25 Digitale: ore saltanti e luna sferica per contemplare il tempo",
@@ -956,8 +942,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster": "20260902-9c06b90d3bf0",
+      "cluster_main": true
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1416,10 +1402,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T11:19:38.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 58,
       "cluster": "20260831-05b357674528",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Classics Moneta Handwinding: l’addio al quarzo di Frederique Constant",
@@ -1528,10 +1514,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T09:01:43.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Limited-Edition TAG Heuer Monza Flyback Chronograph Celebrates 50 Years Of Monza With A ‘Greatest Hits’ Watch Design",
@@ -1545,7 +1531,7 @@
       "score_quality": 82,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Citizen Promaster Skyhawk and Tsuno Chrono",
@@ -1839,7 +1825,7 @@
       "score_quality": 85,
       "score_notif": 58,
       "cluster": "20260831-05b357674528",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "シャネル「プルミエール」より、華やかなトーンの「アイコニック チェーン ゴールデンブラウン」が数量限定で登場",
@@ -1853,6 +1839,20 @@
       "score_quality": 56,
       "score_notif": 29,
       "cluster": "20260831-1274ca445fe4",
+      "cluster_main": true
+    },
+    {
+      "title": "Insight: The Keyless Works",
+      "url": "https://watchesbysjx.com/2026/08/keyless-works-explained.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/02/daniel-roth-extra-plat-skeleton-movement-detail-4-300x200.jpg",
+      "peek_preview": "Having previously examined concepts related to energy flow inside watch movements, from automatic winding to barrel capacity and gear tooth profiles, we now turn and look at how energy enters the movement through the ke...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-08-31T01:00:55.000Z",
+      "score_quality": 83,
+      "score_notif": 12,
+      "cluster": "20260831-3ca217e3d9b9",
       "cluster_main": true
     }
   ]
