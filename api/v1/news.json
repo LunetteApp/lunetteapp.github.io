@@ -1,6 +1,6 @@
 {
-  "content_hash": "8a54123787a278ce27152271b5bb5ff8ebe1b9a58c381da7c27665eae562dee0",
-  "last_updated": "2026-09-03T18:47:13.525Z",
+  "content_hash": "10035a3fdef2a77c39f0a87a0d88143052412702e60ad4276e3c230507438f76",
+  "last_updated": "2026-09-03T19:47:33.698Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T17:00:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-03T19:00:38.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T18:00:27.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Review: the H. Moser Pioneer Centre Seconds Arctic Blue",
+      "url": "https://wornandwound.com/review/review-the-h-moser-pioneer-centre-seconds-arctic-blue/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/2026_07_HMoser_Pioneer40_02_WR.jpg",
+      "peek_preview": "Ask me on any random day to name my favorite indie watchmaker, and there’s a pretty good chance I’m likely to respond with H. Moser. They are all the things I like, in or out of watches: kind of provocative, colorful, a...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T19:00:38.000Z",
+      "score_quality": 77,
+      "score_notif": 16,
+      "cluster": "20260903-5fb1b1be2a20",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Armin Strom Dual Time GMT Resonance Manufacture Edition Blue",
       "url": "https://monochrome-watches.com/armin-strom-dual-time-gmt-resonance-manufacture-edition-blue-introducing-price/",
@@ -396,8 +410,8 @@
       "published_at": "2026-09-03T11:42:06.000Z",
       "score_quality": 27,
       "score_notif": 68,
-      "cluster": "20260903-0f603c8c5a58",
-      "cluster_main": true
+      "cluster": "20260903-6bddd0aa2921",
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex To Sell Four Unique Daytonas At Auction Later This Month To Benefit The Federer Foundation And Re:wild",
@@ -957,7 +971,7 @@
       "score_quality": 69,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Goes Back to Basics with Its First Time-Only Chronomaster",
@@ -1220,10 +1234,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-02T08:00:00.000Z",
-      "score_quality": 68,
+      "score_quality": 70,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Chronomaster Solo Sport: Chronomaster ohne Chrono",
@@ -1503,7 +1517,7 @@
       "score_quality": 95,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward Introduces the new Biscay Dive Watch Collection",
@@ -1626,10 +1640,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T13:45:17.000Z",
-      "score_quality": 89,
+      "score_quality": 96,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bulova Shelby Racer Chronograph 96K118: l’alluminio della Daytona Coupe al polso",
@@ -1794,10 +1808,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:10:44.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alto refines the concept with the integrated bracelet ART 02",
@@ -1811,7 +1825,7 @@
       "score_quality": 86,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -1824,8 +1838,8 @@
       "published_at": "2026-09-01T09:30:09.000Z",
       "score_quality": 68,
       "score_notif": 46,
-      "cluster": "20260901-7ef82c652d09",
-      "cluster_main": false
+      "cluster": "20260901-fdea9e37eefb",
+      "cluster_main": true
     },
     {
       "title": "Before Geneva Watch Days Go Inside Watch Week Aspen",
@@ -1839,20 +1853,6 @@
       "score_quality": 26,
       "score_notif": 22,
       "cluster": "20260901-cb12ad397537",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: The Limited-Edition TAG Heuer Monza Flyback Chronograph Celebrates 50 Years Of Monza With A ‘Greatest Hits’ Watch Design",
-      "url": "https://www.ablogtowatch.com/new-release-the-limited-edition-tag-heuer-monza-flyback-chronograph-celebrates-50-years-of-monza-with-a-greatest-hits-watch-design/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/TAG-Heuer-Monza-Flyback-Chronograph-LOR-Crop-1-768x346.jpg",
-      "peek_preview": "It’s always a special moment when a new TAG Heuer Monza gets announced. Unlike brand mainstays such as the Monaco and the Carrera, the historic Monza nameplate is a fleeting inclusion in TAG Heuer’s catalog, only appear...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T09:00:06.000Z",
-      "score_quality": 69,
-      "score_notif": 46,
-      "cluster": "20260901-7ef82c652d09",
       "cluster_main": true
     }
   ]
