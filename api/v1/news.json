@@ -1,6 +1,6 @@
 {
-  "content_hash": "e39f992901ca625c6e92895a5cc78124262346ee5e49fd545c1a789ad8759783",
-  "last_updated": "2026-09-03T09:47:22.877Z",
+  "content_hash": "ca062096aebe132cf7f03c6e31609b92bed6710b1153ce2714a0c54097fb06bd",
+  "last_updated": "2026-09-03T10:47:35.621Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T08:30:13.000Z"
     },
@@ -24,7 +24,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.9,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-03T09:00:25.000Z"
+      "latest_article_at": "2026-09-03T10:30:06.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -59,7 +59,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-03T09:33:22.000Z"
+      "latest_article_at": "2026-09-03T10:08:03.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T08:51:58.000Z"
     },
     {
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-02T08:00:00.000Z"
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-09-03T07:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The Alpina Seastrong Diver Extreme Automatic Route du Rhum in Turquoise",
+      "url": "https://monochrome-watches.com/first-look-alpina-seastrong-diver-extreme-automatic-route-du-rhum-specs-price-review/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Alpina-Seastrong-Diver-Extreme-Automatic-Route-du-Rhum-Featured-600x237.jpg",
+      "peek_preview": "After recent releases like the Startimer Pilot IFR Chronograph and the slimmer Startimer Pilot Automatic models, Alpina is back with a new watch. The all-new Seastrong Diver Extreme Automatic Route du Rhum edition is an...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T10:30:06.000Z",
+      "score_quality": 74,
+      "score_notif": 36,
+      "cluster": "20260903-c05e05425407",
+      "cluster_main": true
+    },
+    {
+      "title": "Live from GWD26: L. Leroy Vox Temporis Minute Repeater Flying Tourbillon | Hands-on Impressions",
+      "url": "https://deployant.com/live-from-gwd26-l-leroy-vox-temporis-minute-repeater-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-l-leroy-vox-temporis-minute-repeater-hands-on-impressions",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0515-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Next up, also an video interview session with Hugo Lessiza, CEO of L.Leroy. But first my hands-on impressions on this GPHG nominee of the Vox Temporis Minute...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T10:08:03.000Z",
+      "score_quality": 82,
+      "score_notif": 49,
+      "cluster": "20260902-bda4ce8452f6",
+      "cluster_main": true
+    },
     {
       "title": "Live from WWG26: Perrelet | Hands-on Impression",
       "url": "https://deployant.com/live-from-wwg26-perrelet-hands-on-impression/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-wwg26-perrelet-hands-on-impression",
@@ -270,8 +298,8 @@
       "published_at": "2026-09-03T08:30:02.000Z",
       "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260903-118b32479a6d",
-      "cluster_main": true
+      "cluster": "20260903-216dfaea4791",
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -284,8 +312,8 @@
       "published_at": "2026-09-03T08:30:01.000Z",
       "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260903-6bddd0aa2921",
-      "cluster_main": true
+      "cluster": "20260903-216dfaea4791",
+      "cluster_main": false
     },
     {
       "title": "Hands-on: Greubel Forsey Balancier GMT Convexe | Video and Live Photographs",
@@ -312,8 +340,8 @@
       "published_at": "2026-09-03T08:30:00.000Z",
       "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260903-216dfaea4791-2",
-      "cluster_main": true
+      "cluster": "20260903-216dfaea4791",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Gallet Revives Vintage Fan-Favorites With New \"Classics\" Multichrons",
@@ -326,8 +354,8 @@
       "published_at": "2026-09-03T08:30:00.000Z",
       "score_quality": 67,
       "score_notif": 68,
-      "cluster": "20260903-d15397f7d929",
-      "cluster_main": true
+      "cluster": "20260903-216dfaea4791",
+      "cluster_main": false
     },
     {
       "title": "Insider: De Bethune DB25 Digitale—The Delta Bridge Gets Its First Wave Decoration",
@@ -341,7 +369,7 @@
       "score_quality": 80,
       "score_notif": 55,
       "cluster": "20260902-0ded27d018c4",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Speake-Marin Tourbillon Royal Blue—Five Pieces Only at Geneva Watch Days",
@@ -355,7 +383,7 @@
       "score_quality": 83,
       "score_notif": 39,
       "cluster": "20260902-17a5ba08b768",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Vuitton Escale Twin Zone Watches Hands-On: Clever Double 12-Hour Time Zone Dial",
@@ -412,6 +440,20 @@
       "score_notif": 21,
       "cluster": "20260903-092192a163b3",
       "cluster_main": true
+    },
+    {
+      "title": "Breitling celebra Miles Davis con il nuovo Navitimer B09",
+      "url": "https://italianwatchspotter.com/breitling-miles-davis-navitimer/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/IMG_0284-1024x683-1.jpeg",
+      "peek_preview": "La collezione Breitling Navitimer si espande con un nuovo capitolo dedicato a una delle figure più importanti della storia del jazz. In occasione del centenario della nascita di Miles Davis, al Geneva Watch Days 2026, B...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-03T07:00:00.000Z",
+      "score_quality": 58,
+      "score_notif": 50,
+      "cluster": "20260902-563386bb6f5d",
+      "cluster_main": false
     },
     {
       "title": "Daniel Roth’s Gilty Pleasure",
@@ -926,10 +968,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T09:07:09.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 39,
       "cluster": "20260902-17a5ba08b768",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Striking a chord: The L.Leroy Vox Temporis swaps a minute hand for a minute repeater",
@@ -941,23 +983,9 @@
       "featured": false,
       "published_at": "2026-09-02T09:00:36.000Z",
       "score_quality": 72,
-      "score_notif": 48,
+      "score_notif": 49,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Trilobe Releases the Chateau Trente-Deux with a Burgundy dial",
-      "url": "https://monochrome-watches.com/trilobe-chateau-trente-deux-with-a-burgundy-dial-integrated-sports-watch-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Trilobe-Chateau-Trente-Deux-Integrated-Sports-Watch-Burgundy-dial-6-600x237.jpg",
-      "peek_preview": "Founded by Gautier Massonneau in 2018, Trilobe is a French brand distinguished by its hand-free displays. Instead of traditional hands, Trilobe uses three rotating rings that align with fixed markings to display time in...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T09:00:03.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20260902-6143177b54de",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new Gerald Charles Masterlink Atelier Edition introduces hand-hammered Maillechort dials",
@@ -968,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T08:01:07.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Doxa Sub 300 Ti5 In Grade 5 Titanium Joins The Brand’s Regular Collection",
@@ -1124,8 +1152,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-9c06b90d3bf0",
-      "cluster_main": true
+      "cluster": "20260902-05f797be2ac3",
+      "cluster_main": false
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1181,7 +1209,7 @@
       "score_quality": 83,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1198,9 +1226,23 @@
       "cluster_main": false
     },
     {
+      "title": "Il nuovo Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor 39 mm",
+      "url": "https://italianwatchspotter.com/girard-perregaux-laureato-fifty-tourbillon/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-28-1024x682.png",
+      "peek_preview": "Nel 2025 Girard-Perregaux ha celebrato i cinquant’anni del Laureato, intervenendo prima di tutto sulle proporzioni. Il Laureato Fifty, realizzato in 200 esemplari, riportava infatti la cassa a 39 millimetri, rivedendo i...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-02T07:00:00.000Z",
+      "score_quality": 61,
+      "score_notif": 55,
+      "cluster": "20260902-5f80741b22c2",
+      "cluster_main": false
+    },
+    {
       "title": "ZENITH CHRONOMASTER Solo Sport: l’essenza dell’alta frequenza",
       "url": "https://italianwatchspotter.com/i-nuovi-zenith-chronomaster-solo-sport/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/2-STILL-2_CHRONOMASTER-Solo-Sport_03.5000.3620.22.M5000_16x9-1024x576.jpg",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/IWS02347-1024x683.jpg",
       "peek_preview": "Dal 1969 pronunciare El Primero significa evocare quasi inevitabilmente il cronografo. Pulsanti, contatori, alta frequenza e quella capacità di misurare il tempo che ha consegnato il celebre calibro di ZENITH alla stori...",
       "source_name": "Italian Watch Spotter",
       "lang": "it",
@@ -1248,10 +1290,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T06:00:10.000Z",
-      "score_quality": 75,
+      "score_quality": 81,
       "score_notif": 55,
       "cluster": "20260902-0ded27d018c4",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "バルチックの手巻きクロノグラフ「スケールグラフ」が、装い新たにレギュラーコレクションで登場",
@@ -1811,48 +1853,6 @@
       "score_quality": 74,
       "score_notif": 48,
       "cluster": "20260831-805f324d6578",
-      "cluster_main": true
-    },
-    {
-      "title": "Tissot PRX : la montre culte se refait une beauté en violet",
-      "url": "https://www.welovewatches.fr/tissot-prx-la-montre-culte-se-refait-une-beaute-en-violet.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/08/presentation-tissot-prx-cadran-violet-t1374101140100.jpg",
-      "peek_preview": "La Tissot PRX est l'une de ces montres qui n'a plus besoin de se présenter... Depuis son retour triomphal en 2021, elle s'est imposée comme l'une des références sport-chic les plus désirables du marché sous...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-08-31T14:27:48.000Z",
-      "score_quality": 55,
-      "score_notif": 34,
-      "cluster": "20260831-72776df61546",
-      "cluster_main": true
-    },
-    {
-      "title": "A Pair Of Glashütte Original Senator Chronographs Inspired By The Past",
-      "url": "https://www.ablogtowatch.com/a-pair-of-glashutte-original-senator-chronographs-inspired-by-the-past/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Glashutte-Original-Senator-Chronograph-and-Navigator-768x334.jpg",
-      "peek_preview": "A century ago, Glashütte’s watchmakers were confronting a fundamental change in how people told time. The Saxon town had built its reputation on precision pocket watches, but by the 1920s, demand was shifting decisively...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-31T14:00:22.000Z",
-      "score_quality": 87,
-      "score_notif": 48,
-      "cluster": "20260831-4381fe6e2b01",
-      "cluster_main": true
-    },
-    {
-      "title": "Gagà Laboratorio Labormatic Superleggero: il nuovo volto in titanio della collezione",
-      "url": "https://italianwatchspotter.com/gaga-laboratorio-labormatic-superleggero/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/08/image-66-791x1024.png",
-      "peek_preview": "Un Labormatic si riconosce a colpo d’occhio: la costruzione del quadrante, l’indicazione periferica delle ore, la grande sfera centrale dei minuti e quell’inconfondibile cassa dalle proporzioni generose. Sono i codici c...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-31T14:00:00.000Z",
-      "score_quality": 78,
-      "score_notif": 40,
-      "cluster": "20260831-89be45b928e1",
       "cluster_main": true
     }
   ]
