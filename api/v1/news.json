@@ -1,6 +1,6 @@
 {
-  "content_hash": "5bccae64c0c238df702ebc1fc8fb434741c265d1e6882242660da04594ae38f7",
-  "last_updated": "2026-09-03T00:47:02.858Z",
+  "content_hash": "50e44b0da29e3654ba657ded14e197c2bc8d7ffa74cabc697256db35ec27aeca",
+  "last_updated": "2026-09-03T01:47:04.373Z",
   "premium": {
     "links": []
   },
@@ -29,9 +29,9 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-02T07:06:45.000Z"
+      "estimated_articles_per_day": 1.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-03T01:00:29.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
+      "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-03T00:00:41.000Z"
+      "latest_article_at": "2026-09-03T01:00:13.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T00:00:02.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Bulgari Octo Finissimo Dual Time x Vianney Halter Watch Opens New Boundaries",
+      "url": "https://www.ablogtowatch.com/bulgari-octo-finissimo-dual-time-x-vianney-halter-watch-opens-new-boundaries/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Bulgari-Octo-Finissimo-Dual-Time-x-Vianney-Halter-30-768x346.jpg",
+      "peek_preview": "At this point in time, the global community of watch enthusiasts is well aware of Bulgari’s successful transformation into a vertically integrated watch manufacture, one that takes full creative advantage of operating i...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T01:00:29.000Z",
+      "score_quality": 73,
+      "score_notif": 66,
+      "cluster": "20260902-9110617fa7f9",
+      "cluster_main": true
+    },
+    {
+      "title": "The Louis Vuitton Monterey Ceramic Returns",
+      "url": "https://watchesbysjx.com/2026/09/louis-vuitton-monterey-ceramic.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Louis-Vuitton-Monterey-ceramic-black-1-300x200.jpg",
+      "peek_preview": "Having remade – and refined – its first-ever wristwatch, Louis Vuitton now does the same for the second. The Monterey Ceramic is a reimagining of the LV II of 1988, preserving the Gae Aulenti-designed case and dial but...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T01:00:13.000Z",
+      "score_quality": 78,
+      "score_notif": 52,
+      "cluster": "20260903-83f8266bad79",
+      "cluster_main": true
+    },
     {
       "title": "Beyond the Familiar: A History of A. Lange & Söhne’s 1815 Collection",
       "url": "https://watchesbysjx.com/2026/09/a-lange-sohne-1815-collection-highlights.html",
@@ -227,9 +255,9 @@
       "featured": false,
       "published_at": "2026-09-02T18:00:57.000Z",
       "score_quality": 72,
-      "score_notif": 64,
+      "score_notif": 66,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Bulgari Titanio, The Titanium Evolution of the Aluminium Collection",
@@ -772,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:40:06.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Chronomaster Solo Sport: Chronomaster ohne Chrono",
@@ -901,7 +929,7 @@
       "score_quality": 87,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Frederique Constant Highlife Moonphase Date Manufacture: novità dei Geneva Watch Days 2026",
@@ -1419,7 +1447,7 @@
       "score_quality": 93,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Movement Is The Dial: The Berneron Mirage Miroir In White And Yellow Gold",
@@ -1430,10 +1458,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:00:35.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 47,
       "cluster": "20260901-628e3cca4f37",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -1825,34 +1853,6 @@
       "score_quality": 62,
       "score_notif": 41,
       "cluster": "20260831-82c37d4ba135",
-      "cluster_main": true
-    },
-    {
-      "title": "Bangkok Watch Week 2026: Siam Paragon Hosts Global Luxury Timepieces",
-      "url": "https://deployant.com/bangkok-watch-week-2026-siam-paragon-hosts-global-luxury-timepieces/?utm_source=rss&utm_medium=rss&utm_campaign=bangkok-watch-week-2026-siam-paragon-hosts-global-luxury-timepieces",
-      "image": "https://deployant.com/wp-content/uploads/2026/08/Siam-Paragon-1024x576-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The global watch community turns its eyes to Thailand from September 22–27 2026 once again, as the highly anticipated Siam Paragon Bangkok Watch Week makes it...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-30T13:30:00.000Z",
-      "score_quality": 46,
-      "score_notif": 18,
-      "cluster": "20260830-ded48f92e7e9",
-      "cluster_main": true
-    },
-    {
-      "title": "What are we waiting for?",
-      "url": "https://www.unpolishedwatches.com/p/what-are-we-waiting-for",
-      "image": "https://substackcdn.com/image/fetch/$s_!x5KZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28f3a5cc-4cd3-44bf-806d-9cb042aee47c_2048x1365.jpeg",
-      "peek_preview": "AnOrdain's new porcelain dial is as good as the enamel I've been waiting for since 2024. Plus: Kiwame's ownership, IWC layoffs, and Wired gets corrected.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-30T12:10:30.000Z",
-      "score_quality": 16,
-      "score_notif": 3,
-      "cluster": "20260830-78967242e064",
       "cluster_main": true
     }
   ]
