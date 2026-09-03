@@ -1,6 +1,6 @@
 {
-  "content_hash": "1e498712ef99d6d12660616a92f2c3c65bb8eeccf5d606c1392b4d08f53da70c",
-  "last_updated": "2026-09-03T08:47:22.257Z",
+  "content_hash": "e39f992901ca625c6e92895a5cc78124262346ee5e49fd545c1a789ad8759783",
+  "last_updated": "2026-09-03T09:47:22.877Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T08:30:13.000Z"
     },
     {
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T07:00:42.000Z"
+      "estimated_articles_per_day": 3.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-03T09:00:25.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T08:30:03.000Z"
     },
     {
@@ -59,27 +59,27 @@
       "lang": "en",
       "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-03T08:30:00.000Z"
+      "latest_article_at": "2026-09-03T09:33:22.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 4,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T08:30:02.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T07:01:21.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T08:30:16.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.1,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-03T08:09:52.000Z"
+      "latest_article_at": "2026-09-03T08:51:58.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Live from WWG26: Perrelet | Hands-on Impression",
+      "url": "https://deployant.com/live-from-wwg26-perrelet-hands-on-impression/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-wwg26-perrelet-hands-on-impression",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0511-Large-1200x675.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Perrelet releases more new watches with stone dials in their Weekend collection. We had a hands-on session as well as a chat with CEO Hugo Lesizza. Here is ou...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T09:33:22.000Z",
+      "score_quality": 62,
+      "score_notif": 41,
+      "cluster": "20260903-23acc8a665ce",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Czapek Inaugurates its Quai des Bergues 27 Boutique with Special Editions of the Quai des Bergues and Place Vendôme Complicité",
+      "url": "https://monochrome-watches.com/czapek-inaugurates-its-quai-des-bergues-27-boutique-with-special-editions-of-the-quai-des-bergues-and-place-vendome-complicite/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Czapek-Place-Vendome-Complicite-Glacier-Blue-Boutique-Exclusive-Featured-600x237.jpg",
+      "peek_preview": "Coinciding with Geneva Watch Days, Czapek & Cie opens a new flagship boutique at Quai des Bergues 27, a symbolic address for the brand where, in 1839, François Czapek and Polish émigré Antoni Patek laid the foundations...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T09:00:25.000Z",
+      "score_quality": 87,
+      "score_notif": 46,
+      "cluster": "20260901-f0a4ef5bc556",
+      "cluster_main": true
+    },
+    {
+      "title": "Insider: M.A.D.Editions M.A.D. 3 Vincent Calabrese—Watchmaking's Troublemaker Enters the Raffle",
+      "url": "https://www.watchcollectinglifestyle.com/home/mad-editions-mad-3-vincent-calabrese",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1788424138401-88GY1CLOF4EDA9RTF2QA/M.A.D.Editions+M.A.D.3+Calabrese-1.jpg?format=1500w",
+      "peek_preview": "MB&F's M.A.D. Editions opens its third chapter, and its raffle for the M.A.D.3 Vincent Calabrese will allocate 1,500 examples in a draw, with no waiting list or second chance. That alone sets the M.A.D.3 Calabrese apart...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T08:51:58.000Z",
+      "score_quality": 67,
+      "score_notif": 66,
+      "cluster": "20260901-05c0b5eeb00a",
+      "cluster_main": false
+    },
+    {
       "title": "Gallet is relaunching with three full collections ready for the modern adventurer",
       "url": "https://timeandtidewatches.com/gallet-2026-relaunch-flying-officer-multichron-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/gallet-flying-officer-multichron-classics-brand-relaunch-1.jpg",
@@ -228,8 +270,8 @@
       "published_at": "2026-09-03T08:30:02.000Z",
       "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster": "20260903-118b32479a6d",
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -242,8 +284,8 @@
       "published_at": "2026-09-03T08:30:01.000Z",
       "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster": "20260903-6bddd0aa2921",
+      "cluster_main": true
     },
     {
       "title": "Hands-on: Greubel Forsey Balancier GMT Convexe | Video and Live Photographs",
@@ -270,8 +312,8 @@
       "published_at": "2026-09-03T08:30:00.000Z",
       "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster": "20260903-216dfaea4791-2",
+      "cluster_main": true
     },
     {
       "title": "Introducing: Gallet Revives Vintage Fan-Favorites With New \"Classics\" Multichrons",
@@ -284,8 +326,8 @@
       "published_at": "2026-09-03T08:30:00.000Z",
       "score_quality": 67,
       "score_notif": 68,
-      "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster": "20260903-d15397f7d929",
+      "cluster_main": true
     },
     {
       "title": "Insider: De Bethune DB25 Digitale—The Delta Bridge Gets Its First Wave Decoration",
@@ -747,7 +789,7 @@
       "score_quality": 84,
       "score_notif": 55,
       "cluster": "20260902-5f80741b22c2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Oris' Big Crown Pointer Date Goes Small With A New 29mm Version",
@@ -929,7 +971,7 @@
       "score_quality": 82,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Doxa Sub 300 Ti5 In Grade 5 Titanium Joins The Brand’s Regular Collection",
@@ -944,20 +986,6 @@
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
       "cluster_main": false
-    },
-    {
-      "title": "First Look – The New Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor 39mm",
-      "url": "https://monochrome-watches.com/2026-girard-perregaux-laureato-fifty-tourbillon-micro-rotor-39mm-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-girard-perregaux-laureato-fifty-tourbillon-micro-rotor-39mm-review-6-600x237.jpg",
-      "peek_preview": "Girard-Perregaux writes the next chapter in the Laureato’s long and storied history. Launched in 1975, just three years after the Royal Oak and a year before the Nautilus, the Laureato is considered an honorary member o...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T08:00:37.000Z",
-      "score_quality": 85,
-      "score_notif": 55,
-      "cluster": "20260902-5f80741b22c2",
-      "cluster_main": true
     },
     {
       "title": "The new Keris Meca Tradition celebrates the golden age of watchmaking",
@@ -1096,8 +1124,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster": "20260902-9c06b90d3bf0",
+      "cluster_main": true
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1150,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:00.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1391,7 +1419,7 @@
       "score_quality": 89,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bulova Shelby Racer Chronograph 96K118: l’alluminio della Daytona Coupe al polso",
@@ -1445,9 +1473,9 @@
       "featured": false,
       "published_at": "2026-09-01T13:00:00.000Z",
       "score_quality": 86,
-      "score_notif": 51,
+      "score_notif": 46,
       "cluster": "20260901-f0a4ef5bc556",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "STOWA Chrono WRC Stage 1 Black und Steel: Große Emotionen fürs Handgelenk",
@@ -1472,10 +1500,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T12:03:47.000Z",
-      "score_quality": 72,
+      "score_quality": 90,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "M.A.D.Editions unviels its new M.A.D.3 Vincent Calabrese – and it may be the brand’s best yet",
@@ -1825,34 +1853,6 @@
       "score_quality": 78,
       "score_notif": 40,
       "cluster": "20260831-89be45b928e1",
-      "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: Hands-on with the Amazing Rexhep Rexhepi Chrono Flyback",
-      "url": "https://deployant.com/live-from-gwd26-hands-on-with-the-amazing-rexhep-rexhepi-chrono-flyback/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-hands-on-with-the-amazing-rexhep-rexhepi-chrono-flyback",
-      "image": "https://deployant.com/wp-content/uploads/2026/08/rexhep-chronograph-wrist.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Day -1 of GWD began with an impromptu visit to the Rexhep Rehepi Ateliers in Geneva. I was received by Alex Ballmer, who showed me the Chronograph Flyback Pro...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-31T13:47:54.000Z",
-      "score_quality": 86,
-      "score_notif": 56,
-      "cluster": "20260831-1310242eddfd",
-      "cluster_main": true
-    },
-    {
-      "title": "Studio Underd0g’s First Limited Edition 02SERIES Gen2 Goes on Sale for Just Nine Hours Tomorrow, and It Has a Full-Lume Dial",
-      "url": "https://wornandwound.com/studio-underd0gs-first-limited-edition-02series-gen2-goes-on-sale-for-just-nine-hours-tomorrow-and-it-has-a-full-lume-dial/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/SU-Mantis-LE-14.jpg",
-      "peek_preview": "The field watch has long provided a blank canvas for creative – or in many cases not so creative – designs. Leave it to a brand like Studio Underd0g to take a timeless classic and give it a fresh and decidedly fun spin....",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-08-31T13:00:05.000Z",
-      "score_quality": 62,
-      "score_notif": 49,
-      "cluster": "20260831-382f29912dec",
       "cluster_main": true
     }
   ]
