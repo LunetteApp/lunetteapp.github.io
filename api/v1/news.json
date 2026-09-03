@@ -1,6 +1,6 @@
 {
-  "content_hash": "66562cf92eb96337bea92ea5e4b0a41cfd0304fa3d003db64fb01ccd98ea9a0e",
-  "last_updated": "2026-09-03T03:47:32.269Z",
+  "content_hash": "6e57fdb6d6e7363cc8e9c3f88860ef36683643d47d506b369f2d43fa8cc50494",
+  "last_updated": "2026-09-03T04:47:44.401Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-02T16:00:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-03T04:00:10.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T03:00:55.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Fratello Talks: The Best Watches Of 2026 So Far",
+      "url": "https://www.fratellowatches.com/fratello-talks-the-best-watches-of-2026-so-far/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/07/Tudor-black-bay-chrono-39-m79310n-0001-12-1.jpg",
+      "peek_preview": "We’re already well into 2026, and the watch industry has given us plenty to talk about. From major releases by established manufacturers to smaller brands introducing watches that caught our attention, there has been no...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T04:00:10.000Z",
+      "score_quality": 35,
+      "score_notif": 8,
+      "cluster": "20260903-3b95f4169efb",
+      "cluster_main": true
+    },
     {
       "title": "ジャガー・ルクルトが俳優のロバート・パティンソンを新たなるグローバルアンバサダーに起用",
       "url": "https://www.webchronos.net/news/171729/",
@@ -299,7 +313,7 @@
       "score_quality": 87,
       "score_notif": 58,
       "cluster": "20260902-76eaf6833984",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition",
@@ -310,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T16:01:54.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 58,
       "cluster": "20260902-76eaf6833984",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Ceramic Makeover For The H. Moser & Cie. Streamliner Tourbillon Skeleton — An Alpine Limited Edition",
@@ -914,8 +928,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-9c06b90d3bf0",
-      "cluster_main": true
+      "cluster": "20260902-05f797be2ac3",
+      "cluster_main": false
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1391,7 +1405,7 @@
       "score_quality": 84,
       "score_notif": 58,
       "cluster": "20260831-05b357674528",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Classics Moneta Handwinding: l’addio al quarzo di Frederique Constant",
@@ -1460,22 +1474,8 @@
       "published_at": "2026-09-01T10:00:44.000Z",
       "score_quality": 95,
       "score_notif": 47,
-      "cluster": "20260901-628e3cca4f37",
+      "cluster": "20260901-e875d0834830",
       "cluster_main": true
-    },
-    {
-      "title": "The Movement Is The Dial: The Berneron Mirage Miroir In White And Yellow Gold",
-      "url": "https://www.fratellowatches.com/the-movement-is-the-dial-the-berneron-mirage-miroir-in-white-and-yellow-gold/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/02.-MRG_Miroir_dial-1-e1788040410150.jpg",
-      "peek_preview": "Berneron is back with another Mirage, and this time, the name is quite a literal description. The new Mirage Miroir takes the independent brand’s already unconventional approach to watch design and turns it inward. This...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T10:00:35.000Z",
-      "score_quality": 94,
-      "score_notif": 47,
-      "cluster": "20260901-628e3cca4f37",
-      "cluster_main": false
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -1517,7 +1517,7 @@
       "score_quality": 81,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Limited-Edition TAG Heuer Monza Flyback Chronograph Celebrates 50 Years Of Monza With A ‘Greatest Hits’ Watch Design",
@@ -1528,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T09:00:06.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Citizen Promaster Skyhawk and Tsuno Chrono",
@@ -1822,10 +1822,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-08-31T06:30:00.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 58,
       "cluster": "20260831-05b357674528",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "シャネル「プルミエール」より、華やかなトーンの「アイコニック チェーン ゴールデンブラウン」が数量限定で登場",
