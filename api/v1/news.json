@@ -1,6 +1,6 @@
 {
-  "content_hash": "6283b92462445d48b59d88e1ee1becefd384975b4e6f99bf4cf891dc8da8d730",
-  "last_updated": "2026-09-03T12:47:43.514Z",
+  "content_hash": "6a5e3319d651e861957c1e88aa32e78ce70227601f0b58802681c064ef476943",
+  "last_updated": "2026-09-03T13:47:16.216Z",
   "premium": {
     "links": []
   },
@@ -16,21 +16,21 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-02T18:00:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-03T13:00:20.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T12:00:43.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T12:00:38.000Z"
     },
     {
@@ -72,14 +72,14 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T12:39:54.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T11:00:35.000Z"
     },
     {
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T12:28:26.000Z"
     },
     {
@@ -176,10 +176,24 @@
   ],
   "items": [
     {
+      "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
+      "url": "https://wornandwound.com/gallet-officially-enters-its-renaissance-for-the-brands-200th-anniversary/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Gallet-Launch-collection-3.jpg",
+      "peek_preview": "It was nearly a year and a half ago that Breitling announced its acquisition of the long defunct Swiss watch brand Gallet. Since then, we’ve been waiting for an official comeback, and now it’s finally here in the year o...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T13:00:20.000Z",
+      "score_quality": 76,
+      "score_notif": 68,
+      "cluster": "20260903-216dfaea4791",
+      "cluster_main": false
+    },
+    {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
       "url": "https://watchesbysjx.com/2026/09/rolex-daytona-four-seasons-charity-auction.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/rolex-daytona-four-seasons-charity-auction-300x200.jpg",
-      "peek_preview": "Rolex continues to surprise with the announcement of the Daytona “Four Seasons” charity auction that will take place soon in London. Conducted by Phillips, the auction will benefit Federer Foundation and Re:wil, the cha...",
+      "peek_preview": "Rolex continues to surprise with the announcement of the Daytona “Four Seasons” charity auction that will take place soon in London. This marks the public debut of the fantastical, gem-set – and unique – Cosmograph Dayt...",
       "source_name": "SJX Watches",
       "lang": "en",
       "featured": false,
@@ -354,8 +368,8 @@
       "published_at": "2026-09-03T08:51:58.000Z",
       "score_quality": 67,
       "score_notif": 66,
-      "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": true
+      "cluster": "20260901-05c0b5eeb00a",
+      "cluster_main": false
     },
     {
       "title": "Gallet is relaunching with three full collections ready for the modern adventurer",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T08:01:07.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Doxa Sub 300 Ti5 In Grade 5 Titanium Joins The Brand’s Regular Collection",
@@ -1223,7 +1237,7 @@
       "score_quality": 78,
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Goes Gonzo With New Watch Releases At Geneva Watch Days 2026",
@@ -1236,8 +1250,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster": "20260902-9c06b90d3bf0",
+      "cluster_main": true
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1248,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:04.000Z",
-      "score_quality": 70,
+      "score_quality": 79,
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Frederique Constant Highlife Moonphase Date Manufacture: novità dei Geneva Watch Days 2026",
@@ -1293,7 +1307,7 @@
       "score_quality": 85,
       "score_notif": 42,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1419,7 +1433,7 @@
       "score_quality": 91,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward Introduces the new Biscay Dive Watch Collection",
@@ -1626,10 +1640,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T12:03:47.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "M.A.D.Editions unviels its new M.A.D.3 Vincent Calabrese – and it may be the brand’s best yet",
@@ -1769,7 +1783,7 @@
       "score_quality": 85,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Limited-Edition TAG Heuer Monza Flyback Chronograph Celebrates 50 Years Of Monza With A ‘Greatest Hits’ Watch Design",
@@ -1780,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T09:00:06.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Citizen Promaster Skyhawk and Tsuno Chrono",
@@ -1839,20 +1853,6 @@
       "score_quality": 74,
       "score_notif": 47,
       "cluster": "20260901-984a277c4be8",
-      "cluster_main": true
-    },
-    {
-      "title": "Cinque Glashütte Original che hanno fatto fare alla meccanica cose mai viste",
-      "url": "https://www.orologidiclasse.com/glashutte-original-innovazioni-meccaniche/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/08/glashutte-original-tourbillon-innovazioni-meccaniche.jpg",
-      "peek_preview": "Ogni grande marchio di orologeria ha il suo 10 e lode in pagella. Patek Philippe, per esempio, ha fatto della qualità acustica delle ripetizioni minuti una delle proprie firme. Audemars Piguet ha una storia straordinari...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-08-31T22:05:04.000Z",
-      "score_quality": 54,
-      "score_notif": 13,
-      "cluster": "20260831-f82840a7fd55",
       "cluster_main": true
     }
   ]
