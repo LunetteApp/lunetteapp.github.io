@@ -1,6 +1,6 @@
 {
-  "content_hash": "10035a3fdef2a77c39f0a87a0d88143052412702e60ad4276e3c230507438f76",
-  "last_updated": "2026-09-03T19:47:33.698Z",
+  "content_hash": "5ae64230ea5dc5fed342284341d92c03889c3c91c2fcb8a7af34bca5f2b78da0",
+  "last_updated": "2026-09-03T20:47:12.742Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T19:00:38.000Z"
     },
     {
@@ -135,8 +135,8 @@
       "source_name": "Le Calibre",
       "lang": "fr",
       "estimated_articles_per_day": 0,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-07-30T15:41:44.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-03T19:34:13.000Z"
     },
     {
       "source_name": "Uhrenkosmos",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Matsuri 2026 : Le rendez-vous horloger de la rentrée !",
+      "url": "https://www.lecalibre.com/matsuri-2026/?utm_source=rss&utm_medium=rss&utm_campaign=matsuri-2026",
+      "image": "https://www.lecalibre.com/wp-content/uploads/2026/08/Affiche-Matsuri-Lyon-2026.png",
+      "peek_preview": "Les Matsuri sont des fêtes qui rythment la vie des japonais. Elles réunissent une grande variété d’activités festives, musicales et culinaires, à la manière d’une grande fête de village. C’est aussi le nom donné à un év...",
+      "source_name": "Le Calibre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-03T19:34:13.000Z",
+      "score_quality": 30,
+      "score_notif": 18,
+      "cluster": "20260903-c69b9e7a8876",
+      "cluster_main": true
+    },
     {
       "title": "Review: the H. Moser Pioneer Centre Seconds Arctic Blue",
       "url": "https://wornandwound.com/review/review-the-h-moser-pioneer-centre-seconds-arctic-blue/",
@@ -229,7 +243,7 @@
       "score_quality": 78,
       "score_notif": 28,
       "cluster": "20260901-c91929facc0d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: David Candaux DC6 Wildfire | Hands-on Impressions",
@@ -257,7 +271,7 @@
       "score_quality": 88,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Baltic Aquascaphe GMT MK-II, Now a True GMT and More Accessible",
@@ -410,8 +424,8 @@
       "published_at": "2026-09-03T11:42:06.000Z",
       "score_quality": 27,
       "score_notif": 68,
-      "cluster": "20260903-6bddd0aa2921",
-      "cluster_main": false
+      "cluster": "20260903-0f603c8c5a58",
+      "cluster_main": true
     },
     {
       "title": "Breaking News: Rolex To Sell Four Unique Daytonas At Auction Later This Month To Benefit The Federer Foundation And Re:wild",
@@ -578,8 +592,8 @@
       "published_at": "2026-09-03T08:30:01.000Z",
       "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260903-6bddd0aa2921",
-      "cluster_main": true
+      "cluster": "20260903-216dfaea4791",
+      "cluster_main": false
     },
     {
       "title": "Hands-on: Greubel Forsey Balancier GMT Convexe | Video and Live Photographs",
@@ -606,8 +620,8 @@
       "published_at": "2026-09-03T08:30:00.000Z",
       "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260903-216dfaea4791-2",
-      "cluster_main": true
+      "cluster": "20260903-216dfaea4791",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Gallet Revives Vintage Fan-Favorites With New \"Classics\" Multichrons",
@@ -620,8 +634,8 @@
       "published_at": "2026-09-03T08:30:00.000Z",
       "score_quality": 67,
       "score_notif": 68,
-      "cluster": "20260903-d15397f7d929",
-      "cluster_main": true
+      "cluster": "20260903-216dfaea4791",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Gallet Multichron Pilot",
@@ -634,8 +648,8 @@
       "published_at": "2026-09-03T08:30:00.000Z",
       "score_quality": 70,
       "score_notif": 68,
-      "cluster": "20260903-118b32479a6d",
-      "cluster_main": true
+      "cluster": "20260903-216dfaea4791",
+      "cluster_main": false
     },
     {
       "title": "Insider: De Bethune DB25 Digitale—The Delta Bridge Gets Its First Wave Decoration",
@@ -968,10 +982,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T14:00:35.000Z",
-      "score_quality": 69,
+      "score_quality": 71,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Goes Back to Basics with Its First Time-Only Chronomaster",
@@ -1027,7 +1041,7 @@
       "score_quality": 82,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1066,10 +1080,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:00.000Z",
-      "score_quality": 79,
+      "score_quality": 83,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1237,7 +1251,7 @@
       "score_quality": 70,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Chronomaster Solo Sport: Chronomaster ohne Chrono",
@@ -1388,10 +1402,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:00.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1514,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T20:46:27.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Christopher Ward Introduces the new Biscay Dive Watch Collection",
@@ -1643,7 +1657,7 @@
       "score_quality": 96,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bulova Shelby Racer Chronograph 96K118: l’alluminio della Daytona Coupe al polso",
@@ -1780,10 +1794,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-01T11:00:04.000Z",
-      "score_quality": 72,
+      "score_quality": 79,
       "score_notif": 28,
       "cluster": "20260901-c91929facc0d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Parmigiani Fleurier Tonda PF Skeleton Rose Gold Milano Blue",
@@ -1839,20 +1853,6 @@
       "score_quality": 68,
       "score_notif": 46,
       "cluster": "20260901-fdea9e37eefb",
-      "cluster_main": true
-    },
-    {
-      "title": "Before Geneva Watch Days Go Inside Watch Week Aspen",
-      "url": "https://www.atimelyperspective.com/ahead-of-geneva-watch-days-inside-watch-week-aspen-turned-town-into/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/WWA_RBock_08152026_ClosingParty-88-1024x683.jpeg",
-      "peek_preview": "Watch Week Aspen (Photo: RBock) Geneva Watch Days officially starts tomorrow and there will be much news filtering from that around-the-city show. But first, let’s take another look at a new genre of shows and, especial...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T09:25:03.000Z",
-      "score_quality": 26,
-      "score_notif": 22,
-      "cluster": "20260901-cb12ad397537",
       "cluster_main": true
     }
   ]
