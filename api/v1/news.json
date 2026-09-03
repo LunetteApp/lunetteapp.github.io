@@ -1,6 +1,6 @@
 {
-  "content_hash": "47d58b26b2f7bd7e0327feb5e67cdf8ab91e3ddab6ee393c144f4adebf3fde23",
-  "last_updated": "2026-09-03T15:47:29.538Z",
+  "content_hash": "462c1c8ca9863b5d77b03ed814fe19a124a16b629523322329d8b2d527c2ba4e",
+  "last_updated": "2026-09-03T16:47:34.473Z",
   "premium": {
     "links": []
   },
@@ -24,7 +24,7 @@
       "lang": "en",
       "estimated_articles_per_day": 4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-03T15:00:00.000Z"
+      "latest_article_at": "2026-09-03T16:00:00.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-03T15:31:09.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 3,
+      "latest_article_at": "2026-09-03T15:55:55.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The New, and Splendid De Bethune DB25 Digitale",
+      "url": "https://monochrome-watches.com/de-bethune-db25-digitale-jumping-hour-introducing/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/De-Bethune-DB25-Digitale-2-600x237.jpg",
+      "peek_preview": "De Bethune, a co-founder of Geneva Watch Days, returns for the seventh edition with a beautiful piece that revisits the brand’s digital time display. Featured across various models, the first digital display appeared in...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T16:00:00.000Z",
+      "score_quality": 86,
+      "score_notif": 44,
+      "cluster": "20260902-0ded27d018c4",
+      "cluster_main": true
+    },
+    {
+      "title": "Live from GWD26: Frederique Constant Classics Moneta | Hands-on Impressions",
+      "url": "https://deployant.com/live-from-gwd26-frederique-constant-classics-moneta-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-frederique-constant-classics-moneta-hands-on-impressions",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0530-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Next I was at the Frederique Constant suite, and CEO Neils Eggerding showed me his latest creation: the Classics Moneta with a “in-house” La Joux Perret movem...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T15:55:55.000Z",
+      "score_quality": 78,
+      "score_notif": 28,
+      "cluster": "20260901-c91929facc0d",
+      "cluster_main": true
+    },
     {
       "title": "Live from GWD26: David Candaux DC6 Wildfire | Hands-on Impressions",
       "url": "https://deployant.com/live-from-gwd26-david-candaux-dc6-wildfire-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-david-candaux-dc6-wildfire-hands-on-impressions",
@@ -354,8 +382,8 @@
       "published_at": "2026-09-03T11:42:06.000Z",
       "score_quality": 27,
       "score_notif": 68,
-      "cluster": "20260903-6bddd0aa2921",
-      "cluster_main": false
+      "cluster": "20260903-0f603c8c5a58",
+      "cluster_main": true
     },
     {
       "title": "Breaking News: Rolex To Sell Four Unique Daytonas At Auction Later This Month To Benefit The Federer Foundation And Re:wild",
@@ -428,17 +456,17 @@
       "cluster_main": true
     },
     {
-      "title": "Live from WWG26: Perrelet | Hands-on Impression",
-      "url": "https://deployant.com/live-from-wwg26-perrelet-hands-on-impression/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-wwg26-perrelet-hands-on-impression",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0511-Large-1200x675.jpeg",
+      "title": "Live from GWD26: Perrelet | Hands-on Impression",
+      "url": "https://deployant.com/live-from-gwd26-perrelet-hands-on-impression/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-perrelet-hands-on-impression",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0510-Large.jpeg",
       "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Perrelet releases more new watches with stone dials in their Weekend collection. We had a hands-on session as well as a chat with CEO Hugo Lesizza. Here is ou...",
       "source_name": "Deployant",
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T09:33:22.000Z",
-      "score_quality": 62,
-      "score_notif": 41,
-      "cluster": "20260903-23acc8a665ce",
+      "score_quality": 34,
+      "score_notif": 15,
+      "cluster": "20260903-49fe0b36943f",
       "cluster_main": true
     },
     {
@@ -591,7 +619,7 @@
       "featured": false,
       "published_at": "2026-09-03T08:09:52.000Z",
       "score_quality": 80,
-      "score_notif": 55,
+      "score_notif": 44,
       "cluster": "20260902-0ded27d018c4",
       "cluster_main": false
     },
@@ -918,20 +946,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The New Oris ProPilot Bronze",
-      "url": "https://monochrome-watches.com/introducing-2026-oris-propilot-bronze-specs-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Oris-ProPilot-Bronze-1-600x237.jpg",
-      "peek_preview": "Last year, Oris refreshed the ProPilot Date, providing it with a cleaner case, revised proportions and a more contemporary take on the collection’s familiar aviation-inspired design. Now comes the first variation on tha...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T14:00:55.000Z",
-      "score_quality": 78,
-      "score_notif": 38,
-      "cluster": "20260902-ffefdf979670",
-      "cluster_main": true
-    },
-    {
       "title": "Daniel Roth makes old new again with new gilt dialed Extra Plat Rose Gold Gilt",
       "url": "https://timeandtidewatches.com/daniel-roth-extra-plat-rose-gold-gilt-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Daniel-Roth-Extra-Plat-Gilt-Feature.jpg",
@@ -969,7 +983,7 @@
       "featured": false,
       "published_at": "2026-09-02T13:24:20.000Z",
       "score_quality": 62,
-      "score_notif": 55,
+      "score_notif": 44,
       "cluster": "20260902-0ded27d018c4",
       "cluster_main": false
     },
@@ -1408,17 +1422,17 @@
       "cluster_main": false
     },
     {
-      "title": "Live from WWG26: Xhevdep Rexhepi Minute Inerte Hands-on Impressions",
-      "url": "https://deployant.com/live-from-wwg26-xhevdep-rexhepi-minute-inerte-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-wwg26-xhevdep-rexhepi-minute-inerte-hands-on-impressions",
+      "title": "Live from GWD26: Xhevdep Rexhepi Minute Inerte Hands-on Impressions",
+      "url": "https://deployant.com/live-from-gwd26-xhevdep-rexhepi-minute-inerte-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-xhevdep-rexhepi-minute-inerte-hands-on-impressions",
       "image": "https://deployant.com/wp-content/uploads/2026/09/xhepdep-rexhepi-minuteinerte-two.jpg",
       "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Walking to attend some cocktails at the end of Day 0, I passed by Xhevdep Rexhepi’s atelier. Out of habit, I peered into the space to look at watchmakers work...",
       "source_name": "Deployant",
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T06:09:46.000Z",
-      "score_quality": 79,
-      "score_notif": 42,
-      "cluster": "20260902-d80b5dafe5e1",
+      "score_quality": 81,
+      "score_notif": 41,
+      "cluster": "20260902-e8b8fe1d8696",
       "cluster_main": true
     },
     {
@@ -1445,9 +1459,9 @@
       "featured": false,
       "published_at": "2026-09-02T06:00:10.000Z",
       "score_quality": 81,
-      "score_notif": 55,
+      "score_notif": 44,
       "cluster": "20260902-0ded27d018c4",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "バルチックの手巻きクロノグラフ「スケールグラフ」が、装い新たにレギュラーコレクションで登場",
@@ -1753,9 +1767,9 @@
       "featured": false,
       "published_at": "2026-09-01T11:00:04.000Z",
       "score_quality": 72,
-      "score_notif": 46,
+      "score_notif": 28,
       "cluster": "20260901-c91929facc0d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Parmigiani Fleurier Tonda PF Skeleton Rose Gold Milano Blue",
@@ -1839,20 +1853,6 @@
       "score_quality": 86,
       "score_notif": 66,
       "cluster": "20260901-503d52df9c76",
-      "cluster_main": true
-    },
-    {
-      "title": "New: Citizen Promaster Skyhawk and Tsuno Chrono",
-      "url": "https://deployant.com/new-citizen-promaster-skyhawk-and-tsuno-chrono/?utm_source=rss&utm_medium=rss&utm_campaign=new-citizen-promaster-skyhawk-and-tsuno-chrono",
-      "image": "https://deployant.com/wp-content/uploads/2026/08/Deployant-JY8144-50E_wear_IMG02_re20032.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Citizen Promaster adds to their lineup with two new limited edition models to celebrate the 50th Anniversary of Eco-Drive. The two novelties are the Skyhawk f...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T05:00:00.000Z",
-      "score_quality": 71,
-      "score_notif": 54,
-      "cluster": "20260901-d03f92f6ecea",
       "cluster_main": true
     }
   ]
