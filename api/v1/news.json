@@ -1,6 +1,6 @@
 {
-  "content_hash": "f7da9c6ec51990853b42ad01158af826360ef6cd26f1b3b02255ee0c94a7858a",
-  "last_updated": "2026-09-03T17:47:17.717Z",
+  "content_hash": "8a54123787a278ce27152271b5bb5ff8ebe1b9a58c381da7c27665eae562dee0",
+  "last_updated": "2026-09-03T18:47:13.525Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T17:00:27.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T16:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-03T18:00:27.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Introducing – The Armin Strom Dual Time GMT Resonance Manufacture Edition Blue",
+      "url": "https://monochrome-watches.com/armin-strom-dual-time-gmt-resonance-manufacture-edition-blue-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Armin-Strom-Dual-Time-GMT-Resonance-Manufacture-Edition-Blue-1-600x237.jpg",
+      "peek_preview": "The Dual Time GMT Resonance is one of Armin Strom’s signature creations, first launched in 2018, revisited in 2024 and presented in several distinctive editions, including the steel-cased Black Edition, the rose-gold ve...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T18:00:27.000Z",
+      "score_quality": 82,
+      "score_notif": 43,
+      "cluster": "20260903-184adf8af6c0",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – The New, and Splendid De Bethune DB25 Digitale",
       "url": "https://monochrome-watches.com/de-bethune-db25-digitale-jumping-hour-introducing/",
       "image": "https://monochrome-watches.com/app/uploads/2026/08/De-Bethune-DB25-Digitale-2-600x237.jpg",
@@ -240,10 +254,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T14:01:27.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Hamilton Murph 38mm enters a new dimension with a cosmic blue dial",
@@ -285,7 +299,7 @@
       "score_quality": 85,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
@@ -424,8 +438,8 @@
       "published_at": "2026-09-03T10:47:00.000Z",
       "score_quality": 55,
       "score_notif": 36,
-      "cluster": "20260903-c05e05425407",
-      "cluster_main": false
+      "cluster": "20260903-5c3f4ab9a6ac",
+      "cluster_main": true
     },
     {
       "title": "First Look – The Alpina Seastrong Diver Extreme Automatic Route du Rhum in Turquoise",
@@ -915,7 +929,7 @@
       "score_quality": 85,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Navitimer Miles Davis: 500 pezzi ai Geneva Watch Days 2026",
@@ -932,20 +946,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – The New Doxa SUB 300 Ti5 Brings Titanium to the Permanent Collection",
-      "url": "https://monochrome-watches.com/introducing-doxa-sub-300-ti5-titanium-dive-watch-geneva-watch-days-specs-price-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Doxa-SUB-300-Ti5-Titanium-Permanent-Collection-2026-1-600x237.jpg",
-      "peek_preview": "Following the limited Clive Cussler edition introduced earlier this year, the Doxa SUB 300 Ti5 takes the well-known, historically inspired design and reworks it in Grade 5 titanium. This time, however, titanium is here...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T15:00:53.000Z",
-      "score_quality": 86,
-      "score_notif": 55,
-      "cluster": "20260902-413671dd1842",
-      "cluster_main": true
-    },
-    {
       "title": "Daniel Roth makes old new again with new gilt dialed Extra Plat Rose Gold Gilt",
       "url": "https://timeandtidewatches.com/daniel-roth-extra-plat-rose-gold-gilt-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Daniel-Roth-Extra-Plat-Gilt-Feature.jpg",
@@ -954,10 +954,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T14:00:35.000Z",
-      "score_quality": 67,
+      "score_quality": 69,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Goes Back to Basics with Its First Time-Only Chronomaster",
@@ -1010,10 +1010,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:46.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1027,7 +1027,7 @@
       "score_quality": 81,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor 39",
@@ -1223,7 +1223,7 @@
       "score_quality": 68,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Chronomaster Solo Sport: Chronomaster ohne Chrono",
@@ -1500,10 +1500,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T20:46:27.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Christopher Ward Introduces the new Biscay Dive Watch Collection",
@@ -1713,7 +1713,7 @@
       "score_quality": 94,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "M.A.D.Editions unviels its new M.A.D.3 Vincent Calabrese – and it may be the brand’s best yet",
@@ -1823,9 +1823,9 @@
       "featured": false,
       "published_at": "2026-09-01T09:30:09.000Z",
       "score_quality": 68,
-      "score_notif": 66,
-      "cluster": "20260901-fdea9e37eefb",
-      "cluster_main": true
+      "score_notif": 46,
+      "cluster": "20260901-7ef82c652d09",
+      "cluster_main": false
     },
     {
       "title": "Before Geneva Watch Days Go Inside Watch Week Aspen",
@@ -1839,6 +1839,20 @@
       "score_quality": 26,
       "score_notif": 22,
       "cluster": "20260901-cb12ad397537",
+      "cluster_main": true
+    },
+    {
+      "title": "New Release: The Limited-Edition TAG Heuer Monza Flyback Chronograph Celebrates 50 Years Of Monza With A ‘Greatest Hits’ Watch Design",
+      "url": "https://www.ablogtowatch.com/new-release-the-limited-edition-tag-heuer-monza-flyback-chronograph-celebrates-50-years-of-monza-with-a-greatest-hits-watch-design/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/TAG-Heuer-Monza-Flyback-Chronograph-LOR-Crop-1-768x346.jpg",
+      "peek_preview": "It’s always a special moment when a new TAG Heuer Monza gets announced. Unlike brand mainstays such as the Monaco and the Carrera, the historic Monza nameplate is a fleeting inclusion in TAG Heuer’s catalog, only appear...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-01T09:00:06.000Z",
+      "score_quality": 69,
+      "score_notif": 46,
+      "cluster": "20260901-7ef82c652d09",
       "cluster_main": true
     }
   ]
