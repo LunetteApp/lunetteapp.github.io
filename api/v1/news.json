@@ -1,6 +1,6 @@
 {
-  "content_hash": "3384fc64d1b1d1711fc6f7da3311f8d45ca387c9257d95bb2c86581b670b1be2",
-  "last_updated": "2026-09-03T14:47:15.585Z",
+  "content_hash": "47d58b26b2f7bd7e0327feb5e67cdf8ab91e3ddab6ee393c144f4adebf3fde23",
+  "last_updated": "2026-09-03T15:47:29.538Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.9,
+      "estimated_articles_per_day": 4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-03T14:01:27.000Z"
+      "latest_article_at": "2026-09-03T15:00:00.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T14:00:03.000Z"
     },
     {
@@ -58,14 +58,14 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T10:08:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-03T15:31:09.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T14:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T14:00:19.000Z"
     },
     {
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T12:03:42.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Live from GWD26: David Candaux DC6 Wildfire | Hands-on Impressions",
+      "url": "https://deployant.com/live-from-gwd26-david-candaux-dc6-wildfire-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-david-candaux-dc6-wildfire-hands-on-impressions",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0519-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors I dropped by the David Candaux suite and was greeted by David and Vadim. They showed me their latest creation – the DC6 Wildfire. Here are my hands-on impress...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T15:31:09.000Z",
+      "score_quality": 77,
+      "score_notif": 39,
+      "cluster": "20260903-e49b1d0c8e51",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Hand-Hammered Dials for the Gerald Charles Masterlink Atelier Edition",
+      "url": "https://monochrome-watches.com/gerald-charles-masterlink-atelier-edition-hand-hammered-dial-integrated-sports-watch-introducing/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Gerald-Charles-Masterlink-Atelier-Edition-Hand-Hammered-Dials-6-600x237.jpg",
+      "peek_preview": "Gerald Charles, a brand founded by the late watch designer Gérald Genta in 2000 and backed by the Italian Zivani family, was revived by Federico Zivani after the designer’s death and reappeared in 2020 with an idiosyncr...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T15:00:00.000Z",
+      "score_quality": 88,
+      "score_notif": 43,
+      "cluster": "20260902-156ccdf8d8c5",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – The Baltic Aquascaphe GMT MK-II, Now a True GMT and More Accessible",
       "url": "https://monochrome-watches.com/baltic-aquascaphe-gmt-mk-ii-true-gmt-miyota-movement-more-accessible-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/08/Baltic-Aquascaphe-GMT-MK-II-True-GMT-Miyota-movement-2-600x237.jpg",
@@ -200,8 +228,8 @@
       "published_at": "2026-09-03T14:00:19.000Z",
       "score_quality": 58,
       "score_notif": 45,
-      "cluster": "20260901-166c2597690a",
-      "cluster_main": false
+      "cluster": "20260903-f6bffaea4ee0",
+      "cluster_main": true
     },
     {
       "title": "Baltic Continues Its Permanent Collection Refresh With New Aquascaphe GMT MK-II",
@@ -274,10 +302,10 @@
       "cluster_main": false
     },
     {
-      "title": "Rolex mette all’asta quattro Daytona unici per la Federer Foundation e Re:wild",
+      "title": "Rolex mette all’asta quattro esclusivi Daytona ‘Four Seasons’ per la Federer Foundation e Re:wild",
       "url": "https://www.perpetualpassion.com/2026/09/03/rolex-four-seasons-daytona-asta-beneficenza/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/federer-south-africa-2025-group.jpg",
-      "peek_preview": "Il 28 settembre, a Londra, Phillips offrirà quattro Cosmograph Daytona one-off ispirati alle stagioni. Un progetto realizzato da [...] L'articolo Rolex mette all’asta quattro Daytona unici per la Federer Foundation e Re...",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/rolex-federer-cosmograph-daytona-four-seasons-charity-auction-1100x734.jpg",
+      "peek_preview": "Il 28 settembre, a Londra, Phillips offrirà quattro Cosmograph Daytona one-off ispirati alle stagioni. Un progetto realizzato da [...] L'articolo Rolex mette all’asta quattro esclusivi Daytona ‘Four Seasons’ per la Fede...",
       "source_name": "Perpetual Passion",
       "lang": "it",
       "featured": false,
@@ -326,8 +354,8 @@
       "published_at": "2026-09-03T11:42:06.000Z",
       "score_quality": 27,
       "score_notif": 68,
-      "cluster": "20260903-0f603c8c5a58",
-      "cluster_main": true
+      "cluster": "20260903-6bddd0aa2921",
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex To Sell Four Unique Daytonas At Auction Later This Month To Benefit The Federer Foundation And Re:wild",
@@ -604,10 +632,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T07:01:21.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 42,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Akhor Brings Rare Stones on its AK-10 Stromatolite and AK-10 Maw Sit Sit",
@@ -946,20 +974,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – The Maurice Lacroix Aikon-IC Frozen Carbon Collection (Incl. Video)",
-      "url": "https://monochrome-watches.com/first-look-video-review-maurice-lacroix-aikon-ic-frozen-carbon-collection-bronze-damas-titanium-ceramic-ml1000-specs-price-pics/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Maurice-Lacroix-Aikon-IC-Frozen-Carbon-review-1-600x237.jpg",
-      "peek_preview": "Last year, the highly successful Aikon collection welcomed the next generation of integrated sports watches for Maurice Lacroix, with the Aikon-IC range. With the added “IC” referring to Innovative Craftsmanship, Mauric...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T13:00:24.000Z",
-      "score_quality": 83,
-      "score_notif": 45,
-      "cluster": "20260902-285d8e1098aa",
-      "cluster_main": true
-    },
-    {
       "title": "The new Breitling Navitimer 41 Tribute to Miles Davis hits all the right notes",
       "url": "https://timeandtidewatches.com/breitling-navitimer-b09-chronograph-41-tribute-to-miles-davis-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/02_Breitling-Navitimer-B09-Chronograph-41-Tribute-to-Miles-Davis_AB09501A1B1A1_RGB.jpg",
@@ -982,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:46.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1027,7 +1041,7 @@
       "score_quality": 79,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1137,7 +1151,7 @@
       "featured": false,
       "published_at": "2026-09-02T08:01:07.000Z",
       "score_quality": 86,
-      "score_notif": 42,
+      "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
       "cluster_main": false
     },
@@ -1292,8 +1306,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-9c06b90d3bf0",
-      "cluster_main": true
+      "cluster": "20260902-05f797be2ac3",
+      "cluster_main": false
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1335,7 +1349,7 @@
       "score_quality": 80,
       "score_notif": 42,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Gerald Charles Masterlink Atelier Edition: Update with Hands-on",
@@ -1347,9 +1361,9 @@
       "featured": false,
       "published_at": "2026-09-02T07:00:00.000Z",
       "score_quality": 87,
-      "score_notif": 42,
+      "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1766,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T10:10:44.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alto refines the concept with the integrated bracelet ART 02",
@@ -1783,7 +1797,7 @@
       "score_quality": 84,
       "score_notif": 46,
       "cluster": "20260901-e75a10b88a11",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Monza Flyback Chronograph: 50 anni dopo, la corsa continua",
@@ -1839,20 +1853,6 @@
       "score_quality": 71,
       "score_notif": 54,
       "cluster": "20260901-d03f92f6ecea",
-      "cluster_main": true
-    },
-    {
-      "title": "The New Hamilton Murph 38mm With \"Stardust\" Blue Dial (Hands-On)",
-      "url": "https://teddybaldassarre.com/blogs/watches/hamilton-khaki-field-murph-38mm-blue-dial",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Hamilton-Khaki-Field-Murph-blue-bracelet-2.jpg?v=1788186382",
-      "peek_preview": "Since its introduction in 2019, five years after its predecessor caught the attention of eagle-eyed watch enthusiasts on the big screen, the Hamilton Khaki Field Murph has gone from one-off movie tribute piece to a bona...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T04:01:03.000Z",
-      "score_quality": 82,
-      "score_notif": 45,
-      "cluster": "20260901-166c2597690a",
       "cluster_main": true
     }
   ]
