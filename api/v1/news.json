@@ -1,6 +1,6 @@
 {
-  "content_hash": "31279c60c097c37cf0e4a4ef1a0fadfbe7e16caf53fbaa50af12de285a48ec26",
-  "last_updated": "2026-09-04T00:52:23.408Z",
+  "content_hash": "cf1f9f450ada73c27c8f6f8d22f07d829ab3953a00a8d929bd1ac1d970e41cf4",
+  "last_updated": "2026-09-04T05:48:57.477Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T22:01:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T05:00:45.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.7,
+      "estimated_articles_per_day": 0.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T05:30:00.000Z"
     },
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T00:00:48.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Sunset On The Wrist: The Laurent Ferrier Classic Moon Dusk",
+      "url": "https://www.fratellowatches.com/laurent-ferrier-classic-moon-dusk/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/LF_Classic-Moon-Dusk_Yellow-Gold_HighRes.jpg",
+      "peek_preview": "There is something slightly dangerous about the Laurent Ferrier Classic Moon. The recipe sounds almost too typical of high horology — a 40mm round case, manual winding, an annual calendar, moon phases, and a dial with R...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T05:00:45.000Z",
+      "score_quality": 75,
+      "score_notif": 24,
+      "cluster": "20260904-327722c413ce",
+      "cluster_main": true
+    },
     {
       "title": "大相撲をテーマにしたチューダーのポップアップストアが大阪の心斎橋PARCOと大阪高島屋で開催",
       "url": "https://www.webchronos.net/news/171570/",
@@ -394,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T13:00:20.000Z",
-      "score_quality": 76,
+      "score_quality": 79,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -621,7 +635,7 @@
       "score_quality": 78,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -733,7 +747,7 @@
       "score_quality": 85,
       "score_notif": 39,
       "cluster": "20260902-17a5ba08b768",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Vuitton Escale Twin Zone Watches Hands-On: Clever Double 12-Hour Time Zone Dial",
@@ -887,7 +901,7 @@
       "score_quality": 73,
       "score_notif": 66,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Beyond the Familiar: A. Lange & Söhne’s 1815 Retrospective",
@@ -940,10 +954,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T18:00:57.000Z",
-      "score_quality": 72,
+      "score_quality": 74,
       "score_notif": 66,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Bulgari Titanio, The Titanium Evolution of the Aluminium Collection",
@@ -1094,10 +1108,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:46.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1111,7 +1125,7 @@
       "score_quality": 85,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor 39",
@@ -1220,10 +1234,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T09:07:09.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 39,
       "cluster": "20260902-17a5ba08b768",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Striking a chord: The L.Leroy Vox Temporis swaps a minute hand for a minute repeater",
@@ -1390,8 +1404,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster": "20260902-9c06b90d3bf0",
+      "cluster_main": true
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1419,20 +1433,6 @@
       "score_quality": 68,
       "score_notif": 52,
       "cluster": "20260902-8fe0ae49670e",
-      "cluster_main": false
-    },
-    {
-      "title": "The Way Gérald Genta Intended: The Geneva Minute Repeater Golden Obsidian",
-      "url": "https://www.fratellowatches.com/the-way-gerald-genta-intended-the-geneva-minute-repeater-golden-obsidian/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/GG_RMHM_GO_still_life_CMJN-e1788095409916.jpg",
-      "peek_preview": "The Gérald Genta brand is putting its legendary founder’s philosophy at the top of its priorities. For Geneva Watch Days 2026, Gérald Genta releases a new Golden Obsidian version of the Geneva Minute Repeater. This 40mm...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:01.000Z",
-      "score_quality": 84,
-      "score_notif": 42,
-      "cluster": "20260902-83a460aa33d2",
       "cluster_main": false
     },
     {
