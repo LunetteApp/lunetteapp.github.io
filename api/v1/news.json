@@ -1,6 +1,6 @@
 {
-  "content_hash": "fa9f75249fa10060fcd80f771e7a0a77e8f372427792a250c8cae423ef533e42",
-  "last_updated": "2026-09-04T07:49:50.639Z",
+  "content_hash": "942352e2b07f1b274b7c505d978405abddba85600cb56eb4a8fab3088ec55468",
+  "last_updated": "2026-09-04T08:50:44.389Z",
   "premium": {
     "links": []
   },
@@ -24,13 +24,13 @@
       "lang": "en",
       "estimated_articles_per_day": 4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-04T07:00:14.000Z"
+      "latest_article_at": "2026-09-04T08:30:04.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T07:01:09.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T14:00:19.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T08:00:52.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -113,7 +113,7 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-02T10:00:00.000Z"
     },
@@ -187,7 +187,7 @@
       "score_quality": 83,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
@@ -202,6 +202,34 @@
       "score_notif": 58,
       "cluster": "20260902-76eaf6833984",
       "cluster_main": false
+    },
+    {
+      "title": "Introducing – The Urwerk UR-150 Golden Scorpion",
+      "url": "https://monochrome-watches.com/urwerk-ur-150-golden-scorpion-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/urwerk_ur-150_gold-scorpion_1-600x237.jpg",
+      "peek_preview": "First presented as the Scorpion in Titan and Dark executions, and subsequently followed by the Blue Scorpion, the UR-150 by Urwerk now receives its most precious treatment yet. The UR-150 Golden Scorpion replaces the te...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T08:30:04.000Z",
+      "score_quality": 79,
+      "score_notif": 49,
+      "cluster": "20260904-54b3ed2b361a",
+      "cluster_main": true
+    },
+    {
+      "title": "JLC calls in Batman, MB&F’s Nostromo lands, and the GPHG shortlist arrives",
+      "url": "https://timeandtidewatches.com/jlc-calls-in-batman-mbfs-nostromo-lands-and-the-gphg-shortlist-arrives/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-fwd-04-sept-1.webp",
+      "peek_preview": "The watch world has shown very little interest in easing us gently into September. A bumper Geneva Watch Days has supplied the expected torrent of launches, while elsewhere the week has delivered a Hollywood signing, a...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T08:00:52.000Z",
+      "score_quality": 24,
+      "score_notif": 20,
+      "cluster": "20260904-df3ee539f588",
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: RZE UTD-8000 Orange And Tan Cerakote Watches Pair Color With Titanium Cases",
@@ -464,10 +492,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T12:39:54.000Z",
-      "score_quality": 83,
+      "score_quality": 87,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Highlife Moonphase Date Manufacture: la Luna sporty-chic di Frederique Constant",
@@ -536,8 +564,8 @@
       "published_at": "2026-09-03T11:42:06.000Z",
       "score_quality": 27,
       "score_notif": 68,
-      "cluster": "20260903-0f603c8c5a58",
-      "cluster_main": true
+      "cluster": "20260903-6bddd0aa2921",
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex To Sell Four Unique Daytonas At Auction Later This Month To Benefit The Federer Foundation And Re:wild",
@@ -551,7 +579,7 @@
       "score_quality": 86,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Atelier Wen x Massena LAB Inflection Shuò pairs tremblage dials with tantalum",
@@ -604,10 +632,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T10:08:03.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Perrelet | Hands-on Impression",
@@ -870,10 +898,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T06:50:48.000Z",
-      "score_quality": 66,
+      "score_quality": 72,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Yema Superman Bronze CMM.10 : 3 nouveaux cadrans pour la plongeuse manufacture française",
@@ -1002,20 +1030,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – The Bulgari Titanio, The Titanium Evolution of the Aluminium Collection",
-      "url": "https://monochrome-watches.com/first-look-bulgari-bvlgari-titanio-gmt-chronograph-aluminium-geneva-watch-days-specs-price-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Bulgari-Titanio-GMT-Bulgari-Titanio-Chronograph-Featured-600x237.jpg",
-      "peek_preview": "Titanium is the common thread running through Bulgari’s Geneva Watch Days 2026 releases. Alongside the more experimental Octo Finissimo models, the brand also brings the material to one of its most recognisable everyday...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T18:00:23.000Z",
-      "score_quality": 79,
-      "score_notif": 44,
-      "cluster": "20260902-094106590e42",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: The H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition",
       "url": "https://www.hodinkee.com/articles/introducing-moser-streamliner-alpine",
       "image": "https://hodinkee.imgix.net/uploads/images/f9a300a4-1e6f-4f69-b7e6-f4451ae662a5/HMoser_6814-2100_Streamliner_Tourbillon_Skeleton_Ceramic_Alpine_Limited_Edition__Lifestyle.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1083,7 +1097,7 @@
       "score_quality": 71,
       "score_notif": 62,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Goes Back to Basics with Its First Time-Only Chronomaster",
@@ -1598,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T20:46:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Christopher Ward Introduces the new Biscay Dive Watch Collection",
@@ -1724,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T13:45:17.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bulova Shelby Racer Chronograph 96K118: l’alluminio della Daytona Coupe al polso",
