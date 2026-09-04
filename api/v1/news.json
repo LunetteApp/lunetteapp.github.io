@@ -1,6 +1,6 @@
 {
-  "content_hash": "c1fb9139a73cf486bd9c62c1e7244e87c5118d71858ce428bf129f9d361a2580",
-  "last_updated": "2026-09-04T10:47:33.942Z",
+  "content_hash": "b1a700f94383565365b2cdae5d706e28ec5c3d7bea9e803dd2514024c128463b",
+  "last_updated": "2026-09-04T11:52:31.547Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T10:00:31.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T10:01:36.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T08:00:52.000Z"
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T11:00:36.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -121,14 +121,14 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T07:00:48.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T10:31:31.000Z"
     },
     {
@@ -184,10 +184,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T14:00:00.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
@@ -202,6 +202,20 @@
       "score_notif": 58,
       "cluster": "20260902-76eaf6833984",
       "cluster_main": false
+    },
+    {
+      "title": "Beaucroft rebels against the status quo with The Punk",
+      "url": "https://timeandtidewatches.com/beaucroft-rebels-against-the-status-quo-with-the-punk/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-beaucroft-the-punk-founders-fest.jpg",
+      "peek_preview": "What happens when the conservative, Cambridge-based brand Beaucroft decides to unleash its rebellious side? The post Beaucroft rebels against the status quo with The Punk appeared first on Time+Tide Watches.",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T11:00:36.000Z",
+      "score_quality": 44,
+      "score_notif": 22,
+      "cluster": "20260904-4c65299ddaff",
+      "cluster_main": true
     },
     {
       "title": "Rolex met quatre Daytona uniques aux enchères pour Federer et DiCaprio",
@@ -705,7 +719,7 @@
       "score_quality": 84,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Perrelet | Hands-on Impression",
@@ -732,7 +746,7 @@
       "published_at": "2026-09-03T09:00:25.000Z",
       "score_quality": 87,
       "score_notif": 46,
-      "cluster": "20260901-f0a4ef5bc556",
+      "cluster": "20260903-78b4a7a8a2f1",
       "cluster_main": true
     },
     {
@@ -1181,7 +1195,7 @@
       "score_quality": 81,
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "De Bethune DB25 Digitale: ore saltanti e luna sferica per contemplare il tempo",
@@ -1223,7 +1237,7 @@
       "score_quality": 88,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1262,10 +1276,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:00.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1472,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:01:39.000Z",
-      "score_quality": 63,
+      "score_quality": 82,
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gérald Genta Geneva Minute Repeater Golden Obsidian: il tempo torna a farsi ascoltare",
@@ -1840,20 +1854,6 @@
       "score_notif": 17,
       "cluster": "20260901-cbd402d0237c",
       "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: Czapek Returns to Historical Roots and Hands-on with 2 New Watches",
-      "url": "https://deployant.com/live-from-gwd26-czapek-returns-to-historical-roots-at-quai-des-bergues-with-2-new-watches/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-czapek-returns-to-historical-roots-at-quai-des-bergues-with-2-new-watches",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0429-1-1080x1920.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Czapek returns to its historical roots in Quai des Bergues with a new boutique in No. 27 and introduces two new extension models to the Quai des Bergues and C...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T13:00:00.000Z",
-      "score_quality": 86,
-      "score_notif": 46,
-      "cluster": "20260901-f0a4ef5bc556",
-      "cluster_main": false
     }
   ]
 }
