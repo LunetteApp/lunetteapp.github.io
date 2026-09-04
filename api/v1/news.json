@@ -1,6 +1,6 @@
 {
-  "content_hash": "793dd0d07905ad064d1dd8d448596ab211de368c32e4d641ceeb0a9ac39212a3",
-  "last_updated": "2026-09-04T16:47:23.827Z",
+  "content_hash": "3279f978dcbc9f843efdb1e5d17d3bf02df60deee211f6d7202e882e5dfe55ab",
+  "last_updated": "2026-09-04T17:47:17.398Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T16:30:32.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T15:50:07.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -202,6 +202,20 @@
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
       "cluster_main": false
+    },
+    {
+      "title": "Inside The Manufacture: A Behind-The-Scenes Look At The Swatch x Audemars Piguet Royal Pop",
+      "url": "https://www.hodinkee.com/articles/a-behind-the-scenes-look-at-the-swatch-x-audemars-piguet-royal-pop",
+      "image": "https://hodinkee.imgix.net/uploads/images/46ce5b04-c422-43f7-aa79-1eca070d6c5b/swatcheader3.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The making of Swatch's iconic collaborations, and revisiting the Sistem51 factory in a new light.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T17:00:00.000Z",
+      "score_quality": 84,
+      "score_notif": 27,
+      "cluster": "20260904-919c702e738c",
+      "cluster_main": true
     },
     {
       "title": "First Look – The New Schwarz Etienne 1902 Petite Seconde Heure Dorée",
@@ -366,10 +380,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:06:00.000Z",
-      "score_quality": 74,
+      "score_quality": 79,
       "score_notif": 58,
       "cluster": "20260902-76eaf6833984",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The new, more compact A. Lange & Söhne 1815 Up/Down Limited Editions",
@@ -383,7 +397,7 @@
       "score_quality": 91,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -439,7 +453,7 @@
       "score_quality": 92,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -492,10 +506,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:01.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -506,10 +520,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:00.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -719,7 +733,7 @@
       "score_quality": 73,
       "score_notif": 55,
       "cluster": "20260902-05f797be2ac3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex To Auction Four Piece-Unique Daytonas",
@@ -828,10 +842,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T15:00:00.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Baltic Aquascaphe GMT MK-II, Now a True GMT and More Accessible",
@@ -926,10 +940,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-03T12:28:26.000Z",
-      "score_quality": 71,
+      "score_quality": 73,
       "score_notif": 52,
       "cluster": "20260902-8fe0ae49670e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex mette all’asta quattro esclusivi Daytona ‘Four Seasons’ per la Federer Foundation e Re:wild",
@@ -1408,20 +1422,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: The H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition",
-      "url": "https://www.hodinkee.com/articles/introducing-moser-streamliner-alpine",
-      "image": "https://hodinkee.imgix.net/uploads/images/f9a300a4-1e6f-4f69-b7e6-f4451ae662a5/HMoser_6814-2100_Streamliner_Tourbillon_Skeleton_Ceramic_Alpine_Limited_Edition__Lifestyle.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The two brands extend their partnership with a new take on the Streamliner.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T16:07:11.000Z",
-      "score_quality": 93,
-      "score_notif": 58,
-      "cluster": "20260902-76eaf6833984",
-      "cluster_main": true
-    },
-    {
       "title": "A Ceramic Makeover For The H. Moser & Cie. Streamliner Tourbillon Skeleton — An Alpine Limited Edition",
       "url": "https://www.fratellowatches.com/new-h-moser-cie-streamliner-tourbillon-skeleton-alpine-limited-edition/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/HMoser_6814-2100_Streamliner_Tourbillon_Skeleton_Ceramic_Alpine_Limited_Edition__Lifestyle_front.jpg",
@@ -1559,7 +1559,7 @@
       "score_quality": 68,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Bell & Ross BR-X5 Meteorite—A Dial from Outer Space",
@@ -1598,10 +1598,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-02T10:00:00.000Z",
-      "score_quality": 58,
+      "score_quality": 74,
       "score_notif": 55,
       "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "DOXA SUB 300 Ti5: So geht leichter und robuster mit Zertifikat",
@@ -1612,10 +1612,10 @@
       "lang": "de",
       "featured": false,
       "published_at": "2026-09-02T09:43:04.000Z",
-      "score_quality": 63,
+      "score_quality": 69,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Speake Marin Tourbillon Royal Blue Hands-on",
@@ -1768,8 +1768,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster": "20260902-9c06b90d3bf0",
+      "cluster_main": true
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1797,7 +1797,7 @@
       "score_quality": 72,
       "score_notif": 52,
       "cluster": "20260902-8fe0ae49670e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Gerald Charles Masterlink Atelier Edition: Update with Hands-on",
@@ -1811,7 +1811,7 @@
       "score_quality": 93,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
