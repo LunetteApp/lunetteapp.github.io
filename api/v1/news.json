@@ -1,6 +1,6 @@
 {
-  "content_hash": "dd512075a991877b9144d9b8a5637284f898d5f9ee5ff29de2963a42d1367f1c",
-  "last_updated": "2026-09-03T22:47:14.737Z",
+  "content_hash": "31279c60c097c37cf0e4a4ef1a0fadfbe7e16caf53fbaa50af12de285a48ec26",
+  "last_updated": "2026-09-04T00:52:23.408Z",
   "premium": {
     "links": []
   },
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T22:06:07.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T03:00:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T00:00:48.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "大相撲をテーマにしたチューダーのポップアップストアが大阪の心斎橋PARCOと大阪高島屋で開催",
+      "url": "https://www.webchronos.net/news/171570/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/TD_osaka_1.webp",
+      "peek_preview": "チューダーは、大相撲をテーマとしたポップアップストアを大阪の2会場で順次開催する。心斎橋PARCOでは2026年9月6日（日）まで、大阪高島屋では9月9日（水）から15日（火）までの予定だ。会場では、幕内力士4名を起用し […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-04T00:00:48.000Z",
+      "score_quality": 53,
+      "score_notif": 12,
+      "cluster": "20260904-70a203d59c8f",
+      "cluster_main": true
+    },
     {
       "title": "Breitling Navitimer B09 Chronograph 41 Miles Davis: Uhren für das Clubhaus",
       "url": "https://www.uhrenkosmos.com/breitling-navitimer-b09-chronograph-41-miles/",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T07:18:00.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 39,
       "cluster": "20260902-17a5ba08b768",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Vuitton Escale Twin Zone Watches Hands-On: Clever Double 12-Hour Time Zone Dial",
@@ -744,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T07:01:21.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 42,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Akhor Brings Rare Stones on its AK-10 Stromatolite and AK-10 Maw Sit Sit",
@@ -1209,7 +1223,7 @@
       "score_quality": 84,
       "score_notif": 39,
       "cluster": "20260902-17a5ba08b768",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Striking a chord: The L.Leroy Vox Temporis swaps a minute hand for a minute repeater",
@@ -1376,8 +1390,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-9c06b90d3bf0",
-      "cluster_main": true
+      "cluster": "20260902-05f797be2ac3",
+      "cluster_main": false
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1419,7 +1433,7 @@
       "score_quality": 84,
       "score_notif": 42,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Gerald Charles Masterlink Atelier Edition: Update with Hands-on",
@@ -1839,20 +1853,6 @@
       "score_quality": 76,
       "score_notif": 47,
       "cluster": "20260901-cc96a7fa423d",
-      "cluster_main": true
-    },
-    {
-      "title": "Alto Returns with the Art 02",
-      "url": "https://watchesbysjx.com/2026/09/alto-art-02.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Alto-Art-02-3x2-centred-header-2-300x200.jpg",
-      "peek_preview": "Design-forward independent watchmaker Alto has kicked off Geneva Watch Days with its second model, the Art 02. While the most obvious difference is the addition of a matching bracelet, the entire watch has been refined...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T10:10:44.000Z",
-      "score_quality": 87,
-      "score_notif": 46,
-      "cluster": "20260901-d2d3cee3811b",
       "cluster_main": true
     }
   ]
