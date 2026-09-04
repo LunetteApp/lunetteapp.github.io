@@ -1,6 +1,6 @@
 {
-  "content_hash": "3279f978dcbc9f843efdb1e5d17d3bf02df60deee211f6d7202e882e5dfe55ab",
-  "last_updated": "2026-09-04T17:47:17.398Z",
+  "content_hash": "7499a6294f83143e3c0316b238e2c5d4e9587d27e7022cb748c8c0fc20fc9dd9",
+  "last_updated": "2026-09-04T18:47:25.145Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T14:00:09.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T18:00:17.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T20:49:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T18:14:23.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T17:00:00.000Z"
     },
     {
@@ -202,6 +202,34 @@
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
       "cluster_main": false
+    },
+    {
+      "title": "Editors' Picks: Our Favorite Releases From Geneva Watch Days 2026",
+      "url": "https://teddybaldassarre.com/blogs/watches/geneva-watch-days-2026-editors-picks",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Zenith_Chronomaster_Solo_Sport_Black_40mm_Ref_03.5000.3620_22.M5000_FL1.jpg?v=1788289013",
+      "peek_preview": "With Geneva Watch Days 2026 coming to a close, we tasked our editorial team with picking a few of their favorite new releases just in time for a long weekend here in the States. Of course there were a lot of big stories...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T18:14:23.000Z",
+      "score_quality": 32,
+      "score_notif": 18,
+      "cluster": "20260904-5b97125b6407",
+      "cluster_main": true
+    },
+    {
+      "title": "O&HoraPictor Unveils the Duet Collection",
+      "url": "https://wornandwound.com/ohorapictor-unveils-the-duet-collection/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/OHoraPictor-Duet-551.jpg",
+      "peek_preview": "While there’s often a large net cast over the art of enamel, the craft is actually quite nuanced. Enamel can take many forms outside classic grand feu, from cloisonne to champleve, plique-a-jour, flinque, paillonnee, gr...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T18:00:17.000Z",
+      "score_quality": 50,
+      "score_notif": 24,
+      "cluster": "20260904-b9943ff14a74",
+      "cluster_main": true
     },
     {
       "title": "Inside The Manufacture: A Behind-The-Scenes Look At The Swatch x Audemars Piguet Royal Pop",
@@ -730,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T22:01:54.000Z",
-      "score_quality": 73,
+      "score_quality": 75,
       "score_notif": 55,
       "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex To Auction Four Piece-Unique Daytonas",
@@ -845,7 +873,7 @@
       "score_quality": 94,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Baltic Aquascaphe GMT MK-II, Now a True GMT and More Accessible",
@@ -859,7 +887,7 @@
       "score_quality": 90,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Hamilton Murph 38mm enters a new dimension with a cosmic blue dial",
@@ -898,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T14:00:00.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
@@ -943,7 +971,7 @@
       "score_quality": 73,
       "score_notif": 52,
       "cluster": "20260902-8fe0ae49670e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex mette all’asta quattro esclusivi Daytona ‘Four Seasons’ per la Federer Foundation e Re:wild",
@@ -1514,10 +1542,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:46.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1545,7 +1573,7 @@
       "score_quality": 91,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1601,7 +1629,7 @@
       "score_quality": 74,
       "score_notif": 55,
       "cluster": "20260902-05f797be2ac3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "DOXA SUB 300 Ti5: So geht leichter und robuster mit Zertifikat",
@@ -1794,10 +1822,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-02T07:00:02.000Z",
-      "score_quality": 72,
+      "score_quality": 74,
       "score_notif": 52,
       "cluster": "20260902-8fe0ae49670e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Gerald Charles Masterlink Atelier Edition: Update with Hands-on",
@@ -1808,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:00.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1823,34 +1851,6 @@
       "featured": false,
       "published_at": "2026-09-02T07:00:00.000Z",
       "score_quality": 66,
-      "score_notif": 66,
-      "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": false
-    },
-    {
-      "title": "Il nuovo Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor 39 mm",
-      "url": "https://italianwatchspotter.com/girard-perregaux-laureato-fifty-tourbillon/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-28-1024x682.png",
-      "peek_preview": "Nel 2025 Girard-Perregaux ha celebrato i cinquant’anni del Laureato, intervenendo prima di tutto sulle proporzioni. Il Laureato Fifty, realizzato in 200 esemplari, riportava infatti la cassa a 39 millimetri, rivedendo i...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:00.000Z",
-      "score_quality": 61,
-      "score_notif": 55,
-      "cluster": "20260902-5f80741b22c2",
-      "cluster_main": false
-    },
-    {
-      "title": "ZENITH CHRONOMASTER Solo Sport: l’essenza dell’alta frequenza",
-      "url": "https://italianwatchspotter.com/i-nuovi-zenith-chronomaster-solo-sport/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/IWS02347-1024x683.jpg",
-      "peek_preview": "Dal 1969 pronunciare El Primero significa evocare quasi inevitabilmente il cronografo. Pulsanti, contatori, alta frequenza e quella capacità di misurare il tempo che ha consegnato il celebre calibro di ZENITH alla stori...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:00.000Z",
-      "score_quality": 69,
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
       "cluster_main": false
