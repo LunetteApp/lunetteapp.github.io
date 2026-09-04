@@ -1,6 +1,6 @@
 {
-  "content_hash": "4b1ca55032777b5ebf7877cf394770ff89f1b818fc5b85e26cb925b2c33f2be7",
-  "last_updated": "2026-09-04T14:47:29.593Z",
+  "content_hash": "778ba5ec90028dda44bc50b874e4b9a32ca8adf2bfabef977d0e1510e3591cb1",
+  "last_updated": "2026-09-04T15:47:34.706Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T14:00:09.000Z"
     },
     {
@@ -59,14 +59,14 @@
       "lang": "en",
       "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-04T14:43:07.000Z"
+      "latest_article_at": "2026-09-04T15:03:25.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T12:00:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-04T13:51:00.000Z"
+      "latest_article_at": "2026-09-04T15:00:21.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -114,14 +114,14 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T14:08:05.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T14:00:00.000Z"
     },
     {
@@ -202,6 +202,48 @@
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
       "cluster_main": false
+    },
+    {
+      "title": "Live from GWD26: Daniel Roth Extra Plat Rose Gold Gilt | Hands-on Impressions",
+      "url": "https://deployant.com/live-from-gwd26-daniel-roth-extra-plat-rose-gold-gilt-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-daniel-roth-extra-plat-rose-gold-gilt-hands-on-impressions",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0583-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors At the Daniel Roth suite, I had the pleasure of having Michel Navas, one of the principals of La Fabrique du Temps to introduce the Rose Gold Gilt dial instal...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T15:03:25.000Z",
+      "score_quality": 85,
+      "score_notif": 30,
+      "cluster": "20260902-2859c844bec3",
+      "cluster_main": true
+    },
+    {
+      "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
+      "url": "https://timeandtidewatches.com/andrews-geneva-watch-days-top3-2026/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-andrew-gwd-2026.webp",
+      "peek_preview": "Andrew McUtchen picks the three watches that made the biggest impact at Geneva Watch Days 2026, from Bulgari, Frederique Constant and Gallet. The post Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T15:00:21.000Z",
+      "score_quality": 27,
+      "score_notif": 12,
+      "cluster": "20260904-b1368e425493",
+      "cluster_main": true
+    },
+    {
+      "title": "Bring a Loupe: A Zenith De Luca, A Patek Philippe Beyer-Signed World Timer, A Carlo Ferrara CF1997 Regulator, And Much More",
+      "url": "https://www.hodinkee.com/articles/a-zenith-de-luca-a-patek-philippe-beyer-signed-world-timer-a-carlo-ferrara-cf1997-regulator-and-much",
+      "image": "https://hodinkee.imgix.net/uploads/images/9aa3fcc6-9e0f-4bcb-a018-dc9cc787f154/BAL5S.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T15:00:00.000Z",
+      "score_quality": 33,
+      "score_notif": 10,
+      "cluster": "20260904-83a9c13250df",
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Gérald Genta Minute Repeater Golden Obsidian | Hands-on Impressions",
@@ -313,7 +355,7 @@
       "score_quality": 89,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -369,7 +411,7 @@
       "score_quality": 90,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -422,10 +464,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:01.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -436,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -761,7 +803,7 @@
       "score_quality": 92,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Baltic Aquascaphe GMT MK-II, Now a True GMT and More Accessible",
@@ -900,7 +942,7 @@
       "published_at": "2026-09-03T12:00:38.000Z",
       "score_quality": 74,
       "score_notif": 45,
-      "cluster": "20260903-64d133c5f10a",
+      "cluster": "20260903-092192a163b3",
       "cluster_main": true
     },
     {
@@ -1195,7 +1237,7 @@
       "score_quality": 58,
       "score_notif": 45,
       "cluster": "20260903-092192a163b3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling celebra Miles Davis con il nuovo Navitimer B09",
@@ -1221,7 +1263,7 @@
       "featured": false,
       "published_at": "2026-09-03T06:50:48.000Z",
       "score_quality": 74,
-      "score_notif": 62,
+      "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
       "cluster_main": false
     },
@@ -1380,20 +1422,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: The Doxa Sub 300 Ti5",
-      "url": "https://www.hodinkee.com/articles/the-doxa-sub-300-ti5",
-      "image": "https://hodinkee.imgix.net/uploads/images/96c61174-2ab5-42ce-bcea-df4c2a79baa7/DoxaTI.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Doxa brings titanium out of the limited edition world and into their standard line with a lightweight take on their classic diver.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T15:42:00.000Z",
-      "score_quality": 85,
-      "score_notif": 55,
-      "cluster": "20260902-413671dd1842",
-      "cluster_main": true
-    },
-    {
       "title": "Breitling Navitimer Miles Davis: 500 pezzi ai Geneva Watch Days 2026",
       "url": "https://www.orologidiclasse.com/breitling-navitimer-b09-miles-davis-2026/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/breitling-navitimer-b09-miles-davis-2026.jpg",
@@ -1417,9 +1445,9 @@
       "featured": false,
       "published_at": "2026-09-02T14:00:35.000Z",
       "score_quality": 75,
-      "score_notif": 62,
+      "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Goes Back to Basics with Its First Time-Only Chronomaster",
@@ -1475,7 +1503,7 @@
       "score_quality": 90,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1500,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:00.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1517,7 +1545,7 @@
       "score_quality": 68,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Bell & Ross BR-X5 Meteorite—A Dial from Outer Space",
@@ -1655,7 +1683,7 @@
       "featured": false,
       "published_at": "2026-09-02T08:00:00.000Z",
       "score_quality": 70,
-      "score_notif": 62,
+      "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
       "cluster_main": false
     },
@@ -1766,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T07:00:00.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
@@ -1814,20 +1842,6 @@
       "cluster_main": false
     },
     {
-      "title": "Live from GWD26: Xhevdep Rexhepi Minute Inerte Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-xhevdep-rexhepi-minute-inerte-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-xhevdep-rexhepi-minute-inerte-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/xhepdep-rexhepi-minuteinerte-two.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Walking to attend some cocktails at the end of Day 0, I passed by Xhevdep Rexhepi’s atelier. Out of habit, I peered into the space to look at watchmakers work...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T06:09:46.000Z",
-      "score_quality": 81,
-      "score_notif": 41,
-      "cluster": "20260902-e8b8fe1d8696",
-      "cluster_main": true
-    },
-    {
       "title": "The VOXEL Meridion VX01-E brings digital timekeeping logic to a mechanical jumping hour",
       "url": "https://timeandtidewatches.com/the-voxel-meridion-vx01-e-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-voxel-meridion-vx01-e-1.jpg",
@@ -1840,20 +1854,6 @@
       "score_notif": 48,
       "cluster": "20260902-122ae20b8d58",
       "cluster_main": true
-    },
-    {
-      "title": "De Bethune Revives the Digitale in Style",
-      "url": "https://watchesbysjx.com/2026/09/de-bethune-db25-digitale-db25vd.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/de-bethune-db25-digitale-DB25VD-3-300x200.jpg",
-      "peek_preview": "One of De Bethune’s earliest models was a jumping hours wristwatch and now the brand has returned to concept with the DB25 Digitale. While largely similar to the earlier version in terms of function, the latest Digitale...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T06:00:10.000Z",
-      "score_quality": 87,
-      "score_notif": 44,
-      "cluster": "20260902-0ded27d018c4",
-      "cluster_main": false
     }
   ]
 }
