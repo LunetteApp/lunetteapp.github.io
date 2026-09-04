@@ -1,6 +1,6 @@
 {
-  "content_hash": "ec1722b614b527f090b664d0a3f5f14614892da54559b4323d4afeb856e6075a",
-  "last_updated": "2026-09-04T06:52:52.342Z",
+  "content_hash": "fa9f75249fa10060fcd80f771e7a0a77e8f372427792a250c8cae423ef533e42",
+  "last_updated": "2026-09-04T07:49:50.639Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
+      "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T05:00:45.000Z"
     },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T18:00:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T07:00:14.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T12:00:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T07:01:09.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T08:51:58.000Z"
     },
     {
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-03T22:06:07.000Z"
     },
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Introducing: L. Leroy Vox Temporis—The Voice of Time in a Minute Repeater Flying Tourbillon",
+      "url": "https://www.watchcollectinglifestyle.com/home/l-leroy-vox-temporis-minute-repeater-flying-tourbillon",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1788504961308-F55VG0HX7DX4OQ6E33JI/L.Leroy+Vox+Temporis-18.jpg?format=1500w",
+      "peek_preview": "Vox Temporis. Latin for \"voice of time.\" It's a name that would read as marketing bravado on most dials, but L. Leroy has built a watch that earns it outright—a haute horlogerie statement piece pairing a flying tourbill...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T14:00:00.000Z",
+      "score_quality": 83,
+      "score_notif": 52,
+      "cluster": "20260902-bda4ce8452f6",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
       "url": "https://www.watchcollectinglifestyle.com/home/h-moser-streamliner-tourbillon-skeleton-ceramic-apline-f1",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787930710115-AL7KEEEBMHVA3ER5OVUY/HMoser_6814-2100_Streamliner_Tourbillon_Skeleton_Ceramic_Alpine_Limited_Edition__Lifestyle_Wristshot_PierreGasly_Halo_Helmet.jpg?format=1500w",
@@ -190,6 +204,34 @@
       "cluster_main": false
     },
     {
+      "title": "Hands-On Debut: RZE UTD-8000 Orange And Tan Cerakote Watches Pair Color With Titanium Cases",
+      "url": "https://www.ablogtowatch.com/hands-on-debut-rze-utd-8000-orange-and-tan-cerakote-watches-pair-color-with-titanium-cases/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/RZE-UTD-8000-Orange-Tan-Cerakote-Digital-Watches-FEATURE-768x346.jpg",
+      "peek_preview": "Originally introduced last year in 2025, the RZE UTD-8000 is an ultra-durable titanium digital watch that was specifically created to withstand extreme levels of physical punishment. The original lineup of UTD-8000 mode...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T07:01:09.000Z",
+      "score_quality": 78,
+      "score_notif": 41,
+      "cluster": "20260904-978bc344f146",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The New Space-Tested SC02C, a Mechanical Chronograph by Konstantin Chaykin",
+      "url": "https://monochrome-watches.com/the-new-space-tested-sc02c-a-mechanical-chronograph-by-konstantin-chaykin/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Konstantin-Chaykin-SC02C-Chronograph-Space-Tested-Roscomos-2-600x237.jpg",
+      "peek_preview": "Mechanical watches have accompanied astronauts and cosmonauts into space for decades, but few contemporary watches can claim to have been developed specifically around the demands of extravehicular activity, like Konsta...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T07:00:14.000Z",
+      "score_quality": 81,
+      "score_notif": 58,
+      "cluster": "20260904-f0d9d59d716a",
+      "cluster_main": true
+    },
+    {
       "title": "Sunset On The Wrist: The Laurent Ferrier Classic Moon Dusk",
       "url": "https://www.fratellowatches.com/laurent-ferrier-classic-moon-dusk/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/LF_Classic-Moon-Dusk_Yellow-Gold_HighRes.jpg",
@@ -201,20 +243,6 @@
       "score_quality": 75,
       "score_notif": 24,
       "cluster": "20260904-327722c413ce",
-      "cluster_main": true
-    },
-    {
-      "title": "大相撲をテーマにしたチューダーのポップアップストアが大阪の心斎橋PARCOと大阪高島屋で開催",
-      "url": "https://www.webchronos.net/news/171570/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/TD_osaka_1.webp",
-      "peek_preview": "チューダーは、大相撲をテーマとしたポップアップストアを大阪の2会場で順次開催する。心斎橋PARCOでは2026年9月6日（日）まで、大阪高島屋では9月9日（水）から15日（火）までの予定だ。会場では、幕内力士4名を起用し […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-04T00:00:48.000Z",
-      "score_quality": 53,
-      "score_notif": 12,
-      "cluster": "20260904-70a203d59c8f",
       "cluster_main": true
     },
     {
@@ -326,7 +354,7 @@
       "published_at": "2026-09-03T15:55:55.000Z",
       "score_quality": 80,
       "score_notif": 28,
-      "cluster": "20260901-c91929facc0d",
+      "cluster": "20260903-846eb0b74f6f",
       "cluster_main": true
     },
     {
@@ -366,10 +394,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T14:01:27.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Hamilton Murph 38mm enters a new dimension with a cosmic blue dial",
@@ -411,7 +439,7 @@
       "score_quality": 87,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
@@ -577,9 +605,9 @@
       "featured": false,
       "published_at": "2026-09-03T10:08:03.000Z",
       "score_quality": 82,
-      "score_notif": 49,
+      "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Perrelet | Hands-on Impression",
@@ -1002,20 +1030,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition",
-      "url": "https://monochrome-watches.com/moser-streamliner-tourbillon-skeleton-ceramic-alpine-limited-edition-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/H-Moser-Cie-Streamliner-Tourbillon-Skeleton-Ceramic-Alpine-Limited-Edition-1-600x237.jpg",
-      "peek_preview": "H. Moser & Cie. and Alpine Motorsports continue their collaboration with a new creation, following the Streamliner Cylindrical Tourbillon Skeleton Alpine Limited Edition and the more performance-oriented Alpine Drivers...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T16:01:54.000Z",
-      "score_quality": 92,
-      "score_notif": 58,
-      "cluster": "20260902-76eaf6833984",
-      "cluster_main": false
-    },
-    {
       "title": "A Ceramic Makeover For The H. Moser & Cie. Streamliner Tourbillon Skeleton — An Alpine Limited Edition",
       "url": "https://www.fratellowatches.com/new-h-moser-cie-streamliner-tourbillon-skeleton-alpine-limited-edition/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/HMoser_6814-2100_Streamliner_Tourbillon_Skeleton_Ceramic_Alpine_Limited_Edition__Lifestyle_front.jpg",
@@ -1263,7 +1277,7 @@
       "featured": false,
       "published_at": "2026-09-02T09:00:36.000Z",
       "score_quality": 72,
-      "score_notif": 49,
+      "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
       "cluster_main": false
     },
@@ -1418,8 +1432,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-9c06b90d3bf0",
-      "cluster_main": true
+      "cluster": "20260902-05f797be2ac3",
+      "cluster_main": false
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1584,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T20:46:27.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward Introduces the new Biscay Dive Watch Collection",
@@ -1710,10 +1724,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-01T13:45:17.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 72,
       "cluster": "20260901-2a4b0cb5e22f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bulova Shelby Racer Chronograph 96K118: l’alluminio della Daytona Coupe al polso",
@@ -1826,34 +1840,6 @@
       "score_notif": 66,
       "cluster": "20260901-05c0b5eeb00a",
       "cluster_main": true
-    },
-    {
-      "title": "Striking Resemblance: The Piaget Polo Minute Repeater",
-      "url": "https://watchesbysjx.com/2026/09/piaget-polo-minute-repeater.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Piaget-Polo-Minute-Repeater-300x200.jpg",
-      "peek_preview": "More than a decade after unveiling its first in-house minute repeater, Piaget has revived the once-record-setting calibre in a familiar-looking guise. The new Polo Minute Repeater pairs the ultra-thin, micro-rotor cal....",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-01T11:19:38.000Z",
-      "score_quality": 86,
-      "score_notif": 58,
-      "cluster": "20260901-363edcbdf1f7",
-      "cluster_main": true
-    },
-    {
-      "title": "Classics Moneta Handwinding: l’addio al quarzo di Frederique Constant",
-      "url": "https://giornaleorologi.it/2026/09/01/frederique-constant-classics-moneta-handwinding/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/Classics_Moneta_Handwinding_FC-435BBL3S6_Web-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Classics Moneta Handwinding: l’addio al quarzo di Frederique Constant Finalmente è arrivato. Sono lieta di annunciare che – in occasione dei Geneva Watch Days – Frederique Constant presenta il...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-01T11:00:04.000Z",
-      "score_quality": 79,
-      "score_notif": 28,
-      "cluster": "20260901-c91929facc0d",
-      "cluster_main": false
     }
   ]
 }
