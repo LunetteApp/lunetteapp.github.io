@@ -1,6 +1,6 @@
 {
-  "content_hash": "778ba5ec90028dda44bc50b874e4b9a32ca8adf2bfabef977d0e1510e3591cb1",
-  "last_updated": "2026-09-04T15:47:34.706Z",
+  "content_hash": "793dd0d07905ad064d1dd8d448596ab211de368c32e4d641ceeb0a9ac39212a3",
+  "last_updated": "2026-09-04T16:47:23.827Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T13:00:50.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T16:30:32.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T12:00:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-04T15:50:07.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -58,14 +58,14 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T15:03:25.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T15:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T15:00:21.000Z"
     },
     {
@@ -202,6 +202,34 @@
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
       "cluster_main": false
+    },
+    {
+      "title": "First Look – The New Schwarz Etienne 1902 Petite Seconde Heure Dorée",
+      "url": "https://monochrome-watches.com/schwarz-etienne-1902-petite-seconde-heure-doree-black-dlc-titanium-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/chwarz-Etienne-1902-Petite-Seconde-Heure-Doree-black-dlc-titanium-review-1-600x237.jpg",
+      "peek_preview": "Schwarz Etienne’s 1902 collection has evolved through a broad range of interpretations, including the Petite Seconde, Power Reserve and GMT models, all united by the Manufacture’s focus on in-house movement development...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T16:30:32.000Z",
+      "score_quality": 80,
+      "score_notif": 46,
+      "cluster": "20260904-eb0ad957f048",
+      "cluster_main": true
+    },
+    {
+      "title": "Inside Hampden’s First Hand Workshop, Where You Assemble The Watch You Take Home",
+      "url": "https://www.ablogtowatch.com/inside-hampdens-first-hand-workshop-where-you-assemble-the-watch-you-take-home/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hampden-00239-768x1151.jpg",
+      "peek_preview": "For most watch enthusiasts, understanding how a mechanical movement works is largely an exercise in observation. Exhibition casebacks reveal the bridges, wheels, gears and balance wheel at work, while books and videos c...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T15:50:07.000Z",
+      "score_quality": 72,
+      "score_notif": 24,
+      "cluster": "20260904-74b58ed93941",
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Daniel Roth Extra Plat Rose Gold Gilt | Hands-on Impressions",
@@ -352,10 +380,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:00:50.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -408,10 +436,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:01:04.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -467,7 +495,7 @@
       "score_quality": 91,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -481,7 +509,7 @@
       "score_quality": 90,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -873,7 +901,7 @@
       "score_quality": 81,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -916,20 +944,6 @@
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
       "cluster_main": false
-    },
-    {
-      "title": "First Look – The Bold Bulgari Octo Finissimo Dazzle",
-      "url": "https://monochrome-watches.com/first-look-bulgari-bvlgari-octo-finissimo-dazzle-geneva-watch-days-specs-price-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Bulgari-Bvlgari-Octo-Finissimo-Dazzle-Featured-600x237.jpg",
-      "peek_preview": "The Octo Finissimo may be better known as Bulgari’s record-breaking platform for ultra-thin watchmaking. However, over the years, the collection has also welcomed artistic experimentation, with special editions such as...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T12:00:43.000Z",
-      "score_quality": 78,
-      "score_notif": 46,
-      "cluster": "20260903-f66231fa2493",
-      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: The CIGA design Everest China 65th Anniversary Watch Delivers The Brand’s First-Ever Automaton With Mountaineering Flair",
@@ -1066,10 +1080,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:13.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1840,20 +1854,6 @@
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
       "cluster_main": false
-    },
-    {
-      "title": "The VOXEL Meridion VX01-E brings digital timekeeping logic to a mechanical jumping hour",
-      "url": "https://timeandtidewatches.com/the-voxel-meridion-vx01-e-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-voxel-meridion-vx01-e-1.jpg",
-      "peek_preview": "The new Meridion VX01-E from VOXEL showcases a trio of textured dial finishes with an inventive jump hour display The post The VOXEL Meridion VX01-E brings digital timekeeping logic to a mechanical jumping hour appeared...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T06:00:55.000Z",
-      "score_quality": 74,
-      "score_notif": 48,
-      "cluster": "20260902-122ae20b8d58",
-      "cluster_main": true
     }
   ]
 }
