@@ -1,6 +1,6 @@
 {
-  "content_hash": "aa13a18f926be536aa278b6220581ada539e91f974a240e1484ddbeacc439d49",
-  "last_updated": "2026-09-05T15:47:24.903Z",
+  "content_hash": "171ee2ed93074ff6f14a3a003fbf5fd8c0bb66ca5282bab734df23bf0beb4e95",
+  "last_updated": "2026-09-05T21:47:23.856Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-05T15:00:58.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-05T15:30:18.000Z"
     },
     {
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T22:06:07.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T21:12:17.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Tudor Northflag: Eine Uhrenmanufaktur zeigt Flagge",
+      "url": "https://www.uhrenkosmos.com/tudor-northflag-und-tudor-northflag-gmt-2026/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Tudor-North-Flag-2015-2026-Uhrenkosmos.jpg",
+      "peek_preview": "Mit GMT-Funktion, Master-Chronometer-Zertifizierung und T-fit-Band kehrt die Tudor Northflag 2026 zurück. Nicht als nostalgische Neuauflage, sondern als gekonnte Evolution jener North Flag, mit der Tudor 2015 technisch...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-05T21:12:17.000Z",
+      "score_quality": 46,
+      "score_notif": 8,
+      "cluster": "20260905-c2b18b87b697",
+      "cluster_main": true
+    },
     {
       "title": "New releases from Bvlgari, Lange, Laurent Ferrier and more",
       "url": "https://timeandtidewatches.com/bvlgari-lange-laurent-ferrier-last-week-in-watches-gwd-geneva-watch-days/",
@@ -229,7 +243,7 @@
       "score_quality": 84,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why A Seiko 5 Is The Perfect Holiday Watch",
@@ -607,7 +621,7 @@
       "score_quality": 94,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -663,7 +677,7 @@
       "score_quality": 94,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:01.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -730,10 +744,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:00.000Z",
-      "score_quality": 92,
+      "score_quality": 95,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -1010,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T16:00:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 44,
       "cluster": "20260902-0ded27d018c4",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Frederique Constant Classics Moneta | Hands-on Impressions",
@@ -1097,7 +1111,7 @@
       "score_quality": 90,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -1248,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:51:58.000Z",
-      "score_quality": 69,
+      "score_quality": 85,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet is relaunching with three full collections ready for the modern adventurer",
@@ -1276,10 +1290,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:13.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1377,7 +1391,7 @@
       "score_quality": 89,
       "score_notif": 44,
       "cluster": "20260902-0ded27d018c4",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Speake-Marin Tourbillon Royal Blue—Five Pieces Only at Geneva Watch Days",
@@ -1642,7 +1656,7 @@
       "published_at": "2026-09-02T14:00:10.000Z",
       "score_quality": 83,
       "score_notif": 66,
-      "cluster": "20260902-5c8e8deb344d",
+      "cluster": "20260902-b1878d65c6ea",
       "cluster_main": true
     },
     {
@@ -1710,10 +1724,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T11:01:02.000Z",
-      "score_quality": 72,
+      "score_quality": 74,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Bell & Ross BR-X5 Meteorite—A Dial from Outer Space",
@@ -1769,7 +1783,7 @@
       "score_quality": 73,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Striking a chord: The L.Leroy Vox Temporis swaps a minute hand for a minute repeater",
@@ -1839,20 +1853,6 @@
       "score_quality": 70,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
-    },
-    {
-      "title": "Zenith Chronomaster Solo Sport: Chronomaster ohne Chrono",
-      "url": "https://www.uhrenkosmos.com/zenith-chronomaster-solo-sport-ohne-chrono/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Zenith-Chronomaster-Solo-Sport-vier-Versionen.jpg",
-      "peek_preview": "Beim Chronomaster Solo Sport überträgt Zenith die Hochfrequenz-DNA des El Primero erstmals auf eine reine Dreizeigeruhr. 40 Millimeter Edelstahl, 20 bar Wasserdichte, Keramik und das El Primero 3620 stehen für Vielseiti...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-09-02T07:16:47.000Z",
-      "score_quality": 73,
-      "score_notif": 66,
-      "cluster": "20260902-5c8e8deb344d",
       "cluster_main": false
     }
   ]
