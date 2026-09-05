@@ -1,6 +1,6 @@
 {
-  "content_hash": "d2bfc1f2b5a7d8b4dd6a591082117b4c822149d739cfee329ba7417af69456a9",
-  "last_updated": "2026-09-05T03:47:08.411Z",
+  "content_hash": "84ba2a9cd88d19768ffb56d3770634ceb7383db6db2fee14a8a79a137857577e",
+  "last_updated": "2026-09-05T05:47:17.496Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T12:00:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T05:00:07.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T10:31:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T05:30:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-05T03:00:56.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "LAPS Arche : la marque parisienne franchit le cap de l’automatique",
+      "url": "https://www.welovewatches.fr/laps-arche-la-marque-parisienne-franchit-le-cap-de-lautomatique.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-montres-laps-arche-s01-vert-ivoire-s02-bleu-noir.jpg",
+      "peek_preview": "LAPS, la maison parisienne connue pour ses cadrans graphiques et ses collaborations créatives, fête cette année ses 10 ans d'existence. Et pour marquer cette décennie, la marque ne se contente pas d'une simple édition a...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-05T05:30:00.000Z",
+      "score_quality": 57,
+      "score_notif": 26,
+      "cluster": "20260905-c82639015d66",
+      "cluster_main": true
+    },
+    {
+      "title": "High Five! Here’s The Daniel Roth Extra Plat Rose Gold Gilt, The Dress Watch’s Fifth Iteration",
+      "url": "https://www.fratellowatches.com/heres-the-daniel-roth-extra-plat-rose-gold-gilt/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Gilt_RG_wrist_CMJN.jpg",
+      "peek_preview": "A black-and-gold watch is hardly a new idea. It is one of those colorways that watch brands opt for whenever they want something to look slightly more serious, a bit more elegant, or simply a little more expensive. But...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T05:00:07.000Z",
+      "score_quality": 72,
+      "score_notif": 30,
+      "cluster": "20260902-2859c844bec3",
+      "cluster_main": false
+    },
     {
       "title": "「リシャール・ミル チャリティトーナメント2026」にバッバ・ワトソンが出場！被災地支援やジュニアゴルファー育成を実施",
       "url": "https://www.webchronos.net/news/171380/",
@@ -215,7 +243,7 @@
       "score_quality": 93,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: A. Lange & Söhne Triple Split in Platinum—The Third Iteration",
@@ -397,7 +425,7 @@
       "score_quality": 87,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Time to win: tutti gli orologi che hanno segnato la Formula 1",
@@ -450,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:00:50.000Z",
-      "score_quality": 91,
+      "score_quality": 94,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -985,7 +1013,7 @@
       "score_quality": 89,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Highlife Moonphase Date Manufacture: la Luna sporty-chic di Frederique Constant",
@@ -998,7 +1026,7 @@
       "published_at": "2026-09-03T12:28:26.000Z",
       "score_quality": 75,
       "score_notif": 52,
-      "cluster": "20260902-8fe0ae49670e",
+      "cluster": "20260903-add152986009",
       "cluster_main": true
     },
     {
@@ -1052,10 +1080,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T11:05:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Atelier Wen x Massena LAB Inflection Shuò pairs tremblage dials with tantalum",
@@ -1094,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T10:08:03.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Perrelet | Hands-on Impression",
@@ -1150,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:13.000Z",
-      "score_quality": 82,
+      "score_quality": 85,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1167,7 +1195,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -1590,20 +1618,6 @@
       "cluster_main": false
     },
     {
-      "title": "Breitling Reimagines A Jazz Classic With The Navitimer B09 Chronograph 41 Tribute To Miles Davis",
-      "url": "https://www.fratellowatches.com/breitling-navitimer-b09-chronograph-41-tribute-to-miles-davis/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Breitling-Navitimer-B09-Chronograph-41-Tribute-to-Miles-Davis-Air-Racer-FlatLay.jpg",
-      "peek_preview": "Breitling honors the centennial of Miles Davis’s birth with the new Navitimer B09 Chronograph 41 Tribute to Miles Davis. This limited-edition Navitimer revives a host of vintage design cues to create a fitting tribute t...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T12:00:00.000Z",
-      "score_quality": 93,
-      "score_notif": 50,
-      "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
-    },
-    {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
       "url": "https://timeandtidewatches.com/doxa-sub-300-ti5-collection-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-doxa-sub300ti5-1.jpg",
@@ -1612,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T11:01:02.000Z",
-      "score_quality": 70,
+      "score_quality": 72,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Bell & Ross BR-X5 Meteorite—A Dial from Outer Space",
@@ -1671,7 +1685,7 @@
       "score_quality": 71,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Speake Marin Tourbillon Royal Blue Hands-on",
@@ -1824,8 +1838,8 @@
       "published_at": "2026-09-02T07:00:04.000Z",
       "score_quality": 60,
       "score_notif": 55,
-      "cluster": "20260902-05f797be2ac3",
-      "cluster_main": false
+      "cluster": "20260902-9c06b90d3bf0",
+      "cluster_main": true
     },
     {
       "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
@@ -1840,20 +1854,6 @@
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
       "cluster_main": true
-    },
-    {
-      "title": "Frederique Constant Highlife Moonphase Date Manufacture: novità dei Geneva Watch Days 2026",
-      "url": "https://www.orologidiclasse.com/frederique-constant-highlife-moonphase-date-2026/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/frederique-constant-highlife-moonphase-date-2026-foto-copertina.jpg",
-      "peek_preview": "Tra le novità dei Geneva Watch Days 2026, Frédérique Constant presenta il nuovo Highlife Moonphase Date Manufacture, un modello da 39 mm che abbina fase lunare e data al nuovo calibro automatico di Manifattura FC-716. L...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:02.000Z",
-      "score_quality": 74,
-      "score_notif": 52,
-      "cluster": "20260902-8fe0ae49670e",
-      "cluster_main": false
     }
   ]
 }
