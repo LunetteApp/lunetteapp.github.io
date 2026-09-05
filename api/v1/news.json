@@ -1,6 +1,6 @@
 {
-  "content_hash": "d584b5dcc3c330cd8b2faaf7663362ecf72777a4bd41538778ea855300ed4764",
-  "last_updated": "2026-09-05T07:47:07.729Z",
+  "content_hash": "56af0be9a35b10850418f2b640e46a686b52368064493271b595b1eb4d2385ee",
+  "last_updated": "2026-09-05T08:47:41.516Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-05T07:01:36.000Z"
     },
     {
@@ -78,15 +78,15 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T15:00:21.000Z"
+      "estimated_articles_per_day": 2.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T08:00:39.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-05T06:52:41.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Girard-Perregaux fits a tourbillon and micro-rotor into the 10mm-thick Laureato Fifty",
+      "url": "https://timeandtidewatches.com/girard-perregaux-laureato-fifty-micro-rotor-39mm-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-girard-perregaux-laureato-micro-rotor-39mm.jpg",
+      "peek_preview": "Meet the Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor, a 39mm steel Laureato with two Clous de Paris dials and a new GP8410 calibre. The post Girard-Perregaux fits a tourbillon and micro-rotor into the 10mm-th...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T08:00:39.000Z",
+      "score_quality": 74,
+      "score_notif": 55,
+      "cluster": "20260902-5f80741b22c2",
+      "cluster_main": false
+    },
     {
       "title": "Hands-On: Raymond Weil’s Millesime ‘The Fifty’ Limited-Edition Watch Revitalizes Vintage Movement",
       "url": "https://www.ablogtowatch.com/hands-on-with-raymond-weils-surprisingly-successful-millesime-the-fifty-limited-edition-watch-with-vintage-chronograph-movement/",
@@ -968,10 +982,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T14:01:27.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Hamilton Murph 38mm enters a new dimension with a cosmic blue dial",
@@ -1013,7 +1027,7 @@
       "score_quality": 93,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
@@ -1206,10 +1220,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:13.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1223,7 +1237,7 @@
       "score_quality": 86,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -1516,7 +1530,7 @@
       "published_at": "2026-09-02T18:27:51.000Z",
       "score_quality": 76,
       "score_notif": 55,
-      "cluster": "20260902-934cc988b551",
+      "cluster": "20260902-5f80741b22c2",
       "cluster_main": true
     },
     {
@@ -1783,7 +1797,7 @@
       "score_quality": 48,
       "score_notif": 55,
       "cluster": "20260902-5f80741b22c2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "DANIEL ROTH Extra Plat Rose Gold Gilt: il ritorno del quadrante gilt",
@@ -1839,20 +1853,6 @@
       "score_quality": 82,
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": false
-    },
-    {
-      "title": "Gérald Genta Geneva Minute Repeater Golden Obsidian: il tempo torna a farsi ascoltare",
-      "url": "https://italianwatchspotter.com/genta-minute-repeater-golden-obsidian/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-1-1024x683.png",
-      "peek_preview": "Ci sono complicazioni che si osservano attraverso un quadrante. La ripetizione minuti chiede prima di tutto di essere ascoltata. Gérald Genta lo aveva compreso molto bene: era una delle complicazioni che amava maggiorme...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:47.000Z",
-      "score_quality": 72,
-      "score_notif": 46,
-      "cluster": "20260902-83a460aa33d2",
       "cluster_main": false
     }
   ]
