@@ -1,6 +1,6 @@
 {
-  "content_hash": "84ba2a9cd88d19768ffb56d3770634ceb7383db6db2fee14a8a79a137857577e",
-  "last_updated": "2026-09-05T05:47:17.496Z",
+  "content_hash": "d584b5dcc3c330cd8b2faaf7663362ecf72777a4bd41538778ea855300ed4764",
+  "last_updated": "2026-09-05T07:47:07.729Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-05T05:00:07.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T15:50:07.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T07:01:36.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T19:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T06:52:41.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-05T05:30:00.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: Raymond Weil’s Millesime ‘The Fifty’ Limited-Edition Watch Revitalizes Vintage Movement",
+      "url": "https://www.ablogtowatch.com/hands-on-with-raymond-weils-surprisingly-successful-millesime-the-fifty-limited-edition-watch-with-vintage-chronograph-movement/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Raymond-Weil-Millesime-The-Fifty-50-anniversary-chronograph-watch-4-768x346.jpg",
+      "peek_preview": "2026 marks the 50th anniversary of Geneva-based Raymond Weil watches. The company is among the relatively rare maisons that combine traditional Swiss watchmaking with an accessible, practical approach to marketing and p...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T07:01:36.000Z",
+      "score_quality": 74,
+      "score_notif": 27,
+      "cluster": "20260905-cbd029295f83",
+      "cluster_main": true
+    },
+    {
+      "title": "Weekend Reads: Geneva Watch Days Releases, Lange's Triple Split Returns in Platinum, and the M.A.D.3 Calabrese Raffle is Open",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-09-05",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T06:52:41.000Z",
+      "score_quality": 34,
+      "score_notif": 10,
+      "cluster": "20260905-d7bb0d33fee4",
+      "cluster_main": true
+    },
     {
       "title": "LAPS Arche : la marque parisienne franchit le cap de l’automatique",
       "url": "https://www.welovewatches.fr/laps-arche-la-marque-parisienne-franchit-le-cap-de-lautomatique.html",
@@ -613,7 +641,7 @@
       "title": "A Comeback for the Lange 1815 Up/Down",
       "url": "https://watchesbysjx.com/2026/09/lange-1815-up-down-limited-edition.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/lange-1815-up-down-blue-dial-300x200.jpg",
-      "peek_preview": "A. Lange & Söhne’s mid-sized 1815 Up/Down is reincarnated as a dark blue panda 300-piece limited edition in a slender, 37.5 mm case. More faithful than usual to the Glashütte watchmaking tradition, inside and out, the 1...",
+      "peek_preview": "A. Lange & Söhne’s mid-sized 1815 Up/Down is reincarnated with a dark blue “panda” dial in a slender, 37.5 mm case. More faithful than usual to the Glashütte watchmaking tradition, inside and out, the 1815 Up/Down has a...",
       "source_name": "SJX Watches",
       "lang": "en",
       "featured": false,
@@ -943,7 +971,7 @@
       "score_quality": 92,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Hamilton Murph 38mm enters a new dimension with a cosmic blue dial",
@@ -982,10 +1010,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T14:00:00.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
@@ -1181,7 +1209,7 @@
       "score_quality": 85,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1192,10 +1220,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:03.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -1556,10 +1584,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T14:00:10.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "De Bethune DB25 Digitale: ore saltanti e luna sferica per contemplare il tempo",
@@ -1826,34 +1854,6 @@
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
       "cluster_main": false
-    },
-    {
-      "title": "Oris Goes Gonzo With New Watch Releases At Geneva Watch Days 2026",
-      "url": "https://teddybaldassarre.com/blogs/watches/oris-geneva-watch-days-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Oris-ProPilot-Gonzo-profile-2.jpg?v=1788291337",
-      "peek_preview": "Geneva Watch Days, the timepiece industry’s late-summer showcase, kicks off today, and we’re spotlighting some of the new releases from notable brands. Here is a first look at the newest models from Oris, which range fr...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:04.000Z",
-      "score_quality": 60,
-      "score_notif": 55,
-      "cluster": "20260902-9c06b90d3bf0",
-      "cluster_main": true
-    },
-    {
-      "title": "Zenith Debuts New Three-Hander Chronomaster Solo Sport At Geneva Watch Days",
-      "url": "https://teddybaldassarre.com/blogs/watches/zenith-chronomaster-solo-sport",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Zenith_Chronomaster_Solo_Sport_White_03.5000.3620_69.M5000_5.jpg?v=1788283543",
-      "peek_preview": "When you think of the El Primero caliber, you probably think of its pioneering history, sure, but the first thing that comes to mind is, most likely, a chronograph. Further, in the contemporary context of the Chronomast...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:04.000Z",
-      "score_quality": 83,
-      "score_notif": 66,
-      "cluster": "20260902-5c8e8deb344d",
-      "cluster_main": true
     }
   ]
 }
