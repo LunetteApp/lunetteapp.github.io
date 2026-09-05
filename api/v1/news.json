@@ -1,6 +1,6 @@
 {
-  "content_hash": "56af0be9a35b10850418f2b640e46a686b52368064493271b595b1eb4d2385ee",
-  "last_updated": "2026-09-05T08:47:41.516Z",
+  "content_hash": "50f4f9c8da61b2cd0bf1a95c10e53de76c77558119a3e7aa745ff0caeeca7a27",
+  "last_updated": "2026-09-05T09:46:53.440Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-05T05:00:07.000Z"
+      "estimated_articles_per_day": 3.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T09:00:31.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T16:30:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T09:00:06.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-05T08:00:39.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Why A Seiko 5 Is The Perfect Holiday Watch",
+      "url": "https://www.fratellowatches.com/why-a-seiko-5-is-the-perfect-holiday-watch/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/07/Henry-Black-Seiko-5-5.jpg",
+      "peek_preview": "The plan was simple: load the Subaru Forester, fold out the rooftop tent, and disappear for two nights at Frazer Beach, a small campground tucked inside Munmorah State Conservation Area on the New South Wales Central Co...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T09:00:31.000Z",
+      "score_quality": 43,
+      "score_notif": 7,
+      "cluster": "20260905-859118418eea",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The New Oris Social Club Edition II",
+      "url": "https://monochrome-watches.com/oris-social-club-edition-ii-aquis-date-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/08/Oris-Social-Club-Edition-II-1-600x237.jpg",
+      "peek_preview": "The Oris Social Club is no longer a local initiative. With 62 chapters now established around the world, the community has become a truly international network of collectors, enthusiasts and friends. The new Oris Social...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T09:00:06.000Z",
+      "score_quality": 76,
+      "score_notif": 46,
+      "cluster": "20260905-c4c9b79c57c1",
+      "cluster_main": true
+    },
     {
       "title": "Girard-Perregaux fits a tourbillon and micro-rotor into the 10mm-thick Laureato Fifty",
       "url": "https://timeandtidewatches.com/girard-perregaux-laureato-fifty-micro-rotor-39mm-introducing/",
@@ -508,7 +536,7 @@
       "published_at": "2026-09-04T13:06:00.000Z",
       "score_quality": 79,
       "score_notif": 58,
-      "cluster": "20260902-76eaf6833984",
+      "cluster": "20260904-7c88e6cb894a",
       "cluster_main": true
     },
     {
@@ -974,20 +1002,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The Baltic Aquascaphe GMT MK-II, Now a True GMT and More Accessible",
-      "url": "https://monochrome-watches.com/baltic-aquascaphe-gmt-mk-ii-true-gmt-miyota-movement-more-accessible-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Baltic-Aquascaphe-GMT-MK-II-True-GMT-Miyota-movement-2-600x237.jpg",
-      "peek_preview": "Baltic is giving its Aquascaphe GMT the MK-II treatment, and the good news is, it is more capable and accessible than before. The Aquascaphe MK-II got its update last year, and now the GMT diver gets the same sharper ca...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T14:01:27.000Z",
-      "score_quality": 94,
-      "score_notif": 63,
-      "cluster": "20260903-57e5ce58376a",
-      "cluster_main": true
-    },
-    {
       "title": "The Hamilton Murph 38mm enters a new dimension with a cosmic blue dial",
       "url": "https://timeandtidewatches.com/hamilton-murph-deep-blue-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-hamilton-murph-38mm-deep-blue.jpg",
@@ -1027,7 +1041,7 @@
       "score_quality": 93,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
@@ -1038,10 +1052,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T13:00:20.000Z",
-      "score_quality": 83,
+      "score_quality": 88,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -1223,7 +1237,7 @@
       "score_quality": 87,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1548,20 +1562,6 @@
       "cluster_main": false
     },
     {
-      "title": "A Ceramic Makeover For The H. Moser & Cie. Streamliner Tourbillon Skeleton — An Alpine Limited Edition",
-      "url": "https://www.fratellowatches.com/new-h-moser-cie-streamliner-tourbillon-skeleton-alpine-limited-edition/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/HMoser_6814-2100_Streamliner_Tourbillon_Skeleton_Ceramic_Alpine_Limited_Edition__Lifestyle_front.jpg",
-      "peek_preview": "There is something particularly Moser about taking a watch already built around an absurd amount of visible mechanics and deciding that what it really needs is a ceramic case. Today, I’m taking a look at the new H. Mose...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T16:00:57.000Z",
-      "score_quality": 78,
-      "score_notif": 58,
-      "cluster": "20260902-76eaf6833984",
-      "cluster_main": false
-    },
-    {
       "title": "Breitling Navitimer Miles Davis: 500 pezzi ai Geneva Watch Days 2026",
       "url": "https://www.orologidiclasse.com/breitling-navitimer-b09-miles-davis-2026/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/breitling-navitimer-b09-miles-davis-2026.jpg",
@@ -1643,7 +1643,7 @@
       "score_quality": 94,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1654,10 +1654,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:17.000Z",
-      "score_quality": 85,
+      "score_quality": 95,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
