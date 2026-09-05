@@ -1,6 +1,6 @@
 {
-  "content_hash": "38308181aedd521768b9bc2b28c0833812c26237425ddbe8bd6d87e9466cd2e5",
-  "last_updated": "2026-09-05T14:47:02.372Z",
+  "content_hash": "aa13a18f926be536aa278b6220581ada539e91f974a240e1484ddbeacc439d49",
+  "last_updated": "2026-09-05T15:47:24.903Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-05T09:00:06.000Z"
+      "estimated_articles_per_day": 4.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T15:00:58.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-05T14:40:05.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-05T08:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T15:30:18.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "New releases from Bvlgari, Lange, Laurent Ferrier and more",
+      "url": "https://timeandtidewatches.com/bvlgari-lange-laurent-ferrier-last-week-in-watches-gwd-geneva-watch-days/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/laurent-ferrier-web.jpg",
+      "peek_preview": "With Geneva Watch Days in full swing, here you’ll find the most important new releases of the second part of the year so far. We’re covering the event live from Geneva and, frankly, spoilt for choice; the sheer number o...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T15:30:18.000Z",
+      "score_quality": 33,
+      "score_notif": 22,
+      "cluster": "20260905-1658a69d561d",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The Marcu Initial, The Debut Watch of an Experienced Watchmaker",
+      "url": "https://monochrome-watches.com/marcu-initial-the-debut-watch-of-an-experienced-watchmaker-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Marcu-Initial-Watch-Independent-Watchmaking-review-1-600x237.jpg",
+      "peek_preview": "Among the new independent watch brands recently unveiled, Marcu stands out for several reasons: not only for the originality of its debut timepiece, but also for the original background of the man behind it. Jérôme Marc...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T15:00:58.000Z",
+      "score_quality": 80,
+      "score_notif": 43,
+      "cluster": "20260905-153da11ea2c0",
+      "cluster_main": true
+    },
     {
       "title": "Live from GWD26: Kerbedanz 65’27’’ collection | Hands-on Impressions",
       "url": "https://deployant.com/live-from-gwd26-kerbedanz-6527-collection-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-kerbedanz-6527-collection-hands-on-impressions",
@@ -985,7 +1013,7 @@
       "score_quality": 88,
       "score_notif": 44,
       "cluster": "20260902-0ded27d018c4",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Frederique Constant Classics Moneta | Hands-on Impressions",
@@ -1013,20 +1041,6 @@
       "score_quality": 77,
       "score_notif": 39,
       "cluster": "20260903-e49b1d0c8e51",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Hand-Hammered Dials for the Gerald Charles Masterlink Atelier Edition",
-      "url": "https://monochrome-watches.com/gerald-charles-masterlink-atelier-edition-hand-hammered-dial-integrated-sports-watch-introducing/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/Gerald-Charles-Masterlink-Atelier-Edition-Hand-Hammered-Dials-6-600x237.jpg",
-      "peek_preview": "Gerald Charles, a brand founded by the late watch designer Gérald Genta in 2000 and backed by the Italian Zivani family, was revived by Federico Zivani after the designer’s death and reappeared in 2020 with an idiosyncr...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T15:00:00.000Z",
-      "score_quality": 96,
-      "score_notif": 43,
-      "cluster": "20260902-156ccdf8d8c5",
       "cluster_main": true
     },
     {
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T13:00:20.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -1265,7 +1279,7 @@
       "score_quality": 89,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1360,10 +1374,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:09:52.000Z",
-      "score_quality": 80,
+      "score_quality": 89,
       "score_notif": 44,
       "cluster": "20260902-0ded27d018c4",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Speake-Marin Tourbillon Royal Blue—Five Pieces Only at Geneva Watch Days",
@@ -1668,10 +1682,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:46.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1685,7 +1699,7 @@
       "score_quality": 95,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1699,7 +1713,7 @@
       "score_quality": 72,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Bell & Ross BR-X5 Meteorite—A Dial from Outer Space",
@@ -1752,10 +1766,10 @@
       "lang": "de",
       "featured": false,
       "published_at": "2026-09-02T09:43:04.000Z",
-      "score_quality": 71,
+      "score_quality": 73,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Striking a chord: The L.Leroy Vox Temporis swaps a minute hand for a minute repeater",
@@ -1782,8 +1796,8 @@
       "published_at": "2026-09-02T08:01:07.000Z",
       "score_quality": 86,
       "score_notif": 43,
-      "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster": "20260902-3c5480e99492",
+      "cluster_main": true
     },
     {
       "title": "The new Keris Meca Tradition celebrates the golden age of watchmaking",
@@ -1840,20 +1854,6 @@
       "score_notif": 66,
       "cluster": "20260902-5c8e8deb344d",
       "cluster_main": false
-    },
-    {
-      "title": "The Design Lover’s Light-Powered Watch: Review Of The Citizen Photon Eco-Drive 50th Anniversary Limited Edition",
-      "url": "https://www.ablogtowatch.com/the-design-lovers-light-powered-watch-review-of-the-citizen-photon-eco-drive-50th-anniversary-limited-edition/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Citizen-Eco-Drive-Photon-BJ6569-59X-watch-13-768x346.jpg",
-      "peek_preview": "Earlier in 2026, Citizen chose New York City to celebrate the 50th anniversary of its landmark Eco-Drive light-charging quartz watch movement technology. The Japanese company is far older, but it was 50 years ago, in 19...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T07:06:45.000Z",
-      "score_quality": 76,
-      "score_notif": 18,
-      "cluster": "20260902-467e23a5ad23",
-      "cluster_main": true
     }
   ]
 }
