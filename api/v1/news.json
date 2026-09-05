@@ -1,6 +1,6 @@
 {
-  "content_hash": "7499a6294f83143e3c0316b238e2c5d4e9587d27e7022cb748c8c0fc20fc9dd9",
-  "last_updated": "2026-09-04T18:47:25.145Z",
+  "content_hash": "84b3fe7e04d90047c77e1655e97321c4b1b21c1451d413fffaef2f948262051b",
+  "last_updated": "2026-09-05T00:47:09.482Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T18:00:17.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T18:14:23.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.2,
       "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T14:00:00.000Z"
+      "latest_article_at": "2026-09-04T19:30:00.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T00:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-05T00:00:55.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ジャケ・ドローが、スーパーカーオーナーの情熱を形にしたユニークピース「トゥールビヨン プラズマセラミック – オーバーアルプ峠」を発表",
+      "url": "https://www.webchronos.net/news/171583/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/JD_car_1_v2.webp",
+      "peek_preview": "ジャケ・ドローが、スーパーカーオーナーの情熱に刺激されてデザインし、そのオーナーと共同で作り上げたユニークピース「トゥールビヨン プラズマセラミック – オーバーアルプ峠」が発表された。文字盤には、オーナーの […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-05T00:00:55.000Z",
+      "score_quality": 63,
+      "score_notif": 28,
+      "cluster": "20260905-94e80fd46795",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: A. Lange & Söhne 1815 UP/DOWN Blue Limited Edition—Two Golds and Compact Proportions",
       "url": "https://www.watchcollectinglifestyle.com/home/a-lange-sohne-1815-up-down-blue",
@@ -870,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T15:00:00.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Baltic Aquascaphe GMT MK-II, Now a True GMT and More Accessible",
@@ -940,10 +954,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T13:00:20.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -1125,7 +1139,7 @@
       "score_quality": 82,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1432,7 +1446,7 @@
       "published_at": "2026-09-02T18:27:51.000Z",
       "score_quality": 76,
       "score_notif": 55,
-      "cluster": "20260902-5f80741b22c2",
+      "cluster": "20260902-934cc988b551",
       "cluster_main": true
     },
     {
@@ -1545,7 +1559,7 @@
       "score_quality": 92,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1570,10 +1584,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:00.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1584,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T11:01:02.000Z",
-      "score_quality": 68,
+      "score_quality": 70,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Bell & Ross BR-X5 Meteorite—A Dial from Outer Space",
@@ -1643,7 +1657,7 @@
       "score_quality": 69,
       "score_notif": 55,
       "cluster": "20260902-413671dd1842",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Speake Marin Tourbillon Royal Blue Hands-on",
@@ -1713,7 +1727,7 @@
       "score_quality": 48,
       "score_notif": 55,
       "cluster": "20260902-5f80741b22c2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "DANIEL ROTH Extra Plat Rose Gold Gilt: il ritorno del quadrante gilt",
@@ -1839,20 +1853,6 @@
       "score_quality": 95,
       "score_notif": 43,
       "cluster": "20260902-156ccdf8d8c5",
-      "cluster_main": true
-    },
-    {
-      "title": "Zenith Chronomaster Solo Sport: il solo tempo pensato per l’azione",
-      "url": "https://www.watchinsanity.it/zenith-chronomaster-solo-sport/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Zenith_Chronomaster_solo_Sport_Watch_Insanity_04-1024x682.jpg",
-      "peek_preview": "Zenith lancia il Chronomaster Solo Sport, un solo tempo con calibro ad alta frequenza e quadrante e lunetta in ceramica, che completa la linea Chronomaster. The post Zenith Chronomaster Solo Sport: il solo tempo pensato...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-02T07:00:00.000Z",
-      "score_quality": 66,
-      "score_notif": 66,
-      "cluster": "20260902-5c8e8deb344d",
       "cluster_main": false
     }
   ]
