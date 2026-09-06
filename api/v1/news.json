@@ -1,6 +1,6 @@
 {
-  "content_hash": "3fc6c35d58f5b9140af1cb06e9715cf6073ca8ce26b5fadbc69749ca2c779aff",
-  "last_updated": "2026-09-06T05:48:02.411Z",
+  "content_hash": "947a7b654c192a56dc7d3b2e66601bdf0cbfd10ac2ffe3a9d7f4e3545851d1e3",
+  "last_updated": "2026-09-06T07:47:31.375Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-06T05:00:47.000Z"
     },
     {
@@ -29,9 +29,9 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-05T07:01:36.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-06T07:01:56.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Chanel’s Entirely Blue Ceramic J12 Caliber 12.1 38mm Watch Hands-On",
+      "url": "https://www.ablogtowatch.com/chanels-entirely-blue-ceramic-j12-caliber-12-1-38mm-watch-hands-on/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Chanel-J12-Blue-Ceramic-38mm-H11684-watch-feature-1-768x346.jpg",
+      "peek_preview": "The timepiece landscape over the last few years has compelled me to examine smaller wristwatch sizes than I’d normally wear. That led me to this reference H11684 matte-blue Chanel J12 ceramic watch. Historically, I cast...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-06T07:01:56.000Z",
+      "score_quality": 78,
+      "score_notif": 23,
+      "cluster": "20260906-fdc936736d51",
+      "cluster_main": true
+    },
+    {
       "title": "Sunday Morning Showdown: Zenith Chronomaster Solo Sport Vs. Breitling Chronomat Automatic B31 40",
       "url": "https://www.fratellowatches.com/sunday-morning-showdown-zenith-chronomaster-solo-sport-vs-breitling-chronomat-automatic-b31-40/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Zenith_Chronomaster_Solo_Sport_VS_Breitling_Chronomaster_B31-40-HEADER_2.jpg",
@@ -285,7 +299,7 @@
       "score_quality": 86,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why A Seiko 5 Is The Perfect Holiday Watch",
@@ -1153,7 +1167,7 @@
       "score_quality": 92,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -1304,10 +1318,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:51:58.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet is relaunching with three full collections ready for the modern adventurer",
@@ -1332,10 +1346,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:13.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1727,7 +1741,7 @@
       "score_quality": 98,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1738,10 +1752,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:17.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1839,20 +1853,6 @@
       "score_quality": 86,
       "score_notif": 43,
       "cluster": "20260902-3c5480e99492",
-      "cluster_main": true
-    },
-    {
-      "title": "The new Keris Meca Tradition celebrates the golden age of watchmaking",
-      "url": "https://timeandtidewatches.com/keris-meca-tradition-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/featured-image-keris-tradition.jpg",
-      "peek_preview": "Inspired by the golden age of pocket watchmaking, the Keris Meca Tradition turns traditional movement architecture into kinetic mechanical art The post The new Keris Meca Tradition celebrates the golden age of watchmaki...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T08:00:16.000Z",
-      "score_quality": 57,
-      "score_notif": 22,
-      "cluster": "20260902-79b049ce7fb1",
       "cluster_main": true
     }
   ]
