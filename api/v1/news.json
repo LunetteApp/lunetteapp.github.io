@@ -1,6 +1,6 @@
 {
-  "content_hash": "61968ad4ee8c78e2fbc75c797c5c828244c768392172f2a7dd4d742d422c470f",
-  "last_updated": "2026-09-06T09:47:45.329Z",
+  "content_hash": "a2e100b7d3b90bd2d2ff44e8e8b785f758aa4b3019c68882d3a10d7ca4503f27",
+  "last_updated": "2026-09-06T11:47:31.223Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-06T09:00:19.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-06T09:35:24.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-05T15:30:18.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-06T11:01:27.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "FounderFest: The Awake Sơn Mài – Frosted Leaf “Ultraviolet” is a lovesong in lacquer",
+      "url": "https://timeandtidewatches.com/awake-son-mai-ultraviolet-time-tide-studio-edition-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-awake-disintegration-time-tide-founders-fest-studio-edition.jpg",
+      "peek_preview": "Awake and Time+Tide join forces to create quite possibly the most captivating dial in the FounderFest collection The post FounderFest: The Awake Sơn Mài – Frosted Leaf “Ultraviolet” is a lovesong in lacquer appeared fir...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-06T11:01:27.000Z",
+      "score_quality": 67,
+      "score_notif": 26,
+      "cluster": "20260906-a9d64f41d816",
+      "cluster_main": true
+    },
     {
       "title": "Recap – The Best New Watches From Geneva Watch Days 2026",
       "url": "https://monochrome-watches.com/recap-buying-guide-geneva-watch-days-2026-doxa-zenith-mad-editions-bulgari-vianney-halter-de-bethune-ferdinand-berthoud-girard-perregaux-ming-frederique-constant-greubel-forsey/",
@@ -380,10 +394,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-05T08:00:39.000Z",
-      "score_quality": 74,
+      "score_quality": 77,
       "score_notif": 55,
       "cluster": "20260902-5f80741b22c2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Raymond Weil’s Millesime ‘The Fifty’ Limited-Edition Watch Revitalizes Vintage Movement",
@@ -660,10 +674,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T14:00:00.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time to win: tutti gli orologi che hanno segnato la Formula 1",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:00:50.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -772,10 +786,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:01:04.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -831,7 +845,7 @@
       "score_quality": 95,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -845,7 +859,7 @@
       "score_quality": 97,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -1264,8 +1278,8 @@
       "published_at": "2026-09-03T11:42:06.000Z",
       "score_quality": 27,
       "score_notif": 68,
-      "cluster": "20260903-0f603c8c5a58",
-      "cluster_main": true
+      "cluster": "20260903-6bddd0aa2921",
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex To Sell Four Unique Daytonas At Auction Later This Month To Benefit The Federer Foundation And Re:wild",
@@ -1321,7 +1335,7 @@
       "score_quality": 90,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Perrelet | Hands-on Impression",
@@ -1657,7 +1671,7 @@
       "score_quality": 76,
       "score_notif": 55,
       "cluster": "20260902-5f80741b22c2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bulgari Taps the Independent Talent of Vianney Halter for Its Next Octo Finissimo",
@@ -1752,10 +1766,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:46.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1766,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:17.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1840,20 +1854,6 @@
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
       "cluster_main": false
-    },
-    {
-      "title": "The new Gerald Charles Masterlink Atelier Edition introduces hand-hammered Maillechort dials",
-      "url": "https://timeandtidewatches.com/the-new-gerald-charles-masterlink-atelier-edition-introduces-hand-hammered-maillechort-dials/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/gerald-charles-featured-image-1.jpg",
-      "peek_preview": "The Gerald Charles Masterlink Atelier Edition introduces unique hand-hammered Maillechort dials to the brand’s signature asymmetrical design. It is strictly limited to 25 pieces per colourway in Golden Rose, Rhodium, an...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T08:01:07.000Z",
-      "score_quality": 86,
-      "score_notif": 43,
-      "cluster": "20260902-3c5480e99492",
-      "cluster_main": true
     }
   ]
 }
