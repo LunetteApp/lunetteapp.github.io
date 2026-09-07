@@ -1,6 +1,6 @@
 {
-  "content_hash": "a3f4ada748d39d9bf9e4c664d43a3676874d5b15581584c4f4853d46bee7b7c9",
-  "last_updated": "2026-09-07T09:47:23.553Z",
+  "content_hash": "72ba6fe1c8e68d8182d17f426aeeb146426c16b9d0c9a9f85d70b263fdf5fe85",
+  "last_updated": "2026-09-07T10:48:00.370Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T09:00:49.000Z"
     },
     {
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T09:01:29.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T09:00:05.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T09:10:37.000Z"
     },
     {
@@ -99,9 +99,9 @@
     {
       "source_name": "Watch Insanity",
       "lang": "it",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T12:28:26.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T10:09:28.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -120,7 +120,7 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.6,
+      "estimated_articles_per_day": 0.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-04T14:00:00.000Z"
     },
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Rolex the four seasons: quattro Daytona unici all’asta da Phillips",
+      "url": "https://www.watchinsanity.it/rolex-daytona-four-seasons-phillips-2026/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Rolex_Daytona_Four_Seasons_Watch_Insanity_01-1024x394.jpg",
+      "peek_preview": "Rolex presenta The Four Seasons: quattro Cosmograph Daytona unici ispirati alle stagioni, all'asta da Phillips a Londra il 28 settembre. The post Rolex the four seasons: quattro Daytona unici all’asta da Phillips appear...",
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-07T10:09:28.000Z",
+      "score_quality": 57,
+      "score_notif": 78,
+      "cluster": "20260903-81ad4e27f709",
+      "cluster_main": false
+    },
+    {
       "title": "TAG Heuer redesigns the Carrera Chronograph Sport, and it’s more refined than ever",
       "url": "https://timeandtidewatches.com/tag-heuer-carrera-chronograph-sport-2026-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-tag-heuer-carrera-sport-2.jpg",
@@ -201,7 +215,7 @@
       "score_quality": 87,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chic Deep Down: Hands-On With Two Bicolor Favre Leuba Deep Raider Day Date Models",
@@ -226,10 +240,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T09:00:05.000Z",
-      "score_quality": 83,
+      "score_quality": 88,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CIGA Design marks 65th anniversary of first successful Chinese Everest ascent",
@@ -579,7 +593,7 @@
       "score_quality": 90,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why A Seiko 5 Is The Perfect Holiday Watch",
@@ -898,10 +912,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T14:00:00.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time to win: tutti gli orologi che hanno segnato la Formula 1",
@@ -954,10 +968,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:00:50.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -1010,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:01:04.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -1066,10 +1080,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:01.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -1262,10 +1276,10 @@
       "lang": "de",
       "featured": false,
       "published_at": "2026-09-03T22:06:07.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex To Auction Four Piece-Unique Daytonas",
@@ -1377,7 +1391,7 @@
       "score_quality": 96,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -1503,7 +1517,7 @@
       "score_quality": 96,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Perrelet | Hands-on Impression",
@@ -1528,10 +1542,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:51:58.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet is relaunching with three full collections ready for the modern adventurer",
@@ -1556,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:03.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -1836,24 +1850,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-02T15:36:20.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
-    },
-    {
-      "title": "Daniel Roth makes old new again with new gilt dialed Extra Plat Rose Gold Gilt",
-      "url": "https://timeandtidewatches.com/daniel-roth-extra-plat-rose-gold-gilt-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Daniel-Roth-Extra-Plat-Gilt-Feature.jpg",
-      "peek_preview": "Daniel Roth unveils the Extra Plat Rose Gold Gilt, pairing a true black gilt dial with a rose gold case and hand-wound DR002 movement. The post Daniel Roth makes old new again with new gilt dialed Extra Plat Rose Gold G...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T14:00:35.000Z",
-      "score_quality": 75,
-      "score_notif": 30,
-      "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     }
   ]
 }
