@@ -1,6 +1,6 @@
 {
-  "content_hash": "65aa393119090950137421510c8bbc08c4b8e489a71dc4e76be4a3536be10cbc",
-  "last_updated": "2026-09-07T00:47:25.686Z",
+  "content_hash": "14b9e574977f1f4984e7fc4a4db310d8e52f60656ef58dd58773607c5855d7ee",
+  "last_updated": "2026-09-07T01:47:35.527Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-06T22:01:16.000Z"
     },
     {
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T11:59:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T01:00:54.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T00:00:27.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: Bulgari Octo Finissimo x Vianney Halter",
+      "url": "https://watchesbysjx.com/2026/09/bulgari-octo-finissimo-dual-time-vianney-halter.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Bulgari-Octo-Finissimo-Dual-Time-Vianney-Halter-3x2-header-300x200.jpg",
+      "peek_preview": "Bulgari had a number of surprises in store for Geneva Watch Days, which helped the brand stand out from a somewhat quiet field. At the top of the list was the Octo Finissimo Dual Time x Vianney Halter, which shoehorns t...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T01:00:54.000Z",
+      "score_quality": 84,
+      "score_notif": 50,
+      "cluster": "20260902-9110617fa7f9",
+      "cluster_main": true
+    },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
       "url": "https://www.webchronos.net/news/171802/",
@@ -800,10 +814,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:00:50.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -856,10 +870,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:01:04.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -915,7 +929,7 @@
       "score_quality": 97,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -929,7 +943,7 @@
       "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -1613,7 +1627,7 @@
       "featured": false,
       "published_at": "2026-09-03T07:00:48.000Z",
       "score_quality": 55,
-      "score_notif": 46,
+      "score_notif": 50,
       "cluster": "20260902-9110617fa7f9",
       "cluster_main": false
     },
@@ -1683,9 +1697,9 @@
       "featured": false,
       "published_at": "2026-09-03T01:00:29.000Z",
       "score_quality": 75,
-      "score_notif": 46,
+      "score_notif": 50,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Beyond the Familiar: A. Lange & Söhne’s 1815 Retrospective",
@@ -1739,7 +1753,7 @@
       "featured": false,
       "published_at": "2026-09-02T18:00:57.000Z",
       "score_quality": 74,
-      "score_notif": 46,
+      "score_notif": 50,
       "cluster": "20260902-9110617fa7f9",
       "cluster_main": false
     },
@@ -1808,10 +1822,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:01:49.000Z",
-      "score_quality": 74,
+      "score_quality": 100,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Reissues Miles Davis’ Navitimer",
@@ -1822,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:46.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1840,20 +1854,6 @@
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
       "cluster_main": false
-    },
-    {
-      "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
-      "url": "https://timeandtidewatches.com/doxa-sub-300-ti5-collection-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-doxa-sub300ti5-1.jpg",
-      "peek_preview": "Doxa's iconic SUB 300 diver gets a lightweight titanium case, paired with a series of signature colourways with the SUB300Ti5 collection The post Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 col...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T11:01:02.000Z",
-      "score_quality": 78,
-      "score_notif": 55,
-      "cluster": "20260902-efc9f03e0fca",
-      "cluster_main": true
     }
   ]
 }
