@@ -1,6 +1,6 @@
 {
-  "content_hash": "08b915a0c0f7a6678ff7c5d24e0af7029b62aed9d3bc710368cc357895621eb3",
-  "last_updated": "2026-09-07T16:47:00.180Z",
+  "content_hash": "7c9749e0127891e570f2971426e207311b5461f0cf629245dce9bc2f05706caf",
+  "last_updated": "2026-09-07T17:47:17.456Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T16:05:58.000Z"
     },
     {
@@ -65,15 +65,15 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T16:32:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T01:00:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T17:19:33.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -86,15 +86,15 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-05T06:52:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T16:56:27.000Z"
     },
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
-      "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T12:03:42.000Z"
+      "estimated_articles_per_day": 0.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T15:54:15.000Z"
     },
     {
       "source_name": "Watch Insanity",
@@ -121,14 +121,14 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T16:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T15:53:43.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "F.P. Journe Unveils Unique Chronographe to Benefit Monaco Charity",
+      "url": "https://watchesbysjx.com/2026/09/fp-journe-chronographe-fondation-prince-albert-ii-monaco.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/FP-Journe-Chronograph-Prince-Albert-II-of-Monaco-Foundation-3x2-header-1-300x200.jpg",
+      "peek_preview": "F.P. Journe and H.S.H. Prince Albert II of Monaco have announced the creation of the one-off Chronographe Fondation Prince Albert II De Monaco for the monarch’s upcoming charity auction. The Chronographe Fondation evolv...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T17:19:33.000Z",
+      "score_quality": 85,
+      "score_notif": 68,
+      "cluster": "20260907-e386e1af77d4",
+      "cluster_main": true
+    },
+    {
+      "title": "Insider: Bvlgari Octo Finissimo Dual Time X Vianney Halter—A Bold Independent Takes Over the Icon",
+      "url": "https://www.watchcollectinglifestyle.com/home/bvlgari-octo-finissimo-dual-time-x-vianney-halter-titanium-rose-gold",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1788797070315-E4K43YGJTXFHV6W6QXUK/Bvlgari+Octo+Finissimo+Dual+Time+X+Vianney+Halter+Rose+Gold-17.jpg?format=1500w",
+      "peek_preview": "Of the three titanium stories Bvlgari told at Geneva Watch Days 2026, this is the one that rewrites the Octo Finissimo’s rulebook and makes it a pièce de résistance. For the first time in the collection's history, Bvlga...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T16:56:27.000Z",
+      "score_quality": 85,
+      "score_notif": 51,
+      "cluster": "20260902-9110617fa7f9",
+      "cluster_main": true
+    },
+    {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
       "url": "https://www.hodinkee.com/articles/gphg-2026-finalists",
       "image": "https://hodinkee.imgix.net/uploads/images/e72d73fb-4985-448d-ac14-75ce4135884d/HeroGPHG.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -202,6 +230,34 @@
       "score_notif": 42,
       "cluster": "20260907-a7dba0c8902d",
       "cluster_main": true
+    },
+    {
+      "title": "Rolex Daytona Four Seasons: i 4 pezzi unici al mondo vanno all’asta da Phillips",
+      "url": "https://italianwatchspotter.com/rolex-daytona-four-seasons-phillips/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-40-1024x560.png",
+      "peek_preview": "Quattro stagioni, quattro Cosmograph Daytona e, per ciascuno, un solo esemplare. Rolex presenta The Four Seasons, una serie di quattro Daytona unici ed esclusivi che il prossimo 28 settembre 2026 saranno protagonisti di...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-07T16:00:00.000Z",
+      "score_quality": 66,
+      "score_notif": 78,
+      "cluster": "20260903-81ad4e27f709",
+      "cluster_main": false
+    },
+    {
+      "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
+      "url": "https://www.perpetualpassion.com/2026/09/07/fp-journe-chronographe-fondation-prince-albert-ii-monaco-2026/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/S.A.S.-le-Prince-Albert-II-de-Monaco-et-Francois-Paul-Journe-%C2%A9Philippe-Fitte-1100x733.jpg",
+      "peek_preview": "François-Paul Journe torna al cronografo, ma questa volta lo fa nella sua forma più classica. Il nuovo Chronographe [...] L'articolo F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation...",
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-07T15:54:15.000Z",
+      "score_quality": 74,
+      "score_notif": 68,
+      "cluster": "20260907-e386e1af77d4",
+      "cluster_main": false
     },
     {
       "title": "Hamilton’s Popular Murph Collection Gets a New Dial Expression",
@@ -437,9 +493,9 @@
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
       "score_quality": 84,
-      "score_notif": 50,
+      "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -691,7 +747,7 @@
       "score_quality": 94,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why A Seiko 5 Is The Perfect Holiday Watch",
@@ -1612,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:51:58.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet is relaunching with three full collections ready for the modern adventurer",
@@ -1626,10 +1682,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:16.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1640,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:03.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -1767,7 +1823,7 @@
       "featured": false,
       "published_at": "2026-09-03T07:00:48.000Z",
       "score_quality": 55,
-      "score_notif": 50,
+      "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
       "cluster_main": false
     },
@@ -1797,48 +1853,6 @@
       "score_quality": 74,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
-    },
-    {
-      "title": "Yema Superman Bronze CMM.10 : 3 nouveaux cadrans pour la plongeuse manufacture française",
-      "url": "https://www.welovewatches.fr/yema-superman-bronze-cmm-10-3-nouveaux-cadrans-pour-la-plongeuse-manufacture-francaise.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-yema-superman-bronze-cmm10-vert-marron-blanc.jpg",
-      "peek_preview": "La Superman Bronze CMM.10 est déjà l'une des montres les plus attendues de la production Yema depuis son lancement. Boîtier en bronze de 39 mm, étanchéité à 300 mètres, calibre manufacture CMM.10 avec 70 heures...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-03T05:30:00.000Z",
-      "score_quality": 61,
-      "score_notif": 38,
-      "cluster": "20260903-2a3d3a64650b",
-      "cluster_main": true
-    },
-    {
-      "title": "ジャガー・ルクルトが俳優のロバート・パティンソンを新たなるグローバルアンバサダーに起用",
-      "url": "https://www.webchronos.net/news/171729/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/jl_master.webp",
-      "peek_preview": "ジャガー・ルクルトは2026年9月2日、新たなるグローバルアンバサダーの起用を発表した。映画『THE BATMAN－ザ・バッ トマン－』や『オデュッセイア』を代表作とする俳優のロバート・パティンソンである。 ロバート・パ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-03T03:00:55.000Z",
-      "score_quality": 54,
-      "score_notif": 24,
-      "cluster": "20260903-2e1e3122dd2b",
-      "cluster_main": true
-    },
-    {
-      "title": "Bulgari Octo Finissimo Dual Time x Vianney Halter Watch Opens New Boundaries",
-      "url": "https://www.ablogtowatch.com/bulgari-octo-finissimo-dual-time-x-vianney-halter-watch-opens-new-boundaries/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Bulgari-Octo-Finissimo-Dual-Time-x-Vianney-Halter-30-768x346.jpg",
-      "peek_preview": "At this point in time, the global community of watch enthusiasts is well aware of Bulgari’s successful transformation into a vertically integrated watch manufacture, one that takes full creative advantage of operating i...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T01:00:29.000Z",
-      "score_quality": 75,
-      "score_notif": 50,
-      "cluster": "20260902-9110617fa7f9",
       "cluster_main": false
     }
   ]
