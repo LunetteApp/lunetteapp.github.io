@@ -1,6 +1,6 @@
 {
-  "content_hash": "00eb41da727acf2e135a311d51ad3f5055945a1ea9406bc7839b11047b19c38b",
-  "last_updated": "2026-09-07T13:47:37.684Z",
+  "content_hash": "c1c5d92945dc6fc27fcdc58f30b9571e63c1ce62a0c51813861e5f76207878b5",
+  "last_updated": "2026-09-07T14:47:21.019Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T18:00:17.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T14:00:51.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T13:00:03.000Z"
     },
     {
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-06T07:45:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Hamilton’s Popular Murph Collection Gets a New Dial Expression",
+      "url": "https://wornandwound.com/hamiltons-popular-murph-collection-gets-a-new-dial-expression/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Hamilton-Khaki-Field-Murph_H70405740_lifestyle-2.jpg",
+      "peek_preview": "Hamilton is among a small cohort of watchmakers with particularly close ties to film. The brand’s watches have been a part of cinematic history from iconic moments in classic movies like James Bond’s Pulsar in Live and...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T14:00:51.000Z",
+      "score_quality": 59,
+      "score_notif": 45,
+      "cluster": "20260903-f6bffaea4ee0",
+      "cluster_main": false
+    },
+    {
+      "title": "GWD26 Armchair Pick: Robin’s top 3 from the new release",
+      "url": "https://deployant.com/gwd26-armchair-pick-robins-top-3-from-the-new-release/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-armchair-pick-robins-top-3-from-the-new-release",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0613-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors This year’s Geneva Watch Day turns out to be relatively more interesting than most of the other watch fairs in recent memory. There is this feeling that brand...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T13:30:00.000Z",
+      "score_quality": 24,
+      "score_notif": 8,
+      "cluster": "20260907-83695b751b6f",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Nomos Orion Gold Neomatik “New Black” Edition",
       "url": "https://monochrome-watches.com/nomos-orion-gold-neomatik-new-black-edition-introducing-price/",
@@ -957,7 +985,7 @@
       "score_quality": 99,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Time to win: tutti gli orologi che hanno segnato la Formula 1",
@@ -1010,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:00:50.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -1136,10 +1164,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -1374,7 +1402,7 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T14:00:19.000Z",
-      "score_quality": 58,
+      "score_quality": 60,
       "score_notif": 45,
       "cluster": "20260903-f6bffaea4ee0",
       "cluster_main": true
@@ -1542,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T10:08:03.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Perrelet | Hands-on Impression",
@@ -1584,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:16.000Z",
-      "score_quality": 72,
+      "score_quality": 100,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1601,7 +1629,7 @@
       "score_quality": 99,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -1826,34 +1854,6 @@
       "score_notif": 18,
       "cluster": "20260903-d09af52fddf5",
       "cluster_main": true
-    },
-    {
-      "title": "レゼルボワールが特徴的な時刻表示形式はそのままにモダンなシルエットの「マークII」を発表",
-      "url": "https://www.webchronos.net/news/171401/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/08/RV_m2_1.webp",
-      "peek_preview": "自動車のスピードメーターや航空計器に着想を得て、レトログラードとジャンピングアワーを組み合わせた独自の時刻表示を得意とするフランス発の「レゼルボワール」。今回、その象徴的な文字盤の魅力はそのままに、ケースとブレスレットを […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-03T00:00:02.000Z",
-      "score_quality": 61,
-      "score_notif": 36,
-      "cluster": "20260903-421169e6781d",
-      "cluster_main": true
-    },
-    {
-      "title": "Bulgari Taps the Independent Talent of Vianney Halter for Its Next Octo Finissimo",
-      "url": "https://wornandwound.com/bulgari-taps-the-independent-talent-of-vianney-halter-for-its-next-octo-finissimo/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Bulgari-x-Vianney-Halter-6.jpg",
-      "peek_preview": "Since its inception in 2014, Bulgari’s Octo Finissimo line has propelled the Maison into the realm of serious watchmaking, a rare accomplishment for a brand whose origins are deeply rooted in jewelry making. In just ove...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T18:00:57.000Z",
-      "score_quality": 61,
-      "score_notif": 50,
-      "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
     }
   ]
 }
