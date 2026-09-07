@@ -1,6 +1,6 @@
 {
-  "content_hash": "837d8bc319913fdee6ac5a16846dc8a6ac41a6325e5b8a55be35ec972404c690",
-  "last_updated": "2026-09-07T05:47:01.114Z",
+  "content_hash": "466c17ac53f11283452ca2b3920a1a264810241df80a8ee74f92a70b5c965cfe",
+  "last_updated": "2026-09-07T06:47:39.206Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T05:00:11.000Z"
     },
     {
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-06T09:35:24.000Z"
+      "estimated_articles_per_day": 4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T06:30:25.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T05:30:00.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-09-06T06:55:54.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – Union Glashütte Unveils the Compact and Dressy Seris Small Second Collection",
+      "url": "https://monochrome-watches.com/union-glashutte-unveils-the-compact-and-dressy-seris-small-second-collection/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Union-Glashutte-Seris-Small-Second-Collection-8-600x237.jpg",
+      "peek_preview": "Recent releases from Union Glashütte have been largely about chronographs, from the latest Averin Chronograph with its white embossed tile-pattern dial to the Belisar Chronograph with its monochromatic look. Now, the Gl...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T06:30:25.000Z",
+      "score_quality": 78,
+      "score_notif": 47,
+      "cluster": "20260907-19e50bdde304",
+      "cluster_main": true
+    },
     {
       "title": "We Love Watches 2026 : les 23 marques iconiques à découvrir au salon",
       "url": "https://www.welovewatches.fr/we-love-watches-2026-les-23-marques-iconiques-a-decouvrir-au-salon.html",
@@ -415,16 +429,16 @@
     },
     {
       "title": "Tudor Northflag: Eine Uhrenmanufaktur zeigt Flagge",
-      "url": "https://www.uhrenkosmos.com/tudor-northflag-und-tudor-northflag-gmt-2026/",
+      "url": "https://www.uhrenkosmos.com/tudor-northflag-gmt-2026-technik-und-history/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Tudor-North-Flag-2015-2026-Uhrenkosmos.jpg",
       "peek_preview": "Mit GMT-Funktion, Master-Chronometer-Zertifizierung und T-fit-Band kehrt die Tudor Northflag 2026 zurück. Nicht als nostalgische Neuauflage, sondern als gekonnte Evolution jener North Flag, mit der Tudor 2015 technisch...",
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "featured": false,
       "published_at": "2026-09-05T21:12:17.000Z",
-      "score_quality": 46,
-      "score_notif": 8,
-      "cluster": "20260905-c2b18b87b697",
+      "score_quality": 52,
+      "score_notif": 10,
+      "cluster": "20260905-d37a6ff8d5c5",
       "cluster_main": true
     },
     {
@@ -912,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:01:04.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -971,7 +985,7 @@
       "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -1223,20 +1237,6 @@
       "score_quality": 77,
       "score_notif": 16,
       "cluster": "20260903-5fb1b1be2a20",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Armin Strom Dual Time GMT Resonance Manufacture Edition Blue",
-      "url": "https://monochrome-watches.com/armin-strom-dual-time-gmt-resonance-manufacture-edition-blue-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Armin-Strom-Dual-Time-GMT-Resonance-Manufacture-Edition-Blue-1-600x237.jpg",
-      "peek_preview": "The Dual Time GMT Resonance is one of Armin Strom’s signature creations, first launched in 2018, revisited in 2024 and presented in several distinctive editions, including the steel-cased Black Edition, the rose-gold ve...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T18:00:27.000Z",
-      "score_quality": 82,
-      "score_notif": 43,
-      "cluster": "20260903-184adf8af6c0",
       "cluster_main": true
     },
     {
@@ -1780,10 +1780,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-02T15:36:20.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Daniel Roth makes old new again with new gilt dialed Extra Plat Rose Gold Gilt",
@@ -1850,10 +1850,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:46.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     }
   ]
 }
