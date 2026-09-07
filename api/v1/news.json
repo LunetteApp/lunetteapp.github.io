@@ -1,6 +1,6 @@
 {
-  "content_hash": "466c17ac53f11283452ca2b3920a1a264810241df80a8ee74f92a70b5c965cfe",
-  "last_updated": "2026-09-07T06:47:39.206Z",
+  "content_hash": "64df9986eec6eb48b949bfcb14304078b4a1b325f122cbd8716b0af02497c136",
+  "last_updated": "2026-09-07T07:47:15.596Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T06:30:25.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-06T07:01:56.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T07:01:06.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-06T06:55:54.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Actually Affordable: Vaer G2 Fairway GMT Golf Watch",
+      "url": "https://www.ablogtowatch.com/actually-affordable-vaer-g2-fairway-gmt-golf-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Vaer-G2-Fairway-GMT-Golf-Watch-768x346.jpg",
+      "peek_preview": "For the most part, Vaer has largely adhered to the classic genres of timepieces, such as divers, GMT’s, field watches, and racing chronographs. However, among the Los Angeles brand’s more recent (and unexpected) release...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T07:01:06.000Z",
+      "score_quality": 56,
+      "score_notif": 22,
+      "cluster": "20260907-b493188add49",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Union Glashütte Unveils the Compact and Dressy Seris Small Second Collection",
       "url": "https://monochrome-watches.com/union-glashutte-unveils-the-compact-and-dressy-seris-small-second-collection/",
@@ -590,10 +604,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-05T05:00:07.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "「リシャール・ミル チャリティトーナメント2026」にバッバ・ワトソンが出場！被災地支援やジュニアゴルファー育成を実施",
@@ -733,7 +747,7 @@
       "score_quality": 87,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -926,10 +940,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:01:04.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -982,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:01.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -1836,20 +1850,6 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:01:49.000Z",
-      "score_quality": 99,
-      "score_notif": 50,
-      "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
-    },
-    {
-      "title": "Breitling Reissues Miles Davis’ Navitimer",
-      "url": "https://watchesbysjx.com/2026/09/breitling-navitimer-b09-miles-davis.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/Breitling-Navitimer-B09-Chronograph-41-Miles-Davis-air-racer-bracelet-2-300x200.jpg",
-      "peek_preview": "To commemorate Miles Davis’ many decades as a Navitimer man, Breitling has introduced the Navitimer B09 Chronograph 41 Miles Davis, based on the ref. 806 Mk5 favoured by the pioneering jazz musician. Limited to 500 piec...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T12:00:46.000Z",
       "score_quality": 100,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
