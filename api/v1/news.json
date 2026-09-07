@@ -1,6 +1,6 @@
 {
-  "content_hash": "3237797130d6a1e4622661e31ef738547a77f06cb74487f95a895f7a76dc4c25",
-  "last_updated": "2026-09-07T19:47:09.877Z",
+  "content_hash": "106f9f3765c476bf42885840edd06bb557268055bab150a74a251098fdf17901",
+  "last_updated": "2026-09-07T21:46:54.703Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T19:00:37.000Z"
     },
     {
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T18:14:23.000Z"
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T21:01:04.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T19:07:49.000Z"
     },
     {
@@ -106,7 +106,7 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T12:36:11.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
+      "url": "https://teddybaldassarre.com/blogs/watches/tag-heuer-carrera-chronograph-sport-42mm",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/TAG-Heuer-Carrera-Chrono-Sport-blue-2.jpg?v=1788544585",
+      "peek_preview": "The TAG Heuer Carrera Chronograph Sport, a modern evolution of the brand’s iconic motorsport-inspired Carrera from 1963, debuted in 2020, TAG Heuer’s 160th anniversary year, alongside the decidedly more understated Carr...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T21:01:04.000Z",
+      "score_quality": 69,
+      "score_notif": 67,
+      "cluster": "20260907-9697345a4971",
+      "cluster_main": false
+    },
     {
       "title": "Insider: Bvlgari Titanio GMT—The Aluminium Takes on a New Metal, Same Sport-Chic Attitude",
       "url": "https://www.watchcollectinglifestyle.com/home/bvlgari-titanio-gmt-review-live-photos",
@@ -1839,20 +1853,6 @@
       "score_quality": 85,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
-    },
-    {
-      "title": "Bvlgari Octo Finissimo x Vianney Halter: due universi che nessuno immaginava insieme",
-      "url": "https://italianwatchspotter.com/bvlgari-octo-finissimo-x-vianney-halter/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/IMG_0306-1024x1024.jpeg",
-      "peek_preview": "Ci sono collaborazioni che nascono quasi naturalmente e altre che, almeno sulla carta, sembrano difficili da immaginare. Tra le novità presentate ai Geneva Watch Days 2026, l’Octo Finissimo Dual Time x Vianney Halter è...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-03T07:00:48.000Z",
-      "score_quality": 55,
-      "score_notif": 51,
-      "cluster": "20260902-9110617fa7f9",
       "cluster_main": false
     }
   ]
