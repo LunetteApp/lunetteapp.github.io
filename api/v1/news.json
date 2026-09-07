@@ -1,6 +1,6 @@
 {
-  "content_hash": "72ba6fe1c8e68d8182d17f426aeeb146426c16b9d0c9a9f85d70b263fdf5fe85",
-  "last_updated": "2026-09-07T10:48:00.370Z",
+  "content_hash": "2d9512821aa4ea364c033a60bc5618a712277655436258bc11750f6b7b1f1d1f",
+  "last_updated": "2026-09-07T11:47:38.705Z",
   "premium": {
     "links": []
   },
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T10:09:28.000Z"
     },
     {
@@ -113,9 +113,9 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T14:08:05.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T10:47:24.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "News orologi: fatti, volti ed eventi – 07/09/2026",
+      "url": "https://giornaleorologi.it/2026/09/07/news-orologi-fatti-volti-ed-eventi-07-09-2026/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/Rolex-asta-Phillips-1-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - News orologi: fatti, volti ed eventi – 07/09/2026 Consueto appuntamento con le News orologi. Che come sempre vi raccontano cosa è successo nelle ultime settimane e cosa succederà prossimamente...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-07T10:47:24.000Z",
+      "score_quality": 32,
+      "score_notif": 18,
+      "cluster": "20260907-0e4948c41cf7",
+      "cluster_main": true
+    },
+    {
       "title": "Rolex the four seasons: quattro Daytona unici all’asta da Phillips",
       "url": "https://www.watchinsanity.it/rolex-daytona-four-seasons-phillips-2026/",
       "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Rolex_Daytona_Four_Seasons_Watch_Insanity_01-1024x394.jpg",
@@ -212,10 +226,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T09:01:29.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chic Deep Down: Hands-On With Two Bicolor Favre Leuba Deep Raider Day Date Models",
@@ -243,7 +257,7 @@
       "score_quality": 88,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CIGA Design marks 65th anniversary of first successful Chinese Everest ascent",
@@ -590,10 +604,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-05T14:19:44.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why A Seiko 5 Is The Perfect Holiday Watch",
@@ -968,10 +982,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:00:50.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -1024,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:01:04.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:01.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -1094,10 +1108,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -1279,7 +1293,7 @@
       "score_quality": 99,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex To Auction Four Piece-Unique Daytonas",
@@ -1388,10 +1402,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T13:00:20.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -1545,7 +1559,7 @@
       "score_quality": 91,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet is relaunching with three full collections ready for the modern adventurer",
@@ -1573,7 +1587,7 @@
       "score_quality": 97,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -1840,20 +1854,6 @@
       "score_notif": 50,
       "cluster": "20260902-9110617fa7f9",
       "cluster_main": false
-    },
-    {
-      "title": "Breitling Navitimer Miles Davis: 500 pezzi ai Geneva Watch Days 2026",
-      "url": "https://www.orologidiclasse.com/breitling-navitimer-b09-miles-davis-2026/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/breitling-navitimer-b09-miles-davis-2026.jpg",
-      "peek_preview": "Breitling apre i Geneva Watch Days 2026 con il Navitimer B09 Chronograph 41 Tribute to Miles Davis, edizione limitata a 500 esemplari realizzata per il centenario della nascita del musicista americano. Il nuovo modello...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-02T15:36:20.000Z",
-      "score_quality": 100,
-      "score_notif": 50,
-      "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
     }
   ]
 }
