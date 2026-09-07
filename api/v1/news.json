@@ -1,6 +1,6 @@
 {
-  "content_hash": "0fa91599481ce75f1baffe039307aaafcb543c30000d63e69fa7ec92911fd627",
-  "last_updated": "2026-09-06T21:47:15.618Z",
+  "content_hash": "65aa393119090950137421510c8bbc08c4b8e489a71dc4e76be4a3536be10cbc",
+  "last_updated": "2026-09-07T00:47:25.686Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-06T09:00:19.000Z"
+      "estimated_articles_per_day": 3.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-06T22:01:16.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-06T06:55:54.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-06T03:00:07.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T00:00:27.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
+      "url": "https://www.webchronos.net/news/171802/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/AR_27_1.webp",
+      "peek_preview": "1950年代にフランス軍へ軍用時計を供給していた実績を持つエイレンから、ブランドを代表するパイロットクロノグラフ「Type 20」の誕生70周年を記念した「TYPE 20 70 ANS」を発表された。Type 20とは、 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-07T00:00:27.000Z",
+      "score_quality": 70,
+      "score_notif": 46,
+      "cluster": "20260907-1f762385b1ce",
+      "cluster_main": true
+    },
+    {
+      "title": "Reframing My Image Of The Leica ZM 11 Titanium Coffee Black",
+      "url": "https://www.fratellowatches.com/reframing-my-image-of-the-leica-zm-11-titanium-coffee-black/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Leica-ZM11-Coffee-Black-2.jpg",
+      "peek_preview": "When it comes to brands and their expertise, I am a bit of a purist. There is a famous Dutch saying: “Cobbler, stick to your last.” In other words, stick to what you do best. Some fields, like horology, require highly s...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-06T22:01:16.000Z",
+      "score_quality": 56,
+      "score_notif": 16,
+      "cluster": "20260906-513d08a8509b",
+      "cluster_main": true
+    },
+    {
       "title": "Quick Study: Lange & Söhne 1815 Up/Down",
       "url": "https://www.unpolishedwatches.com/p/quick-study-lange-and-sohne-1815",
       "image": "https://substackcdn.com/image/fetch/$s_!cLBD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8018e47f-e2e1-4c3b-8568-8c527ff22192_1080x1440.png",
@@ -186,8 +214,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 66,
-      "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster": "20260906-da72a73680d5",
+      "cluster_main": true
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
@@ -775,7 +803,7 @@
       "score_quality": 98,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -831,7 +859,7 @@
       "score_quality": 96,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -884,10 +912,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:01.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
@@ -898,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:00.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -1251,7 +1279,7 @@
       "score_quality": 94,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -1306,7 +1334,7 @@
       "published_at": "2026-09-03T12:00:38.000Z",
       "score_quality": 74,
       "score_notif": 45,
-      "cluster": "20260903-092192a163b3",
+      "cluster": "20260903-64d133c5f10a",
       "cluster_main": true
     },
     {
@@ -1320,8 +1348,8 @@
       "published_at": "2026-09-03T11:42:06.000Z",
       "score_quality": 27,
       "score_notif": 68,
-      "cluster": "20260903-6bddd0aa2921",
-      "cluster_main": false
+      "cluster": "20260903-0f603c8c5a58",
+      "cluster_main": true
     },
     {
       "title": "Breaking News: Rolex To Sell Four Unique Daytonas At Auction Later This Month To Benefit The Federer Foundation And Re:wild",
@@ -1430,10 +1458,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:13.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet Watches Reborn at 200: What You Need to Know About the Brand's Modern Revival",
@@ -1587,20 +1615,6 @@
       "score_quality": 55,
       "score_notif": 46,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
-    },
-    {
-      "title": "Conquering Mount Everest With The CIGA Design Everest China 65th Anniversary",
-      "url": "https://www.fratellowatches.com/ciga-design-everest-china-65th-anniversary/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/CIGA-Design-Everest-65th-Anniversary-4.jpg",
-      "peek_preview": "Over the past decade, CIGA Design has surprised us with some wildly original creations. The most famous, without a doubt, is the Blue Planet, which has won multiple horology prizes, including a GPHG Award in 2021. Anoth...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T07:00:31.000Z",
-      "score_quality": 58,
-      "score_notif": 45,
-      "cluster": "20260903-092192a163b3",
       "cluster_main": false
     },
     {
@@ -1808,10 +1822,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:46.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Plays It Cool With Navitimer B09 Chronograph 41 Miles Davis Limited Edition",
@@ -1822,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-02T12:00:17.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 50,
       "cluster": "20260902-563386bb6f5d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa expands its lightweight titanium lineup with the new SUB 300 Ti5 collection",
@@ -1839,20 +1853,6 @@
       "score_quality": 78,
       "score_notif": 55,
       "cluster": "20260902-efc9f03e0fca",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Bell & Ross BR-X5 Meteorite—A Dial from Outer Space",
-      "url": "https://www.watchcollectinglifestyle.com/home/bell-and-ross-br-x5-meteorite",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1787925257899-5QBDVGNTT95O73L2Q0XM/Bell+%26+Ross+BR-X5+Meteorite+Steel+Bracelet.jpg?format=1500w",
-      "peek_preview": "Bell & Ross introduces the BR-X5 Meteorite, the latest expression of its manufacture line and arguably its most conceptually ambitious yet. Since the BR-X5 launched in 2022 as an \"Advanced Time Instrument,\" each iterati...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-02T11:00:00.000Z",
-      "score_quality": 65,
-      "score_notif": 41,
-      "cluster": "20260902-4a5dc0f6c07b",
       "cluster_main": true
     }
   ]
