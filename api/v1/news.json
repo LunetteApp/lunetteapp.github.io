@@ -1,6 +1,6 @@
 {
-  "content_hash": "c1c5d92945dc6fc27fcdc58f30b9571e63c1ce62a0c51813861e5f76207878b5",
-  "last_updated": "2026-09-07T14:47:21.019Z",
+  "content_hash": "08b915a0c0f7a6678ff7c5d24e0af7029b62aed9d3bc710368cc357895621eb3",
+  "last_updated": "2026-09-07T16:47:00.180Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T14:00:51.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T13:00:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T16:05:58.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-07T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T17:00:00.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T16:32:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T05:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-07T15:53:43.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
+      "url": "https://www.hodinkee.com/articles/gphg-2026-finalists",
+      "image": "https://hodinkee.imgix.net/uploads/images/e72d73fb-4985-448d-ac14-75ce4135884d/HeroGPHG.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "This year, Mark Kauzlarich is serving on the jury. He walks you through the finalists, talks about the changes to the categories, and gives some thoughts about watches that should have been in the mix.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T16:32:00.000Z",
+      "score_quality": 74,
+      "score_notif": 62,
+      "cluster": "20260907-047d7a88a07d",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The Gold Montblanc Star Legacy Nicolas Rieussec Chronograph Limited Edition 100",
+      "url": "https://monochrome-watches.com/montblanc-star-legacy-nicolas-rieussec-chronograph-limited-edition-100-gold-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Montblanc-Star-Legacy-Nicolas-Rieussec-Chronograph-Limited-Edition-100-review-8-600x237.jpg",
+      "peek_preview": "Since its founding in 1906 in Hamburg, Montblanc has built its reputation on luxury writing instruments. In 1997, Montblanc expanded its offerings to include watches. Bringing the two seemingly disparate worlds of fount...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T16:05:58.000Z",
+      "score_quality": 83,
+      "score_notif": 42,
+      "cluster": "20260907-a7dba0c8902d",
+      "cluster_main": true
+    },
     {
       "title": "Hamilton’s Popular Murph Collection Gets a New Dial Expression",
       "url": "https://wornandwound.com/hamiltons-popular-murph-collection-gets-a-new-dial-expression/",
@@ -660,10 +688,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-05T14:19:44.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why A Seiko 5 Is The Perfect Holiday Watch",
@@ -1240,20 +1268,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The New Oris Big Crown Pointer Date 29mm",
-      "url": "https://monochrome-watches.com/oris-big-crown-pointer-date-29mm-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Oris-Big-Crown-Pointer-Date-29mm-1-600x237.jpg",
-      "peek_preview": "The Big Crown Pointer Date has been a staple in the Oris collection since 1938 and is one of the most recognisable designs in Swiss watchmaking. For Geneva Watch Days 2026, Oris reimagines its signature model in a compa...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T10:00:31.000Z",
-      "score_quality": 76,
-      "score_notif": 44,
-      "cluster": "20260904-addf50d7cedb",
-      "cluster_main": true
-    },
-    {
       "title": "Live from GWD: Ba111od | Hands-on with the Chapter 7 Skeleton",
       "url": "https://deployant.com/live-from-gwd-ba111od-hands-on-with-the-chapter-7-skeleton/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd-ba111od-hands-on-with-the-chapter-7-skeleton",
       "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0539-Large.jpeg",
@@ -1601,7 +1615,7 @@
       "score_quality": 93,
       "score_notif": 56,
       "cluster": "20260903-55ecf0b767f5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet is relaunching with three full collections ready for the modern adventurer",
@@ -1685,20 +1699,6 @@
       "score_quality": 67,
       "score_notif": 68,
       "cluster": "20260903-d15397f7d929",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Gallet Multichron Pilot",
-      "url": "https://www.hodinkee.com/articles/gallet-multichron-pilot",
-      "image": "https://hodinkee.imgix.net/uploads/images/3abd3fd7-a9c8-4c49-9276-d7986a101e8d/Gallet.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Gallet revives a classic pilot's watch, but transforms it into something new.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T08:30:00.000Z",
-      "score_quality": 70,
-      "score_notif": 68,
-      "cluster": "20260903-118b32479a6d",
       "cluster_main": true
     },
     {
@@ -1840,20 +1840,6 @@
       "score_notif": 50,
       "cluster": "20260902-9110617fa7f9",
       "cluster_main": false
-    },
-    {
-      "title": "Beyond the Familiar: A. Lange & Söhne’s 1815 Retrospective",
-      "url": "https://watchesbysjx.com/2026/09/lange-sohne-1815-retrospective.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/lange-1815-retrospective-1-300x169.jpg",
-      "peek_preview": "Ferdinand Adolph Lange was born in Dresden on February 18, 1815. Thirty years later he’d found the eponymous company, and 145 years after that a reborn A. Lange & Söhne would rise from the proverbial ashes of East Germa...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T00:00:41.000Z",
-      "score_quality": 84,
-      "score_notif": 18,
-      "cluster": "20260903-d09af52fddf5",
-      "cluster_main": true
     }
   ]
 }
