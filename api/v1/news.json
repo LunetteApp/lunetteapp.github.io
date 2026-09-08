@@ -1,6 +1,6 @@
 {
-  "content_hash": "63f080de58e59a25f2f244f176696e7ba1c5b4c32c5b9bc50073f42e6ba183c6",
-  "last_updated": "2026-09-08T05:47:13.258Z",
+  "content_hash": "54d37073a860ffa051809a683757c9b330caabcd76513908b80f8ef1102ad037",
+  "last_updated": "2026-09-08T07:47:15.367Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T05:00:12.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T16:05:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T07:01:04.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T09:00:05.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T07:01:46.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Hands-On: Chronoswiss PULSE GMT Silver Guilloché Offers A Fresh Take On The Travel Watch",
+      "url": "https://www.ablogtowatch.com/hands-on-chronoswiss-pulse-gmt-silver-guilloche-offers-a-fresh-take-on-the-travel-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/07/Chronoswiss-Pulse-GMT-Watch-FEATURE-768x346.jpg",
+      "peek_preview": "One of the most noteworthy releases from Chronoswiss in recent years has been the introduction of its PULSE collection, which originally debuted in 2025 as the Swiss brand’s first integrated bracelet model. Rather than...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-08T07:01:46.000Z",
+      "score_quality": 78,
+      "score_notif": 33,
+      "cluster": "20260908-ee4cd19eda38",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The Louis Vuitton Tambour Spin Time Comes Back as a Permanent Collection (Incl. Video)",
+      "url": "https://monochrome-watches.com/louis-vuitton-tambour-spin-time-2026-permanent-collection-video-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Louis-Vuitton-Tambour-Spin-Time-2026-Permanent-Collection-Video-Review-24-600x237.jpg",
+      "peek_preview": "First released in 2009 as part of the emblematic Tambour collection, the Spin Time is, without a doubt, one of the most recognisable creations of Louis Vuitton horlogerie. The idea, a dynamic display using 12 rotating c...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-08T07:01:04.000Z",
+      "score_quality": 84,
+      "score_notif": 49,
+      "cluster": "20260908-d1b27d53d4ec",
+      "cluster_main": true
+    },
+    {
       "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
       "url": "https://www.fratellowatches.com/nomos-twice-unique-collection/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/NOMOS-Twice-Unique-5.jpg",
@@ -296,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -593,7 +621,7 @@
       "score_quality": 88,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1220,10 +1248,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:00:50.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Live from GWD26: Chopard L.U.C 1963 Heritage | Hands on Impressions on novelties",
@@ -1266,20 +1294,6 @@
       "score_notif": 49,
       "cluster": "20260904-1c7a08abe834",
       "cluster_main": true
-    },
-    {
-      "title": "Introducing – The A. Lange & Söhne Triple Split is back in Platinum with a Rhodium-Coloured Dial",
-      "url": "https://monochrome-watches.com/lange-sohne-triple-split-platinum-rhodium-coloured-dial-2026-limited-edition-introducing/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/08/A-Lange-Shone-Triple-Split-rhodium-dial-grey-counters-2026-7-600x237.jpg",
-      "peek_preview": "We’ve said it before: not all chronographs are created equal, and few extend the limits of mechanical short-time measurement as far as the A. Lange & Söhne Triple Split. Since its launch in 2018, this watch has occupied...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T12:01:04.000Z",
-      "score_quality": 99,
-      "score_notif": 66,
-      "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
     },
     {
       "title": "New Release: A. Lange & Söhne 1815 Up/Down Watches Offer A Smaller Size And Blue Dials",
@@ -1346,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T12:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Comeback for the Lange 1815 Up/Down",
@@ -1670,8 +1684,8 @@
       "published_at": "2026-09-03T11:42:06.000Z",
       "score_quality": 27,
       "score_notif": 68,
-      "cluster": "20260903-0f603c8c5a58",
-      "cluster_main": true
+      "cluster": "20260903-6bddd0aa2921",
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex To Sell Four Unique Daytonas At Auction Later This Month To Benefit The Federer Foundation And Re:wild",
@@ -1839,20 +1853,6 @@
       "score_quality": 67,
       "score_notif": 68,
       "cluster": "20260903-d15397f7d929",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: De Bethune DB25 Digitale—The Delta Bridge Gets Its First Wave Decoration",
-      "url": "https://www.watchcollectinglifestyle.com/home/de-bethune-db25-digitale-live-photos",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1788417451464-YDZ5GGB00GR761WS7PP3/De+Bethune+DB25+Digitale-5.jpg?format=1500w",
-      "peek_preview": "De Bethune has always treated the display of time as much an act of design as engineering, and the new DB25 Digitale continues that tradition by looking backward to move forward. Turn the watch over, and the moon's pull...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T08:09:52.000Z",
-      "score_quality": 89,
-      "score_notif": 44,
-      "cluster": "20260903-0621b3645656",
       "cluster_main": true
     }
   ]
