@@ -1,6 +1,6 @@
 {
-  "content_hash": "03507469bbeac4c4737ec456a54f713dc1e051c89b1d2973fe97f48ac5b026d9",
-  "last_updated": "2026-09-08T11:47:07.626Z",
+  "content_hash": "5be1e46faa6602f531f8a40f0442438602b058a293c5283b536e49362ae1db3c",
+  "last_updated": "2026-09-08T12:47:04.842Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T11:00:00.000Z"
     },
     {
@@ -51,8 +51,8 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-04T12:01:09.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T12:03:21.000Z"
     },
     {
       "source_name": "Deployant",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-06T06:55:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T12:22:40.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Gerald Charles Masterlink Atelier Edition: Handarbeit mit Borromini-Lächeln",
+      "url": "https://www.uhrenkosmos.com/gerald-charles-masterlink-atelier-edition-2026/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Opener-Gerald-Charles-Masterlink-Atelier-Edition-Gelbgold-und-Weissgold.jpg",
+      "peek_preview": "Mit der Gerald Charles Masterlink Atelier Edition verbindet die Marke ihr asymmetrisches Borromini-Gehäuse mit einem handgehämmerten Maillechort-Zifferblatt. Die jeweils 25 Exemplare gibt es in Golden Rose, Rhodium und...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-08T12:22:40.000Z",
+      "score_quality": 61,
+      "score_notif": 42,
+      "cluster": "20260908-539920166084",
+      "cluster_main": true
+    },
+    {
+      "title": "Urwerk Looks 1,000 Years Ahead With Baroque-Like Unique Amadeus",
+      "url": "https://www.atimelyperspective.com/urwerk-looks-1000-years-ahead-with-baroque-like-unique-amadeus/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/ur-1001-amadeus_pr-769x1024.jpg",
+      "peek_preview": "There are few watch brands capable of making a 1,000-year mechanical counter seem almost logical. Urwerk is one of them. The independent Swiss brand has spent nearly three decades challenging conventional notions of how...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-08T12:03:21.000Z",
+      "score_quality": 68,
+      "score_notif": 41,
+      "cluster": "20260908-594c5288b4af",
+      "cluster_main": true
+    },
     {
       "title": "First Look – Christiaan van der Klaauw Goes Openworked with the new Planetarium Skeleton",
       "url": "https://monochrome-watches.com/christiaan-van-der-klaauw-planetarium-skeleton-platinum-review-price/",
@@ -383,7 +411,7 @@
       "score_quality": 89,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -660,10 +688,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1626,10 +1654,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T13:00:20.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breaking News: Rolex Unique Daytona Set “Four Seasons” to be Sold for Charity",
@@ -1808,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T08:30:03.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 68,
       "cluster": "20260903-216dfaea4791",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Gallet Flying Officer",
@@ -1825,20 +1853,6 @@
       "score_quality": 70,
       "score_notif": 68,
       "cluster": "20260903-6bddd0aa2921",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-on: Greubel Forsey Balancier GMT Convexe | Video and Live Photographs",
-      "url": "https://deployant.com/hands-on-greubel-forsey-balancier-gmt-convexe-video-and-live-photographs/?utm_source=rss&utm_medium=rss&utm_campaign=hands-on-greubel-forsey-balancier-gmt-convexe-video-and-live-photographs",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/gf-gmt-convexe-hero.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Hands-on Review of the Greubel Forsey Balancier GMT Convexe released in WWG26. We also had Michel Nydegger, CEO of Greubel Forsey introduce the novelty here....",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T08:30:00.000Z",
-      "score_quality": 85,
-      "score_notif": 49,
-      "cluster": "20260903-78d014986c90",
       "cluster_main": true
     }
   ]
