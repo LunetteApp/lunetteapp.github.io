@@ -1,6 +1,6 @@
 {
-  "content_hash": "685af357bf3106d828a0b2024c9c3880523f50ef036960089c826d42ee897641",
-  "last_updated": "2026-09-08T17:46:47.139Z",
+  "content_hash": "1e77355cea15f0b885db1e2a393d2e3a33458ccbff8ed0138f658d57f030310d",
+  "last_updated": "2026-09-08T18:46:57.272Z",
   "premium": {
     "links": []
   },
@@ -15,15 +15,15 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T14:00:58.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T18:00:51.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T17:05:23.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "A. Lange & Söhne Introduces Limited Edition 1815 Up/Down Models in a Smaller Size",
+      "url": "https://wornandwound.com/a-lange-sohne-introduces-limited-edition-1815-up-down-models-in-a-smaller-size/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Lange-Up-Down-banner.jpg",
+      "peek_preview": "A Lange & Söhne has introduced new limited edition versions of their 1815 Up/Down model, one of the brand’s key references for years. The Up/Down is a true enthusiast favorite, prized by Lange collectors for its unique...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-08T18:00:51.000Z",
+      "score_quality": 72,
+      "score_notif": 66,
+      "cluster": "20260904-eb619daf7106",
+      "cluster_main": false
+    },
     {
       "title": "First Look – The New and More Compact Greubel Forsey GMT Balancier Convexe, in Blue",
       "url": "https://monochrome-watches.com/review-new-and-more-compact-greubel-forsey-gmt-balancier-convexe-2026-price/",
@@ -1839,20 +1853,6 @@
       "score_quality": 70,
       "score_notif": 46,
       "cluster": "20260903-e118b89478b4",
-      "cluster_main": true
-    },
-    {
-      "title": "Alpina porta la Route du Rhum ai Geneva Watch Days 2026 con due nuovi orologi",
-      "url": "https://www.orologidiclasse.com/alpina-seastrong-solarmetre-route-du-rhum/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/alpina-route-du-rhum-2026-seastrong-solarmetre.jpg",
-      "peek_preview": "Il 28 novembre 1978 Mike Birch arrivò a Pointe-à-Pitre dopo oltre 23 giorni di navigazione. Michel Malinovsky lo seguì appena 98 secondi dopo. Una traversata dell’Atlantico decisa in poco più di un minuto. Probabilmente...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-03T10:47:00.000Z",
-      "score_quality": 55,
-      "score_notif": 36,
-      "cluster": "20260903-5c3f4ab9a6ac",
       "cluster_main": true
     }
   ]
