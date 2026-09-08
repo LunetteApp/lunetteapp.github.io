@@ -1,6 +1,6 @@
 {
-  "content_hash": "93be4b7a547d656f882e53f5c2ca3ae47bb492a1a0a8c0fc4618dc412b5b8733",
-  "last_updated": "2026-09-08T14:47:06.289Z",
+  "content_hash": "c39a63e946c07159f7456c397f70b521799a0febe96c40b747de9721707996bc",
+  "last_updated": "2026-09-08T16:47:33.682Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T14:00:58.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T14:00:13.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T21:01:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T16:41:02.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Haute Horlogerie Demystified: What It Is And Isn't",
+      "url": "https://teddybaldassarre.com/blogs/watches/haute-horlogerie-demystified",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Breguet-Classique-dialCU-2_feb9dd04-9a95-4b87-9ea0-365770e9f9ce.jpg?v=1788447535",
+      "peek_preview": "Haute horlogerie (high watchmaking) is a term widely used in the watch industry today, but what does it really mean? In simple terms, what it comes down to is the minute details of finissage – the art of deep hand worki...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-08T16:41:02.000Z",
+      "score_quality": 50,
+      "score_notif": 6,
+      "cluster": "20260908-c1d8c1fc9a8f",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: the Chronoswiss Pulse GMT",
       "url": "https://wornandwound.com/review/hands-on-the-chronoswiss-pulse-gmt/",
@@ -691,7 +705,7 @@
       "score_quality": 89,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chic Deep Down: Hands-On With Two Bicolor Favre Leuba Deep Raider Day Date Models",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T09:00:05.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CIGA Design marks 65th anniversary of first successful Chinese Everest ascent",
@@ -1348,7 +1362,7 @@
       "published_at": "2026-09-04T14:00:00.000Z",
       "score_quality": 100,
       "score_notif": 52,
-      "cluster": "20260902-bda4ce8452f6",
+      "cluster": "20260904-eec435f0f197",
       "cluster_main": true
     },
     {
@@ -1840,20 +1854,6 @@
       "score_notif": 36,
       "cluster": "20260903-5c3f4ab9a6ac",
       "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: L. Leroy Vox Temporis Minute Repeater Flying Tourbillon | Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-l-leroy-vox-temporis-minute-repeater-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-l-leroy-vox-temporis-minute-repeater-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0515-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Next up, also an video interview session with Hugo Lessiza, CEO of L.Leroy. But first my hands-on impressions on this GPHG nominee of the Vox Temporis Minute...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T10:08:03.000Z",
-      "score_quality": 99,
-      "score_notif": 52,
-      "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": false
     }
   ]
 }
