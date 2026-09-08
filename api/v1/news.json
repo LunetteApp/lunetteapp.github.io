@@ -1,6 +1,6 @@
 {
-  "content_hash": "018349902c2a2a7e8e578cc6af2d91e14a552abc10cb85d590ef9b416d4d1775",
-  "last_updated": "2026-09-08T19:47:06.826Z",
+  "content_hash": "4be334c4ccce6cedac9da6ca7382f3aafc7dd0783772c79954f442b60c10f207",
+  "last_updated": "2026-09-08T23:46:50.829Z",
   "premium": {
     "links": []
   },
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T23:18:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T23:05:48.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T18:55:55.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: Bvlgari Octo Finissimo Dazzle—When Dial, Case, and Bracelet Become One",
+      "url": "https://www.watchcollectinglifestyle.com/home/bvlgari-octo-finissimo-dazzle-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1788906351042-J9DV41L4T5D1XAHVQMIW/Bvlgari+Octo+Finissimo+Dazzle-1.jpg?format=1500w",
+      "peek_preview": "For Geneva Watch Days 2026, Bvlgari has once again handed the Octo Finissimo over to an idea rather than a client brief. After turning the dial and case of the new Bvlgari Octo Finissimo Dazzle ref. 104382 into a philos...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-08T23:05:48.000Z",
+      "score_quality": 75,
+      "score_notif": 47,
+      "cluster": "20260908-d7fff3c19bfb",
+      "cluster_main": true
+    },
     {
       "title": "Dopo il CasiOak Arriva il CasioNaut? Ecco i Nuovi G-Shock GAC-2500 e GMC-2500",
       "url": "https://www.orologidiclasse.com/casio-g-shock-casionaut-gac-2500-gmc-2500/",
@@ -576,10 +590,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -859,7 +873,7 @@
       "score_quality": 90,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1840,20 +1854,6 @@
       "score_notif": 68,
       "cluster": "20260903-0f603c8c5a58",
       "cluster_main": true
-    },
-    {
-      "title": "Breaking News: Rolex To Sell Four Unique Daytonas At Auction Later This Month To Benefit The Federer Foundation And Re:wild",
-      "url": "https://www.hodinkee.com/articles/rolex-to-sell-four-unique-daytonas-at-auction-later-this-month-to-benefit-the-federer-foundation-and",
-      "image": "https://hodinkee.imgix.net/uploads/images/a20f1be4-767b-46d8-9e04-83616fd8aa37/rolex-four-seasons-cover-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Rolex *almost* never confirms watches as unique. But now's your chance to buy four of them, all for a very good cause.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T11:05:00.000Z",
-      "score_quality": 90,
-      "score_notif": 78,
-      "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
     }
   ]
 }
