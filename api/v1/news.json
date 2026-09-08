@@ -1,6 +1,6 @@
 {
-  "content_hash": "1e77355cea15f0b885db1e2a393d2e3a33458ccbff8ed0138f658d57f030310d",
-  "last_updated": "2026-09-08T18:46:57.272Z",
+  "content_hash": "018349902c2a2a7e8e578cc6af2d91e14a552abc10cb85d590ef9b416d4d1775",
+  "last_updated": "2026-09-08T19:47:06.826Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T18:00:51.000Z"
     },
     {
@@ -106,9 +106,9 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T12:36:11.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T18:55:55.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Dopo il CasiOak Arriva il CasioNaut? Ecco i Nuovi G-Shock GAC-2500 e GMC-2500",
+      "url": "https://www.orologidiclasse.com/casio-g-shock-casionaut-gac-2500-gmc-2500/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/casio-g-shock-gac-2500-casionaut.jpg",
+      "peek_preview": "Ci risiamo. Dopo il CasiOak, nome che Casio non ha mai messo su una scatola ma che ormai conoscono praticamente tutti, Internet sembra aver già trovato un soprannome per una nuova famiglia G-Shock che, almeno per ora, n...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-08T18:55:55.000Z",
+      "score_quality": 58,
+      "score_notif": 50,
+      "cluster": "20260908-3a1e37539cd5",
+      "cluster_main": true
+    },
     {
       "title": "A. Lange & Söhne Introduces Limited Edition 1815 Up/Down Models in a Smaller Size",
       "url": "https://wornandwound.com/a-lange-sohne-introduces-limited-edition-1815-up-down-models-in-a-smaller-size/",
@@ -886,8 +900,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 66,
-      "cluster": "20260906-da72a73680d5",
-      "cluster_main": true
+      "cluster": "20260904-eb619daf7106",
+      "cluster_main": false
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
@@ -1766,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T12:39:54.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Highlife Moonphase Date Manufacture: la Luna sporty-chic di Frederique Constant",
@@ -1839,21 +1853,7 @@
       "score_quality": 90,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": true
-    },
-    {
-      "title": "The Atelier Wen x Massena LAB Inflection Shuò pairs tremblage dials with tantalum",
-      "url": "https://timeandtidewatches.com/atelier-wen-massena-lab-inflection-shuo-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-atelier-wen-massena-lab-inflection-shuo-2.jpg",
-      "peek_preview": "The Atelier Wen x Massena LAB Inflection Shuò pairs hand-engraved gold dials, a tantalum case and a customised Girard-Perregaux movement. The post The Atelier Wen x Massena LAB Inflection Shuò pairs tremblage dials with...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T11:00:35.000Z",
-      "score_quality": 70,
-      "score_notif": 46,
-      "cluster": "20260903-e118b89478b4",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
