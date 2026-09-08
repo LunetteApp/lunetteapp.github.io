@@ -1,6 +1,6 @@
 {
-  "content_hash": "5ac24be52ad4b8c784a518de3fc696d6591dac24dc07f424f7403c2c2aa7ba29",
-  "last_updated": "2026-09-08T13:48:01.542Z",
+  "content_hash": "93be4b7a547d656f882e53f5c2ca3ae47bb492a1a0a8c0fc4618dc412b5b8733",
+  "last_updated": "2026-09-08T14:47:06.289Z",
   "premium": {
     "links": []
   },
@@ -9,29 +9,29 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T13:00:44.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T19:00:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T14:00:58.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T11:00:00.000Z"
+      "estimated_articles_per_day": 4.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-08T14:00:13.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-08T13:00:58.000Z"
+      "new_articles_since_last_update": 0,
+      "latest_article_at": "2026-09-08T14:00:07.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -58,28 +58,28 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T13:00:04.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T13:00:15.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: the Chronoswiss Pulse GMT",
+      "url": "https://wornandwound.com/review/hands-on-the-chronoswiss-pulse-gmt/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/CHRONOSWISS_PULSE_GMT_15-scaled.jpg",
+      "peek_preview": "I love the experience of a truly unique watch. A watch that, despite doing what the rest of them do, for all intents and purposes, is still unlike anything you’ve strapped to your wrist. This goes beyond the dial to the...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-08T14:00:58.000Z",
+      "score_quality": 74,
+      "score_notif": 33,
+      "cluster": "20260908-ee4cd19eda38",
+      "cluster_main": false
+    },
+    {
+      "title": "First Look – Titoni goes Higher-End and Sporty with the new Luxe Tourbillon Ceramic",
+      "url": "https://monochrome-watches.com/titoni-goes-higher-end-and-sporty-with-the-new-luxe-tourbillon-ceramic-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Titoni-Luxe-Tourbillon-Ceramic-Luxury-Sports-Watch-review-1-600x237.jpg",
+      "peek_preview": "Tourbillons have long been associated with traditional high watchmaking. Still, in recent years, we have seen quite a few of these appear in the more accessible segment, from Yema, Patria, or Louis Erard. Powered by a m...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-08T14:00:13.000Z",
+      "score_quality": 77,
+      "score_notif": 40,
+      "cluster": "20260908-e41ac40c3dc0",
+      "cluster_main": true
+    },
+    {
+      "title": "Inside Hampden’s First Hand Workshop, Where You Assemble The Watch You Take Home",
+      "url": "https://www.ablogtowatch.com/inside-hampdens-first-hand-workshop-where-you-assemble-the-watch-you-take-home/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hampden-00239-768x1151.jpg",
+      "peek_preview": "For most watch enthusiasts, understanding how a mechanical movement works is largely an exercise in observation. Exhibition casebacks reveal the bridges, wheels, gears and balance wheel at work, while books and videos c...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-08T14:00:07.000Z",
+      "score_quality": 72,
+      "score_notif": 24,
+      "cluster": "20260908-74b58ed93941",
+      "cluster_main": true
+    },
     {
       "title": "GWD26: Armchair Pick: Chester’s Top 3 from the new release",
       "url": "https://deployant.com/gwd26-armchair-pick-chesters-top-3-from-the-new-release/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-armchair-pick-chesters-top-3-from-the-new-release",
@@ -408,10 +450,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1212,34 +1254,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The New Schwarz Etienne 1902 Petite Seconde Heure Dorée",
-      "url": "https://monochrome-watches.com/schwarz-etienne-1902-petite-seconde-heure-doree-black-dlc-titanium-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/chwarz-Etienne-1902-Petite-Seconde-Heure-Doree-black-dlc-titanium-review-1-600x237.jpg",
-      "peek_preview": "Schwarz Etienne’s 1902 collection has evolved through a broad range of interpretations, including the Petite Seconde, Power Reserve and GMT models, all united by the Manufacture’s focus on in-house movement development...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T16:30:32.000Z",
-      "score_quality": 80,
-      "score_notif": 46,
-      "cluster": "20260904-eb0ad957f048",
-      "cluster_main": true
-    },
-    {
-      "title": "Inside Hampden’s First Hand Workshop, Where You Assemble The Watch You Take Home",
-      "url": "https://www.ablogtowatch.com/inside-hampdens-first-hand-workshop-where-you-assemble-the-watch-you-take-home/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hampden-00239-768x1151.jpg",
-      "peek_preview": "For most watch enthusiasts, understanding how a mechanical movement works is largely an exercise in observation. Exhibition casebacks reveal the bridges, wheels, gears and balance wheel at work, while books and videos c...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T15:50:07.000Z",
-      "score_quality": 72,
-      "score_notif": 24,
-      "cluster": "20260904-74b58ed93941",
-      "cluster_main": true
-    },
-    {
       "title": "Live from GWD26: Daniel Roth Extra Plat Rose Gold Gilt | Hands-on Impressions",
       "url": "https://deployant.com/live-from-gwd26-daniel-roth-extra-plat-rose-gold-gilt-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-daniel-roth-extra-plat-rose-gold-gilt-hands-on-impressions",
       "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0583-Large.jpeg",
@@ -1251,7 +1265,7 @@
       "score_quality": 91,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1332,10 +1346,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T14:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time to win: tutti gli orologi che hanno segnato la Formula 1",
@@ -1836,10 +1850,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T10:08:03.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 52,
       "cluster": "20260902-bda4ce8452f6",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
