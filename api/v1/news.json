@@ -1,6 +1,6 @@
 {
-  "content_hash": "77d8f91f5a0020bb1c0cdb95051f5bce61df2bbd2aea6d334e8525c6ae2f79dc",
-  "last_updated": "2026-09-09T00:46:39.841Z",
+  "content_hash": "acebcde29391b1276284bc8d5b351b4abb2c87804d5577b3a0687f103fe498f5",
+  "last_updated": "2026-09-09T03:47:05.535Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T17:05:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T03:01:49.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -164,7 +164,7 @@
       "lang": "ja",
       "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-09T00:00:41.000Z"
+      "latest_article_at": "2026-09-09T03:00:10.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The new HKF005, a King Seiko Vanac with a Dial Inspired by Tokyo by Night",
+      "url": "https://monochrome-watches.com/review-new-hkf005-a-king-seiko-vanac-with-a-dial-inspired-by-tokyo-by-night-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/King-Seiko-Vanac-Tokyo-by-Night-Glitter-Dial-HKF005-Review-6-600x237.jpg",
+      "peek_preview": "Released last year, the King Seiko Vanac came as a surprise from the Japanese manufacturer. Contrary to most previous King Seiko watches, inspired by the early days of the sub-brand, the Vanac was based on an edgy King...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T03:01:49.000Z",
+      "score_quality": 85,
+      "score_notif": 53,
+      "cluster": "20260909-e45612ab9d69",
+      "cluster_main": true
+    },
+    {
+      "title": "ユンハンスがオールブラックのクールな「マックス・ビル クォーツ」を発表",
+      "url": "https://www.webchronos.net/news/172240/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/max_bill_Quarz_41_4660_46_Mood_RGB_18x13_low-1.jpg",
+      "peek_preview": "ユンハンスの人気シリーズである「マックス・ビル」に、ケースから文字盤、さらにミラネーゼブレスレットまでブラックで統一されたモノトーンモデルが登場した。ワントーンで統一されつつも、各パーツのフォルムや質感のコントラストによ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-09T03:00:10.000Z",
+      "score_quality": 71,
+      "score_notif": 27,
+      "cluster": "20260909-4d1f40ad6ca2",
+      "cluster_main": true
+    },
     {
       "title": "ラボアより、往年の意匠を受け継ぐドレスウォッチ、「ヘリテージ・スモールセコンド」3種を発表",
       "url": "https://www.webchronos.net/news/172112/",
@@ -607,7 +635,7 @@
       "score_quality": 91,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -772,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T09:01:29.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chic Deep Down: Hands-On With Two Bicolor Favre Leuba Deep Raider Day Date Models",
@@ -803,7 +831,7 @@
       "score_quality": 92,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CIGA Design marks 65th anniversary of first successful Chinese Everest ascent",
@@ -816,8 +844,8 @@
       "published_at": "2026-09-07T08:00:47.000Z",
       "score_quality": 48,
       "score_notif": 45,
-      "cluster": "20260903-64d133c5f10a",
-      "cluster_main": false
+      "cluster": "20260907-fc1e0af269b7",
+      "cluster_main": true
     },
     {
       "title": "Actually Affordable: Vaer G2 Fairway GMT Golf Watch",
@@ -884,10 +912,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1097,20 +1125,6 @@
       "score_quality": 33,
       "score_notif": 22,
       "cluster": "20260905-1658a69d561d",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The Marcu Initial, The Debut Watch of an Experienced Watchmaker",
-      "url": "https://monochrome-watches.com/marcu-initial-the-debut-watch-of-an-experienced-watchmaker-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Marcu-Initial-Watch-Independent-Watchmaking-review-1-600x237.jpg",
-      "peek_preview": "Among the new independent watch brands recently unveiled, Marcu stands out for several reasons: not only for the originality of its debut timepiece, but also for the original background of the man behind it. Jérôme Marc...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-05T15:00:58.000Z",
-      "score_quality": 80,
-      "score_notif": 43,
-      "cluster": "20260905-153da11ea2c0",
       "cluster_main": true
     },
     {
@@ -1840,20 +1854,6 @@
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
       "cluster_main": false
-    },
-    {
-      "title": "Hands-On Debut: The CIGA design Everest China 65th Anniversary Watch Delivers The Brand’s First-Ever Automaton With Mountaineering Flair",
-      "url": "https://www.ablogtowatch.com/hands-on-debut-the-ciga-design-everest-china-65th-anniversary-watch-delivers-the-brands-first-ever-automaton-with-mountaineering-flair/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/CIGA-design-Everest-China-65th-Anniversary-LOR-Crop-768x346.jpg",
-      "peek_preview": "Although it’s produced a disparate variety of designs over the past decade, Chinese marque CIGA design carries a special fascination with Mount Everest. Its top-of-the-heap central tourbillon model celebrated the origin...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T12:00:38.000Z",
-      "score_quality": 74,
-      "score_notif": 45,
-      "cluster": "20260903-64d133c5f10a",
-      "cluster_main": true
     }
   ]
 }
