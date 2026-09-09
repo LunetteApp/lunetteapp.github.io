@@ -1,6 +1,6 @@
 {
-  "content_hash": "76af28c7488c9c9d1ef54e25a8a1dd798e5bda9c5012d387b45a5e0012dd82a4",
-  "last_updated": "2026-09-09T13:47:10.144Z",
+  "content_hash": "5c1dbe5fe70319781dc44179b7aab136939a5aaba41b5b89f973eeb589c0541d",
+  "last_updated": "2026-09-09T14:47:39.943Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T13:00:54.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T07:01:30.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T14:00:13.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -51,21 +51,21 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T12:03:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T14:43:12.000Z"
     },
     {
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T13:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The DWISS S1 15th Anniversary Edition Celebrates A Major Milestone With Two Celestially Inspired Wandering Hour Watches",
+      "url": "https://www.ablogtowatch.com/the-dwiss-s1-15th-anniversary-edition-celebrates-a-major-milestone-with-two-celestially-inspired-wandering-hour-watches/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/DWISS-S1-15th-Anniversary-Edition-24-768x329.jpeg",
+      "peek_preview": "Since its inception 15 years ago, DWISS has never been content with a standard interpretation of time or a conservative approach to watchmaking. Throughout the brand’s lineup, you’ll find everything from displaced hours...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T14:00:13.000Z",
+      "score_quality": 67,
+      "score_notif": 34,
+      "cluster": "20260909-a9389c1fea61",
+      "cluster_main": true
+    },
     {
       "title": "GWD26 Armchair Pick: Daryll’s top 3 from the new releases",
       "url": "https://deployant.com/gwd26-armchair-pick-darylls-top-3-from-the-new-releases/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-armchair-pick-darylls-top-3-from-the-new-releases",
@@ -887,7 +901,7 @@
       "score_quality": 79,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T05:00:11.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ブランパンより「フィフティ ファゾムス バチスカーフ」の70周年記念モデルが300本限定で登場",
@@ -1826,34 +1840,6 @@
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
       "cluster_main": false
-    },
-    {
-      "title": "Review: the H. Moser Pioneer Centre Seconds Arctic Blue",
-      "url": "https://wornandwound.com/review/review-the-h-moser-pioneer-centre-seconds-arctic-blue/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/2026_07_HMoser_Pioneer40_02_WR.jpg",
-      "peek_preview": "Ask me on any random day to name my favorite indie watchmaker, and there’s a pretty good chance I’m likely to respond with H. Moser. They are all the things I like, in or out of watches: kind of provocative, colorful, a...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T19:00:38.000Z",
-      "score_quality": 77,
-      "score_notif": 16,
-      "cluster": "20260903-5fb1b1be2a20",
-      "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: Frederique Constant Classics Moneta | Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-frederique-constant-classics-moneta-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-frederique-constant-classics-moneta-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0530-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Next I was at the Frederique Constant suite, and CEO Neils Eggerding showed me his latest creation: the Classics Moneta with a “in-house” La Joux Perret movem...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T15:55:55.000Z",
-      "score_quality": 80,
-      "score_notif": 28,
-      "cluster": "20260903-846eb0b74f6f",
-      "cluster_main": true
     }
   ]
 }
