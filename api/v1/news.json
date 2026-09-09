@@ -1,6 +1,6 @@
 {
-  "content_hash": "716794714d17e7ec730336d878d68a55e4021721e45da6ff7913d7cdec4db1d0",
-  "last_updated": "2026-09-09T18:47:06.393Z",
+  "content_hash": "06428c858faa5672384b5ef9876acfd2f60297439a89d3b524d729cec88510e9",
+  "last_updated": "2026-09-09T19:47:00.206Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T18:00:43.000Z"
     },
     {
@@ -29,9 +29,9 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T14:00:13.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T19:24:06.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T16:41:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T19:05:28.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "New Release: Apple Watch Ultra 4 Upgrades The Brand’s Flagship Smartwatch",
+      "url": "https://www.ablogtowatch.com/new-release-apple-watch-ultra-4-upgrades-the-brands-flagship-smartwatch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Apple-Watch-Ultra-4-Smartwatch-768x346.jpg",
+      "peek_preview": "Each year in September, Apple announces its latest new products, and joining the lineup for 2026 is the Apple Watch Ultra 4, which will serve as the brand’s flagship smartwatch model for 2027. Since the launch of the or...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T19:24:06.000Z",
+      "score_quality": 62,
+      "score_notif": 69,
+      "cluster": "20260909-bb43cc6865a0",
+      "cluster_main": true
+    },
+    {
+      "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
+      "url": "https://teddybaldassarre.com/blogs/watches/titan-stellar-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Titan-Stellar-Automatic-Luna-2.jpg?v=1787852769",
+      "peek_preview": "India's Titan has built a remarkably deep and fascinating universe for itself. Originally launched by the Tata Group in 1984 with a simple goal — to put a reliable quartz watch on every wrist — the brand is now channeli...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T19:05:28.000Z",
+      "score_quality": 71,
+      "score_notif": 16,
+      "cluster": "20260909-f7c646ea36b3",
+      "cluster_main": true
+    },
     {
       "title": "What Anton Rupert’s New Role Means For Richemont’s Future",
       "url": "https://www.atimelyperspective.com/what-anton-ruperts-new-role-means-for-richemonts-future/",
@@ -856,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1531,7 +1559,7 @@
       "score_quality": 97,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1825,20 +1853,6 @@
       "score_quality": 80,
       "score_notif": 26,
       "cluster": "20260904-749ab860f63a",
-      "cluster_main": true
-    },
-    {
-      "title": "Live from GWD: Ba111od | Hands-on with the Chapter 7 Skeleton",
-      "url": "https://deployant.com/live-from-gwd-ba111od-hands-on-with-the-chapter-7-skeleton/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd-ba111od-hands-on-with-the-chapter-7-skeleton",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0539-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors A visit to the Ba111od suite is next. And Thomas Baillod showed us the new Chapter 7 Skeleton. These watches were introduced earlier, but the natural steel mo...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T09:30:45.000Z",
-      "score_quality": 77,
-      "score_notif": 33,
-      "cluster": "20260904-568cf735931a",
       "cluster_main": true
     }
   ]
