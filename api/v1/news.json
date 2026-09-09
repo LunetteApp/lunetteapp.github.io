@@ -1,6 +1,6 @@
 {
-  "content_hash": "7ce6fb9ecca4b9001955b73e5c6db973b3779d980854b54a364538175986d75b",
-  "last_updated": "2026-09-09T16:47:53.098Z",
+  "content_hash": "301b0d130063b2d3607a86f7990e9cae55db5584ec026aeef2098a6f7e994993",
+  "last_updated": "2026-09-09T17:47:04.831Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T16:00:23.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 4.1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T16:05:54.000Z"
     },
     {
@@ -50,9 +50,9 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T14:43:12.000Z"
+      "estimated_articles_per_day": 0.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T17:31:02.000Z"
     },
     {
       "source_name": "Deployant",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T16:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "What Anton Rupert’s New Role Means For Richemont’s Future",
+      "url": "https://www.atimelyperspective.com/what-anton-ruperts-new-role-means-for-richemonts-future/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/anton-rupert_-richemont-all-rights-reserved_subpage.png.jpeg",
+      "peek_preview": "The Richemont Group (think Cartier, Vacheron Constantin, Van Cleef & Arpels and a host of other luxury Maisons) made an important move toward its future yesterday, appointing Anton Rupert, son of longtime Chairman Johan...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T17:31:02.000Z",
+      "score_quality": 57,
+      "score_notif": 45,
+      "cluster": "20260909-1d8855417945",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The New David Candaux DC6 Wildfire, When Carbon Meets Sunlight",
       "url": "https://monochrome-watches.com/david-candaux-dc6-wildfire-inclined-flying-tourbillon-review-price/",
@@ -296,10 +310,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-09T12:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
@@ -789,7 +803,7 @@
       "score_quality": 86,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
@@ -912,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1164,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1839,20 +1853,6 @@
       "score_quality": 24,
       "score_notif": 20,
       "cluster": "20260904-df3ee539f588",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On Debut: RZE UTD-8000 Orange And Tan Cerakote Watches Pair Color With Titanium Cases",
-      "url": "https://www.ablogtowatch.com/hands-on-debut-rze-utd-8000-orange-and-tan-cerakote-watches-pair-color-with-titanium-cases/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/RZE-UTD-8000-Orange-Tan-Cerakote-Digital-Watches-FEATURE-768x346.jpg",
-      "peek_preview": "Originally introduced last year in 2025, the RZE UTD-8000 is an ultra-durable titanium digital watch that was specifically created to withstand extreme levels of physical punishment. The original lineup of UTD-8000 mode...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T07:01:09.000Z",
-      "score_quality": 78,
-      "score_notif": 41,
-      "cluster": "20260904-978bc344f146",
       "cluster_main": true
     }
   ]
