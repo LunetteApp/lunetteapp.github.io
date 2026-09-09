@@ -1,6 +1,6 @@
 {
-  "content_hash": "06428c858faa5672384b5ef9876acfd2f60297439a89d3b524d729cec88510e9",
-  "last_updated": "2026-09-09T19:47:00.206Z",
+  "content_hash": "6a281cdf215a950d2b38badb767a95adf08c88032cda3bc6639a3fe7c0e5662e",
+  "last_updated": "2026-09-09T20:47:15.242Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T18:00:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T20:00:18.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T19:24:06.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T19:05:28.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T20:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
+      "url": "https://wornandwound.com/six-from-seiko-a-roundup-of-amazing-chronographs-from-the-depths-of-relative-obscurity/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Seiko-Sportura-99.jpg",
+      "peek_preview": "Vintage Seiko, as most collectors know, is a rich tapestry. Once you learn the story of Colonel William Pogue, or try to track down the funky bracelet that Bruce Lee paired with his own Speed-Timer, the wormholes natura...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T20:00:18.000Z",
+      "score_quality": 46,
+      "score_notif": 12,
+      "cluster": "20260909-1bf6d352dcb6",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Apple Announces The Apple Watch Series 12 And Apple Watch Ultra 4 (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/apple-announces-the-apple-watch-series-12-and-apple-watch-ultra-4-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/70858cd3-3543-476b-b446-cea310c09666/a12-h.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Let's Ternus attention to Apple Watch.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T20:00:00.000Z",
+      "score_quality": 84,
+      "score_notif": 72,
+      "cluster": "20260909-bb43cc6865a0",
+      "cluster_main": true
+    },
+    {
       "title": "New Release: Apple Watch Ultra 4 Upgrades The Brand’s Flagship Smartwatch",
       "url": "https://www.ablogtowatch.com/new-release-apple-watch-ultra-4-upgrades-the-brands-flagship-smartwatch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Apple-Watch-Ultra-4-Smartwatch-768x346.jpg",
@@ -185,9 +213,9 @@
       "featured": false,
       "published_at": "2026-09-09T19:24:06.000Z",
       "score_quality": 62,
-      "score_notif": 69,
+      "score_notif": 72,
       "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -338,10 +366,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-09T12:00:00.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
@@ -831,7 +859,7 @@
       "score_quality": 88,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
@@ -1236,8 +1264,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 66,
-      "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster": "20260906-da72a73680d5",
+      "cluster_main": true
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
@@ -1825,34 +1853,6 @@
       "score_quality": 44,
       "score_notif": 22,
       "cluster": "20260904-4c65299ddaff",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex met quatre Daytona uniques aux enchères pour Federer et DiCaprio",
-      "url": "https://www.welovewatches.fr/rolex-met-quatre-daytona-uniques-aux-encheres-pour-federer-et-dicaprio.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/rolex-encheres-2026-une.jpg",
-      "peek_preview": "L’annonce est suffisamment rare pour mériter qu’on s’y attarde. Rolex, qui ne documente presque jamais publiquement ses pièces uniques, mettra aux enchères quatre Cosmograph Daytona créées chacune en un seul exemplaire....",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-04T10:31:31.000Z",
-      "score_quality": 62,
-      "score_notif": 78,
-      "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
-    },
-    {
-      "title": "Live from GWD26: Luca Soprana | Hands-on with Luca Soprana and Derek Pratt",
-      "url": "https://deployant.com/live-from-gwd26-luca-soprana-hands-on-with-luca-soprana-and-derek-pratt/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-luca-soprana-hands-on-with-luca-soprana-and-derek-pratt",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0553-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Next, a hike up Grand rue in Geneva to the premises of WatchesTV, where Luca Soprana is holding session in a very club like environment. Luca showed me his So...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T10:01:36.000Z",
-      "score_quality": 80,
-      "score_notif": 26,
-      "cluster": "20260904-749ab860f63a",
       "cluster_main": true
     }
   ]
