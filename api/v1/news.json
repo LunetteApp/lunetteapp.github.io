@@ -1,6 +1,6 @@
 {
-  "content_hash": "083843820787a40d7bf7cf772500dab5580981c7a74af7dada4ce70cdabf000f",
-  "last_updated": "2026-09-09T10:47:18.211Z",
+  "content_hash": "ce7980fe9e2ba0e6be4c569650ef6ff54b0a0d38b3d445ed4b68f35275f2190a",
+  "last_updated": "2026-09-09T11:47:53.722Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T09:00:38.000Z"
+      "estimated_articles_per_day": 3.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T11:00:44.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T08:00:28.000Z"
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T11:00:44.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -113,9 +113,9 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T10:47:24.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T11:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
+      "url": "https://www.fratellowatches.com/the-david-candaux-dc6-wildfire/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/David-Candaux-GWD-2026-33.jpg",
+      "peek_preview": "Whenever I review a genuinely fascinating example of haute horlogerie, I’m constantly reminded that one never stops learning about watches. Yes, these wildly creative pieces make me feel like a neophyte. And so it is wh...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T11:00:44.000Z",
+      "score_quality": 64,
+      "score_notif": 39,
+      "cluster": "20260903-e49b1d0c8e51",
+      "cluster_main": false
+    },
+    {
+      "title": "Studio Underd0g turns its 02SERIES into a nightlight with the Special Edition 02SERIES Mantis",
+      "url": "https://timeandtidewatches.com/studio-underd0g-02series-mantis-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-studio-underdog-series02-mantis.jpg",
+      "peek_preview": "Studio Underd0g unleashes a new, highly limited 02SERIES with a vibrant, fully luminescent green dial. This, is the Mantis The post Studio Underd0g turns its 02SERIES into a nightlight with the Special Edition 02SERIES...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T11:00:44.000Z",
+      "score_quality": 70,
+      "score_notif": 52,
+      "cluster": "20260909-137e4abbd36a",
+      "cluster_main": true
+    },
+    {
+      "title": "Tiffany Timer: meno forma, più sostanza",
+      "url": "https://giornaleorologi.it/2026/09/09/tiffany-timer/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/Apertura-Tiffany-Timer-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Tiffany Timer: meno forma, più sostanza Dici Tiffany e pensi a gioielli da sogno, a diamanti, a Audrey Hepburn davanti alle vetrine della gioielleria sulla Fifth Avenue di New York, mentre adde...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-09T11:00:00.000Z",
+      "score_quality": 38,
+      "score_notif": 24,
+      "cluster": "20260909-91dcea4d23bf",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The Ulysse Saint-Petersbourg by Beauregard x Vianney Halter",
       "url": "https://monochrome-watches.com/ulysse-saint-petersbourg-by-beauregard-x-vianney-halter-review-price/",
@@ -677,7 +719,7 @@
       "score_quality": 92,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -747,7 +789,7 @@
       "score_quality": 97,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1024,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1041,20 +1083,6 @@
       "score_quality": 70,
       "score_notif": 46,
       "cluster": "20260907-1f762385b1ce",
-      "cluster_main": true
-    },
-    {
-      "title": "Reframing My Image Of The Leica ZM 11 Titanium Coffee Black",
-      "url": "https://www.fratellowatches.com/reframing-my-image-of-the-leica-zm-11-titanium-coffee-black/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Leica-ZM11-Coffee-Black-2.jpg",
-      "peek_preview": "When it comes to brands and their expertise, I am a bit of a purist. There is a famous Dutch saying: “Cobbler, stick to your last.” In other words, stick to what you do best. Some fields, like horology, require highly s...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-06T22:01:16.000Z",
-      "score_quality": 56,
-      "score_notif": 16,
-      "cluster": "20260906-513d08a8509b",
       "cluster_main": true
     },
     {
@@ -1388,10 +1416,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1822,37 +1850,9 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-03T14:00:03.000Z",
-      "score_quality": 66,
+      "score_quality": 68,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: The Baltic Aquascaphe GMT MK-II",
-      "url": "https://www.hodinkee.com/articles/introducing-baltic-aquascaphe-gmt-mkii",
-      "image": "https://hodinkee.imgix.net/uploads/images/6286b9fb-1e78-42be-922e-44daca06deb5/FaceAquascapheGMTMK-IIBlue.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "After last year's revamp of the Aquascaphe line comes the relaunch of the GMT version, with a new movement.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T14:00:00.000Z",
-      "score_quality": 93,
-      "score_notif": 63,
-      "cluster": "20260903-57e5ce58376a",
-      "cluster_main": true
-    },
-    {
-      "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
-      "url": "https://wornandwound.com/gallet-officially-enters-its-renaissance-for-the-brands-200th-anniversary/",
-      "image": "https://wornandwound.com/library/uploads/2026/08/Gallet-Launch-collection-3.jpg",
-      "peek_preview": "It was nearly a year and a half ago that Breitling announced its acquisition of the long defunct Swiss watch brand Gallet. Since then, we’ve been waiting for an official comeback, and now it’s finally here in the year o...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T13:00:20.000Z",
-      "score_quality": 54,
-      "score_notif": 38,
-      "cluster": "20260903-ceb97e38a93e",
       "cluster_main": true
     }
   ]
