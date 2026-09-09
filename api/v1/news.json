@@ -1,6 +1,6 @@
 {
-  "content_hash": "ce7980fe9e2ba0e6be4c569650ef6ff54b0a0d38b3d445ed4b68f35275f2190a",
-  "last_updated": "2026-09-09T11:47:53.722Z",
+  "content_hash": "1476532913af7b58851eba36f795523ad781852ee7c2bd613ca18325de1bf956",
+  "last_updated": "2026-09-09T12:47:11.869Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T11:00:44.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T12:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T11:00:44.000Z"
     },
     {
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T11:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Five New Louis Vuitton Tambour Spin Time References",
+      "url": "https://www.hodinkee.com/articles/five-new-louis-vuitton-tambour-spin-time-references",
+      "image": "https://hodinkee.imgix.net/uploads/images/d9439ad4-0e80-461c-8555-50830b57c3ea/spintimeheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The brand's creative takes on the jump hour enters the permanent collection.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T12:00:00.000Z",
+      "score_quality": 85,
+      "score_notif": 58,
+      "cluster": "20260908-d1b27d53d4ec",
+      "cluster_main": true
+    },
     {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
       "url": "https://www.fratellowatches.com/the-david-candaux-dc6-wildfire/",
@@ -241,7 +255,7 @@
       "featured": false,
       "published_at": "2026-09-09T08:55:33.000Z",
       "score_quality": 69,
-      "score_notif": 49,
+      "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
       "cluster_main": false
     },
@@ -270,8 +284,8 @@
       "published_at": "2026-09-09T07:44:43.000Z",
       "score_quality": 67,
       "score_notif": 63,
-      "cluster": "20260903-57e5ce58376a",
-      "cluster_main": false
+      "cluster": "20260909-263a7d093709",
+      "cluster_main": true
     },
     {
       "title": "Movado Heritage Kingmatic Watch Review: A Historic Brand Plays Catch-up",
@@ -507,7 +521,7 @@
       "featured": false,
       "published_at": "2026-09-08T13:00:58.000Z",
       "score_quality": 63,
-      "score_notif": 49,
+      "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
       "cluster_main": false
     },
@@ -619,7 +633,7 @@
       "featured": false,
       "published_at": "2026-09-08T09:00:04.000Z",
       "score_quality": 74,
-      "score_notif": 49,
+      "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
       "cluster_main": false
     },
@@ -661,9 +675,9 @@
       "featured": false,
       "published_at": "2026-09-08T07:01:04.000Z",
       "score_quality": 84,
-      "score_notif": 49,
+      "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -786,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1069,7 +1083,7 @@
       "score_quality": 98,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1419,7 +1433,7 @@
       "score_quality": 93,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1461,7 +1475,7 @@
       "score_quality": 88,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Geneva Watch Days 2026: novità e tendenze",
@@ -1528,10 +1542,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:51:00.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
@@ -1839,20 +1853,6 @@
       "score_quality": 60,
       "score_notif": 45,
       "cluster": "20260903-f6bffaea4ee0",
-      "cluster_main": true
-    },
-    {
-      "title": "Baltic Continues Its Permanent Collection Refresh With New Aquascaphe GMT MK-II",
-      "url": "https://teddybaldassarre.com/blogs/watches/baltic-aquascaphe-gmt-mk-ii",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Aquascaphe_GMT_MK-II_Red_Rubber_2.jpg?v=1788372651",
-      "peek_preview": "French independent microbrand Baltic roared out of the gates in 2017 and doesn’t seem to be slowing down anytime soon. Just a few months after adding the Scalegraph to its permanent collection, and one year since the la...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T14:00:03.000Z",
-      "score_quality": 68,
-      "score_notif": 63,
-      "cluster": "20260903-57e5ce58376a",
       "cluster_main": true
     }
   ]
