@@ -1,6 +1,6 @@
 {
-  "content_hash": "4be334c4ccce6cedac9da6ca7382f3aafc7dd0783772c79954f442b60c10f207",
-  "last_updated": "2026-09-08T23:46:50.829Z",
+  "content_hash": "77d8f91f5a0020bb1c0cdb95051f5bce61df2bbd2aea6d334e8525c6ae2f79dc",
+  "last_updated": "2026-09-09T00:46:39.841Z",
   "premium": {
     "links": []
   },
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T23:05:48.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T03:00:47.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T00:00:41.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ラボアより、往年の意匠を受け継ぐドレスウォッチ、「ヘリテージ・スモールセコンド」3種を発表",
+      "url": "https://www.webchronos.net/news/172112/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/LB_hs_1.webp",
+      "peek_preview": "ラボアは1940から1950年代に製造されたスモールセコンドウォッチの伝統を現代によみがえらせた、新作「ヘリテージ・スモールセコンド」が発表した。異なる着想元を持つ3種類のダイアルをラインナップさせ、全モデルにCOSC公 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-09T00:00:41.000Z",
+      "score_quality": 62,
+      "score_notif": 26,
+      "cluster": "20260909-66938f69a4c1",
+      "cluster_main": true
+    },
     {
       "title": "Insider: Bvlgari Octo Finissimo Dazzle—When Dial, Case, and Bracelet Become One",
       "url": "https://www.watchcollectinglifestyle.com/home/bvlgari-octo-finissimo-dazzle-review",
@@ -761,7 +775,7 @@
       "score_quality": 91,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chic Deep Down: Hands-On With Two Bicolor Favre Leuba Deep Raider Day Date Models",
@@ -786,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T09:00:05.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CIGA Design marks 65th anniversary of first successful Chinese Everest ascent",
@@ -1839,20 +1853,6 @@
       "score_quality": 74,
       "score_notif": 45,
       "cluster": "20260903-64d133c5f10a",
-      "cluster_main": true
-    },
-    {
-      "title": "Gallet’s Flying Officer used to go somewhere",
-      "url": "https://www.unpolishedwatches.com/p/gallets-flying-officer-used-to-go",
-      "image": "https://substackcdn.com/image/fetch/$s_!MDpt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81216eca-224c-44ff-b847-5af6ab1daf78_2200x1440.png",
-      "peek_preview": "Breitling relaunches the 200-year-old brand around ‘wanderlust,’ a feeling no instrument can measure.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T11:42:06.000Z",
-      "score_quality": 27,
-      "score_notif": 68,
-      "cluster": "20260903-0f603c8c5a58",
       "cluster_main": true
     }
   ]
