@@ -1,6 +1,6 @@
 {
-  "content_hash": "d60231453ee527e2808ac671575e717df8527edef3161ee4280c5fcc7c0cf8e6",
-  "last_updated": "2026-09-09T09:47:01.115Z",
+  "content_hash": "083843820787a40d7bf7cf772500dab5580981c7a74af7dada4ce70cdabf000f",
+  "last_updated": "2026-09-09T10:47:18.211Z",
   "premium": {
     "links": []
   },
@@ -8,8 +8,8 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 2,
+      "estimated_articles_per_day": 3.3,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T09:00:38.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T09:00:36.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
+      "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T08:00:28.000Z"
     },
@@ -744,10 +744,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1027,7 +1027,7 @@
       "score_quality": 96,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1068,8 +1068,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 66,
-      "cluster": "20260906-da72a73680d5",
-      "cluster_main": true
+      "cluster": "20260904-eb619daf7106",
+      "cluster_main": false
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
@@ -1839,6 +1839,20 @@
       "score_quality": 93,
       "score_notif": 63,
       "cluster": "20260903-57e5ce58376a",
+      "cluster_main": true
+    },
+    {
+      "title": "Gallet Officially Enters Its Renaissance for the Brand’s 200th Anniversary",
+      "url": "https://wornandwound.com/gallet-officially-enters-its-renaissance-for-the-brands-200th-anniversary/",
+      "image": "https://wornandwound.com/library/uploads/2026/08/Gallet-Launch-collection-3.jpg",
+      "peek_preview": "It was nearly a year and a half ago that Breitling announced its acquisition of the long defunct Swiss watch brand Gallet. Since then, we’ve been waiting for an official comeback, and now it’s finally here in the year o...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-03T13:00:20.000Z",
+      "score_quality": 54,
+      "score_notif": 38,
+      "cluster": "20260903-ceb97e38a93e",
       "cluster_main": true
     }
   ]
