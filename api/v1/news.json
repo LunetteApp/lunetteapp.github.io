@@ -1,6 +1,6 @@
 {
-  "content_hash": "301b0d130063b2d3607a86f7990e9cae55db5584ec026aeef2098a6f7e994993",
-  "last_updated": "2026-09-09T17:47:04.831Z",
+  "content_hash": "716794714d17e7ec730336d878d68a55e4021721e45da6ff7913d7cdec4db1d0",
+  "last_updated": "2026-09-09T18:47:06.393Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T16:00:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T18:00:43.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T17:31:02.000Z"
     },
     {
@@ -313,7 +313,7 @@
       "score_quality": 87,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
@@ -800,10 +800,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T07:01:04.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
@@ -859,7 +859,7 @@
       "score_quality": 96,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -926,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1178,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1528,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1839,20 +1839,6 @@
       "score_quality": 77,
       "score_notif": 33,
       "cluster": "20260904-568cf735931a",
-      "cluster_main": true
-    },
-    {
-      "title": "JLC calls in Batman, MB&F’s Nostromo lands, and the GPHG shortlist arrives",
-      "url": "https://timeandtidewatches.com/jlc-calls-in-batman-mbfs-nostromo-lands-and-the-gphg-shortlist-arrives/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-fwd-04-sept-1.webp",
-      "peek_preview": "The watch world has shown very little interest in easing us gently into September. A bumper Geneva Watch Days has supplied the expected torrent of launches, while elsewhere the week has delivered a Hollywood signing, a...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T08:00:52.000Z",
-      "score_quality": 24,
-      "score_notif": 20,
-      "cluster": "20260904-df3ee539f588",
       "cluster_main": true
     }
   ]
