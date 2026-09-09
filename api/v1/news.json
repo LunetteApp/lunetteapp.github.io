@@ -1,6 +1,6 @@
 {
-  "content_hash": "5c1dbe5fe70319781dc44179b7aab136939a5aaba41b5b89f973eeb589c0541d",
-  "last_updated": "2026-09-09T14:47:39.943Z",
+  "content_hash": "9513c193396e8aac27fec73cde1626f30aca55a0f3792cd59fc1a5fd108a0d09",
+  "last_updated": "2026-09-09T15:47:02.476Z",
   "premium": {
     "links": []
   },
@@ -29,8 +29,8 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T14:00:13.000Z"
     },
     {
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T14:43:12.000Z"
     },
     {
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
+      "estimated_articles_per_day": 2.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T13:00:00.000Z"
     },
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T11:00:44.000Z"
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T15:00:18.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New dials for the Zelos Helmsman Diver make it a hard watch to pin down",
+      "url": "https://timeandtidewatches.com/zelos-helmsman-ss-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-zelos-helmsman-ss-garnett-teal-mop.jpg",
+      "peek_preview": "Zelos just launched a new set of dials for the Helmsmann SS, with combinations of carbon fibre, natural stone and mother-of-pearl The post New dials for the Zelos Helmsman Diver make it a hard watch to pin down appeared...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T15:00:18.000Z",
+      "score_quality": 58,
+      "score_notif": 38,
+      "cluster": "20260909-6b10aeb8d5a5",
+      "cluster_main": true
+    },
     {
       "title": "The DWISS S1 15th Anniversary Edition Celebrates A Major Milestone With Two Celestially Inspired Wandering Hour Watches",
       "url": "https://www.ablogtowatch.com/the-dwiss-s1-15th-anniversary-edition-celebrates-a-major-milestone-with-two-celestially-inspired-wandering-hour-watches/",
@@ -789,7 +803,7 @@
       "score_quality": 94,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1472,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
