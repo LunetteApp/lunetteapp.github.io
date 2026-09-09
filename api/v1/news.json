@@ -1,6 +1,6 @@
 {
-  "content_hash": "1476532913af7b58851eba36f795523ad781852ee7c2bd613ca18325de1bf956",
-  "last_updated": "2026-09-09T12:47:11.869Z",
+  "content_hash": "76af28c7488c9c9d1ef54e25a8a1dd798e5bda9c5012d387b45a5e0012dd82a4",
+  "last_updated": "2026-09-09T13:47:10.144Z",
   "premium": {
     "links": []
   },
@@ -15,7 +15,7 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T18:00:51.000Z"
     },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T09:00:36.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T13:00:54.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-09T12:00:00.000Z"
+      "latest_article_at": "2026-09-09T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
+      "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T11:00:44.000Z"
     },
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "GWD26 Armchair Pick: Daryll’s top 3 from the new releases",
+      "url": "https://deployant.com/gwd26-armchair-pick-darylls-top-3-from-the-new-releases/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-armchair-pick-darylls-top-3-from-the-new-releases",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/gf-gmt-convexe-oblique2.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors This year’s GWD is quite amazing in the number and depth of the novelties presented. Being the contrarian as I am, the obvious choice is not amongst my picks!...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T13:30:00.000Z",
+      "score_quality": 25,
+      "score_notif": 7,
+      "cluster": "20260909-54ffb2de4772",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The Jacob & Co. Brilliant Flying Tourbillon, with the First Diamond-Set Balance Wheel in Modern Watchmaking",
+      "url": "https://monochrome-watches.com/the-jacob-co-brilliant-flying-tourbillon-with-the-first-diamond-set-balance-wheel-in-modern-watchmaking/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/jacob-and-Co-Brilliant-Flying-Tourbillon-Baguette-Pastel-Arlequino-2-600x237.jpg",
+      "peek_preview": "You might have heard of diamonds as endstones on the balance staff and the escapement, but putting them onto the balance wheel? Now, if you were to think of one watchmaker to do it, though, it would be Jacob & Co, never...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T13:00:54.000Z",
+      "score_quality": 84,
+      "score_notif": 57,
+      "cluster": "20260909-5d5e92576d46",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Alpina Catches Rays And Light With New Startimer Pilot Solarmetre And Alpiner Extreme Solarmetre X Route Du Rhum",
+      "url": "https://www.hodinkee.com/articles/alpina-catches-rays-and-light-with-new-startimer-pilot-solarmetre-and-alpiner-extreme-solarmetre-x-r",
+      "image": "https://hodinkee.imgix.net/uploads/images/88d4ab3b-f4dd-4277-8ef0-053d8f602041/PR_AL-140BT3AE6_HD.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The value-driven Swiss brand embraces new solar quartz movements by sister movement maker La Joux-Perret.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T13:00:00.000Z",
+      "score_quality": 73,
+      "score_notif": 45,
+      "cluster": "20260909-2b4677b5507b",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: Five New Louis Vuitton Tambour Spin Time References",
       "url": "https://www.hodinkee.com/articles/five-new-louis-vuitton-tambour-spin-time-references",
       "image": "https://hodinkee.imgix.net/uploads/images/d9439ad4-0e80-461c-8555-50830b57c3ea/spintimeheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -187,7 +229,7 @@
       "score_quality": 85,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
@@ -200,8 +242,8 @@
       "published_at": "2026-09-09T11:00:44.000Z",
       "score_quality": 64,
       "score_notif": 39,
-      "cluster": "20260903-e49b1d0c8e51",
-      "cluster_main": false
+      "cluster": "20260909-5d1972c55fe1",
+      "cluster_main": true
     },
     {
       "title": "Studio Underd0g turns its 02SERIES into a nightlight with the Special Edition 02SERIES Mantis",
@@ -674,10 +716,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T07:01:04.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
@@ -842,10 +884,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-07T16:00:00.000Z",
-      "score_quality": 66,
+      "score_quality": 79,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
@@ -872,8 +914,8 @@
       "published_at": "2026-09-07T14:00:51.000Z",
       "score_quality": 59,
       "score_notif": 45,
-      "cluster": "20260903-f6bffaea4ee0",
-      "cluster_main": false
+      "cluster": "20260907-97c785619aec",
+      "cluster_main": true
     },
     {
       "title": "GWD26 Armchair Pick: Robin’s top 3 from the new release",
@@ -1030,20 +1072,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – Union Glashütte Unveils the Compact and Dressy Seris Small Second Collection",
-      "url": "https://monochrome-watches.com/union-glashutte-unveils-the-compact-and-dressy-seris-small-second-collection/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Union-Glashutte-Seris-Small-Second-Collection-8-600x237.jpg",
-      "peek_preview": "Recent releases from Union Glashütte have been largely about chronographs, from the latest Averin Chronograph with its white embossed tile-pattern dial to the Belisar Chronograph with its monochromatic look. Now, the Gl...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T06:30:25.000Z",
-      "score_quality": 78,
-      "score_notif": 47,
-      "cluster": "20260907-19e50bdde304",
-      "cluster_main": true
-    },
-    {
       "title": "Rolex Unveils Four Unique Cosmograph Daytona Watches For Charity Auction",
       "url": "https://www.fratellowatches.com/rolex-unveils-four-unique-cosmograph-daytona-watches-for-charity-auction/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Rolex-Daytona-Auction-2026-four-seasons-newsroom-large.jpg",
@@ -1055,7 +1083,7 @@
       "score_quality": 78,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ブランパンより「フィフティ ファゾムス バチスカーフ」の70周年記念モデルが300本限定で登場",
@@ -1110,8 +1138,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 66,
-      "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster": "20260906-da72a73680d5",
+      "cluster_main": true
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
@@ -1472,10 +1500,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T14:43:07.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Geneva Watch Days 2026: novità e tendenze",
@@ -1545,7 +1573,7 @@
       "score_quality": 89,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
@@ -1825,34 +1853,6 @@
       "score_quality": 80,
       "score_notif": 28,
       "cluster": "20260903-846eb0b74f6f",
-      "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: David Candaux DC6 Wildfire | Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-david-candaux-dc6-wildfire-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-david-candaux-dc6-wildfire-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0519-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors I dropped by the David Candaux suite and was greeted by David and Vadim. They showed me their latest creation – the DC6 Wildfire. Here are my hands-on impress...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T15:31:09.000Z",
-      "score_quality": 77,
-      "score_notif": 39,
-      "cluster": "20260903-e49b1d0c8e51",
-      "cluster_main": true
-    },
-    {
-      "title": "The Hamilton Murph 38mm enters a new dimension with a cosmic blue dial",
-      "url": "https://timeandtidewatches.com/hamilton-murph-deep-blue-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-hamilton-murph-38mm-deep-blue.jpg",
-      "peek_preview": "Discover the new Hamilton Murph 38mm, featuring an all new cosmic blue dial inspired by Christopher Nolan's sci-fi epic, Interstellar The post The Hamilton Murph 38mm enters a new dimension with a cosmic blue dial appea...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T14:00:19.000Z",
-      "score_quality": 60,
-      "score_notif": 45,
-      "cluster": "20260903-f6bffaea4ee0",
       "cluster_main": true
     }
   ]
