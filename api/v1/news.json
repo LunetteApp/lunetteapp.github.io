@@ -1,6 +1,6 @@
 {
-  "content_hash": "9513c193396e8aac27fec73cde1626f30aca55a0f3792cd59fc1a5fd108a0d09",
-  "last_updated": "2026-09-09T15:47:02.476Z",
+  "content_hash": "7ce6fb9ecca4b9001955b73e5c6db973b3779d980854b54a364538175986d75b",
+  "last_updated": "2026-09-09T16:47:53.098Z",
   "premium": {
     "links": []
   },
@@ -15,16 +15,16 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T18:00:51.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T16:00:23.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T13:00:54.000Z"
+      "estimated_articles_per_day": 4.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T16:05:54.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T15:00:18.000Z"
     },
     {
@@ -120,9 +120,9 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T08:00:00.000Z"
+      "estimated_articles_per_day": 0.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T16:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The New David Candaux DC6 Wildfire, When Carbon Meets Sunlight",
+      "url": "https://monochrome-watches.com/david-candaux-dc6-wildfire-inclined-flying-tourbillon-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/David-Candaux-DC6-Wildfire-review-1-600x237.jpg",
+      "peek_preview": "Since the launch of his eponymous Le Solliat-based brand in 2017, David Candaux has developed his own visual and mechanical language, offering highly technical movements and an unusual case construction and display. The...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T16:05:54.000Z",
+      "score_quality": 84,
+      "score_notif": 52,
+      "cluster": "20260909-5d1972c55fe1",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On Impressions of the New M.A.D.Editions M.A.D.3 Vincent Calabrese",
+      "url": "https://wornandwound.com/hands-on-impressions-of-the-new-m-a-d-editions-m-a-d-3-vincent-calabrese/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/MAD_1-2.jpg",
+      "peek_preview": "One of the splashiest Geneva Watch Days releases this year was the all new M.A.D.3, the latest entry in the ongoing series from M.A.D.Editions, the popular MB&F spinoff. You’re probably pretty familiar with the M.A.D. p...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T16:00:23.000Z",
+      "score_quality": 99,
+      "score_notif": 63,
+      "cluster": "20260905-9f8b7d41ebd6",
+      "cluster_main": true
+    },
+    {
+      "title": "Milano Watch Week x Dubai Watch Week: due città, una sola community",
+      "url": "https://italianwatchspotter.com/milano-watch-week-x-dubai-watch-week/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/FINAL-dww-x-mww26-press-release-ENG-030926-1024x577.jpeg",
+      "peek_preview": "Milano e Dubai distano migliaia di chilometri, ma quando si parla di orologeria le distanze possono diventare sorprendentemente brevi. Milano Watch Week e Dubai Watch Week si incontrano per dare vita a un nuovo dialogo...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-09T16:00:00.000Z",
+      "score_quality": 46,
+      "score_notif": 24,
+      "cluster": "20260909-7051b2b36144",
+      "cluster_main": true
+    },
     {
       "title": "New dials for the Zelos Helmsman Diver make it a hard watch to pin down",
       "url": "https://timeandtidewatches.com/zelos-helmsman-ss-hands-on/",
@@ -269,9 +311,9 @@
       "featured": false,
       "published_at": "2026-09-09T11:00:44.000Z",
       "score_quality": 64,
-      "score_notif": 39,
+      "score_notif": 52,
       "cluster": "20260909-5d1972c55fe1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Studio Underd0g turns its 02SERIES into a nightlight with the Special Edition 02SERIES Mantis",
@@ -800,10 +842,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -873,7 +915,7 @@
       "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1030,20 +1072,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – The TAG Heuer Carrera Chronograph Sport Returns in New 42mm Versions (Incl. Video)",
-      "url": "https://monochrome-watches.com/2026-tag-heuer-carrera-chronograph-sport-42mm-new-collection-video-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-tag-heuer-carrera-chronograph-sport-42mm-new-collection-video-review-9-600x237.jpg",
-      "peek_preview": "As Formula 1 arrives in Madrid this coming weekend for the inaugural Spanish Grand Prix, TAG Heuer, Title Partner of the race and Official Timekeeper of Formula 1, is using the occasion to bring its Carrera Chronograph...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T09:01:29.000Z",
-      "score_quality": 93,
-      "score_notif": 67,
-      "cluster": "20260907-9697345a4971",
-      "cluster_main": true
-    },
-    {
       "title": "Chic Deep Down: Hands-On With Two Bicolor Favre Leuba Deep Raider Day Date Models",
       "url": "https://www.fratellowatches.com/favre-leuba-deep-raider-day-date-two-tone/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Fravre-Leuba-Deep-Raider-Day-Date-Two-Tone-Edition.jpg",
@@ -1069,7 +1097,7 @@
       "score_quality": 92,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CIGA Design marks 65th anniversary of first successful Chinese Everest ascent",
@@ -1136,10 +1164,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1166,8 +1194,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 66,
-      "cluster": "20260906-da72a73680d5",
-      "cluster_main": true
+      "cluster": "20260904-eb619daf7106",
+      "cluster_main": false
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
@@ -1319,9 +1347,9 @@
       "featured": false,
       "published_at": "2026-09-05T14:19:44.000Z",
       "score_quality": 98,
-      "score_notif": 56,
+      "score_notif": 63,
       "cluster": "20260905-9f8b7d41ebd6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Girard-Perregaux fits a tourbillon and micro-rotor into the 10mm-thick Laureato Fifty",
@@ -1489,7 +1517,7 @@
       "score_quality": 95,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1826,34 +1854,6 @@
       "score_notif": 41,
       "cluster": "20260904-978bc344f146",
       "cluster_main": true
-    },
-    {
-      "title": "Breitling Navitimer B09 Chronograph 41 Miles Davis: Uhren für das Clubhaus",
-      "url": "https://www.uhrenkosmos.com/breitling-navitimer-b09-chronograph-41-miles/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Breitling-Navitimer-B09-Chronograph-41-Miles-Davis-A-kind-of-Style.jpg",
-      "peek_preview": "Zu den Geneva Watch Days 2026 präsentiert die Marke den auf 500 Stück limitierte Breitling Navitimer B09 Chronograph 41 Miles Davis. Inkludiert ist eine Mitgliedschaft im künftigen Breitling Social Club in Brooklyn. Das...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-09-03T22:06:07.000Z",
-      "score_quality": 99,
-      "score_notif": 50,
-      "cluster": "20260903-12967d527a60",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex To Auction Four Piece-Unique Daytonas",
-      "url": "https://teddybaldassarre.com/blogs/watches/rolex-unique-daytona-auction",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Rolex-Unique-Daytona-Auction1.jpg?v=1788467482",
-      "peek_preview": "Yes, there have been unique Rolex models to have come to market before but seldom, if ever, does the brand ever disclose production numbers. In fact, its recent run of authorized books was one of the rare times that ent...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-03T20:49:41.000Z",
-      "score_quality": 66,
-      "score_notif": 78,
-      "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
     }
   ]
 }
