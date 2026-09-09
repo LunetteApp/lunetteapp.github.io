@@ -1,6 +1,6 @@
 {
-  "content_hash": "6a281cdf215a950d2b38badb767a95adf08c88032cda3bc6639a3fe7c0e5662e",
-  "last_updated": "2026-09-09T20:47:15.242Z",
+  "content_hash": "55b8d973d4682816804ebf827285bcce264cd42f93bfc48b2b02a2c902488eb1",
+  "last_updated": "2026-09-09T21:47:19.341Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T20:00:18.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T19:24:06.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T20:47:35.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T20:00:00.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T23:05:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-09T21:41:25.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: Greubel Forsey GMT Balancier Convexe—Ocean Blue Reaches this Revised Model",
+      "url": "https://www.watchcollectinglifestyle.com/home/greubel-forsey-gmt-balancier-convexe-blue-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1788984119521-AC0JBURZHEQ5BSTL3R1S/Greubel+Forsey+GMT+Balancier+Convexe-2.jpg?format=1500w",
+      "peek_preview": "Since the first Greubel Forsey GMT established the titanium globe as this collection's beating heart, that ocean blue has stayed mostly on the dial. In the GMT Balancier Convexe we covered at its reveal, it began edging...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T21:41:25.000Z",
+      "score_quality": 68,
+      "score_notif": 57,
+      "cluster": "20260908-c7aa91047092",
+      "cluster_main": false
+    },
+    {
+      "title": "New Release: Apple Watch Series 12 With Improved Health Tracking And Ceramic Case Options",
+      "url": "https://www.ablogtowatch.com/new-release-apple-watch-series-12-with-improved-health-tracking-and-ceramic-case-options/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-Smartwatch-6-768x346.jpg",
+      "peek_preview": "The biggest news from Apple is the debut of its foldable iPhone Duo; however, launched alongside the brand’s latest batch of products is a new generation of the Apple Watch. Similar to the Apple Watch Ultra 4 (which was...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T20:47:35.000Z",
+      "score_quality": 76,
+      "score_notif": 72,
+      "cluster": "20260909-bb43cc6865a0",
+      "cluster_main": false
+    },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
       "url": "https://wornandwound.com/six-from-seiko-a-roundup-of-amazing-chronographs-from-the-depths-of-relative-obscurity/",
@@ -369,7 +397,7 @@
       "score_quality": 89,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
@@ -856,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T07:01:04.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
@@ -1826,34 +1854,6 @@
       "score_notif": 66,
       "cluster": "20260904-eb619daf7106",
       "cluster_main": false
-    },
-    {
-      "title": "Lange’s Triple Split is Now a Platinum Panda",
-      "url": "https://watchesbysjx.com/2026/09/lange-triple-split-platinum.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/08/lange-triple-split-platinum-1-300x200.jpg",
-      "peek_preview": "Arguably the most accomplished A. Lange & Söhne chronograph – and undoubtedly the largest – the Triple Split returns for the third time in the best looking guise yet. Now in platinum for the first time, the new Triple S...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T11:58:32.000Z",
-      "score_quality": 83,
-      "score_notif": 66,
-      "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
-    },
-    {
-      "title": "Beaucroft rebels against the status quo with The Punk",
-      "url": "https://timeandtidewatches.com/beaucroft-rebels-against-the-status-quo-with-the-punk/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-beaucroft-the-punk-founders-fest.jpg",
-      "peek_preview": "What happens when the conservative, Cambridge-based brand Beaucroft decides to unleash its rebellious side? The post Beaucroft rebels against the status quo with The Punk appeared first on Time+Tide Watches.",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T11:00:36.000Z",
-      "score_quality": 44,
-      "score_notif": 22,
-      "cluster": "20260904-4c65299ddaff",
-      "cluster_main": true
     }
   ]
 }
