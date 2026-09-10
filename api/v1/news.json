@@ -1,6 +1,6 @@
 {
-  "content_hash": "28d3895907caa13f0ff89bfdb9cd2caad4a7973691baf787e4ff20b1787dfdcb",
-  "last_updated": "2026-09-10T06:48:03.828Z",
+  "content_hash": "4157345f4ab3d8a183c3085625a32c5e0d936ddb7b28560798f36b13622e572f",
+  "last_updated": "2026-09-10T07:47:15.571Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T06:00:02.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T20:47:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T07:01:47.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
+      "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T15:00:18.000Z"
     },
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T06:44:00.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Hublot Big Bang Original 20th Anniversary Red Magic & All Black Ceramic Watches Hands-On",
+      "url": "https://www.ablogtowatch.com/hublot-big-bang-original-20th-anniversary-red-magic-all-black-ceramic-watches-hands-on/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Hublot-Big-Bang-20th-Anniversary-Black-Red-Ceramic-Watches-1-768x346.jpg",
+      "peek_preview": "In 2025, Swiss Hublot celebrated the 20th anniversary of the now-iconic Big Bang watch collection. It commemorated the occasion by releasing five limited editions that were designed in homage to the original Hublot Big...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T07:01:47.000Z",
+      "score_quality": 78,
+      "score_notif": 43,
+      "cluster": "20260910-0a667b17052a",
+      "cluster_main": true
+    },
+    {
       "title": "King Seiko Vanac HKF005 : les lumières de Tokyo piégées dans le cadran",
       "url": "https://www.welovewatches.fr/king-seiko-vanac-hkf005-les-lumieres-de-tokyo-piegees-dans-le-cadran.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/king-seiko-vanac-hkf005j1-une.jpg",
@@ -199,9 +213,9 @@
       "featured": false,
       "published_at": "2026-09-10T06:00:02.000Z",
       "score_quality": 76,
-      "score_notif": 40,
+      "score_notif": 43,
       "cluster": "20260910-0a667b17052a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gray Ceramic Debuts On Two New Seiko Astron GPS Solar Dual Time Chronographs",
@@ -509,7 +523,7 @@
       "score_quality": 95,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
@@ -982,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T07:01:04.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
@@ -1587,7 +1601,7 @@
       "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Editors' Picks: Our Favorite Releases From Geneva Watch Days 2026",
@@ -1685,7 +1699,7 @@
       "score_quality": 92,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Geneva Watch Days 2026: novità e tendenze",
@@ -1752,10 +1766,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:51:00.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
@@ -1840,20 +1854,6 @@
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing: The A. Lange & Söhne Triple Split Returns (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/introducing-lange-triple-split-2026",
-      "image": "https://hodinkee.imgix.net/uploads/images/61afffbb-309f-4309-8b2e-86d855ce707e/20260723_LangeNovelties_113.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "After a white gold release in 2018 and a rose gold version in 2021, a third version of the Triple Split enters the chat.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T12:00:01.000Z",
-      "score_quality": 100,
-      "score_notif": 66,
-      "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
     }
   ]
 }
