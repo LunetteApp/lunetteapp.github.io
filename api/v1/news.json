@@ -1,6 +1,6 @@
 {
-  "content_hash": "4157345f4ab3d8a183c3085625a32c5e0d936ddb7b28560798f36b13622e572f",
-  "last_updated": "2026-09-10T07:47:15.571Z",
+  "content_hash": "c50eb35450b013430e2e8d1fdf944fd6a1e59e4c7259ab6346562a2733400291",
+  "last_updated": "2026-09-10T08:47:22.749Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T05:00:05.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T08:00:33.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T06:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T08:01:09.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T07:01:47.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T15:00:18.000Z"
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T08:00:03.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "First Look – The Chronoswiss Neo Digiteur Pastel Code Brings Fresh Tones to the Collection",
+      "url": "https://monochrome-watches.com/chronoswiss-neo-digiteur-pastel-code-collection-jumping-hour-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Chronoswiss-Neo-Digiteur-Pastel-Code-editions-review-1-600x237.jpg",
+      "peek_preview": "Chronoswiss founder Gerd Lang will forever be remembered as the watchmaker who produced the world’s first serially produced wristwatch with a regulator layout in 1987. Without a shared central axis, the separation of ho...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T08:01:09.000Z",
+      "score_quality": 79,
+      "score_notif": 43,
+      "cluster": "20260910-036c23e57aca",
+      "cluster_main": true
+    },
+    {
+      "title": "The Chronoswiss Neo Digiteur Pastel Code Puts A Softer Spin On A Peculiar Watch",
+      "url": "https://www.fratellowatches.com/chronoswiss-neo-digiteur-pastel-code/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Chronoswiss-GWD-2026.jpg",
+      "peek_preview": "The way we tell time matters, and not just because we want to miss the train. The way we read time is also an experience. Digital time is just a series of numbers, while an analog timekeeper sweeps through time, showing...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T08:00:33.000Z",
+      "score_quality": 75,
+      "score_notif": 43,
+      "cluster": "20260910-036c23e57aca",
+      "cluster_main": false
+    },
+    {
+      "title": "The Chronoswiss Neo Digiteur Pastel Code gives its mechanical digital display a colourful new identity",
+      "url": "https://timeandtidewatches.com/chronoswiss-neo-digiteur-pastel-code-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-chronoswiss-neo-digiteur-pastel-code-1.jpg",
+      "peek_preview": "The Chronoswiss Neo Digiteur Pastel Code collection brings Rose, Sky and Mint dials to its distinctive handless mechanical digital display. The post The Chronoswiss Neo Digiteur Pastel Code gives its mechanical digital...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T08:00:03.000Z",
+      "score_quality": 73,
+      "score_notif": 43,
+      "cluster": "20260910-036c23e57aca",
+      "cluster_main": false
+    },
+    {
       "title": "Hublot Big Bang Original 20th Anniversary Red Magic & All Black Ceramic Watches Hands-On",
       "url": "https://www.ablogtowatch.com/hublot-big-bang-original-20th-anniversary-red-magic-all-black-ceramic-watches-hands-on/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Hublot-Big-Bang-20th-Anniversary-Black-Red-Ceramic-Watches-1-768x346.jpg",
@@ -186,7 +228,7 @@
       "published_at": "2026-09-10T07:01:47.000Z",
       "score_quality": 78,
       "score_notif": 43,
-      "cluster": "20260910-0a667b17052a",
+      "cluster": "20260910-d26383976902",
       "cluster_main": true
     },
     {
@@ -215,7 +257,7 @@
       "score_quality": 76,
       "score_notif": 43,
       "cluster": "20260910-0a667b17052a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gray Ceramic Debuts On Two New Seiko Astron GPS Solar Dual Time Chronographs",
@@ -1002,20 +1044,6 @@
       "cluster_main": true
     },
     {
-      "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
-      "url": "https://www.fratellowatches.com/nomos-twice-unique-collection/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/NOMOS-Twice-Unique-5.jpg",
-      "peek_preview": "I still remember running from booth to booth during Watches and Wonders when an email from Nomos arrived in my inbox. It introduced the brand’s new Twice Unique collection and immediately looked like an eclectic new ini...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-08T05:00:12.000Z",
-      "score_quality": 78,
-      "score_notif": 31,
-      "cluster": "20260908-e28d3b8dea75",
-      "cluster_main": true
-    },
-    {
       "title": "G-SHOCKがプロサーファーの五十嵐カノア選手のシグネチャーモデル「G-LIDE GBX-H5600KI-5JR」を発売",
       "url": "https://www.webchronos.net/news/172152/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/09/GSH_kano_1.webp",
@@ -1139,20 +1167,6 @@
       "score_quality": 74,
       "score_notif": 62,
       "cluster": "20260907-047d7a88a07d",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The Gold Montblanc Star Legacy Nicolas Rieussec Chronograph Limited Edition 100",
-      "url": "https://monochrome-watches.com/montblanc-star-legacy-nicolas-rieussec-chronograph-limited-edition-100-gold-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Montblanc-Star-Legacy-Nicolas-Rieussec-Chronograph-Limited-Edition-100-review-8-600x237.jpg",
-      "peek_preview": "Since its founding in 1906 in Hamburg, Montblanc has built its reputation on luxury writing instruments. In 1997, Montblanc expanded its offerings to include watches. Bringing the two seemingly disparate worlds of fount...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T16:05:58.000Z",
-      "score_quality": 83,
-      "score_notif": 42,
-      "cluster": "20260907-a7dba0c8902d",
       "cluster_main": true
     },
     {
@@ -1600,7 +1614,7 @@
       "published_at": "2026-09-04T19:14:00.000Z",
       "score_quality": 99,
       "score_notif": 66,
-      "cluster": "20260904-817bdea091f8",
+      "cluster": "20260904-a281200adbd5",
       "cluster_main": true
     },
     {
@@ -1696,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T14:43:07.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Geneva Watch Days 2026: novità e tendenze",
@@ -1769,7 +1783,7 @@
       "score_quality": 93,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
@@ -1839,20 +1853,6 @@
       "score_quality": 76,
       "score_notif": 28,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
-    },
-    {
-      "title": "New Release: A. Lange & Söhne Triple Split Chronograph Watch Turns Platinum",
-      "url": "https://www.ablogtowatch.com/new-release-a-lange-sohne-triple-split-chronograph-watch-turns-platinum/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/A-Lange-Sohne-Triple-Split-Platinum-Watch-9-768x346.jpg",
-      "peek_preview": "Originally introduced in 2018, the A. Lange & Söhne Triple Split stands out as one of the watch industry’s most mechanically impressive chronographs. Unlike a standard split-seconds chronograph that only provides split-...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T12:00:34.000Z",
-      "score_quality": 74,
-      "score_notif": 66,
-      "cluster": "20260904-817bdea091f8",
       "cluster_main": false
     }
   ]
