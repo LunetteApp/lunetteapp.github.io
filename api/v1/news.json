@@ -1,6 +1,6 @@
 {
-  "content_hash": "22d27a79e0d9fcde49aca5f82f5fbee80ff26b37cac53f0d7f719d4b8882767c",
-  "last_updated": "2026-09-09T22:47:31.420Z",
+  "content_hash": "3b99623347062e37a2d97b674f5a03b8f83ee333a9e4d0c7d3c1e4efceb4718c",
+  "last_updated": "2026-09-10T00:47:05.799Z",
   "premium": {
     "links": []
   },
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T22:21:57.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T03:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T00:00:31.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ベゼルを回すとリュウズが現れるカシオ「プロトレック」の新作「PRJ-01」が登場",
+      "url": "https://www.webchronos.net/news/172069/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/casio_PRJ01_1.webp",
+      "peek_preview": "カシオ「プロトレック」の新作として、ロータリーガードベゼルを採用したアウトドアウォッチ「PRJ-01」が登場した。バリエーションモデルとなる「PRJ-01AE」には、バックパックなどへの取り付けを可能にするカラビナアタッ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-10T00:00:31.000Z",
+      "score_quality": 72,
+      "score_notif": 45,
+      "cluster": "20260910-4a4940b603bb",
+      "cluster_main": true
+    },
     {
       "title": "Insider: Speake-Marin Ripples Portobello—A Lavender Dial That Changes in the Light",
       "url": "https://www.watchcollectinglifestyle.com/home/speake-marin-ripples-portobello-review",
@@ -1024,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1276,10 +1290,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1531,20 +1545,6 @@
       "score_quality": 48,
       "score_notif": 12,
       "cluster": "20260905-ec359ec332a5",
-      "cluster_main": true
-    },
-    {
-      "title": "ジャケ・ドローが、スーパーカーオーナーの情熱を形にしたユニークピース「トゥールビヨン プラズマセラミック – オーバーアルプ峠」を発表",
-      "url": "https://www.webchronos.net/news/171583/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/JD_car_1_v2.webp",
-      "peek_preview": "ジャケ・ドローが、スーパーカーオーナーの情熱に刺激されてデザインし、そのオーナーと共同で作り上げたユニークピース「トゥールビヨン プラズマセラミック – オーバーアルプ峠」が発表された。文字盤には、オーナーの […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-05T00:00:55.000Z",
-      "score_quality": 63,
-      "score_notif": 28,
-      "cluster": "20260905-94e80fd46795",
       "cluster_main": true
     },
     {
