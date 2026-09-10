@@ -1,6 +1,6 @@
 {
-  "content_hash": "4ec9b20f0ff6e1fcfe8e4c58c487aa30f55e7e7c876dc07ab468b29e8f171e65",
-  "last_updated": "2026-09-10T18:47:05.732Z",
+  "content_hash": "67132c1754e6d879249d281fc941caf8a0c33a06372783557998502706bd82c3",
+  "last_updated": "2026-09-10T19:47:30.450Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T18:00:43.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T17:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Editors' Picks: Our Favorite Watches From Geneva Watch Days 2026 (And Beyond)",
+      "url": "https://www.hodinkee.com/articles/our-favorite-watches-from-geneva-watch-days-2026-and-beyond",
+      "image": "https://hodinkee.imgix.net/uploads/images/66f62169-e86a-46bd-9fd8-a971120bcefc/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "In a year when plenty of brands brought the real deal, our editors name their favorite watches from in-and-around Geneva Watch Days.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T19:00:00.000Z",
+      "score_quality": 30,
+      "score_notif": 8,
+      "cluster": "20260910-abb7ae5af789",
+      "cluster_main": true
+    },
     {
       "title": "Alpina Expands their Solar Quartz Offerings with New Startimer Pilot Solarmetre References",
       "url": "https://wornandwound.com/alpina-expands-their-solar-quartz-offerings-with-new-startimer-pilot-solarmetre-references/",
@@ -1797,20 +1811,6 @@
       "score_quality": 50,
       "score_notif": 24,
       "cluster": "20260904-b9943ff14a74",
-      "cluster_main": true
-    },
-    {
-      "title": "Inside The Manufacture: A Behind-The-Scenes Look At The Swatch x Audemars Piguet Royal Pop",
-      "url": "https://www.hodinkee.com/articles/a-behind-the-scenes-look-at-the-swatch-x-audemars-piguet-royal-pop",
-      "image": "https://hodinkee.imgix.net/uploads/images/46ce5b04-c422-43f7-aa79-1eca070d6c5b/swatcheader3.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The making of Swatch's iconic collaborations, and revisiting the Sistem51 factory in a new light.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T17:00:00.000Z",
-      "score_quality": 84,
-      "score_notif": 27,
-      "cluster": "20260904-919c702e738c",
       "cluster_main": true
     },
     {
