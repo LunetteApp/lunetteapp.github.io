@@ -1,6 +1,6 @@
 {
-  "content_hash": "d99add24d18bbc93264f931ab0a39a4808544c92df3a3c7d64ab875ed1cd66f5",
-  "last_updated": "2026-09-10T11:47:08.394Z",
+  "content_hash": "38a7a743429b736ceaef888b56828600abb2fd273c2ddbc02a982c2bdc7822b7",
+  "last_updated": "2026-09-10T12:47:07.771Z",
   "premium": {
     "links": []
   },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.2,
+      "estimated_articles_per_day": 4.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T08:01:09.000Z"
     },
@@ -79,15 +79,15 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T11:01:01.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T22:21:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T11:56:27.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T12:22:40.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: BLOCK RG Stealth Tourbillon Ferrari Red Edition—Now Speaking Racing Tones",
+      "url": "https://www.watchcollectinglifestyle.com/home/block-rg-stealth-tourbillon-ferrari-red-edition-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1788982559484-A7BA1E1DGKHX1Y4BLWHC/BLOCK+RG+Stealth+Ferrari+Red+Edition-2.jpg?format=1500w",
+      "peek_preview": "Block RG was founded by Romas Gimbutis on decades of expertise in jewelry craftsmanship, precision engineering, and haute horlogerie. Now, he channels that knowledge into materials and technologies pulled from aerospace...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T11:56:27.000Z",
+      "score_quality": 61,
+      "score_notif": 31,
+      "cluster": "20260910-8dd8b0c29b94",
+      "cluster_main": true
+    },
     {
       "title": "A Lap Around The Track With The Facelifted And Downsized TAG Heuer Carrera Chronograph Sport",
       "url": "https://www.fratellowatches.com/the-facelifted-and-downsized-tag-heuer-carrera-chronograph-sport/",
@@ -1094,10 +1108,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1682,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1724,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T14:43:07.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Geneva Watch Days 2026: novità e tendenze",
@@ -1797,7 +1811,7 @@
       "score_quality": 95,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
