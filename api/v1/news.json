@@ -1,6 +1,6 @@
 {
-  "content_hash": "172ef422557e94b5641b052fe213241aa95b82af3f0b4b186a622855edaeb67b",
-  "last_updated": "2026-09-10T01:47:04.105Z",
+  "content_hash": "2d273ccc25d2bb78a5ff891e70f5d4171ef3ddd89019aa5497f552ede802e36a",
+  "last_updated": "2026-09-10T02:47:22.131Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T01:00:18.000Z"
     },
     {
@@ -661,9 +661,9 @@
       "featured": false,
       "published_at": "2026-09-08T18:00:51.000Z",
       "score_quality": 94,
-      "score_notif": 66,
+      "score_notif": 28,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The New and More Compact Greubel Forsey GMT Balancier Convexe, in Blue",
@@ -971,7 +971,7 @@
       "score_quality": 98,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1319,7 +1319,7 @@
       "featured": false,
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
-      "score_notif": 66,
+      "score_notif": 28,
       "cluster": "20260904-eb619daf7106",
       "cluster_main": false
     },
@@ -1557,7 +1557,7 @@
       "featured": false,
       "published_at": "2026-09-04T19:30:00.000Z",
       "score_quality": 93,
-      "score_notif": 66,
+      "score_notif": 28,
       "cluster": "20260904-eb619daf7106",
       "cluster_main": false
     },
@@ -1626,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1668,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T14:43:07.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Geneva Watch Days 2026: novità e tendenze",
@@ -1741,7 +1741,7 @@
       "score_quality": 91,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
@@ -1809,7 +1809,7 @@
       "featured": false,
       "published_at": "2026-09-04T12:00:57.000Z",
       "score_quality": 76,
-      "score_notif": 66,
+      "score_notif": 28,
       "cluster": "20260904-eb619daf7106",
       "cluster_main": false
     },
@@ -1839,6 +1839,20 @@
       "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/the-new-375mm-a-lange-and-sohne-1815-updown-limited-edition-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/0d16ab1a-af78-4ac3-b9c6-2cbb65a704de/tan2h-lange-1815-updown-bluele-05028-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A new blue dial and smaller case headline this new limited edition release from Glashütte.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T12:00:00.000Z",
+      "score_quality": 95,
+      "score_notif": 28,
+      "cluster": "20260904-eb619daf7106",
       "cluster_main": true
     }
   ]
