@@ -1,6 +1,6 @@
 {
-  "content_hash": "13ab5c0743bb89025d7df5d56fb3a14dafa2912957c2c3e08ad3432fd3903410",
-  "last_updated": "2026-09-10T13:47:25.899Z",
+  "content_hash": "61d7fbf5e81a271d5a760076574b467da309f4437aec30b801981dfb0c0780d2",
+  "last_updated": "2026-09-10T14:47:07.334Z",
   "premium": {
     "links": []
   },
@@ -16,22 +16,22 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T20:00:18.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T14:00:23.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T13:00:24.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T07:01:47.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T14:00:53.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -57,15 +57,15 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T09:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T13:15:23.000Z"
     },
     {
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T06:44:00.000Z"
     },
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "H. Moser & Cie. Endeavour Flyback Chronograph Dual Time Date Packs Three Complications Into One Clean Dial",
+      "url": "https://www.ablogtowatch.com/h-moser-cie-endeavour-flyback-chronograph-dual-time-date-packs-three-complications-into-one-clean-dial/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/HMoser_1730-1200_Endeavour_Chronograph_Dual_Time_Social_Media-768x960.jpg",
+      "peek_preview": "Complicated watches have a tendency to advertise their complexity. Add a chronograph, second time zone, and date to a single watch, and the dial can quickly become a collection of registers, scales, apertures, and hands...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T14:00:53.000Z",
+      "score_quality": 76,
+      "score_notif": 51,
+      "cluster": "20260910-c9632ccec105",
+      "cluster_main": true
+    },
+    {
+      "title": "Review: the Matador 35L Global Travel Pack",
+      "url": "https://wornandwound.com/review/review-the-matador-35l-global-travel-pack/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Matador_GTP35_013_WR.jpg",
+      "peek_preview": "Earlier this year, I had the opportunity to meet some of the team from Matador and was let in on a massive secret: Matador had plans to replace almost its entire line of soft goods. Unlike other manufacturers, this woul...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T14:00:23.000Z",
+      "score_quality": 30,
+      "score_notif": 1,
+      "cluster": "20260910-41e89ef8ee55",
+      "cluster_main": true
+    },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [August 2026]",
       "url": "https://www.hodinkee.com/articles/watch-spotting-at-the-hodinkee-happy-hour-august-2026",
@@ -438,8 +466,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260909-036323a41246",
-      "cluster_main": true
+      "cluster": "20260909-bb43cc6865a0",
+      "cluster_main": false
     },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
@@ -466,7 +494,7 @@
       "published_at": "2026-09-09T20:00:00.000Z",
       "score_quality": 84,
       "score_notif": 72,
-      "cluster": "20260909-7396333ea385",
+      "cluster": "20260909-bb43cc6865a0",
       "cluster_main": true
     },
     {
@@ -481,7 +509,7 @@
       "score_quality": 62,
       "score_notif": 72,
       "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -856,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T18:00:51.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 28,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The New and More Compact Greubel Forsey GMT Balancier Convexe, in Blue",
@@ -1615,7 +1643,7 @@
       "score_quality": 95,
       "score_notif": 28,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: A. Lange & Söhne Triple Split in Platinum—The Third Iteration",
