@@ -1,6 +1,6 @@
 {
-  "content_hash": "7cb6cabe37a07c00f9c99aa9487f1712605817b2d016989a4829355f37dea3fa",
-  "last_updated": "2026-09-10T09:47:09.472Z",
+  "content_hash": "d99add24d18bbc93264f931ab0a39a4808544c92df3a3c7d64ab875ed1cd66f5",
+  "last_updated": "2026-09-10T11:47:08.394Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T09:00:15.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T09:00:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T08:00:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T11:01:01.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -106,7 +106,7 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-08T18:55:55.000Z"
     },
@@ -256,7 +256,7 @@
       "published_at": "2026-09-10T07:01:47.000Z",
       "score_quality": 78,
       "score_notif": 43,
-      "cluster": "20260910-0a667b17052a",
+      "cluster": "20260910-d26383976902",
       "cluster_main": true
     },
     {
@@ -285,7 +285,7 @@
       "score_quality": 76,
       "score_notif": 43,
       "cluster": "20260910-0a667b17052a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gray Ceramic Debuts On Two New Seiko Astron GPS Solar Dual Time Chronographs",
@@ -1094,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1682,10 +1682,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1727,7 +1727,7 @@
       "score_quality": 94,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Geneva Watch Days 2026: novità e tendenze",
@@ -1794,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T13:51:00.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 46,
       "cluster": "20260902-83a460aa33d2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition—A New Material Joins the Race",
@@ -1839,20 +1839,6 @@
       "score_quality": 82,
       "score_notif": 43,
       "cluster": "20260904-b819f3b8d74b",
-      "cluster_main": true
-    },
-    {
-      "title": "From Triple Split To 1815: A. Lange & Söhne Goes To Extremes",
-      "url": "https://www.atimelyperspective.com/from-triple-split-to-1815-a-lange-sohne-goes-to-extremes/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/ALS_424_025_FS_TRIPLE_SPLIT_2026-598x1024.jpg",
-      "peek_preview": "There are few watch brands that embody German watchmaking quite like A. Lange & Söhne. Its watches are perfectly indicative of the German design ethos — clean and sophisticated, but what happens beneath those carefully...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T12:01:09.000Z",
-      "score_quality": 68,
-      "score_notif": 49,
-      "cluster": "20260904-1c7a08abe834",
       "cluster_main": true
     }
   ]
