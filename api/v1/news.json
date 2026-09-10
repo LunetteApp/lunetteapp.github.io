@@ -1,6 +1,6 @@
 {
-  "content_hash": "7896f0a27847b5760c8356ba667feccf33d56ef39018f2282083a7d9b45d926f",
-  "last_updated": "2026-09-10T05:47:07.363Z",
+  "content_hash": "28d3895907caa13f0ff89bfdb9cd2caad4a7973691baf787e4ff20b1787dfdcb",
+  "last_updated": "2026-09-10T06:48:03.828Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T05:00:05.000Z"
     },
     {
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T16:05:54.000Z"
+      "estimated_articles_per_day": 4.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T06:00:02.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T07:44:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T06:44:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "King Seiko Vanac HKF005 : les lumières de Tokyo piégées dans le cadran",
+      "url": "https://www.welovewatches.fr/king-seiko-vanac-hkf005-les-lumieres-de-tokyo-piegees-dans-le-cadran.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/king-seiko-vanac-hkf005j1-une.jpg",
+      "peek_preview": "Lancée l'an dernier, la collection Vanac nous avait déjà agréablement surpris. Plutôt que de puiser dans les premières années de la sous-marque comme le fait habituellement King Seiko, elle s'inspirait d'une référence a...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-10T06:44:00.000Z",
+      "score_quality": 64,
+      "score_notif": 53,
+      "cluster": "20260909-e45612ab9d69",
+      "cluster_main": false
+    },
+    {
+      "title": "First Look – New Sensations with Hublot’s new Big Bang Original Soft Touch Models",
+      "url": "https://monochrome-watches.com/hublot-big-bang-original-soft-touch-all-red-all-black-velvet-effect-rubber-unico-chronograph-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/hublot-big-bang-original-soft-touch-all-red-all-black-velvet-effect-rubber-unico-chronograph-review-1-600x237.jpg",
+      "peek_preview": "For over two decades, Hublot has embraced the ‘Art of Fusion’, blending unexpected materials like rubber, gold, ceramic, and sapphire into bold visual statements. The latest Big Bang Original Soft Touch pushes the bound...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T06:00:02.000Z",
+      "score_quality": 76,
+      "score_notif": 40,
+      "cluster": "20260910-0a667b17052a",
+      "cluster_main": true
+    },
     {
       "title": "Gray Ceramic Debuts On Two New Seiko Astron GPS Solar Dual Time Chronographs",
       "url": "https://www.fratellowatches.com/new-seiko-astron-gps-solar-dual-time-chronographs-with-gray-ceramic/",
@@ -1010,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1167,20 +1195,6 @@
       "score_quality": 24,
       "score_notif": 8,
       "cluster": "20260907-83695b751b6f",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Nomos Orion Gold Neomatik “New Black” Edition",
-      "url": "https://monochrome-watches.com/nomos-orion-gold-neomatik-new-black-edition-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Nomos-Orion-Gold-Neomatik-New-Black-1-600x237.jpg",
-      "peek_preview": "The Orion is one of Nomos Glashütte’s most formal series, with the restrained proportions and curved case design that have defined the collection since its introduction. The new Orion Gold Neomatik “New Black” pairs an...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T13:00:03.000Z",
-      "score_quality": 82,
-      "score_notif": 44,
-      "cluster": "20260907-75e0a9ff359c",
       "cluster_main": true
     },
     {
@@ -1556,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T19:30:00.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 28,
       "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: A. Lange & Söhne Triple Split in Platinum—The Third Iteration",
@@ -1626,10 +1640,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1839,20 +1853,6 @@
       "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-817bdea091f8",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The New 37.5mm A. Lange & Söhne 1815 Up/Down Limited Edition (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/the-new-375mm-a-lange-and-sohne-1815-updown-limited-edition-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/0d16ab1a-af78-4ac3-b9c6-2cbb65a704de/tan2h-lange-1815-updown-bluele-05028-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A new blue dial and smaller case headline this new limited edition release from Glashütte.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T12:00:00.000Z",
-      "score_quality": 95,
-      "score_notif": 28,
-      "cluster": "20260904-eb619daf7106",
       "cluster_main": true
     }
   ]
