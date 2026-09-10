@@ -1,6 +1,6 @@
 {
-  "content_hash": "1a69eb8a1b1726057880b0f72b9b34f7854dccf25f728ae7c1b4733232942e33",
-  "last_updated": "2026-09-10T17:47:04.688Z",
+  "content_hash": "4ec9b20f0ff6e1fcfe8e4c58c487aa30f55e7e7c876dc07ab468b29e8f171e65",
+  "last_updated": "2026-09-10T18:47:05.732Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T14:00:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T18:00:43.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T17:14:53.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T17:00:00.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T16:50:52.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Alpina Expands their Solar Quartz Offerings with New Startimer Pilot Solarmetre References",
+      "url": "https://wornandwound.com/alpina-expands-their-solar-quartz-offerings-with-new-startimer-pilot-solarmetre-references/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Alpina-Startimer-Quartz-6.jpg",
+      "peek_preview": "As part of their Geneva Watch Days presentation, Alpina unveiled several new solar quartz references in their Solarmetre line, which effectively places solar quartz movements made by La Joux-Perret in familiar Alpina re...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T18:00:43.000Z",
+      "score_quality": 69,
+      "score_notif": 45,
+      "cluster": "20260909-2b4677b5507b",
+      "cluster_main": false
+    },
     {
       "title": "12 Watches With Complications You've Never Heard Of",
       "url": "https://teddybaldassarre.com/blogs/watches/watch-complications-youve-never-heard-of",
@@ -1248,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1516,8 +1530,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 28,
-      "cluster": "20260906-da72a73680d5",
-      "cluster_main": true
+      "cluster": "20260904-eb619daf7106",
+      "cluster_main": false
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
@@ -1808,10 +1822,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
@@ -1839,20 +1853,6 @@
       "score_quality": 96,
       "score_notif": 46,
       "cluster": "20260904-489f8ed61424",
-      "cluster_main": true
-    },
-    {
-      "title": "Geneva Watch Days 2026: novità e tendenze",
-      "url": "https://giornaleorologi.it/2026/09/04/geneva-watch-days-2026-novita-tendenze/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/Czapek-Quai-des-Bergues-M-Midnight-in-Geneva-Man-Day-00003-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Geneva Watch Days 2026: novità e tendenze In questi giorni, Ginevra è di nuovo la capitale internazione dell’orologeria. Entrano nel vivo i Geneva Watch Days 2026 (la settima edizione prosegue...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-04T14:08:05.000Z",
-      "score_quality": 38,
-      "score_notif": 40,
-      "cluster": "20260904-e68b6baf7d57",
       "cluster_main": true
     }
   ]
