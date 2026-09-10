@@ -1,6 +1,6 @@
 {
-  "content_hash": "38a7a743429b736ceaef888b56828600abb2fd273c2ddbc02a982c2bdc7822b7",
-  "last_updated": "2026-09-10T12:47:07.771Z",
+  "content_hash": "13ab5c0743bb89025d7df5d56fb3a14dafa2912957c2c3e08ad3432fd3903410",
+  "last_updated": "2026-09-10T13:47:25.899Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T08:01:09.000Z"
+      "estimated_articles_per_day": 4.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T13:00:24.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T20:00:00.000Z"
+      "estimated_articles_per_day": 2.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T13:15:23.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T11:56:27.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [August 2026]",
+      "url": "https://www.hodinkee.com/articles/watch-spotting-at-the-hodinkee-happy-hour-august-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/69c5fd6b-1f21-4aad-b7f8-8d50df2e56e6/augustHHH.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A wonderful evening in the waning days of summer.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T13:15:23.000Z",
+      "score_quality": 44,
+      "score_notif": 8,
+      "cluster": "20260910-ef708d54a760",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The Latest Patria from Tutima; Grade 5 Titanium meets 18k Gold",
+      "url": "https://monochrome-watches.com/tutima-patria-grade-5-titanium-and-18k-gold-calibre-617-in-house-6612-09-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Tutima-Patria-Grade-5-Titanium-and-18k-Gold-Calibre-617-in-house-6612-09-1-600x237.jpg",
+      "peek_preview": "While Tutima gained popularity thanks to its purposeful pilot watches, aviation-themed chronographs and robust adventure-driven collections, one of the brand’s lineups certainly stands apart from the rest and shouldn’t...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T13:00:24.000Z",
+      "score_quality": 78,
+      "score_notif": 41,
+      "cluster": "20260910-4094344b2586",
+      "cluster_main": true
+    },
     {
       "title": "Insider: BLOCK RG Stealth Tourbillon Ferrari Red Edition—Now Speaking Racing Tones",
       "url": "https://www.watchcollectinglifestyle.com/home/block-rg-stealth-tourbillon-ferrari-red-edition-review",
@@ -410,8 +438,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster": "20260909-036323a41246",
+      "cluster_main": true
     },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
@@ -438,7 +466,7 @@
       "published_at": "2026-09-09T20:00:00.000Z",
       "score_quality": 84,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
+      "cluster": "20260909-7396333ea385",
       "cluster_main": true
     },
     {
@@ -453,7 +481,7 @@
       "score_quality": 62,
       "score_notif": 72,
       "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -607,7 +635,7 @@
       "score_quality": 95,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
@@ -1058,20 +1086,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The Louis Vuitton Tambour Spin Time Comes Back as a Permanent Collection (Incl. Video)",
-      "url": "https://monochrome-watches.com/louis-vuitton-tambour-spin-time-2026-permanent-collection-video-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Louis-Vuitton-Tambour-Spin-Time-2026-Permanent-Collection-Video-Review-24-600x237.jpg",
-      "peek_preview": "First released in 2009 as part of the emblematic Tambour collection, the Spin Time is, without a doubt, one of the most recognisable creations of Louis Vuitton horlogerie. The idea, a dynamic display using 12 rotating c...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-08T07:01:04.000Z",
-      "score_quality": 96,
-      "score_notif": 58,
-      "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
-    },
-    {
       "title": "G-SHOCKがプロサーファーの五十嵐カノア選手のシグネチャーモデル「G-LIDE GBX-H5600KI-5JR」を発売",
       "url": "https://www.webchronos.net/news/172152/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/09/GSH_kano_1.webp",
@@ -1198,20 +1212,6 @@
       "cluster_main": true
     },
     {
-      "title": "Rolex Daytona Four Seasons: i 4 pezzi unici al mondo vanno all’asta da Phillips",
-      "url": "https://italianwatchspotter.com/rolex-daytona-four-seasons-phillips/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-40-1024x560.png",
-      "peek_preview": "Quattro stagioni, quattro Cosmograph Daytona e, per ciascuno, un solo esemplare. Rolex presenta The Four Seasons, una serie di quattro Daytona unici ed esclusivi che il prossimo 28 settembre 2026 saranno protagonisti di...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-07T16:00:00.000Z",
-      "score_quality": 79,
-      "score_notif": 78,
-      "cluster": "20260903-81ad4e27f709",
-      "cluster_main": true
-    },
-    {
       "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
       "url": "https://www.perpetualpassion.com/2026/09/07/fp-journe-chronographe-fondation-prince-albert-ii-monaco-2026/",
       "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/S.A.S.-le-Prince-Albert-II-de-Monaco-et-Francois-Paul-Journe-%C2%A9Philippe-Fitte-1100x733.jpg",
@@ -1280,20 +1280,6 @@
       "score_notif": 18,
       "cluster": "20260907-0e4948c41cf7",
       "cluster_main": true
-    },
-    {
-      "title": "Rolex the four seasons: quattro Daytona unici all’asta da Phillips",
-      "url": "https://www.watchinsanity.it/rolex-daytona-four-seasons-phillips-2026/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Rolex_Daytona_Four_Seasons_Watch_Insanity_01-1024x394.jpg",
-      "peek_preview": "Rolex presenta The Four Seasons: quattro Cosmograph Daytona unici ispirati alle stagioni, all'asta da Phillips a Londra il 28 settembre. The post Rolex the four seasons: quattro Daytona unici all’asta da Phillips appear...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-07T10:09:28.000Z",
-      "score_quality": 57,
-      "score_notif": 78,
-      "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
     },
     {
       "title": "TAG Heuer redesigns the Carrera Chronograph Sport, and it’s more refined than ever",
@@ -1839,20 +1825,6 @@
       "score_quality": 76,
       "score_notif": 45,
       "cluster": "20260904-cc01ddfbcf27",
-      "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: Ferdinand Berthoud | Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-ferdinand-berthoud-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-ferdinand-berthoud-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0562-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Next at the Ferdinand Berthoud boutique in Geneva, I was presented with the latest addition to the FB 3 family – the FB 3SPC.4.1 in a ceramicised titanium cas...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T12:36:41.000Z",
-      "score_quality": 82,
-      "score_notif": 43,
-      "cluster": "20260904-b819f3b8d74b",
       "cluster_main": true
     }
   ]
