@@ -1,6 +1,6 @@
 {
-  "content_hash": "5bfdef2735c67ce53cbc895dcad5f37e7169f9d102c36ef9c35b8b44a962af58",
-  "last_updated": "2026-09-10T03:47:09.896Z",
+  "content_hash": "5b977e7572fdc20be0d38cb99d3c2e34d8f70e16a0c5589707f2e656158e00d3",
+  "last_updated": "2026-09-10T04:47:15.674Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T11:00:44.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-10T04:00:26.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T03:00:14.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Fratello Talks: The Vintage Watches We’d Buy Under €5,000",
+      "url": "https://www.fratellowatches.com/fratello-talks-the-vintage-watches-wed-buy-under-e5000/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/12/Vinatge-Omega-Seamaster.jpg",
+      "peek_preview": "Vintage watches can seem intimidating when you first start looking. There are unfamiliar references, decades of production changes, questions about originality, and the ever-present possibility of an expensive service b...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-10T04:00:26.000Z",
+      "score_quality": 32,
+      "score_notif": 8,
+      "cluster": "20260910-4cc344f58e50",
+      "cluster_main": true
+    },
     {
       "title": "ユンハンスが50気圧防水を備えた新スポーツウォッチシリーズ「アクアリス」を発表",
       "url": "https://www.webchronos.net/news/172338/",
@@ -453,7 +467,7 @@
       "score_quality": 93,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
@@ -926,10 +940,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T07:01:04.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bauhaus Meets The Atelier: How Nomos Turned Its Dials Into Art For The Twice Unique Collection",
@@ -1097,7 +1111,7 @@
       "score_quality": 79,
       "score_notif": 78,
       "cluster": "20260903-81ad4e27f709",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
@@ -1268,20 +1282,6 @@
       "cluster_main": true
     },
     {
-      "title": "Rolex Unveils Four Unique Cosmograph Daytona Watches For Charity Auction",
-      "url": "https://www.fratellowatches.com/rolex-unveils-four-unique-cosmograph-daytona-watches-for-charity-auction/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Rolex-Daytona-Auction-2026-four-seasons-newsroom-large.jpg",
-      "peek_preview": "While the watch world was focusing on the events of Geneva Watch Days 2026, Rolex decided to drop a bit of news on us. The brand officially announced that it is preparing four unique Cosmograph Daytona watches for a cha...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T05:00:11.000Z",
-      "score_quality": 80,
-      "score_notif": 78,
-      "cluster": "20260903-81ad4e27f709",
-      "cluster_main": true
-    },
-    {
       "title": "ブランパンより「フィフティ ファゾムス バチスカーフ」の70周年記念モデルが300本限定で登場",
       "url": "https://www.webchronos.net/news/171793/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/09/BP_fb_1.webp",
@@ -1334,8 +1334,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 28,
-      "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster": "20260906-da72a73680d5",
+      "cluster_main": true
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
