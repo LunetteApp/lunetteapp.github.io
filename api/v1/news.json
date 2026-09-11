@@ -1,6 +1,6 @@
 {
-  "content_hash": "468983ee8cc221070d408beec99d923c5c59f2e00a2acbc3a62b47c391bab72f",
-  "last_updated": "2026-09-11T09:47:29.696Z",
+  "content_hash": "c901472c002c83a0a47f86833543060b5834db09051988e71ab2a2ed5b2b4101",
+  "last_updated": "2026-09-11T10:47:13.840Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T09:00:46.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T06:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T10:00:34.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -113,9 +113,9 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T11:00:00.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T10:33:34.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Gli orologi di Venezia 83: pettegolezzi da polso",
+      "url": "https://giornaleorologi.it/2026/09/11/gli-orologi-di-venezia83/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/Red-carpet-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Gli orologi di Venezia 83: pettegolezzi da polso “Quanto siamo fatui, pettegoli, gossippari, leggeristi, stupidini”. Mario Ajello aveva ragione. Oggi come allora: anche in questo 83o Festival d...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-11T10:33:34.000Z",
+      "score_quality": 24,
+      "score_notif": 8,
+      "cluster": "20260911-7174b5582a24",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The ArtyA Complexity Métiers d’Art with Double Inclined Tourbillon",
+      "url": "https://monochrome-watches.com/artya-complexity-metiers-dart-with-double-inclined-tourbillon-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/ArtyA-Complexity-double-inclined-tourbillon-sapphire-metiers-art-3-600x237.jpg",
+      "peek_preview": "Indie brand ArtyA, founded by Yvan Arpa, is known for its expressive designs and technically ambitious watches, often combining traditional craftsmanship with an unmistakably contemporary attitude. Earlier this year, th...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T10:00:34.000Z",
+      "score_quality": 80,
+      "score_notif": 46,
+      "cluster": "20260911-a7682899a252",
+      "cluster_main": true
+    },
+    {
       "title": "The Top 5 Watches That Should Never Have Been Discontinued",
       "url": "https://www.fratellowatches.com/the-top-5-watches-that-should-never-have-been-discontinued/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/02/Rolex-Milgauss-116400GV12.jpg",
@@ -215,7 +243,7 @@
       "score_quality": 77,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -422,10 +450,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 63,
+      "score_quality": 78,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -438,8 +466,8 @@
       "published_at": "2026-09-10T15:19:15.000Z",
       "score_quality": 30,
       "score_notif": 44,
-      "cluster": "20260907-8cb3413d25e2",
-      "cluster_main": false
+      "cluster": "20260910-3bf4451b7705",
+      "cluster_main": true
     },
     {
       "title": "Recommended Reading: \"Bubble Backs\" By Masahiro Endo Is An Education On The Original Rolex Collectors' Watch",
@@ -606,7 +634,7 @@
       "published_at": "2026-09-10T07:01:47.000Z",
       "score_quality": 78,
       "score_notif": 43,
-      "cluster": "20260910-0a667b17052a",
+      "cluster": "20260910-d26383976902",
       "cluster_main": true
     },
     {
@@ -635,7 +663,7 @@
       "score_quality": 76,
       "score_notif": 43,
       "cluster": "20260910-0a667b17052a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gray Ceramic Debuts On Two New Seiko Astron GPS Solar Dual Time Chronographs",
@@ -732,8 +760,8 @@
       "published_at": "2026-09-09T21:41:25.000Z",
       "score_quality": 68,
       "score_notif": 57,
-      "cluster": "20260908-c7aa91047092",
-      "cluster_main": false
+      "cluster": "20260909-c0faca4088f0",
+      "cluster_main": true
     },
     {
       "title": "New Release: Apple Watch Series 12 With Improved Health Tracking And Ceramic Case Options",
@@ -746,8 +774,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster": "20260909-036323a41246",
+      "cluster_main": true
     },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
@@ -788,8 +816,8 @@
       "published_at": "2026-09-09T19:24:06.000Z",
       "score_quality": 62,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster": "20260909-bb43cc6865a0-2",
+      "cluster_main": true
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -1142,20 +1170,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – The New and More Compact Greubel Forsey GMT Balancier Convexe, in Blue",
-      "url": "https://monochrome-watches.com/review-new-and-more-compact-greubel-forsey-gmt-balancier-convexe-2026-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Greubel-Forsey-GMT-Balancier-Convexe-2026-review-3-600x237.jpg",
-      "peek_preview": "Greubel Forsey introduced its impressive three-dimensional GMT complication in 2011. Equipped with a rotating globe and an inclined 24-second tourbillon regulator, the complications were housed in imposing cases with a...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-08T17:05:23.000Z",
-      "score_quality": 87,
-      "score_notif": 57,
-      "cluster": "20260908-c7aa91047092",
-      "cluster_main": true
-    },
-    {
       "title": "Haute Horlogerie Demystified: What It Is And Isn't",
       "url": "https://teddybaldassarre.com/blogs/watches/haute-horlogerie-demystified",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Breguet-Classique-dialCU-2_feb9dd04-9a95-4b87-9ea0-365770e9f9ce.jpg?v=1788447535",
@@ -1430,10 +1444,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1598,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1839,20 +1853,6 @@
       "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-a281200adbd5",
-      "cluster_main": true
-    },
-    {
-      "title": "Editors' Picks: Our Favorite Releases From Geneva Watch Days 2026",
-      "url": "https://teddybaldassarre.com/blogs/watches/geneva-watch-days-2026-editors-picks",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Zenith_Chronomaster_Solo_Sport_Black_40mm_Ref_03.5000.3620_22.M5000_FL1.jpg?v=1788289013",
-      "peek_preview": "With Geneva Watch Days 2026 coming to a close, we tasked our editorial team with picking a few of their favorite new releases just in time for a long weekend here in the States. Of course there were a lot of big stories...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T18:14:23.000Z",
-      "score_quality": 32,
-      "score_notif": 18,
-      "cluster": "20260904-5b97125b6407",
       "cluster_main": true
     }
   ]
