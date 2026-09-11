@@ -1,6 +1,6 @@
 {
-  "content_hash": "b3b65dab1e140864925999ca9c581a8fd8d2c8d79574b6ab39e034311a5fd6bb",
-  "last_updated": "2026-09-11T17:47:01.683Z",
+  "content_hash": "4bd937cc6cbff3bf75158eb2404e6521527ca92dabc679dd688b62af549fc90a",
+  "last_updated": "2026-09-11T18:47:33.739Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T17:00:54.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T16:28:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T18:41:19.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: Ferdinand Berthoud Chronomètre FB 3SPC.4-1—Trading Precious Metal for Ceramised Titanium",
+      "url": "https://www.watchcollectinglifestyle.com/home/ferdinand-berthoud-chronomtre-fb-3spc4-1-ceramised-titanium",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1789151029733-PFLQKMS062349ZOLKLM3/Ferdinand+Berthoud+Chronome%CC%80tre+FB+3SPC.4-1-7.jpg?format=1500w",
+      "peek_preview": "When Chronométrie Ferdinand Berthoud showed us the FB 3SPC.3 in pink and black PVD-treated platinum for the model's tenth anniversary last year, this was still very much a precious-metals collection. At Geneva Watch Day...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T18:41:19.000Z",
+      "score_quality": 79,
+      "score_notif": 41,
+      "cluster": "20260911-007e5fe4fab3",
+      "cluster_main": true
+    },
     {
       "title": "Geneva Watch Days 2026: Notizen vor Ort und 6 junge Uhrenmarken",
       "url": "https://www.uhrenkosmos.com/geneva-watch-days-2026-highlights-notizen/",
@@ -1012,7 +1026,7 @@
       "published_at": "2026-09-09T16:00:23.000Z",
       "score_quality": 99,
       "score_notif": 63,
-      "cluster": "20260909-b63031c04710",
+      "cluster": "20260905-9f8b7d41ebd6",
       "cluster_main": true
     },
     {
@@ -1826,6 +1840,20 @@
       "score_notif": 47,
       "cluster": "20260905-1da253435f49",
       "cluster_main": true
+    },
+    {
+      "title": "Live from GWD26: M.A.D. 3 Vincent Calabrese | Hands-on Impressions",
+      "url": "https://deployant.com/live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0608-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors M.A.D. 3 Vincent Calabrese is one of the stars of this year’s show. I handled both Tribe version as well as the Raffle version. Here is my hands-on impression...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T14:19:44.000Z",
+      "score_quality": 73,
+      "score_notif": 63,
+      "cluster": "20260905-9f8b7d41ebd6",
+      "cluster_main": false
     }
   ]
 }
