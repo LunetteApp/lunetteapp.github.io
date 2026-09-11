@@ -1,6 +1,6 @@
 {
-  "content_hash": "9dca007c9257fdfaeb3a9e684d4f3d5a7d023d9f858b69b348087155321033eb",
-  "last_updated": "2026-09-11T03:47:44.950Z",
+  "content_hash": "ecdd2a5262d86546865c335a43214c77122a6be636418a5b4cbacc5443acfada",
+  "last_updated": "2026-09-11T04:47:45.671Z",
   "premium": {
     "links": []
   },
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T03:00:19.000Z"
     },
     {
@@ -228,8 +228,8 @@
       "published_at": "2026-09-10T18:00:43.000Z",
       "score_quality": 69,
       "score_notif": 45,
-      "cluster": "20260910-acc92952ca8b",
-      "cluster_main": true
+      "cluster": "20260909-2b4677b5507b",
+      "cluster_main": false
     },
     {
       "title": "12 Watches With Complications You've Never Heard Of",
@@ -340,8 +340,8 @@
       "published_at": "2026-09-10T15:19:15.000Z",
       "score_quality": 30,
       "score_notif": 44,
-      "cluster": "20260907-8cb3413d25e2",
-      "cluster_main": false
+      "cluster": "20260910-3bf4451b7705",
+      "cluster_main": true
     },
     {
       "title": "Recommended Reading: \"Bubble Backs\" By Masahiro Endo Is An Education On The Original Rolex Collectors' Watch",
@@ -648,8 +648,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260909-036323a41246",
-      "cluster_main": true
+      "cluster": "20260909-bb43cc6865a0",
+      "cluster_main": false
     },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
@@ -676,7 +676,7 @@
       "published_at": "2026-09-09T20:00:00.000Z",
       "score_quality": 84,
       "score_notif": 72,
-      "cluster": "20260909-7396333ea385",
+      "cluster": "20260909-bb43cc6865a0",
       "cluster_main": true
     },
     {
@@ -691,7 +691,7 @@
       "score_quality": 62,
       "score_notif": 72,
       "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -1839,6 +1839,20 @@
       "score_quality": 27,
       "score_notif": 12,
       "cluster": "20260904-b1368e425493",
+      "cluster_main": true
+    },
+    {
+      "title": "Live from GWD26: Gérald Genta Minute Repeater Golden Obsidian | Hands-on Impressions",
+      "url": "https://deployant.com/live-from-gwd26-gerald-genta-minute-repeater-golden-obsidian-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-gerald-genta-minute-repeater-golden-obsidian-hands-on-impressions",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0576-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Gérald Genta releases a new version of their Minute Repeater with a magnificent Golden Obsidian dial. Here is our first impressions of handling the watch. Han...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-04T14:43:07.000Z",
+      "score_quality": 84,
+      "score_notif": 26,
+      "cluster": "20260904-489f8ed61424",
       "cluster_main": true
     }
   ]
