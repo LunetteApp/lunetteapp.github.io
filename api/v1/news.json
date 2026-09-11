@@ -1,6 +1,6 @@
 {
-  "content_hash": "1e622812da2c9d418822a0c6ff6d7522fe470d4e8289e912f3e544eda545751a",
-  "last_updated": "2026-09-11T21:47:29.309Z",
+  "content_hash": "51905b3d1ab8e3cc774d62215cdc500160145883a3bc63f02ab6be989b1e8cb6",
+  "last_updated": "2026-09-11T22:47:18.554Z",
   "premium": {
     "links": []
   },
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T20:56:40.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T21:27:49.000Z"
     },
     {
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T18:55:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T22:07:38.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -183,7 +183,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "featured": false,
-      "published_at": "2026-09-11T21:27:49.000Z",
+      "published_at": "2026-09-11T21:27:00.000Z",
       "score_quality": 72,
       "score_notif": 18,
       "cluster": "20260911-3a0cb9a15689",
@@ -422,10 +422,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -635,7 +635,7 @@
       "score_quality": 80,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1195,7 +1195,7 @@
       "score_quality": 75,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Czapek returns to its Geneva roots with two very different shades of blue",
@@ -1306,7 +1306,7 @@
       "published_at": "2026-09-08T18:00:51.000Z",
       "score_quality": 96,
       "score_notif": 28,
-      "cluster": "20260906-da72a73680d5",
+      "cluster": "20260908-781ee51f5768",
       "cluster_main": true
     },
     {
@@ -1374,10 +1374,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T13:00:58.000Z",
-      "score_quality": 63,
+      "score_quality": 76,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1727,7 +1727,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20260906-da72a73680d5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
