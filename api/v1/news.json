@@ -1,6 +1,6 @@
 {
-  "content_hash": "b75a71e16e0966c2a8d7385c0e5b3cbb5bc183993530828f45c9ea02e2b9570b",
-  "last_updated": "2026-09-11T15:47:33.999Z",
+  "content_hash": "694cb93ed7e45cd1e962529bf0dab8b404fe8f07d9924669ae349d0088f2108d",
+  "last_updated": "2026-09-11T16:47:13.940Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T13:00:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T16:10:07.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T15:00:00.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T16:50:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T16:28:26.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-08T12:22:40.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T16:37:15.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Geneva Watch Days 2026: Notizen vor Ort und 6 junge Uhrenmarken",
+      "url": "https://www.uhrenkosmos.com/geneva-watch-days-2026-highlights-notizen/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Geneva-Watch-Days-2026-mit-Neuheiten-und-Notizen-vor-Ort.jpg",
+      "peek_preview": "Von MINGs patentiertem Sommerzeit-Trick über Bernerons Spiegel-Kaliber bis zur Bulgari-x-Vianney-Halter-Sensation: Ein Streifzug durch Genf mit 6 besonderen Uhren-Highlights der Geneva Watch Days 2026.",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-11T16:37:15.000Z",
+      "score_quality": 66,
+      "score_notif": 39,
+      "cluster": "20260911-a81286c1ebaf",
+      "cluster_main": true
+    },
+    {
+      "title": "News: Rolex Presents Four One-of-a-Kind Daytonas for Charity Auction—Named the Four Seasons",
+      "url": "https://www.watchcollectinglifestyle.com/home/rolex-four-unique-daytonas-phillips-auction-four-seasons",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1789144534749-KB5MY09ILKA91IN6D1YJ/Four+Seasons+Daytona+Auction.jpg?format=1500w",
+      "peek_preview": "Rolex does not sell watches at auction. That near-article of faith is what makes \"The Four Seasons\" unique piece Daytonas so special: four unique, gem-set Oyster Perpetual Cosmograph Daytonas, one per season, to cross t...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T16:28:26.000Z",
+      "score_quality": 76,
+      "score_notif": 67,
+      "cluster": "20260911-f43453ee5025",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-on – The Berneron Mirage 38 Miroir, The Inverted Watch",
+      "url": "https://monochrome-watches.com/berneron-mirage-38-miroir-inverted-watch-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Berneron-Mirage-38-Miroir-Review-inverted-movement-5-600x237.jpg",
+      "peek_preview": "The Berneron Mirage is described as letting the movement dictate the watch’s shape. Take it or leave it, but its asymmetric, liquid-like, constantly flowing design truly captivates. Created by Sylvain Berneron, an autom...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T16:10:07.000Z",
+      "score_quality": 84,
+      "score_notif": 28,
+      "cluster": "20260911-41e588b34658",
+      "cluster_main": true
+    },
     {
       "title": "Bring a Loupe: A Pair Of Issued Smiths, A Gübelin 18K Triple Date Moonphase, A Universal Genève Ferrovie dello Stato, And Much More",
       "url": "https://www.hodinkee.com/articles/a-pair-of-issued-smiths-a-gubelin-18k-triple-date-moonphase-a-universal-geneve-ferrovie-dello-stato-",
@@ -830,7 +872,7 @@
       "published_at": "2026-09-10T01:00:18.000Z",
       "score_quality": 86,
       "score_notif": 31,
-      "cluster": "20260905-450d8c83a0aa",
+      "cluster": "20260910-d6a2d3176b35",
       "cluster_main": true
     },
     {
@@ -984,7 +1026,7 @@
       "published_at": "2026-09-09T16:00:23.000Z",
       "score_quality": 99,
       "score_notif": 63,
-      "cluster": "20260905-9f8b7d41ebd6",
+      "cluster": "20260909-b63031c04710",
       "cluster_main": true
     },
     {
@@ -1125,20 +1167,6 @@
       "score_quality": 38,
       "score_notif": 24,
       "cluster": "20260909-91dcea4d23bf",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The Ulysse Saint-Petersbourg by Beauregard x Vianney Halter",
-      "url": "https://monochrome-watches.com/ulysse-saint-petersbourg-by-beauregard-x-vianney-halter-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Ulysse-Saint-Petersbourg-by-Beauregard-x-Vianney-Halter-review-6-600x237.jpg",
-      "peek_preview": "Alexandre Beauregard is a friendly character who has been gravitating toward the world of independent watchmaking for a few years now – although he is, above all, known for his expertise as a jeweller and gemmologist at...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T09:00:36.000Z",
-      "score_quality": 81,
-      "score_notif": 44,
-      "cluster": "20260909-db4c8f50af5b",
       "cluster_main": true
     },
     {
@@ -1826,34 +1854,6 @@
       "score_notif": 47,
       "cluster": "20260905-1da253435f49",
       "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: M.A.D. 3 Vincent Calabrese | Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0608-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors M.A.D. 3 Vincent Calabrese is one of the stars of this year’s show. I handled both Tribe version as well as the Raffle version. Here is my hands-on impression...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-05T14:19:44.000Z",
-      "score_quality": 98,
-      "score_notif": 63,
-      "cluster": "20260905-9f8b7d41ebd6",
-      "cluster_main": false
-    },
-    {
-      "title": "Girard-Perregaux fits a tourbillon and micro-rotor into the 10mm-thick Laureato Fifty",
-      "url": "https://timeandtidewatches.com/girard-perregaux-laureato-fifty-micro-rotor-39mm-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-girard-perregaux-laureato-micro-rotor-39mm.jpg",
-      "peek_preview": "Meet the Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor, a 39mm steel Laureato with two Clous de Paris dials and a new GP8410 calibre. The post Girard-Perregaux fits a tourbillon and micro-rotor into the 10mm-th...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-05T08:00:39.000Z",
-      "score_quality": 79,
-      "score_notif": 31,
-      "cluster": "20260905-450d8c83a0aa",
-      "cluster_main": false
     }
   ]
 }
