@@ -1,6 +1,6 @@
 {
-  "content_hash": "9e879a80bac54f6fc56fda7ffd3edaa1bd855e8ff560e41cf3e5bbed13cbfa09",
-  "last_updated": "2026-09-11T12:47:32.977Z",
+  "content_hash": "df003e5021d64fef156884fe32cf40c85e818627b48175abecd919222dc55d1f",
+  "last_updated": "2026-09-11T13:47:20.093Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T18:00:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T13:00:02.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T10:00:34.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T13:00:59.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T09:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T19:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T11:52:47.000Z"
     },
     {
@@ -175,6 +175,62 @@
     }
   ],
   "items": [
+    {
+      "title": "GWD26 Armchair Pick: Stanley’s top 3 from the new release",
+      "url": "https://deployant.com/gwd26-armchair-pick-stanleys-top-3-from-the-new-release/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-armchair-pick-stanleys-top-3-from-the-new-release",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0624-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors After four years with Deployant, this is only my second Armchair Pick and my first for Geneva Watch Days (GWD). I cannot help but feel a little FOMO (Fear of...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T13:30:00.000Z",
+      "score_quality": 24,
+      "score_notif": 14,
+      "cluster": "20260911-9d9c537b5318",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Delma Adds a Meteorite Dial to its Midland Automatic",
+      "url": "https://monochrome-watches.com/delma-midland-automatic-meteorite-integrated-sports-watch-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Delma-Midland-Automatic-Meteorite-1-600x237.jpg",
+      "peek_preview": "Delma’s Midland collection is the brand’s sporty-chic take on the integrated-bracelet watch, bringing some 1980s flavour to the category. The watches in this collection come in two sizes, 40mm and 34mm, with the automat...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T13:00:59.000Z",
+      "score_quality": 69,
+      "score_notif": 41,
+      "cluster": "20260911-964a516e9203",
+      "cluster_main": true
+    },
+    {
+      "title": "The Apple Watch Gets its Annual Update",
+      "url": "https://wornandwound.com/the-apple-watch-gets-its-annual-update/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Apple-Watch-2026-4.jpg",
+      "peek_preview": "It’s that time of year again: time for Apple to unveil its new slate of products, and for you to consider whether you really need to upgrade your iPhone, or resort to one more year of jiggling chargers and waning batter...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T13:00:02.000Z",
+      "score_quality": 38,
+      "score_notif": 72,
+      "cluster": "20260909-bb43cc6865a0",
+      "cluster_main": false
+    },
+    {
+      "title": "Happenings: Siam Paragon Bangkok Watch Week Is Back For 2026",
+      "url": "https://www.hodinkee.com/articles/siam-paragon-bangkok-watch-week-is-back-for-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/c6ecd151-38e9-4bd7-aed9-ae03e16d724d/BangkokWatchWeek1.jpeg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Bangkok Watch Week's second annual gathering shines a horological spotlight on Southeast Asia with an even bigger lineup of brands, novelties, and more.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T13:00:00.000Z",
+      "score_quality": 37,
+      "score_notif": 17,
+      "cluster": "20260911-6c5a96aabc0b",
+      "cluster_main": true
+    },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
       "url": "https://italianwatchspotter.com/piaget-upstream-11-settembre-2001/",
@@ -268,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 77,
+      "score_quality": 79,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -481,7 +537,7 @@
       "score_quality": 78,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -676,8 +732,8 @@
       "published_at": "2026-09-10T06:44:00.000Z",
       "score_quality": 64,
       "score_notif": 53,
-      "cluster": "20260909-e45612ab9d69",
-      "cluster_main": false
+      "cluster": "20260910-cd2a7aac5b83",
+      "cluster_main": true
     },
     {
       "title": "First Look – New Sensations with Hublot’s new Big Bang Original Soft Touch Models",
@@ -1114,20 +1170,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The new HKF005, a King Seiko Vanac with a Dial Inspired by Tokyo by Night",
-      "url": "https://monochrome-watches.com/review-new-hkf005-a-king-seiko-vanac-with-a-dial-inspired-by-tokyo-by-night-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/King-Seiko-Vanac-Tokyo-by-Night-Glitter-Dial-HKF005-Review-6-600x237.jpg",
-      "peek_preview": "Released last year, the King Seiko Vanac came as a surprise from the Japanese manufacturer. Contrary to most previous King Seiko watches, inspired by the early days of the sub-brand, the Vanac was based on an edgy King...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T03:01:49.000Z",
-      "score_quality": 85,
-      "score_notif": 53,
-      "cluster": "20260909-e45612ab9d69",
-      "cluster_main": true
-    },
-    {
       "title": "ユンハンスがオールブラックのクールな「マックス・ビル クォーツ」を発表",
       "url": "https://www.webchronos.net/news/172240/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/09/max_bill_Quarz_41_4660_46_Mood_RGB_18x13_low-1.jpg",
@@ -1478,20 +1520,6 @@
       "cluster_main": false
     },
     {
-      "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
-      "url": "https://www.hodinkee.com/articles/gphg-2026-finalists",
-      "image": "https://hodinkee.imgix.net/uploads/images/e72d73fb-4985-448d-ac14-75ce4135884d/HeroGPHG.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "This year, Mark Kauzlarich is serving on the jury. He walks you through the finalists, talks about the changes to the categories, and gives some thoughts about watches that should have been in the mix.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T16:32:00.000Z",
-      "score_quality": 74,
-      "score_notif": 62,
-      "cluster": "20260907-047d7a88a07d",
-      "cluster_main": true
-    },
-    {
       "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
       "url": "https://www.perpetualpassion.com/2026/09/07/fp-journe-chronographe-fondation-prince-albert-ii-monaco-2026/",
       "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/S.A.S.-le-Prince-Albert-II-de-Monaco-et-Francois-Paul-Journe-%C2%A9Philippe-Fitte-1100x733.jpg",
@@ -1825,34 +1853,6 @@
       "score_quality": 74,
       "score_notif": 27,
       "cluster": "20260905-cbd029295f83",
-      "cluster_main": true
-    },
-    {
-      "title": "Weekend Reads: Geneva Watch Days Releases, Lange's Triple Split Returns in Platinum, and the M.A.D.3 Calabrese Raffle is Open",
-      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-09-05",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
-      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-05T06:52:41.000Z",
-      "score_quality": 34,
-      "score_notif": 10,
-      "cluster": "20260905-d7bb0d33fee4",
-      "cluster_main": true
-    },
-    {
-      "title": "LAPS Arche : la marque parisienne franchit le cap de l’automatique",
-      "url": "https://www.welovewatches.fr/laps-arche-la-marque-parisienne-franchit-le-cap-de-lautomatique.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-montres-laps-arche-s01-vert-ivoire-s02-bleu-noir.jpg",
-      "peek_preview": "LAPS, la maison parisienne connue pour ses cadrans graphiques et ses collaborations créatives, fête cette année ses 10 ans d'existence. Et pour marquer cette décennie, la marque ne se contente pas d'une simple édition a...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-05T05:30:00.000Z",
-      "score_quality": 57,
-      "score_notif": 26,
-      "cluster": "20260905-c82639015d66",
       "cluster_main": true
     }
   ]
