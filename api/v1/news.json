@@ -1,6 +1,6 @@
 {
-  "content_hash": "639438452324d1db5113d7b5bef9118fac9a987b5a7cdd8d75082a5411a92b0d",
-  "last_updated": "2026-09-11T08:47:02.660Z",
+  "content_hash": "468983ee8cc221070d408beec99d923c5c59f2e00a2acbc3a62b47c391bab72f",
+  "last_updated": "2026-09-11T09:47:29.696Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T05:00:44.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T09:00:46.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -113,7 +113,7 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-09T11:00:00.000Z"
     },
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T07:46:21.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Top 5 Watches That Should Never Have Been Discontinued",
+      "url": "https://www.fratellowatches.com/the-top-5-watches-that-should-never-have-been-discontinued/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/02/Rolex-Milgauss-116400GV12.jpg",
+      "peek_preview": "Another Friday, another list! After the hustle and bustle of Geneva Watch Days last week, we are slowly getting back into the normal swing of things. This allowed us to think about a good Top 5 topic for this week that...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T09:00:46.000Z",
+      "score_quality": 38,
+      "score_notif": 5,
+      "cluster": "20260911-ac1abf8822ee",
+      "cluster_main": true
+    },
     {
       "title": "Apple Watch Series 12 et Ultra 4 : Apple muscle le suivi cardiaque",
       "url": "https://www.welovewatches.fr/apple-watch-series-12-et-ultra-4-apple-muscle-le-suivi-cardiaque.html",
@@ -1044,20 +1058,6 @@
       "cluster_main": true
     },
     {
-      "title": "Fratello On Air: The Trends At Geneva Watch Days 2026",
-      "url": "https://www.fratellowatches.com/fratello-on-air-the-trends-at-geneva-watch-days-2026/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Doxa-SUB-300-Ti5-press-images-22.jpg",
-      "peek_preview": "Welcome back to another episode of Fratello On Air! This week, we’re all back home. Balazs has returned from Geneva, and Mike has come in after three weeks of being on the road. In this episode, we review the overarchin...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T07:00:10.000Z",
-      "score_quality": 34,
-      "score_notif": 9,
-      "cluster": "20260909-c22bfdebf95a",
-      "cluster_main": true
-    },
-    {
       "title": "First Look – The new HKF005, a King Seiko Vanac with a Dial Inspired by Tokyo by Night",
       "url": "https://monochrome-watches.com/review-new-hkf005-a-king-seiko-vanac-with-a-dial-inspired-by-tokyo-by-night-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/09/King-Seiko-Vanac-Tokyo-by-Night-Glitter-Dial-HKF005-Review-6-600x237.jpg",
@@ -1430,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1598,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1628,8 +1628,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 28,
-      "cluster": "20260906-da72a73680d5",
-      "cluster_main": true
+      "cluster": "20260904-eb619daf7106",
+      "cluster_main": false
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
