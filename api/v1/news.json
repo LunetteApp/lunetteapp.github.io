@@ -1,6 +1,6 @@
 {
-  "content_hash": "6e7f144edc78c5addc1f74dc090cfd0351760f73cffc8988c1f0c56df57b2e79",
-  "last_updated": "2026-09-11T06:47:06.841Z",
+  "content_hash": "056c0bc96b745dfddb8924f5e7bb4e62c2efe0f48b64ad6f11b5772d2a72e383",
+  "last_updated": "2026-09-11T07:47:24.431Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T06:00:02.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T14:00:53.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T07:01:17.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T16:01:40.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T07:00:48.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "CVSTOS Challenge Sealiner Arman Tsarukyan Edition White Ceramic Watch Hands-On",
+      "url": "https://www.ablogtowatch.com/cvstos-challenge-sealiner-arman-tsarukyan-edition-white-ceramic-watch-hands-on/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/CVSTOS-Challenge-Sealiner-PS-Arman-Edition-White-Ceramic-Watch-12-768x346.jpg",
+      "peek_preview": "For the very first time, Geneva-based CVSTOS has created a timepiece with a ceramic case. This time in white ceramic for its limited-edition Challenge Sealiner model, produced in collaboration with brand ambassador and...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T07:01:17.000Z",
+      "score_quality": 77,
+      "score_notif": 24,
+      "cluster": "20260910-bf934d830cd0",
+      "cluster_main": true
+    },
+    {
+      "title": "A round-up from Geneva Watch Days",
+      "url": "https://timeandtidewatches.com/geneva-watch-days-2026-friday-wind-down/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/geneva-watch-days-2026-2.jpg",
+      "peek_preview": "It was an action-packed week in Geneva, and there was a lot to unpack from the second trade show of the year. The post A round-up from Geneva Watch Days appeared first on Time+Tide Watches.",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T07:00:48.000Z",
+      "score_quality": 24,
+      "score_notif": 16,
+      "cluster": "20260911-45526a534300",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The Cyma Grand Maestro Steel Cross Chronograph",
       "url": "https://monochrome-watches.com/cyma-grand-maestro-steel-cross-chronograph-review-price/",
@@ -367,9 +395,9 @@
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
       "score_quality": 63,
-      "score_notif": 22,
+      "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -690,8 +718,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster": "20260909-036323a41246",
+      "cluster_main": true
     },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
@@ -718,7 +746,7 @@
       "published_at": "2026-09-09T20:00:00.000Z",
       "score_quality": 84,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
+      "cluster": "20260909-7396333ea385",
       "cluster_main": true
     },
     {
@@ -733,7 +761,7 @@
       "score_quality": 62,
       "score_notif": 72,
       "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -1320,8 +1348,8 @@
       "published_at": "2026-09-07T23:18:45.000Z",
       "score_quality": 99,
       "score_notif": 30,
-      "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster": "20260907-26e60eac68be",
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1825,34 +1853,6 @@
       "score_quality": 50,
       "score_notif": 24,
       "cluster": "20260904-b9943ff14a74",
-      "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: Daniel Roth Extra Plat Rose Gold Gilt | Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-daniel-roth-extra-plat-rose-gold-gilt-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-daniel-roth-extra-plat-rose-gold-gilt-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0583-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors At the Daniel Roth suite, I had the pleasure of having Michel Navas, one of the principals of La Fabrique du Temps to introduce the Rose Gold Gilt dial instal...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 100,
-      "score_notif": 30,
-      "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
-    },
-    {
-      "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
-      "url": "https://timeandtidewatches.com/andrews-geneva-watch-days-top3-2026/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-andrew-gwd-2026.webp",
-      "peek_preview": "Andrew McUtchen picks the three watches that made the biggest impact at Geneva Watch Days 2026, from Bulgari, Frederique Constant and Gallet. The post Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T15:00:21.000Z",
-      "score_quality": 27,
-      "score_notif": 12,
-      "cluster": "20260904-b1368e425493",
       "cluster_main": true
     }
   ]
