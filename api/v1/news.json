@@ -1,6 +1,6 @@
 {
-  "content_hash": "23c4a69fae249358f37a9929108c2ec07ce2b418be6509ae4925cccacc8cb3c6",
-  "last_updated": "2026-09-11T01:47:03.770Z",
+  "content_hash": "9dca007c9257fdfaeb3a9e684d4f3d5a7d023d9f858b69b348087155321033eb",
+  "last_updated": "2026-09-11T03:47:44.950Z",
   "premium": {
     "links": []
   },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.2,
+      "estimated_articles_per_day": 4.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T16:01:21.000Z"
     },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T01:00:29.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T00:00:06.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T03:00:19.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -228,8 +228,8 @@
       "published_at": "2026-09-10T18:00:43.000Z",
       "score_quality": 69,
       "score_notif": 45,
-      "cluster": "20260909-2b4677b5507b",
-      "cluster_main": false
+      "cluster": "20260910-acc92952ca8b",
+      "cluster_main": true
     },
     {
       "title": "12 Watches With Complications You've Never Heard Of",
@@ -648,8 +648,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster": "20260909-036323a41246",
+      "cluster_main": true
     },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
@@ -676,7 +676,7 @@
       "published_at": "2026-09-09T20:00:00.000Z",
       "score_quality": 84,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
+      "cluster": "20260909-7396333ea385",
       "cluster_main": true
     },
     {
@@ -691,7 +691,7 @@
       "score_quality": 62,
       "score_notif": 72,
       "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -1572,8 +1572,8 @@
       "published_at": "2026-09-06T14:01:15.000Z",
       "score_quality": 54,
       "score_notif": 28,
-      "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster": "20260906-da72a73680d5",
+      "cluster_main": true
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
@@ -1643,20 +1643,6 @@
       "score_quality": 60,
       "score_notif": 18,
       "cluster": "20260906-99caf5c355ed",
-      "cluster_main": true
-    },
-    {
-      "title": "「ロンジン マスターコレクション」から初のモノプッシャークロノグラフが登場。パルスメーターを備えたクラシカルな意匠",
-      "url": "https://www.webchronos.net/news/171639/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/LG_92_1.webp",
-      "peek_preview": "ロンジンは、「ロンジン マスターコレクション」初となるモノプッシャークロノグラフを発表した。20世紀初頭から続く同社のクロノグラフの伝統を受け継ぎ、パルスメーターや手巻きのコラムホイール式クロノグラフCal.L799.5 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-06T03:00:07.000Z",
-      "score_quality": 68,
-      "score_notif": 57,
-      "cluster": "20260906-1305845ec8f5",
       "cluster_main": true
     },
     {
