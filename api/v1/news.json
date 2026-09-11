@@ -1,6 +1,6 @@
 {
-  "content_hash": "4bd937cc6cbff3bf75158eb2404e6521527ca92dabc679dd688b62af549fc90a",
-  "last_updated": "2026-09-11T18:47:33.739Z",
+  "content_hash": "c520ee10eaafd9629b3cd4667ddd6dc929476f46c00309c6677b1709f37967c8",
+  "last_updated": "2026-09-11T20:47:16.627Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T17:00:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T20:00:03.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T18:41:19.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Enthusiast Spotlight: Chris Sohl Dives Into the Soul of the All-New Certina DS Super PH2000M",
+      "url": "https://wornandwound.com/enthusiast-spotlight-chris-sohl-dives-into-the-soul-of-the-all-new-certina-ds-super-ph2000m/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/202608_Certina_Sohl_Web_3.jpg",
+      "peek_preview": "For Chris Sohl—or simply Sohl, as most folks know him—watches and diving have always been intertwined. He got into both around the same time in 2015, discovering that each offered the same combination of history, advent...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T20:00:03.000Z",
+      "score_quality": 46,
+      "score_notif": 15,
+      "cluster": "20260911-ef3fe640de02",
+      "cluster_main": true
+    },
     {
       "title": "Insider: Ferdinand Berthoud Chronomètre FB 3SPC.4-1—Trading Precious Metal for Ceramised Titanium",
       "url": "https://www.watchcollectinglifestyle.com/home/ferdinand-berthoud-chronomtre-fb-3spc4-1-ceramised-titanium",
@@ -397,7 +411,7 @@
       "score_quality": 79,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -604,10 +618,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -620,8 +634,8 @@
       "published_at": "2026-09-10T15:19:15.000Z",
       "score_quality": 30,
       "score_notif": 44,
-      "cluster": "20260907-8cb3413d25e2",
-      "cluster_main": false
+      "cluster": "20260910-3bf4451b7705",
+      "cluster_main": true
     },
     {
       "title": "Recommended Reading: \"Bubble Backs\" By Masahiro Endo Is An Education On The Original Rolex Collectors' Watch",
@@ -1292,7 +1306,7 @@
       "published_at": "2026-09-08T18:00:51.000Z",
       "score_quality": 96,
       "score_notif": 28,
-      "cluster": "20260908-781ee51f5768",
+      "cluster": "20260906-da72a73680d5",
       "cluster_main": true
     },
     {
@@ -1520,20 +1534,6 @@
       "cluster_main": true
     },
     {
-      "title": "Oris Extends Its Muppets Line with the Most Audacious Version Yet",
-      "url": "https://wornandwound.com/oris-extends-its-muppets-line-with-the-most-audacious-version-yet/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Gonzo-Header.jpg",
-      "peek_preview": "Like many generations of kids past and present, I grew up on the Muppets, and well, quite frankly, I’ve never outgrown them. They are one of those rare and fantastic so-called kids’ universes that really transcend age a...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T19:00:37.000Z",
-      "score_quality": 61,
-      "score_notif": 44,
-      "cluster": "20260907-8cb3413d25e2",
-      "cluster_main": true
-    },
-    {
       "title": "F.P. Journe Unveils Unique Chronographe to Benefit Monaco Charity",
       "url": "https://watchesbysjx.com/2026/09/fp-journe-chronographe-fondation-prince-albert-ii-monaco.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/FP-Journe-Chronograph-Prince-Albert-II-of-Monaco-Foundation-3x2-header-1-300x200.jpg",
@@ -1727,7 +1727,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20260906-da72a73680d5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
