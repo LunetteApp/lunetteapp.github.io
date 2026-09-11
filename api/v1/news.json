@@ -1,6 +1,6 @@
 {
-  "content_hash": "fc6fd6fba5c6832ddb4ae97ed98f5e1891bb23e9502bfe4e236229da86c96327",
-  "last_updated": "2026-09-11T11:47:27.911Z",
+  "content_hash": "9e879a80bac54f6fc56fda7ffd3edaa1bd855e8ff560e41cf3e5bbed13cbfa09",
+  "last_updated": "2026-09-11T12:47:32.977Z",
   "premium": {
     "links": []
   },
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T11:08:46.000Z"
     },
     {
@@ -114,15 +114,15 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T10:33:34.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-09T16:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T11:52:47.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -176,7 +176,21 @@
   ],
   "items": [
     {
-      "title": "Sell Your Watches, Checklist Collecting, And When Heuer Was Hype (w/ Jeff Stein, On the Dash)",
+      "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
+      "url": "https://italianwatchspotter.com/piaget-upstream-11-settembre-2001/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/5903a3e8-8f2f-f6f7-6600-b9ceca96096d-1-819x1024.png",
+      "peek_preview": "Il Piaget Upstream viene presentato sul mercato l’11 settembre 2001 – in una data destinata a riscrivere l’agenda mediatica mondiale e a lasciare inevitabilmente ai margini qualunque altra notizia. Nato come uno dei pro...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-11T11:52:47.000Z",
+      "score_quality": 62,
+      "score_notif": 14,
+      "cluster": "20260911-50cf3ef39eee",
+      "cluster_main": true
+    },
+    {
+      "title": "Sell Your Watches, Checklist Collecting, And When Heuer Was Hype (Jeff Stein, On the Dash)",
       "url": "https://www.unpolishedwatches.com/p/sell-your-watches-checklist-collecting",
       "image": "https://substackcdn.com/image/fetch/$s_!FTe0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc321f16e-8ec8-46ff-89a3-b5448cff4699_1600x1066.jpeg",
       "peek_preview": "The (TAG) Heuer scholar on his checklist era, where the market actually sits in 2026, and why you should learn how to sell your watches.",
@@ -1180,8 +1194,8 @@
       "published_at": "2026-09-08T18:00:51.000Z",
       "score_quality": 96,
       "score_notif": 28,
-      "cluster": "20260904-eb619daf7106",
-      "cluster_main": false
+      "cluster": "20260908-781ee51f5768",
+      "cluster_main": true
     },
     {
       "title": "Haute Horlogerie Demystified: What It Is And Isn't",
@@ -1839,20 +1853,6 @@
       "score_quality": 57,
       "score_notif": 26,
       "cluster": "20260905-c82639015d66",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: A. Lange & Söhne 1815 UP/DOWN Blue Limited Edition—Two Golds and Compact Proportions",
-      "url": "https://www.watchcollectinglifestyle.com/home/a-lange-sohne-1815-up-down-blue",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1788182023710-RG459A3NTPGYZHL13UQ6/A.%2BLange%2B%26%2BSo%CC%88hne%2B1815%2BUpDown%2BBlue%2BDial-1.webp?format=1500w",
-      "peek_preview": "A. Lange & Söhne has expanded the 1815 UP/DOWN family with two new special editions in pink and white gold, each limited to 300 pieces. While the design draws on historic Lange pocket watches, the new versions bring a b...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-04T19:30:00.000Z",
-      "score_quality": 97,
-      "score_notif": 28,
-      "cluster": "20260904-eb619daf7106",
       "cluster_main": true
     }
   ]
