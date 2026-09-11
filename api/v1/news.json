@@ -1,6 +1,6 @@
 {
-  "content_hash": "51905b3d1ab8e3cc774d62215cdc500160145883a3bc63f02ab6be989b1e8cb6",
-  "last_updated": "2026-09-11T22:47:18.554Z",
+  "content_hash": "103aca909e0adab2b71e4760662d3976b7de9e510a9670a082c9fd30d24caaac",
+  "last_updated": "2026-09-11T23:47:02.050Z",
   "premium": {
     "links": []
   },
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T22:07:38.000Z"
     },
     {
@@ -1054,7 +1054,7 @@
       "published_at": "2026-09-09T16:00:23.000Z",
       "score_quality": 99,
       "score_notif": 63,
-      "cluster": "20260909-b63031c04710",
+      "cluster": "20260905-9f8b7d41ebd6",
       "cluster_main": true
     },
     {
@@ -1192,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-09T08:55:33.000Z",
-      "score_quality": 75,
+      "score_quality": 77,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Czapek returns to its Geneva roots with two very different shades of blue",
@@ -1377,7 +1377,7 @@
       "score_quality": 76,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1840,6 +1840,20 @@
       "score_notif": 47,
       "cluster": "20260905-1da253435f49",
       "cluster_main": true
+    },
+    {
+      "title": "Live from GWD26: M.A.D. 3 Vincent Calabrese | Hands-on Impressions",
+      "url": "https://deployant.com/live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0608-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors M.A.D. 3 Vincent Calabrese is one of the stars of this year’s show. I handled both Tribe version as well as the Raffle version. Here is my hands-on impression...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-05T14:19:44.000Z",
+      "score_quality": 76,
+      "score_notif": 63,
+      "cluster": "20260905-9f8b7d41ebd6",
+      "cluster_main": false
     }
   ]
 }
