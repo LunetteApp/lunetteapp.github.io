@@ -1,6 +1,6 @@
 {
-  "content_hash": "67132c1754e6d879249d281fc941caf8a0c33a06372783557998502706bd82c3",
-  "last_updated": "2026-09-10T19:47:30.450Z",
+  "content_hash": "7550a382b913012436f91744778245df35fa6805aa619e46f1dbd4418b8698f7",
+  "last_updated": "2026-09-11T00:47:40.321Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-10T19:00:00.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T03:00:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T00:00:06.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ウブロよりUEFAチャンピオンズリーグの開幕を祝す「ビッグ・バン リローデッド」の限定モデルが登場",
+      "url": "https://www.webchronos.net/news/171885/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/HB_sb_1.webp",
+      "peek_preview": "ウブロは、新作モデル「ビッグ・バン リローデッド UEFA チャンピオンズリーグ チタニウム セラミック」を披露した。同ブランドがオフィシャルウォッチを務める「UEFA チャンピオンズリーグ」の新シーズン到来を記念した、 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-11T00:00:06.000Z",
+      "score_quality": 61,
+      "score_notif": 46,
+      "cluster": "20260911-608789c8bd29",
+      "cluster_main": true
+    },
     {
       "title": "Editors' Picks: Our Favorite Watches From Geneva Watch Days 2026 (And Beyond)",
       "url": "https://www.hodinkee.com/articles/our-favorite-watches-from-geneva-watch-days-2026-and-beyond",
@@ -1276,10 +1290,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
@@ -1346,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Here Are The Finalists for the 2026 Grand Prix d'Horlogerie de Genève",
@@ -1514,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
@@ -1629,20 +1643,6 @@
       "score_quality": 68,
       "score_notif": 57,
       "cluster": "20260906-1305845ec8f5",
-      "cluster_main": true
-    },
-    {
-      "title": "コーニッシュより、地中海の夏を思わせる爽やかなクロノグラフウォッチが数量限定で登場",
-      "url": "https://www.webchronos.net/news/171494/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/cor_cg_1.webp",
-      "peek_preview": "スウェーデン発のウォッチブランド「コーニッシュ」より、「ヘリテージ クロノグラフ ビサージュ リミテッドエディション」が発売された。南フランスのコート・ダジュールの情景を表現した、涼しげな表情のメカクォーツクロノグラフだ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-06T00:00:36.000Z",
-      "score_quality": 31,
-      "score_notif": 20,
-      "cluster": "20260906-462179ba3e71",
       "cluster_main": true
     },
     {
@@ -1822,10 +1822,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-04T15:03:25.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 30,
       "cluster": "20260902-2859c844bec3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Andrew’s three Geneva Watch Days 2026 picks that hit hardest on the wrist",
