@@ -1,6 +1,6 @@
 {
-  "content_hash": "c520ee10eaafd9629b3cd4667ddd6dc929476f46c00309c6677b1709f37967c8",
-  "last_updated": "2026-09-11T20:47:16.627Z",
+  "content_hash": "1e622812da2c9d418822a0c6ff6d7522fe470d4e8289e912f3e544eda545751a",
+  "last_updated": "2026-09-11T21:47:29.309Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T20:00:03.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T17:14:53.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T20:56:40.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T21:27:49.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The Tudor Northflag",
+      "url": "https://www.hodinkee.com/articles/the-tudor-northflag",
+      "image": "https://hodinkee.imgix.net/uploads/images/c80b1191-37db-40ea-9571-fb77fd63b9e5/Tudor-northflag-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "It's not that I didn't expect Tudor to bring back the North Flag — I'm just not sure I expected the Northflag.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T21:27:49.000Z",
+      "score_quality": 72,
+      "score_notif": 18,
+      "cluster": "20260911-3a0cb9a15689",
+      "cluster_main": true
+    },
     {
       "title": "Enthusiast Spotlight: Chris Sohl Dives Into the Soul of the All-New Certina DS Super PH2000M",
       "url": "https://wornandwound.com/enthusiast-spotlight-chris-sohl-dives-into-the-soul-of-the-all-new-certina-ds-super-ph2000m/",
@@ -1040,7 +1054,7 @@
       "published_at": "2026-09-09T16:00:23.000Z",
       "score_quality": 99,
       "score_notif": 63,
-      "cluster": "20260905-9f8b7d41ebd6",
+      "cluster": "20260909-b63031c04710",
       "cluster_main": true
     },
     {
@@ -1128,20 +1142,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Five New Louis Vuitton Tambour Spin Time References",
-      "url": "https://www.hodinkee.com/articles/five-new-louis-vuitton-tambour-spin-time-references",
-      "image": "https://hodinkee.imgix.net/uploads/images/d9439ad4-0e80-461c-8555-50830b57c3ea/spintimeheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The brand's creative takes on the jump hour enters the permanent collection.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T12:00:00.000Z",
-      "score_quality": 95,
-      "score_notif": 58,
-      "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
-    },
-    {
       "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
       "url": "https://www.fratellowatches.com/the-david-candaux-dc6-wildfire/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/David-Candaux-GWD-2026-33.jpg",
@@ -1192,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-09T08:55:33.000Z",
-      "score_quality": 69,
+      "score_quality": 75,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Czapek returns to its Geneva roots with two very different shades of blue",
@@ -1840,20 +1840,6 @@
       "score_notif": 47,
       "cluster": "20260905-1da253435f49",
       "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: M.A.D. 3 Vincent Calabrese | Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0608-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors M.A.D. 3 Vincent Calabrese is one of the stars of this year’s show. I handled both Tribe version as well as the Raffle version. Here is my hands-on impression...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-05T14:19:44.000Z",
-      "score_quality": 73,
-      "score_notif": 63,
-      "cluster": "20260905-9f8b7d41ebd6",
-      "cluster_main": false
     }
   ]
 }
