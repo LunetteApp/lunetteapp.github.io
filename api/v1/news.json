@@ -1,6 +1,6 @@
 {
-  "content_hash": "b30317fb4016c7de6b72ddbcb33f4123a028483a32e659de075ddeb285a46375",
-  "last_updated": "2026-09-11T05:47:51.375Z",
+  "content_hash": "6e7f144edc78c5addc1f74dc090cfd0351760f73cffc8988c1f0c56df57b2e79",
+  "last_updated": "2026-09-11T06:47:06.841Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T05:00:44.000Z"
     },
     {
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-10T16:01:21.000Z"
+      "estimated_articles_per_day": 4.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-11T06:00:02.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T05:30:00.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "First Look – The Cyma Grand Maestro Steel Cross Chronograph",
+      "url": "https://monochrome-watches.com/cyma-grand-maestro-steel-cross-chronograph-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Cyma-Grand-Maestro-Steel-Cross-Chronograph-review-9-600x237.jpg",
+      "peek_preview": "Cyma’s history begins in the 1860s, with the establishment of the Tavannes Watch company in the Swiss Jura, laying the foundation for a manufacture that would become an important name in Swiss watchmaking, even though t...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-11T06:00:02.000Z",
+      "score_quality": 81,
+      "score_notif": 44,
+      "cluster": "20260911-dfad59d13e48",
+      "cluster_main": true
+    },
+    {
       "title": "We Love Watches 2026 : les 28 marques made in France à découvrir sur le salon",
       "url": "https://www.welovewatches.fr/we-love-watches-2026-les-28-marques-made-in-france-a-decouvrir-sur-le-salon.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/salon-horloger-we-love-watches-2026-liste-des-marques-made-in-france.jpg",
@@ -198,10 +212,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T05:00:44.000Z",
-      "score_quality": 76,
+      "score_quality": 100,
       "score_notif": 66,
       "cluster": "20260904-a281200adbd5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands On: Chopard L.U.C 1963 Heritage Regulator",
@@ -501,7 +515,7 @@
       "title": "The Chronoswiss Neo Digiteur Pastel Code Puts A Softer Spin On A Peculiar Watch",
       "url": "https://www.fratellowatches.com/chronoswiss-neo-digiteur-pastel-code/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Chronoswiss-GWD-2026.jpg",
-      "peek_preview": "The way we tell time matters, and not just because we want to miss the train. The way we read time is also an experience. Digital time is just a series of numbers, while an analog timekeeper sweeps through time, showing...",
+      "peek_preview": "The way we tell time matters, and not just because we don’t want to miss the train. The way we read time is also an experience. Digital time is just a series of numbers, while an analog timekeeper sweeps through time, s...",
       "source_name": "Fratello Watches",
       "lang": "en",
       "featured": false,
@@ -1126,20 +1140,6 @@
       "score_notif": 33,
       "cluster": "20260908-ee4cd19eda38",
       "cluster_main": false
-    },
-    {
-      "title": "First Look – Titoni goes Higher-End and Sporty with the new Luxe Tourbillon Ceramic",
-      "url": "https://monochrome-watches.com/titoni-goes-higher-end-and-sporty-with-the-new-luxe-tourbillon-ceramic-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Titoni-Luxe-Tourbillon-Ceramic-Luxury-Sports-Watch-review-1-600x237.jpg",
-      "peek_preview": "Tourbillons have long been associated with traditional high watchmaking. Still, in recent years, we have seen quite a few of these appear in the more accessible segment, from Yema, Patria, or Louis Erard. Powered by a m...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-08T14:00:13.000Z",
-      "score_quality": 77,
-      "score_notif": 40,
-      "cluster": "20260908-e41ac40c3dc0",
-      "cluster_main": true
     },
     {
       "title": "Inside Hampden’s First Hand Workshop, Where You Assemble The Watch You Take Home",
@@ -1797,7 +1797,7 @@
       "score_quality": 99,
       "score_notif": 66,
       "cluster": "20260904-a281200adbd5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Editors' Picks: Our Favorite Releases From Geneva Watch Days 2026",
