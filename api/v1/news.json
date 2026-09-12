@@ -1,6 +1,6 @@
 {
-  "content_hash": "de26f0d13a302fc2f4575879899ce75b9d52324a036887e49390697245095c21",
-  "last_updated": "2026-09-12T11:47:20.723Z",
+  "content_hash": "66224155e12f0a2e0035d271c7ffdcaf1387481233bb8b43d0ed26d29efa0f6a",
+  "last_updated": "2026-09-12T13:47:03.423Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-12T11:00:05.000Z"
     },
     {
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T13:30:00.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-12T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "GWD26 Armchair Pick: Frank’s Top 3 from the New Release",
+      "url": "https://deployant.com/gwd26-armchair-pick-franks-top-3-from-the-new-release/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-armchair-pick-franks-top-3-from-the-new-release",
+      "image": "https://deployant.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-at-10.57.37-AM.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Born in the days of the pandemic, Geneva Watch Days (GWD) keeps getting better and better with every passing year. And in 2026, it’s hit yet another peak. It’...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-12T13:30:00.000Z",
+      "score_quality": 28,
+      "score_notif": 8,
+      "cluster": "20260912-b7da4287288d",
+      "cluster_main": true
+    },
     {
       "title": "Bangkok Watch Week 2026: A Growing Destination For Watch Collectors",
       "url": "https://www.fratellowatches.com/bangkok-watch-week-2026/",
@@ -523,7 +537,7 @@
       "score_quality": 85,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -730,10 +744,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1612,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
@@ -1738,10 +1752,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Quick Study: Lange & Söhne 1815 Up/Down",
@@ -1839,20 +1853,6 @@
       "score_quality": 52,
       "score_notif": 10,
       "cluster": "20260905-d37a6ff8d5c5",
-      "cluster_main": true
-    },
-    {
-      "title": "New releases from Bvlgari, Lange, Laurent Ferrier and more",
-      "url": "https://timeandtidewatches.com/bvlgari-lange-laurent-ferrier-last-week-in-watches-gwd-geneva-watch-days/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/laurent-ferrier-web.jpg",
-      "peek_preview": "With Geneva Watch Days in full swing, here you’ll find the most important new releases of the second part of the year so far. We’re covering the event live from Geneva and, frankly, spoilt for choice; the sheer number o...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-05T15:30:18.000Z",
-      "score_quality": 33,
-      "score_notif": 22,
-      "cluster": "20260905-1658a69d561d",
       "cluster_main": true
     }
   ]
