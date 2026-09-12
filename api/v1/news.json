@@ -1,6 +1,6 @@
 {
-  "content_hash": "afd5e85e708482f57e9d7c14eece0dbabc58d56d6eece03cc0901ea35f9a1e55",
-  "last_updated": "2026-09-12T05:46:57.521Z",
+  "content_hash": "7b6ee436f6e6b1eae139a5507a17fed598dd14c8f6434441d1e90e96a596ba08",
+  "last_updated": "2026-09-12T07:47:05.964Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-12T05:00:27.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T07:01:17.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-12T07:01:31.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: Raymond Weil’s Black & White Millesime Small Seconds Tuxedo Dress Watch",
+      "url": "https://www.ablogtowatch.com/hands-on-raymond-weils-black-white-millesime-small-seconds-tuxedo-dress-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Raymond-Weil-Millesime-Small-Seconds-Tuxedo-2930-STC-05642-watch-11-768x346.jpg",
+      "peek_preview": "Black and white watches probably don’t get the fashion credit they deserve these days. In an era where internet content is as colorful and loud as a jungle safari, the classic appeal of monochromatic styles can be lost...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-12T07:01:31.000Z",
+      "score_quality": 78,
+      "score_notif": 24,
+      "cluster": "20260912-8c0d6bd546c2",
+      "cluster_main": true
+    },
     {
       "title": "Girard-Perregaux Parties On With The Laureato Fifty Tourbillon Micro-Rotor 39mm Collection",
       "url": "https://www.fratellowatches.com/girard-perregaux-laureato-fifty-tourbillon-micro-rotor-39mm/",
@@ -858,7 +872,7 @@
       "published_at": "2026-09-10T07:01:47.000Z",
       "score_quality": 78,
       "score_notif": 43,
-      "cluster": "20260910-0a667b17052a",
+      "cluster": "20260910-d26383976902",
       "cluster_main": true
     },
     {
@@ -887,7 +901,7 @@
       "score_quality": 76,
       "score_notif": 43,
       "cluster": "20260910-0a667b17052a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gray Ceramic Debuts On Two New Seiko Astron GPS Solar Dual Time Chronographs",
@@ -1096,7 +1110,7 @@
       "published_at": "2026-09-09T16:00:23.000Z",
       "score_quality": 99,
       "score_notif": 63,
-      "cluster": "20260905-9f8b7d41ebd6",
+      "cluster": "20260909-b63031c04710",
       "cluster_main": true
     },
     {
@@ -1334,7 +1348,7 @@
       "published_at": "2026-09-08T18:00:51.000Z",
       "score_quality": 96,
       "score_notif": 28,
-      "cluster": "20260906-da72a73680d5",
+      "cluster": "20260908-781ee51f5768",
       "cluster_main": true
     },
     {
@@ -1727,7 +1741,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20260906-da72a73680d5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
@@ -1840,20 +1854,6 @@
       "score_notif": 47,
       "cluster": "20260905-1da253435f49",
       "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: M.A.D. 3 Vincent Calabrese | Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-m-a-d-3-vincent-calabrese-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0608-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors M.A.D. 3 Vincent Calabrese is one of the stars of this year’s show. I handled both Tribe version as well as the Raffle version. Here is my hands-on impression...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-05T14:19:44.000Z",
-      "score_quality": 76,
-      "score_notif": 63,
-      "cluster": "20260905-9f8b7d41ebd6",
-      "cluster_main": false
     }
   ]
 }
