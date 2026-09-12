@@ -1,6 +1,6 @@
 {
-  "content_hash": "c69405bf1f74b97ddd79c3ffc397cd31fe69b96d4a74d4ec67865e69e21b6a52",
-  "last_updated": "2026-09-12T02:45:46.503Z",
+  "content_hash": "0c115903871283bca4f8e2912ddf0782914b7c33437b2ab254981fe3f56b7e52",
+  "last_updated": "2026-09-12T03:47:07.794Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-12T00:00:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-12T03:00:31.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "モンブランより、インククロノグラフの発明をたたえる「スター レガシー ニコラ・リューセック クロノグラフ」が登場",
+      "url": "https://www.webchronos.net/news/172402/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/MB_sl_1.webp",
+      "peek_preview": "モンブランは、1821年に時計師ニコラ・リューセックが発明した「インククロノグラフ」を着想源とする「スター レガシー ニコラ・リューセック クロノグラフ リミテッドエディション 100」を発表した。同氏にまつわる歴史資料 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-12T03:00:31.000Z",
+      "score_quality": 63,
+      "score_notif": 45,
+      "cluster": "20260912-7af0ffa1e353",
+      "cluster_main": true
+    },
     {
       "title": "G-SHOCK「G-STEEL GST-B1000」にバイオマスプラスティック製ストラップモデルが追加",
       "url": "https://www.webchronos.net/news/172375/",
@@ -439,7 +453,7 @@
       "score_quality": 81,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -646,10 +660,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1685,20 +1699,6 @@
       "score_quality": 56,
       "score_notif": 22,
       "cluster": "20260907-b493188add49",
-      "cluster_main": true
-    },
-    {
-      "title": "ブランパンより「フィフティ ファゾムス バチスカーフ」の70周年記念モデルが300本限定で登場",
-      "url": "https://www.webchronos.net/news/171793/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/BP_fb_1.webp",
-      "peek_preview": "ブランパンは「フィフティ ファゾムス バチスカーフ」の誕生70周年を記念する、数量限定のタイムピースを発表した。同名コレクションの1968年モデルをデザインの着想源とし、その均整の取れたプロポーションや優れた機能性、控え […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-07T03:00:57.000Z",
-      "score_quality": 64,
-      "score_notif": 61,
-      "cluster": "20260907-a84843a070f0",
       "cluster_main": true
     },
     {
