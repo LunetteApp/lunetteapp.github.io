@@ -1,6 +1,6 @@
 {
-  "content_hash": "7b6ee436f6e6b1eae139a5507a17fed598dd14c8f6434441d1e90e96a596ba08",
-  "last_updated": "2026-09-12T07:47:05.964Z",
+  "content_hash": "68f09ae24dd5a3b12d6913f979b893ab5cb78313db512f49557ee510513acf3a",
+  "last_updated": "2026-09-12T08:46:59.731Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T16:10:07.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-12T08:35:53.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-12T07:01:31.000Z"
     },
     {
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T07:00:48.000Z"
+      "latest_article_at": "2026-09-12T08:00:00.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Petrolhead Corner – Mercedes-AMG Brings V8 Thunder With The New CLE 646 Spezialanfertigung",
+      "url": "https://monochrome-watches.com/the-petrolhead-corner-mercedes-benz-amg-cle-646-specialanfertigingv8-biturbo-limited-edition-specs-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-Mercedes-AMG-CLE-646-Spezialanfertigung-Featured-1.jpg",
+      "peek_preview": "It seems like we can’t go a week or two without a new power-hungry car manufacturer launching something bonkers. This time around, it’s the madmen of Mercedes-AMG who have surprisingly taken the covers off a new super-s...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-12T08:35:53.000Z",
+      "score_quality": 6,
+      "score_notif": 0,
+      "cluster": "20260912-3d0a4fb8ba58",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: Raymond Weil’s Black & White Millesime Small Seconds Tuxedo Dress Watch",
       "url": "https://www.ablogtowatch.com/hands-on-raymond-weils-black-white-millesime-small-seconds-tuxedo-dress-watch/",
@@ -481,7 +495,7 @@
       "score_quality": 83,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -688,10 +702,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1170,20 +1184,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The Jacob & Co. Brilliant Flying Tourbillon, with the First Diamond-Set Balance Wheel in Modern Watchmaking",
-      "url": "https://monochrome-watches.com/the-jacob-co-brilliant-flying-tourbillon-with-the-first-diamond-set-balance-wheel-in-modern-watchmaking/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/jacob-and-Co-Brilliant-Flying-Tourbillon-Baguette-Pastel-Arlequino-2-600x237.jpg",
-      "peek_preview": "You might have heard of diamonds as endstones on the balance staff and the escapement, but putting them onto the balance wheel? Now, if you were to think of one watchmaker to do it, though, it would be Jacob & Co, never...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T13:00:54.000Z",
-      "score_quality": 84,
-      "score_notif": 57,
-      "cluster": "20260909-5d5e92576d46",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: Alpina Catches Rays And Light With New Startimer Pilot Solarmetre And Alpiner Extreme Solarmetre X Route Du Rhum",
       "url": "https://www.hodinkee.com/articles/alpina-catches-rays-and-light-with-new-startimer-pilot-solarmetre-and-alpiner-extreme-solarmetre-x-r",
       "image": "https://hodinkee.imgix.net/uploads/images/88d4ab3b-f4dd-4277-8ef0-053d8f602041/PR_AL-140BT3AE6_HD.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1598,10 +1598,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
@@ -1724,10 +1724,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Quick Study: Lange & Söhne 1815 Up/Down",
