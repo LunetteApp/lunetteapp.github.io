@@ -1,6 +1,6 @@
 {
-  "content_hash": "103aca909e0adab2b71e4760662d3976b7de9e510a9670a082c9fd30d24caaac",
-  "last_updated": "2026-09-11T23:47:02.050Z",
+  "content_hash": "e80f15d5ae45f43d9a3f8e81e601c9427b8b0690e53c281b3c827dfacf6898ce",
+  "last_updated": "2026-09-12T00:47:07.646Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T03:00:19.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-12T00:00:54.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "G-SHOCK「G-STEEL GST-B1000」にバイオマスプラスティック製ストラップモデルが追加",
+      "url": "https://www.webchronos.net/news/172375/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/GSK_B1000_1.webp",
+      "peek_preview": "カシオは、シャープな造形と金属の質感が際立つG-SHOCK「G-STEEL GST-B1000」に、バイオマスプラスティック製ストラップモデルを追加した。シャープなステンレススティール製ベゼルを備えたカーボンファイバー強 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-12T00:00:54.000Z",
+      "score_quality": 67,
+      "score_notif": 42,
+      "cluster": "20260912-112eeb2e01b6",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Tudor Northflag",
       "url": "https://www.hodinkee.com/articles/the-tudor-northflag",
@@ -1306,7 +1320,7 @@
       "published_at": "2026-09-08T18:00:51.000Z",
       "score_quality": 96,
       "score_notif": 28,
-      "cluster": "20260908-781ee51f5768",
+      "cluster": "20260906-da72a73680d5",
       "cluster_main": true
     },
     {
@@ -1702,20 +1716,6 @@
       "cluster_main": true
     },
     {
-      "title": "エイレンがパイロットクロノグラフ「TYPE 20」の70周年を記念し、「TYPE 20 70 ANS」を発売",
-      "url": "https://www.webchronos.net/news/171802/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/AR_27_1.webp",
-      "peek_preview": "1950年代にフランス軍へ軍用時計を供給していた実績を持つエイレンから、ブランドを代表するパイロットクロノグラフ「Type 20」の誕生70周年を記念した「TYPE 20 70 ANS」を発表された。Type 20とは、 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-07T00:00:27.000Z",
-      "score_quality": 70,
-      "score_notif": 46,
-      "cluster": "20260907-1f762385b1ce",
-      "cluster_main": true
-    },
-    {
       "title": "Quick Study: Lange & Söhne 1815 Up/Down",
       "url": "https://www.unpolishedwatches.com/p/quick-study-lange-and-sohne-1815",
       "image": "https://substackcdn.com/image/fetch/$s_!cLBD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8018e47f-e2e1-4c3b-8568-8c527ff22192_1080x1440.png",
@@ -1727,7 +1727,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20260906-da72a73680d5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Promaster Diver Eco-Drive 200 m: tre nuovi modelli da 299 euro",
