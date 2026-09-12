@@ -1,6 +1,6 @@
 {
-  "content_hash": "68f09ae24dd5a3b12d6913f979b893ab5cb78313db512f49557ee510513acf3a",
-  "last_updated": "2026-09-12T08:46:59.731Z",
+  "content_hash": "eb42770c8dc2eb162658f263b60aca9891467e7c88a382f06d4f57bf726ddf8d",
+  "last_updated": "2026-09-12T09:46:48.806Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-12T05:00:27.000Z"
+      "estimated_articles_per_day": 3.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-12T09:00:32.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-12T08:35:53.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Fayy’s Manman Panda Watch Puts Chinese Inner Painting On Sapphire",
+      "url": "https://www.fratellowatches.com/fayy-manman-panda-watch/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2027/09/%E4%BA%A7%E5%93%81%E5%9C%BA%E6%99%AF%E5%9B%BE-2-e1789129215843.jpg",
+      "peek_preview": "Fayy is making its debut with something hard to ignore. The Hong Kong-based brand has introduced the Manman Panda, a 39mm titanium watch with a hand-painted panda on the underside of its sapphire crystal. It features Ch...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-12T09:00:32.000Z",
+      "score_quality": 68,
+      "score_notif": 32,
+      "cluster": "20260912-3a2031377643",
+      "cluster_main": true
+    },
     {
       "title": "The Petrolhead Corner – Mercedes-AMG Brings V8 Thunder With The New CLE 646 Spezialanfertigung",
       "url": "https://monochrome-watches.com/the-petrolhead-corner-mercedes-benz-amg-cle-646-specialanfertigingv8-biturbo-limited-edition-specs-price/",
@@ -492,10 +506,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -705,7 +719,7 @@
       "score_quality": 84,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1839,20 +1853,6 @@
       "score_quality": 33,
       "score_notif": 22,
       "cluster": "20260905-1658a69d561d",
-      "cluster_main": true
-    },
-    {
-      "title": "Live from GWD26: Kerbedanz 65’27’’ collection | Hands-on Impressions",
-      "url": "https://deployant.com/live-from-gwd26-kerbedanz-6527-collection-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-gwd26-kerbedanz-6527-collection-hands-on-impressions",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0627-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors I went to visit my friend Vahé Vartzbed, CEO of Kerbedanz, and he showed me the new 65’27”. An entirely new collection from Kerbedanz. Here is my hands-on imp...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-05T14:40:05.000Z",
-      "score_quality": 82,
-      "score_notif": 47,
-      "cluster": "20260905-1da253435f49",
       "cluster_main": true
     }
   ]
