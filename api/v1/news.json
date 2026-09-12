@@ -1,6 +1,6 @@
 {
-  "content_hash": "eb42770c8dc2eb162658f263b60aca9891467e7c88a382f06d4f57bf726ddf8d",
-  "last_updated": "2026-09-12T09:46:48.806Z",
+  "content_hash": "de26f0d13a302fc2f4575879899ce75b9d52324a036887e49390697245095c21",
+  "last_updated": "2026-09-12T11:47:20.723Z",
   "premium": {
     "links": []
   },
@@ -10,7 +10,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-12T09:00:32.000Z"
+      "latest_article_at": "2026-09-12T11:00:05.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.2,
+      "estimated_articles_per_day": 4.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-12T08:35:53.000Z"
     },
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T16:37:15.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Bangkok Watch Week 2026: A Growing Destination For Watch Collectors",
+      "url": "https://www.fratellowatches.com/bangkok-watch-week-2026/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Bkk-watch-week-cover.jpg",
+      "peek_preview": "Siam Paragon Bangkok Watch Week returns from September 22nd to 27th, 2026, for its second edition. The six-day event brings together more than 45 watch brands, over 200 new and rare timepieces, collectors, and watch ent...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-12T11:00:05.000Z",
+      "score_quality": 58,
+      "score_notif": 30,
+      "cluster": "20260911-6c5a96aabc0b",
+      "cluster_main": true
+    },
     {
       "title": "Fayy’s Manman Panda Watch Puts Chinese Inner Painting On Sapphire",
       "url": "https://www.fratellowatches.com/fayy-manman-panda-watch/",
@@ -409,9 +423,9 @@
       "featured": false,
       "published_at": "2026-09-11T13:00:00.000Z",
       "score_quality": 37,
-      "score_notif": 17,
+      "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
@@ -1124,7 +1138,7 @@
       "published_at": "2026-09-09T16:05:54.000Z",
       "score_quality": 84,
       "score_notif": 52,
-      "cluster": "20260909-5d1972c55fe1",
+      "cluster": "20260909-2026ab8d7391",
       "cluster_main": true
     },
     {
@@ -1210,20 +1224,6 @@
       "score_notif": 45,
       "cluster": "20260909-2b4677b5507b",
       "cluster_main": true
-    },
-    {
-      "title": "The David Candaux DC6 Wildfire Is A Scorcher On The Wrist!",
-      "url": "https://www.fratellowatches.com/the-david-candaux-dc6-wildfire/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/David-Candaux-GWD-2026-33.jpg",
-      "peek_preview": "Whenever I review a genuinely fascinating example of haute horlogerie, I’m constantly reminded that one never stops learning about watches. Yes, these wildly creative pieces make me feel like a neophyte. And so it is wh...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T11:00:44.000Z",
-      "score_quality": 64,
-      "score_notif": 52,
-      "cluster": "20260909-5d1972c55fe1",
-      "cluster_main": false
     },
     {
       "title": "Studio Underd0g turns its 02SERIES into a nightlight with the Special Edition 02SERIES Mantis",
@@ -1612,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
@@ -1738,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Quick Study: Lange & Söhne 1815 Up/Down",
