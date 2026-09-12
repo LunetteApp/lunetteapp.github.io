@@ -1,6 +1,6 @@
 {
-  "content_hash": "13078b455bd3f481c290a72639e571d5e4f947a677e32b6a3f3f140cf316ed01",
-  "last_updated": "2026-09-12T16:47:21.748Z",
+  "content_hash": "827ffb23cd5d2a3d808a3285ba5848d7e4d7afc0628801a8d378c7be8e845548",
+  "last_updated": "2026-09-12T17:46:53.577Z",
   "premium": {
     "links": []
   },
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-12T15:52:41.000Z"
     },
     {
@@ -57,7 +57,7 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-12T13:30:00.000Z"
     },
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-12T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-12T15:30:40.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -190,6 +190,20 @@
       "cluster_main": true
     },
     {
+      "title": "New releases from FP Journe, Jacob & Co, Delma and more",
+      "url": "https://timeandtidewatches.com/fp-journe-jacob-co-delma-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/delma-web.jpg",
+      "peek_preview": "This week brings some wildcards to the selection. In the dust that settled after Geneva Watch Days, François-Paul Journe announced a unique piece created with Prince Albert II of Monaco, to be auctioned for charity; Jac...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-12T15:30:40.000Z",
+      "score_quality": 32,
+      "score_notif": 14,
+      "cluster": "20260912-bc6ea07c16a7",
+      "cluster_main": true
+    },
+    {
       "title": "Weekend Reads: Bvlgari x Vianney Halter, CVSTOS Goes Ceramic, and Rolex's Charity Unique Daytonas",
       "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-09-12",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
@@ -254,10 +268,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-12T11:00:05.000Z",
-      "score_quality": 58,
+      "score_quality": 60,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fayy’s Manman Panda Watch Puts Chinese Inner Painting On Sapphire",
@@ -495,7 +509,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
@@ -1839,20 +1853,6 @@
       "score_quality": 28,
       "score_notif": 12,
       "cluster": "20260906-376ff8bcb19b",
-      "cluster_main": true
-    },
-    {
-      "title": "Chanel’s Entirely Blue Ceramic J12 Caliber 12.1 38mm Watch Hands-On",
-      "url": "https://www.ablogtowatch.com/chanels-entirely-blue-ceramic-j12-caliber-12-1-38mm-watch-hands-on/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Chanel-J12-Blue-Ceramic-38mm-H11684-watch-feature-1-768x346.jpg",
-      "peek_preview": "The timepiece landscape over the last few years has compelled me to examine smaller wristwatch sizes than I’d normally wear. That led me to this reference H11684 matte-blue Chanel J12 ceramic watch. Historically, I cast...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-06T07:01:56.000Z",
-      "score_quality": 78,
-      "score_notif": 23,
-      "cluster": "20260906-fdc936736d51",
       "cluster_main": true
     }
   ]
