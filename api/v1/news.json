@@ -1,6 +1,6 @@
 {
-  "content_hash": "0c115903871283bca4f8e2912ddf0782914b7c33437b2ab254981fe3f56b7e52",
-  "last_updated": "2026-09-12T03:47:07.794Z",
+  "content_hash": "afd5e85e708482f57e9d7c14eece0dbabc58d56d6eece03cc0901ea35f9a1e55",
+  "last_updated": "2026-09-12T05:46:57.521Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T09:00:46.000Z"
+      "estimated_articles_per_day": 3.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-12T05:00:27.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-12T03:00:31.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Girard-Perregaux Parties On With The Laureato Fifty Tourbillon Micro-Rotor 39mm Collection",
+      "url": "https://www.fratellowatches.com/girard-perregaux-laureato-fifty-tourbillon-micro-rotor-39mm/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/JPEG-BD-press-Savoir-Faire_Laureato_Tourbillon_39mm_Blue_enamel_99116-11-3528-1CM-1.jpg",
+      "peek_preview": "Girard-Perregaux has been on a roll with the Laureato. Last year’s 50th-anniversary limited edition introduced the refined 39mm size and the new GP4800 automatic. Then came the permanent steel models with enamel and sol...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-12T05:00:27.000Z",
+      "score_quality": 76,
+      "score_notif": 31,
+      "cluster": "20260910-d6a2d3176b35",
+      "cluster_main": false
+    },
     {
       "title": "モンブランより、インククロノグラフの発明をたたえる「スター レガシー ニコラ・リューセック クロノグラフ」が登場",
       "url": "https://www.webchronos.net/news/172402/",
@@ -450,10 +464,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -663,7 +677,7 @@
       "score_quality": 82,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -844,7 +858,7 @@
       "published_at": "2026-09-10T07:01:47.000Z",
       "score_quality": 78,
       "score_notif": 43,
-      "cluster": "20260910-d26383976902",
+      "cluster": "20260910-0a667b17052a",
       "cluster_main": true
     },
     {
@@ -873,7 +887,7 @@
       "score_quality": 76,
       "score_notif": 43,
       "cluster": "20260910-0a667b17052a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gray Ceramic Debuts On Two New Seiko Astron GPS Solar Dual Time Chronographs",
@@ -1212,20 +1226,6 @@
       "cluster_main": true
     },
     {
-      "title": "Louis Vuitton Expands The Tambour Spin Time With Five Colorful Permanent-Collection Models",
-      "url": "https://www.fratellowatches.com/louis-vuitton-expands-the-tambour-spin-time-with-five-colorful-permanent-collection-models/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/LV-Tambour-spintimemodels-GWD-2026-9.jpg",
-      "peek_preview": "Louis Vuitton is expanding the Tambour Spin Time collection with five new references, moving the latest generation of its distinctive jump-hour watch from limited editions into the permanent collection. The new watches...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T08:55:33.000Z",
-      "score_quality": 77,
-      "score_notif": 58,
-      "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
-    },
-    {
       "title": "Czapek returns to its Geneva roots with two very different shades of blue",
       "url": "https://timeandtidewatches.com/czapek-returns-to-its-geneva-roots-with-two-very-different-shades-of-blue/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-Czapek-Place-Vendome-Complicite-Glacie-Blue.jpg",
@@ -1405,7 +1405,7 @@
       "score_quality": 76,
       "score_notif": 58,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
