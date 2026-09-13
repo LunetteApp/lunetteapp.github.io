@@ -1,6 +1,6 @@
 {
-  "content_hash": "9d153ef8e1138333782529bdec8d3bf32e8ff491c1877e0453bd10d82742a1ce",
-  "last_updated": "2026-09-13T05:46:52.442Z",
+  "content_hash": "1b1cee2890948161b5327981d90da8e775d28e9e81f2454a83a0c85f3e57bdb4",
+  "last_updated": "2026-09-13T07:46:52.842Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-13T05:00:33.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-12T07:01:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-13T07:01:21.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-11T07:46:21.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Smoothest-Feeling Surfaces: Hands-On With Hublot’s Big Bang Original Soft Touch Watches",
+      "url": "https://www.ablogtowatch.com/the-smoothest-feeling-surfaces-hands-on-with-hublots-big-bang-original-soft-touch-watches/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hublot-Big-Bang-Original-Soft-Touch-Black-Red-Watches-4-768x346.jpg",
+      "peek_preview": "Innovation takes on different forms in the luxury watch industry. New mechanisms and complications are certainly one form of innovation that the industry celebrates, but so are materials science and the tactile experien...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-13T07:01:21.000Z",
+      "score_quality": 77,
+      "score_notif": 32,
+      "cluster": "20260910-0a667b17052a",
+      "cluster_main": true
+    },
     {
       "title": "Sunday Morning Showdown: Tudor Northflag Vs. Tudor Black Bay Pro",
       "url": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-northflag-vs-black-bay-pro/",
@@ -649,7 +663,7 @@
       "score_quality": 87,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -760,8 +774,8 @@
       "published_at": "2026-09-10T18:00:43.000Z",
       "score_quality": 69,
       "score_notif": 45,
-      "cluster": "20260909-2b4677b5507b",
-      "cluster_main": false
+      "cluster": "20260910-acc92952ca8b",
+      "cluster_main": true
     },
     {
       "title": "12 Watches With Complications You've Never Heard Of",
@@ -856,10 +870,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1067,9 +1081,9 @@
       "featured": false,
       "published_at": "2026-09-10T06:00:02.000Z",
       "score_quality": 76,
-      "score_notif": 43,
+      "score_notif": 32,
       "cluster": "20260910-0a667b17052a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gray Ceramic Debuts On Two New Seiko Astron GPS Solar Dual Time Chronographs",
@@ -1654,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
@@ -1780,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T01:00:54.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Quick Study: Lange & Söhne 1815 Up/Down",
@@ -1839,20 +1853,6 @@
       "score_quality": 28,
       "score_notif": 12,
       "cluster": "20260906-376ff8bcb19b",
-      "cluster_main": true
-    },
-    {
-      "title": "Chanel’s Entirely Blue Ceramic J12 Caliber 12.1 38mm Watch Hands-On",
-      "url": "https://www.ablogtowatch.com/chanels-entirely-blue-ceramic-j12-caliber-12-1-38mm-watch-hands-on/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Chanel-J12-Blue-Ceramic-38mm-H11684-watch-feature-1-768x346.jpg",
-      "peek_preview": "The timepiece landscape over the last few years has compelled me to examine smaller wristwatch sizes than I’d normally wear. That led me to this reference H11684 matte-blue Chanel J12 ceramic watch. Historically, I cast...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-06T07:01:56.000Z",
-      "score_quality": 72,
-      "score_notif": 23,
-      "cluster": "20260906-fdc936736d51",
       "cluster_main": true
     }
   ]
