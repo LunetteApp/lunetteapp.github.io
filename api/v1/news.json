@@ -1,6 +1,6 @@
 {
-  "content_hash": "fdb48256a567bca56a7910848150f9af4a7f2890431c5193e2c8d8c31e0fb6ca",
-  "last_updated": "2026-09-13T19:45:49.939Z",
+  "content_hash": "930d9849c12cf16f700b79b315a5da8d3dd6d178b3fbd90951d2bd90bf7077ac",
+  "last_updated": "2026-09-13T22:47:00.073Z",
   "premium": {
     "links": []
   },
@@ -10,7 +10,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-13T11:00:44.000Z"
+      "latest_article_at": "2026-09-13T22:01:33.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -106,9 +106,9 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T22:07:38.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-13T22:05:27.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Stirling Durrant: quando un orologio meccanico torna utile sul campo",
+      "url": "https://www.orologidiclasse.com/stirling-durrant-smartwatch-rischio-militari/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/stirling-durrant-orologio-militare.jpg",
+      "peek_preview": "Un’immagine pubblicata su Reddit mostra uno Stirling Durrant al polso di un militare, all’interno di quello che nei commenti viene identificato come un M1283, un nuovo veicolo corazzato dell’esercito statunitense. L’aut...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-13T22:05:27.000Z",
+      "score_quality": 48,
+      "score_notif": 13,
+      "cluster": "20260913-f780124d5388",
+      "cluster_main": true
+    },
+    {
+      "title": "Louis Vuitton Expands The Tambour Spin Time With Five Colorful Permanent-Collection Models",
+      "url": "https://www.fratellowatches.com/louis-vuitton-expands-the-tambour-spin-time-with-five-colorful-permanent-collection-models/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/LV-Tambour-spintimemodels-GWD-2026-9.jpg",
+      "peek_preview": "Louis Vuitton is expanding the Tambour Spin Time collection with five new references, moving the latest generation of its distinctive jump-hour watch from limited editions into the permanent collection. The new watches...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-13T22:01:33.000Z",
+      "score_quality": 80,
+      "score_notif": 30,
+      "cluster": "20260908-d1b27d53d4ec",
+      "cluster_main": true
+    },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
       "url": "https://timeandtidewatches.com/formex-essence-fortyone-arctic-white-hands-on/",
@@ -438,8 +466,8 @@
       "published_at": "2026-09-12T11:00:05.000Z",
       "score_quality": 64,
       "score_notif": 30,
-      "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": false
+      "cluster": "20260912-3e7f71164706",
+      "cluster_main": true
     },
     {
       "title": "Fayy’s Manman Panda Watch Puts Chinese Inner Painting On Sapphire",
@@ -1086,20 +1114,6 @@
       "cluster_main": true
     },
     {
-      "title": "A Lap Around The Track With The Facelifted And Downsized TAG Heuer Carrera Chronograph Sport",
-      "url": "https://www.fratellowatches.com/the-facelifted-and-downsized-tag-heuer-carrera-chronograph-sport/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/TAG-Heuer-Carrera-Chronograph-Sport-1.jpg",
-      "peek_preview": "Back in 2020, TAG Heuer introduced the Carrera Chronograph Sport for its 160th anniversary. The collection consisted of 44mm chronographs with either a stainless steel or ceramic bezel. Of course, they were attractive,...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T09:00:15.000Z",
-      "score_quality": 68,
-      "score_notif": 67,
-      "cluster": "20260907-9697345a4971",
-      "cluster_main": false
-    },
-    {
       "title": "GWD26 Armchair Pick: Reuben’s top 3 from the new releases",
       "url": "https://deployant.com/geneva-watch-days-2026-top-3-picks/?utm_source=rss&utm_medium=rss&utm_campaign=geneva-watch-days-2026-top-3-picks",
       "image": "https://deployant.com/wp-content/uploads/2026/09/99116-11-3615-1CM-99116-11-3528-1CM_Laureato_Tourbillon_MicroRotor_39mm.jpg",
@@ -1585,9 +1599,9 @@
       "featured": false,
       "published_at": "2026-09-08T13:00:58.000Z",
       "score_quality": 76,
-      "score_notif": 58,
+      "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1641,7 +1655,7 @@
       "featured": false,
       "published_at": "2026-09-08T09:00:04.000Z",
       "score_quality": 74,
-      "score_notif": 58,
+      "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
       "cluster_main": false
     },
@@ -1839,20 +1853,6 @@
       "score_quality": 48,
       "score_notif": 45,
       "cluster": "20260907-fc1e0af269b7",
-      "cluster_main": true
-    },
-    {
-      "title": "Actually Affordable: Vaer G2 Fairway GMT Golf Watch",
-      "url": "https://www.ablogtowatch.com/actually-affordable-vaer-g2-fairway-gmt-golf-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Vaer-G2-Fairway-GMT-Golf-Watch-768x346.jpg",
-      "peek_preview": "For the most part, Vaer has largely adhered to the classic genres of timepieces, such as divers, GMT’s, field watches, and racing chronographs. However, among the Los Angeles brand’s more recent (and unexpected) release...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T07:01:06.000Z",
-      "score_quality": 56,
-      "score_notif": 22,
-      "cluster": "20260907-b493188add49",
       "cluster_main": true
     }
   ]
