@@ -1,6 +1,6 @@
 {
-  "content_hash": "6ce58d52aafbfd53e164774516f5d8e99782549d518ca6f1f79ba4eb9b7839ba",
-  "last_updated": "2026-09-13T09:47:11.475Z",
+  "content_hash": "33800ca84710ff24886df48fd1998353a5863660e41e5e7127025df048c0789d",
+  "last_updated": "2026-09-13T10:47:02.594Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-13T09:00:20.000Z"
     },
     {
@@ -22,8 +22,8 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 4,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-13T09:35:06.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-13T08:00:09.000Z"
     },
     {
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T16:37:15.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-13T10:07:29.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Citizen Eco-Drive Funk-Chronographen 2026: Unkompliziert reisen",
+      "url": "https://www.uhrenkosmos.com/citizen-eco-drive-funk-chronographen-aus-titan/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Citizen-Eco-Drive-Funk-Chronograph-AT8396-59L-in-Blau-mit-Skyline-von-New-York-Bild-Jermaine-Ee-Unsplash.jpg",
+      "peek_preview": "Vier neue Citizen Eco-Drive Funk-Chronographen verbinden Weltzeit, Funkpräzision, Lichtantrieb und leichtes Super-Titanium zu einer robusten, wie recht unkomplizierten Reiseuhr.",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-13T10:07:29.000Z",
+      "score_quality": 56,
+      "score_notif": 42,
+      "cluster": "20260913-fbc3db92f0d1",
+      "cluster_main": true
+    },
     {
       "title": "Buying Guide – Jumping For Joy, With Six Of The Coolest Jumping Hour Watches",
       "url": "https://monochrome-watches.com/buying-guide-louis-vuitton-meistersinger-otsuka-lotec-de-bethune-amida-chronoswiss-jumping-hour-independent-watchmaking-specs-price-review/",
@@ -256,7 +270,7 @@
       "published_at": "2026-09-13T03:00:48.000Z",
       "score_quality": 68,
       "score_notif": 42,
-      "cluster": "20260906-a9d64f41d816",
+      "cluster": "20260913-ac7130f1a022",
       "cluster_main": true
     },
     {
@@ -1840,20 +1854,6 @@
       "score_notif": 44,
       "cluster": "20260906-6c9a847d57fd",
       "cluster_main": true
-    },
-    {
-      "title": "FounderFest: The Awake Sơn Mài – Frosted Leaf “Ultraviolet” is a lovesong in lacquer",
-      "url": "https://timeandtidewatches.com/awake-son-mai-ultraviolet-time-tide-studio-edition-video/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-awake-disintegration-time-tide-founders-fest-studio-edition.jpg",
-      "peek_preview": "Awake and Time+Tide join forces to create quite possibly the most captivating dial in the FounderFest collection The post FounderFest: The Awake Sơn Mài – Frosted Leaf “Ultraviolet” is a lovesong in lacquer appeared fir...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-06T11:01:27.000Z",
-      "score_quality": 67,
-      "score_notif": 42,
-      "cluster": "20260906-a9d64f41d816",
-      "cluster_main": false
     }
   ]
 }
