@@ -1,6 +1,6 @@
 {
-  "content_hash": "7e7abbbd6dc6f1cc2faebf4236ea7c4a5c2f893cff35520cc46e73a944fbed7d",
-  "last_updated": "2026-09-14T11:47:08.271Z",
+  "content_hash": "dcc70b5cb7f7f52609754fc16c077e8e690157887f3a5b517e912c80e03e008e",
+  "last_updated": "2026-09-14T12:47:12.501Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-14T07:00:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T12:01:47.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -57,16 +57,16 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-13T13:30:00.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T12:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T21:27:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T12:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T11:42:17.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The New Diamond-Set MB&F SP One Pavée",
+      "url": "https://monochrome-watches.com/diamond-set-mbandf-sp-one-pavee-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/MBandF_SP-One_Pavee_diamonds_review_10-600x237.jpg",
+      "peek_preview": "While it may be the smallest, slimmest and ultimately most wearable timepiece to hail from MB&F, the Special Project One carries its three-dimensional genetic heritage with pride. Launched last year, the SP One belongs...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-14T12:01:47.000Z",
+      "score_quality": 82,
+      "score_notif": 47,
+      "cluster": "20260914-d01f1a53b1f3",
+      "cluster_main": false
+    },
+    {
+      "title": "Hands-on: new MB&F SP One Pavée",
+      "url": "https://deployant.com/hands-on-new-mbf-sp-one-pavee/?utm_source=rss&utm_medium=rss&utm_campaign=hands-on-new-mbf-sp-one-pavee",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/MBF-SP1-diamonds-wrist.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors We got a preview of the new MB&F SP One Pavée at GWD26 up in their suite. Here is my hands-on impressions. As usual, we make our commentary in italics with ha...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-14T12:00:00.000Z",
+      "score_quality": 76,
+      "score_notif": 47,
+      "cluster": "20260914-d01f1a53b1f3",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: The MB&F SP One Pavée (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/the-mbandf-sp-one-pavee-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/de2186f0-fe81-4422-b398-a91ecfc64456/tan2h-mbandf-spone-pavee-09815-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The unexpected dress watch from the avant-garde independent gets all blinged out.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-14T12:00:00.000Z",
+      "score_quality": 85,
+      "score_notif": 47,
+      "cluster": "20260914-d01f1a53b1f3",
+      "cluster_main": true
+    },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale",
       "url": "https://www.perpetualpassion.com/2026/09/14/dentro-i-brevetti-rolex-dal-grande-date-a-un-nuovo-calendario-annuale/",
@@ -352,10 +394,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-13T22:01:33.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -621,7 +663,7 @@
       "score_quality": 70,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fayy’s Manman Panda Watch Puts Chinese Inner Painting On Sapphire",
@@ -856,10 +898,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T13:00:00.000Z",
-      "score_quality": 69,
+      "score_quality": 71,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
@@ -1054,8 +1096,8 @@
       "published_at": "2026-09-10T18:00:43.000Z",
       "score_quality": 69,
       "score_notif": 45,
-      "cluster": "20260909-2b4677b5507b",
-      "cluster_main": false
+      "cluster": "20260910-acc92952ca8b",
+      "cluster_main": true
     },
     {
       "title": "12 Watches With Complications You've Never Heard Of",
@@ -1209,20 +1251,6 @@
       "score_quality": 44,
       "score_notif": 8,
       "cluster": "20260910-ef708d54a760",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Latest Patria from Tutima; Grade 5 Titanium meets 18k Gold",
-      "url": "https://monochrome-watches.com/tutima-patria-grade-5-titanium-and-18k-gold-calibre-617-in-house-6612-09-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Tutima-Patria-Grade-5-Titanium-and-18k-Gold-Calibre-617-in-house-6612-09-1-600x237.jpg",
-      "peek_preview": "While Tutima gained popularity thanks to its purposeful pilot watches, aviation-themed chronographs and robust adventure-driven collections, one of the brand’s lineups certainly stands apart from the rest and shouldn’t...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T13:00:24.000Z",
-      "score_quality": 78,
-      "score_notif": 41,
-      "cluster": "20260910-4094344b2586",
       "cluster_main": true
     },
     {
@@ -1520,20 +1548,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Alpina Catches Rays And Light With New Startimer Pilot Solarmetre And Alpiner Extreme Solarmetre X Route Du Rhum",
-      "url": "https://www.hodinkee.com/articles/alpina-catches-rays-and-light-with-new-startimer-pilot-solarmetre-and-alpiner-extreme-solarmetre-x-r",
-      "image": "https://hodinkee.imgix.net/uploads/images/88d4ab3b-f4dd-4277-8ef0-053d8f602041/PR_AL-140BT3AE6_HD.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The value-driven Swiss brand embraces new solar quartz movements by sister movement maker La Joux-Perret.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T13:00:00.000Z",
-      "score_quality": 73,
-      "score_notif": 45,
-      "cluster": "20260909-2b4677b5507b",
-      "cluster_main": true
-    },
-    {
       "title": "Studio Underd0g turns its 02SERIES into a nightlight with the Special Edition 02SERIES Mantis",
       "url": "https://timeandtidewatches.com/studio-underd0g-02series-mantis-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-studio-underdog-series02-mantis.jpg",
@@ -1685,7 +1699,7 @@
       "score_quality": 85,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1824,7 +1838,7 @@
       "published_at": "2026-09-07T17:19:33.000Z",
       "score_quality": 87,
       "score_notif": 68,
-      "cluster": "20260907-e386e1af77d4",
+      "cluster": "20260907-b91e4d5eb7c4",
       "cluster_main": true
     },
     {
@@ -1840,20 +1854,6 @@
       "score_notif": 51,
       "cluster": "20260902-9110617fa7f9",
       "cluster_main": true
-    },
-    {
-      "title": "F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation Prince Albert II de Monaco",
-      "url": "https://www.perpetualpassion.com/2026/09/07/fp-journe-chronographe-fondation-prince-albert-ii-monaco-2026/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/S.A.S.-le-Prince-Albert-II-de-Monaco-et-Francois-Paul-Journe-%C2%A9Philippe-Fitte-1100x733.jpg",
-      "peek_preview": "François-Paul Journe torna al cronografo, ma questa volta lo fa nella sua forma più classica. Il nuovo Chronographe [...] L'articolo F.P. Journe presenta il suo primo cronografo classico: un pezzo unico per la Fondation...",
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-07T15:54:15.000Z",
-      "score_quality": 86,
-      "score_notif": 68,
-      "cluster": "20260907-e386e1af77d4",
-      "cluster_main": false
     }
   ]
 }
