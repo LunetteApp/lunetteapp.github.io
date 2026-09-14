@@ -1,6 +1,6 @@
 {
-  "content_hash": "d755fc4e4bed9f3a21586f6d3de8ebbff36a21ae62d9379f2f0a32ee0ef4e1aa",
-  "last_updated": "2026-09-14T06:47:10.596Z",
+  "content_hash": "257d71e97b99d6596629f7cdb668599edbc5e75b53a7e39b22efc9f560e34e75",
+  "last_updated": "2026-09-14T07:47:12.846Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-13T09:35:06.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T07:00:23.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-13T07:01:21.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T07:01:08.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T06:07:00.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: Bulgari Octo Finissimo Dazzle Watch",
+      "url": "https://www.ablogtowatch.com/hands-on-bulgari-octo-finissimo-dazzle-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Bulgari-Octo-Finissimo-Dazzle-featured-768x346.jpg",
+      "peek_preview": "Some (in fact almost all) watches require minutes, hours, sometimes days to help one make up their mind about it. Not the new Bulgari Octo Finissimo Dazzle. Chances are that you look at it, and will immediately be drawn...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-14T07:01:08.000Z",
+      "score_quality": 79,
+      "score_notif": 33,
+      "cluster": "20260908-d7fff3c19bfb",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The new Louis Moinet Moon Meteor",
+      "url": "https://monochrome-watches.com/louis-moinet-moon-meteor-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Louis-Moinet-Moon-Meteor-review-1-600x237.jpg",
+      "peek_preview": "Astronomy is part of Louis Moinet‘s history, who created the “compteur de tierces” chronograph specifically for celestial observations. The brand bearing his name has kept the connection alive through its multiple space...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-14T07:00:23.000Z",
+      "score_quality": 83,
+      "score_notif": 45,
+      "cluster": "20260914-58815bfae42e",
+      "cluster_main": true
+    },
     {
       "title": "Casio x Café Kitsuné : une montre, un matcha et l’addition !",
       "url": "https://www.welovewatches.fr/casio-x-cafe-kitsune-une-montre-un-matcha-et-laddition.html",
@@ -257,7 +285,7 @@
       "score_quality": 82,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -523,7 +551,7 @@
       "score_quality": 68,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fayy’s Manman Panda Watch Puts Chinese Inner Painting On Sapphire",
@@ -758,10 +786,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T13:00:00.000Z",
-      "score_quality": 67,
+      "score_quality": 69,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
@@ -856,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -1055,7 +1083,7 @@
       "score_quality": 90,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1170,20 +1198,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The Chronoswiss Neo Digiteur Pastel Code Brings Fresh Tones to the Collection",
-      "url": "https://monochrome-watches.com/chronoswiss-neo-digiteur-pastel-code-collection-jumping-hour-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Chronoswiss-Neo-Digiteur-Pastel-Code-editions-review-1-600x237.jpg",
-      "peek_preview": "Chronoswiss founder Gerd Lang will forever be remembered as the watchmaker who produced the world’s first serially produced wristwatch with a regulator layout in 1987. Without a shared central axis, the separation of ho...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T08:01:09.000Z",
-      "score_quality": 79,
-      "score_notif": 43,
-      "cluster": "20260910-036c23e57aca",
-      "cluster_main": true
-    },
-    {
       "title": "The Chronoswiss Neo Digiteur Pastel Code gives its mechanical digital display a colourful new identity",
       "url": "https://timeandtidewatches.com/chronoswiss-neo-digiteur-pastel-code-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-chronoswiss-neo-digiteur-pastel-code-1.jpg",
@@ -1195,7 +1209,7 @@
       "score_quality": 73,
       "score_notif": 43,
       "cluster": "20260910-036c23e57aca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot Big Bang Original 20th Anniversary Red Magic & All Black Ceramic Watches Hands-On",
@@ -1543,9 +1557,9 @@
       "featured": false,
       "published_at": "2026-09-08T23:05:48.000Z",
       "score_quality": 75,
-      "score_notif": 47,
+      "score_notif": 33,
       "cluster": "20260908-d7fff3c19bfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Dopo il CasiOak Arriva il CasioNaut? Ecco i Nuovi G-Shock GAC-2500 e GMC-2500",
@@ -1612,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T13:00:58.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1724,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-07T21:01:04.000Z",
-      "score_quality": 69,
+      "score_quality": 76,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Bvlgari Titanio GMT—The Aluminium Takes on a New Metal, Same Sport-Chic Attitude",
@@ -1840,20 +1854,6 @@
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
       "cluster_main": false
-    },
-    {
-      "title": "Hands-On Debut: The TAG Heuer Carrera Chronograph Sport Watch Is Now Sharper, Smaller, And More Refined",
-      "url": "https://www.ablogtowatch.com/hands-on-debut-the-tag-heuer-carrera-chronograph-sport-watch-is-now-sharper-smaller-and-more-refined/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/TAG-Heuer-Carrera-Chronograph-Sport-LOR-Crop-768x346.jpg",
-      "peek_preview": "With the striking, retro-futuristic “Glassbox” Carrera arguably becoming the face of the brand, it can be easy to forget that TAG Heuer still offers its most versatile chronograph with a more conventional, bezel-equippe...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T09:00:05.000Z",
-      "score_quality": 92,
-      "score_notif": 67,
-      "cluster": "20260907-9697345a4971",
-      "cluster_main": true
     }
   ]
 }
