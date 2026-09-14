@@ -1,6 +1,6 @@
 {
-  "content_hash": "69a1c17879490aebb3a65ed328c28998d65e5dd6218c8af08dda84bd748dd21c",
-  "last_updated": "2026-09-14T09:47:24.071Z",
+  "content_hash": "7e7abbbd6dc6f1cc2faebf4236ea7c4a5c2f893cff35520cc46e73a944fbed7d",
+  "last_updated": "2026-09-14T11:47:08.271Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T09:00:31.000Z"
     },
     {
@@ -93,8 +93,8 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-07T15:54:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T11:42:17.000Z"
     },
     {
       "source_name": "Watch Insanity",
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T08:50:22.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale",
+      "url": "https://www.perpetualpassion.com/2026/09/14/dentro-i-brevetti-rolex-dal-grande-date-a-un-nuovo-calendario-annuale/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/rolex-grand-date-new2-1100x1100.png",
+      "peek_preview": "Negli ultimi mesi diversi brevetti Rolex hanno iniziato a delineare un quadro più interessante di quanto possa sembrare [...] L'articolo Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale proviene da...",
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-14T11:42:17.000Z",
+      "score_quality": 78,
+      "score_notif": 56,
+      "cluster": "20260914-2d82a782eabb",
+      "cluster_main": true
+    },
     {
       "title": "Experience The Charm Of Contemporary Watchmaking At Milano Watch Week 2026",
       "url": "https://www.fratellowatches.com/milano-watch-week-2026/",
@@ -341,7 +355,7 @@
       "score_quality": 84,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -1040,8 +1054,8 @@
       "published_at": "2026-09-10T18:00:43.000Z",
       "score_quality": 69,
       "score_notif": 45,
-      "cluster": "20260910-acc92952ca8b",
-      "cluster_main": true
+      "cluster": "20260909-2b4677b5507b",
+      "cluster_main": false
     },
     {
       "title": "12 Watches With Complications You've Never Heard Of",
@@ -1668,10 +1682,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T13:00:58.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1840,20 +1854,6 @@
       "score_notif": 68,
       "cluster": "20260907-e386e1af77d4",
       "cluster_main": false
-    },
-    {
-      "title": "GWD26 Armchair Pick: Robin’s top 3 from the new release",
-      "url": "https://deployant.com/gwd26-armchair-pick-robins-top-3-from-the-new-release/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-armchair-pick-robins-top-3-from-the-new-release",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0613-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors This year’s Geneva Watch Day turns out to be relatively more interesting than most of the other watch fairs in recent memory. There is this feeling that brand...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T13:30:00.000Z",
-      "score_quality": 24,
-      "score_notif": 8,
-      "cluster": "20260907-83695b751b6f",
-      "cluster_main": true
     }
   ]
 }
