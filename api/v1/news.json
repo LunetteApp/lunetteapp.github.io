@@ -1,6 +1,6 @@
 {
-  "content_hash": "dc5a8af747cc01853f52bb50cc9f6df8a1f8ff5c4874995083aedac0448b898e",
-  "last_updated": "2026-09-14T05:47:20.052Z",
+  "content_hash": "d755fc4e4bed9f3a21586f6d3de8ebbff36a21ae62d9379f2f0a32ee0ef4e1aa",
+  "last_updated": "2026-09-14T06:47:10.596Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T05:00:06.000Z"
     },
     {
@@ -127,9 +127,9 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T07:46:21.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T06:07:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Casio x Café Kitsuné : une montre, un matcha et l’addition !",
+      "url": "https://www.welovewatches.fr/casio-x-cafe-kitsune-une-montre-un-matcha-et-laddition.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/aq-230eck-3a_une.jpg",
+      "peek_preview": "Casio continue de faire vivre son catalogue Vintage à coups de collaborations. La marque japonaise s'associe à Café Kitsuné pour habiller son AQ-230 d'un cadran vert matcha, dans une référence assumée à la culture japon...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-14T06:07:00.000Z",
+      "score_quality": 32,
+      "score_notif": 43,
+      "cluster": "20260914-c70126ba6118",
+      "cluster_main": true
+    },
     {
       "title": "Three Times Tudor Got The Design Brief Completely Right",
       "url": "https://www.fratellowatches.com/three-times-tudor-got-the-design-brief-completely-right/",
@@ -506,10 +520,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-12T11:00:05.000Z",
-      "score_quality": 66,
+      "score_quality": 68,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fayy’s Manman Panda Watch Puts Chinese Inner Painting On Sapphire",
@@ -747,7 +761,7 @@
       "score_quality": 67,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
@@ -845,7 +859,7 @@
       "score_quality": 89,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -1038,10 +1052,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1839,20 +1853,6 @@
       "score_quality": 92,
       "score_notif": 67,
       "cluster": "20260907-9697345a4971",
-      "cluster_main": true
-    },
-    {
-      "title": "CIGA Design marks 65th anniversary of first successful Chinese Everest ascent",
-      "url": "https://timeandtidewatches.com/ciga-design-marks-65th-anniversary-of-first-successful-chinese-everest-ascent/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/CIGA-Design-Everest-Feature.jpg",
-      "peek_preview": "CIGA design celebrates the 65th anniversary of China’s first ascent of Mt. Everest via the North Ridge. The watch features an automaton of Liu Lianman’s “human ladder” that allowed his fellow climbers to successfully pa...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T08:00:47.000Z",
-      "score_quality": 48,
-      "score_notif": 45,
-      "cluster": "20260907-fc1e0af269b7",
       "cluster_main": true
     }
   ]
