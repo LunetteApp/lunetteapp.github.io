@@ -1,6 +1,6 @@
 {
-  "content_hash": "2446fd867dfc9bb694c6e3eb3680e9a76667340c6a9b8766ca9562a7672deffd",
-  "last_updated": "2026-09-14T03:47:14.287Z",
+  "content_hash": "dc5a8af747cc01853f52bb50cc9f6df8a1f8ff5c4874995083aedac0448b898e",
+  "last_updated": "2026-09-14T05:47:20.052Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-13T22:01:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T05:00:06.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T03:00:10.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Three Times Tudor Got The Design Brief Completely Right",
+      "url": "https://www.fratellowatches.com/three-times-tudor-got-the-design-brief-completely-right/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/08/P7200147.jpg",
+      "peek_preview": "After writing about Tudor’s habit of arriving at a genuinely excellent design and then quietly undercutting it, it felt only fair to go looking for counterexamples. I wanted to find watches that show Tudor committed ful...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-14T05:00:06.000Z",
+      "score_quality": 42,
+      "score_notif": 10,
+      "cluster": "20260914-94564a14ad0e",
+      "cluster_main": true
+    },
     {
       "title": "ノモス グラスヒュッテ「テトラ」に新作2モデルが登場！ 自社製手巻きムーブメントを楽しめるシースルーバックを採用",
       "url": "https://www.webchronos.net/news/171682/",
@@ -226,10 +240,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-13T22:01:33.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -495,7 +509,7 @@
       "score_quality": 66,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fayy’s Manman Panda Watch Puts Chinese Inner Painting On Sapphire",
@@ -730,10 +744,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T13:00:00.000Z",
-      "score_quality": 65,
+      "score_quality": 67,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
@@ -942,8 +956,8 @@
       "published_at": "2026-09-10T18:00:43.000Z",
       "score_quality": 69,
       "score_notif": 45,
-      "cluster": "20260910-acc92952ca8b",
-      "cluster_main": true
+      "cluster": "20260909-2b4677b5507b",
+      "cluster_main": false
     },
     {
       "title": "12 Watches With Complications You've Never Heard Of",
@@ -1014,20 +1028,6 @@
       "score_notif": 50,
       "cluster": "20260910-ff12433aa917",
       "cluster_main": true
-    },
-    {
-      "title": "Back To The Roots With The Panerai Luminor Firenze 8 Giorni PAM01794",
-      "url": "https://www.fratellowatches.com/back-to-the-roots-with-the-panerai-luminor-firenze-8-giorni-pam01794/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Panerai-Luminor-Firenze-8-Giorni-PAM01794-2.jpg",
-      "peek_preview": "This year is an important one for Panerai. The brand is commemorating the centenary of its long-standing store, Orologeria Svizzera, in Florence. To celebrate 100 years of the famous boutique with its breathtaking views...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T16:00:46.000Z",
-      "score_quality": 76,
-      "score_notif": 50,
-      "cluster": "20260910-ff12433aa917",
-      "cluster_main": false
     },
     {
       "title": "Insider: CVSTOS Sealiner PS Arman Tsarukyan Edition—100 Pieces in the Brand's First-Ever Ceramic Case",
@@ -1601,7 +1601,7 @@
       "score_quality": 81,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
