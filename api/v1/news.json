@@ -1,6 +1,6 @@
 {
-  "content_hash": "c3fdf46901f05c51f0493b457e54b1069a5ec330ecf41f11b1b03fb7e37dd655",
-  "last_updated": "2026-09-14T13:47:42.306Z",
+  "content_hash": "54578d71e8cd71b9a8a02a9e8877ffcbada1c0626e7a9ee18fc1895e31873047",
+  "last_updated": "2026-09-14T15:47:25.471Z",
   "premium": {
     "links": []
   },
@@ -15,15 +15,15 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
+      "estimated_articles_per_day": 1.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-12T19:00:27.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 4,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T13:01:28.000Z"
     },
     {
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-14T13:00:00.000Z"
+      "latest_article_at": "2026-09-14T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
+      "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T08:00:39.000Z"
     },
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-13T10:07:29.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T15:29:57.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Frederique Constant Highlife Moonphase Date Manufacture: Evolution statt Revolution!",
+      "url": "https://www.uhrenkosmos.com/frederique-constant-highlife-moonphase-date/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Frederique-Constant-Highlife-Moonphase-Date-Manufacture-mit-Champagner-farbernem-Zifferblatt-Referenz-FC-716RG3NH6.jpg",
+      "peek_preview": "Frederique Constant überträgt das 2024 eingeführte Manufakturkaliber FC-716 erstmals in die sportlichere Highlife-Kollektion. Aus dem bewährten Werk der Classic-Linie wird dabei keine neue Uhr im eigentlichen Sinn, sond...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-14T15:29:57.000Z",
+      "score_quality": 64,
+      "score_notif": 44,
+      "cluster": "20260914-0e272db13c36",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Victorinox Maverick (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/victorinox-maverick-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/22c713a7-9653-4c55-84aa-490870947bd9/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Victorinox refreshes the Maverick line into something contemporary, classic, and (potentially) harder to ignore.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-14T15:00:00.000Z",
+      "score_quality": 80,
+      "score_notif": 48,
+      "cluster": "20260914-a3be11a33d88",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The new Venezianico Redentore Levius, Italian Power and Titanium Case",
       "url": "https://monochrome-watches.com/venezianico-redentore-levius-italian-made-movement-titanium-case-guilloche-dial-review-price/",
@@ -212,10 +240,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:01:47.000Z",
-      "score_quality": 82,
+      "score_quality": 86,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-on: new MB&F SP One Pavée",
@@ -243,7 +271,7 @@
       "score_quality": 85,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale",
@@ -914,8 +942,8 @@
       "published_at": "2026-09-11T13:00:02.000Z",
       "score_quality": 38,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster": "20260911-d05ea2dd79c8",
+      "cluster_main": true
     },
     {
       "title": "Happenings: Siam Paragon Bangkok Watch Week Is Back For 2026",
@@ -1012,8 +1040,8 @@
       "published_at": "2026-09-11T07:46:21.000Z",
       "score_quality": 67,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster": "20260911-c0df6c123b4a",
+      "cluster_main": true
     },
     {
       "title": "CVSTOS Challenge Sealiner Arman Tsarukyan Edition White Ceramic Watch Hands-On",
@@ -1418,8 +1446,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster": "20260909-036323a41246",
+      "cluster_main": true
     },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
@@ -1436,20 +1464,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Apple Announces The Apple Watch Series 12 And Apple Watch Ultra 4 (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/apple-announces-the-apple-watch-series-12-and-apple-watch-ultra-4-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/70858cd3-3543-476b-b446-cea310c09666/a12-h.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Let's Ternus attention to Apple Watch.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T20:00:00.000Z",
-      "score_quality": 84,
-      "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": true
-    },
-    {
       "title": "New Release: Apple Watch Ultra 4 Upgrades The Brand’s Flagship Smartwatch",
       "url": "https://www.ablogtowatch.com/new-release-apple-watch-ultra-4-upgrades-the-brands-flagship-smartwatch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Apple-Watch-Ultra-4-Smartwatch-768x346.jpg",
@@ -1461,7 +1475,7 @@
       "score_quality": 62,
       "score_notif": 72,
       "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -1839,20 +1853,6 @@
       "score_quality": 74,
       "score_notif": 49,
       "cluster": "20260907-27503cd7556c",
-      "cluster_main": true
-    },
-    {
-      "title": "F.P. Journe Unveils Unique Chronographe to Benefit Monaco Charity",
-      "url": "https://watchesbysjx.com/2026/09/fp-journe-chronographe-fondation-prince-albert-ii-monaco.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/FP-Journe-Chronograph-Prince-Albert-II-of-Monaco-Foundation-3x2-header-1-300x200.jpg",
-      "peek_preview": "F.P. Journe and H.S.H. Prince Albert II of Monaco have announced the creation of the one-off Chronographe Fondation Prince Albert II De Monaco for the monarch’s upcoming charity auction. The Chronographe Fondation evolv...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T17:19:33.000Z",
-      "score_quality": 87,
-      "score_notif": 68,
-      "cluster": "20260907-b91e4d5eb7c4",
       "cluster_main": true
     }
   ]
