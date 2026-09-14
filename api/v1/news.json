@@ -1,6 +1,6 @@
 {
-  "content_hash": "ba2a8f60616a9008eff70f19501ecc4f7c50fb7a7e404afdd130092d0a79a024",
-  "last_updated": "2026-09-14T16:47:38.648Z",
+  "content_hash": "188350510ee0ebd0118a90e930820d3b0137d009e1774da7375ecf2f7c35157b",
+  "last_updated": "2026-09-14T17:47:02.396Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T16:05:38.000Z"
     },
     {
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T15:55:26.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T16:20:40.000Z"
     },
     {
@@ -282,10 +282,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:01:47.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-on: new MB&F SP One Pavée",
@@ -313,7 +313,7 @@
       "score_quality": 87,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale",
@@ -481,7 +481,7 @@
       "score_quality": 86,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -1083,7 +1083,7 @@
       "score_quality": 91,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -1234,10 +1234,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1738,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T13:00:58.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1839,6 +1839,20 @@
       "score_quality": 99,
       "score_notif": 30,
       "cluster": "20260907-26e60eac68be",
+      "cluster_main": true
+    },
+    {
+      "title": "TAG Heuer Unveils New Carrera Chronograph Sport Editions Ahead of Spanish Grand Prix",
+      "url": "https://teddybaldassarre.com/blogs/watches/tag-heuer-carrera-chronograph-sport-42mm",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/TAG-Heuer-Carrera-Chrono-Sport-blue-2.jpg?v=1788544585",
+      "peek_preview": "The TAG Heuer Carrera Chronograph Sport, a modern evolution of the brand’s iconic motorsport-inspired Carrera from 1963, debuted in 2020, TAG Heuer’s 160th anniversary year, alongside the decidedly more understated Carr...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-07T21:01:04.000Z",
+      "score_quality": 58,
+      "score_notif": 24,
+      "cluster": "20260907-aa4273144a71",
       "cluster_main": true
     }
   ]
