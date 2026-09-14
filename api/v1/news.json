@@ -1,6 +1,6 @@
 {
-  "content_hash": "188350510ee0ebd0118a90e930820d3b0137d009e1774da7375ecf2f7c35157b",
-  "last_updated": "2026-09-14T17:47:02.396Z",
+  "content_hash": "635d52c6fefb639c5738dc1a512a6e57d63c1e7df6e647ffcd5f7b608b6e9129",
+  "last_updated": "2026-09-14T19:47:06.608Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-12T19:00:27.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-14T19:00:43.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Benrus Brings Its Military History into the Modern Era with the New Type 3X Collection",
+      "url": "https://wornandwound.com/benrus-brings-its-military-history-into-the-modern-era-with-the-new-type-3x-collection/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Benrus-Type-3X-8.jpg",
+      "peek_preview": "The Benrus Type I and Type II are among the category of iconic military watches that first took root in the 1940s around WWII with the famous Dirty Dozen. The Type I and II are an extension of this lineage with designs...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-14T19:00:43.000Z",
+      "score_quality": 76,
+      "score_notif": 49,
+      "cluster": "20260914-0302b1d876de",
+      "cluster_main": false
+    },
+    {
       "title": "Insider: MB&F Special Project One Pavée—The SP One Does Diamonds",
       "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-sp-one-pavee-diamonds-live-photos",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1789401817959-SF0W03TFOWW2UBU45Z0A/MB%26F+SP+One+Pave%CC%81e-7.jpg?format=1500w",
@@ -285,7 +299,7 @@
       "score_quality": 88,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-on: new MB&F SP One Pavée",
@@ -296,10 +310,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:00:00.000Z",
-      "score_quality": 76,
+      "score_quality": 89,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The MB&F SP One Pavée (Live Pics)",
@@ -1066,7 +1080,7 @@
       "lang": "fr",
       "featured": false,
       "published_at": "2026-09-11T07:46:21.000Z",
-      "score_quality": 67,
+      "score_quality": 77,
       "score_notif": 72,
       "cluster": "20260911-c0df6c123b4a",
       "cluster_main": true
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -1237,7 +1251,7 @@
       "score_quality": 92,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1460,8 +1474,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260909-036323a41246",
-      "cluster_main": true
+      "cluster": "20260911-c0df6c123b4a",
+      "cluster_main": false
     },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
@@ -1488,8 +1502,8 @@
       "published_at": "2026-09-09T19:24:06.000Z",
       "score_quality": 62,
       "score_notif": 72,
-      "cluster": "20260909-bb43cc6865a0",
-      "cluster_main": true
+      "cluster": "20260911-c0df6c123b4a",
+      "cluster_main": false
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -1517,20 +1531,6 @@
       "score_quality": 57,
       "score_notif": 45,
       "cluster": "20260909-1d8855417945",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On Impressions of the New M.A.D.Editions M.A.D.3 Vincent Calabrese",
-      "url": "https://wornandwound.com/hands-on-impressions-of-the-new-m-a-d-editions-m-a-d-3-vincent-calabrese/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/MAD_1-2.jpg",
-      "peek_preview": "One of the splashiest Geneva Watch Days releases this year was the all new M.A.D.3, the latest entry in the ongoing series from M.A.D.Editions, the popular MB&F spinoff. You’re probably pretty familiar with the M.A.D. p...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T16:00:23.000Z",
-      "score_quality": 99,
-      "score_notif": 63,
-      "cluster": "20260909-b63031c04710",
       "cluster_main": true
     },
     {
