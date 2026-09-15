@@ -1,6 +1,6 @@
 {
-  "content_hash": "71e6e02310091e5291bc307f129a471fe4ad9a0a599879c03924eccc2a45fe99",
-  "last_updated": "2026-09-15T05:47:12.257Z",
+  "content_hash": "59b36b1767ba0012bde00ba0b28bd527f31ae3bd9fcfefa2e50f681008c36f0c",
+  "last_updated": "2026-09-15T06:47:29.040Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T05:00:35.000Z"
     },
     {
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-14T12:00:00.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T06:40:41.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T05:30:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New: Tutima Patria two tone dial",
+      "url": "https://deployant.com/new-tutima-patria-two-tone-dial/?utm_source=rss&utm_medium=rss&utm_campaign=new-tutima-patria-two-tone-dial",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/Tutima_Patria_6612-09_Beauty-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Tutima releases a new Patria with a two tone aesthetic – a titanium case, with a silvered dial, gold hands and a gilt movement. The novelty is priced at EUR 9...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T06:40:41.000Z",
+      "score_quality": 64,
+      "score_notif": 35,
+      "cluster": "20260915-d69bbe150f7b",
+      "cluster_main": true
+    },
     {
       "title": "Kelton Racing 1975 : la montre néo vintage accessible française",
       "url": "https://www.welovewatches.fr/kelton-racing-1975-la-montre-neo-vintage-accessible-francaise.html",
@@ -551,7 +565,7 @@
       "score_quality": 88,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -817,7 +831,7 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fayy’s Manman Panda Watch Puts Chinese Inner Painting On Sapphire",
@@ -1052,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T13:00:00.000Z",
-      "score_quality": 71,
+      "score_quality": 73,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
@@ -1752,10 +1766,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T13:00:58.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1839,20 +1853,6 @@
       "score_quality": 78,
       "score_notif": 33,
       "cluster": "20260908-ee4cd19eda38",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: Daniel Roth Extra Plat Rose Gold Gilt—An Abandoned Dial Technique Brought Back to Life",
-      "url": "https://www.watchcollectinglifestyle.com/home/daniel-roth-extra-plat-rose-gold-gilt-dial",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1788809676121-T8AGLUTHEN8UY535Y7BJ/Daniel+Roth+Extra+Plat+Rose+Gold+Gilt-1.jpg?format=1500w",
-      "peek_preview": "Daniel Roth's post-revival strategy has largely been about proving that the founder's design language—the double-ellipse case, the guilloché dials, the montre objet d'art ethos—can be executed with contemporary rigor wi...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-07T23:18:45.000Z",
-      "score_quality": 99,
-      "score_notif": 30,
-      "cluster": "20260907-26e60eac68be",
       "cluster_main": true
     }
   ]
