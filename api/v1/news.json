@@ -1,6 +1,6 @@
 {
-  "content_hash": "a9719861df8eb7d141df24a53f88b6d666adde40f78b20888f4e3e10cd0f4e81",
-  "last_updated": "2026-09-15T00:46:57.508Z",
+  "content_hash": "cbd60bce356dcb7b5a3c48c8058825ff63deafe893ee4525e39722af20bdd3c7",
+  "last_updated": "2026-09-15T03:46:51.417Z",
   "premium": {
     "links": []
   },
@@ -164,7 +164,7 @@
       "lang": "ja",
       "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-15T00:00:59.000Z"
+      "latest_article_at": "2026-09-15T03:00:08.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "アーミン・シュトロームが深いブルーをまとった「デュアル・タイム GMT レゾナンス マニュファクチュール・エディション・ブルー」を発表",
+      "url": "https://www.webchronos.net/news/172588/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/AS_dualtimegmt_1.webp",
+      "peek_preview": "アーミン・シュトロームが、「デュアル・タイム GMT レゾナンス マニュファクチュール・エディション・ブルー」を発表した。本作はブルーのPVD加工を施したプレートとふたつのホワイトダイアルを組み合わせた世界限定50本の稀 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-15T03:00:08.000Z",
+      "score_quality": 74,
+      "score_notif": 52,
+      "cluster": "20260915-bdc6e6a60ca7",
+      "cluster_main": true
+    },
     {
       "title": "映画『ルックバック』主演の出口夏希が第83回ヴェネチア国際映画祭でまとったシャネルとは？",
       "url": "https://www.webchronos.net/news/172744/",
@@ -408,10 +422,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T07:01:08.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 33,
       "cluster": "20260908-d7fff3c19bfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The new Louis Moinet Moon Meteor",
@@ -506,10 +520,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-13T22:01:33.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -1408,20 +1422,6 @@
       "cluster_main": true
     },
     {
-      "title": "ユンハンスが50気圧防水を備えた新スポーツウォッチシリーズ「アクアリス」を発表",
-      "url": "https://www.webchronos.net/news/172338/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/JH_ad_1.webp",
-      "peek_preview": "ユンハンスは、50気圧防水という高い防水性能とインナー回転ベゼルを備えたスポーツウォッチシリーズ「アクアリス」を発表した。ダイビング用途を重視した「アクアリス ダイバー」2モデルと、鮮やかな文字盤を採用した「アクアリス […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-10T03:00:14.000Z",
-      "score_quality": 63,
-      "score_notif": 47,
-      "cluster": "20260910-331ecf558927",
-      "cluster_main": true
-    },
-    {
       "title": "Hands On: Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor",
       "url": "https://watchesbysjx.com/2026/09/girard-perregaux-laureato-fifty-tourbillon-micro-rotor-review.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Girard-Perregaux-Laureato-Fifty-Tourbillon-Microrotor-39-mm-enamel-300x200.jpg",
@@ -1474,8 +1474,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260911-c0df6c123b4a",
-      "cluster_main": false
+      "cluster": "20260909-036323a41246",
+      "cluster_main": true
     },
     {
       "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
@@ -1502,8 +1502,8 @@
       "published_at": "2026-09-09T19:24:06.000Z",
       "score_quality": 62,
       "score_notif": 72,
-      "cluster": "20260911-c0df6c123b4a",
-      "cluster_main": false
+      "cluster": "20260909-bb43cc6865a0",
+      "cluster_main": true
     },
     {
       "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
@@ -1671,7 +1671,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20260908-d7fff3c19bfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Dopo il CasiOak Arriva il CasioNaut? Ecco i Nuovi G-Shock GAC-2500 e GMC-2500",
@@ -1741,7 +1741,7 @@
       "score_quality": 87,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
