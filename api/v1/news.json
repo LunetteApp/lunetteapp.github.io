@@ -1,6 +1,6 @@
 {
-  "content_hash": "156d6553497801017e41966e642fb82bb424d3e9a9fbff3aedc5bd1927d3bec3",
-  "last_updated": "2026-09-15T17:47:20.838Z",
+  "content_hash": "f157cceed359ac548f9a236a2a42119cf0989531804f52fd363c760aee8ba2ee",
+  "last_updated": "2026-09-15T18:46:57.792Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T17:33:40.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T17:00:13.000Z"
     },
     {
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T16:50:59.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T16:46:06.000Z"
     },
     {
@@ -408,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T14:00:50.000Z",
-      "score_quality": 68,
+      "score_quality": 81,
       "score_notif": 48,
       "cluster": "20260914-a3be11a33d88",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six Omega Stopwatches And A Lost NZ Racetrack",
@@ -534,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T08:23:39.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
@@ -607,7 +607,7 @@
       "score_quality": 90,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -761,7 +761,7 @@
       "score_quality": 80,
       "score_notif": 48,
       "cluster": "20260914-a3be11a33d88",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The new Venezianico Redentore Levius, Italian Power and Titanium Case",
@@ -1390,8 +1390,8 @@
       "published_at": "2026-09-11T13:00:02.000Z",
       "score_quality": 38,
       "score_notif": 72,
-      "cluster": "20260911-d05ea2dd79c8",
-      "cluster_main": true
+      "cluster": "20260911-c0df6c123b4a",
+      "cluster_main": false
     },
     {
       "title": "Happenings: Siam Paragon Bangkok Watch Week Is Back For 2026",
@@ -1772,20 +1772,6 @@
       "cluster_main": true
     },
     {
-      "title": "Six From Seiko: A Roundup of Amazing Chronographs From the Depths of (Relative) Obscurity",
-      "url": "https://wornandwound.com/six-from-seiko-a-roundup-of-amazing-chronographs-from-the-depths-of-relative-obscurity/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Seiko-Sportura-99.jpg",
-      "peek_preview": "Vintage Seiko, as most collectors know, is a rich tapestry. Once you learn the story of Colonel William Pogue, or try to track down the funky bracelet that Bruce Lee paired with his own Speed-Timer, the wormholes natura...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T20:00:18.000Z",
-      "score_quality": 46,
-      "score_notif": 12,
-      "cluster": "20260909-1bf6d352dcb6",
-      "cluster_main": true
-    },
-    {
       "title": "New Release: Apple Watch Ultra 4 Upgrades The Brand’s Flagship Smartwatch",
       "url": "https://www.ablogtowatch.com/new-release-apple-watch-ultra-4-upgrades-the-brands-flagship-smartwatch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Apple-Watch-Ultra-4-Smartwatch-768x346.jpg",
@@ -1853,6 +1839,20 @@
       "score_quality": 58,
       "score_notif": 38,
       "cluster": "20260909-6b10aeb8d5a5",
+      "cluster_main": true
+    },
+    {
+      "title": "The DWISS S1 15th Anniversary Edition Celebrates A Major Milestone With Two Celestially Inspired Wandering Hour Watches",
+      "url": "https://www.ablogtowatch.com/the-dwiss-s1-15th-anniversary-edition-celebrates-a-major-milestone-with-two-celestially-inspired-wandering-hour-watches/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/DWISS-S1-15th-Anniversary-Edition-24-768x329.jpeg",
+      "peek_preview": "Since its inception 15 years ago, DWISS has never been content with a standard interpretation of time or a conservative approach to watchmaking. Throughout the brand’s lineup, you’ll find everything from displaced hours...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-09T14:00:13.000Z",
+      "score_quality": 48,
+      "score_notif": 17,
+      "cluster": "20260909-a9389c1fea61",
       "cluster_main": true
     }
   ]
