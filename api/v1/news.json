@@ -1,6 +1,6 @@
 {
-  "content_hash": "635d52c6fefb639c5738dc1a512a6e57d63c1e7df6e647ffcd5f7b608b6e9129",
-  "last_updated": "2026-09-14T19:47:06.608Z",
+  "content_hash": "a9719861df8eb7d141df24a53f88b6d666adde40f78b20888f4e3e10cd0f4e81",
+  "last_updated": "2026-09-15T00:46:57.508Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T19:00:43.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-14T03:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T00:00:59.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "映画『ルックバック』主演の出口夏希が第83回ヴェネチア国際映画祭でまとったシャネルとは？",
+      "url": "https://www.webchronos.net/news/172744/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/CN_lb_1.webp",
+      "peek_preview": "2026年9月2〜12日（現地時間）までイタリア・リド島で開催されていた、第83回ヴェネチア国際映画祭。日本からの出品作として国内で注目が集まっていた是枝裕和監督の『ルックバック』は「Cinema & Arts […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-15T00:00:59.000Z",
+      "score_quality": 4,
+      "score_notif": 0,
+      "cluster": "20260915-e1524f202718",
+      "cluster_main": true
+    },
     {
       "title": "Benrus Brings Its Military History into the Modern Era with the New Type 3X Collection",
       "url": "https://wornandwound.com/benrus-brings-its-military-history-into-the-modern-era-with-the-new-type-3x-collection/",
@@ -313,7 +327,7 @@
       "score_quality": 89,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The MB&F SP One Pavée (Live Pics)",
@@ -324,10 +338,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:00:00.000Z",
-      "score_quality": 87,
+      "score_quality": 90,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale",
@@ -397,7 +411,7 @@
       "score_quality": 79,
       "score_notif": 33,
       "cluster": "20260908-d7fff3c19bfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The new Louis Moinet Moon Meteor",
@@ -1097,7 +1111,7 @@
       "score_quality": 93,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -1248,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1419,20 +1433,6 @@
       "score_quality": 88,
       "score_notif": 31,
       "cluster": "20260910-d6a2d3176b35",
-      "cluster_main": true
-    },
-    {
-      "title": "ベゼルを回すとリュウズが現れるカシオ「プロトレック」の新作「PRJ-01」が登場",
-      "url": "https://www.webchronos.net/news/172069/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/casio_PRJ01_1.webp",
-      "peek_preview": "カシオ「プロトレック」の新作として、ロータリーガードベゼルを採用したアウトドアウォッチ「PRJ-01」が登場した。バリエーションモデルとなる「PRJ-01AE」には、バックパックなどへの取り付けを可能にするカラビナアタッ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-10T00:00:31.000Z",
-      "score_quality": 72,
-      "score_notif": 45,
-      "cluster": "20260910-4a4940b603bb",
       "cluster_main": true
     },
     {
@@ -1668,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T23:05:48.000Z",
-      "score_quality": 75,
+      "score_quality": 80,
       "score_notif": 33,
       "cluster": "20260908-d7fff3c19bfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Dopo il CasiOak Arriva il CasioNaut? Ecco i Nuovi G-Shock GAC-2500 e GMC-2500",
