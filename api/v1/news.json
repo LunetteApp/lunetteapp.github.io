@@ -1,6 +1,6 @@
 {
-  "content_hash": "02d0d306c380d0bf3ff38403819278900ce867e930966e31f844928f00b6b5bf",
-  "last_updated": "2026-09-15T19:47:03.300Z",
+  "content_hash": "37416fceb9a7773d3eaa6029f0209b33506719fcdc1397d947c6fc9198f3553b",
+  "last_updated": "2026-09-15T20:47:01.368Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T14:00:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T20:00:10.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T18:52:41.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T17:00:13.000Z"
     },
@@ -134,9 +134,9 @@
     {
       "source_name": "Le Calibre",
       "lang": "fr",
-      "estimated_articles_per_day": 0,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-03T19:34:13.000Z"
+      "estimated_articles_per_day": 0.1,
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-09-15T20:17:03.000Z"
     },
     {
       "source_name": "Uhrenkosmos",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "BlackOut Watches Singularity : Un tourbillon flottant à un prix très raisonnable !",
+      "url": "https://www.lecalibre.com/blackout-watches-singularity/?utm_source=rss&utm_medium=rss&utm_campaign=blackout-watches-singularity",
+      "image": "https://www.lecalibre.com/wp-content/uploads/2026/09/blackout-singularity-tourbillon-avis.jpg",
+      "peek_preview": "Après The Wormhole, Blackout Watches poursuit son exploration de l’univers des trous noirs avec Singularity. Cette fois la marque ne propose pas une seule montre, le concept est divisé en deux modèles : Black Hole et Wh...",
+      "source_name": "Le Calibre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-15T20:17:03.000Z",
+      "score_quality": 52,
+      "score_notif": 25,
+      "cluster": "20260915-09d0fc1315a0",
+      "cluster_main": true
+    },
+    {
+      "title": "Casio Edifice EFK-200 : Une nouvelle automatique très réussie à petit prix ?",
+      "url": "https://www.lecalibre.com/casio-edifice-efk-200/?utm_source=rss&utm_medium=rss&utm_campaign=casio-edifice-efk-200",
+      "image": "https://www.lecalibre.com/wp-content/uploads/2026/09/casio-EFK-200-cadran.jpg",
+      "peek_preview": "Après nous avoir surpris en 2025 avec sa toute première montre automatique EFK-100, Casio remet ça, avec un produit qui promet d’être encore plus abouti. La marque japonaise vient de dévoiler son EFK-200, toujours intég...",
+      "source_name": "Le Calibre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-15T20:00:51.000Z",
+      "score_quality": 55,
+      "score_notif": 38,
+      "cluster": "20260915-3d6ced95c6b3",
+      "cluster_main": true
+    },
+    {
+      "title": "Rolex Introduces the Perpetual Padellone, a New Annual Calendar",
+      "url": "https://wornandwound.com/rolex-introduces-the-perpetual-padellone-a-new-annual-calendar/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Rolex-Padellon-banner.jpg",
+      "peek_preview": "Big news from Rolex today as the brand has released a complicated dress watch, their first in recent memory. The Perpetual Padellon is an instantaneous annual calendar with a moonphase complication and sits within the 1...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T20:00:10.000Z",
+      "score_quality": 78,
+      "score_notif": 83,
+      "cluster": "20260915-091f8005ad2a",
+      "cluster_main": false
+    },
     {
       "title": "New Release: Rolex Perpetual Padellone Annual Calendar Watches Pay Tribute To A Vintage Grail",
       "url": "https://www.ablogtowatch.com/new-release-rolex-perpetual-padellone-annual-calendar-watches-pay-tribute-to-a-vintage-grail/",
@@ -548,10 +590,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T08:23:39.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
@@ -621,7 +663,7 @@
       "score_quality": 92,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -1486,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -1615,7 +1657,7 @@
       "score_quality": 98,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1643,20 +1685,6 @@
       "score_quality": 76,
       "score_notif": 51,
       "cluster": "20260910-c9632ccec105",
-      "cluster_main": true
-    },
-    {
-      "title": "Review: the Matador 35L Global Travel Pack",
-      "url": "https://wornandwound.com/review/review-the-matador-35l-global-travel-pack/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Matador_GTP35_013_WR.jpg",
-      "peek_preview": "Earlier this year, I had the opportunity to meet some of the team from Matador and was let in on a massive secret: Matador had plans to replace almost its entire line of soft goods. Unlike other manufacturers, this woul...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T14:00:23.000Z",
-      "score_quality": 30,
-      "score_notif": 1,
-      "cluster": "20260910-41e89ef8ee55",
       "cluster_main": true
     },
     {
@@ -1825,34 +1853,6 @@
       "score_quality": 57,
       "score_notif": 45,
       "cluster": "20260909-1d8855417945",
-      "cluster_main": true
-    },
-    {
-      "title": "Milano Watch Week x Dubai Watch Week: due città, una sola community",
-      "url": "https://italianwatchspotter.com/milano-watch-week-x-dubai-watch-week/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/FINAL-dww-x-mww26-press-release-ENG-030926-1024x577.jpeg",
-      "peek_preview": "Milano e Dubai distano migliaia di chilometri, ma quando si parla di orologeria le distanze possono diventare sorprendentemente brevi. Milano Watch Week e Dubai Watch Week si incontrano per dare vita a un nuovo dialogo...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-09T16:00:00.000Z",
-      "score_quality": 46,
-      "score_notif": 24,
-      "cluster": "20260909-7051b2b36144",
-      "cluster_main": true
-    },
-    {
-      "title": "New dials for the Zelos Helmsman Diver make it a hard watch to pin down",
-      "url": "https://timeandtidewatches.com/zelos-helmsman-ss-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-zelos-helmsman-ss-garnett-teal-mop.jpg",
-      "peek_preview": "Zelos just launched a new set of dials for the Helmsmann SS, with combinations of carbon fibre, natural stone and mother-of-pearl The post New dials for the Zelos Helmsman Diver make it a hard watch to pin down appeared...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T15:00:18.000Z",
-      "score_quality": 58,
-      "score_notif": 38,
-      "cluster": "20260909-6b10aeb8d5a5",
       "cluster_main": true
     }
   ]
