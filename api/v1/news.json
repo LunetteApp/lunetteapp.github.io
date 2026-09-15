@@ -1,6 +1,6 @@
 {
-  "content_hash": "d4fd08e614ab5f4ae874ed49db56a432de271e4aa1d429ed4657606ef954565a",
-  "last_updated": "2026-09-15T07:47:56.988Z",
+  "content_hash": "12ed799150f9efe6c5abe9d92dcc7dcddb5099d2fc9c6703b38bcf2e85cc9ced",
+  "last_updated": "2026-09-15T08:47:27.605Z",
   "premium": {
     "links": []
   },
@@ -24,13 +24,13 @@
       "lang": "en",
       "estimated_articles_per_day": 4.1,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-15T07:00:07.000Z"
+      "latest_article_at": "2026-09-15T08:23:39.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T07:01:07.000Z"
     },
     {
@@ -50,9 +50,9 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-14T15:55:26.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T07:58:38.000Z"
     },
     {
       "source_name": "Deployant",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T07:00:00.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "First Look – IWC Celebrates 50 Years Of The Genta-Designed Ingenieur SL With Two Ingenieur Automatic Limited Editions",
+      "url": "https://monochrome-watches.com/firt-look-iwc-schaffhausen-ingenieur-automatic-40mm-35mm-gerald-genta-50th-aniversary-iw328910-iw324909-specs-price-pics/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/IWC-Schaffhausen-Ingenieur-Automatic-40-IW328910-Ingenieur-Automatic-35-IW324909-Featured-600x237.jpg",
+      "peek_preview": "Birthdays are to be celebrated, so it’s no surprise IWC Schaffhausen honours the 50th anniversary of one of its most pivotal watches, the Ingenieur SL. Introduced in 1976 and penned by Gérald Genta, the Ingenieur SL was...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T08:23:39.000Z",
+      "score_quality": 85,
+      "score_notif": 67,
+      "cluster": "20260915-b34f0257a129",
+      "cluster_main": true
+    },
+    {
+      "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
+      "url": "https://www.atimelyperspective.com/iwc-celebrates-50-years-of-gentas-ingenieur-with-two-limited-editions/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/IW328910_Front_Small-1024x1024.jpg",
+      "peek_preview": "Some watches are instant successes. Others have to wait for the world to catch up. The IWC Ingenieur SL designed by Gérald Genta falls decidedly into the latter camp. When the bold stainless-steel Ingenieur SL Reference...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T07:58:38.000Z",
+      "score_quality": 77,
+      "score_notif": 67,
+      "cluster": "20260915-b34f0257a129",
+      "cluster_main": false
+    },
+    {
       "title": "Review: Casio G-Shock Gravitymaster GWR-B3000 Watch Features New Error-Detecting Tough Movement 2",
       "url": "https://www.ablogtowatch.com/review-casio-g-shock-gravitymaster-gwr-b3000-watch-features-new-error-detecting-tough-movement-2/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Casio-G-Shock-Gravitymaster-GWRB300A-2A-watch-10-768x346.jpg",
@@ -213,9 +241,9 @@
       "featured": false,
       "published_at": "2026-09-15T07:00:00.000Z",
       "score_quality": 83,
-      "score_notif": 68,
+      "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -509,7 +537,7 @@
       "score_quality": 81,
       "score_notif": 33,
       "cluster": "20260908-d7fff3c19bfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The new Louis Moinet Moon Meteor",
@@ -607,7 +635,7 @@
       "score_quality": 90,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -872,7 +900,7 @@
       "published_at": "2026-09-12T11:00:05.000Z",
       "score_quality": 74,
       "score_notif": 30,
-      "cluster": "20260911-6c5a96aabc0b",
+      "cluster": "20260912-3e7f71164706",
       "cluster_main": true
     },
     {
@@ -929,7 +957,7 @@
       "score_quality": 89,
       "score_notif": 31,
       "cluster": "20260910-d6a2d3176b35",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "モンブランより、インククロノグラフの発明をたたえる「スター レガシー ニコラ・リューセック クロノグラフ」が登場",
@@ -1044,20 +1072,6 @@
       "cluster_main": true
     },
     {
-      "title": "Highlights: Magnificent Pocket Watches at Sotheby’s Hong Kong",
-      "url": "https://watchesbysjx.com/2026/09/sothebys-hong-kong-pocket-watches-fall-2026.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Sothebys-Hong-Kong-September-2026-pocket-watches-300x200.jpg",
-      "peek_preview": "In exactly a week, Sotheby’s Hong Kong will stage Important Watches, an impressive, two-day auction that includes a selection of outstanding pocket watches from Switzerland and Great Britain, namely timepieces by Patek...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-11T14:07:47.000Z",
-      "score_quality": 62,
-      "score_notif": 14,
-      "cluster": "20260911-f2661322bc92",
-      "cluster_main": true
-    },
-    {
       "title": "GWD26 Armchair Pick: Stanley’s top 3 from the new release",
       "url": "https://deployant.com/gwd26-armchair-pick-stanleys-top-3-from-the-new-release/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-armchair-pick-stanleys-top-3-from-the-new-release",
       "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0624-Large.jpeg",
@@ -1069,20 +1083,6 @@
       "score_quality": 24,
       "score_notif": 14,
       "cluster": "20260911-9d9c537b5318",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Delma Adds a Meteorite Dial to its Midland Automatic",
-      "url": "https://monochrome-watches.com/delma-midland-automatic-meteorite-integrated-sports-watch-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Delma-Midland-Automatic-Meteorite-1-600x237.jpg",
-      "peek_preview": "Delma’s Midland collection is the brand’s sporty-chic take on the integrated-bracelet watch, bringing some 1980s flavour to the category. The watches in this collection come in two sizes, 40mm and 34mm, with the automat...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-11T13:00:59.000Z",
-      "score_quality": 69,
-      "score_notif": 41,
-      "cluster": "20260911-964a516e9203",
       "cluster_main": true
     },
     {
@@ -1111,7 +1111,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
@@ -1472,10 +1472,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T01:00:18.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 31,
       "cluster": "20260910-d6a2d3176b35",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Speake-Marin Ripples Portobello—A Lavender Dial That Changes in the Light",
@@ -1710,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T23:05:48.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 33,
       "cluster": "20260908-d7fff3c19bfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Dopo il CasiOak Arriva il CasioNaut? Ecco i Nuovi G-Shock GAC-2500 e GMC-2500",
@@ -1780,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T13:00:58.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1840,20 +1840,6 @@
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
       "cluster_main": false
-    },
-    {
-      "title": "FounderFest by Time+Tide 2026: 7 nuovi orologi accendono la scena indipendente",
-      "url": "https://italianwatchspotter.com/timetide-founderfest-2026/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/awake-1-6a980598035e1-683x1024.webp",
-      "peek_preview": "Ideato da Time+Tide, il nuovo appuntamento di FounderFest dedicato all’orologeria indipendente debutterà il 19 e 20 settembre 2026 contemporaneamente nei Watch Discovery Studios di Melbourne, Londra e New York, mettendo...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-08T08:00:00.000Z",
-      "score_quality": 46,
-      "score_notif": 18,
-      "cluster": "20260908-7a22faa2ae08",
-      "cluster_main": true
     }
   ]
 }
