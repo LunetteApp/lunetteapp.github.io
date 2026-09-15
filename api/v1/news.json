@@ -1,6 +1,6 @@
 {
-  "content_hash": "4e369664267128821ed58b1b56b42ccf29ecfe844626fd715e61ce9c28458cd8",
-  "last_updated": "2026-09-15T09:47:26.592Z",
+  "content_hash": "510759446f4506c02b6eda2eeff0bdb5f36feb4a92d95ff43c425086e7a0cc5c",
+  "last_updated": "2026-09-15T10:47:11.437Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T05:00:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T10:00:22.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T07:00:00.000Z"
+      "estimated_articles_per_day": 2.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T10:34:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-15T07:53:26.000Z"
+      "latest_article_at": "2026-09-15T10:00:28.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Introducing: Supernova Serena Williams Gets Her Own Audemars Piguet Royal Oak",
+      "url": "https://www.hodinkee.com/articles/supernova-serena-williams-gets-her-own-audemars-piguet-royal-oak",
+      "image": "https://hodinkee.imgix.net/uploads/images/1fc9a0f7-1e5e-47d6-ac26-b65fe405ff11/Option_01.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The new chronograph makes a compelling case for the power of pink.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T10:34:00.000Z",
+      "score_quality": 76,
+      "score_notif": 55,
+      "cluster": "20260915-958b2d079056",
+      "cluster_main": true
+    },
+    {
+      "title": "The Tissot PRX Chronograph goes quartz in three sharp new dial colours",
+      "url": "https://timeandtidewatches.com/tissot-prx-quartz-chronograph-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-tissot-prx-chrono-quartz.webp",
+      "peek_preview": "Tissot expands the PRX collection with a new 41mm quartz chronograph, featuring three ultra clean, vertically brushed dials. The post The Tissot PRX Chronograph goes quartz in three sharp new dial colours appeared first...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T10:00:28.000Z",
+      "score_quality": 66,
+      "score_notif": 45,
+      "cluster": "20260915-000e067df067",
+      "cluster_main": true
+    },
+    {
+      "title": "50 Years Of IWC’s Ingenieur SL Designed By Gérald Genta — A New IWC Ingenieur Automatic In Two Sizes",
+      "url": "https://www.fratellowatches.com/50-years-of-iwcs-ingenieur-sl-designed-by-gerald-genta-a-new-iwc-ingenieur-automatic-in-two-sizes/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/IWC-Ingenieur-50th-8.jpg",
+      "peek_preview": "Gérald Genta designed many masterpieces during his lifetime, but the IWC Ingenieur SL is often mentioned in the same breath as two of his greatest designs from the same decade. The IWC Ingenieur SL1832 was introduced in...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T10:00:22.000Z",
+      "score_quality": 80,
+      "score_notif": 67,
+      "cluster": "20260915-b34f0257a129",
+      "cluster_main": false
+    },
+    {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
       "url": "https://italianwatchspotter.com/jonah-hill-naoya-hida-nh-type-1/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-alle-10.39.00-862x1024.png",
@@ -201,7 +243,7 @@
       "score_quality": 85,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
@@ -268,10 +310,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:00:00.000Z",
-      "score_quality": 83,
+      "score_quality": 86,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -467,7 +509,7 @@
       "score_quality": 92,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-on: new MB&F SP One Pavée",
@@ -492,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:00:00.000Z",
-      "score_quality": 90,
+      "score_quality": 93,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale",
@@ -509,6 +551,20 @@
       "score_quality": 78,
       "score_notif": 56,
       "cluster": "20260914-2d82a782eabb",
+      "cluster_main": true
+    },
+    {
+      "title": "Il canto del tempo: il click a forma di cutrettola del Grand Seiko 9SA4",
+      "url": "https://italianwatchspotter.com/grand-seiko-9sa4-cutrettola-carica-manuale/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/Senza-titolo3.png",
+      "peek_preview": "Quanti appassionati di orologi trovano soddisfazione e appagamento nel quotidiano gesto rituale, quasi contemplativo, di caricare manualmente il proprio segnatempo? Si pensi a quegli attimi di quiete, la mattina magari,...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-14T09:00:00.000Z",
+      "score_quality": 72,
+      "score_notif": 18,
+      "cluster": "20260914-570ba02e26e3",
       "cluster_main": true
     },
     {
@@ -562,10 +618,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T07:01:08.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 33,
       "cluster": "20260908-d7fff3c19bfb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The new Louis Moinet Moon Meteor",
@@ -663,7 +719,7 @@
       "score_quality": 92,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -928,7 +984,7 @@
       "published_at": "2026-09-12T11:00:05.000Z",
       "score_quality": 74,
       "score_notif": 30,
-      "cluster": "20260912-3e7f71164706",
+      "cluster": "20260911-6c5a96aabc0b",
       "cluster_main": true
     },
     {
@@ -972,20 +1028,6 @@
       "score_notif": 24,
       "cluster": "20260912-8c0d6bd546c2",
       "cluster_main": true
-    },
-    {
-      "title": "Girard-Perregaux Parties On With The Laureato Fifty Tourbillon Micro-Rotor 39mm Collection",
-      "url": "https://www.fratellowatches.com/girard-perregaux-laureato-fifty-tourbillon-micro-rotor-39mm/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/JPEG-BD-press-Savoir-Faire_Laureato_Tourbillon_39mm_Blue_enamel_99116-11-3528-1CM-1.jpg",
-      "peek_preview": "Girard-Perregaux has been on a roll with the Laureato. Last year’s 50th-anniversary limited edition introduced the refined 39mm size and the new GP4800 automatic. Then came the permanent steel models with enamel and sol...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-12T05:00:27.000Z",
-      "score_quality": 89,
-      "score_notif": 31,
-      "cluster": "20260910-d6a2d3176b35",
-      "cluster_main": false
     },
     {
       "title": "モンブランより、インククロノグラフの発明をたたえる「スター レガシー ニコラ・リューセック クロノグラフ」が登場",
@@ -1139,7 +1181,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20260911-6c5a96aabc0b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
@@ -1206,10 +1248,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -1363,7 +1405,7 @@
       "score_quality": 94,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1377,20 +1419,6 @@
       "score_quality": 30,
       "score_notif": 44,
       "cluster": "20260910-3bf4451b7705",
-      "cluster_main": true
-    },
-    {
-      "title": "Recommended Reading: \"Bubble Backs\" By Masahiro Endo Is An Education On The Original Rolex Collectors' Watch",
-      "url": "https://www.hodinkee.com/articles/recommended-reading-bubblebacks",
-      "image": "https://hodinkee.imgix.net/uploads/images/95bccf2b-8191-4cbf-934d-503ebbca8168/20260908_BubblebackBook_010.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The dealer of Private Eyes said that, for him, everything started with the Rolex Bubbleback, and it will end there. Now, he's sharing everything he knows about collecting's greatest minefield.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T15:00:00.000Z",
-      "score_quality": 65,
-      "score_notif": 8,
-      "cluster": "20260910-98886f58fe21",
       "cluster_main": true
     },
     {
@@ -1741,7 +1769,7 @@
       "score_quality": 82,
       "score_notif": 33,
       "cluster": "20260908-d7fff3c19bfb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Dopo il CasiOak Arriva il CasioNaut? Ecco i Nuovi G-Shock GAC-2500 e GMC-2500",
@@ -1808,10 +1836,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-08T13:00:58.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1825,34 +1853,6 @@
       "score_quality": 41,
       "score_notif": 26,
       "cluster": "20260908-4433a1421359",
-      "cluster_main": true
-    },
-    {
-      "title": "Gerald Charles Masterlink Atelier Edition: Handarbeit mit Borromini-Lächeln",
-      "url": "https://www.uhrenkosmos.com/gerald-charles-masterlink-atelier-edition-2026/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Opener-Gerald-Charles-Masterlink-Atelier-Edition-Gelbgold-und-Weissgold.jpg",
-      "peek_preview": "Mit der Gerald Charles Masterlink Atelier Edition verbindet die Marke ihr asymmetrisches Borromini-Gehäuse mit einem handgehämmerten Maillechort-Zifferblatt. Die jeweils 25 Exemplare gibt es in Golden Rose, Rhodium und...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-09-08T12:22:40.000Z",
-      "score_quality": 61,
-      "score_notif": 42,
-      "cluster": "20260908-539920166084",
-      "cluster_main": true
-    },
-    {
-      "title": "Urwerk Looks 1,000 Years Ahead With Baroque-Like Unique Amadeus",
-      "url": "https://www.atimelyperspective.com/urwerk-looks-1000-years-ahead-with-baroque-like-unique-amadeus/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/ur-1001-amadeus_pr-769x1024.jpg",
-      "peek_preview": "There are few watch brands capable of making a 1,000-year mechanical counter seem almost logical. Urwerk is one of them. The independent Swiss brand has spent nearly three decades challenging conventional notions of how...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-08T12:03:21.000Z",
-      "score_quality": 68,
-      "score_notif": 41,
-      "cluster": "20260908-594c5288b4af",
       "cluster_main": true
     }
   ]
