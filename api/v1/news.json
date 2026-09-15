@@ -1,6 +1,6 @@
 {
-  "content_hash": "37416fceb9a7773d3eaa6029f0209b33506719fcdc1397d947c6fc9198f3553b",
-  "last_updated": "2026-09-15T20:47:01.368Z",
+  "content_hash": "0a1007dd661162ff057ccde6ef9e7c40ada3230274a6580f6845461bad6e0404",
+  "last_updated": "2026-09-15T21:46:59.314Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T20:00:10.000Z"
     },
     {
@@ -43,8 +43,8 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-09-15T16:00:10.000Z"
     },
     {
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T14:55:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T21:16:12.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -135,7 +135,7 @@
       "source_name": "Le Calibre",
       "lang": "fr",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T20:17:03.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Rolex Perpetual Padellone: il ritorno che nessuno si aspettava",
+      "url": "https://www.watchinsanity.it/rolex-perpetual-padellone-2026/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Rolex_Perpetual_Padellone_Watch_Insanity_01-1024x682.jpg",
+      "peek_preview": "Rolex presenta il nuovo Perpetual Padellone: 39 mm, calendario annuale, fasi lunari, calibro 7190 e un design ispirato alla Ref. 8171. The post Rolex Perpetual Padellone: il ritorno che nessuno si aspettava appeared fir...",
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-15T21:16:12.000Z",
+      "score_quality": 43,
+      "score_notif": 83,
+      "cluster": "20260915-091f8005ad2a",
+      "cluster_main": false
+    },
     {
       "title": "BlackOut Watches Singularity : Un tourbillon flottant à un prix très raisonnable !",
       "url": "https://www.lecalibre.com/blackout-watches-singularity/?utm_source=rss&utm_medium=rss&utm_campaign=blackout-watches-singularity",
@@ -568,6 +582,20 @@
       "cluster_main": false
     },
     {
+      "title": "IWC Ingenieur Automatic 50th Anniversary Editions Resurrect A Rare 1970s Silver Dial",
+      "url": "https://teddybaldassarre.com/blogs/watches/iwc-ingenieur-automatic-50th-anniversary-editions",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/IWC-Ingenieur-50th-Anniversary-40-front-2.jpg?v=1789502566",
+      "peek_preview": "IWC introduced the most famous and impactful version of its historic sport-luxury timepiece, the Ingenieur, fifty years ago, in 1976. The original Ingenieuer SL (Ref. 1832) established the template for the most recent r...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T09:00:00.000Z",
+      "score_quality": 78,
+      "score_notif": 67,
+      "cluster": "20260915-b34f0257a129",
+      "cluster_main": false
+    },
+    {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
       "url": "https://italianwatchspotter.com/jonah-hill-naoya-hida-nh-type-1/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-alle-10.39.00-862x1024.png",
@@ -593,7 +621,7 @@
       "score_quality": 93,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
@@ -660,10 +688,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:00:00.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -870,10 +898,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:00:00.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The MB&F SP One Pavée (Live Pics)",
@@ -887,7 +915,7 @@
       "score_quality": 97,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale",
@@ -1446,8 +1474,8 @@
       "published_at": "2026-09-11T13:00:02.000Z",
       "score_quality": 38,
       "score_notif": 72,
-      "cluster": "20260911-c0df6c123b4a",
-      "cluster_main": false
+      "cluster": "20260911-d05ea2dd79c8",
+      "cluster_main": true
     },
     {
       "title": "Happenings: Siam Paragon Bangkok Watch Week Is Back For 2026",
@@ -1810,8 +1838,8 @@
       "published_at": "2026-09-09T20:47:35.000Z",
       "score_quality": 76,
       "score_notif": 72,
-      "cluster": "20260911-c0df6c123b4a",
-      "cluster_main": false
+      "cluster": "20260909-036323a41246",
+      "cluster_main": true
     },
     {
       "title": "New Release: Apple Watch Ultra 4 Upgrades The Brand’s Flagship Smartwatch",
@@ -1824,35 +1852,7 @@
       "published_at": "2026-09-09T19:24:06.000Z",
       "score_quality": 62,
       "score_notif": 72,
-      "cluster": "20260911-c0df6c123b4a",
-      "cluster_main": false
-    },
-    {
-      "title": "Titan Stellar Review: Indian Watchmaking Makes A Move For Enthusiasts",
-      "url": "https://teddybaldassarre.com/blogs/watches/titan-stellar-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Titan-Stellar-Automatic-Luna-2.jpg?v=1787852769",
-      "peek_preview": "India's Titan has built a remarkably deep and fascinating universe for itself. Originally launched by the Tata Group in 1984 with a simple goal — to put a reliable quartz watch on every wrist — the brand is now channeli...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T19:05:28.000Z",
-      "score_quality": 71,
-      "score_notif": 16,
-      "cluster": "20260909-f7c646ea36b3",
-      "cluster_main": true
-    },
-    {
-      "title": "What Anton Rupert’s New Role Means For Richemont’s Future",
-      "url": "https://www.atimelyperspective.com/what-anton-ruperts-new-role-means-for-richemonts-future/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/anton-rupert_-richemont-all-rights-reserved_subpage.png.jpeg",
-      "peek_preview": "The Richemont Group (think Cartier, Vacheron Constantin, Van Cleef & Arpels and a host of other luxury Maisons) made an important move toward its future yesterday, appointing Anton Rupert, son of longtime Chairman Johan...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-09T17:31:02.000Z",
-      "score_quality": 57,
-      "score_notif": 45,
-      "cluster": "20260909-1d8855417945",
+      "cluster": "20260909-bb43cc6865a0",
       "cluster_main": true
     }
   ]
