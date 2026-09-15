@@ -1,6 +1,6 @@
 {
-  "content_hash": "a5a1d6bc605cfd31b6c981a5dba8e104744161637743a450dc7f4b379c5a74e8",
-  "last_updated": "2026-09-15T13:47:17.372Z",
+  "content_hash": "2efc9882f0f74ec56c87c4bbddf0356adc25be0c4895bf39ed5121f8e97174f0",
+  "last_updated": "2026-09-15T14:47:39.640Z",
   "premium": {
     "links": []
   },
@@ -9,15 +9,15 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T13:00:14.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-14T19:00:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T14:00:59.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -29,9 +29,9 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T07:01:07.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T14:00:50.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T13:00:00.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: the Benjamin James Deerhurst Regulator",
+      "url": "https://wornandwound.com/review/hands-on-the-benjamin-james-deerhurst-regulator/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/BENJAMIN_JAMES_1.jpg",
+      "peek_preview": "The trajectory of my watch enthusiasm over the past several years can be boiled down to one basic principle: seeking things that are different. It’s what led me to Arcanaut, briefly owning a M.A.D.1S, a devotion to the...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T14:00:59.000Z",
+      "score_quality": 76,
+      "score_notif": 24,
+      "cluster": "20260915-1789eff9f30f",
+      "cluster_main": true
+    },
+    {
+      "title": "Victorinox Introduces A New Generation Of The Maverick Watch",
+      "url": "https://www.ablogtowatch.com/victorinox-introduces-a-new-generation-of-the-maverick-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Victorinox-Maverick-768x334.jpg",
+      "peek_preview": "Two decades after its introduction, Victorinox is updating the Maverick with a refreshed design and a new case size. The latest generation of the collection combines more contemporary proportions with a broad selection...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T14:00:50.000Z",
+      "score_quality": 68,
+      "score_notif": 48,
+      "cluster": "20260914-a3be11a33d88",
+      "cluster_main": false
+    },
     {
       "title": "Six Omega Stopwatches And A Lost NZ Racetrack",
       "url": "https://www.fratellowatches.com/six-omega-stopwatches-and-a-lost-nz-racetrack/",
@@ -299,7 +327,7 @@
       "score_quality": 87,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
@@ -366,10 +394,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:00:00.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -579,7 +607,7 @@
       "score_quality": 96,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The MB&F SP One Pavée (Live Pics)",
@@ -590,10 +618,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:00:00.000Z",
-      "score_quality": 93,
+      "score_quality": 97,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale",
@@ -774,7 +802,7 @@
       "published_at": "2026-09-13T22:01:33.000Z",
       "score_quality": 94,
       "score_notif": 30,
-      "cluster": "20260908-d1b27d53d4ec",
+      "cluster": "20260913-095dc3b6754f",
       "cluster_main": true
     },
     {
@@ -1826,34 +1854,6 @@
       "score_notif": 24,
       "cluster": "20260908-74b58ed93941",
       "cluster_main": true
-    },
-    {
-      "title": "GWD26: Armchair Pick: Chester’s Top 3 from the new release",
-      "url": "https://deployant.com/gwd26-armchair-pick-chesters-top-3-from-the-new-release/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-armchair-pick-chesters-top-3-from-the-new-release",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/IMG_0583-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors GWD26 Armchair Picks: Chester’s Top 3 choices, with musings on the scene Geneva Watch Days has become the fair I look forward to most. It is small enough that...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-08T13:30:00.000Z",
-      "score_quality": 28,
-      "score_notif": 8,
-      "cluster": "20260908-9565e7ba6f2a",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: Louis Vuitton Tambour Spin Time Lineup Expands With Five Permanent-Collection Watches",
-      "url": "https://www.ablogtowatch.com/new-release-louis-vuitton-tambour-spin-time-lineup-expands-with-five-permanent-collection-watches/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Louis-Vuitton-Tambour-Tambour-Spin-Time-Permanent-Collection-Watches-768x346.jpg",
-      "peek_preview": "For its latest release of 2026, Louis Vuitton has announced five new Tambour Spin Time watches that will be joining the brand’s lineup as permanent collection offerings. Expanding on the concepts of the limited-edition...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-08T13:00:58.000Z",
-      "score_quality": 93,
-      "score_notif": 30,
-      "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
     }
   ]
 }
