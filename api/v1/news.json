@@ -1,6 +1,6 @@
 {
-  "content_hash": "12ed799150f9efe6c5abe9d92dcc7dcddb5099d2fc9c6703b38bcf2e85cc9ced",
-  "last_updated": "2026-09-15T08:47:27.605Z",
+  "content_hash": "4e369664267128821ed58b1b56b42ccf29ecfe844626fd715e61ce9c28458cd8",
+  "last_updated": "2026-09-15T09:47:26.592Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T08:23:39.000Z"
     },
     {
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-15T07:58:38.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-14T08:00:39.000Z"
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T07:53:26.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -120,9 +120,9 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-11T11:52:47.000Z"
+      "estimated_articles_per_day": 0.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-15T08:50:46.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
+      "url": "https://italianwatchspotter.com/jonah-hill-naoya-hida-nh-type-1/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-alle-10.39.00-862x1024.png",
+      "peek_preview": "Rolex, Cartier, Patek Philippe. Quando si parla degli orologi delle celebrity di Hollywood, i nomi tendono a essere più o meno sempre gli stessi. Jonah Hill, questa volta, ha scelto qualcosa di decisamente meno prevedib...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-15T08:50:46.000Z",
+      "score_quality": 48,
+      "score_notif": 18,
+      "cluster": "20260915-36d2fd8225c0",
+      "cluster_main": true
+    },
+    {
       "title": "First Look – IWC Celebrates 50 Years Of The Genta-Designed Ingenieur SL With Two Ingenieur Automatic Limited Editions",
       "url": "https://monochrome-watches.com/firt-look-iwc-schaffhausen-ingenieur-automatic-40mm-35mm-gerald-genta-50th-aniversary-iw328910-iw324909-specs-price-pics/",
       "image": "https://monochrome-watches.com/app/uploads/2026/09/IWC-Schaffhausen-Ingenieur-Automatic-40-IW328910-Ingenieur-Automatic-35-IW324909-Featured-600x237.jpg",
@@ -199,6 +213,20 @@
       "featured": false,
       "published_at": "2026-09-15T07:58:38.000Z",
       "score_quality": 77,
+      "score_notif": 67,
+      "cluster": "20260915-b34f0257a129",
+      "cluster_main": false
+    },
+    {
+      "title": "IWC celebrates 50 years of the Ingenieur SL with two limited editions",
+      "url": "https://timeandtidewatches.com/iwc-ingenieur-50th-anniversary-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/iwc-ingeieur-automatic-50th-anniversary-1.jpg",
+      "peek_preview": "A smooth, brushed, silver-plated dial in both 40mm and 35mm cases brings back a rare Ingenieur from the past. The post IWC celebrates 50 years of the Ingenieur SL with two limited editions appeared first on Time+Tide Wa...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T07:53:26.000Z",
+      "score_quality": 74,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
       "cluster_main": false
@@ -632,10 +660,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-13T22:01:33.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
@@ -1096,8 +1124,8 @@
       "published_at": "2026-09-11T13:00:02.000Z",
       "score_quality": 38,
       "score_notif": 72,
-      "cluster": "20260911-c0df6c123b4a",
-      "cluster_main": false
+      "cluster": "20260911-d05ea2dd79c8",
+      "cluster_main": true
     },
     {
       "title": "Happenings: Siam Paragon Bangkok Watch Week Is Back For 2026",
@@ -1783,7 +1811,7 @@
       "score_quality": 91,
       "score_notif": 30,
       "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The People Have Spoken: Seiko’s Crowd Favourite 62MAS",
@@ -1826,20 +1854,6 @@
       "score_notif": 41,
       "cluster": "20260908-594c5288b4af",
       "cluster_main": true
-    },
-    {
-      "title": "Louis Vuitton updates its Spin Time with five new models",
-      "url": "https://timeandtidewatches.com/louis-vuitton-tambour-spin-time-hands-on-2/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/louis-vuitton-tambour-taiko-spin-time-collection-1.jpg",
-      "peek_preview": "Cosmetic updates to the Spin Time models of last year offer a fresh perspective on these jump-hour watches from LV. The post Louis Vuitton updates its Spin Time with five new models appeared first on Time+Tide Watches.",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-08T09:00:04.000Z",
-      "score_quality": 74,
-      "score_notif": 30,
-      "cluster": "20260908-d1b27d53d4ec",
-      "cluster_main": false
     }
   ]
 }
