@@ -1,6 +1,6 @@
 {
-  "content_hash": "2795f115cb8ebff496e3b001db733a10b4d15bf2cc950184be73746c6302320e",
-  "last_updated": "2026-09-16T07:47:14.325Z",
+  "content_hash": "14d9b6d536d07446b94df8413c31b8809cc1bed2734481f331ddd7ba4bf68578",
+  "last_updated": "2026-09-16T08:47:12.639Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T07:00:41.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T07:01:03.000Z"
     },
     {
@@ -78,8 +78,8 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T07:00:23.000Z"
     },
     {
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T07:00:00.000Z"
     },
     {
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T06:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T07:52:32.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Rolex crée la surprise avec la Perpetual Padellone, son calendrier annuel le plus ambitieux",
+      "url": "https://www.welovewatches.fr/rolex-cree-la-surprise-avec-la-perpetual-padellone-son-calendrier-annuel-le-plus-ambitieux.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/rolex-perpetual-padellone-annual-calendar-watches-une.jpg",
+      "peek_preview": "Rolex a présenté hier à Milan une montre que peu avaient vue venir, malgré tout de même quelques rumeurs sur les réseaux sociaux. La Perpetual Padellone rejoint la collection Perpetual, inaugurée en 2023 par la...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-16T07:52:32.000Z",
+      "score_quality": 68,
+      "score_notif": 83,
+      "cluster": "20260915-091f8005ad2a",
+      "cluster_main": false
+    },
     {
       "title": "Kiwame Kubo Watch Review: The Japanese Darling Continues To Impress",
       "url": "https://www.ablogtowatch.com/kiwame-kubo-watch-review-the-japanese-darling-continues-to-impress/",
@@ -244,20 +258,6 @@
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
       "cluster_main": false
-    },
-    {
-      "title": "5 montres de plongée de qualité à moins de 750 €",
-      "url": "https://www.welovewatches.fr/5-montres-de-plongee-de-qualite-a-moins-de-750-e.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/5-montres-de-plongee-de-qualite-moins-de-750-euros.jpg",
-      "peek_preview": "La montre de plongée reste, aujourd'hui encore, l'un des piliers de l'horlogerie contemporaine. Robuste, lisible, taillée pour l'aventure, elle a aussi cette capacité rare à traverser les décennies sans jamais perdre de...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-16T06:00:00.000Z",
-      "score_quality": 24,
-      "score_notif": 6,
-      "cluster": "20260916-2afde6c484ff",
-      "cluster_main": true
     },
     {
       "title": "The Formex Aria Proves The Phrase “Don’t Knock It ‘Til You Try It”",
@@ -478,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T16:01:12.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex Perpetual Padellone: Kompliziertes aus der Genfer Manufaktur",
@@ -537,7 +537,7 @@
       "score_quality": 91,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – Chopard Celebrates the 50th Anniversary of its 1976 Icon with the Happy Diamonds Heritage",
@@ -758,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T08:23:39.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
@@ -831,7 +831,7 @@
       "score_quality": 96,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -1671,7 +1671,7 @@
       "score_quality": 99,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -1780,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1839,20 +1839,6 @@
       "score_quality": 24,
       "score_notif": 9,
       "cluster": "20260910-270e1768f438",
-      "cluster_main": true
-    },
-    {
-      "title": "The Chronoswiss Neo Digiteur Pastel Code gives its mechanical digital display a colourful new identity",
-      "url": "https://timeandtidewatches.com/chronoswiss-neo-digiteur-pastel-code-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-chronoswiss-neo-digiteur-pastel-code-1.jpg",
-      "peek_preview": "The Chronoswiss Neo Digiteur Pastel Code collection brings Rose, Sky and Mint dials to its distinctive handless mechanical digital display. The post The Chronoswiss Neo Digiteur Pastel Code gives its mechanical digital...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T08:00:03.000Z",
-      "score_quality": 73,
-      "score_notif": 43,
-      "cluster": "20260910-036c23e57aca",
       "cluster_main": true
     }
   ]
