@@ -1,6 +1,6 @@
 {
-  "content_hash": "00333d2e81314d71f50ccc0506c3dac6cb3d38f87476a575c07bf06415898549",
-  "last_updated": "2026-09-16T06:47:00.082Z",
+  "content_hash": "2795f115cb8ebff496e3b001db733a10b4d15bf2cc950184be73746c6302320e",
+  "last_updated": "2026-09-16T07:47:14.325Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T16:01:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T07:00:41.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T18:52:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T07:01:03.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -72,15 +72,15 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T06:22:36.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T17:00:13.000Z"
+      "estimated_articles_per_day": 2.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T07:00:23.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-14T08:50:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T07:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T06:00:00.000Z"
     },
     {
@@ -175,6 +175,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Kiwame Kubo Watch Review: The Japanese Darling Continues To Impress",
+      "url": "https://www.ablogtowatch.com/kiwame-kubo-watch-review-the-japanese-darling-continues-to-impress/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Kiwame-Kubo-RAZ-Crop-01-768x346.jpg",
+      "peek_preview": "Rising Japanese star Kiwame Tokyo seems to be on an absolute tear. It’s been releasing sell-out model after sell-out model since its debut just last year. One thing that could reasonably be said about all those releases...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-16T07:01:03.000Z",
+      "score_quality": 74,
+      "score_notif": 16,
+      "cluster": "20260916-438dd6ede384",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The Neode N01 First Edition Brings Architectural Design to Horology",
+      "url": "https://monochrome-watches.com/neode-n01-first-edition-pure-silver-new-independent-watch-brand-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Neode-N01-First-Edition-New-indie-watch-brand-review-26-600x237.jpg",
+      "peek_preview": "Independent watchmaking has attracted designers from outside traditional horology before. Still, few have arrived with such a clearly defined architectural vision as Neode (from neod, an Old English word meaning desire...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-16T07:00:41.000Z",
+      "score_quality": 84,
+      "score_notif": 43,
+      "cluster": "20260916-58103e3bbd30",
+      "cluster_main": true
+    },
+    {
+      "title": "echo/neutra refreshes its ultra functional 1956 Chrono GMT with a dose of colour",
+      "url": "https://timeandtidewatches.com/echo-neutra-refreshes-its-ultra-functional-1956-chrono-gmt-with-a-dose-of-colour/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Echo_neutra-1956-chrono-gmt-cappuccino-feature.jpg",
+      "peek_preview": "Echo/Neutra updates its 1956 Chrono GMT with two new colourways With a brown-and-taupe Cappuccino model and a deep-wine-toned Purple model, both inject colour into a highly functional watch with chronograph and GMT func...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-16T07:00:23.000Z",
+      "score_quality": 69,
+      "score_notif": 35,
+      "cluster": "20260916-9b6a8325c73f",
+      "cluster_main": true
+    },
+    {
+      "title": "Royal Oak Selfwinding Chronograph Serena Williams: la lezione di Audemars Piguet",
+      "url": "https://giornaleorologi.it/2026/09/16/audemars-piguet-royal-oak-selfwinding-chronograph-serena-williams/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/cover-2-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Royal Oak Selfwinding Chronograph Serena Williams: la lezione di Audemars Piguet Quando ho visto in anteprima il nuovo Royal Oak Selfwinding Chronograph Serena Williams di Audemars Piguet, ho r...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-16T07:00:00.000Z",
+      "score_quality": 58,
+      "score_notif": 55,
+      "cluster": "20260915-958b2d079056",
+      "cluster_main": false
+    },
     {
       "title": "A Rolex Icon Returns as the Perpetual Padellone",
       "url": "https://watchesbysjx.com/2026/09/rolex-perpetual-padellone-53505-53506.html",
@@ -1254,20 +1310,6 @@
       "cluster_main": true
     },
     {
-      "title": "Buying Guide – Jumping For Joy, With Six Of The Coolest Jumping Hour Watches",
-      "url": "https://monochrome-watches.com/buying-guide-louis-vuitton-meistersinger-otsuka-lotec-de-bethune-amida-chronoswiss-jumping-hour-independent-watchmaking-specs-price-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/04/otsuka-lotec-no-8-jumping-hour-and-retrograde-minute-indie-japan-review-7-600x237.jpg",
-      "peek_preview": "Fresh off the avalanche of releases during Geneva Watch Days, we’re revisiting a Buying Guide topic from earlier this year. Sparked by watches like the De Bethune DB25 Digitale, one of this year’s absolute best of the f...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-13T09:35:06.000Z",
-      "score_quality": 77,
-      "score_notif": 14,
-      "cluster": "20260913-0d33bdf47283",
-      "cluster_main": true
-    },
-    {
       "title": "Leading The Way: The New Orient Star Sakigake Three Hand",
       "url": "https://www.fratellowatches.com/hands-on-with-the-new-orient-star-sakigake-three-hand/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Orient-Star-Sakigake-9.jpg",
@@ -1811,48 +1853,6 @@
       "score_quality": 73,
       "score_notif": 43,
       "cluster": "20260910-036c23e57aca",
-      "cluster_main": true
-    },
-    {
-      "title": "Hublot Big Bang Original 20th Anniversary Red Magic & All Black Ceramic Watches Hands-On",
-      "url": "https://www.ablogtowatch.com/hublot-big-bang-original-20th-anniversary-red-magic-all-black-ceramic-watches-hands-on/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Hublot-Big-Bang-20th-Anniversary-Black-Red-Ceramic-Watches-1-768x346.jpg",
-      "peek_preview": "In 2025, Swiss Hublot celebrated the 20th anniversary of the now-iconic Big Bang watch collection. It commemorated the occasion by releasing five limited editions that were designed in homage to the original Hublot Big...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T07:01:47.000Z",
-      "score_quality": 78,
-      "score_notif": 43,
-      "cluster": "20260910-d26383976902",
-      "cluster_main": true
-    },
-    {
-      "title": "King Seiko Vanac HKF005 : les lumières de Tokyo piégées dans le cadran",
-      "url": "https://www.welovewatches.fr/king-seiko-vanac-hkf005-les-lumieres-de-tokyo-piegees-dans-le-cadran.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/king-seiko-vanac-hkf005j1-une.jpg",
-      "peek_preview": "Lancée l'an dernier, la collection Vanac nous avait déjà agréablement surpris. Plutôt que de puiser dans les premières années de la sous-marque comme le fait habituellement King Seiko, elle s'inspirait d'une référence a...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-10T06:44:00.000Z",
-      "score_quality": 64,
-      "score_notif": 53,
-      "cluster": "20260910-cd2a7aac5b83",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Girard-Perregaux Laureato Fifty Tourbillon Micro-Rotor",
-      "url": "https://watchesbysjx.com/2026/09/girard-perregaux-laureato-fifty-tourbillon-micro-rotor-review.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Girard-Perregaux-Laureato-Fifty-Tourbillon-Microrotor-39-mm-enamel-300x200.jpg",
-      "peek_preview": "Girard-Perregaux (GP) is on the rebound after a few quiet years, and the Laureato Fifty Tourbillon Micro-Rotor 39 mm is a compelling addition to the premium sports watch arena. Featuring an all-new automatic tourbillon...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T01:00:18.000Z",
-      "score_quality": 90,
-      "score_notif": 31,
-      "cluster": "20260910-d6a2d3176b35",
       "cluster_main": true
     }
   ]
