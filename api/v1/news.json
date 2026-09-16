@@ -1,6 +1,6 @@
 {
-  "content_hash": "cf1f061c73579eaa130456f694f3e6c9c6daa6bbfc4fe5d13fb7165c1c0174b6",
-  "last_updated": "2026-09-16T18:47:05.461Z",
+  "content_hash": "04fe7b741622090eae5deb9bd3a8a5d00999d4d611b6386a0459c4bc2195a071",
+  "last_updated": "2026-09-16T19:47:04.100Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T18:00:54.000Z"
     },
     {
@@ -43,8 +43,8 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 2,
       "latest_article_at": "2026-09-16T10:00:02.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T17:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T16:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Photo Report: Geneva Watch Days 2026",
+      "url": "https://www.hodinkee.com/articles/geneva-watch-days-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/f31a2a09-a57c-4753-aed7-9bf3d993cf70/GWDHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A look at the watches and scenes from the five-day, citywide fair.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-16T19:00:00.000Z",
+      "score_quality": 78,
+      "score_notif": 30,
+      "cluster": "20260916-bba2d8472793",
+      "cluster_main": true
+    },
     {
       "title": "E.C. Andersson Introduces the Timepod, with a Unique Lug Release System",
       "url": "https://wornandwound.com/e-c-andersson-introduces-the-timepod-with-a-unique-lug-release-system/",
@@ -912,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T14:00:50.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 48,
       "cluster": "20260914-a3be11a33d88",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six Omega Stopwatches And A Lost NZ Racetrack",
@@ -1206,10 +1220,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T19:00:43.000Z",
-      "score_quality": 76,
+      "score_quality": 85,
       "score_notif": 49,
       "cluster": "20260914-0302b1d876de",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: MB&F Special Project One Pavée—The SP One Does Diamonds",
@@ -1265,7 +1279,7 @@
       "score_quality": 84,
       "score_notif": 48,
       "cluster": "20260914-a3be11a33d88",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Benrus Type 3X (Live Pics)",
@@ -1279,7 +1293,7 @@
       "score_quality": 84,
       "score_notif": 49,
       "cluster": "20260914-0302b1d876de",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-on: new MB&F SP One Pavée",
@@ -1291,20 +1305,6 @@
       "featured": false,
       "published_at": "2026-09-14T12:00:00.000Z",
       "score_quality": 98,
-      "score_notif": 47,
-      "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: The MB&F SP One Pavée (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/the-mbandf-sp-one-pavee-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/de2186f0-fe81-4422-b398-a91ecfc64456/tan2h-mbandf-spone-pavee-09815-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The unexpected dress watch from the avant-garde independent gets all blinged out.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-14T12:00:00.000Z",
-      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
       "cluster_main": true
@@ -1839,20 +1839,6 @@
       "score_quality": 100,
       "score_notif": 24,
       "cluster": "20260911-00eeec1e0358",
-      "cluster_main": true
-    },
-    {
-      "title": "A round-up from Geneva Watch Days",
-      "url": "https://timeandtidewatches.com/geneva-watch-days-2026-friday-wind-down/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/geneva-watch-days-2026-2.jpg",
-      "peek_preview": "It was an action-packed week in Geneva, and there was a lot to unpack from the second trade show of the year. The post A round-up from Geneva Watch Days appeared first on Time+Tide Watches.",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-11T07:00:48.000Z",
-      "score_quality": 24,
-      "score_notif": 16,
-      "cluster": "20260911-45526a534300",
       "cluster_main": true
     }
   ]
