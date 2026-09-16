@@ -1,6 +1,6 @@
 {
-  "content_hash": "ba89d8a36dbe7eb8cd0600c9ac553cd22058793dedeb7a728df8da6df2499af6",
-  "last_updated": "2026-09-16T09:47:11.057Z",
+  "content_hash": "6638690be251fb40f0ba56498b8dc50c58a07db9ec791f5daf24188610110c5d",
+  "last_updated": "2026-09-16T10:46:54.152Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T09:00:04.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T07:00:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T10:01:50.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T16:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T10:00:02.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T16:50:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T09:59:33.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The new Glashütte Original 70s Collection, a Reworked Take on the Integrated Sports Watch",
+      "url": "https://monochrome-watches.com/2026-new-glashutte-original-70s-collection-time-and-date-integrated-sports-watch-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Glashutte-Original-70s-Collection-Integrated-Sports-Watch-23-600x237.jpg",
+      "peek_preview": "While Glashütte Original‘s Seventies collection has become associated with its bold, square-shaped chronographs, the German manufacture also once offered Seventies Panaroma Date models without the chronograph function....",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-16T10:01:50.000Z",
+      "score_quality": 82,
+      "score_notif": 57,
+      "cluster": "20260916-42981d8eb94d",
+      "cluster_main": true
+    },
+    {
+      "title": "Glashütte Original's Seventies Relaunch: High Horology Meets High Fidelity",
+      "url": "https://teddybaldassarre.com/blogs/watches/glashutte-original-seventies-relaunch",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Glashuette-Original-Seventies-Vinyl-Record-reclining-2.jpg?v=1789497430",
+      "peek_preview": "Glashütte Original’s Seventies collection debuted in 2011, showcasing timepieces defined by softly squared “TV”-style cases, an aesthetic hallmark of at eponymous decade. In recent years, the German manufacture has focu...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-16T10:00:02.000Z",
+      "score_quality": 66,
+      "score_notif": 57,
+      "cluster": "20260916-42981d8eb94d",
+      "cluster_main": false
+    },
+    {
+      "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
+      "url": "https://www.orologidiclasse.com/glashutte-original-70s/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/glashutte-original-70s-2026.jpg",
+      "peek_preview": "Quindici anni dopo il primo Senator Seventies, Glashütte Original torna al solo tempo con un orologio che riprende quella storia ma la riscrive quasi da capo. Il nuovo 70s conserva la tipica cassa “TV” della famiglia, m...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-16T09:59:33.000Z",
+      "score_quality": 72,
+      "score_notif": 57,
+      "cluster": "20260916-42981d8eb94d",
+      "cluster_main": false
+    },
     {
       "title": "Do You Have a Soft Spot For The Rubber-Clad Hublot Big Bang Original Soft Touch?",
       "url": "https://www.fratellowatches.com/the-rubber-clad-hublot-big-bang-original-soft-touch/",
@@ -772,10 +814,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T08:23:39.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
@@ -845,7 +887,7 @@
       "score_quality": 98,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -1038,10 +1080,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:01:47.000Z",
-      "score_quality": 95,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-on: new MB&F SP One Pavée",
@@ -1069,13 +1111,13 @@
       "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
-      "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale",
+      "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo “Padellone”",
       "url": "https://www.perpetualpassion.com/2026/09/14/dentro-i-brevetti-rolex-dal-grande-date-a-un-nuovo-calendario-annuale/",
       "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/rolex-grand-date-new2-1100x1100.png",
-      "peek_preview": "Negli ultimi mesi diversi brevetti Rolex hanno iniziato a delineare un quadro più interessante di quanto possa sembrare [...] L'articolo Dentro i brevetti Rolex: dal Grande Date a un nuovo calendario annuale proviene da...",
+      "peek_preview": "Negli ultimi mesi diversi brevetti Rolex hanno iniziato a delineare un quadro più interessante di quanto possa sembrare [...] L'articolo Dentro i brevetti Rolex: dal Grande Date a un nuovo “Padellone” proviene da PERPET...",
       "source_name": "Perpetual Passion",
       "lang": "it",
       "featured": false,
@@ -1153,20 +1195,6 @@
       "score_quality": 83,
       "score_notif": 33,
       "cluster": "20260914-ba4b8865caba",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The new Louis Moinet Moon Meteor",
-      "url": "https://monochrome-watches.com/louis-moinet-moon-meteor-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Louis-Moinet-Moon-Meteor-review-1-600x237.jpg",
-      "peek_preview": "Astronomy is part of Louis Moinet‘s history, who created the “compteur de tierces” chronograph specifically for celestial observations. The brand bearing his name has kept the connection alive through its multiple space...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-14T07:00:23.000Z",
-      "score_quality": 83,
-      "score_notif": 45,
-      "cluster": "20260914-58815bfae42e",
       "cluster_main": true
     },
     {
@@ -1668,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A round-up from Geneva Watch Days",
@@ -1780,10 +1808,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-10T15:33:33.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 24,
       "cluster": "20260910-bf934d830cd0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
@@ -1825,34 +1853,6 @@
       "score_quality": 61,
       "score_notif": 31,
       "cluster": "20260910-8dd8b0c29b94",
-      "cluster_main": true
-    },
-    {
-      "title": "GWD26 Armchair Pick: Reuben’s top 3 from the new releases",
-      "url": "https://deployant.com/geneva-watch-days-2026-top-3-picks/?utm_source=rss&utm_medium=rss&utm_campaign=geneva-watch-days-2026-top-3-picks",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/99116-11-3615-1CM-99116-11-3528-1CM_Laureato_Tourbillon_MicroRotor_39mm.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Reuben Makes his GWD26 Armchair Picks Being asked to do Armchair Picks from the exciting releases from Geneva Watch Days 2026 feels, in spirit, very similar t...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T09:00:00.000Z",
-      "score_quality": 24,
-      "score_notif": 9,
-      "cluster": "20260910-270e1768f438",
-      "cluster_main": true
-    },
-    {
-      "title": "The Chronoswiss Neo Digiteur Pastel Code gives its mechanical digital display a colourful new identity",
-      "url": "https://timeandtidewatches.com/chronoswiss-neo-digiteur-pastel-code-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-chronoswiss-neo-digiteur-pastel-code-1.jpg",
-      "peek_preview": "The Chronoswiss Neo Digiteur Pastel Code collection brings Rose, Sky and Mint dials to its distinctive handless mechanical digital display. The post The Chronoswiss Neo Digiteur Pastel Code gives its mechanical digital...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-10T08:00:03.000Z",
-      "score_quality": 48,
-      "score_notif": 18,
-      "cluster": "20260910-036c23e57aca",
       "cluster_main": true
     }
   ]
