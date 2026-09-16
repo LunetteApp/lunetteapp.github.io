@@ -1,6 +1,6 @@
 {
-  "content_hash": "9a6f390b0434f45202a99bd034d95ab0b96c94c8a29fbf0fa5a5d5f2629d08ea",
-  "last_updated": "2026-09-16T14:47:26.277Z",
+  "content_hash": "eb3124f112209352d413f47d3ce1774ff4c96e35f3f724cab8b371f3f203ba96",
+  "last_updated": "2026-09-16T16:47:05.601Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T13:01:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T16:05:40.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T14:00:09.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T14:02:37.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – Kollokium Closes the Projekt 01 Chapter with the Luminous Variant H",
+      "url": "https://monochrome-watches.com/kollokium-closes-the-projekt-01-chapter-with-the-luminous-variant-h/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/kollokium-Projekt-01-Variant-H-review-4-600x237.jpg",
+      "peek_preview": "With the Projekt 01 Variant H, Kollokium puts an end to its first chapter, the watch that marked the independent platform’s debut. Since its introduction in 2023, the Projekt 01 has been offered in several iterations, w...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-16T16:05:40.000Z",
+      "score_quality": 84,
+      "score_notif": 46,
+      "cluster": "20260916-d38fd95c247b",
+      "cluster_main": true
+    },
     {
       "title": "New: The 70s by Glashütte Original",
       "url": "https://deployant.com/new-the-70s-by-glashutte-original/?utm_source=rss&utm_medium=rss&utm_campaign=new-the-70s-by-glashutte-original",
@@ -327,7 +341,7 @@
       "score_quality": 55,
       "score_notif": 24,
       "cluster": "20260914-09ef52a197de",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Updated Charlie Paris Concordia GMT Gets New Colours and a Much Lower Price",
@@ -912,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T12:42:35.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 34,
       "cluster": "20260911-007e5fe4fab3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Get Your Kicks with the New MeisterSinger Edition Route 66 as It Marks a Century on the Open Road",
@@ -1184,20 +1198,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – The More Powerful Citizen Tsuyosa 60 Automatic, now in 37mm",
-      "url": "https://monochrome-watches.com/citizen-tsuyosa-60-automatic-37mm-collection-nk0030-51e-nk0030-51x-nk0032-56a-introducing-pprice/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Citizen-Tsuyosa-60-Automatic-37mm-longer-power-reserve-guilloche-like-dial-NK0032-56A-NK0030-51X-NK0030-51E-1-600x237.jpg",
-      "peek_preview": "Since its launch in 2022, the Citizen Tsuyosa (a Japanese word for strength) has been a strong success for the brand and is now a leading option in the value proposition segment. Originally released in 40mm steel cases...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-14T16:05:38.000Z",
-      "score_quality": 83,
-      "score_notif": 62,
-      "cluster": "20260914-de241d7dfbdd",
-      "cluster_main": true
-    },
-    {
       "title": "San Francisco 49ers’ Christian McCaffrey On Football’s Lessons",
       "url": "https://www.atimelyperspective.com/san-francisco-49ers-christian-mccaffrey-on-footballs-lessons/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/CMC_Crafted_16_9-3-1024x1024.jpg",
@@ -1318,10 +1318,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-14T08:50:22.000Z",
-      "score_quality": 54,
+      "score_quality": 56,
       "score_notif": 24,
       "cluster": "20260914-09ef52a197de",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alpina sfida l’oceano con il Seastrong Diver Extreme Automatic x Route du Rhum",
@@ -1699,7 +1699,7 @@
       "score_quality": 90,
       "score_notif": 34,
       "cluster": "20260911-007e5fe4fab3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Geneva Watch Days 2026: Notizen vor Ort und 6 junge Uhrenmarken",
