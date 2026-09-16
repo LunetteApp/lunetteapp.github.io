@@ -1,6 +1,6 @@
 {
-  "content_hash": "7f486a9c498fcbdb90e2e36c16af39aadfe242274d82d62f3b6122b1767992b6",
-  "last_updated": "2026-09-16T17:46:55.929Z",
+  "content_hash": "cf1f061c73579eaa130456f694f3e6c9c6daa6bbfc4fe5d13fb7165c1c0174b6",
+  "last_updated": "2026-09-16T18:47:05.461Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T20:00:10.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T18:00:54.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T17:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-16T17:00:00.000Z"
     },
     {
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T13:07:34.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-16T16:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "E.C. Andersson Introduces the Timepod, with a Unique Lug Release System",
+      "url": "https://wornandwound.com/e-c-andersson-introduces-the-timepod-with-a-unique-lug-release-system/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/EC-Andersson-Timepod-6.jpg.jpg",
+      "peek_preview": "The Swedish brand E.C. Andersson is one of my favorite “IYKYK” watchmakers. They had a modest hit a few years ago with their Mytilus, at least among a very specific type of watch collector who was ahead of the curve on...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-16T18:00:54.000Z",
+      "score_quality": 68,
+      "score_notif": 33,
+      "cluster": "20260916-242e3fabf47a",
+      "cluster_main": true
+    },
+    {
       "title": "First Look – Kollokium Closes the Projekt 01 Chapter with the Luminous Variant H",
       "url": "https://monochrome-watches.com/kollokium-closes-the-projekt-01-chapter-with-the-luminous-variant-h/",
       "image": "https://monochrome-watches.com/app/uploads/2026/09/kollokium-Projekt-01-Variant-H-review-4-600x237.jpg",
@@ -187,6 +201,20 @@
       "score_quality": 84,
       "score_notif": 46,
       "cluster": "20260916-d38fd95c247b",
+      "cluster_main": true
+    },
+    {
+      "title": "Eventi di orologeria 2026: segnatevi queste date prima che sia troppo tardi!",
+      "url": "https://italianwatchspotter.com/eventi-di-orologeria-2026/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/IMG_0408-1024x576.jpg",
+      "peek_preview": "Con l’estate ormai alle spalle, il calendario degli eventi di orologeria 2026 si prepara a vivere alcuni dei suoi mesi più intensi. Dopo gli appuntamenti che hanno caratterizzato la prima parte dell’anno e la recente co...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-16T16:00:00.000Z",
+      "score_quality": 30,
+      "score_notif": 12,
+      "cluster": "20260916-a0d9f177a1dc",
       "cluster_main": true
     },
     {
@@ -781,7 +809,7 @@
       "title": "Rolex Perpetual Padellone Review: An All-New Annual Calendar Moonphase",
       "url": "https://teddybaldassarre.com/blogs/watches/rolex-perpetual-padellone",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Rolex_Padellone-07559.jpg?v=1789474132",
-      "peek_preview": "It’s September, and Rolex has surprised the watch world with an off-calendar release in a segment of its collection that nobody saw coming. Today in Milan (a fitting location as we will see shortly), the brand unveiled...",
+      "peek_preview": "It’s September, and Rolex has surprised the watch world with an off-calendar release in a segment of its collection that nobody saw coming. Today in Milan (a fitting location, as we will see shortly), the brand unveiled...",
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "featured": false,
