@@ -1,6 +1,6 @@
 {
-  "content_hash": "a2564185f898998c7b49f5be7bf0160d6b7ea5b5f85724458bca10db37e2418d",
-  "last_updated": "2026-09-17T06:47:03.805Z",
+  "content_hash": "d68faeceee0efce05b0f308cb48e3d385e67d56112ab60d7432b10bdcb6150f1",
+  "last_updated": "2026-09-17T07:47:13.202Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T06:41:54.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T14:00:09.000Z"
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-17T07:01:46.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T13:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-17T07:05:02.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
+      "url": "https://watchesbysjx.com/2026/09/grand-seiko-elegance-sbgw325.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Grand-Seiko-Elegance-SBGW325-header-300x200.jpg",
+      "peek_preview": "Grand Seiko is marking 25 years of its hand-wind 9S movement with the Elegance Collection SBGW325, a throwback to one of the earliest Grand Seiko limited edition models. The SBGW325 is modelled on the SBGW003, a 2001 li...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T07:05:02.000Z",
+      "score_quality": 79,
+      "score_notif": 52,
+      "cluster": "20260917-83a40dea703f",
+      "cluster_main": false
+    },
+    {
+      "title": "Hands-On Debut: Chopard Happy Diamonds Heritage Returns The Original Men’s Dancing Stone Settings Watch From 1976",
+      "url": "https://www.ablogtowatch.com/hands-on-debut-chopard-happy-diamonds-heritage-returns-the-original-mens-dancing-stone-settings-watch-from-1976/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Chopard-Happy-Diamonds-Heritage-Watch-11-768x346.jpg",
+      "peek_preview": "The cheerful Happy Diamonds collection of women’s watches from Chopard is where I first learned about the brand. Today, Chopard is extremely dynamic and impressive across a range of watch styles. One of the company’s so...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T07:01:46.000Z",
+      "score_quality": 83,
+      "score_notif": 42,
+      "cluster": "20260915-23f9fb7673a7",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Grand Seiko Elegance SBGW325, Tribute to the First Manual-Winding 9S Model",
       "url": "https://monochrome-watches.com/grand-seiko-elegance-sbgw325-tribute-to-the-first-manual-winding-9s-model-sbgw003-introducing-price/",
@@ -941,9 +969,9 @@
       "featured": false,
       "published_at": "2026-09-15T15:01:39.000Z",
       "score_quality": 82,
-      "score_notif": 56,
+      "score_notif": 42,
       "cluster": "20260915-23f9fb7673a7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Chopard Happy Diamond Heritage Re-Releases For 50th Anniversary",
@@ -955,7 +983,7 @@
       "featured": false,
       "published_at": "2026-09-15T15:00:12.000Z",
       "score_quality": 72,
-      "score_notif": 56,
+      "score_notif": 42,
       "cluster": "20260915-23f9fb7673a7",
       "cluster_main": false
     },
@@ -1150,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T08:23:39.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
@@ -1206,10 +1234,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -1825,34 +1853,6 @@
       "score_quality": 34,
       "score_notif": 10,
       "cluster": "20260911-e8f0596d6adb",
-      "cluster_main": true
-    },
-    {
-      "title": "Apple Watch Series 12 et Ultra 4 : Apple muscle le suivi cardiaque",
-      "url": "https://www.welovewatches.fr/apple-watch-series-12-et-ultra-4-apple-muscle-le-suivi-cardiaque.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/apple-watch-series-12-ultra-une.jpg",
-      "peek_preview": "Présentées le 9 septembre dernier lors de la keynote de rentrée, les nouvelles Apple Watch ne changent pas de silhouette. Aucun redesign extérieur, pas de Touch ID malgré les rumeurs du printemps et toujours rien...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-11T07:46:21.000Z",
-      "score_quality": 77,
-      "score_notif": 72,
-      "cluster": "20260911-c0df6c123b4a",
-      "cluster_main": true
-    },
-    {
-      "title": "CVSTOS Challenge Sealiner Arman Tsarukyan Edition White Ceramic Watch Hands-On",
-      "url": "https://www.ablogtowatch.com/cvstos-challenge-sealiner-arman-tsarukyan-edition-white-ceramic-watch-hands-on/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/CVSTOS-Challenge-Sealiner-PS-Arman-Edition-White-Ceramic-Watch-12-768x346.jpg",
-      "peek_preview": "For the very first time, Geneva-based CVSTOS has created a timepiece with a ceramic case. This time in white ceramic for its limited-edition Challenge Sealiner model, produced in collaboration with brand ambassador and...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-11T07:01:17.000Z",
-      "score_quality": 100,
-      "score_notif": 24,
-      "cluster": "20260911-00eeec1e0358",
       "cluster_main": true
     }
   ]
