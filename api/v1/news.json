@@ -1,6 +1,6 @@
 {
-  "content_hash": "d68faeceee0efce05b0f308cb48e3d385e67d56112ab60d7432b10bdcb6150f1",
-  "last_updated": "2026-09-17T07:47:13.202Z",
+  "content_hash": "0e66fa79ee1a2686b1365e8a72d59aa4dac3a19c91aa5d9953e1756068168000",
+  "last_updated": "2026-09-17T08:47:22.989Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T04:00:29.000Z"
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-09-17T08:19:42.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T06:41:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-17T08:01:19.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.9,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T07:01:46.000Z"
     },
     {
@@ -58,22 +58,22 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T14:02:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-17T08:01:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T19:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-17T08:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-17T07:05:02.000Z"
+      "latest_article_at": "2026-09-17T08:00:28.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -175,6 +175,90 @@
     }
   ],
   "items": [
+    {
+      "title": "Hot Take: Grand Seiko Introduces The SBGW325",
+      "url": "https://www.fratellowatches.com/hot-take-grand-seiko-introduces-the-sbgw325/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/SBGW325_KV_16-9_rgb.jpg",
+      "peek_preview": "Grand Seiko has just added the limited-edition SBGW325 to its Elegance Collection, paying tribute to the SBGW003 from 2001. That model was the first Grand Seiko to feature a manually wound 9S mechanical movement, the Ca...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T08:19:42.000Z",
+      "score_quality": 64,
+      "score_notif": 52,
+      "cluster": "20260917-83a40dea703f",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing – The New Ressence Art Watch Type 9 x Jules Wittock",
+      "url": "https://monochrome-watches.com/ressence-art-watch-type-9-x-jules-wittock-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Ressence-Art-Watch-Type-9-x-Jules-Wittock-5-600x237.jpg",
+      "peek_preview": "Founded in 2010 by industrial designer Benoît Mintiens, indie brand Ressence stands out from the crowd with its original and contemporary way of displaying time. Like planets orbiting the Sun, time circles around the di...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T08:01:19.000Z",
+      "score_quality": 80,
+      "score_notif": 49,
+      "cluster": "20260917-a9bfd5842100",
+      "cluster_main": true
+    },
+    {
+      "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
+      "url": "https://deployant.com/ressence-type-9-jules-wittock/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-9-jules-wittock",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/T9-JWE_PAK_LD_VER_SOL_2026.png",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Ressence TYPE 9 Jules Wittock: a hand-drawn maze milled 0.2 mm into titanium and filled by hand, in Emerald Green or black, 30 pieces each at CHF 20,000. The...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T08:01:00.000Z",
+      "score_quality": 78,
+      "score_notif": 49,
+      "cluster": "20260917-a9bfd5842100",
+      "cluster_main": false
+    },
+    {
+      "title": "Get Lost In Ressence’s New Type 9 Art Watch By Belgian Artist Jules Wittock",
+      "url": "https://www.fratellowatches.com/ressence-type-9-jules-wittock/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Ressence-Art-Watch-2026-Type-9-Jules-Wittock-2026-5.jpg",
+      "peek_preview": "Recently, Lex wrote an article asking, “When are watches art?” Of course, there wasn’t a clear answer, as “art” is often an ungraspable concept. However, every once in a while, Benoît Mintiens makes the dial of a Ressen...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T08:00:45.000Z",
+      "score_quality": 72,
+      "score_notif": 49,
+      "cluster": "20260917-a9bfd5842100",
+      "cluster_main": false
+    },
+    {
+      "title": "Ressence Taps Maze Artist for Latest Type 9",
+      "url": "https://watchesbysjx.com/2026/09/ressence-type-9-jules-wittock.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Ressence-Type-9-Jules-Wittock-3x2-centred-header-300x200.jpg",
+      "peek_preview": "For the latest installment of the brand’s Art Watch series, Ressence has teamed up with a contemporary Belgian artist for the puzzling Type 9 Jules Wittock. I say ‘puzzling’, because Mr Wittock’s specialty is hand-drawi...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T08:00:28.000Z",
+      "score_quality": 75,
+      "score_notif": 49,
+      "cluster": "20260917-a9bfd5842100",
+      "cluster_main": false
+    },
+    {
+      "title": "Business News: FHH Teams With GIA's School Of Gemology And Jewelry Arts",
+      "url": "https://www.hodinkee.com/articles/fhh-teams-with-gias-school-of-gemology-and-jewelry-arts-to-boost-watch-industry-knowledge-certificat",
+      "image": "https://hodinkee.imgix.net/uploads/images/28c7a8e0-3216-4422-9c96-554f5c0e6c1d/GIA-Carlsbad-Panorama.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The Swiss watch industry-backed foundation's collaboration with the mighty GIA will bring improved learning, training, and certification to a wider audience.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T08:00:00.000Z",
+      "score_quality": 69,
+      "score_notif": 43,
+      "cluster": "20260917-1a4fb5130b3c",
+      "cluster_main": true
+    },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
       "url": "https://watchesbysjx.com/2026/09/grand-seiko-elegance-sbgw325.html",
@@ -494,7 +578,7 @@
       "published_at": "2026-09-16T12:41:52.000Z",
       "score_quality": 59,
       "score_notif": 24,
-      "cluster": "20260914-09ef52a197de",
+      "cluster": "20260916-804dc5571d17",
       "cluster_main": true
     },
     {
@@ -1170,20 +1254,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – IWC Celebrates 50 Years Of The Genta-Designed Ingenieur SL With Two Ingenieur Automatic Limited Editions",
-      "url": "https://monochrome-watches.com/firt-look-iwc-schaffhausen-ingenieur-automatic-40mm-35mm-gerald-genta-50th-aniversary-iw328910-iw324909-specs-price-pics/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/IWC-Schaffhausen-Ingenieur-Automatic-40-IW328910-Ingenieur-Automatic-35-IW324909-Featured-600x237.jpg",
-      "peek_preview": "Birthdays are to be celebrated, so it’s no surprise IWC Schaffhausen honours the 50th anniversary of one of its most pivotal watches, the Ingenieur SL. Introduced in 1976 and penned by Gérald Genta, the Ingenieur SL was...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T08:23:39.000Z",
-      "score_quality": 99,
-      "score_notif": 67,
-      "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
-    },
-    {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
       "url": "https://www.atimelyperspective.com/iwc-celebrates-50-years-of-gentas-ingenieur-with-two-limited-editions/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/IW328910_Front_Small-1024x1024.jpg",
@@ -1268,20 +1338,6 @@
       "cluster_main": true
     },
     {
-      "title": "Modern Venetian Elegance Gets A Name: The Venezianico Redentore Levius",
-      "url": "https://www.fratellowatches.com/venetian-elegance-venezianico-redentore-levius/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Venezianico-Redentore-Levius-12.jpg",
-      "peek_preview": "Venezianico has been raising the bar constantly with its varied collection of watches. While my favorites from the Venetian brand are in the Arsenale collection, we have seen some impressive developments in the Bucintor...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T05:00:35.000Z",
-      "score_quality": 76,
-      "score_notif": 39,
-      "cluster": "20260915-5164f6b0a73b",
-      "cluster_main": true
-    },
-    {
       "title": "アーミン・シュトロームが深いブルーをまとった「デュアル・タイム GMT レゾナンス マニュファクチュール・エディション・ブルー」を発表",
       "url": "https://www.webchronos.net/news/172588/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/09/AS_dualtimegmt_1.webp",
@@ -1320,8 +1376,8 @@
       "published_at": "2026-09-14T19:00:43.000Z",
       "score_quality": 85,
       "score_notif": 49,
-      "cluster": "20260914-0302b1d876de",
-      "cluster_main": false
+      "cluster": "20260914-aee0b7365cbd",
+      "cluster_main": true
     },
     {
       "title": "Insider: MB&F Special Project One Pavée—The SP One Does Diamonds",
@@ -1380,20 +1436,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Benrus Type 3X (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/benrus-type-3x-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/1d5df0f2-97ed-4f2e-b22b-ff23a831c273/b-h2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A GMT complication and input from U.S. Special Forces veterans arrive in Benrus's newest tool watch, following closely on the Sky Chief's return.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-14T13:00:00.000Z",
-      "score_quality": 86,
-      "score_notif": 49,
-      "cluster": "20260914-0302b1d876de",
-      "cluster_main": true
-    },
-    {
       "title": "Hands-on: new MB&F SP One Pavée",
       "url": "https://deployant.com/hands-on-new-mbf-sp-one-pavee/?utm_source=rss&utm_medium=rss&utm_campaign=hands-on-new-mbf-sp-one-pavee",
       "image": "https://deployant.com/wp-content/uploads/2026/09/MBF-SP1-diamonds-wrist.jpg",
@@ -1447,7 +1489,7 @@
       "score_quality": 58,
       "score_notif": 24,
       "cluster": "20260914-09ef52a197de",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alpina sfida l’oceano con il Seastrong Diver Extreme Automatic x Route du Rhum",
@@ -1811,48 +1853,6 @@
       "score_quality": 24,
       "score_notif": 14,
       "cluster": "20260911-9d9c537b5318",
-      "cluster_main": true
-    },
-    {
-      "title": "Piaget, il primo sport watch e una data impossibile: 11 settembre 2001",
-      "url": "https://italianwatchspotter.com/piaget-upstream-11-settembre-2001/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/5903a3e8-8f2f-f6f7-6600-b9ceca96096d-1-819x1024.png",
-      "peek_preview": "Il Piaget Upstream viene presentato sul mercato l’11 settembre 2001 – in una data destinata a riscrivere l’agenda mediatica mondiale e a lasciare inevitabilmente ai margini qualunque altra notizia. Nato come uno dei pro...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-11T11:52:47.000Z",
-      "score_quality": 62,
-      "score_notif": 14,
-      "cluster": "20260911-50cf3ef39eee",
-      "cluster_main": true
-    },
-    {
-      "title": "Sell Your Watches, Checklist Collecting, And When Heuer Was Hype (Jeff Stein, On the Dash)",
-      "url": "https://www.unpolishedwatches.com/p/sell-your-watches-checklist-collecting",
-      "image": "https://substackcdn.com/image/fetch/$s_!FTe0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc321f16e-8ec8-46ff-89a3-b5448cff4699_1600x1066.jpeg",
-      "peek_preview": "The (TAG) Heuer scholar on his checklist era, where the market actually sits in 2026, and why you should learn how to sell your watches.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-11T11:08:46.000Z",
-      "score_quality": 63,
-      "score_notif": 14,
-      "cluster": "20260911-4ce4f807801d",
-      "cluster_main": true
-    },
-    {
-      "title": "Gli orologi di Venezia 83: pettegolezzi da polso",
-      "url": "https://giornaleorologi.it/2026/09/11/gli-orologi-di-venezia-83/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/Red-carpet-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Gli orologi di Venezia 83: pettegolezzi da polso “Quanto siamo fatui, pettegoli, gossippari, leggeristi, stupidini”. Mario Ajello aveva ragione. Oggi come allora: anche in questo 83o Festival d...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-11T10:33:34.000Z",
-      "score_quality": 34,
-      "score_notif": 10,
-      "cluster": "20260911-e8f0596d6adb",
       "cluster_main": true
     }
   ]
