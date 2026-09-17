@@ -1,6 +1,6 @@
 {
-  "content_hash": "3b3fb3ffeef6698b1c702e14fda25115488b526807cd6ccb150b6a49ef86a99e",
-  "last_updated": "2026-09-17T13:47:17.873Z",
+  "content_hash": "8fe39e7ea9f0694ef38ec69fb093a50ffdf54b27c9b2a9b2567df93e20bbe725",
+  "last_updated": "2026-09-17T15:47:29.756Z",
   "premium": {
     "links": []
   },
@@ -9,21 +9,21 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T13:00:04.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T13:41:44.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T13:00:37.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-17T13:00:33.000Z"
+      "latest_article_at": "2026-09-17T14:00:26.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Nivada Grenchen rocks the F77 with seven stone dials for its 100th birthday",
+      "url": "https://timeandtidewatches.com/nivada-grenchen-f77-100-years-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-nivada-grenchen-f77-100-years.jpg",
+      "peek_preview": "Nivada Grenchen celebrates 100 years with the F77 MKII 100 Years Collection, featuring seven stone dials and a new La Joux-Perret movement. The post Nivada Grenchen rocks the F77 with seven stone dials for its 100th bir...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T14:00:26.000Z",
+      "score_quality": 67,
+      "score_notif": 43,
+      "cluster": "20260917-29c0fb84b806",
+      "cluster_main": true
+    },
+    {
       "title": "The Foundation Haute Horlogerie Expands the FHH Academy by Partnering with the Gemological Institute of America",
       "url": "https://wornandwound.com/the-foundation-haute-horlogerie-expands-the-fhh-academy-by-partnering-with-the-gemological-institute-of-america/",
       "image": "https://wornandwound.com/library/uploads/2026/09/FHH-x-GIA-19.jpg",
@@ -187,7 +201,7 @@
       "score_quality": 70,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -243,7 +257,7 @@
       "score_quality": 87,
       "score_notif": 53,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Blancpain Celebrates The 70th Anniversary Of The Ladybird Collection With The Mini \"Lady B\" Revival",
@@ -254,10 +268,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T10:00:00.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 53,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mechanical Resurrection: The New Christopher Ward C63 Sealander Chronograph",
@@ -268,10 +282,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -299,7 +313,7 @@
       "score_quality": 79,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -394,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 69,
+      "score_quality": 71,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -677,7 +691,7 @@
       "score_quality": 89,
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Hublot Classic Fusion Balloon Dog By Jeff Koons",
@@ -688,10 +702,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T13:00:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Does a balloon dog watch sound like fiction? Hublot and Jeff Koons made it a reality",
@@ -1318,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T09:00:00.000Z",
-      "score_quality": 78,
+      "score_quality": 81,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
@@ -1349,7 +1363,7 @@
       "score_quality": 80,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC celebrates 50 years of the Ingenieur SL with two limited editions",
@@ -1839,20 +1853,6 @@
       "score_quality": 78,
       "score_notif": 24,
       "cluster": "20260912-8c0d6bd546c2",
-      "cluster_main": true
-    },
-    {
-      "title": "Enthusiast Spotlight: Chris Sohl Dives Into the Soul of the All-New Certina DS Super PH2000M",
-      "url": "https://wornandwound.com/enthusiast-spotlight-chris-sohl-dives-into-the-soul-of-the-all-new-certina-ds-super-ph2000m/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/202608_Certina_Sohl_Web_3.jpg",
-      "peek_preview": "For Chris Sohl—or simply Sohl, as most folks know him—watches and diving have always been intertwined. He got into both around the same time in 2015, discovering that each offered the same combination of history, advent...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-11T20:00:03.000Z",
-      "score_quality": 46,
-      "score_notif": 15,
-      "cluster": "20260911-ef3fe640de02",
       "cluster_main": true
     }
   ]
