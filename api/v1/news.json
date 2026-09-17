@@ -1,6 +1,6 @@
 {
-  "content_hash": "0463664e97207870b691ee7f1bafa8dbd3a5b11a6d572f52ce073c0b1a314f48",
-  "last_updated": "2026-09-17T09:47:18.300Z",
+  "content_hash": "b70c96cbf1cf430270c9595f240369289e1a81d21cc76bb5c52ef8bc55fe405d",
+  "last_updated": "2026-09-17T10:47:02.346Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T09:00:49.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T08:01:19.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-17T10:01:04.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.9,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-17T09:00:00.000Z"
+      "latest_article_at": "2026-09-17T10:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T09:00:29.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T09:00:40.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
+      "url": "https://monochrome-watches.com/blancpain-lady-b-collection-70th-anniversary-ladybird-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Blancpain-Lady-B-collection-70th-anniversary-Ladybird-review-2-600x237.jpg",
+      "peek_preview": "With its motto of never producing quartz watches, its manufacturing capabilities and its rich heritage in dive watches, Blancpain is often spontaneously associated with technical, masculine watchmaking. But this overloo...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T10:01:04.000Z",
+      "score_quality": 82,
+      "score_notif": 53,
+      "cluster": "20260917-e64751d5106d",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: Blancpain Celebrates The 70th Anniversary Of The Ladybird Collection With The Mini \"Lady B\" Revival",
+      "url": "https://www.hodinkee.com/articles/introducing-blancpain-lady-bird-lady-b",
+      "image": "https://hodinkee.imgix.net/uploads/images/29b31e73-4fe9-4fe0-b3f6-1aede28f7a7d/Ladybird_0064_3642_PR1_RGB.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A mini watch with a massive impact on the brand's history.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T10:00:00.000Z",
+      "score_quality": 86,
+      "score_notif": 53,
+      "cluster": "20260917-e64751d5106d",
+      "cluster_main": true
+    },
+    {
       "title": "Mechanical Resurrection: The New Christopher Ward C63 Sealander Chronograph",
       "url": "https://www.fratellowatches.com/mechanical-resurrection-the-new-christopher-ward-c63-sealander-chronograph/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Christopher_Ward_C63-41-ACH4-S0KW0-B0_Picture_3.jpg",
@@ -187,7 +215,7 @@
       "score_quality": 78,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -212,10 +240,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:29.000Z",
-      "score_quality": 74,
+      "score_quality": 79,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -522,8 +550,8 @@
       "published_at": "2026-09-16T13:07:34.000Z",
       "score_quality": 36,
       "score_notif": 55,
-      "cluster": "20260916-62ce381ef558",
-      "cluster_main": false
+      "cluster": "20260916-992255fbf9b8",
+      "cluster_main": true
     },
     {
       "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
@@ -803,7 +831,7 @@
       "score_quality": 79,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Rolex Icon Returns as the Perpetual Padellone",
@@ -1226,20 +1254,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – Get Your Kicks with the New MeisterSinger Edition Route 66 as It Marks a Century on the Open Road",
-      "url": "https://monochrome-watches.com/first-look-meistersinger-edition-route-66-100-years-limited-edition-ford-mustang-sellita-sw200-specs-price-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-MeistertSinger-Edition-Route-66-limited-edition-Featured-600x237.jpg",
-      "peek_preview": "MeisterSinger has built most of its catalogue around unhurried, single-hand time-reading. The brand’s latest special edition enters a faster lane, where key indications like the car’s speed are shown with just one hand...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T11:00:43.000Z",
-      "score_quality": 76,
-      "score_notif": 41,
-      "cluster": "20260915-478c00eb867d",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: Supernova Serena Williams Gets Her Own Audemars Piguet Royal Oak",
       "url": "https://www.hodinkee.com/articles/supernova-serena-williams-gets-her-own-audemars-piguet-royal-oak",
       "image": "https://hodinkee.imgix.net/uploads/images/1fc9a0f7-1e5e-47d6-ac26-b65fe405ff11/Option_01.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1248,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T10:34:00.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Tissot PRX Chronograph goes quartz in three sharp new dial colours",
@@ -1318,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:53:26.000Z",
-      "score_quality": 74,
+      "score_quality": 79,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: Casio G-Shock Gravitymaster GWR-B3000 Watch Features New Error-Detecting Tough Movement 2",
@@ -1335,20 +1349,6 @@
       "score_quality": 76,
       "score_notif": 20,
       "cluster": "20260915-8f9eb5e0dd0b",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The IWC Ingenieur 50th Anniversary Limited Editions (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/the-iwc-ingenieur-50th-anniversary-limited-editions-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/0896ecef-48aa-4e93-bf31-02237707dfbb/tan2h-iwc-ingenieur-50thanniversary-06196-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A silver-plated dial design pays tribute to half a century since the debut of the original Ingenieur SL.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T07:00:00.000Z",
-      "score_quality": 100,
-      "score_notif": 67,
-      "cluster": "20260915-b34f0257a129",
       "cluster_main": true
     },
     {
