@@ -1,6 +1,6 @@
 {
-  "content_hash": "1901f2a304495a1207358bbc5a24b2fc118ab2195076ed873a6685f6ca00b8e7",
-  "last_updated": "2026-09-17T04:46:39.419Z",
+  "content_hash": "a2564185f898998c7b49f5be7bf0160d6b7ea5b5f85724458bca10db37e2418d",
+  "last_updated": "2026-09-17T06:47:03.805Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T04:00:29.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T16:05:40.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-17T06:41:54.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The Grand Seiko Elegance SBGW325, Tribute to the First Manual-Winding 9S Model",
+      "url": "https://monochrome-watches.com/grand-seiko-elegance-sbgw325-tribute-to-the-first-manual-winding-9s-model-sbgw003-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Grand-Seiko-Elegance-Manual-Winding-SBGW325-Tribute-to-SBGW003-Arabic-Nuemrals-1-600x237.jpg",
+      "peek_preview": "Some watches have shaped the perception we have of a brand in a striking way. At Grand Seiko, if we look at more recent times, the Spring Drive Snowflake SBGA211 is one of these watches. Some, however, did this in a far...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T06:41:54.000Z",
+      "score_quality": 84,
+      "score_notif": 52,
+      "cluster": "20260917-83a40dea703f",
+      "cluster_main": true
+    },
     {
       "title": "Fratello Talks: Our Favorite Vintage Rolex Models",
       "url": "https://www.fratellowatches.com/fratello-talks-our-favorite-vintage-rolex-models/",
@@ -1038,10 +1052,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T12:42:35.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 34,
       "cluster": "20260911-007e5fe4fab3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Get Your Kicks with the New MeisterSinger Edition Route 66 as It Marks a Century on the Open Road",
@@ -1136,10 +1150,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T08:23:39.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
@@ -1184,20 +1198,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – DUG Glashütte Brings Compact 37mm Editions of its Purist Collection",
-      "url": "https://monochrome-watches.com/dug-glashutte-purist-37-collection-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/DUG-Glashutte-Purist-37-Collection-introducing-1-600x237.jpg",
-      "peek_preview": "Founded by Toni Brodführer, DUG Glashütte focuses on producing watches in accordance with the requirements of the Glashütte designation of origin, and the inaugural Purist was conceived as a straightforward proposition...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T07:00:07.000Z",
-      "score_quality": 78,
-      "score_notif": 43,
-      "cluster": "20260915-86aeadb82f99",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: The IWC Ingenieur 50th Anniversary Limited Editions (Live Pics)",
       "url": "https://www.hodinkee.com/articles/the-iwc-ingenieur-50th-anniversary-limited-editions-live-pics",
       "image": "https://hodinkee.imgix.net/uploads/images/0896ecef-48aa-4e93-bf31-02237707dfbb/tan2h-iwc-ingenieur-50thanniversary-06196-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1206,10 +1206,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Tutima Patria two tone dial",
@@ -1307,7 +1307,7 @@
       "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "San Francisco 49ers’ Christian McCaffrey On Football’s Lessons",
@@ -1374,10 +1374,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:00:00.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo “Padellone”",
@@ -1741,7 +1741,7 @@
       "score_quality": 94,
       "score_notif": 34,
       "cluster": "20260911-007e5fe4fab3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Geneva Watch Days 2026: Notizen vor Ort und 6 junge Uhrenmarken",
