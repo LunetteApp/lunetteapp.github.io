@@ -1,6 +1,6 @@
 {
-  "content_hash": "71f1b7dd66c1386545a2a5922c325eb4f412b1eadcf5ab85397cfc9142ae38cc",
-  "last_updated": "2026-09-17T19:47:05.069Z",
+  "content_hash": "d2e7006f9f172bf2275b8413bf3a3558ca04653a994195f33b6944b7483bcae0",
+  "last_updated": "2026-09-17T20:47:13.373Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T19:00:06.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T18:52:24.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T16:04:09.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-17T19:51:04.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Hands-On: The Apple Watch Series 12 And Ultra 4",
+      "url": "https://www.hodinkee.com/articles/the-apple-watch-series-12-and-ultra-4",
+      "image": "https://hodinkee.imgix.net/uploads/images/9e783c29-b987-4f9f-93c4-2eb1873e108f/tan2h-apple-watch-series12-02839-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Spending some time with this year's newest releases, and a look into what's coming up for Apple Watch.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T19:51:04.000Z",
+      "score_quality": 88,
+      "score_notif": 78,
+      "cluster": "20260917-0564b1dabf67",
+      "cluster_main": true
+    },
+    {
       "title": "In Conversation with Jeff Koons on His New Collaboration with Hublot",
       "url": "https://wornandwound.com/in-conversation-with-jeff-koons-on-his-new-collaboration-with-hublot/",
       "image": "https://wornandwound.com/library/uploads/2026/09/2026_09_Hublot-Jeff-Koons_005_WR.jpg",
@@ -243,7 +257,7 @@
       "score_quality": 82,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -254,10 +268,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:04:09.000Z",
-      "score_quality": 78,
+      "score_quality": 82,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Studio Underd0g and Ahmed Seddiqi Go Fishing in the Gulf with the 03SERIES Chan3ad",
@@ -271,7 +285,7 @@
       "score_quality": 81,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fortis, Berneron, and More Join Watches and Wonders 2027, Now Featuring 75 Brands",
@@ -464,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 79,
+      "score_quality": 83,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hot Take: Grand Seiko Introduces The SBGW325",
@@ -1083,7 +1097,7 @@
       "score_quality": 82,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "カシオ「エディフィス」より、コンパクトなソーラークロノグラフ「EFS-S660」が新登場",
@@ -1394,20 +1408,6 @@
       "cluster_main": true
     },
     {
-      "title": "Auctions: Six Observations From Sotheby's September 18 Hong Kong Sale",
-      "url": "https://www.hodinkee.com/articles/auctions-sothebys-hong-kong-2026",
-      "image": "https://hodinkee.imgix.net/uploads/images/27e1a9e2-a449-484d-85e7-76363e28cc13/SothebysHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "With a frankly daunting number of lots, auction season comes back with a bang. We try to break it down to something more digestible.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T13:00:00.000Z",
-      "score_quality": 74,
-      "score_notif": 36,
-      "cluster": "20260915-82f578350fb7",
-      "cluster_main": true
-    },
-    {
       "title": "Hands On: Ferdinand Berthoud FB 3SPC.4-1",
       "url": "https://watchesbysjx.com/2026/09/ferdinand-berthoud-fb-3spc-4-1.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Ferdinand-Berthoud-FB-3SPC4_1-3x2-centred-header-300x200.jpg",
@@ -1472,10 +1472,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:58:38.000Z",
-      "score_quality": 80,
+      "score_quality": 83,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC celebrates 50 years of the Ingenieur SL with two limited editions",
