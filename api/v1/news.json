@@ -1,6 +1,6 @@
 {
-  "content_hash": "d2e7006f9f172bf2275b8413bf3a3558ca04653a994195f33b6944b7483bcae0",
-  "last_updated": "2026-09-17T20:47:13.373Z",
+  "content_hash": "01d1b0aea3b864afe619f58c9e0d57464456d02996d4f5a98f138536fed68841",
+  "last_updated": "2026-09-17T21:47:07.185Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T19:51:04.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T16:00:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-17T21:00:55.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "The Ultimate FounderFest Flex is the Entire Collection in One Box",
+      "url": "https://timeandtidewatches.com/the-ultimate-founderfest-flex-is-the-entire-collection-in-one-box/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-founderfest-box-set.jpg",
+      "peek_preview": "Unless you’ve been living under a horological rock over recent weeks, you’ll know by now that our biggest event ever, FounderFest, is almost upon us. This weekend, each of our Watch Discovery Studios across London, Melb...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T21:00:55.000Z",
+      "score_quality": 26,
+      "score_notif": 12,
+      "cluster": "20260917-89ff5d1e9f62",
+      "cluster_main": true
+    },
+    {
       "title": "Hands-On: The Apple Watch Series 12 And Ultra 4",
       "url": "https://www.hodinkee.com/articles/the-apple-watch-series-12-and-ultra-4",
       "image": "https://hodinkee.imgix.net/uploads/images/9e783c29-b987-4f9f-93c4-2eb1873e108f/tan2h-apple-watch-series12-02839-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -212,10 +226,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 63,
+      "score_quality": 68,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -271,7 +285,7 @@
       "score_quality": 82,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Studio Underd0g and Ahmed Seddiqi Go Fishing in the Gulf with the 03SERIES Chan3ad",
@@ -282,10 +296,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:01:31.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fortis, Berneron, and More Join Watches and Wonders 2027, Now Featuring 75 Brands",
@@ -397,7 +411,7 @@
       "score_quality": 67,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -436,10 +450,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -467,7 +481,7 @@
       "score_quality": 81,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -1363,7 +1377,7 @@
       "score_quality": 60,
       "score_notif": 32,
       "cluster": "20260913-fe2137afc450",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Furto da Ulysse Nardin: spariscono alcuni degli orologi più rari della Maison",
@@ -1444,10 +1458,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T09:00:00.000Z",
-      "score_quality": 81,
+      "score_quality": 84,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
@@ -1475,7 +1489,7 @@
       "score_quality": 83,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC celebrates 50 years of the Ingenieur SL with two limited editions",
@@ -1839,20 +1853,6 @@
       "score_quality": 57,
       "score_notif": 51,
       "cluster": "20260913-e705247b85af",
-      "cluster_main": true
-    },
-    {
-      "title": "The Smoothest-Feeling Surfaces: Hands-On With Hublot’s Big Bang Original Soft Touch Watches",
-      "url": "https://www.ablogtowatch.com/the-smoothest-feeling-surfaces-hands-on-with-hublots-big-bang-original-soft-touch-watches/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hublot-Big-Bang-Original-Soft-Touch-Black-Red-Watches-4-768x346.jpg",
-      "peek_preview": "Innovation takes on different forms in the luxury watch industry. New mechanisms and complications are certainly one form of innovation that the industry celebrates, but so are materials science and the tactile experien...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-13T07:01:21.000Z",
-      "score_quality": 77,
-      "score_notif": 32,
-      "cluster": "20260913-fe2137afc450",
       "cluster_main": true
     }
   ]
