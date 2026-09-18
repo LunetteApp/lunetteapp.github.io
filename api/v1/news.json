@@ -1,6 +1,6 @@
 {
-  "content_hash": "291f9daa58046378b3953246e045fbe9cd85b0d105b4b0a51a0660b81fb7ef21",
-  "last_updated": "2026-09-18T10:47:08.863Z",
+  "content_hash": "17c4794fa0b4f3b5972f8836c073aa3ec5ae0caa11518e405b079ac819ae66a4",
+  "last_updated": "2026-09-18T12:47:12.897Z",
   "premium": {
     "links": []
   },
@@ -30,14 +30,14 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T07:01:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T12:00:38.000Z"
     },
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T10:25:21.000Z"
     },
     {
@@ -114,15 +114,15 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T10:12:08.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T16:00:00.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T11:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "New Release: Glashütte Original Reinvents The 70s Watch Line With A Crisper, Audio-Inspired Style",
+      "url": "https://www.ablogtowatch.com/new-release-glashutte-original-reinvents-the-70s-watch-line-with-a-crisper-audio-inspired-style/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Glashutte-Original-70s-LOR-Crop-1-768x346.jpg",
+      "peek_preview": "Few, if any, brands can match Glashütte Original’s blend of under-the-radar sleeper appeal and sheer Teutonic build quality. It’s a combination that makes for a plethora of tastefully restrained, brilliantly finished, a...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T12:00:38.000Z",
+      "score_quality": 74,
+      "score_notif": 31,
+      "cluster": "20260916-42981d8eb94d",
+      "cluster_main": true
+    },
+    {
+      "title": "Gallet rinasce dopo 200 anni: quattro nuove collezioni segnano il grande ritorno",
+      "url": "https://italianwatchspotter.com/gallet-200-anni-quattro-nuove-collezioni/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/FO_watch-624x1024.avif",
+      "peek_preview": "Dopo decenni lontano dal mercato, Gallet torna ufficialmente sulla scena dell’orologeria nel 2026, presentando il proprio rilancio al Geneva Watch Days in occasione del 200° anniversario della sua fondazione. Acquisito...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-18T11:00:00.000Z",
+      "score_quality": 70,
+      "score_notif": 63,
+      "cluster": "20260918-a7357b75e415",
+      "cluster_main": true
+    },
     {
       "title": "How A $42 Watch from India Went Viral (w/ Delhi Watch Company)",
       "url": "https://www.unpolishedwatches.com/p/how-a-42-watch-from-india-went-viral",
@@ -352,10 +380,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-09-18T00:00:09.000Z",
-      "score_quality": 64,
+      "score_quality": 67,
       "score_notif": 44,
       "cluster": "20260913-fe2137afc450",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The Apple Watch Series 12 And Ultra 4",
@@ -397,7 +425,7 @@
       "score_quality": 72,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -436,10 +464,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:22:47.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -534,10 +562,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -576,10 +604,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:00:04.000Z",
-      "score_quality": 71,
+      "score_quality": 73,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -663,7 +691,7 @@
       "score_quality": 87,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hot Take: Grand Seiko Introduces The SBGW325",
@@ -747,7 +775,7 @@
       "score_quality": 75,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -814,10 +842,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-09-17T03:00:25.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ゼニスがコレクション初の3針モデル「クロノマスター ソロ スポーツ」を発表",
@@ -927,7 +955,7 @@
       "featured": false,
       "published_at": "2026-09-16T14:02:37.000Z",
       "score_quality": 64,
-      "score_notif": 57,
+      "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
       "cluster_main": false
     },
@@ -1066,10 +1094,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-16T12:41:52.000Z",
-      "score_quality": 59,
+      "score_quality": 61,
       "score_notif": 24,
       "cluster": "20260914-09ef52a197de",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Updated Charlie Paris Concordia GMT Gets New Colours and a Much Lower Price",
@@ -1123,9 +1151,9 @@
       "featured": false,
       "published_at": "2026-09-16T10:00:02.000Z",
       "score_quality": 73,
-      "score_notif": 57,
+      "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
@@ -1137,7 +1165,7 @@
       "featured": false,
       "published_at": "2026-09-16T09:59:33.000Z",
       "score_quality": 72,
-      "score_notif": 57,
+      "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
       "cluster_main": false
     },
@@ -1209,7 +1237,7 @@
       "score_quality": 81,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Rolex Icon Returns as the Perpetual Padellone",
@@ -1489,7 +1517,7 @@
       "score_quality": 66,
       "score_notif": 44,
       "cluster": "20260913-fe2137afc450",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Furto da Ulysse Nardin: spariscono alcuni degli orologi più rari della Maison",
@@ -1797,7 +1825,7 @@
       "score_quality": 60,
       "score_notif": 24,
       "cluster": "20260914-09ef52a197de",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Alpina sfida l’oceano con il Seastrong Diver Extreme Automatic x Route du Rhum",
@@ -1825,34 +1853,6 @@
       "score_quality": 66,
       "score_notif": 36,
       "cluster": "20260914-fec01b8b1b0f",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Bulgari Octo Finissimo Dazzle Watch",
-      "url": "https://www.ablogtowatch.com/hands-on-bulgari-octo-finissimo-dazzle-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Bulgari-Octo-Finissimo-Dazzle-featured-768x346.jpg",
-      "peek_preview": "Some (in fact almost all) watches require minutes, hours, sometimes days to help one make up their mind about it. Not the new Bulgari Octo Finissimo Dazzle. Chances are that you look at it, and will immediately be drawn...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-14T07:01:08.000Z",
-      "score_quality": 83,
-      "score_notif": 33,
-      "cluster": "20260914-ba4b8865caba",
-      "cluster_main": true
-    },
-    {
-      "title": "Casio x Café Kitsuné : une montre, un matcha et l’addition !",
-      "url": "https://www.welovewatches.fr/casio-x-cafe-kitsune-une-montre-un-matcha-et-laddition.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/aq-230eck-3a_une.jpg",
-      "peek_preview": "Casio continue de faire vivre son catalogue Vintage à coups de collaborations. La marque japonaise s'associe à Café Kitsuné pour habiller son AQ-230 d'un cadran vert matcha, dans une référence assumée à la culture japon...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-14T06:07:00.000Z",
-      "score_quality": 32,
-      "score_notif": 43,
-      "cluster": "20260914-c70126ba6118",
       "cluster_main": true
     }
   ]
