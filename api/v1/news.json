@@ -1,6 +1,6 @@
 {
-  "content_hash": "b64d02ca1843a40a4788668f0ee55924d0f57f769472090f20b2690a5b8e319a",
-  "last_updated": "2026-09-18T06:47:05.228Z",
+  "content_hash": "28f89bd3acb83331dd22b20c2022b057b5836821ac8e6978020fd307ae4ca00f",
+  "last_updated": "2026-09-18T07:47:27.742Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T06:05:48.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T16:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T07:01:29.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T21:00:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T07:01:05.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Oliver Gallaugher Deep Space Blue Watch Review: Getting Lost In The Details",
+      "url": "https://www.ablogtowatch.com/oliver-gallaugher-deep-space-blue-watch-review-getting-lost-in-the-details/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Oliver-Gallaugher-Deep-Space-Blue-RAZ-Crop-07-768x346.jpg",
+      "peek_preview": "All that glitters is not gold, and the marketing of modern watches is an excellent testament to that. We’ve all seen a watch online that looks absolutely stunning, only to have it fall unbelievably short when we finally...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T07:01:29.000Z",
+      "score_quality": 71,
+      "score_notif": 14,
+      "cluster": "20260918-e30d3928260e",
+      "cluster_main": true
+    },
+    {
+      "title": "Watches and Wonders adds 9 more brands to its roster for 2027, answering FounderFest FAQS",
+      "url": "https://timeandtidewatches.com/watches-and-wonders-adds-7-more-brands-to-its-roster-for-2027-including-berneron-friday-wind-down/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Berneron-Mirage-Miroir_wrist.jpg",
+      "peek_preview": "The watch world’s biggest moment just got even bigger. Earlier today, Watches and Wonders announced nine new brands joining its extensive roster of exhibitors: Akhor, Alain Silberstein, Berneron, Breva Genève, Fortis, K...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T07:01:05.000Z",
+      "score_quality": 68,
+      "score_notif": 64,
+      "cluster": "20260917-245bde469c01",
+      "cluster_main": false
+    },
     {
       "title": "First Look – Singer Launches a New Collection with the 1970 DualTrack",
       "url": "https://monochrome-watches.com/singer-launches-a-new-collection-with-the-1970-dualtrack/",
@@ -282,10 +310,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 68,
+      "score_quality": 70,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -467,7 +495,7 @@
       "score_quality": 69,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -509,7 +537,7 @@
       "score_quality": 84,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -534,10 +562,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:29.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -576,10 +604,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:01:19.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 49,
       "cluster": "20260917-a9bfd5842100",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
@@ -593,7 +621,7 @@
       "score_quality": 81,
       "score_notif": 49,
       "cluster": "20260917-a9bfd5842100",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Get Lost In Ressence’s New Type 9 Art Watch By Belgian Artist Jules Wittock",
@@ -1825,34 +1853,6 @@
       "score_quality": 68,
       "score_notif": 38,
       "cluster": "20260913-181eb2ca156e",
-      "cluster_main": true
-    },
-    {
-      "title": "GWD26: Video Roundup and Highlights by the Chief Editor",
-      "url": "https://deployant.com/gwd26-video-roundup-and-highlights-by-the-chief-editor/?utm_source=rss&utm_medium=rss&utm_campaign=gwd26-video-roundup-and-highlights-by-the-chief-editor",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/39c6107e-017a-456f-81d6-e290aeddafdb.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors What a week that was. Yes, it was two weeks ago, but after the exhaustive coverage I made. And all the writers have spoken their piece on their favourites. He...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-13T13:30:00.000Z",
-      "score_quality": 30,
-      "score_notif": 18,
-      "cluster": "20260913-51347975c414",
-      "cluster_main": true
-    },
-    {
-      "title": "Inside Nomos Glashütte; the man who cataloged 600 Heuers says sell your watches",
-      "url": "https://www.unpolishedwatches.com/p/inside-nomos-glashutte-the-man-who",
-      "image": "https://substackcdn.com/image/fetch/$s_!8TFF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb2e6ae3-b203-488b-b597-613da6980df8_2048x2048.jpeg",
-      "peek_preview": "Everyone has a workshop, almost nobody has a factory. Plus: Hermès has a Birkin problem, the indie Silicon Valley can't get enough of, and one auction to watch.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-13T11:41:45.000Z",
-      "score_quality": 28,
-      "score_notif": 10,
-      "cluster": "20260913-95172df7dec3",
       "cluster_main": true
     }
   ]
