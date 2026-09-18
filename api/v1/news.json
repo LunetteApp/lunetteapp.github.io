@@ -1,6 +1,6 @@
 {
-  "content_hash": "28f89bd3acb83331dd22b20c2022b057b5836821ac8e6978020fd307ae4ca00f",
-  "last_updated": "2026-09-18T07:47:27.742Z",
+  "content_hash": "83ee705820721fe4a41a8252e6599f0b403a15499ac917968758c06c4949d26c",
+  "last_updated": "2026-09-18T08:47:14.264Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T07:01:29.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T07:01:05.000Z"
     },
     {
@@ -127,9 +127,9 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T07:52:32.000Z"
+      "estimated_articles_per_day": 0.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T08:35:58.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Jaeger-LeCoultre crée son poinçon HPG et relance la course aux certifications",
+      "url": "https://www.welovewatches.fr/jaeger-lecoultre-cree-son-poincon-hpg-et-relance-la-course-aux-certifications.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/jlc-2026-high-precision-guarantee-une.jpg",
+      "peek_preview": "Jaeger-LeCoultre détaille son nouveau poinçon maison, le High Precision Guarantee, inauguré en avril 2026 à Watches and Wonders sur la collection Master Control Chronomètre. Derrière ces trois lettres se trouve un proto...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-18T08:35:58.000Z",
+      "score_quality": 61,
+      "score_notif": 55,
+      "cluster": "20260918-1e13c2553f79",
+      "cluster_main": true
+    },
     {
       "title": "Oliver Gallaugher Deep Space Blue Watch Review: Getting Lost In The Details",
       "url": "https://www.ablogtowatch.com/oliver-gallaugher-deep-space-blue-watch-review-getting-lost-in-the-details/",
@@ -453,7 +467,7 @@
       "score_quality": 72,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -660,10 +674,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 71,
+      "score_quality": 73,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1839,20 +1853,6 @@
       "score_quality": 48,
       "score_notif": 13,
       "cluster": "20260913-f780124d5388",
-      "cluster_main": true
-    },
-    {
-      "title": "The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports watch",
-      "url": "https://timeandtidewatches.com/formex-essence-fortyone-arctic-white-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-formex-essence-white.jpg",
-      "peek_preview": "We get hands-on with the Formex Essence FortyOne Arctic White, featuring a 41mm suspended case and a COSC-certified movement. The post The Formex Essence FortyOne Arctic White is an engineering nerd’s everyday sports wa...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-13T15:30:50.000Z",
-      "score_quality": 68,
-      "score_notif": 38,
-      "cluster": "20260913-181eb2ca156e",
       "cluster_main": true
     }
   ]
