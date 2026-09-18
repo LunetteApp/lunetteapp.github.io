@@ -1,6 +1,6 @@
 {
-  "content_hash": "e04a8a028ee073869ca34e3a072b514666000d8432182d2e0395191de71c9735",
-  "last_updated": "2026-09-18T19:48:24.698Z",
+  "content_hash": "ee7af130eaffedc133405cad500aac269940d5e13ddc3d1b7f48ee085efdc84f",
+  "last_updated": "2026-09-18T21:47:21.331Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T19:00:18.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.9,
+      "estimated_articles_per_day": 3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-18T19:00:00.000Z"
+      "latest_article_at": "2026-09-18T21:00:01.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The Straum Expedition",
+      "url": "https://www.hodinkee.com/articles/straum-expedition-2",
+      "image": "https://hodinkee.imgix.net/uploads/images/5cb028f9-331c-46dc-bf77-0d894a53bab6/G1074521.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Straum flips its nature-inspired concept on its head and, in the process, makes one of the best adventure-ready watches in recent memory.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T21:00:01.000Z",
+      "score_quality": 78,
+      "score_notif": 28,
+      "cluster": "20260918-5354b9c22687",
+      "cluster_main": true
+    },
     {
       "title": "Introducing the Apiar Carbon1.0 OG",
       "url": "https://wornandwound.com/introducing-the-apiar-carbon1-0-og/",
@@ -648,7 +662,7 @@
       "published_at": "2026-09-17T19:00:06.000Z",
       "score_quality": 76,
       "score_notif": 28,
-      "cluster": "20260916-992255fbf9b8",
+      "cluster": "20260917-eb88bb496ee3",
       "cluster_main": true
     },
     {
@@ -1223,7 +1237,7 @@
       "score_quality": 36,
       "score_notif": 28,
       "cluster": "20260916-992255fbf9b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
@@ -1642,8 +1656,8 @@
       "published_at": "2026-09-15T16:00:15.000Z",
       "score_quality": 58,
       "score_notif": 83,
-      "cluster": "20260915-e6ff465ce150",
-      "cluster_main": true
+      "cluster": "20260915-091f8005ad2a",
+      "cluster_main": false
     },
     {
       "title": "Rolex Perpetual Padellone Review: An All-New Annual Calendar Moonphase",
@@ -1766,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T09:00:00.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
@@ -1797,7 +1811,7 @@
       "score_quality": 91,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC celebrates 50 years of the Ingenieur SL with two limited editions",
@@ -1839,20 +1853,6 @@
       "score_quality": 64,
       "score_notif": 35,
       "cluster": "20260915-d69bbe150f7b",
-      "cluster_main": true
-    },
-    {
-      "title": "Kelton Racing 1975 : la montre néo vintage accessible française",
-      "url": "https://www.welovewatches.fr/kelton-racing-1975-la-montre-neo-vintage-accessible-francaise.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-montres-kelton-racing-1975.jpg",
-      "peek_preview": "Les montres Kelton, c'est d'abord une histoire de pop culture française. Depuis sa fondation en 1955 à Besançon sous l'impulsion de Stéphane Boullier, la marque s'est imposée comme LA référence populaire de l'horlogerie...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-15T05:30:00.000Z",
-      "score_quality": 60,
-      "score_notif": 24,
-      "cluster": "20260915-66d04c869c90",
       "cluster_main": true
     }
   ]
