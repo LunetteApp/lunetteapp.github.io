@@ -1,6 +1,6 @@
 {
-  "content_hash": "2e30953184718424b457f1204502c8f76c4e6a2c778d711a99614ed9059bae64",
-  "last_updated": "2026-09-18T05:47:05.599Z",
+  "content_hash": "b64d02ca1843a40a4788668f0ee55924d0f57f769472090f20b2690a5b8e319a",
+  "last_updated": "2026-09-18T06:47:05.228Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T05:00:28.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T16:01:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T06:05:48.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T04:55:26.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – Singer Launches a New Collection with the 1970 DualTrack",
+      "url": "https://monochrome-watches.com/singer-launches-a-new-collection-with-the-1970-dualtrack/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Singer-Reimagined-1970-DualTrack-new-collection-review-1-600x237.jpg",
+      "peek_preview": "The high-end independent watch brand born from a passion for 1960s-1970s automotive design, Singer Reimagined was founded in 2017 by Rob Dickinson (of Singer Vehicle Design) and watch designer Marco Borraccino with moto...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T06:05:48.000Z",
+      "score_quality": 82,
+      "score_notif": 42,
+      "cluster": "20260916-5be50556d6b9",
+      "cluster_main": true
+    },
     {
       "title": "No Rush, Here’s The Anoma A1 Core Collection In Abyss Blue And Stone Gray",
       "url": "https://www.fratellowatches.com/no-rush-heres-the-anoma-a1-core-collection-in-abyss-blue-and-stone-gray/",
@@ -310,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:22:47.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -537,7 +551,7 @@
       "score_quality": 85,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hot Take: Grand Seiko Introduces The SBGW325",
@@ -565,7 +579,7 @@
       "score_quality": 80,
       "score_notif": 49,
       "cluster": "20260917-a9bfd5842100",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
@@ -576,10 +590,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:01:00.000Z",
-      "score_quality": 78,
+      "score_quality": 81,
       "score_notif": 49,
       "cluster": "20260917-a9bfd5842100",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Get Lost In Ressence’s New Type 9 Art Watch By Belgian Artist Jules Wittock",
@@ -969,7 +983,7 @@
       "featured": false,
       "published_at": "2026-09-16T12:00:27.000Z",
       "score_quality": 68,
-      "score_notif": 47,
+      "score_notif": 42,
       "cluster": "20260916-5be50556d6b9",
       "cluster_main": false
     },
@@ -983,9 +997,9 @@
       "featured": false,
       "published_at": "2026-09-16T12:00:26.000Z",
       "score_quality": 73,
-      "score_notif": 47,
+      "score_notif": 42,
       "cluster": "20260916-5be50556d6b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The new Glashütte Original 70s Collection, a Reworked Take on the Integrated Sports Watch",
@@ -1069,20 +1083,6 @@
       "score_quality": 74,
       "score_notif": 16,
       "cluster": "20260916-438dd6ede384",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The Neode N01 First Edition Brings Architectural Design to Horology",
-      "url": "https://monochrome-watches.com/neode-n01-first-edition-pure-silver-new-independent-watch-brand-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Neode-N01-First-Edition-New-indie-watch-brand-review-26-600x237.jpg",
-      "peek_preview": "Independent watchmaking has attracted designers from outside traditional horology before. Still, few have arrived with such a clearly defined architectural vision as Neode (from neod, an Old English word meaning desire...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T07:00:41.000Z",
-      "score_quality": 84,
-      "score_notif": 43,
-      "cluster": "20260916-58103e3bbd30",
       "cluster_main": true
     },
     {
