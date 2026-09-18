@@ -1,6 +1,6 @@
 {
-  "content_hash": "2064b85a87e692cfb5e2c20a493280feb30cd15af41efa71f06282da608ce11f",
-  "last_updated": "2026-09-18T16:47:54.070Z",
+  "content_hash": "157466b690d50cd5966a8ca8299a14278c546773aea244754c21c5578b6b77f8",
+  "last_updated": "2026-09-18T17:49:03.590Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T16:10:45.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T18:52:24.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T17:40:51.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T04:55:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T17:39:22.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T15:58:58.000Z"
     },
     {
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T16:00:35.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T15:57:16.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
+      "url": "https://teddybaldassarre.com/blogs/watches/oris-divers-date-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Oris-Dive-Watches-1965-2_0936fbe1-a746-4ffc-91e8-35c5778c6944.jpg?v=1703091467",
+      "peek_preview": "Oris in the modern era has made it a point to offer two distinct takes on the dive watch. On one side is the Aquis collection, the modern and forward-looking side of its work, with muscular cases and the look of purpose...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T17:40:51.000Z",
+      "score_quality": 59,
+      "score_notif": 12,
+      "cluster": "20260918-b20e33b6701d",
+      "cluster_main": true
+    },
+    {
+      "title": "F.P. Journe Supports Paris Brain Institute with Unique Chronomètre Furtif",
+      "url": "https://watchesbysjx.com/2026/09/f-p-journe-chronometre-furtif-icm.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/FP-Journe-Chronometre-Furtif-ICM-3xx2-centred-header-300x200.jpg",
+      "peek_preview": "Having recently unveiled a unique burgundy chronograph to benefit the Fondation Prince Albert II De Monaco, F.P. Journe is back with the unique Chronomètre Furtif ICM that will be auctioned later this month to support t...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T17:39:22.000Z",
+      "score_quality": 85,
+      "score_notif": 46,
+      "cluster": "20260918-16aa2f8c1d55",
+      "cluster_main": true
+    },
     {
       "title": "Hands-on – The Tudor Northflag, an Improved Successor to the North Flag, now with GMT Function",
       "url": "https://monochrome-watches.com/tudor-northflag-gmt-2026-return-review-price/",
@@ -561,7 +589,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "featured": false,
-      "published_at": "2026-09-17T19:51:04.000Z",
+      "published_at": "2026-09-17T19:51:00.000Z",
       "score_quality": 88,
       "score_notif": 78,
       "cluster": "20260917-0564b1dabf67",
@@ -632,10 +660,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:22:47.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -730,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 76,
+      "score_quality": 78,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -814,10 +842,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -845,7 +873,7 @@
       "score_quality": 87,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -859,7 +887,7 @@
       "score_quality": 89,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hot Take: Grand Seiko Introduces The SBGW325",
@@ -943,7 +971,7 @@
       "score_quality": 77,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1727,7 +1755,7 @@
       "score_quality": 90,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
@@ -1752,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:58:38.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC celebrates 50 years of the Ingenieur SL with two limited editions",
@@ -1825,34 +1853,6 @@
       "score_quality": 74,
       "score_notif": 52,
       "cluster": "20260915-bdc6e6a60ca7",
-      "cluster_main": true
-    },
-    {
-      "title": "映画『ルックバック』主演の出口夏希が第83回ヴェネチア国際映画祭でまとったシャネルとは？",
-      "url": "https://www.webchronos.net/news/172744/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/CN_lb_1.webp",
-      "peek_preview": "2026年9月2〜12日（現地時間）までイタリア・リド島で開催されていた、第83回ヴェネチア国際映画祭。日本からの出品作として国内で注目が集まっていた是枝裕和監督の『ルックバック』は「Cinema & Arts […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-15T00:00:59.000Z",
-      "score_quality": 4,
-      "score_notif": 0,
-      "cluster": "20260915-e1524f202718",
-      "cluster_main": true
-    },
-    {
-      "title": "Benrus Brings Its Military History into the Modern Era with the New Type 3X Collection",
-      "url": "https://wornandwound.com/benrus-brings-its-military-history-into-the-modern-era-with-the-new-type-3x-collection/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Benrus-Type-3X-8.jpg",
-      "peek_preview": "The Benrus Type I and Type II are among the category of iconic military watches that first took root in the 1940s around WWII with the famous Dirty Dozen. The Type I and II are an extension of this lineage with designs...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-14T19:00:43.000Z",
-      "score_quality": 85,
-      "score_notif": 49,
-      "cluster": "20260914-aee0b7365cbd",
       "cluster_main": true
     }
   ]
