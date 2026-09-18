@@ -1,6 +1,6 @@
 {
-  "content_hash": "17c4794fa0b4f3b5972f8836c073aa3ec5ae0caa11518e405b079ac819ae66a4",
-  "last_updated": "2026-09-18T12:47:12.897Z",
+  "content_hash": "3067f4e63d972c83f561efe81465fb6e4e75bb6f605d64221d4c744b09d6d246",
+  "last_updated": "2026-09-18T13:47:08.408Z",
   "premium": {
     "links": []
   },
@@ -16,21 +16,21 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T19:00:06.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T13:00:37.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T09:01:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T13:00:05.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T12:00:38.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T07:01:05.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T13:31:45.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T09:59:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T13:41:52.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T11:00:00.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T09:00:40.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T13:31:25.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -176,6 +176,76 @@
   ],
   "items": [
     {
+      "title": "Nuovo Mido Multifort TV Big Date Special Edition: nero e bronzo",
+      "url": "https://www.orologidiclasse.com/mido-multifort-tv-big-date-special-edition-2026/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/mido-multifort-tv-big-date-special-edition-2026.jpg",
+      "peek_preview": "Mido aggiunge una nuova Special Edition alla famiglia Multifort TV Big Date, questa volta giocando soprattutto sul contrasto tra la cassa completamente nera e un quadrante dalle tonalità decisamente più calde. La refere...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-18T13:41:52.000Z",
+      "score_quality": 67,
+      "score_notif": 38,
+      "cluster": "20260918-bb9835e239f5",
+      "cluster_main": true
+    },
+    {
+      "title": "Henry Cavill on Longines, his ultimate 3-watch collection, and clean versus busy dials",
+      "url": "https://timeandtidewatches.com/henry-cavill-on-longines-and-his-ultimate-3-watch-collection-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/henry-cavill-longines-video-interview-feature-image.jpg",
+      "peek_preview": "Henry Cavill tells us his favourite Longines watches, his philosophy on wearing watches, clean versus busy dials, and more. The post Henry Cavill on Longines, his ultimate 3-watch collection, and clean versus busy dials...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T13:31:45.000Z",
+      "score_quality": 76,
+      "score_notif": 31,
+      "cluster": "20260918-a2f9ba36b868",
+      "cluster_main": true
+    },
+    {
+      "title": "Junghans Meister S Automatik 2026: Rot und Grün für den Herbst",
+      "url": "https://www.uhrenkosmos.com/junghans-meister-s-automatik-2026-rot-gruen/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Junghans-Meister-S-Automatic-und-Junghans-Meister-S-Automatic-36.jpg",
+      "peek_preview": "Junghans bringt mit Rot und Tannengrün neue Zifferblätter ans Handgelenk. Farbenfroh geht es für die Linie Junghans Meister S Automatik 2026 in den Herbst. Zwei Automatikmodelle kombinieren kräftige Zifferblätter mit be...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-18T13:31:25.000Z",
+      "score_quality": 61,
+      "score_notif": 27,
+      "cluster": "20260918-54c3c95cfd38",
+      "cluster_main": true
+    },
+    {
+      "title": "Review: the Stowa Fieldwatch Terra",
+      "url": "https://wornandwound.com/review/review-the-stowa-fieldwatch-terra/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Stowa-Fieldwatch-Terra-1.jpg",
+      "peek_preview": "More commonly found in the sky than the field, Stowa watches are well known for their lineup of classic Pilot’s watches. They’ve branched out a bit over the years, but the Pilot lineup is what comes to mind for me most...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T13:00:37.000Z",
+      "score_quality": 73,
+      "score_notif": 18,
+      "cluster": "20260918-1df46bfeeb40",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Pennsylvania-Based RGM Revives the E.F. Bowman Name with the Model 501-EFB",
+      "url": "https://monochrome-watches.com/pennsylvania-based-rgm-revives-the-e-f-bowman-name-with-the-model-501-efb-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Pennsylvania-Based-RGM-Revives-the-E.F.-Bowman-Name-with-the-Model-501-EFB-8-600x237.jpg",
+      "peek_preview": "For RGM Watch Co., the return of the E.F. Bowman name reconnects the Lancaster-based independent with a local watchmaking legacy that goes back to the 19th century, and one that has a direct connection to RGM founder Ro...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T13:00:05.000Z",
+      "score_quality": 82,
+      "score_notif": 46,
+      "cluster": "20260918-f21ba1351389",
+      "cluster_main": true
+    },
+    {
       "title": "New Release: Glashütte Original Reinvents The 70s Watch Line With A Crisper, Audio-Inspired Style",
       "url": "https://www.ablogtowatch.com/new-release-glashutte-original-reinvents-the-70s-watch-line-with-a-crisper-audio-inspired-style/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Glashutte-Original-70s-LOR-Crop-1-768x346.jpg",
@@ -187,7 +257,7 @@
       "score_quality": 74,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet rinasce dopo 200 anni: quattro nuove collezioni segnano il grande ritorno",
@@ -410,7 +480,7 @@
       "published_at": "2026-09-17T19:00:06.000Z",
       "score_quality": 76,
       "score_notif": 28,
-      "cluster": "20260917-eb88bb496ee3",
+      "cluster": "20260916-992255fbf9b8",
       "cluster_main": true
     },
     {
@@ -422,10 +492,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 72,
+      "score_quality": 74,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -478,10 +548,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:04:09.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Studio Underd0g and Ahmed Seddiqi Go Fishing in the Gulf with the 03SERIES Chan3ad",
@@ -495,7 +565,7 @@
       "score_quality": 85,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fortis, Berneron, and More Join Watches and Wonders 2027, Now Featuring 75 Brands",
@@ -607,7 +677,7 @@
       "score_quality": 73,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -985,7 +1055,7 @@
       "score_quality": 36,
       "score_notif": 28,
       "cluster": "20260916-992255fbf9b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
@@ -1096,21 +1166,7 @@
       "published_at": "2026-09-16T12:41:52.000Z",
       "score_quality": 61,
       "score_notif": 24,
-      "cluster": "20260914-09ef52a197de",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Updated Charlie Paris Concordia GMT Gets New Colours and a Much Lower Price",
-      "url": "https://monochrome-watches.com/2026-updated-charlie-paris-concordia-gmt-seiko-automatic-movement-more-accessible-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-updated-charlie-paris-concordia-gmt-seiko-automatic-movement-more-accessible-introducing-1-600x237.jpg",
-      "peek_preview": "It looks like Charlie Paris has been updating its catalogue one collection at a time. It was only recently that it refreshed the Alliance line-up with new sapphire-dial models, and now the French brand takes up the Conc...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T12:00:52.000Z",
-      "score_quality": 67,
-      "score_notif": 39,
-      "cluster": "20260916-2666d2ebe6ab",
+      "cluster": "20260916-804dc5571d17",
       "cluster_main": true
     },
     {
@@ -1150,10 +1206,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T10:00:02.000Z",
-      "score_quality": 73,
+      "score_quality": 75,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
@@ -1601,7 +1657,7 @@
       "score_quality": 88,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
@@ -1626,10 +1682,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:58:38.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC celebrates 50 years of the Ingenieur SL with two limited editions",
@@ -1797,62 +1853,6 @@
       "score_quality": 78,
       "score_notif": 56,
       "cluster": "20260914-2d82a782eabb",
-      "cluster_main": true
-    },
-    {
-      "title": "Il canto del tempo: il click a forma di cutrettola del Grand Seiko 9SA4",
-      "url": "https://italianwatchspotter.com/grand-seiko-9sa4-cutrettola-carica-manuale/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/Senza-titolo3.png",
-      "peek_preview": "Quanti appassionati di orologi trovano soddisfazione e appagamento nel quotidiano gesto rituale, quasi contemplativo, di caricare manualmente il proprio segnatempo? Si pensi a quegli attimi di quiete, la mattina magari,...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-14T09:00:00.000Z",
-      "score_quality": 72,
-      "score_notif": 18,
-      "cluster": "20260914-570ba02e26e3",
-      "cluster_main": true
-    },
-    {
-      "title": "Watch Art Grand Exhibition: un viaggio nel Dna Patek Philippe",
-      "url": "https://giornaleorologi.it/2026/09/14/watch-art-grand-exhibition-un-viaggio-nel-dna-patek-philippe/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/PP_20179M_001_1-apertura-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Watch Art Grand Exhibition: un viaggio nel Dna Patek Philippe In ottobre Milano sarà “la” destinazione per i collezionisti e gli appassionati di Alta Orologeria. L’obiettivo è la mostra Watch A...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-14T08:50:22.000Z",
-      "score_quality": 60,
-      "score_notif": 24,
-      "cluster": "20260914-09ef52a197de",
-      "cluster_main": false
-    },
-    {
-      "title": "Alpina sfida l’oceano con il Seastrong Diver Extreme Automatic x Route du Rhum",
-      "url": "https://www.watchinsanity.it/alpina-seastrong-diver-extreme-automatic-x-route-du-rhum/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Alpina_Eric_Peron_Watch_Insanity_01-1024x682.jpg",
-      "peek_preview": "Alpina è cronometrista ufficiale della regata Route du Rhum e lancia due orologi dedicati in edizione limitata, un Seastrong automatico e un Alpiner solare. The post Alpina sfida l’oceano con il Seastrong Diver Extreme...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-14T08:03:05.000Z",
-      "score_quality": 58,
-      "score_notif": 43,
-      "cluster": "20260914-dc0d53a3f9da",
-      "cluster_main": true
-    },
-    {
-      "title": "Rado opens its first Australian boutique on Melbourne’s high street",
-      "url": "https://timeandtidewatches.com/rado-australian-boutique-news/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Rado-Melbourne-Boutique-Feature.jpg",
-      "peek_preview": "Melbourne welcomes Swiss material masters Rado to its retail district with an all-new boutique at 298 Collins Street The post Rado opens its first Australian boutique on Melbourne’s high street appeared first on Time+Ti...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-14T08:00:39.000Z",
-      "score_quality": 66,
-      "score_notif": 36,
-      "cluster": "20260914-fec01b8b1b0f",
       "cluster_main": true
     }
   ]
