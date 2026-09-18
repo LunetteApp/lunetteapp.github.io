@@ -1,6 +1,6 @@
 {
-  "content_hash": "e47d2c61dd954c5fc092efc7264b5cbe828eca79828ca12b868793587bf8eee3",
-  "last_updated": "2026-09-18T09:47:08.351Z",
+  "content_hash": "291f9daa58046378b3953246e045fbe9cd85b0d105b4b0a51a0660b81fb7ef21",
+  "last_updated": "2026-09-18T10:47:08.863Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T09:00:18.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T09:01:49.000Z"
     },
     {
@@ -36,9 +36,9 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-13T11:41:45.000Z"
+      "estimated_articles_per_day": 0.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T10:25:21.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T09:00:00.000Z"
     },
     {
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-16T07:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T10:12:08.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "How A $42 Watch from India Went Viral (w/ Delhi Watch Company)",
+      "url": "https://www.unpolishedwatches.com/p/how-a-42-watch-from-india-went-viral",
+      "image": "https://substackcdn.com/image/fetch/$s_!FxQh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34039838-0296-441d-9656-32ac19e2743d_1926x1082.png",
+      "peek_preview": "Behind the DWC Terra with its founder and designer.",
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T10:25:21.000Z",
+      "score_quality": 50,
+      "score_notif": 14,
+      "cluster": "20260918-b86f0d5afc9f",
+      "cluster_main": true
+    },
+    {
+      "title": "Blancpain Lady B: il micro-bijou di design dal cuore meccanico",
+      "url": "https://giornaleorologi.it/2026/09/18/blancpain-lady-b/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/Ladybird_0064_3642-0064_1142_PR_4_RGB-copia-1024x736.jpg",
+      "peek_preview": "Per l'articolo completo - Blancpain Lady B: il micro-bijou di design dal cuore meccanico B come Blancpain, B come Bullett, B come Betty. Ma anche B come Bubble (o Boule, se preferisci il francese) e B come Bijou. Si chi...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-18T10:12:08.000Z",
+      "score_quality": 61,
+      "score_notif": 53,
+      "cluster": "20260917-e64751d5106d",
+      "cluster_main": false
+    },
     {
       "title": "First Look – Inspired by a Cult French Novel, Czapek Unveils the Promenade L’Ecume des Jours",
       "url": "https://monochrome-watches.com/inspired-by-a-cult-french-novel-czapek-unveils-the-promenade-ecume-des-jours-hands-on-price/",
@@ -263,7 +291,7 @@
       "title": "First Look – Singer Launches a New Collection with the 1970 DualTrack",
       "url": "https://monochrome-watches.com/singer-launches-a-new-collection-with-the-1970-dualtrack/",
       "image": "https://monochrome-watches.com/app/uploads/2026/09/Singer-Reimagined-1970-DualTrack-new-collection-review-1-600x237.jpg",
-      "peek_preview": "The high-end independent watch brand born from a passion for 1960s-1970s automotive design, Singer Reimagined was founded in 2017 by Rob Dickinson (of Singer Vehicle Design) and watch designer Marco Borraccino with moto...",
+      "peek_preview": "The high-end independent watch brand born from a passion for 1960s-1970s automotive design, Singer Reimagined was founded in 2017 by Rob Dickinson (of Singer Vehicle Design) and watch designer Marco Borraccino. Departin...",
       "source_name": "Monochrome Watches",
       "lang": "en",
       "featured": false,
@@ -366,10 +394,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 70,
+      "score_quality": 72,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -509,7 +537,7 @@
       "score_quality": 74,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -551,7 +579,7 @@
       "score_quality": 71,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -716,10 +744,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 73,
+      "score_quality": 75,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -789,7 +817,7 @@
       "score_quality": 80,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ゼニスがコレクション初の3針モデル「クロノマスター ソロ スポーツ」を発表",
@@ -1041,7 +1069,7 @@
       "score_quality": 59,
       "score_notif": 24,
       "cluster": "20260914-09ef52a197de",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Updated Charlie Paris Concordia GMT Gets New Colours and a Much Lower Price",
@@ -1125,7 +1153,7 @@
       "score_quality": 65,
       "score_notif": 44,
       "cluster": "20260913-fe2137afc450",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex crée la surprise avec la Perpetual Padellone, son calendrier annuel le plus ambitieux",
@@ -1178,10 +1206,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-16T07:00:00.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Rolex Icon Returns as the Perpetual Padellone",
@@ -1458,10 +1486,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-15T14:55:58.000Z",
-      "score_quality": 60,
+      "score_quality": 66,
       "score_notif": 44,
       "cluster": "20260913-fe2137afc450",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Furto da Ulysse Nardin: spariscono alcuni degli orologi più rari della Maison",
@@ -1542,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T09:00:00.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
@@ -1573,7 +1601,7 @@
       "score_quality": 87,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC celebrates 50 years of the Ingenieur SL with two limited editions",
@@ -1682,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T16:20:40.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "San Francisco 49ers’ Christian McCaffrey On Football’s Lessons",
@@ -1724,10 +1752,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo “Padellone”",
@@ -1766,10 +1794,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-14T08:50:22.000Z",
-      "score_quality": 58,
+      "score_quality": 60,
       "score_notif": 24,
       "cluster": "20260914-09ef52a197de",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alpina sfida l’oceano con il Seastrong Diver Extreme Automatic x Route du Rhum",
@@ -1825,34 +1853,6 @@
       "score_quality": 32,
       "score_notif": 43,
       "cluster": "20260914-c70126ba6118",
-      "cluster_main": true
-    },
-    {
-      "title": "ノモス グラスヒュッテ「テトラ」に新作2モデルが登場！ 自社製手巻きムーブメントを楽しめるシースルーバックを採用",
-      "url": "https://www.webchronos.net/news/171682/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/nomos_tetra27_w-duo_1.webp",
-      "peek_preview": "ノモス グラスヒュッテのスクエアウォッチ「テトラ」に、「テトラ 27 ホワイト」と「テトラ 27 デュオ」が登場した。ソリッドバック仕様だった既存モデルのは新たにシースルーバックが採用され、スクエアケースの裏側から自社製 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-14T03:00:10.000Z",
-      "score_quality": 67,
-      "score_notif": 45,
-      "cluster": "20260914-20de0fe3bfc9",
-      "cluster_main": true
-    },
-    {
-      "title": "ティファニーがクロノグラフ誕生160周年を記念した「ティファニー タイマー」の第2弾を発表",
-      "url": "https://www.webchronos.net/news/172389/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/TF_t_1.webp",
-      "peek_preview": "ティファニーにとって、2026年はブランド初のクロノグラフ誕生160周年を記念する年だ。今回、これを記念したクロノグラフモデル「ティファニー タイマー」の第2弾が発表された。本作は、チタンとプラチナを組み合わせたケースに […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-14T00:00:25.000Z",
-      "score_quality": 68,
-      "score_notif": 40,
-      "cluster": "20260914-575bbb3ce4b0",
       "cluster_main": true
     }
   ]
