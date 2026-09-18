@@ -1,6 +1,6 @@
 {
-  "content_hash": "83ee705820721fe4a41a8252e6599f0b403a15499ac917968758c06c4949d26c",
-  "last_updated": "2026-09-18T08:47:14.264Z",
+  "content_hash": "e47d2c61dd954c5fc092efc7264b5cbe828eca79828ca12b868793587bf8eee3",
+  "last_updated": "2026-09-18T09:47:08.351Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T05:00:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T09:00:18.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T06:05:48.000Z"
+      "estimated_articles_per_day": 4.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T09:01:49.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T08:01:00.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T09:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T08:35:58.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – Inspired by a Cult French Novel, Czapek Unveils the Promenade L’Ecume des Jours",
+      "url": "https://monochrome-watches.com/inspired-by-a-cult-french-novel-czapek-unveils-the-promenade-ecume-des-jours-hands-on-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Czapek-Promenade-Ecume-des-Jours-review-1-600x237.jpg",
+      "peek_preview": "Czapek launched the Promenade collection in 2024, an elegant line of compact, time-only dress watches that, in the words of CEO Xavier de Roquemaurel, serve as a “canvas for creative expression.” The latest addition to...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T09:01:49.000Z",
+      "score_quality": 80,
+      "score_notif": 48,
+      "cluster": "20260918-b40e71a1d543",
+      "cluster_main": true
+    },
+    {
+      "title": "The Top 5 Titanium Watches Released in 2026",
+      "url": "https://www.fratellowatches.com/the-top-5-titanium-watches-released-in-2026/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/01/Toledano-Chan-26.jpg",
+      "peek_preview": "Another Friday, another list. Last week, we picked five watches that never should have been discontinued. You had a lot to say about it, making it one of this year’s most-commented-on Top 5 articles. It made us think of...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T09:00:18.000Z",
+      "score_quality": 26,
+      "score_notif": 8,
+      "cluster": "20260918-9a46ae0db620",
+      "cluster_main": true
+    },
+    {
+      "title": "New: Czapek Promenade L’Écume des Jours",
+      "url": "https://deployant.com/new-czapek-promenade-lecume-des-jours/?utm_source=rss&utm_medium=rss&utm_campaign=new-czapek-promenade-lecume-des-jours",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/CZAPEK-ECUME-DES-JOURS-COMPOSITE-BBGROUND-deployant.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Czapek releases a new extension to their Promenade collection with the new L’Écume des Jours. The novelty sports a fascinating layered dial layered in blue en...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T09:00:00.000Z",
+      "score_quality": 74,
+      "score_notif": 48,
+      "cluster": "20260918-b40e71a1d543",
+      "cluster_main": false
+    },
     {
       "title": "Jaeger-LeCoultre crée son poinçon HPG et relance la course aux certifications",
       "url": "https://www.welovewatches.fr/jaeger-lecoultre-cree-son-poincon-hpg-et-relance-la-course-aux-certifications.html",
@@ -285,7 +327,7 @@
       "score_quality": 64,
       "score_notif": 44,
       "cluster": "20260913-fe2137afc450",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Apple Watch Series 12 And Ultra 4",
@@ -327,7 +369,7 @@
       "score_quality": 70,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -369,7 +411,7 @@
       "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -464,10 +506,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 72,
+      "score_quality": 74,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -506,10 +548,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:00:04.000Z",
-      "score_quality": 69,
+      "score_quality": 71,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -548,10 +590,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -579,7 +621,7 @@
       "score_quality": 85,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -590,10 +632,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hot Take: Grand Seiko Introduces The SBGW325",
@@ -677,7 +719,7 @@
       "score_quality": 73,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1044,20 +1086,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – The new Glashütte Original 70s Collection, a Reworked Take on the Integrated Sports Watch",
-      "url": "https://monochrome-watches.com/2026-new-glashutte-original-70s-collection-time-and-date-integrated-sports-watch-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Glashutte-Original-70s-Collection-Integrated-Sports-Watch-23-600x237.jpg",
-      "peek_preview": "While Glashütte Original‘s Seventies collection has become associated with its bold, square-shaped chronographs, the German manufacture also once offered Seventies Panaroma Date models without the chronograph function....",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T10:01:50.000Z",
-      "score_quality": 82,
-      "score_notif": 57,
-      "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
-    },
-    {
       "title": "Glashütte Original's Seventies Relaunch: High Horology Meets High Fidelity",
       "url": "https://teddybaldassarre.com/blogs/watches/glashutte-original-seventies-relaunch",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Glashuette-Original-Seventies-Vinyl-Record-reclining-2.jpg?v=1789497430",
@@ -1066,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T10:00:02.000Z",
-      "score_quality": 66,
+      "score_quality": 73,
       "score_notif": 57,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
@@ -1094,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T09:00:04.000Z",
-      "score_quality": 33,
+      "score_quality": 65,
       "score_notif": 44,
       "cluster": "20260913-fe2137afc450",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex crée la surprise avec la Perpetual Padellone, son calendrier annuel le plus ambitieux",
@@ -1168,20 +1196,6 @@
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
       "cluster_main": false
-    },
-    {
-      "title": "The Formex Aria Proves The Phrase “Don’t Knock It ‘Til You Try It”",
-      "url": "https://www.fratellowatches.com/the-formex-aria-proves-the-phrase-dont-knock-it-til-you-try-it/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Formex-Aria-Manufacture-Chronometer-Denso-Blue-9.jpg",
-      "peek_preview": "Without a doubt, one of the most talked-about recent releases is the Formex Aria Manufacture Chronometer, or simply Aria, as most people will refer to it. After I wrote the introductory article based on the press info,...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T05:00:00.000Z",
-      "score_quality": 66,
-      "score_notif": 18,
-      "cluster": "20260916-d26e1ff0e2dd",
-      "cluster_main": true
     },
     {
       "title": "IWC Marks 50 Years of the Ingenieur",
@@ -1668,10 +1682,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T16:20:40.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "San Francisco 49ers’ Christian McCaffrey On Football’s Lessons",
@@ -1710,10 +1724,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-14T12:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 47,
       "cluster": "20260914-d01f1a53b1f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Dentro i brevetti Rolex: dal Grande Date a un nuovo “Padellone”",
@@ -1839,20 +1853,6 @@
       "score_quality": 68,
       "score_notif": 40,
       "cluster": "20260914-575bbb3ce4b0",
-      "cluster_main": true
-    },
-    {
-      "title": "Stirling Durrant: quando un orologio meccanico torna utile sul campo",
-      "url": "https://www.orologidiclasse.com/stirling-durrant-smartwatch-rischio-militari/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/stirling-durrant-orologio-militare.jpg",
-      "peek_preview": "Un’immagine pubblicata su Reddit mostra uno Stirling Durrant al polso di un militare, all’interno di quello che nei commenti viene identificato come un M1283, un nuovo veicolo corazzato dell’esercito statunitense. L’aut...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-13T22:05:27.000Z",
-      "score_quality": 48,
-      "score_notif": 13,
-      "cluster": "20260913-f780124d5388",
       "cluster_main": true
     }
   ]
