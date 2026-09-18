@@ -1,6 +1,6 @@
 {
-  "content_hash": "a3b7ace932a70c29df3ce36f343bf9dce76ba8349261b1a8ee1415fe3be2ca0f",
-  "last_updated": "2026-09-17T23:47:03.524Z",
+  "content_hash": "948a06ec72dcef120be80fd3dcf7edb816a1a50b533fc640d35a986046318956",
+  "last_updated": "2026-09-18T00:47:10.961Z",
   "premium": {
     "links": []
   },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-17T21:00:55.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-17T03:00:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-18T00:00:09.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ウブロがベルベットのような質感を持つ「ビッグ・バン オリジナル ソフトタッチ」2モデルを発表",
+      "url": "https://www.webchronos.net/news/173149/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/HB_bb_1.webp",
+      "peek_preview": "ウブロは、「ビッグ・バン オリジナル」に独自のテクスチャードラバーコンパウンドを組み合わせ、ベルベット調の柔らかな触感を実現した「ビッグ・バン オリジナル ソフトタッチ」を発表した。用意されるのは、オールブラックモデルと […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-18T00:00:09.000Z",
+      "score_quality": 64,
+      "score_notif": 44,
+      "cluster": "20260913-fe2137afc450",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Apple Watch Series 12 And Ultra 4",
       "url": "https://www.hodinkee.com/articles/the-apple-watch-series-12-and-ultra-4",
@@ -215,7 +229,7 @@
       "score_quality": 68,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -268,10 +282,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:04:09.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Studio Underd0g and Ahmed Seddiqi Go Fishing in the Gulf with the 03SERIES Chan3ad",
@@ -285,7 +299,7 @@
       "score_quality": 83,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fortis, Berneron, and More Join Watches and Wonders 2027, Now Featuring 75 Brands",
@@ -394,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:00:04.000Z",
-      "score_quality": 67,
+      "score_quality": 69,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -436,10 +450,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -467,7 +481,7 @@
       "score_quality": 83,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -774,8 +788,8 @@
       "published_at": "2026-09-16T13:07:34.000Z",
       "score_quality": 36,
       "score_notif": 55,
-      "cluster": "20260916-62ce381ef558",
-      "cluster_main": false
+      "cluster": "20260916-992255fbf9b8",
+      "cluster_main": true
     },
     {
       "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
@@ -983,7 +997,7 @@
       "featured": false,
       "published_at": "2026-09-16T09:00:04.000Z",
       "score_quality": 33,
-      "score_notif": 32,
+      "score_notif": 44,
       "cluster": "20260913-fe2137afc450",
       "cluster_main": false
     },
@@ -1094,10 +1108,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T03:36:44.000Z",
-      "score_quality": 82,
+      "score_quality": 85,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "カシオ「エディフィス」より、コンパクトなソーラークロノグラフ「EFS-S660」が新登場",
@@ -1361,9 +1375,9 @@
       "featured": false,
       "published_at": "2026-09-15T14:55:58.000Z",
       "score_quality": 60,
-      "score_notif": 32,
+      "score_notif": 44,
       "cluster": "20260913-fe2137afc450",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Furto da Ulysse Nardin: spariscono alcuni degli orologi più rari della Maison",
@@ -1447,7 +1461,7 @@
       "score_quality": 84,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
