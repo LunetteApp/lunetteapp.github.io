@@ -1,6 +1,6 @@
 {
-  "content_hash": "25740eff02e02901ec0465779092ffaa0044f8a890483afc323bdb90187d7168",
-  "last_updated": "2026-09-19T08:46:53.775Z",
+  "content_hash": "2fcb5eb3669f50090b208a190004a9ab3e7f89804e6147640bd2b4c60708de5e",
+  "last_updated": "2026-09-19T09:46:46.947Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-19T05:00:54.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T09:00:43.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T08:35:50.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T08:00:38.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Auret Debuts With The Mederi Collection — Swiss Heart, Colombian Soul",
+      "url": "https://www.fratellowatches.com/introducing-the-auret-mederi/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Auret-Mederi-17.jpg",
+      "peek_preview": "Auret’s inaugural collection, Mederi, gives the brand a personal starting point. Auret is a new name in watchmaking, but its idea is far more human than your usual “here’s our first watch.” The brand was founded in Colo...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T09:00:43.000Z",
+      "score_quality": 71,
+      "score_notif": 36,
+      "cluster": "20260919-2bedace3924a",
+      "cluster_main": true
+    },
     {
       "title": "The Petrolhead Corner – Is The Wells Vertige The Supercar/Hypercar Antidote We Need?",
       "url": "https://monochrome-watches.com/the-petrolhead-corner-wells-vertige-series-2-robin-wells-robin-hall-ford-duratec-sports-car-hand-built-uk-specs-price/",
@@ -758,10 +772,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T17:36:03.000Z",
-      "score_quality": 74,
+      "score_quality": 86,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Launches New Tribute To First Manual-Winding 9S With Limited Edition SBGW325",
@@ -884,10 +898,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1097,7 +1111,7 @@
       "score_quality": 81,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1207,7 +1221,7 @@
       "featured": false,
       "published_at": "2026-09-16T20:00:34.000Z",
       "score_quality": 53,
-      "score_notif": 67,
+      "score_notif": 52,
       "cluster": "20260915-b34f0257a129",
       "cluster_main": false
     },
@@ -1308,20 +1322,6 @@
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
       "cluster_main": false
-    },
-    {
-      "title": "Illuminating The Cosmos: The Louis Moinet Moon Meteor",
-      "url": "https://www.fratellowatches.com/new-louis-moinet-moon-meteor/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Louis-Moinet-GWD-2026.jpg",
-      "peek_preview": "Today, Louis Moinet continues its fascination with the cosmos. The brand’s latest creation, the Moon Meteor, is a limited edition of just 12 pieces that turns the dial into a miniature cosmic scene. Hand-painted nebulae...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T13:00:59.000Z",
-      "score_quality": 48,
-      "score_notif": 31,
-      "cluster": "20260916-dffba2f539aa",
-      "cluster_main": true
     },
     {
       "title": "New Release: Hublot MP-14 Origin By Jeff Koons Is A Gem-Set Sapphire Watch Inspired By The Universe",
@@ -1501,7 +1501,7 @@
       "featured": false,
       "published_at": "2026-09-16T03:36:44.000Z",
       "score_quality": 85,
-      "score_notif": 67,
+      "score_notif": 52,
       "cluster": "20260915-b34f0257a129",
       "cluster_main": false
     },
@@ -1587,7 +1587,7 @@
       "score_quality": 85,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Rolex Perpetual Padellone Annual Calendar Watches Pay Tribute To A Vintage Grail",
@@ -1823,9 +1823,9 @@
       "featured": false,
       "published_at": "2026-09-15T09:00:00.000Z",
       "score_quality": 94,
-      "score_notif": 67,
+      "score_notif": 52,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
@@ -1839,6 +1839,20 @@
       "score_quality": 48,
       "score_notif": 18,
       "cluster": "20260915-36d2fd8225c0",
+      "cluster_main": true
+    },
+    {
+      "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
+      "url": "https://www.atimelyperspective.com/iwc-celebrates-50-years-of-gentas-ingenieur-with-two-limited-editions/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/IW328910_Front_Small-1024x1024.jpg",
+      "peek_preview": "Some watches are instant successes. Others have to wait for the world to catch up. The IWC Ingenieur SL designed by Gérald Genta falls decidedly into the latter camp. When the bold stainless-steel Ingenieur SL Reference...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-15T07:58:38.000Z",
+      "score_quality": 95,
+      "score_notif": 52,
+      "cluster": "20260915-b34f0257a129",
       "cluster_main": true
     }
   ]
