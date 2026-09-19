@@ -1,6 +1,6 @@
 {
-  "content_hash": "43b98f8de10e0e0b5175bd59f84126daf87dc38b406d80cadc21e43b7b415ede",
-  "last_updated": "2026-09-19T16:46:57.762Z",
+  "content_hash": "5cd835ffff639611566b851b01c8947d7e5f50b0e77e5f17b822717464fdadc0",
+  "last_updated": "2026-09-19T23:47:01.361Z",
   "premium": {
     "links": []
   },
@@ -15,7 +15,7 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T14:00:12.000Z"
     },
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-09-19T03:00:36.000Z"
     },
     {
@@ -842,10 +842,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -982,10 +982,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1027,7 +1027,7 @@
       "score_quality": 83,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -1195,7 +1195,7 @@
       "score_quality": 87,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1251,7 +1251,7 @@
       "score_quality": 86,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ゼニスがコレクション初の3針モデル「クロノマスター ソロ スポーツ」を発表",
@@ -1556,10 +1556,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-16T07:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Rolex Icon Returns as the Perpetual Padellone",
@@ -1839,20 +1839,6 @@
       "score_quality": 62,
       "score_notif": 69,
       "cluster": "20260915-5f1ba08eb827",
-      "cluster_main": true
-    },
-    {
-      "title": "Victorinox Introduces A New Generation Of The Maverick Watch",
-      "url": "https://www.ablogtowatch.com/victorinox-introduces-a-new-generation-of-the-maverick-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Victorinox-Maverick-768x334.jpg",
-      "peek_preview": "Two decades after its introduction, Victorinox is updating the Maverick with a refreshed design and a new case size. The latest generation of the collection combines more contemporary proportions with a broad selection...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T14:00:50.000Z",
-      "score_quality": 85,
-      "score_notif": 48,
-      "cluster": "20260915-77fbb98fc019",
       "cluster_main": true
     }
   ]
