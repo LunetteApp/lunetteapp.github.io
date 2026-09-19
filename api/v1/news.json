@@ -1,6 +1,6 @@
 {
-  "content_hash": "7c724c24458fc6f00e1893f85272e510632324cf39f56c3fb2a5d7d8b087f3f9",
-  "last_updated": "2026-09-19T04:46:52.894Z",
+  "content_hash": "c8749c6594292a1c30f8d3d9bdd138b241bfbf120359691ee676b6353115ba28",
+  "last_updated": "2026-09-19T05:46:59.524Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T14:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T05:00:54.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -71,8 +71,8 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.4,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T17:39:22.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Bone-Chilling News: Charlie Adds Five Updated Concordia GMT Watches To Its Lineup",
+      "url": "https://www.fratellowatches.com/the-updated-charlie-concordia-gmt/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Concordia-collage.jpg",
+      "peek_preview": "Arctic surfing — why not? And why not do it in style? Charlie, a small independent watch brand from Paris, adds five updated Concordia GMT watches to its lineup, and not only are they adventure-proof, but they also have...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T05:00:54.000Z",
+      "score_quality": 62,
+      "score_notif": 26,
+      "cluster": "20260919-3c2ab47a2cd1",
+      "cluster_main": true
+    },
     {
       "title": "H.モーザーが大丸福岡天神店に国内7店舗目となる新店舗をオープン",
       "url": "https://www.webchronos.net/news/172794/",
@@ -702,10 +716,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -887,7 +901,7 @@
       "score_quality": 79,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -1366,20 +1380,6 @@
       "cluster_main": false
     },
     {
-      "title": "Singer Reimagined Keeps The GMT Hits Coming With The 1970 DualTrack",
-      "url": "https://www.fratellowatches.com/singer-reimagined-1970-dualtrack/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/SINGER_1970DUALTRACK_TRIO.jpg",
-      "peek_preview": "About two weeks ago, during Geneva Watch Days, I visited the Singer atelier in Geneva. It’s a beautiful place, slightly hidden on a street near the lake, where Singer Reimagined works on its watches. There, I got a firs...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T12:00:26.000Z",
-      "score_quality": 73,
-      "score_notif": 42,
-      "cluster": "20260916-5be50556d6b9",
-      "cluster_main": false
-    },
-    {
       "title": "Glashütte Original's Seventies Relaunch: High Horology Meets High Fidelity",
       "url": "https://teddybaldassarre.com/blogs/watches/glashutte-original-seventies-relaunch",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Glashuette-Original-Seventies-Vinyl-Record-reclining-2.jpg?v=1789497430",
@@ -1573,7 +1573,7 @@
       "score_quality": 83,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Rolex Perpetual Padellone Annual Calendar Watches Pay Tribute To A Vintage Grail",
@@ -1584,10 +1584,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T18:52:41.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Squale’s new Galeazzi Artiglio celebrates a century beneath the surface",
