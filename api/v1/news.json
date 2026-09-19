@@ -1,6 +1,6 @@
 {
-  "content_hash": "d0e1657074be4287c53e0ad7112744f01db872a626939ac4846bb0505ea7a276",
-  "last_updated": "2026-09-19T14:46:58.573Z",
+  "content_hash": "3b67337229e6c325b7f29baf1ac451ac089cbd1d42345545bdb92c32a1915966",
+  "last_updated": "2026-09-19T15:47:08.768Z",
   "premium": {
     "links": []
   },
@@ -16,21 +16,21 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T14:00:12.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T14:00:12.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T14:01:52.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-19T08:00:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T15:30:09.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New releases from Blancpain, Czapek, Grand Seiko and more",
+      "url": "https://timeandtidewatches.com/rolex-blancpain-czapek-grand-seiko-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/grand-seiko-web.jpg",
+      "peek_preview": "This past week has been one for the ages. Rolex announces an annual calendar carrying an official nickname for the first time, Blancpain releases one of the smallest mechanical movements to date, and Grand Seiko brings...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T15:30:09.000Z",
+      "score_quality": 31,
+      "score_notif": 19,
+      "cluster": "20260919-642c7058aa14",
+      "cluster_main": true
+    },
     {
       "title": "Chronoswiss Neo Digiteur Pastel Code Brings A Softer Palette To Mechanical Digital Time",
       "url": "https://www.ablogtowatch.com/chronoswiss-neo-digiteur-pastel-code-brings-a-softer-palette-to-mechanical-digital-time/",
@@ -604,10 +618,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T12:00:38.000Z",
-      "score_quality": 76,
+      "score_quality": 78,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet rinasce dopo 200 anni: quattro nuove collezioni segnano il grande ritorno",
@@ -856,10 +870,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T17:36:03.000Z",
-      "score_quality": 86,
+      "score_quality": 89,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Launches New Tribute To First Manual-Winding 9S With Limited Edition SBGW325",
@@ -884,10 +898,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:22:47.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -982,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1111,7 +1125,7 @@
       "score_quality": 91,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hot Take: Grand Seiko Introduces The SBGW325",
@@ -1195,7 +1209,7 @@
       "score_quality": 85,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1391,7 +1405,7 @@
       "score_quality": 90,
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Hublot MP-14 Origin By Jeff Koons Is A Gem-Set Sapphire Watch Inspired By The Universe",
@@ -1416,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T13:00:10.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Does a balloon dog watch sound like fiction? Hublot and Jeff Koons made it a reality",
@@ -1475,7 +1489,7 @@
       "score_quality": 77,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
@@ -1783,7 +1797,7 @@
       "score_quality": 88,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Chopard Happy Diamond Heritage Re-Releases For 50th Anniversary",
@@ -1839,20 +1853,6 @@
       "score_quality": 85,
       "score_notif": 48,
       "cluster": "20260915-77fbb98fc019",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Ferdinand Berthoud FB 3SPC.4-1",
-      "url": "https://watchesbysjx.com/2026/09/ferdinand-berthoud-fb-3spc-4-1.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Ferdinand-Berthoud-FB-3SPC4_1-3x2-centred-header-300x200.jpg",
-      "peek_preview": "The slate of truly new releases from Geneva Watch Days was fairly limited, but among the many new variants of existing models, the Ferdinand Berthoud FB 3SPC.4-1 stood out for its lightweight and richly tactile ceramise...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T12:42:35.000Z",
-      "score_quality": 95,
-      "score_notif": 34,
-      "cluster": "20260915-b039ae0b9af1",
       "cluster_main": true
     }
   ]
