@@ -1,6 +1,6 @@
 {
-  "content_hash": "e2648f7348129e1ea08778efbc7fdf7b94773f2a464d60506f53a0a939ada4b2",
-  "last_updated": "2026-09-19T13:47:56.158Z",
+  "content_hash": "d0e1657074be4287c53e0ad7112744f01db872a626939ac4846bb0505ea7a276",
+  "last_updated": "2026-09-19T14:46:58.573Z",
   "premium": {
     "links": []
   },
@@ -16,22 +16,22 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T19:00:18.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T14:00:12.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-19T08:35:50.000Z"
+      "estimated_articles_per_day": 4.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T14:00:12.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-19T12:00:48.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T14:01:52.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T13:30:00.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T13:31:27.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Chronoswiss Neo Digiteur Pastel Code Brings A Softer Palette To Mechanical Digital Time",
+      "url": "https://www.ablogtowatch.com/chronoswiss-neo-digiteur-pastel-code-brings-a-softer-palette-to-mechanical-digital-time/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Chronoswiss-Neo-Digiteur-Pastel-Code-SP-21-768x432.jpg",
+      "peek_preview": "Luxury Swiss watchmaker Chronoswiss is giving one of its most unconventional watches a colorful new treatment with the Neo Digiteur Pastel Code, a trio of limited editions in Rose, Mint, and Sky. The new models retain t...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T14:01:52.000Z",
+      "score_quality": 68,
+      "score_notif": 42,
+      "cluster": "20260919-505e7dce0003",
+      "cluster_main": true
+    },
+    {
+      "title": "Watches, Stories, & Gear: Watches on the Runway, A Second Look at Bremont, and Lancaster Watch Weekend",
+      "url": "https://wornandwound.com/watches-stories-gear-watches-on-the-runway-a-second-look-at-bremont-and-lancaster-watch-weekend/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/JPress_SS27_Details_9839-scaled.jpg",
+      "peek_preview": "J. Press’ Vintage Watches New York Fashion Week wrapped this week, and I was lucky enough to attend a few shows, most notably J. Press, which is now under Jack Carlson’s leaderhsip. From my front-row seat, there was ple...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T14:00:12.000Z",
+      "score_quality": 24,
+      "score_notif": 8,
+      "cluster": "20260919-6635e47a1622",
+      "cluster_main": true
+    },
+    {
+      "title": "The ABCs of Time – The History of American Watchmaking",
+      "url": "https://monochrome-watches.com/the-history-of-american-watchmaking-abcs-of-time/",
+      "image": "https://monochrome-watches.com/app/uploads/2020/10/RGM-Model-222-RR-railroad-Montgomery-Marginal-Minute-Dial-american-made-watch-13-600x237.jpg",
+      "peek_preview": "Pocket watches were born in the early 16th century in Germany (Nuremberg eggs) but were very expensive, handmade curiosities that kept horrible time and were composed of components unique to each piece. Replacement part...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T14:00:12.000Z",
+      "score_quality": 80,
+      "score_notif": 18,
+      "cluster": "20260919-72aa3faaf1a9",
+      "cluster_main": true
+    },
     {
       "title": "Weekend Reads: Cartier Cheich Breaks Auction Records, Rolex Unveils the Padellone, and a Rare Patek Nautilus BlackStone",
       "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-09-19",
@@ -565,7 +607,7 @@
       "score_quality": 76,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet rinasce dopo 200 anni: quattro nuove collezioni segnano il grande ritorno",
@@ -803,7 +845,7 @@
       "score_quality": 82,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -828,10 +870,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T17:07:36.000Z",
-      "score_quality": 76,
+      "score_quality": 80,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: Watches and Wonders Geneva Welcomes Breitling, Porsche Design, Universal Genève and Ten Others for 2027—Now with 75 Brands",
@@ -943,7 +985,7 @@
       "score_quality": 84,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -982,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:00:04.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -1150,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1181,20 +1223,6 @@
       "score_quality": 83,
       "score_notif": 42,
       "cluster": "20260915-23f9fb7673a7",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Grand Seiko Elegance SBGW325, Tribute to the First Manual-Winding 9S Model",
-      "url": "https://monochrome-watches.com/grand-seiko-elegance-sbgw325-tribute-to-the-first-manual-winding-9s-model-sbgw003-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Grand-Seiko-Elegance-Manual-Winding-SBGW325-Tribute-to-SBGW003-Arabic-Nuemrals-1-600x237.jpg",
-      "peek_preview": "Some watches have shaped the perception we have of a brand in a striking way. At Grand Seiko, if we look at more recent times, the Spring Drive Snowflake SBGA211 is one of these watches. Some, however, did this in a far...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T06:41:54.000Z",
-      "score_quality": 84,
-      "score_notif": 52,
-      "cluster": "20260917-83a40dea703f",
       "cluster_main": true
     },
     {
@@ -1360,10 +1388,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T13:01:43.000Z",
-      "score_quality": 78,
+      "score_quality": 90,
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Hublot MP-14 Origin By Jeff Koons Is A Gem-Set Sapphire Watch Inspired By The Universe",
@@ -1391,7 +1419,7 @@
       "score_quality": 89,
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Does a balloon dog watch sound like fiction? Hublot and Jeff Koons made it a reality",
@@ -1444,10 +1472,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T10:00:02.000Z",
-      "score_quality": 75,
+      "score_quality": 77,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
@@ -1643,7 +1671,7 @@
       "score_quality": 87,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Squale’s new Galeazzi Artiglio celebrates a century beneath the surface",
@@ -1752,10 +1780,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T16:00:10.000Z",
-      "score_quality": 77,
+      "score_quality": 88,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Chopard Happy Diamond Heritage Re-Releases For 50th Anniversary",
@@ -1800,20 +1828,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: the Benjamin James Deerhurst Regulator",
-      "url": "https://wornandwound.com/review/hands-on-the-benjamin-james-deerhurst-regulator/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/BENJAMIN_JAMES_1.jpg",
-      "peek_preview": "The trajectory of my watch enthusiasm over the past several years can be boiled down to one basic principle: seeking things that are different. It’s what led me to Arcanaut, briefly owning a M.A.D.1S, a devotion to the...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T14:00:59.000Z",
-      "score_quality": 76,
-      "score_notif": 24,
-      "cluster": "20260915-1789eff9f30f",
-      "cluster_main": true
-    },
-    {
       "title": "Victorinox Introduces A New Generation Of The Maverick Watch",
       "url": "https://www.ablogtowatch.com/victorinox-introduces-a-new-generation-of-the-maverick-watch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Victorinox-Maverick-768x334.jpg",
@@ -1839,20 +1853,6 @@
       "score_quality": 95,
       "score_notif": 34,
       "cluster": "20260915-b039ae0b9af1",
-      "cluster_main": true
-    },
-    {
-      "title": "The Tissot PRX Chronograph goes quartz in three sharp new dial colours",
-      "url": "https://timeandtidewatches.com/tissot-prx-quartz-chronograph-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-tissot-prx-chrono-quartz.webp",
-      "peek_preview": "Tissot expands the PRX collection with a new 41mm quartz chronograph, featuring three ultra clean, vertically brushed dials. The post The Tissot PRX Chronograph goes quartz in three sharp new dial colours appeared first...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T10:00:28.000Z",
-      "score_quality": 66,
-      "score_notif": 45,
-      "cluster": "20260915-000e067df067",
       "cluster_main": true
     }
   ]
