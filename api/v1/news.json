@@ -1,6 +1,6 @@
 {
-  "content_hash": "3b67337229e6c325b7f29baf1ac451ac089cbd1d42345545bdb92c32a1915966",
-  "last_updated": "2026-09-19T15:47:08.768Z",
+  "content_hash": "43b98f8de10e0e0b5175bd59f84126daf87dc38b406d80cadc21e43b7b415ede",
+  "last_updated": "2026-09-19T16:46:57.762Z",
   "premium": {
     "links": []
   },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.3,
+      "estimated_articles_per_day": 4.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T14:00:12.000Z"
     },
@@ -79,13 +79,13 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T15:30:09.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
+      "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T13:31:27.000Z"
     },
@@ -271,20 +271,6 @@
       "score_quality": 82,
       "score_notif": 23,
       "cluster": "20260919-3da33e582cc0",
-      "cluster_main": true
-    },
-    {
-      "title": "Auret Debuts With The Mederi Collection — Swiss Heart, Colombian Soul",
-      "url": "https://www.fratellowatches.com/introducing-the-auret-mederi/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Auret-Mederi-17.jpg",
-      "peek_preview": "Auret’s inaugural collection, Mederi, gives the brand a personal starting point. Auret is a new name in watchmaking, but its idea is far more human than your usual “here’s our first watch.” The brand was founded in Colo...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-19T09:00:43.000Z",
-      "score_quality": 71,
-      "score_notif": 36,
-      "cluster": "20260919-2bedace3924a",
       "cluster_main": true
     },
     {
@@ -873,7 +859,7 @@
       "score_quality": 89,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Launches New Tribute To First Manual-Winding 9S With Limited Edition SBGW325",
@@ -999,7 +985,7 @@
       "score_quality": 86,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1083,7 +1069,7 @@
       "score_quality": 92,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -1108,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:29.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -1206,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1406,6 +1392,20 @@
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
       "cluster_main": false
+    },
+    {
+      "title": "Illuminating The Cosmos: The Louis Moinet Moon Meteor",
+      "url": "https://www.fratellowatches.com/new-louis-moinet-moon-meteor/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Louis-Moinet-GWD-2026.jpg",
+      "peek_preview": "Today, Louis Moinet continues its fascination with the cosmos. The brand’s latest creation, the Moon Meteor, is a limited edition of just 12 pieces that turns the dial into a miniature cosmic scene. Hand-painted nebulae...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-16T13:00:59.000Z",
+      "score_quality": 60,
+      "score_notif": 24,
+      "cluster": "20260916-dffba2f539aa",
+      "cluster_main": true
     },
     {
       "title": "New Release: Hublot MP-14 Origin By Jeff Koons Is A Gem-Set Sapphire Watch Inspired By The Universe",
@@ -1682,10 +1682,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T18:52:41.000Z",
-      "score_quality": 87,
+      "score_quality": 90,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Squale’s new Galeazzi Artiglio celebrates a century beneath the surface",
