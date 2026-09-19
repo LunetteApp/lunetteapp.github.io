@@ -1,6 +1,6 @@
 {
-  "content_hash": "3c9158cecae1fd0a7a814508c2e29c972c712b4b60d642b7e1d12502e87a3625",
-  "last_updated": "2026-09-19T07:46:43.347Z",
+  "content_hash": "25740eff02e02901ec0465779092ffaa0044f8a890483afc323bdb90187d7168",
+  "last_updated": "2026-09-19T08:46:53.775Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T05:00:54.000Z"
     },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T16:10:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T08:35:50.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T07:01:53.000Z"
     },
     {
@@ -43,7 +43,7 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T17:40:51.000Z"
     },
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 3,
+      "estimated_articles_per_day": 2.9,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T21:00:01.000Z"
     },
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T13:31:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T08:00:38.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.9,
+      "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T15:57:16.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Petrolhead Corner – Is The Wells Vertige The Supercar/Hypercar Antidote We Need?",
+      "url": "https://monochrome-watches.com/the-petrolhead-corner-wells-vertige-series-2-robin-wells-robin-hall-ford-duratec-sports-car-hand-built-uk-specs-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Wells-Vertige-Robin-Wells-Robin-Hall-Featured-600x237.jpg",
+      "peek_preview": "If you’re anything like us, you’ll feel more connected (pun intended) to something analogue instead of something digital. A mechanical watch, to us and no doubt many of you, simply feels like it has character, a soul. B...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T08:35:50.000Z",
+      "score_quality": 44,
+      "score_notif": 9,
+      "cluster": "20260919-8ecb7d7df280",
+      "cluster_main": true
+    },
     {
       "title": "Citizen L Rainell Eco-Drive Ladies’ Teardrop Watch Review",
       "url": "https://www.ablogtowatch.com/citizen-l-rainell-eco-drive-ladies-teardrop-watch-review/",
@@ -873,7 +887,7 @@
       "score_quality": 80,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1223,20 +1237,6 @@
       "score_quality": 68,
       "score_notif": 33,
       "cluster": "20260916-242e3fabf47a",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – Kollokium Closes the Projekt 01 Chapter with the Luminous Variant H",
-      "url": "https://monochrome-watches.com/kollokium-closes-the-projekt-01-chapter-with-the-luminous-variant-h/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/kollokium-Projekt-01-Variant-H-review-4-600x237.jpg",
-      "peek_preview": "With the Projekt 01 Variant H, Kollokium puts an end to its first chapter, the watch that marked the independent platform’s debut. Since its introduction in 2023, the Projekt 01 has been offered in several iterations, w...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T16:05:40.000Z",
-      "score_quality": 84,
-      "score_notif": 46,
-      "cluster": "20260916-d38fd95c247b",
       "cluster_main": true
     },
     {
@@ -1584,10 +1584,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T20:00:10.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Rolex Perpetual Padellone Annual Calendar Watches Pay Tribute To A Vintage Grail",
@@ -1601,7 +1601,7 @@
       "score_quality": 84,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Squale’s new Galeazzi Artiglio celebrates a century beneath the surface",
@@ -1840,20 +1840,6 @@
       "score_notif": 18,
       "cluster": "20260915-36d2fd8225c0",
       "cluster_main": true
-    },
-    {
-      "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
-      "url": "https://www.atimelyperspective.com/iwc-celebrates-50-years-of-gentas-ingenieur-with-two-limited-editions/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/IW328910_Front_Small-1024x1024.jpg",
-      "peek_preview": "Some watches are instant successes. Others have to wait for the world to catch up. The IWC Ingenieur SL designed by Gérald Genta falls decidedly into the latter camp. When the bold stainless-steel Ingenieur SL Reference...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T07:58:38.000Z",
-      "score_quality": 93,
-      "score_notif": 67,
-      "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
     }
   ]
 }
