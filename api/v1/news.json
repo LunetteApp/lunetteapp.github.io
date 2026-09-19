@@ -1,6 +1,6 @@
 {
-  "content_hash": "2fcb5eb3669f50090b208a190004a9ab3e7f89804e6147640bd2b4c60708de5e",
-  "last_updated": "2026-09-19T09:46:46.947Z",
+  "content_hash": "293af0370b96eaf05afe3e8e3afa40b20f9d5d7da6a2220f9a268231dc80f345",
+  "last_updated": "2026-09-19T12:47:07.023Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T09:00:43.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-19T07:01:53.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T12:00:48.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The Baume & Mercier Riviera 73 Watch Is Slimmer, Cleaner, And More Faithful To The Original",
+      "url": "https://www.ablogtowatch.com/hands-on-the-baume-mercier-riviera-73-watch-is-slimmer-cleaner-and-more-faithful-to-the-original/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Baume-et-Mercier-Riviera-73-ADA-Crop-768x346.jpg",
+      "peek_preview": "Images by Ariel Adams The Baume & Mercier Riviera collection has always had something of an identity crisis in the modern era. Despite standing as an often overlooked entry-level luxury option in the ever-increasing int...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T12:00:48.000Z",
+      "score_quality": 82,
+      "score_notif": 23,
+      "cluster": "20260919-3da33e582cc0",
+      "cluster_main": true
+    },
     {
       "title": "Auret Debuts With The Mederi Collection — Swiss Heart, Colombian Soul",
       "url": "https://www.fratellowatches.com/introducing-the-auret-mederi/",
@@ -758,10 +772,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -775,7 +789,7 @@
       "score_quality": 86,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Launches New Tribute To First Manual-Winding 9S With Limited Edition SBGW325",
@@ -901,7 +915,7 @@
       "score_quality": 82,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -943,7 +957,7 @@
       "score_quality": 81,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -1108,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1598,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T18:52:41.000Z",
-      "score_quality": 84,
+      "score_quality": 87,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Squale’s new Galeazzi Artiglio celebrates a century beneath the surface",
@@ -1825,7 +1839,7 @@
       "score_quality": 94,
       "score_notif": 52,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
@@ -1839,20 +1853,6 @@
       "score_quality": 48,
       "score_notif": 18,
       "cluster": "20260915-36d2fd8225c0",
-      "cluster_main": true
-    },
-    {
-      "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
-      "url": "https://www.atimelyperspective.com/iwc-celebrates-50-years-of-gentas-ingenieur-with-two-limited-editions/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/IW328910_Front_Small-1024x1024.jpg",
-      "peek_preview": "Some watches are instant successes. Others have to wait for the world to catch up. The IWC Ingenieur SL designed by Gérald Genta falls decidedly into the latter camp. When the bold stainless-steel Ingenieur SL Reference...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T07:58:38.000Z",
-      "score_quality": 95,
-      "score_notif": 52,
-      "cluster": "20260915-b34f0257a129",
       "cluster_main": true
     }
   ]
