@@ -1,6 +1,6 @@
 {
-  "content_hash": "293af0370b96eaf05afe3e8e3afa40b20f9d5d7da6a2220f9a268231dc80f345",
-  "last_updated": "2026-09-19T12:47:07.023Z",
+  "content_hash": "e2648f7348129e1ea08778efbc7fdf7b94773f2a464d60506f53a0a939ada4b2",
+  "last_updated": "2026-09-19T13:47:56.158Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T09:00:43.000Z"
     },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.3,
+      "estimated_articles_per_day": 4.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T08:35:50.000Z"
     },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-19T12:00:48.000Z"
     },
     {
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T09:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T15:58:58.000Z"
+      "estimated_articles_per_day": 1.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T13:31:27.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Weekend Reads: Cartier Cheich Breaks Auction Records, Rolex Unveils the Padellone, and a Rare Patek Nautilus BlackStone",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-09-19",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T13:31:27.000Z",
+      "score_quality": 31,
+      "score_notif": 12,
+      "cluster": "20260919-4a7f6092276e",
+      "cluster_main": true
+    },
+    {
+      "title": "New GWD26 release: De Bethune DB25 Digitale",
+      "url": "https://deployant.com/new-gwd26-release-de-bethune-db25-digitale/?utm_source=rss&utm_medium=rss&utm_campaign=new-gwd26-release-de-bethune-db25-digitale",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/Untitled-1-Topaz-Gigapixel-2x-scale.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors De Bethune returns to the world of digital timekeeping with the new DB25 Digitale, bringing its distinctive jumping-hours display into the DB25 collection. Th...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T13:30:00.000Z",
+      "score_quality": 72,
+      "score_notif": 46,
+      "cluster": "20260919-b2ae1c5c4d5f",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Baume & Mercier Riviera 73 Watch Is Slimmer, Cleaner, And More Faithful To The Original",
       "url": "https://www.ablogtowatch.com/hands-on-the-baume-mercier-riviera-73-watch-is-slimmer-cleaner-and-more-faithful-to-the-original/",
@@ -817,7 +845,7 @@
       "score_quality": 90,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -912,10 +940,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -996,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -1027,7 +1055,7 @@
       "score_quality": 91,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -1038,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hot Take: Grand Seiko Introduces The SBGW325",
@@ -1125,7 +1153,7 @@
       "score_quality": 83,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1517,7 +1545,7 @@
       "score_quality": 85,
       "score_notif": 52,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "カシオ「エディフィス」より、コンパクトなソーラークロノグラフ「EFS-S660」が新登場",
@@ -1825,34 +1853,6 @@
       "score_quality": 66,
       "score_notif": 45,
       "cluster": "20260915-000e067df067",
-      "cluster_main": true
-    },
-    {
-      "title": "IWC Ingenieur Automatic 50th Anniversary Editions Resurrect A Rare 1970s Silver Dial",
-      "url": "https://teddybaldassarre.com/blogs/watches/iwc-ingenieur-automatic-50th-anniversary-editions",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/IWC-Ingenieur-50th-Anniversary-40-front-2.jpg?v=1789502566",
-      "peek_preview": "IWC introduced the most famous and impactful version of its historic sport-luxury timepiece, the Ingenieur, fifty years ago, in 1976. The original Ingenieuer SL (Ref. 1832) established the template for the most recent r...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T09:00:00.000Z",
-      "score_quality": 94,
-      "score_notif": 52,
-      "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
-    },
-    {
-      "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
-      "url": "https://italianwatchspotter.com/jonah-hill-naoya-hida-nh-type-1/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-alle-10.39.00-862x1024.png",
-      "peek_preview": "Rolex, Cartier, Patek Philippe. Quando si parla degli orologi delle celebrity di Hollywood, i nomi tendono a essere più o meno sempre gli stessi. Jonah Hill, questa volta, ha scelto qualcosa di decisamente meno prevedib...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-15T08:50:46.000Z",
-      "score_quality": 48,
-      "score_notif": 18,
-      "cluster": "20260915-36d2fd8225c0",
       "cluster_main": true
     }
   ]
