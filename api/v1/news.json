@@ -1,6 +1,6 @@
 {
-  "content_hash": "ee7af130eaffedc133405cad500aac269940d5e13ddc3d1b7f48ee085efdc84f",
-  "last_updated": "2026-09-18T21:47:21.331Z",
+  "content_hash": "1f5b36d536ef9aa936e82db4c194caaa7d09873773f534c8433f266ea1be2001",
+  "last_updated": "2026-09-19T00:47:09.995Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T21:00:01.000Z"
     },
     {
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
+      "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T15:58:58.000Z"
     },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T03:00:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T00:00:48.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ジンが危機対応にあたる指揮官のためのミッションタイマー「EZM 19」を発表",
+      "url": "https://www.webchronos.net/news/173246/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/SINN_EZM19_1.webp",
+      "peek_preview": "ジンは、ドイツ・ハッティンゲンの消防署長兼上級消防局長、トーマス・シュタンケと共同開発した「EZM 19」を発表した。本作は、大規模な事故や災害といった危機対応を担う指揮官や指揮本部のスタッフによる、円滑な任務遂行のサポ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-19T00:00:48.000Z",
+      "score_quality": 74,
+      "score_notif": 46,
+      "cluster": "20260919-e7567985c310",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Straum Expedition",
       "url": "https://www.hodinkee.com/articles/straum-expedition-2",
@@ -662,7 +676,7 @@
       "published_at": "2026-09-17T19:00:06.000Z",
       "score_quality": 76,
       "score_notif": 28,
-      "cluster": "20260917-eb88bb496ee3",
+      "cluster": "20260916-992255fbf9b8",
       "cluster_main": true
     },
     {
@@ -674,10 +688,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 76,
+      "score_quality": 78,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -814,10 +828,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -859,7 +873,7 @@
       "score_quality": 77,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -1027,7 +1041,7 @@
       "score_quality": 79,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1097,7 +1111,7 @@
       "score_quality": 84,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ゼニスがコレクション初の3針モデル「クロノマスター ソロ スポーツ」を発表",
@@ -1237,7 +1251,7 @@
       "score_quality": 36,
       "score_notif": 28,
       "cluster": "20260916-992255fbf9b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
@@ -1430,10 +1444,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-16T07:00:00.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Rolex Icon Returns as the Perpetual Padellone",
@@ -1783,7 +1797,7 @@
       "score_quality": 92,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jonah Hill conquista gli appassionati con un NAOYA HIDA NH TYPE 1",
@@ -1808,10 +1822,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T07:58:38.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 67,
       "cluster": "20260915-b34f0257a129",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC celebrates 50 years of the Ingenieur SL with two limited editions",
@@ -1839,20 +1853,6 @@
       "score_quality": 76,
       "score_notif": 20,
       "cluster": "20260915-8f9eb5e0dd0b",
-      "cluster_main": true
-    },
-    {
-      "title": "New: Tutima Patria two tone dial",
-      "url": "https://deployant.com/new-tutima-patria-two-tone-dial/?utm_source=rss&utm_medium=rss&utm_campaign=new-tutima-patria-two-tone-dial",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/Tutima_Patria_6612-09_Beauty-Large.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Tutima releases a new Patria with a two tone aesthetic – a titanium case, with a silvered dial, gold hands and a gilt movement. The novelty is priced at EUR 9...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T06:40:41.000Z",
-      "score_quality": 64,
-      "score_notif": 35,
-      "cluster": "20260915-d69bbe150f7b",
       "cluster_main": true
     }
   ]
