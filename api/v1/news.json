@@ -1,6 +1,6 @@
 {
-  "content_hash": "5477c48046c41173a003dd389100ced92e44456eabcb5132e9e7c25c9d06c035",
-  "last_updated": "2026-09-20T00:47:06.732Z",
+  "content_hash": "7b01fab3bb2c560e3c50aab2c064b5b7a5c6596a555253cb1ddae9e288e08150",
+  "last_updated": "2026-09-20T03:47:01.327Z",
   "premium": {
     "links": []
   },
@@ -164,7 +164,7 @@
       "lang": "ja",
       "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-20T00:00:40.000Z"
+      "latest_article_at": "2026-09-20T03:00:01.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ピアジェがオープンワークダイアルを採用した「ピアジェ・ポロ」のミニッツリピーターモデルを発表",
+      "url": "https://www.webchronos.net/news/173456/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/PGmr_1.webp",
+      "peek_preview": "ピアジェは「ピアジェ ポロ」コレクションの新作として、「ピアジェ ポロ ミニッツリピーター」を発表した。本作では、ギヨシェ彫りを施したオープンワーク仕様のダイアルを採用し、厚さ9.3mmのケースに収めた薄型ムーブメントC […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-20T03:00:01.000Z",
+      "score_quality": 72,
+      "score_notif": 52,
+      "cluster": "20260920-9896b7911448",
+      "cluster_main": true
+    },
     {
       "title": "ジェラルド・チャールズが複雑なテクスチャーを表現した「マスターリンク アトリエエディション」を発表",
       "url": "https://www.webchronos.net/news/173234/",
@@ -411,7 +425,7 @@
       "score_quality": 85,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -478,10 +492,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T15:58:58.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -621,7 +635,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet rinasce dopo 200 anni: quattro nuove collezioni segnano il grande ritorno",
@@ -1500,10 +1514,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T10:00:02.000Z",
-      "score_quality": 77,
+      "score_quality": 79,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
@@ -1618,20 +1632,6 @@
       "cluster_main": true
     },
     {
-      "title": "チャペックがジュネーブ旗艦店のオープンを記念し、「ケ・デ・ベルク “ミッドナイト・イン・ジュネーブ”」を発表",
-      "url": "https://www.webchronos.net/news/172807/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/CZ_que_1.webp",
-      "peek_preview": "チャペックがジュネーブ旗艦店のオープンを記念し、「ケ・デ・ベルク “ミッドナイト・イン・ジュネーブ”」を発表した。本作は、新たなジュネーブ旗艦ブティックのオープンを記念するモデルであり、ジュネーブの夜空のような深いブルー […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-16T00:00:28.000Z",
-      "score_quality": 64,
-      "score_notif": 43,
-      "cluster": "20260916-759d392fdc83",
-      "cluster_main": true
-    },
-    {
       "title": "Rolex Perpetual Padellone: il ritorno che nessuno si aspettava",
       "url": "https://www.watchinsanity.it/rolex-perpetual-padellone-2026/",
       "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Rolex_Perpetual_Padellone_Watch_Insanity_01-1024x682.jpg",
@@ -1682,10 +1682,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-15T20:00:10.000Z",
-      "score_quality": 85,
+      "score_quality": 91,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Rolex Perpetual Padellone Annual Calendar Watches Pay Tribute To A Vintage Grail",
@@ -1699,7 +1699,7 @@
       "score_quality": 90,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Squale’s new Galeazzi Artiglio celebrates a century beneath the surface",
