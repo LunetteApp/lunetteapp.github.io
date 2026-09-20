@@ -1,6 +1,6 @@
 {
-  "content_hash": "de7dbc26fad961670cffbb4ed811c0c98e2eb3557ed7b0ea8eacaccfdda4c1da",
-  "last_updated": "2026-09-20T12:47:15.298Z",
+  "content_hash": "3329d2b22770168e59267f71d363001f00bb3aa021fc250dd2be08fe54554f5a",
+  "last_updated": "2026-09-20T13:46:52.446Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-20T12:00:52.000Z"
     },
     {
@@ -58,13 +58,13 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-19T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-20T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.9,
+      "estimated_articles_per_day": 2.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T21:00:01.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Champagne Journal: The Best Bottles Experienced for August 26",
+      "url": "https://deployant.com/the-champagne-journal-the-best-bottles-experienced-for-august-26/?utm_source=rss&utm_medium=rss&utm_campaign=the-champagne-journal-the-best-bottles-experienced-for-august-26",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/convivial.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Yes, I am late for this journal entry. I was super pre-occupied with GWD26 during the first week of September, where I usually document what was consumed the...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-20T13:30:00.000Z",
+      "score_quality": 5,
+      "score_notif": 0,
+      "cluster": "20260920-8f608ea3d1a1",
+      "cluster_main": true
+    },
     {
       "title": "Grinding Gears: The Watch Industry Seems To Have Forgotten How To Treat People",
       "url": "https://www.ablogtowatch.com/grinding-gears-the-watch-industry-seems-to-have-forgotten-how-to-treat-people/",
@@ -982,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -1167,7 +1181,7 @@
       "score_quality": 87,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -1837,20 +1851,6 @@
       "featured": false,
       "published_at": "2026-09-15T16:00:34.000Z",
       "score_quality": 65,
-      "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
-    },
-    {
-      "title": "Rolex Padellone key-facts: Diese 10 Dinge zur neuen Rolex sollten Sie wissen",
-      "url": "https://www.uhrenkosmos.com/rolex-padellone-neulancierung-die-10-key-facts/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2024/09/Rolex-Padellone-Everose-mit-Metallband-Bild-P.-Wiederholt.jpg",
-      "peek_preview": "Mit der Rolex Padellone mit Jahreskalender in Everose Gold und Platin eröffnet sich Rolex den Markt der Komplikationen und wird zum Wettbewerber der großen Luxus-Brands. Das sind die wichtigsten Infos zu den Uhren sowie...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-09-15T16:00:15.000Z",
-      "score_quality": 58,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
       "cluster_main": false
