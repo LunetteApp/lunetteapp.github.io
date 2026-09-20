@@ -1,6 +1,6 @@
 {
-  "content_hash": "24b343e7eb8ad6e0721face7a9a7dd4f1eea915b64aab4bbad37bc71580bcee9",
-  "last_updated": "2026-09-20T09:46:55.776Z",
+  "content_hash": "27bbf6ccede0e7f8f1dbf7f9773d29a64eb97b85fcca4d432ae16eed868954c7",
+  "last_updated": "2026-09-20T11:47:03.775Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-20T09:00:11.000Z"
     },
     {
@@ -23,20 +23,20 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-20T09:35:00.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-20T07:01:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-20T11:00:16.000Z"
     },
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
+      "estimated_articles_per_day": 0.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-18T14:38:31.000Z"
     },
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T13:31:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-20T10:51:27.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "New Release: Hamilton Returns To The World Of Gaming With The New Khaki Field Mechanical 38mm Watch",
+      "url": "https://www.ablogtowatch.com/new-release-hamilton-returns-to-the-world-of-gaming-with-the-new-khaki-field-mechanical-38mm-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hamilton-Khaki-Field-Mechanical-38mm-LOR-Crop-1-768x346.jpg",
+      "peek_preview": "It’s been a banner year for watches in video games. More brands than ever before are embracing the power of digital product placement, resulting in partnerships that would have seemed impossible even a few years ago — l...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-20T11:00:16.000Z",
+      "score_quality": 66,
+      "score_notif": 43,
+      "cluster": "20260917-8a9dbff8d0c9",
+      "cluster_main": false
+    },
+    {
+      "title": "Goldlegierungen von Golduhren: Das Geheimnis von Everose, Sedna, Magic Gold & Co.",
+      "url": "https://www.uhrenkosmos.com/goldlegierungen-von-golduhren-im-ueberblick/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Golduhren-und-Goldlegierungen-mit-Audemars-Piguet-Sand-Gold-A.-Lange-Soehne-Honey-Gold-Omega-Sedna-Gold-Rolex-Gelgold-und-Montblanc-Limegold.jpg",
+      "peek_preview": "Golduhren faszinieren seit jeher durch ihren Glanz und ihre Wertigkeit – doch nicht jede Goldlegierung ist gleich. Wir erklären, was hinter den markeneigenen Bezeichnungen der Goldlegierungen steckt und warum es um mehr...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-20T10:51:27.000Z",
+      "score_quality": 63,
+      "score_notif": 10,
+      "cluster": "20260920-7f10620f98dc",
+      "cluster_main": true
+    },
     {
       "title": "Buying Guide – Six Watches Perfectly Fit For Crossing Time Zones",
       "url": "https://monochrome-watches.com/buying-guide-gmt-worldtimer-travel-watches-tudor-frederique-constant-ming-greubel-forsey-vacheron-constantin-nomos-prices-specs/",
@@ -968,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T17:07:36.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: Watches and Wonders Geneva Welcomes Breitling, Porsche Design, Universal Genève and Ten Others for 2027—Now with 75 Brands",
@@ -985,7 +1013,7 @@
       "score_quality": 92,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -1164,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -1195,7 +1223,7 @@
       "score_quality": 95,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -1206,10 +1234,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hot Take: Grand Seiko Introduces The SBGW325",
@@ -1293,7 +1321,7 @@
       "score_quality": 83,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: Chopard Happy Diamonds Heritage Returns The Original Men’s Dancing Stone Settings Watch From 1976",
@@ -1306,7 +1334,7 @@
       "published_at": "2026-09-17T07:01:46.000Z",
       "score_quality": 83,
       "score_notif": 42,
-      "cluster": "20260915-23f9fb7673a7",
+      "cluster": "20260917-1cba8d064962",
       "cluster_main": true
     },
     {
@@ -1825,34 +1853,6 @@
       "score_quality": 58,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
-    },
-    {
-      "title": "Rolex Perpetual Padellone Review: An All-New Annual Calendar Moonphase",
-      "url": "https://teddybaldassarre.com/blogs/watches/rolex-perpetual-padellone",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Rolex_Padellone-07559.jpg?v=1789474132",
-      "peek_preview": "It’s September, and Rolex has surprised the watch world with an off-calendar release in a segment of its collection that nobody saw coming. Today in Milan (a fitting location, as we will see shortly), the brand unveiled...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T16:00:10.000Z",
-      "score_quality": 88,
-      "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
-    },
-    {
-      "title": "New Release: Chopard Happy Diamond Heritage Re-Releases For 50th Anniversary",
-      "url": "https://www.ablogtowatch.com/new-release-chopard-happy-diamond-heritage-re-releases-for-50th-anniversary/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Chopard-Happy-Diamonds-featured-768x346.jpg",
-      "peek_preview": "Normally, I am not one for vintage re-releases. Mainly because these are either lazy, or whatever it is that we have today in their place is already the exact same thing — just better in every way. So, for a vintage re-...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T15:00:12.000Z",
-      "score_quality": 72,
-      "score_notif": 42,
-      "cluster": "20260915-23f9fb7673a7",
       "cluster_main": false
     }
   ]
