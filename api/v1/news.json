@@ -1,6 +1,6 @@
 {
-  "content_hash": "9a5e9dacb7cb4efb2f4479a2381e89c77165b47e628c229d745986a32503094c",
-  "last_updated": "2026-09-20T08:46:50.855Z",
+  "content_hash": "24b343e7eb8ad6e0721face7a9a7dd4f1eea915b64aab4bbad37bc71580bcee9",
+  "last_updated": "2026-09-20T09:46:55.776Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-20T05:00:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-20T09:00:11.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-19T14:00:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-20T09:35:00.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-20T08:00:42.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Buying Guide – Six Watches Perfectly Fit For Crossing Time Zones",
+      "url": "https://monochrome-watches.com/buying-guide-gmt-worldtimer-travel-watches-tudor-frederique-constant-ming-greubel-forsey-vacheron-constantin-nomos-prices-specs/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-Tudor-Northflag-GMT-4-600x237.jpg",
+      "peek_preview": "In watchmaking, pretty much every complication started with the quest for a solution to a common problem. The tourbillon solved the influence of gravity on the balance spring, the chronograph provided the ability to tim...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-20T09:35:00.000Z",
+      "score_quality": 55,
+      "score_notif": 10,
+      "cluster": "20260920-6bc6092bcf05",
+      "cluster_main": true
+    },
+    {
+      "title": "Harnessing Nature: The Awake Sơn Mài Frosted Leaf Blood Moon, Storm, And Lagoon",
+      "url": "https://www.fratellowatches.com/harnessing-nature-the-awake-son-mai-frosted-leaf-blood-moon-storm-and-lagoon/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Awake-Son-Mai-Frosted-Leaf-Trio-1.jpg",
+      "peek_preview": "Since 2024, Awake has built a strong following with its Sơn Mài dials. These time-intensive creations layer Vietnamese lacquer over silver leaf and natural pigments. Last year, the Frosted Leaf technique debuted and won...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-20T09:00:11.000Z",
+      "score_quality": 73,
+      "score_notif": 44,
+      "cluster": "20260920-a48f2d966412",
+      "cluster_main": true
+    },
     {
       "title": "Simplicity is best with the Jaeger-LeCoultre time and date Master Control Chronometre",
       "url": "https://timeandtidewatches.com/jaeger-lecoultre-time-and-date-master-control-chronometre-hands-on/",
@@ -915,7 +943,7 @@
       "score_quality": 86,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -943,7 +971,7 @@
       "score_quality": 82,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: Watches and Wonders Geneva Welcomes Breitling, Porsche Design, Universal Genève and Ten Others for 2027—Now with 75 Brands",
@@ -1055,7 +1083,7 @@
       "score_quality": 90,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1094,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:00:04.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -1111,7 +1139,7 @@
       "score_quality": 89,
       "score_notif": 53,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Blancpain Celebrates The 70th Anniversary Of The Ladybird Collection With The Mini \"Lady B\" Revival",
@@ -1122,10 +1150,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T10:00:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 53,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mechanical Resurrection: The New Christopher Ward C63 Sealander Chronograph",
@@ -1198,20 +1226,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – The New Ressence Art Watch Type 9 x Jules Wittock",
-      "url": "https://monochrome-watches.com/ressence-art-watch-type-9-x-jules-wittock-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Ressence-Art-Watch-Type-9-x-Jules-Wittock-5-600x237.jpg",
-      "peek_preview": "Founded in 2010 by industrial designer Benoît Mintiens, indie brand Ressence stands out from the crowd with its original and contemporary way of displaying time. Like planets orbiting the Sun, time circles around the di...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T08:01:19.000Z",
-      "score_quality": 82,
-      "score_notif": 49,
-      "cluster": "20260917-a9bfd5842100",
-      "cluster_main": true
-    },
-    {
       "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
       "url": "https://deployant.com/ressence-type-9-jules-wittock/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-9-jules-wittock",
       "image": "https://deployant.com/wp-content/uploads/2026/09/T9-JWE_PAK_LD_VER_SOL_2026.png",
@@ -1223,7 +1237,7 @@
       "score_quality": 81,
       "score_notif": 49,
       "cluster": "20260917-a9bfd5842100",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Get Lost In Ressence’s New Type 9 Art Watch By Belgian Artist Jules Wittock",
@@ -1262,10 +1276,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1276,10 +1290,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T07:05:02.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: Chopard Happy Diamonds Heritage Returns The Original Men’s Dancing Stone Settings Watch From 1976",
@@ -1293,20 +1307,6 @@
       "score_quality": 83,
       "score_notif": 42,
       "cluster": "20260915-23f9fb7673a7",
-      "cluster_main": true
-    },
-    {
-      "title": "Fratello Talks: Our Favorite Vintage Rolex Models",
-      "url": "https://www.fratellowatches.com/fratello-talks-our-favorite-vintage-rolex-models/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Rolex-Submariner-5508-12.jpg",
-      "peek_preview": "When it comes to vintage watches, few brands have as much depth as Rolex. Over more than a century, the company has produced an enormous range of models, references, and variations that have become firmly established am...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T04:00:29.000Z",
-      "score_quality": 42,
-      "score_notif": 8,
-      "cluster": "20260917-2add9ea1261c",
       "cluster_main": true
     },
     {
