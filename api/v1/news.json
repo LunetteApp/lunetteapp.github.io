@@ -1,6 +1,6 @@
 {
-  "content_hash": "607f53508ba68f551460ec60feb76ccf0aea2414dcd6dccd5a7133d5ddcdf36e",
-  "last_updated": "2026-09-21T05:46:55.848Z",
+  "content_hash": "238f18b788ff6e7df0de1dbb39fb2fd2cbeebfc94787067e82d24c556d5fcf58",
+  "last_updated": "2026-09-21T06:47:19.253Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T05:00:15.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-20T09:35:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T06:01:39.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-20T08:00:42.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T06:00:09.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The Lang & Heyne Friedrich III, Now with a Power Reserve Indication (Incl. Video)",
+      "url": "https://monochrome-watches.com/lang-heyne-friedrich-iii-power-reserve-review-video-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Lang-und-Heyne-Friedrich-III-Power-Reserve-video-review-1-600x237.jpg",
+      "peek_preview": "Lang & Heyne has practised the Saxon approach to independent watchmaking since 2001, working near Dresden and offering watches that combine classical German design with highly elaborate hand-finishing. The manufacture n...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T06:01:39.000Z",
+      "score_quality": 85,
+      "score_notif": 44,
+      "cluster": "20260921-31b5bb56b7cb",
+      "cluster_main": true
+    },
+    {
+      "title": "Making light work: The 48-gram Venezianico Redentore Levius",
+      "url": "https://timeandtidewatches.com/venezianico-redentore-levius-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Redentor-Levius-The-Weight-Of-Lightness-Header.jpg",
+      "peek_preview": "The Venezianico Redentore Levius pairs a featherweight grade 5 titanium case with hand-turned guilloché and an Italian-made V5000 movement. The post Making light work: The 48-gram Venezianico Redentore Levius appeared f...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T06:00:09.000Z",
+      "score_quality": 66,
+      "score_notif": 22,
+      "cluster": "20260918-5107c9f7cef8",
+      "cluster_main": true
+    },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
       "url": "https://www.fratellowatches.com/the-audemars-piguet-royal-oak-offshore-is-a-shadow-icon/",
@@ -661,9 +689,9 @@
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
       "score_quality": 53,
-      "score_notif": 24,
+      "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1069,7 +1097,7 @@
       "score_quality": 95,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Launches New Tribute To First Manual-Winding 9S With Limited Edition SBGW325",
@@ -1097,7 +1125,7 @@
       "score_quality": 94,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -1195,7 +1223,7 @@
       "score_quality": 94,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1238,20 +1266,6 @@
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
       "cluster_main": true
-    },
-    {
-      "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
-      "url": "https://monochrome-watches.com/blancpain-lady-b-collection-70th-anniversary-ladybird-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Blancpain-Lady-B-collection-70th-anniversary-Ladybird-review-2-600x237.jpg",
-      "peek_preview": "With its motto of never producing quartz watches, its manufacturing capabilities and its rich heritage in dive watches, Blancpain is often spontaneously associated with technical, masculine watchmaking. But this overloo...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T10:01:04.000Z",
-      "score_quality": 89,
-      "score_notif": 53,
-      "cluster": "20260917-e64751d5106d",
-      "cluster_main": false
     },
     {
       "title": "Introducing: Blancpain Celebrates The 70th Anniversary Of The Ladybird Collection With The Mini \"Lady B\" Revival",
@@ -1318,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hot Take: Grand Seiko Introduces The SBGW325",
@@ -1374,10 +1388,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1419,7 +1433,7 @@
       "score_quality": 88,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ゼニスがコレクション初の3針モデル「クロノマスター ソロ スポーツ」を発表",
@@ -1544,8 +1558,8 @@
       "published_at": "2026-09-16T13:07:34.000Z",
       "score_quality": 36,
       "score_notif": 55,
-      "cluster": "20260916-62ce381ef558",
-      "cluster_main": false
+      "cluster": "20260916-992255fbf9b8",
+      "cluster_main": true
     },
     {
       "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
@@ -1710,10 +1724,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-16T07:00:00.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Rolex Icon Returns as the Perpetual Padellone",
@@ -1724,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T06:22:36.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Marks 50 Years of the Ingenieur",
@@ -1812,20 +1826,6 @@
       "score_notif": 37,
       "cluster": "20260915-61042b6d5dec",
       "cluster_main": true
-    },
-    {
-      "title": "The Rolex Perpetual Padellone is the complicated Rolex we’ve been waiting for",
-      "url": "https://timeandtidewatches.com/rolex-perpetual-padellone-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-rolex-perpetual-padellone.jpg",
-      "peek_preview": "The new Rolex Perpetual Padellone revives a legendary complete calendar with a 39mm case, moonphase display and all-new 5Hz calibre 7190. The post The Rolex Perpetual Padellone is the complicated Rolex we’ve been waitin...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T16:57:40.000Z",
-      "score_quality": 66,
-      "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
     },
     {
       "title": "Rolex Presenta il Perpetual Padellone 2026: il nuovo calendario annuale",
