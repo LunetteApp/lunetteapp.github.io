@@ -1,6 +1,6 @@
 {
-  "content_hash": "4735db0cdc192185d44aaa454f9019512cbb8f4ccead8a9bb8af8afe127a5d94",
-  "last_updated": "2026-09-21T16:47:18.458Z",
+  "content_hash": "6390b6051e4c3ca809e89bed2cc74cab69e3f573067db0dbf74933d73346e036",
+  "last_updated": "2026-09-21T17:47:00.724Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T16:00:35.000Z"
     },
     {
@@ -44,14 +44,14 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T16:17:56.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T16:39:42.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-21T16:02:21.000Z"
+      "latest_article_at": "2026-09-21T16:56:27.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T16:09:22.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "News: The Fondation Haute Horlogerie and GIA Join Forces to Widen Horology's Reach",
+      "url": "https://www.watchcollectinglifestyle.com/home/fondation-haute-horlogerie-and-gia-join-forces",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790009518876-QA6NBSJJHASS845OXA9X/FHH+x+GIA.jpg?format=1500w",
+      "peek_preview": "The Fondation Haute Horlogerie has announced a new academic partnership with the GIA (Gemological Institute of America), folding FHH Academy watchmaking certification into GIA's global educational network starting in ea...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T16:56:27.000Z",
+      "score_quality": 55,
+      "score_notif": 41,
+      "cluster": "20260917-1a4fb5130b3c",
+      "cluster_main": false
+    },
+    {
       "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
       "url": "https://www.atimelyperspective.com/inside-chopards-50th-anniversary-happy-diamonds-celebration/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/Bella-Hadid-and-Caroline-Scheufele-wearing-Chopard-2-683x1024.jpeg",
@@ -215,7 +229,7 @@
       "score_quality": 54,
       "score_notif": 22,
       "cluster": "20260916-03a30b0a57b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Girard-Perregaux Laureato Williams Editions—Pure Purpose, Two Ways",
@@ -912,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T18:15:10.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -985,7 +999,7 @@
       "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -1362,7 +1376,7 @@
       "published_at": "2026-09-17T17:36:03.000Z",
       "score_quality": 97,
       "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
+      "cluster": "20260917-afc0edae7a58",
       "cluster_main": true
     },
     {
@@ -1391,7 +1405,7 @@
       "score_quality": 98,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -1556,10 +1570,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
@@ -1682,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T20:00:34.000Z",
-      "score_quality": 53,
+      "score_quality": 55,
       "score_notif": 22,
       "cluster": "20260916-03a30b0a57b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "E.C. Andersson Introduces the Timepod, with a Unique Lug Release System",
@@ -1839,20 +1853,6 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
-    },
-    {
-      "title": "Rolex crée la surprise avec la Perpetual Padellone, son calendrier annuel le plus ambitieux",
-      "url": "https://www.welovewatches.fr/rolex-cree-la-surprise-avec-la-perpetual-padellone-son-calendrier-annuel-le-plus-ambitieux.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/rolex-perpetual-padellone-annual-calendar-watches-une.jpg",
-      "peek_preview": "Rolex a présenté hier à Milan une montre que peu avaient vue venir, malgré tout de même quelques rumeurs sur les réseaux sociaux. La Perpetual Padellone rejoint la collection Perpetual, inaugurée en 2023 par la...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-16T07:52:32.000Z",
-      "score_quality": 68,
-      "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
       "cluster_main": false
     }
   ]
