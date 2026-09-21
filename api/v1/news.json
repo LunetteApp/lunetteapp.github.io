@@ -1,6 +1,6 @@
 {
-  "content_hash": "238f18b788ff6e7df0de1dbb39fb2fd2cbeebfc94787067e82d24c556d5fcf58",
-  "last_updated": "2026-09-21T06:47:19.253Z",
+  "content_hash": "29fd1317f8e58edd65f23d943a2c72c136b751f2524e9c6bcf4ddf5c0a293d22",
+  "last_updated": "2026-09-21T07:48:19.557Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T05:00:15.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T07:00:09.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T06:01:39.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-20T12:00:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T07:01:14.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T06:00:09.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Nobody Asked: Picking NFL Team Watches, Part I",
+      "url": "https://www.ablogtowatch.com/nobody-asked-picking-nfl-team-watches-part-i/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/ABTW-Nobody-Asked-768x346.jpg",
+      "peek_preview": "Today, I’m starting a new column called Nobody Asked. It’s lighthearted, fun, and inconsequential. In it, I pair watches with things have few if any inherent horological indicators. To kick things off, I’m going to pick...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T07:01:14.000Z",
+      "score_quality": 20,
+      "score_notif": 4,
+      "cluster": "20260921-0a0e70d563c4",
+      "cluster_main": true
+    },
+    {
+      "title": "Mathematical Horological Beauty: Hands-On With The Bianchet Tonneau UltraFino Ceramic Skeleton Deep Blue And White",
+      "url": "https://www.fratellowatches.com/bianchet-tonneau-ultrafino-ceramic-blue-and-white/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Bianchet-GWD-2026.jpg",
+      "peek_preview": "Can beauty be put into numbers? The surprising answer is “yes, it can.” The Fibonacci sequence and the golden ratio have been turning up in discussions about beauty, proportion, and design for centuries. They are said t...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T07:00:09.000Z",
+      "score_quality": 82,
+      "score_notif": 32,
+      "cluster": "20260921-055837918373",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The Lang & Heyne Friedrich III, Now with a Power Reserve Indication (Incl. Video)",
       "url": "https://monochrome-watches.com/lang-heyne-friedrich-iii-power-reserve-review-video-price/",
@@ -1068,7 +1096,7 @@
       "published_at": "2026-09-17T19:00:06.000Z",
       "score_quality": 76,
       "score_notif": 28,
-      "cluster": "20260917-eb88bb496ee3",
+      "cluster": "20260916-992255fbf9b8",
       "cluster_main": true
     },
     {
@@ -1094,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T17:36:03.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Launches New Tribute To First Manual-Winding 9S With Limited Edition SBGW325",
@@ -1122,10 +1150,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:22:47.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -1290,10 +1318,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -1321,7 +1349,7 @@
       "score_quality": 99,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -1335,20 +1363,6 @@
       "score_quality": 95,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
-    },
-    {
-      "title": "Hot Take: Grand Seiko Introduces The SBGW325",
-      "url": "https://www.fratellowatches.com/hot-take-grand-seiko-introduces-the-sbgw325/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/SBGW325_KV_16-9_rgb.jpg",
-      "peek_preview": "Grand Seiko has just added the limited-edition SBGW325 to its Elegance Collection, paying tribute to the SBGW003 from 2001. That model was the first Grand Seiko to feature a manually wound 9S mechanical movement, the ca...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T08:19:42.000Z",
-      "score_quality": 64,
-      "score_notif": 52,
-      "cluster": "20260917-83a40dea703f",
       "cluster_main": false
     },
     {
@@ -1430,10 +1444,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-09-17T03:00:25.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ゼニスがコレクション初の3針モデル「クロノマスター ソロ スポーツ」を発表",
@@ -1557,9 +1571,9 @@
       "featured": false,
       "published_at": "2026-09-16T13:07:34.000Z",
       "score_quality": 36,
-      "score_notif": 55,
+      "score_notif": 28,
       "cluster": "20260916-992255fbf9b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
@@ -1688,20 +1702,6 @@
       "cluster_main": false
     },
     {
-      "title": "Kiwame Kubo Watch Review: The Japanese Darling Continues To Impress",
-      "url": "https://www.ablogtowatch.com/kiwame-kubo-watch-review-the-japanese-darling-continues-to-impress/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Kiwame-Kubo-RAZ-Crop-01-768x346.jpg",
-      "peek_preview": "Rising Japanese star Kiwame Tokyo seems to be on an absolute tear. It’s been releasing sell-out model after sell-out model since its debut just last year. One thing that could reasonably be said about all those releases...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T07:01:03.000Z",
-      "score_quality": 74,
-      "score_notif": 16,
-      "cluster": "20260916-438dd6ede384",
-      "cluster_main": true
-    },
-    {
       "title": "echo/neutra refreshes its ultra functional 1956 Chrono GMT with a dose of colour",
       "url": "https://timeandtidewatches.com/echo-neutra-refreshes-its-ultra-functional-1956-chrono-gmt-with-a-dose-of-colour/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Echo_neutra-1956-chrono-gmt-cappuccino-feature.jpg",
@@ -1727,7 +1727,7 @@
       "score_quality": 89,
       "score_notif": 50,
       "cluster": "20260915-958b2d079056",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Rolex Icon Returns as the Perpetual Padellone",
@@ -1741,7 +1741,7 @@
       "score_quality": 96,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC Marks 50 Years of the Ingenieur",
