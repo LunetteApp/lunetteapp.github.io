@@ -1,6 +1,6 @@
 {
-  "content_hash": "acd85678e9f57adac2e64ef195179b9da6cbf75da7351e12640d592a6efbeb5a",
-  "last_updated": "2026-09-21T13:47:31.838Z",
+  "content_hash": "82eee7edeb336f60c89c62ffd1062ea477f4aab5ac6c70717091e4094cc66a2c",
+  "last_updated": "2026-09-21T15:47:48.467Z",
   "premium": {
     "links": []
   },
@@ -16,22 +16,22 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T13:00:02.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T13:01:03.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T11:00:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T15:00:12.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T12:57:47.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.8,
+      "estimated_articles_per_day": 2.9,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-21T13:00:00.000Z"
+      "latest_article_at": "2026-09-21T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T11:00:28.000Z"
     },
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Jack Mason Introduces The Canton Day-Date With Milled Guilloché Dials And American Assembly",
+      "url": "https://www.ablogtowatch.com/jack-mason-introduces-the-canton-day-date-with-milled-guilloche-dials-and-american-assembly/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Jack-Mason-Canton-Day-Date-SP-14-768x346.jpg",
+      "peek_preview": "Over the last several years, Jack Mason has been steadily redefining what it wants to be. The Dallas, Texas-based brand has moved well beyond its earlier fashion-watch roots, with watches like the Strat-o-timer GMT, Pur...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T15:00:12.000Z",
+      "score_quality": 64,
+      "score_notif": 27,
+      "cluster": "20260921-f913c71bf903",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: The H. Moser & Cie. Off-Grid (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/the-h-moser-and-cie-off-grid-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/d44891c3-dc8d-4a9d-9dea-91cf8260f3b6/tan2h-moser-off-grid-02349-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A follow-up duo of ana-digi watches from the brand after its Formula 1-tied introduction last year.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T15:00:00.000Z",
+      "score_quality": 89,
+      "score_notif": 64,
+      "cluster": "20260921-6b93cee34e8f",
+      "cluster_main": true
+    },
+    {
       "title": "First Look – New Colours for the Louis Erard x Konstantin Chaykin Unfrogettable",
       "url": "https://monochrome-watches.com/2026-louis-erard-x-konstantin-chaykin-unfrogettable-turquoise-brown-editions-review-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/09/Louis-Erard-x-Konstantin-Chaykin-Unfrogettable-turquoise-and-brown-editions-2026-review-2-600x237.jpg",
@@ -229,7 +257,7 @@
       "score_quality": 88,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -380,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T06:00:09.000Z",
-      "score_quality": 68,
+      "score_quality": 70,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -873,7 +901,7 @@
       "score_quality": 69,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1027,7 +1055,7 @@
       "score_quality": 80,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet rinasce dopo 200 anni: quattro nuove collezioni segnano il grande ritorno",
@@ -1265,7 +1293,7 @@
       "score_quality": 91,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Rolex Perpetual Padellone—A Postwar Complete Calendar Returns, Bigger and Better",
@@ -1416,10 +1444,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:00:04.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Blancpain Celebrates The 70th Anniversary Of The Ladybird Collection With The Mini \"Lady B\" Revival",
@@ -1604,20 +1632,6 @@
       "cluster_main": false
     },
     {
-      "title": "Photo Report: Geneva Watch Days 2026",
-      "url": "https://www.hodinkee.com/articles/geneva-watch-days-2026",
-      "image": "https://hodinkee.imgix.net/uploads/images/f31a2a09-a57c-4753-aed7-9bf3d993cf70/GWDHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A look at the watches and scenes from the five-day, citywide fair.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T19:00:00.000Z",
-      "score_quality": 78,
-      "score_notif": 30,
-      "cluster": "20260916-bba2d8472793",
-      "cluster_main": true
-    },
-    {
       "title": "E.C. Andersson Introduces the Timepod, with a Unique Lug Release System",
       "url": "https://wornandwound.com/e-c-andersson-introduces-the-timepod-with-a-unique-lug-release-system/",
       "image": "https://wornandwound.com/library/uploads/2026/09/EC-Andersson-Timepod-6.jpg.jpg",
@@ -1688,20 +1702,6 @@
       "cluster_main": false
     },
     {
-      "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
-      "url": "https://www.ablogtowatch.com/inflated-hublot-classic-fusion-balloon-dog-by-jeff-koons-watches-hands-on/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hublot-Classic-Fusion-Balloon-Dog-Jeff-Koons-Watches-1-768x346.jpg",
-      "peek_preview": "As someone who has no interest in balloon dogs (artistic or otherwise), I have a lot of positive things to say about what Hublot has done to its Classic Fusion collection in collaboration with Jeff Koons (an American ce...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T13:01:43.000Z",
-      "score_quality": 90,
-      "score_notif": 55,
-      "cluster": "20260916-62ce381ef558",
-      "cluster_main": false
-    },
-    {
       "title": "Hands On: Hublot Classic Fusion Balloon Dog by Jeff Koons",
       "url": "https://watchesbysjx.com/2026/09/hublot-classic-fusion-balloon-dog-jeff-koons.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Hublot-Classic-Fusion-Balloon-Dog-Jeff-Koons-red-3x2-centred-header-300x200.jpg",
@@ -1766,10 +1766,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T10:00:02.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
