@@ -1,6 +1,6 @@
 {
-  "content_hash": "5a82d0ce29ebe0f330bbd109691af074542f2a19a5eb68ada3bda76b80fc7ca7",
-  "last_updated": "2026-09-21T03:46:46.990Z",
+  "content_hash": "607f53508ba68f551460ec60feb76ccf0aea2414dcd6dccd5a7133d5ddcdf36e",
+  "last_updated": "2026-09-21T05:46:55.848Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-20T09:00:11.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T05:00:15.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T03:00:14.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
+      "url": "https://www.fratellowatches.com/the-audemars-piguet-royal-oak-offshore-is-a-shadow-icon/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Icons-collage.jpg",
+      "peek_preview": "Icons are icons for a reason. Some watches deserve the moniker, no question about it. But quite often, an icon casts a long shadow on other interesting timepieces in a brand’s catalog. The original Genta-designed Audema...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T05:00:15.000Z",
+      "score_quality": 72,
+      "score_notif": 15,
+      "cluster": "20260921-e7c060404d80",
+      "cluster_main": true
+    },
     {
       "title": "カシオがクラシカルな角型ケースを採用した「LTP-B150」の新作3型を発表",
       "url": "https://www.webchronos.net/news/173359/",
@@ -1052,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T17:36:03.000Z",
-      "score_quality": 92,
+      "score_quality": 95,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Launches New Tribute To First Manual-Winding 9S With Limited Edition SBGW325",
@@ -1178,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1265,7 +1279,7 @@
       "score_quality": 98,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -1290,10 +1304,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:29.000Z",
-      "score_quality": 97,
+      "score_quality": 99,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -1338,20 +1352,6 @@
       "cluster_main": true
     },
     {
-      "title": "Get Lost In Ressence’s New Type 9 Art Watch By Belgian Artist Jules Wittock",
-      "url": "https://www.fratellowatches.com/ressence-type-9-jules-wittock/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Ressence-Art-Watch-2026-Type-9-Jules-Wittock-2026-5.jpg",
-      "peek_preview": "Recently, Lex wrote an article asking, “When are watches art?” Of course, there wasn’t a clear answer, as “art” is often an ungraspable concept. However, every once in a while, Benoît Mintiens makes the dial of a Ressen...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T08:00:45.000Z",
-      "score_quality": 72,
-      "score_notif": 49,
-      "cluster": "20260917-a9bfd5842100",
-      "cluster_main": false
-    },
-    {
       "title": "Ressence Taps Maze Artist for Latest Type 9",
       "url": "https://watchesbysjx.com/2026/09/ressence-type-9-jules-wittock.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Ressence-Type-9-Jules-Wittock-3x2-centred-header-300x200.jpg",
@@ -1377,7 +1377,7 @@
       "score_quality": 93,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1543,9 +1543,9 @@
       "featured": false,
       "published_at": "2026-09-16T13:07:34.000Z",
       "score_quality": 36,
-      "score_notif": 28,
-      "cluster": "20260916-992255fbf9b8",
-      "cluster_main": true
+      "score_notif": 55,
+      "cluster": "20260916-62ce381ef558",
+      "cluster_main": false
     },
     {
       "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
@@ -1727,7 +1727,7 @@
       "score_quality": 94,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWC Marks 50 Years of the Ingenieur",
