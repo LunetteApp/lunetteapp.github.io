@@ -1,6 +1,6 @@
 {
-  "content_hash": "29fd1317f8e58edd65f23d943a2c72c136b751f2524e9c6bcf4ddf5c0a293d22",
-  "last_updated": "2026-09-21T07:48:19.557Z",
+  "content_hash": "fb4cec44b7d3503d62ea5f38cc56e2e02076b6f4bf918231a4c428fa88b2cf07",
+  "last_updated": "2026-09-21T10:47:03.590Z",
   "premium": {
     "links": []
   },
@@ -8,8 +8,8 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.5,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T07:00:09.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T07:01:14.000Z"
     },
     {
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T15:57:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T10:43:52.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Citizen célèbre les 50 ans de l’Eco-Drive avec une édition d’exception",
+      "url": "https://www.welovewatches.fr/the-citizen-celebre-les-50-ans-de-leco-drive-avec-une-edition-dexception.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-the-citizen-50eme-anniversaire-aq4091-56w.jpg",
+      "peek_preview": "Il y a cinquante ans, Citizen révolutionnait l'horlogerie en lançant la première montre au monde animée par l'énergie solaire. Pour marquer cet anniversaire hautement symbolique, la maison japonaise dévoile une création...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-21T10:43:52.000Z",
+      "score_quality": 53,
+      "score_notif": 47,
+      "cluster": "20260921-9011cefead8c",
+      "cluster_main": true
+    },
     {
       "title": "Nobody Asked: Picking NFL Team Watches, Part I",
       "url": "https://www.ablogtowatch.com/nobody-asked-picking-nfl-team-watches-part-i/",
@@ -1096,7 +1110,7 @@
       "published_at": "2026-09-17T19:00:06.000Z",
       "score_quality": 76,
       "score_notif": 28,
-      "cluster": "20260916-992255fbf9b8",
+      "cluster": "20260917-eb88bb496ee3",
       "cluster_main": true
     },
     {
@@ -1153,7 +1167,7 @@
       "score_quality": 96,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -1248,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1318,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -1346,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:29.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -1360,10 +1374,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
@@ -1405,7 +1419,7 @@
       "score_quality": 95,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1573,7 +1587,7 @@
       "score_quality": 36,
       "score_notif": 28,
       "cluster": "20260916-992255fbf9b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "‘Inflated’ Hublot Classic Fusion Balloon Dog By Jeff Koons Watches Hands-On",
@@ -1837,20 +1851,6 @@
       "featured": false,
       "published_at": "2026-09-15T16:50:59.000Z",
       "score_quality": 74,
-      "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
-    },
-    {
-      "title": "Rolex presenta il Perpetual Padellone: una leggenda torna dopo 77 anni",
-      "url": "https://italianwatchspotter.com/rolex-presenta-il-perpetual-padellone/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-95-1024x1024.png",
-      "peek_preview": "Rolex presenta il nuovo Perpetual Padellone! E riporta sulla scena uno degli orologi più insoliti e ricercati nella sua storia: la referenza 8171, il grande calendario completo con fasi lunari che i collezionisti italia...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-15T16:46:06.000Z",
-      "score_quality": 70,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
       "cluster_main": false
