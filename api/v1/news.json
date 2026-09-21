@@ -1,6 +1,6 @@
 {
-  "content_hash": "6390b6051e4c3ca809e89bed2cc74cab69e3f573067db0dbf74933d73346e036",
-  "last_updated": "2026-09-21T17:47:00.724Z",
+  "content_hash": "b3b96bb5eea8cd7a0453fd399098260b358179c719a4bcef328dd5b49415a505",
+  "last_updated": "2026-09-21T19:47:22.555Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T13:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T19:00:19.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -78,15 +78,15 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T11:00:28.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T19:00:21.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T16:56:27.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "FounderFest 2026 has left the stage – here’s how it went down",
+      "url": "https://timeandtidewatches.com/founderfest-2026-events/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/founderfest-featured-image-event-1.jpg",
+      "peek_preview": "The doors just closed on our most ambitious event yet; FounderFest. Seven watches across three events in Melbourne, London and NYC. The post FounderFest 2026 has left the stage – here’s how it went down appeared first o...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T19:00:21.000Z",
+      "score_quality": 57,
+      "score_notif": 20,
+      "cluster": "20260921-415eeb75bfb5",
+      "cluster_main": true
+    },
+    {
+      "title": "Moser Dips Its Toe Back in the Digital Realm with the New Limited Edition Streamliner Off-Grid",
+      "url": "https://wornandwound.com/moser-dips-its-toe-back-in-the-digital-realm-with-the-new-limited-edition-streamliner-off-grid/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Moser-Streamliner-Off-Grid-1.jpg",
+      "peek_preview": "Moser has long been a brand who’s unafraid to experiment and test boundaries, creating many designs that have elicited conversation or even debate. Now, the brand is making waves with a new digital timepiece. Here, a sk...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T19:00:19.000Z",
+      "score_quality": 74,
+      "score_notif": 64,
+      "cluster": "20260921-6b93cee34e8f",
+      "cluster_main": false
+    },
+    {
       "title": "News: The Fondation Haute Horlogerie and GIA Join Forces to Widen Horology's Reach",
       "url": "https://www.watchcollectinglifestyle.com/home/fondation-haute-horlogerie-and-gia-join-forces",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790009518876-QA6NBSJJHASS845OXA9X/FHH+x+GIA.jpg?format=1500w",
@@ -228,8 +256,8 @@
       "published_at": "2026-09-21T16:09:22.000Z",
       "score_quality": 54,
       "score_notif": 22,
-      "cluster": "20260916-03a30b0a57b2",
-      "cluster_main": false
+      "cluster": "20260921-b393af01760c",
+      "cluster_main": true
     },
     {
       "title": "Introducing: Girard-Perregaux Laureato Williams Editions—Pure Purpose, Two Ways",
@@ -929,7 +957,7 @@
       "score_quality": 87,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -996,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T15:58:58.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -1402,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:22:47.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -1573,7 +1601,7 @@
       "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
@@ -1826,34 +1854,6 @@
       "score_notif": 42,
       "cluster": "20260916-556054b03399",
       "cluster_main": true
-    },
-    {
-      "title": "Glashütte Original's Seventies Relaunch: High Horology Meets High Fidelity",
-      "url": "https://teddybaldassarre.com/blogs/watches/glashutte-original-seventies-relaunch",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Glashuette-Original-Seventies-Vinyl-Record-reclining-2.jpg?v=1789497430",
-      "peek_preview": "Glashütte Original’s Seventies collection debuted in 2011, showcasing timepieces defined by softly squared “TV”-style cases, an aesthetic hallmark of at eponymous decade. In recent years, the German manufacture has focu...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T10:00:02.000Z",
-      "score_quality": 81,
-      "score_notif": 31,
-      "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
-    },
-    {
-      "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
-      "url": "https://www.orologidiclasse.com/glashutte-original-70s/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/glashutte-original-70s-2026.jpg",
-      "peek_preview": "Quindici anni dopo il primo Senator Seventies, Glashütte Original torna al solo tempo con un orologio che riprende quella storia ma la riscrive quasi da capo. Il nuovo 70s conserva la tipica cassa “TV” della famiglia, m...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-16T09:59:33.000Z",
-      "score_quality": 72,
-      "score_notif": 31,
-      "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
     }
   ]
 }
