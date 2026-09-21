@@ -1,6 +1,6 @@
 {
-  "content_hash": "82eee7edeb336f60c89c62ffd1062ea477f4aab5ac6c70717091e4094cc66a2c",
-  "last_updated": "2026-09-21T15:47:48.467Z",
+  "content_hash": "4735db0cdc192185d44aaa454f9019512cbb8f4ccead8a9bb8af8afe127a5d94",
+  "last_updated": "2026-09-21T16:47:18.458Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T13:01:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T16:00:35.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T15:00:12.000Z"
     },
     {
@@ -44,15 +44,15 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T17:40:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T16:17:56.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T07:58:38.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T16:39:42.000Z"
     },
     {
       "source_name": "Deployant",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T15:00:00.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-19T13:31:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T16:02:21.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T16:00:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T16:09:22.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -176,6 +176,76 @@
   ],
   "items": [
     {
+      "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
+      "url": "https://www.atimelyperspective.com/inside-chopards-50th-anniversary-happy-diamonds-celebration/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/Bella-Hadid-and-Caroline-Scheufele-wearing-Chopard-2-683x1024.jpeg",
+      "peek_preview": "It isn’t every day that an icon turns 50 — especially one that still knows how to move. Chopard’s Happy Diamonds concept celebrates its 50th anniversary this year, and the family-owned Swiss watch and jewelry house mark...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T16:39:42.000Z",
+      "score_quality": 48,
+      "score_notif": 23,
+      "cluster": "20260921-fb5d62e924da",
+      "cluster_main": true
+    },
+    {
+      "title": "12 Best Longines Watches for Every Type of Enthusiast",
+      "url": "https://teddybaldassarre.com/blogs/watches/best-longines-watches",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Longines-Legand-Diver-Bronze-2.jpg?v=1706909653",
+      "peek_preview": "Headquartered in Saint-Imier, Switzerland since its founding in 1832, Longines takes its name from “les longines,” or the “long meadows” that surround that picturesque Swiss village. For nearly 200 years, the brand has...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T16:17:56.000Z",
+      "score_quality": 27,
+      "score_notif": 6,
+      "cluster": "20260921-3a4b890bfb07",
+      "cluster_main": true
+    },
+    {
+      "title": "IWC Ingenieur 5oth Anniversary: Gerald Genta aveva ragione",
+      "url": "https://www.watchinsanity.it/iwc-ingenieur-50th-anniversary-gerald-genta/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/IWC_Ingenieur_50th_Anniversary_Watch_Insanity_04-1024x682.jpg",
+      "peek_preview": "IWC celebra i 50 anni dell'Ingenieur SL di Gérald Genta con due edizioni limitate da 40 e 35 mm e “Form und Technik.” a Milano. The post IWC Ingenieur 5oth Anniversary: Gerald Genta aveva ragione appeared first on WATCH...",
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-21T16:09:22.000Z",
+      "score_quality": 54,
+      "score_notif": 22,
+      "cluster": "20260916-03a30b0a57b2",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Girard-Perregaux Laureato Williams Editions—Pure Purpose, Two Ways",
+      "url": "https://www.watchcollectinglifestyle.com/home/girard-perregaux-laureato-f1-williams-editions",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790006065049-UMZ76SYIEPUEY8I24QJL/Girard-Perregaux+Laureato+Chronograph+Williams+F1+Team.jpg?format=1500w",
+      "peek_preview": "Girard-Perregaux and the Atlassian Williams F1 Team have unveiled the first fruits of their new partnership: the Laureato Williams Edition 42 mm and the Laureato Chronograph Williams Edition 42 mm. The pairing is less a...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T16:02:21.000Z",
+      "score_quality": 61,
+      "score_notif": 42,
+      "cluster": "20260921-ff50a2b6f4e7",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Hamilton Unveils new Khaki Field Model for Call of Duty Modern Warfare 4, In-Game and on the Wrist",
+      "url": "https://monochrome-watches.com/hamilton-khaki-field-mechanical-38mm-x-call-of-duty-modern-warfare-4-ref-h69469930-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/hamilton-khaki-field-mechanical-38mm-x-call-of-duty-modern-warfare-4-ref-H69469930-introducing-1-600x237.jpg",
+      "peek_preview": "When it comes to watch inspirations, automotive and aviation themes have long been part of the game. Video games, however, are catching up. We have already seen retro legends like Donkey Kong and Mario find their way on...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T16:00:35.000Z",
+      "score_quality": 93,
+      "score_notif": 48,
+      "cluster": "20260917-8a9dbff8d0c9",
+      "cluster_main": true
+    },
+    {
       "title": "Jack Mason Introduces The Canton Day-Date With Milled Guilloché Dials And American Assembly",
       "url": "https://www.ablogtowatch.com/jack-mason-introduces-the-canton-day-date-with-milled-guilloche-dials-and-american-assembly/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Jack-Mason-Canton-Day-Date-SP-14-768x346.jpg",
@@ -201,7 +271,7 @@
       "score_quality": 89,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – New Colours for the Louis Erard x Konstantin Chaykin Unfrogettable",
@@ -254,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -507,7 +577,7 @@
       "featured": false,
       "published_at": "2026-09-20T11:00:16.000Z",
       "score_quality": 89,
-      "score_notif": 43,
+      "score_notif": 48,
       "cluster": "20260917-8a9dbff8d0c9",
       "cluster_main": false
     },
@@ -1052,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T12:00:38.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet rinasce dopo 200 anni: quattro nuove collezioni segnano il grande ritorno",
@@ -1184,20 +1254,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – Singer Launches a New Collection with the 1970 DualTrack",
-      "url": "https://monochrome-watches.com/singer-launches-a-new-collection-with-the-1970-dualtrack/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Singer-Reimagined-1970-DualTrack-new-collection-review-1-600x237.jpg",
-      "peek_preview": "The high-end independent watch brand born from a passion for 1960s-1970s automotive design, Singer Reimagined was founded in 2017 by Rob Dickinson (of Singer Vehicle Design) and watch designer Marco Borraccino. Departin...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T06:05:48.000Z",
-      "score_quality": 82,
-      "score_notif": 42,
-      "cluster": "20260916-5be50556d6b9",
-      "cluster_main": true
-    },
-    {
       "title": "No Rush, Here’s The Anoma A1 Core Collection In Abyss Blue And Stone Gray",
       "url": "https://www.fratellowatches.com/no-rush-heres-the-anoma-a1-core-collection-in-abyss-blue-and-stone-gray/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Anoma-catalog-models.jpg",
@@ -1291,7 +1347,7 @@
       "featured": false,
       "published_at": "2026-09-17T18:52:24.000Z",
       "score_quality": 91,
-      "score_notif": 43,
+      "score_notif": 48,
       "cluster": "20260917-8a9dbff8d0c9",
       "cluster_main": false
     },
@@ -1307,7 +1363,7 @@
       "score_quality": 97,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Launches New Tribute To First Manual-Winding 9S With Limited Edition SBGW325",
@@ -1431,7 +1487,7 @@
       "featured": false,
       "published_at": "2026-09-17T13:00:33.000Z",
       "score_quality": 48,
-      "score_notif": 43,
+      "score_notif": 48,
       "cluster": "20260917-8a9dbff8d0c9",
       "cluster_main": false
     },
@@ -1445,9 +1501,9 @@
       "featured": false,
       "published_at": "2026-09-17T13:00:04.000Z",
       "score_quality": 92,
-      "score_notif": 43,
+      "score_notif": 48,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Blancpain Celebrates The 70th Anniversary Of The Ladybird Collection With The Mini \"Lady B\" Revival",
@@ -1586,8 +1642,8 @@
       "published_at": "2026-09-17T03:00:25.000Z",
       "score_quality": 90,
       "score_notif": 50,
-      "cluster": "20260915-958b2d079056",
-      "cluster_main": false
+      "cluster": "20260917-c9df6f579a5b",
+      "cluster_main": true
     },
     {
       "title": "ゼニスがコレクション初の3針モデル「クロノマスター ソロ スポーツ」を発表",
@@ -1627,8 +1683,8 @@
       "featured": false,
       "published_at": "2026-09-16T20:00:34.000Z",
       "score_quality": 53,
-      "score_notif": 52,
-      "cluster": "20260915-b34f0257a129",
+      "score_notif": 22,
+      "cluster": "20260916-03a30b0a57b2",
       "cluster_main": false
     },
     {
@@ -1754,8 +1810,8 @@
       "published_at": "2026-09-16T12:00:27.000Z",
       "score_quality": 68,
       "score_notif": 42,
-      "cluster": "20260916-5be50556d6b9",
-      "cluster_main": false
+      "cluster": "20260916-556054b03399",
+      "cluster_main": true
     },
     {
       "title": "Glashütte Original's Seventies Relaunch: High Horology Meets High Fidelity",
@@ -1769,7 +1825,7 @@
       "score_quality": 81,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Il nuovo Glashütte Original 70s entra tra gli sportivi integrati",
@@ -1798,62 +1854,6 @@
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
       "cluster_main": false
-    },
-    {
-      "title": "echo/neutra refreshes its ultra functional 1956 Chrono GMT with a dose of colour",
-      "url": "https://timeandtidewatches.com/echo-neutra-refreshes-its-ultra-functional-1956-chrono-gmt-with-a-dose-of-colour/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Echo_neutra-1956-chrono-gmt-cappuccino-feature.jpg",
-      "peek_preview": "Echo/Neutra updates its 1956 Chrono GMT with two new colourways With a brown-and-taupe Cappuccino model and a deep-wine-toned Purple model, both inject colour into a highly functional watch with chronograph and GMT func...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T07:00:23.000Z",
-      "score_quality": 69,
-      "score_notif": 35,
-      "cluster": "20260916-9b6a8325c73f",
-      "cluster_main": true
-    },
-    {
-      "title": "Royal Oak Selfwinding Chronograph Serena Williams: la lezione di Audemars Piguet",
-      "url": "https://giornaleorologi.it/2026/09/16/audemars-piguet-royal-oak-selfwinding-chronograph-serena-williams/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/cover-2-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Royal Oak Selfwinding Chronograph Serena Williams: la lezione di Audemars Piguet Quando ho visto in anteprima il nuovo Royal Oak Selfwinding Chronograph Serena Williams di Audemars Piguet, ho r...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-16T07:00:00.000Z",
-      "score_quality": 91,
-      "score_notif": 50,
-      "cluster": "20260915-958b2d079056",
-      "cluster_main": true
-    },
-    {
-      "title": "A Rolex Icon Returns as the Perpetual Padellone",
-      "url": "https://watchesbysjx.com/2026/09/rolex-perpetual-padellone-53505-53506.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Rolex-Perpetual-Padellone-everose-settimo-bracelet-1-300x200.jpg",
-      "peek_preview": "Rolex expands its complicated offerings with the unexpected Perpetual Padellone, a vintage-inspired, instantaneous annual calendar named after the ref. 8171, a frying pan-shaped triple calendar from Rolex’s past. Despit...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T06:22:36.000Z",
-      "score_quality": 98,
-      "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
-    },
-    {
-      "title": "IWC Marks 50 Years of the Ingenieur",
-      "url": "https://watchesbysjx.com/2026/09/iwc-ingenieur-automatic-50th-anniversary.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/IWC-Ingenieur-Automatic-40-50th-Anniversary-300x200.jpg",
-      "peek_preview": "IWC’s magnetism-resistant Ingenieur SL is now 50 years old so the brand is marking the occasion with the Ingenieur Automatic 50th Anniversary, a pair of limited editions that unsurprisingly take inspiration from a histo...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T03:36:44.000Z",
-      "score_quality": 85,
-      "score_notif": 52,
-      "cluster": "20260915-b34f0257a129",
-      "cluster_main": true
     }
   ]
 }
