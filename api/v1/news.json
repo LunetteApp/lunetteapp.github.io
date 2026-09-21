@@ -1,6 +1,6 @@
 {
-  "content_hash": "b3b96bb5eea8cd7a0453fd399098260b358179c719a4bcef328dd5b49415a505",
-  "last_updated": "2026-09-21T19:47:22.555Z",
+  "content_hash": "f7106e80db4c88b96aa934c184bd7b265a4367813849a18a152c1ee0e35b246d",
+  "last_updated": "2026-09-21T22:47:18.663Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T19:00:19.000Z"
     },
     {
@@ -79,15 +79,15 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T19:00:21.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T16:56:27.000Z"
+      "estimated_articles_per_day": 1.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T21:55:27.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Introducing: Piaget Polo Minute Repeater—A Sports Watch Finds Its Inner Voice",
+      "url": "https://www.watchcollectinglifestyle.com/home/piaget-polo-minute-repeater-sports-watch",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790026634855-P9HEI8ZU316MWQ845C68/Piaget+Polo+Minute+Repeater+4.jpg?format=1500w",
+      "peek_preview": "Piaget has never been shy about doing the hard thing the elegant way, and its latest release proves the point twice over. The Maison is introducing two new expressions of the Piaget Polo Minute Repeater—one built around...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T21:55:27.000Z",
+      "score_quality": 74,
+      "score_notif": 47,
+      "cluster": "20260920-9896b7911448",
+      "cluster_main": true
+    },
+    {
       "title": "FounderFest 2026 has left the stage – here’s how it went down",
       "url": "https://timeandtidewatches.com/founderfest-2026-events/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/founderfest-featured-image-event-1.jpg",
@@ -256,8 +270,8 @@
       "published_at": "2026-09-21T16:09:22.000Z",
       "score_quality": 54,
       "score_notif": 22,
-      "cluster": "20260921-b393af01760c",
-      "cluster_main": true
+      "cluster": "20260916-03a30b0a57b2",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Girard-Perregaux Laureato Williams Editions—Pure Purpose, Two Ways",
@@ -717,9 +731,9 @@
       "featured": false,
       "published_at": "2026-09-20T03:00:01.000Z",
       "score_quality": 72,
-      "score_notif": 52,
+      "score_notif": 47,
       "cluster": "20260920-9896b7911448",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ジェラルド・チャールズが複雑なテクスチャーを表現した「マスターリンク アトリエエディション」を発表",
@@ -1430,10 +1444,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:22:47.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -1514,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton’s new Khaki Field Mechanical belongs in your Modern Warfare 4 loadout",
@@ -1598,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
@@ -1643,7 +1657,7 @@
       "score_quality": 99,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1839,20 +1853,6 @@
       "score_quality": 61,
       "score_notif": 24,
       "cluster": "20260916-804dc5571d17",
-      "cluster_main": true
-    },
-    {
-      "title": "Singer Reimagines 1970s-Style Sports Watch",
-      "url": "https://watchesbysjx.com/2026/09/singer-1970-dualtrack.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Singer-1970-Dualtrack-trio-300x200.jpg",
-      "peek_preview": "Having formed its brand identity with a cushion-shaped case inspired by 1970s designs, Singer Reimagined is now turning to another facet of that decade’s designs. The 1970 Dualtrack is angular with tall bezel and semi-i...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T12:00:27.000Z",
-      "score_quality": 68,
-      "score_notif": 42,
-      "cluster": "20260916-556054b03399",
       "cluster_main": true
     }
   ]
