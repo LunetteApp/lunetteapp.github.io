@@ -1,6 +1,6 @@
 {
-  "content_hash": "5294e1de25d5d4a406562c62a028f4240cebc7c9d8515cb66c2569f64f8fcd17",
-  "last_updated": "2026-09-21T00:47:24.098Z",
+  "content_hash": "53dd0ffa1c63e3a31a9b570fc2ca20f9b532140237ee638c4261782a78bba15f",
+  "last_updated": "2026-09-21T01:47:16.117Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T17:39:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T01:00:40.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T00:00:21.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Complicated Collectors: Lord Sandberg",
+      "url": "https://watchesbysjx.com/2026/09/lord-sandberg-collector-profile.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/0-Complicated-collectors-Lord-Sandberg-Cover-300x200.jpg",
+      "peek_preview": "This weekend’s results at Sotheby’s Hong Kong typify contemporary interest in independent watchmaking, and in special editions of series-produced watches. In contrast, the Sandberg Collection, assembled by former HSBC c...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-21T01:00:40.000Z",
+      "score_quality": 70,
+      "score_notif": 14,
+      "cluster": "20260921-041811a5c677",
+      "cluster_main": true
+    },
     {
       "title": "タグ・ホイヤーが「モンツァ」誕生50周年を記念したフライバッククロノグラフを発表",
       "url": "https://www.webchronos.net/news/173451/",
@@ -229,7 +243,7 @@
       "score_quality": 89,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Goldlegierungen von Golduhren: Das Geheimnis von Everose, Sedna, Magic Gold & Co.",
@@ -1041,7 +1055,7 @@
       "score_quality": 84,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: Watches and Wonders Geneva Welcomes Breitling, Porsche Design, Universal Genève and Ten Others for 2027—Now with 75 Brands",
@@ -1153,7 +1167,7 @@
       "score_quality": 92,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Kurono Tokyo Calendrier “Small Batch Release” in Saxe Blue",
@@ -1192,10 +1206,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:00:04.000Z",
-      "score_quality": 87,
+      "score_quality": 90,
       "score_notif": 43,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Blancpain Lady B, a Small, Spherical and yet Mechanical Wrist-Worn Jewel",
@@ -1234,10 +1248,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:49.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
@@ -1265,7 +1279,7 @@
       "score_quality": 97,
       "score_notif": 43,
       "cluster": "20260917-391cb0149d7b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
@@ -1346,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1360,10 +1374,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T07:05:02.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: Chopard Happy Diamonds Heritage Returns The Original Men’s Dancing Stone Settings Watch From 1976",
@@ -1696,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T06:22:36.000Z",
-      "score_quality": 78,
+      "score_quality": 94,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Marks 50 Years of the Ingenieur",
@@ -1769,7 +1783,7 @@
       "score_quality": 93,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Squale’s new Galeazzi Artiglio celebrates a century beneath the surface",
@@ -1840,20 +1854,6 @@
       "score_notif": 31,
       "cluster": "20260915-c8b90fbda2fc",
       "cluster_main": true
-    },
-    {
-      "title": "Rolex Perpetual Padellone: Kompliziertes aus der Genfer Manufaktur",
-      "url": "https://www.uhrenkosmos.com/rolex-perpetual-padellone-mit-jahreskalender/",
-      "image": "https://www.youtube.com/embed/dkSchLnKxiw",
-      "peek_preview": "Mit der Rolex Perpetual Padellone schlägt Rolex ein neues Kapitel auf: Historische Anleihen treffen auf einen neu entwickelten Jahreskalender, moderne 5-Hertz-Technik und eine für die Genfer Manufaktur ungewöhnlich komp...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-09-15T16:00:34.000Z",
-      "score_quality": 65,
-      "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
     }
   ]
 }
