@@ -1,6 +1,6 @@
 {
-  "content_hash": "f82e9c4032055bb300e745d381d34238f9c561b8dfdbb19eacf7f1a31277e53a",
-  "last_updated": "2026-09-21T11:47:26.922Z",
+  "content_hash": "79ad850e2ae632c80d18f77607f6da12b59b6930e7886d8241ccd87509c11a6a",
+  "last_updated": "2026-09-21T12:47:10.947Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T11:00:16.000Z"
     },
     {
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T11:00:15.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T11:00:58.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T11:00:28.000Z"
     },
     {
@@ -107,15 +107,15 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T13:41:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T12:30:23.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T10:12:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T12:00:20.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
+      "url": "https://www.orologidiclasse.com/louis-erard-konstantin-chaykin-unfrogettable-2026/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/louis-erard-konstantin-chaykin-unfrogettable-2026.jpg",
+      "peek_preview": "Louis Erard e Konstantin Chaykin riportano in scena Unfrogettable, la loro “rana” meccanica, con due nuove interpretazioni cromatiche: Turquoise e Brown. La formula resta quella già nota della collaborazione tra il bran...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-21T12:30:23.000Z",
+      "score_quality": 72,
+      "score_notif": 46,
+      "cluster": "20260921-ce94d8669faf",
+      "cluster_main": true
+    },
+    {
+      "title": "Latest: le novità di settembre",
+      "url": "https://giornaleorologi.it/2026/09/21/latest-le-novita-di-settembre/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/ROLEX_Apertura_m53505-0002_2608stj_0002-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Latest: le novità di settembre In settembre, il rientro dalle vacanze porta sempre con sé la consueta, ma sorprendente, botta di energia nel mondo delle lancette. Così, al ritorno in città, qua...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-21T12:00:20.000Z",
+      "score_quality": 27,
+      "score_notif": 10,
+      "cluster": "20260921-1a715c254aa8",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On Debut: The H. Moser & Cie. Off-Grid, An Entry-Level Experiment",
       "url": "https://www.ablogtowatch.com/hands-on-debut-the-h-moser-cie-off-grid-an-entry-level-experiment/",
@@ -296,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T06:00:09.000Z",
-      "score_quality": 66,
+      "score_quality": 68,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -789,7 +817,7 @@
       "score_quality": 67,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1209,7 +1237,7 @@
       "score_quality": 86,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: Watches and Wonders Geneva Welcomes Breitling, Porsche Design, Universal Genève and Ten Others for 2027—Now with 75 Brands",
@@ -1237,7 +1265,7 @@
       "score_quality": 88,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Studio Underd0g and Ahmed Seddiqi Go Fishing in the Gulf with the 03SERIES Chan3ad",
@@ -1248,10 +1276,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:01:31.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fortis, Berneron, and More Join Watches and Wonders 2027, Now Featuring 75 Brands",
@@ -1318,10 +1346,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton’s new Khaki Field Mechanical belongs in your Modern Warfare 4 loadout",
@@ -1447,7 +1475,7 @@
       "score_quality": 97,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1458,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T07:05:02.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: Chopard Happy Diamonds Heritage Returns The Original Men’s Dancing Stone Settings Watch From 1976",
@@ -1766,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T06:22:36.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWC Marks 50 Years of the Ingenieur",
@@ -1826,34 +1854,6 @@
       "score_notif": 38,
       "cluster": "20260915-3d6ced95c6b3",
       "cluster_main": true
-    },
-    {
-      "title": "Rolex Introduces the Perpetual Padellone, a New Annual Calendar",
-      "url": "https://wornandwound.com/rolex-introduces-the-perpetual-padellone-a-new-annual-calendar/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Rolex-Padellon-banner.jpg",
-      "peek_preview": "Big news from Rolex today as the brand has released a complicated dress watch, their first in recent memory. The Perpetual Padellon is an instantaneous annual calendar with a moonphase complication and sits within the 1...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T20:00:10.000Z",
-      "score_quality": 98,
-      "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex Presenta il Perpetual Padellone 2026: il nuovo calendario annuale",
-      "url": "https://www.orologidiclasse.com/rolex-perpetual-padellone/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/rolex-perpetual-padellone-2026.jpg",
-      "peek_preview": "Rolex ha appena presentato il Perpetual Padellone, una delle novità più inattese del 2026. Il nome arriva direttamente dalla storica referenza 8171, conosciuta dai collezionisti italiani come “Padellone”, uno degli orol...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-15T16:50:59.000Z",
-      "score_quality": 74,
-      "score_notif": 83,
-      "cluster": "20260915-091f8005ad2a",
-      "cluster_main": false
     }
   ]
 }
