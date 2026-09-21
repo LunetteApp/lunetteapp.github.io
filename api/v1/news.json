@@ -1,6 +1,6 @@
 {
-  "content_hash": "53dd0ffa1c63e3a31a9b570fc2ca20f9b532140237ee638c4261782a78bba15f",
-  "last_updated": "2026-09-21T01:47:16.117Z",
+  "content_hash": "5a82d0ce29ebe0f330bbd109691af074542f2a19a5eb68ada3bda76b80fc7ca7",
+  "last_updated": "2026-09-21T03:46:46.990Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T01:00:40.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T00:00:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-21T03:00:14.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "カシオがクラシカルな角型ケースを採用した「LTP-B150」の新作3型を発表",
+      "url": "https://www.webchronos.net/news/173359/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/CASiO_sukaku_1.webp",
+      "peek_preview": "カシオは「カシオコレクション」の新作として、「LTP-B150」シリーズから3モデルを発表した。ローマ数字インデックスを配したクラシカルな角型ケースに、ステンレススティールブレスレット１種とレザーストラップ２種、計3モデ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-21T03:00:14.000Z",
+      "score_quality": 58,
+      "score_notif": 28,
+      "cluster": "20260921-f31c66c8f6b6",
+      "cluster_main": true
+    },
     {
       "title": "Complicated Collectors: Lord Sandberg",
       "url": "https://watchesbysjx.com/2026/09/lord-sandberg-collector-profile.html",
@@ -1052,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T17:07:36.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: Watches and Wonders Geneva Welcomes Breitling, Porsche Design, Universal Genève and Ten Others for 2027—Now with 75 Brands",
@@ -1377,7 +1391,7 @@
       "score_quality": 85,
       "score_notif": 52,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: Chopard Happy Diamonds Heritage Returns The Original Men’s Dancing Stone Settings Watch From 1976",
@@ -1840,20 +1854,6 @@
       "score_notif": 83,
       "cluster": "20260915-091f8005ad2a",
       "cluster_main": false
-    },
-    {
-      "title": "Insider: Artisans de Genève Nautilus 5711 'BlackStone'—A Glacier in Smoky Sapphire and Black Spinels",
-      "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-nautilus-5711-blackstone-review",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1789486740678-GQ46HGEXVNQNL08OCXT6/Artisans+de+Gene%CC%80ve+Nautilus+5711+Blackstone-1.jpg?format=1500w",
-      "peek_preview": "Artisans de Genève has built its reputation on a premise conglomerate watchmaking rarely allows: that a watch can still be personal. The Nautilus ‘BlackStone’ takes that philosophy furthest—a donor Patek Philippe 5711/1...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-15T16:32:45.000Z",
-      "score_quality": 78,
-      "score_notif": 31,
-      "cluster": "20260915-c8b90fbda2fc",
-      "cluster_main": true
     }
   ]
 }
