@@ -1,6 +1,6 @@
 {
-  "content_hash": "5c0fcc8294ee3c44059adb358ed3ba540bea8a722df13967b110a1bba8539177",
-  "last_updated": "2026-09-22T17:47:20.695Z",
+  "content_hash": "6ba1e6d0923012cf1103cc26969efad37575242b083bb899c56474ea283d49eb",
+  "last_updated": "2026-09-22T19:47:06.267Z",
   "premium": {
     "links": []
   },
@@ -9,15 +9,15 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T17:00:23.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T14:00:21.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T19:00:22.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T17:00:00.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T17:33:00.000Z"
     },
     {
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T17:25:13.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Girard-Perregaux Presents a Pair of Laureato Watches for the Williams F1 Team",
+      "url": "https://wornandwound.com/girard-perregaux-presents-a-pair-of-laureato-watches-for-the-williams-f1-team/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/GP-x-Williams-F1-Laureato-5.jpg",
+      "peek_preview": "Last month, Girard-Perregaux announced its latest involvement in the Formula 1 scene with the Atlassian Williams F1 Team. We knew a collaborative watch would soon follow, and the moment has unfolded. Here, we get the de...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T19:00:22.000Z",
+      "score_quality": 75,
+      "score_notif": 47,
+      "cluster": "20260921-ff50a2b6f4e7",
+      "cluster_main": true
+    },
     {
       "title": "Insider: Maison Alcée x MB&F Nostromo—The CHF 12,000 Clock You Assemble Yourself",
       "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-x-maison-alcee-nostromo-clock-diy",
@@ -366,10 +380,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-22T12:17:01.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The MeisterSinger NL Edition Tulip 2026",
@@ -453,7 +467,7 @@
       "score_quality": 88,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
@@ -464,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:30:17.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
@@ -633,9 +647,9 @@
       "featured": false,
       "published_at": "2026-09-21T16:02:21.000Z",
       "score_quality": 61,
-      "score_notif": 42,
+      "score_notif": 47,
       "cluster": "20260921-ff50a2b6f4e7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Hamilton Unveils new Khaki Field Model for Call of Duty Modern Warfare 4, In-Game and on the Wrist",
@@ -1335,7 +1349,7 @@
       "score_quality": 95,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -1388,10 +1402,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T15:58:58.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -1685,7 +1699,7 @@
       "score_quality": 80,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Answers The Call Of Duty With Khaki Field Modern Warfare 4 Edition",
@@ -1840,20 +1854,6 @@
       "score_notif": 48,
       "cluster": "20260917-8a9dbff8d0c9",
       "cluster_main": false
-    },
-    {
-      "title": "Parmigiani Fleurier Mechanical Wonders: Restaurieren als hohe Schule der Uhrmacherei",
-      "url": "https://www.uhrenkosmos.com/parmigiani-fleurier-mechanical-wonders-tokio/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Parmigiani-Fleurier-Mechanical-Wonders-Opener.jpg",
-      "peek_preview": "Michel Parmigianis jahrzehntelange Arbeit als Restaurator außergewöhnlicher Uhren und komplexer mechanischer Kunstwerke ist eine wichtige Quelle der technischen Kompetenz von Parmigiani Fleurier. Die Ausstellung Parmigi...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-09-17T09:00:40.000Z",
-      "score_quality": 62,
-      "score_notif": 18,
-      "cluster": "20260917-6ddfa0ccab39",
-      "cluster_main": true
     }
   ]
 }
