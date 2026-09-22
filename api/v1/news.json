@@ -1,6 +1,6 @@
 {
-  "content_hash": "9f1481a6c7e99b169f5eabd5b0984549c9b221065731eed96081997d773c928b",
-  "last_updated": "2026-09-22T07:47:04.975Z",
+  "content_hash": "d4c81c1d99bd1247903aa16afec6e3ac5dabb12d66c2959aa2d5bc26521db6d5",
+  "last_updated": "2026-09-22T08:47:17.875Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T07:01:00.000Z"
     },
     {
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T12:57:47.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T07:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-18T11:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-19T08:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New: MeisterSinger NL Edition Tulip",
+      "url": "https://deployant.com/new-meistersinger-nl-edition-tulip/?utm_source=rss&utm_medium=rss&utm_campaign=new-meistersinger-nl-edition-tulip",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/MeisterSinger_ED-NL26_Still_Portrait_for-Deployant.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors MeisterSinger, the one hand watch specialist releases their annual edition for the Dutch market. This novelty has a stylised Tulip on the dial. Priced at just...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T07:30:00.000Z",
+      "score_quality": 66,
+      "score_notif": 38,
+      "cluster": "20260922-139d8c769747",
+      "cluster_main": true
+    },
     {
       "title": "Sub Seconds: Diving With The Doxa SUB 200 T-Graph II",
       "url": "https://www.ablogtowatch.com/sub-seconds-diving-with-the-doxa-sub-200-t-graph-ii/",
@@ -338,10 +352,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
@@ -382,7 +396,7 @@
       "published_at": "2026-09-21T16:09:22.000Z",
       "score_quality": 56,
       "score_notif": 22,
-      "cluster": "20260916-03a30b0a57b2",
+      "cluster": "20260921-b393af01760c",
       "cluster_main": true
     },
     {
@@ -974,6 +988,20 @@
       "cluster_main": true
     },
     {
+      "title": "The Gentlemen 2: avete riconosciuto tutti gli orologi della seconda stagione?",
+      "url": "https://italianwatchspotter.com/the-gentlemen-2-tutti-gli-orologi/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/The-gentleman-watches_0003_Theo-James-x-Rolex-1024x768.webp",
+      "peek_preview": "Quando Guy Ritchie porta The Gentlemen dal cinema alla serialità, nel 2024, conserva uno dei tratti più riconoscibili del proprio linguaggio visivo, ovvero l’uso degli oggetti come strumenti di caratterizzazione. Abiti,...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-19T08:00:00.000Z",
+      "score_quality": 47,
+      "score_notif": 12,
+      "cluster": "20260919-62066958f4eb",
+      "cluster_main": true
+    },
+    {
       "title": "Citizen L Rainell Eco-Drive Ladies’ Teardrop Watch Review",
       "url": "https://www.ablogtowatch.com/citizen-l-rainell-eco-drive-ladies-teardrop-watch-review/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Citizen-L-Eco-Drive-Rainell-26mm-gold-tone-watch-12-768x346.jpg",
@@ -1276,10 +1304,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T12:00:38.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gallet rinasce dopo 200 anni: quattro nuove collezioni segnano il grande ritorno",
@@ -1474,8 +1502,8 @@
       "published_at": "2026-09-17T19:00:06.000Z",
       "score_quality": 76,
       "score_notif": 55,
-      "cluster": "20260916-62ce381ef558",
-      "cluster_main": false
+      "cluster": "20260917-eb88bb496ee3",
+      "cluster_main": true
     },
     {
       "title": "Hamilton Answers The Call Of Duty With Khaki Field Modern Warfare 4 Edition",
@@ -1612,10 +1640,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton’s new Khaki Field Mechanical belongs in your Modern Warfare 4 loadout",
@@ -1783,7 +1811,7 @@
       "score_quality": 55,
       "score_notif": 22,
       "cluster": "20260916-03a30b0a57b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "E.C. Andersson Introduces the Timepod, with a Unique Lug Release System",
@@ -1825,35 +1853,7 @@
       "score_quality": 83,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
-    },
-    {
-      "title": "Jeff Koons x Hublot: quando il tempo diventa materia, forma e movimento",
-      "url": "https://italianwatchspotter.com/jeff-koons-x-hublot/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/hublot-classic-fusion-balloon-dog-by-jeff-koons-trio-1-1-6aa97922dc7e5-1024x683.webp",
-      "peek_preview": "Nell’arte di Jeff Koons anche un soggetto apparentemente semplice può diventare qualcosa di sorprendente una volta cambiati scala, materiali e proporzioni. Il suo Balloon Dog è forse l’esempio più evidente di questo app...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-16T13:07:34.000Z",
-      "score_quality": 36,
-      "score_notif": 55,
-      "cluster": "20260916-62ce381ef558",
       "cluster_main": false
-    },
-    {
-      "title": "Hands On: Hublot Classic Fusion Balloon Dog by Jeff Koons",
-      "url": "https://watchesbysjx.com/2026/09/hublot-classic-fusion-balloon-dog-jeff-koons.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Hublot-Classic-Fusion-Balloon-Dog-Jeff-Koons-red-3x2-centred-header-300x200.jpg",
-      "peek_preview": "Hublot has just unveiled the Classic Fusion Balloon Dog by Jeff Koons, its latest — and arguably most striking — collaboration with a contemporary artist. Crafted from anodised aluminium, the case of the watch is delica...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T13:00:10.000Z",
-      "score_quality": 91,
-      "score_notif": 55,
-      "cluster": "20260916-62ce381ef558",
-      "cluster_main": true
     }
   ]
 }
