@@ -1,6 +1,6 @@
 {
-  "content_hash": "4300d9040ad42f8df450b58acbe1f17c8e74480eb2ea87059338b55b4496c7fe",
-  "last_updated": "2026-09-22T00:46:58.240Z",
+  "content_hash": "4637c5601fa05a3e7878948f9cd09be79034498d3db885aa10753807c49edec0",
+  "last_updated": "2026-09-22T01:46:55.039Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T01:00:40.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T01:00:57.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T00:00:49.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Insight: Screw-Down Showdown",
+      "url": "https://watchesbysjx.com/2026/09/insight-watch-crowns-water-resistance.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2024/09/rolex-deepsea-challenge-triplock-crown-rlx-titanium-300x195.jpg",
+      "peek_preview": "Mechanical movements attract most of the technical interest in watchmaking, but considerable engineering also goes into keeping them dry. For an everyday watch, the waterproof construction of the case and crown is centr...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T01:00:57.000Z",
+      "score_quality": 64,
+      "score_notif": 15,
+      "cluster": "20260922-0f3dd3c12299",
+      "cluster_main": true
+    },
     {
       "title": "チャペックが「プラス・ヴァンドーム コンプリシテ」に、氷河を思わせる「グレイシャー・ブルー」を追加！",
       "url": "https://www.webchronos.net/news/172992/",
@@ -240,10 +254,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T16:56:27.000Z",
-      "score_quality": 55,
+      "score_quality": 100,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
@@ -282,10 +296,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-21T16:09:22.000Z",
-      "score_quality": 54,
+      "score_quality": 56,
       "score_notif": 22,
       "cluster": "20260916-03a30b0a57b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Girard-Perregaux Laureato Williams Editions—Pure Purpose, Two Ways",
@@ -338,10 +352,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – New Colours for the Louis Erard x Konstantin Chaykin Unfrogettable",
@@ -397,7 +411,7 @@
       "score_quality": 90,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -982,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T18:15:10.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -1055,7 +1069,7 @@
       "score_quality": 88,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -1542,10 +1556,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton’s new Khaki Field Mechanical belongs in your Modern Warfare 4 loadout",
@@ -1741,7 +1755,7 @@
       "score_quality": 55,
       "score_notif": 22,
       "cluster": "20260916-03a30b0a57b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "E.C. Andersson Introduces the Timepod, with a Unique Lug Release System",
@@ -1840,20 +1854,6 @@
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
       "cluster_main": false
-    },
-    {
-      "title": "Patek Philippe Watch Art Grand Exhibition Milano 2026: l’essenza dell’alta Orologeria",
-      "url": "https://www.watchinsanity.it/patek-philippe-watch-art-milano-2026/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Milano--1024x682.jpg",
-      "peek_preview": "Patek Philippe porta a Milano la Watch Art Grand Exhibition 2026: date, orari, 500 segnatempo, pezzi unici e tesori del Museo. The post Patek Philippe Watch Art Grand Exhibition Milano 2026: l’essenza dell’alta Orologer...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-16T12:41:52.000Z",
-      "score_quality": 61,
-      "score_notif": 24,
-      "cluster": "20260916-804dc5571d17",
-      "cluster_main": true
     }
   ]
 }
