@@ -1,6 +1,6 @@
 {
-  "content_hash": "601985b60b1f6e9d70df0cd9299009839ce179b1313e8066cbfdda3bd803f19b",
-  "last_updated": "2026-09-22T14:48:41.599Z",
+  "content_hash": "45c5d44d2a294c7ae345748bab29f975e7dabecc4a1a305a78de570dde76652a",
+  "last_updated": "2026-09-22T15:47:52.013Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T14:00:21.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T14:00:01.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T14:37:29.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Introducing: Marathon x Watches of Espionage Titanium SAR",
+      "url": "https://www.hodinkee.com/articles/marathon-x-watches-of-espionage-titanium-sar",
+      "image": "https://hodinkee.imgix.net/uploads/images/9d6f8e16-b2be-4a71-a2eb-f7964e38d1a0/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Watches of Espionage teams up with Marathon Watches to launch their first-ever collaborative watch, and they're off to a great start.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T15:00:00.000Z",
+      "score_quality": 80,
+      "score_notif": 48,
+      "cluster": "20260922-0580d3efb09f",
+      "cluster_main": true
+    },
+    {
       "title": "Experience: Rolex Jubilee Motif Chocolates—Watches and Wonders' Loudest Typeface in Five Single-Origin Cacaos",
       "url": "https://www.watchcollectinglifestyle.com/home/rolex-jubilee-motif-chocolates-2026",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790086451953-V3R6ASQTSXDOIDS5CWQF/ROLEX+JUBILEE+CHOCOLATES-7.jpg?format=1500w",
@@ -257,7 +271,7 @@
       "score_quality": 85,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -271,21 +285,7 @@
       "score_quality": 77,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": true
-    },
-    {
-      "title": "MB&F goes bananas with the Caran d’Ache GorillaSharpener",
-      "url": "https://timeandtidewatches.com/mbf-caran-d-ache-mb-f-gorillasharpener-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-mbf-gorilla-sharpener.jpg",
-      "peek_preview": "MB&F and Caran d’Ache go ape with the GorillaSharpener, a CHF 850 mechanical gorilla that turns sharpening a pencil into an art form. The post MB&F goes bananas with the Caran d’Ache GorillaSharpener appeared first on T...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T12:00:30.000Z",
-      "score_quality": 64,
-      "score_notif": 18,
-      "cluster": "20260922-545795575c95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The MeisterSinger NL Edition Tulip 2026",
@@ -366,10 +366,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:31:22.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
@@ -410,8 +410,8 @@
       "published_at": "2026-09-22T04:03:12.000Z",
       "score_quality": 80,
       "score_notif": 64,
-      "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster": "20260922-d8c1333cfb2e",
+      "cluster_main": true
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
@@ -1626,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T19:00:06.000Z",
-      "score_quality": 76,
+      "score_quality": 78,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Answers The Call Of Duty With Khaki Field Modern Warfare 4 Edition",
@@ -1685,7 +1685,7 @@
       "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -1828,18 +1828,32 @@
       "cluster_main": true
     },
     {
-      "title": "Business News: Watches And Wonders 2027 To Feature More New Brands Including Berneron And Porsche Design",
-      "url": "https://www.hodinkee.com/articles/watches-and-wonders-2027-to-feature-more-new-brands-including-berneron-and-porsche-design",
-      "image": "https://hodinkee.imgix.net/uploads/images/a3938373-457b-46d8-8eed-0075bfa57568/WandW2026_003_In_the_City_Day3.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The top event on the watch calendar is up to 75 brands exhibiting in Geneva in April.",
-      "source_name": "HODINKEE",
+      "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
+      "url": "https://deployant.com/ressence-type-9-jules-wittock/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-9-jules-wittock",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/T9-JWE_PAK_LD_VER_SOL_2026.png",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Ressence TYPE 9 Jules Wittock: a hand-drawn maze milled 0.2 mm into titanium and filled by hand, in Emerald Green or black, 30 pieces each at CHF 20,000. The...",
+      "source_name": "Deployant",
       "lang": "en",
       "featured": false,
-      "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 100,
-      "score_notif": 64,
-      "cluster": "20260917-245bde469c01",
+      "published_at": "2026-09-17T08:01:00.000Z",
+      "score_quality": 74,
+      "score_notif": 19,
+      "cluster": "20260917-a9bfd5842100",
       "cluster_main": true
+    },
+    {
+      "title": "Ressence Taps Maze Artist for Latest Type 9",
+      "url": "https://watchesbysjx.com/2026/09/ressence-type-9-jules-wittock.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Ressence-Type-9-Jules-Wittock-3x2-centred-header-300x200.jpg",
+      "peek_preview": "For the latest installment of the brand’s Art Watch series, Ressence has teamed up with a contemporary Belgian artist for the puzzling Type 9 Jules Wittock. I say ‘puzzling’, because Mr Wittock’s specialty is hand-drawi...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-17T08:00:28.000Z",
+      "score_quality": 69,
+      "score_notif": 19,
+      "cluster": "20260917-a9bfd5842100",
+      "cluster_main": false
     }
   ]
 }
