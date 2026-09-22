@@ -1,6 +1,6 @@
 {
-  "content_hash": "6ba1e6d0923012cf1103cc26969efad37575242b083bb899c56474ea283d49eb",
-  "last_updated": "2026-09-22T19:47:06.267Z",
+  "content_hash": "9781d529a46851d084e41c73a47db0a7d19e643fded7a1ae9c6acec81b858046",
+  "last_updated": "2026-09-22T20:47:37.033Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T19:00:22.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T10:50:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T19:58:23.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Franck Muller Uhren heute: Wie das Watchland in Genthod wirklich tickt",
+      "url": "https://www.uhrenkosmos.com/franck-muller-besuch-in-der-uhrenmanufaktur/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Franck-Muller-Watchland-Crazy-Hours-Color-Dreams-Aufmacher.jpg",
+      "peek_preview": "Franck Muller war in den 1990er-Jahren einer der großen Unruhestifter der Schweizer Uhrmacherei. Heute ist es um die Marke leiser geworden. Wer jedoch das Watchland in Genthod besucht, entdeckt hinter den auffälligen Zi...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-22T19:58:23.000Z",
+      "score_quality": 76,
+      "score_notif": 22,
+      "cluster": "20260922-8a7f0f9493c8",
+      "cluster_main": true
+    },
+    {
+      "title": "Alexander Gutierrez verlässt Tempus Arte – und wechselt zu Damiani – Baume & Mercier",
+      "url": "https://www.uhrenkosmos.com/alexander-gutierrez-verlaesst-tempus-arte/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2023/12/Watch-Talk-Alexander-Gutierrez-Portraet.jpg",
+      "peek_preview": "Alexander Gutierrez verlässt nach 6 Jahren die Tempus Arte Gruppe und wechselt zur Damiani Group und Baume & Mercier. Damit kommt Gutierrez ein vertrautes Marken- und Unternehmensumfeld. Bei der Tempus Arte Gruppe hinge...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-22T19:57:13.000Z",
+      "score_quality": 56,
+      "score_notif": 26,
+      "cluster": "20260922-7f9170cdb188",
+      "cluster_main": true
+    },
     {
       "title": "Girard-Perregaux Presents a Pair of Laureato Watches for the Williams F1 Team",
       "url": "https://wornandwound.com/girard-perregaux-presents-a-pair-of-laureato-watches-for-the-williams-f1-team/",
@@ -383,7 +411,7 @@
       "score_quality": 81,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The MeisterSinger NL Edition Tulip 2026",
@@ -397,20 +425,6 @@
       "score_quality": 82,
       "score_notif": 31,
       "cluster": "20260922-139d8c769747",
-      "cluster_main": true
-    },
-    {
-      "title": "Franck Muller Uhren heute: Wie das Watchland in Genthod wirklich tickt",
-      "url": "https://www.uhrenkosmos.com/franck-muller-besuch-in-der-uhrenmanufaktur/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Franck-Muller-Watchland-Crazy-Hours-Color-Dreams-Aufmacher.jpg",
-      "peek_preview": "Franck Muller war in den 1990er-Jahren einer der großen Unruhestifter der Schweizer Uhrmacherei. Heute ist es um die Marke leiser geworden. Wer jedoch das Watchland in Genthod besucht, entdeckt hinter den auffälligen Zi...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-09-22T10:50:23.000Z",
-      "score_quality": 76,
-      "score_notif": 22,
-      "cluster": "20260922-8a7f0f9493c8",
       "cluster_main": true
     },
     {
@@ -604,10 +618,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
@@ -688,10 +702,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – New Colours for the Louis Erard x Konstantin Chaykin Unfrogettable",
@@ -747,7 +761,7 @@
       "score_quality": 92,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -1346,10 +1360,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T18:15:10.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -1405,7 +1419,7 @@
       "score_quality": 96,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -1696,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T19:00:06.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Answers The Call Of Duty With Khaki Field Modern Warfare 4 Edition",
@@ -1836,23 +1850,9 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
-    },
-    {
-      "title": "Hamilton’s new Khaki Field Mechanical belongs in your Modern Warfare 4 loadout",
-      "url": "https://timeandtidewatches.com/hamilton-khaki-field-mechanical-mw4-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-hamilton-khaki-field-cod-2026-2.jpg",
-      "peek_preview": "Captain Price adds a new Hamilton Khaki Field Mechanical to his kitbag for Call of Duty: Modern Warfare 4, and now you can equip one too. The post Hamilton’s new Khaki Field Mechanical belongs in your Modern Warfare 4 l...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T13:00:33.000Z",
-      "score_quality": 48,
-      "score_notif": 48,
-      "cluster": "20260917-8a9dbff8d0c9",
       "cluster_main": false
     }
   ]
