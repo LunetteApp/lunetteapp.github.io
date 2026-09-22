@@ -1,6 +1,6 @@
 {
-  "content_hash": "4637c5601fa05a3e7878948f9cd09be79034498d3db885aa10753807c49edec0",
-  "last_updated": "2026-09-22T01:46:55.039Z",
+  "content_hash": "c62e3f920950f2e961c480edc8e60d7d96912c88d7b805b46094d88bf8a62a65",
+  "last_updated": "2026-09-22T02:46:57.002Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T16:00:35.000Z"
+      "estimated_articles_per_day": 4.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T02:01:43.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T01:00:57.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "First Look – The Roger Dubuis Knights of the Round Table “The Metamorph Merlin”",
+      "url": "https://monochrome-watches.com/roger-dubuis-knights-of-the-round-table-the-metamorph-merlin-review/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Roger-Dubuis-Knights-of-the-Round-Table-The-Metamorph-Merlin-review-10-600x237.jpg",
+      "peek_preview": "In 2005, Roger Dubuis launched the Excalibur, an imposing 45mm watch that established many of the key aesthetic traits and mechanical audacity that characterise the “hyper horology” the brand practises today. The Knight...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T02:01:43.000Z",
+      "score_quality": 83,
+      "score_notif": 54,
+      "cluster": "20260922-2145a6f1d44f",
+      "cluster_main": true
+    },
+    {
       "title": "Insight: Screw-Down Showdown",
       "url": "https://watchesbysjx.com/2026/09/insight-watch-crowns-water-resistance.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2024/09/rolex-deepsea-challenge-triplock-crown-rlx-titanium-300x195.jpg",
@@ -218,20 +232,6 @@
       "cluster_main": true
     },
     {
-      "title": "FounderFest 2026 has left the stage – here’s how it went down",
-      "url": "https://timeandtidewatches.com/founderfest-2026-events/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/founderfest-featured-image-event-1.jpg",
-      "peek_preview": "The doors just closed on our most ambitious event yet; FounderFest. Seven watches across three events in Melbourne, London and NYC. The post FounderFest 2026 has left the stage – here’s how it went down appeared first o...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T19:00:21.000Z",
-      "score_quality": 57,
-      "score_notif": 20,
-      "cluster": "20260921-415eeb75bfb5",
-      "cluster_main": true
-    },
-    {
       "title": "Moser Dips Its Toe Back in the Digital Realm with the New Limited Edition Streamliner Off-Grid",
       "url": "https://wornandwound.com/moser-dips-its-toe-back-in-the-digital-realm-with-the-new-limited-edition-streamliner-off-grid/",
       "image": "https://wornandwound.com/library/uploads/2026/09/Moser-Streamliner-Off-Grid-1.jpg",
@@ -254,10 +254,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T16:56:27.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
@@ -298,7 +298,7 @@
       "published_at": "2026-09-21T16:09:22.000Z",
       "score_quality": 56,
       "score_notif": 22,
-      "cluster": "20260916-03a30b0a57b2",
+      "cluster": "20260921-b393af01760c",
       "cluster_main": true
     },
     {
@@ -355,7 +355,7 @@
       "score_quality": 91,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – New Colours for the Louis Erard x Konstantin Chaykin Unfrogettable",
@@ -408,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -1254,20 +1254,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – Inspired by a Cult French Novel, Czapek Unveils the Promenade L’Ecume des Jours",
-      "url": "https://monochrome-watches.com/inspired-by-a-cult-french-novel-czapek-unveils-the-promenade-ecume-des-jours-hands-on-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Czapek-Promenade-Ecume-des-Jours-review-1-600x237.jpg",
-      "peek_preview": "Czapek launched the Promenade collection in 2024, an elegant line of compact, time-only dress watches that, in the words of CEO Xavier de Roquemaurel, serve as a “canvas for creative expression.” The latest addition to...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T09:01:49.000Z",
-      "score_quality": 80,
-      "score_notif": 48,
-      "cluster": "20260918-b40e71a1d543",
-      "cluster_main": true
-    },
-    {
       "title": "The Top 5 Titanium Watches Released in 2026",
       "url": "https://www.fratellowatches.com/the-top-5-titanium-watches-released-in-2026/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/01/Toledano-Chan-26.jpg",
@@ -1293,7 +1279,7 @@
       "score_quality": 74,
       "score_notif": 48,
       "cluster": "20260918-b40e71a1d543",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre crée son poinçon HPG et relance la course aux certifications",
@@ -1472,10 +1458,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T16:22:47.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Studio Underd0g x Ahmed Seddiqi \"Chan3ad\" (Kingfish) Limited Edition",
@@ -1640,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T09:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Ressence TYPE 9 Jules Wittock, a hand-drawn maze in Emerald Green and Black",
@@ -1682,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1755,7 +1741,7 @@
       "score_quality": 55,
       "score_notif": 22,
       "cluster": "20260916-03a30b0a57b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "E.C. Andersson Introduces the Timepod, with a Unique Lug Release System",
