@@ -1,6 +1,6 @@
 {
-  "content_hash": "d4c81c1d99bd1247903aa16afec6e3ac5dabb12d66c2959aa2d5bc26521db6d5",
-  "last_updated": "2026-09-22T08:47:17.875Z",
+  "content_hash": "9e380993c83045003f2dfd6f4ddd39c84e30f8340c7733eca3fd5f89ddea5577",
+  "last_updated": "2026-09-22T09:47:17.033Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T06:30:17.000Z"
     },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T07:30:00.000Z"
     },
     {
@@ -122,7 +122,7 @@
       "lang": "it",
       "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-19T08:00:00.000Z"
+      "latest_article_at": "2026-09-22T08:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Blancpain Ladybird Lady B: 19 millimetri e settant’anni di miniaturizzazione",
+      "url": "https://italianwatchspotter.com/il-nuovo-blancpain-ladybird-lady-b/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-96-edited-1024x682.png",
+      "peek_preview": "Nel 2026 i mini watches non hanno più bisogno di essere difesi come una scelta eccentrica. Nel giro di pochi mesi Audemars Piguet ha aggiunto nuovi quadranti in pietra al Royal Oak Mini da 23 mm, Chanel ha portato il J1...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-22T08:00:00.000Z",
+      "score_quality": 64,
+      "score_notif": 53,
+      "cluster": "20260917-e64751d5106d",
+      "cluster_main": false
+    },
+    {
       "title": "New: MeisterSinger NL Edition Tulip",
       "url": "https://deployant.com/new-meistersinger-nl-edition-tulip/?utm_source=rss&utm_medium=rss&utm_campaign=new-meistersinger-nl-edition-tulip",
       "image": "https://deployant.com/wp-content/uploads/2026/09/MeisterSinger_ED-NL26_Still_Portrait_for-Deployant.jpg",
@@ -215,7 +229,7 @@
       "score_quality": 82,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
@@ -226,10 +240,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:30:17.000Z",
-      "score_quality": 76,
+      "score_quality": 83,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
@@ -352,10 +366,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T16:56:27.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
@@ -396,8 +410,8 @@
       "published_at": "2026-09-21T16:09:22.000Z",
       "score_quality": 56,
       "score_notif": 22,
-      "cluster": "20260921-b393af01760c",
-      "cluster_main": true
+      "cluster": "20260916-03a30b0a57b2",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Girard-Perregaux Laureato Williams Editions—Pure Purpose, Two Ways",
@@ -696,7 +710,7 @@
     {
       "title": "Complicated Collectors: Lord Sandberg",
       "url": "https://watchesbysjx.com/2026/09/lord-sandberg-collector-profile.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/0-Complicated-collectors-Lord-Sandberg-Cover-300x200.jpg",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Complicated-collectors-michael-Sandberg-300x300.jpg",
       "peek_preview": "This weekend’s results at Sotheby’s Hong Kong typify contemporary interest in independent watchmaking, and in special editions of series-produced watches. In contrast, the Sandberg Collection, assembled by former HSBC c...",
       "source_name": "SJX Watches",
       "lang": "en",
@@ -1111,7 +1125,7 @@
       "score_quality": 91,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -1178,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T15:58:58.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -1306,7 +1320,7 @@
       "published_at": "2026-09-18T12:00:38.000Z",
       "score_quality": 84,
       "score_notif": 31,
-      "cluster": "20260916-42981d8eb94d",
+      "cluster": "20260918-34d96fee2c95",
       "cluster_main": true
     },
     {
@@ -1752,10 +1766,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1808,7 +1822,7 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T20:00:34.000Z",
-      "score_quality": 55,
+      "score_quality": 57,
       "score_notif": 22,
       "cluster": "20260916-03a30b0a57b2",
       "cluster_main": true
@@ -1840,20 +1854,6 @@
       "score_notif": 12,
       "cluster": "20260916-a0d9f177a1dc",
       "cluster_main": true
-    },
-    {
-      "title": "New: The 70s by Glashütte Original",
-      "url": "https://deployant.com/new-the-70s-by-glashutte-original/?utm_source=rss&utm_medium=rss&utm_campaign=new-the-70s-by-glashutte-original",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/Digital-1-36-11-03-02-66_70s_DIAL_Tweed_Amp_RS_black_LE0826-149600-1200x1550.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors It’s been a hot minute since Glashütte Original released a 70s in a date and time configuration. Here’s is our take on Glashütte’s latest timepiece. Our insid...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T14:02:37.000Z",
-      "score_quality": 83,
-      "score_notif": 31,
-      "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
     }
   ]
 }
