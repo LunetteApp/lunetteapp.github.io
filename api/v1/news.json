@@ -1,6 +1,6 @@
 {
-  "content_hash": "ceb1e9ab1ff9d5b64a8c6f4f9ab47b7f9557762da5540dc959093c26fe20e2c1",
-  "last_updated": "2026-09-22T03:47:38.990Z",
+  "content_hash": "82c4f61d00ef5d1d6ac7b3a7b1021d56abe8b8dc622f9dacf223331e13e39bad",
+  "last_updated": "2026-09-22T04:47:01.513Z",
   "premium": {
     "links": []
   },
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T01:00:57.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T04:03:12.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T03:00:16.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Sotheby’s Sets Record Price for Cartier and Quartz",
+      "url": "https://watchesbysjx.com/2026/09/sothebys-hong-kong-cartier-cheich-white-gold.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/cartier-cheich-white-gold-sothebys-hong-kong-2-300x200.jpg",
+      "peek_preview": "The Cartier Cheich is one of the jeweller’s most unusual, and rarest, creations. Originally conceived as a prize for winners of the Dakar Rally during the years when the race was sponsored by Cartier, the Cheich was mod...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T04:03:12.000Z",
+      "score_quality": 80,
+      "score_notif": 64,
+      "cluster": "20260918-8db94df72433",
+      "cluster_main": false
+    },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
       "url": "https://www.webchronos.net/news/173292/",
@@ -268,10 +282,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T16:56:27.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
@@ -312,7 +326,7 @@
       "published_at": "2026-09-21T16:09:22.000Z",
       "score_quality": 56,
       "score_notif": 22,
-      "cluster": "20260916-03a30b0a57b2",
+      "cluster": "20260921-b393af01760c",
       "cluster_main": true
     },
     {
@@ -1682,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1741,7 +1755,7 @@
       "score_quality": 55,
       "score_notif": 22,
       "cluster": "20260916-03a30b0a57b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "E.C. Andersson Introduces the Timepod, with a Unique Lug Release System",
@@ -1840,20 +1854,6 @@
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
       "cluster_main": false
-    },
-    {
-      "title": "Patek Philippe Watch Art Grand Exhibition Milano 2026: l’essenza dell’alta Orologeria",
-      "url": "https://www.watchinsanity.it/patek-philippe-watch-art-milano-2026/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Milano--1024x682.jpg",
-      "peek_preview": "Patek Philippe porta a Milano la Watch Art Grand Exhibition 2026: date, orari, 500 segnatempo, pezzi unici e tesori del Museo. The post Patek Philippe Watch Art Grand Exhibition Milano 2026: l’essenza dell’alta Orologer...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-16T12:41:52.000Z",
-      "score_quality": 50,
-      "score_notif": 14,
-      "cluster": "20260916-804dc5571d17",
-      "cluster_main": true
     }
   ]
 }
