@@ -1,6 +1,6 @@
 {
-  "content_hash": "82c4f61d00ef5d1d6ac7b3a7b1021d56abe8b8dc622f9dacf223331e13e39bad",
-  "last_updated": "2026-09-22T04:47:01.513Z",
+  "content_hash": "004a267f092c07d955c6beeb59556186a36b47a78518af52c7e0a59f2df081d2",
+  "last_updated": "2026-09-22T06:47:35.931Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T11:00:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T06:30:17.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T02:01:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T06:31:22.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T04:03:12.000Z"
     },
     {
@@ -127,9 +127,9 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T10:43:52.000Z"
+      "estimated_articles_per_day": 0.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T06:25:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Review – Back to Basics for Panerai, with the new Luminor 42 Collection (Incl. Video)",
+      "url": "https://monochrome-watches.com/2026-panerai-luminor-42-pam01710-pam01711-pam01714-video-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-Panerai-Luminor-42-PAM01710-PAM01711-PAM01714-video-review-8-600x237.jpg",
+      "peek_preview": "If you want to talk about iconic designs of the watch industry, then the Luminor collection by Panerai should certainly be on your list… Not only is this watch the brand’s most classic model, but it’s also one of the mo...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T06:31:22.000Z",
+      "score_quality": 82,
+      "score_notif": 54,
+      "cluster": "20260922-38757a00cb84",
+      "cluster_main": true
+    },
+    {
+      "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
+      "url": "https://www.fratellowatches.com/42mm-panerai-luminor-pam01710-pam01711-and-pam01714/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Panerai-PAM01710-PAM01711-PAM01714.jpg",
+      "peek_preview": "Ask watch fans about typical Panerai characteristics, and one of the first things they’ll mention is size. The watches’ large cases have become synonymous with the brand, along with Panerai’s iconic design style, sandwi...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T06:30:17.000Z",
+      "score_quality": 76,
+      "score_notif": 54,
+      "cluster": "20260922-38757a00cb84",
+      "cluster_main": false
+    },
+    {
+      "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
+      "url": "https://www.welovewatches.fr/christopher-ward-c63-sealander-chronograph-5-chronos-mecaniques-apres-6-ans-dabsence.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/christopher_ward_c63-41-une.jpg",
+      "peek_preview": "Christopher Ward n’avait plus lancé de chronographe mécanique de série depuis les C60 et C65 Chronograph de 2020. Six ans plus tard, la marque britannique revient à cette complication avec le C63 Sealander Chronograph,...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-22T06:25:00.000Z",
+      "score_quality": 68,
+      "score_notif": 43,
+      "cluster": "20260917-391cb0149d7b",
+      "cluster_main": false
+    },
     {
       "title": "Sotheby’s Sets Record Price for Cartier and Quartz",
       "url": "https://watchesbysjx.com/2026/09/sothebys-hong-kong-cartier-cheich-white-gold.html",
@@ -282,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T16:56:27.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
@@ -326,7 +368,7 @@
       "published_at": "2026-09-21T16:09:22.000Z",
       "score_quality": 56,
       "score_notif": 22,
-      "cluster": "20260921-b393af01760c",
+      "cluster": "20260916-03a30b0a57b2",
       "cluster_main": true
     },
     {
@@ -1212,20 +1254,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – Pennsylvania-Based RGM Revives the E.F. Bowman Name with the Model 501-EFB",
-      "url": "https://monochrome-watches.com/pennsylvania-based-rgm-revives-the-e-f-bowman-name-with-the-model-501-efb-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Pennsylvania-Based-RGM-Revives-the-E.F.-Bowman-Name-with-the-Model-501-EFB-8-600x237.jpg",
-      "peek_preview": "For RGM Watch Co., the return of the E.F. Bowman name reconnects the Lancaster-based independent with a local watchmaking legacy that goes back to the 19th century, and one that has a direct connection to RGM founder Ro...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T13:00:05.000Z",
-      "score_quality": 82,
-      "score_notif": 46,
-      "cluster": "20260918-f21ba1351389",
-      "cluster_main": true
-    },
-    {
       "title": "New Release: Glashütte Original Reinvents The 70s Watch Line With A Crisper, Audio-Inspired Style",
       "url": "https://www.ablogtowatch.com/new-release-glashutte-original-reinvents-the-70s-watch-line-with-a-crisper-audio-inspired-style/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Glashutte-Original-70s-LOR-Crop-1-768x346.jpg",
@@ -1590,20 +1618,6 @@
       "cluster_main": false
     },
     {
-      "title": "Hamilton Returns To Call Of Duty With A New Khaki Field Mechanical 38mm",
-      "url": "https://www.fratellowatches.com/hamilton-returns-to-call-of-duty-khaki-field-mechanical-38mm/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Hamilton-Khaki-Field_H69469930_lifestyle-3-kopie.jpg",
-      "peek_preview": "Do you have October 23rd marked in your calendar? If so, that’s probably because that’s when Call of Duty: Modern Warfare 4 is coming out. Today, however, we see the watch that goes with the video game. Hamilton returns...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T13:00:04.000Z",
-      "score_quality": 92,
-      "score_notif": 48,
-      "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
-    },
-    {
       "title": "Introducing: Blancpain Celebrates The 70th Anniversary Of The Ladybird Collection With The Mini \"Lady B\" Revival",
       "url": "https://www.hodinkee.com/articles/introducing-blancpain-lady-bird-lady-b",
       "image": "https://hodinkee.imgix.net/uploads/images/29b31e73-4fe9-4fe0-b3f6-1aede28f7a7d/Ladybird_0064_3642_PR1_RGB.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1696,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T08:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko Revives the 9S Arabic Numeral Dial",
@@ -1755,7 +1769,7 @@
       "score_quality": 55,
       "score_notif": 22,
       "cluster": "20260916-03a30b0a57b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "E.C. Andersson Introduces the Timepod, with a Unique Lug Release System",
@@ -1840,20 +1854,6 @@
       "score_notif": 55,
       "cluster": "20260916-62ce381ef558",
       "cluster_main": true
-    },
-    {
-      "title": "Does a balloon dog watch sound like fiction? Hublot and Jeff Koons made it a reality",
-      "url": "https://timeandtidewatches.com/hublot-classic-fusion-balloon-dog-by-jeff-koons-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Hublot-Classic-Fusion-by-Jeff-Koons-31.jpg",
-      "peek_preview": "The new Hublot Classic Fusion Balloon Dog by Jeff Koons Limited Editions fuse an iconic work of art with an iconic watch design. The post Does a balloon dog watch sound like fiction? Hublot and Jeff Koons made it a real...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T12:59:31.000Z",
-      "score_quality": 62,
-      "score_notif": 55,
-      "cluster": "20260916-62ce381ef558",
-      "cluster_main": false
     }
   ]
 }
