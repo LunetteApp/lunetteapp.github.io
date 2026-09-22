@@ -1,6 +1,6 @@
 {
-  "content_hash": "004a267f092c07d955c6beeb59556186a36b47a78518af52c7e0a59f2df081d2",
-  "last_updated": "2026-09-22T06:47:35.931Z",
+  "content_hash": "9f1481a6c7e99b169f5eabd5b0984549c9b221065731eed96081997d773c928b",
+  "last_updated": "2026-09-22T07:47:04.975Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T06:30:17.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T06:31:22.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T15:00:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-22T07:01:00.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T06:25:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Sub Seconds: Diving With The Doxa SUB 200 T-Graph II",
+      "url": "https://www.ablogtowatch.com/sub-seconds-diving-with-the-doxa-sub-200-t-graph-ii/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Doxa-SUB-200-T-GRAPH-2-JVB-2-768x614.jpg",
+      "peek_preview": "The go-anywhere, do-anything (GADA) watch is a byword in enthusiast watch culture, the Platonic ideal of a one-and-done watch collection. It’s at home in any situation, from poolside to boardroom, and whatever other cli...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T07:01:00.000Z",
+      "score_quality": 72,
+      "score_notif": 24,
+      "cluster": "20260922-605275d55a8f",
+      "cluster_main": true
+    },
     {
       "title": "Review – Back to Basics for Panerai, with the new Luminor 42 Collection (Incl. Video)",
       "url": "https://monochrome-watches.com/2026-panerai-luminor-42-pam01710-pam01711-pam01714-video-review-price/",
@@ -324,10 +338,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T16:56:27.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
@@ -844,8 +858,8 @@
       "published_at": "2026-09-20T00:00:40.000Z",
       "score_quality": 61,
       "score_notif": 31,
-      "cluster": "20260916-ac3804e10ee7",
-      "cluster_main": false
+      "cluster": "20260920-a619ea8d4ef6",
+      "cluster_main": true
     },
     {
       "title": "New releases from Blancpain, Czapek, Grand Seiko and more",
@@ -1066,10 +1080,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T18:15:10.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -1139,7 +1153,7 @@
       "score_quality": 90,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -1265,7 +1279,7 @@
       "score_quality": 82,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gallet rinasce dopo 200 anni: quattro nuove collezioni segnano il grande ritorno",
@@ -1598,10 +1612,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-17T13:41:44.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 41,
       "cluster": "20260917-1a4fb5130b3c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton’s new Khaki Field Mechanical belongs in your Modern Warfare 4 loadout",
@@ -1808,23 +1822,9 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-16T14:02:37.000Z",
-      "score_quality": 64,
+      "score_quality": 83,
       "score_notif": 31,
       "cluster": "20260916-42981d8eb94d",
-      "cluster_main": false
-    },
-    {
-      "title": "Gerald Charles Masterlink Atelier Edition Introduces Hand-Hammered Dials",
-      "url": "https://www.ablogtowatch.com/gerald-charles-masterlink-atelier-edition-introduces-hand-hammered-dials/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Gerald-Charles-Masterlink-Atelier-Edition-768x349.jpg",
-      "peek_preview": "The Masterlink may be one of the newer additions to the Gerald Charles collection, but the brand is already finding new ways to reinterpret the model. The manufacture has now turned to traditional hand craftsmanship for...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-16T14:00:09.000Z",
-      "score_quality": 70,
-      "score_notif": 31,
-      "cluster": "20260916-ac3804e10ee7",
       "cluster_main": true
     },
     {
