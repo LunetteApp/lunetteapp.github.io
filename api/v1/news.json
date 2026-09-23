@@ -1,6 +1,6 @@
 {
-  "content_hash": "3093768571a8aa52464947eb26976b30cf0589e22463c502d186e8edd6e4568d",
-  "last_updated": "2026-09-23T17:47:01.383Z",
+  "content_hash": "09e71e3be7599a9336455c0a3d0be061c01a0bdbed6e69e4dbc5ec4c7b179e1f",
+  "last_updated": "2026-09-23T20:47:19.794Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T13:00:14.000Z"
     },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T16:00:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T20:00:23.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T17:10:08.000Z"
     },
     {
@@ -50,7 +50,7 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-21T16:39:42.000Z"
     },
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 3,
+      "estimated_articles_per_day": 2.9,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T14:17:09.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
+      "url": "https://wornandwound.com/six-of-the-most-obscure-watch-and-car-tie-ins-youve-likely-never-heard-of/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/AS-Audi-Sport.jpg",
+      "peek_preview": "In terms of analog intricacy and an unyielding enthusiasm for the vintage and enduring, watches and the automotive realm are a natural A-to-B: it should come as no surprise that the Venn diagram of watch nerds and autom...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-23T20:00:23.000Z",
+      "score_quality": 52,
+      "score_notif": 12,
+      "cluster": "20260923-78e1669fe471",
+      "cluster_main": true
+    },
     {
       "title": "First Look – Frederique Constant x French Foreign Legion, Two Limited Editions to Celebrate the Elite Unit",
       "url": "https://monochrome-watches.com/frederique-constant-x-french-foreign-legion-limited-editions-review-price/",
@@ -1195,7 +1209,7 @@
       "score_quality": 88,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1612,10 +1626,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1839,20 +1853,6 @@
       "score_quality": 74,
       "score_notif": 52,
       "cluster": "20260918-10e7333235cc",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Daniel Roth Extra Plat Rose Gold Gilt",
-      "url": "https://watchesbysjx.com/2026/09/daniel-roth-extra-plat-rose-gold-gilt-review.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Daniel-Roth-Extra-Plat-Rose-Gold-Gilt-review-300x200.jpg",
-      "peek_preview": "Daniel Roth’s svelte time-only watch remains compact but gains presence with the Extra Plat Rose Gold Gilt. While it is just a cosmetic update, the black dial with “gilt” markings create a high contrast look that is unu...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T04:55:26.000Z",
-      "score_quality": 83,
-      "score_notif": 29,
-      "cluster": "20260918-a3fdda934053",
       "cluster_main": true
     }
   ]
