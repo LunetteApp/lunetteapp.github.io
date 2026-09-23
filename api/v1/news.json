@@ -1,6 +1,6 @@
 {
-  "content_hash": "3bc1b8fb258b46c3e036438f4636df9513e4158fdcf8fbb7845014bdea9816d9",
-  "last_updated": "2026-09-23T01:47:14.693Z",
+  "content_hash": "428a81dbfbc68a06f0ba947878168550b699691c7c688e4558acc3f8067747af",
+  "last_updated": "2026-09-23T03:47:02.104Z",
   "premium": {
     "links": []
   },
@@ -71,8 +71,8 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.4,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T01:00:41.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T00:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T03:00:15.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "オリエントスターがブランド誕生75周年の集大成となる新たなフラッグシップモデル「オリエントスタースケルトン」を発表",
+      "url": "https://www.webchronos.net/news/173405/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/orientstar_skeleton-01.webp",
+      "peek_preview": "オリエントスターは、ブランド誕生75周年を記念した新たなフラッグシップモデル「オリエントスタースケルトン」を発表した。“時空間”をテーマに、35年にわたって培ってきたスケルトンウォッチの技術を集約。満を持して新開発された […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-23T03:00:15.000Z",
+      "score_quality": 72,
+      "score_notif": 49,
+      "cluster": "20260923-8f50cd52aa50",
+      "cluster_main": true
+    },
     {
       "title": "Hands On: Blancpain Lady B",
       "url": "https://watchesbysjx.com/2026/09/blancpain-lady-b.html",
@@ -243,7 +257,7 @@
       "score_quality": 75,
       "score_notif": 47,
       "cluster": "20260921-ff50a2b6f4e7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Maison Alcée x MB&F Nostromo—The CHF 12,000 Clock You Assemble Yourself",
@@ -506,10 +520,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:31:22.000Z",
-      "score_quality": 88,
+      "score_quality": 92,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
@@ -523,7 +537,7 @@
       "score_quality": 91,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
@@ -688,10 +702,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T16:02:21.000Z",
-      "score_quality": 61,
+      "score_quality": 76,
       "score_notif": 47,
       "cluster": "20260921-ff50a2b6f4e7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Hamilton Unveils new Khaki Field Model for Call of Duty Modern Warfare 4, In-Game and on the Wrist",
@@ -954,10 +968,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T06:00:09.000Z",
-      "score_quality": 76,
+      "score_quality": 78,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1391,7 +1405,7 @@
       "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -1433,7 +1447,7 @@
       "score_quality": 77,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1444,10 +1458,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T15:58:58.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -1685,20 +1699,6 @@
       "score_quality": 83,
       "score_notif": 28,
       "cluster": "20260918-a3fdda934053",
-      "cluster_main": true
-    },
-    {
-      "title": "ペキニエがミシュラン星獲得シェフとのコラボレーションモデル「コンコルド ダマス×マティアス・マルク」を発売",
-      "url": "https://www.webchronos.net/news/173112/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/PQ_damas_1.webp",
-      "peek_preview": "フランスのマニュファクチュールであるペキニエは、同国ジュラ地方出身のミシュラン星獲得シェフ、マティアス・マルクとのコラボレーションモデル「コンコルド ダマス×マティアス・マルク」を発売した。世界限定50本が販売される本作 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-18T03:00:27.000Z",
-      "score_quality": 62,
-      "score_notif": 27,
-      "cluster": "20260918-31b086107595",
       "cluster_main": true
     },
     {
