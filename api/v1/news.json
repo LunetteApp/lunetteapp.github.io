@@ -1,6 +1,6 @@
 {
-  "content_hash": "f885772e5e60a70aacb05149a65c519793e24949f1b8476505afbb7d55c4fb3d",
-  "last_updated": "2026-09-23T06:47:17.884Z",
+  "content_hash": "a9d4f142738c446b95f4c86a975fc55e4df10cfcf84e5d0926e92cf0886d55fb",
+  "last_updated": "2026-09-23T07:47:01.150Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T06:00:03.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T14:00:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T07:01:48.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T05:30:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The Nivada Grenchen Autochron Mecaquartz Watch Offers Immense Vintage-Style Fun For The Money",
+      "url": "https://www.ablogtowatch.com/hands-on-the-nivada-grenchen-autochron-mecaquartz-watch-offers-immense-vintage-style-fun-per-dollar/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Nivada-Autochron-Mecaquartz-LOR-Crop-768x346.jpg",
+      "peek_preview": "Over the past few years, it seems as though the esoteric, funky side of vintage watch collecting has permeated into the larger enthusiast discourse. Beyond just the desire for smaller, more vintage sizes, collectors who...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-23T07:01:48.000Z",
+      "score_quality": 76,
+      "score_notif": 24,
+      "cluster": "20260923-e83f0936168f",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Girard-Perragaux Laureato Chronograph and Laureato 42mm Williams Editions",
       "url": "https://monochrome-watches.com/introducing-girard-perragaux-laureato-chronograph-and-laureato-42mm-williams-edition-price/",
@@ -288,10 +302,10 @@
       "cluster_main": true
     },
     {
-      "title": "Alexander Gutierrez verlässt Tempus Arte – und wechselt zu Damiani – Baume & Mercier",
+      "title": "Alexander Gutierrez Diaz verlässt Tempus Arte – und wechselt zu Damiani – Baume & Mercier",
       "url": "https://www.uhrenkosmos.com/alexander-gutierrez-verlaesst-tempus-arte/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2023/12/Watch-Talk-Alexander-Gutierrez-Portraet.jpg",
-      "peek_preview": "Alexander Gutierrez verlässt nach 6 Jahren die Tempus Arte Gruppe und wechselt zur Damiani Group und Baume & Mercier. Damit kommt Gutierrez ein vertrautes Marken- und Unternehmensumfeld. Bei der Tempus Arte Gruppe hinge...",
+      "peek_preview": "Alexander Gutierrez Diaz verlässt nach 6 Jahren die Tempus Arte Gruppe und wechselt zur Damiani Group und Baume & Mercier. Damit kommt Gutierrez ein vertrautes Marken- und Unternehmensumfeld. Bei der Tempus Arte Gruppe...",
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "featured": false,
@@ -620,8 +634,8 @@
       "published_at": "2026-09-22T04:03:12.000Z",
       "score_quality": 80,
       "score_notif": 64,
-      "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster": "20260922-d8c1333cfb2e",
+      "cluster_main": true
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
@@ -803,7 +817,7 @@
       "score_quality": 97,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – New Colours for the Louis Erard x Konstantin Chaykin Unfrogettable",
@@ -856,10 +870,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -1027,7 +1041,7 @@
       "score_quality": 80,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1486,10 +1500,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1840,20 +1854,6 @@
       "score_notif": 64,
       "cluster": "20260917-245bde469c01",
       "cluster_main": false
-    },
-    {
-      "title": "Ikepod Transcends The Circle With The Rectangular Minipod Watch",
-      "url": "https://www.ablogtowatch.com/ikepod-transcends-the-circle-with-the-rectangular-minipod-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Ikepod-Minipod-22-768x329.jpeg",
-      "peek_preview": "They say time is a flat circle… but does it have to be? For Ikepod, the brand’s design language was built upon the circle — from the original Seaslug to the iconic Hemipode, a lugless, circular form has been a hallmark...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T16:00:48.000Z",
-      "score_quality": 58,
-      "score_notif": 24,
-      "cluster": "20260917-83d072ad9254",
-      "cluster_main": true
     }
   ]
 }
