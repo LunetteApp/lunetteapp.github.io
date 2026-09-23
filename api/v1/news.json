@@ -1,6 +1,6 @@
 {
-  "content_hash": "6ad5ec222297daba466b3af4a7f02dc3841b03204a997a784f5b9b9351dfeb1c",
-  "last_updated": "2026-09-23T10:47:29.526Z",
+  "content_hash": "ae5ee3ce1928b8e5d2b4a8b08a4e4bd44658fdd7b0c9545119f8d292bf6d1da5",
+  "last_updated": "2026-09-23T11:47:01.007Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T08:01:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T11:00:42.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -36,7 +36,7 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
+      "estimated_articles_per_day": 0.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T16:00:41.000Z"
     },
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T08:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The new Nivada Grenchen F77 MKII 100 Years Brings Stone Dials and a More Powerful Movement",
+      "url": "https://monochrome-watches.com/the-new-nivada-grenchen-f77-mkii-100-years-brings-stone-dials-and-a-more-powerful-movement-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Nivada-Grenchen-F77-MKII-100-stone-dials-and-La-Joux-Perret-Movement-review-3-600x237.jpg",
+      "peek_preview": "Relaunched in 2020 under Guillaume Laidet’s creative direction (also behind the Vulcain and Space One brands), now-100-year-old Nivada Grenchen has focused on historical models, updating vintage references without losin...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-23T11:00:42.000Z",
+      "score_quality": 82,
+      "score_notif": 48,
+      "cluster": "20260923-4d6467896cab",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The New Ulysse Nardin Freak One Blue Enamel and Freak One Guilloché",
       "url": "https://monochrome-watches.com/2026-new-ulysse-nardin-freak-one-blue-enamel-and-freak-one-guilloche-review-price/",
@@ -912,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -957,7 +971,7 @@
       "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "H. Moser expands digital offerings with new Streamliner OFF-GRID",
@@ -1058,20 +1072,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The Lang & Heyne Friedrich III, Now with a Power Reserve Indication (Incl. Video)",
-      "url": "https://monochrome-watches.com/lang-heyne-friedrich-iii-power-reserve-review-video-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Lang-und-Heyne-Friedrich-III-Power-Reserve-video-review-1-600x237.jpg",
-      "peek_preview": "Lang & Heyne has practised the Saxon approach to independent watchmaking since 2001, working near Dresden and offering watches that combine classical German design with highly elaborate hand-finishing. The manufacture n...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T06:01:39.000Z",
-      "score_quality": 85,
-      "score_notif": 44,
-      "cluster": "20260921-31b5bb56b7cb",
-      "cluster_main": true
-    },
-    {
       "title": "Making light work: The 48-gram Venezianico Redentore Levius",
       "url": "https://timeandtidewatches.com/venezianico-redentore-levius-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Redentor-Levius-The-Weight-Of-Lightness-Header.jpg",
@@ -1083,7 +1083,7 @@
       "score_quality": 82,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1486,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T18:15:10.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -1528,10 +1528,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1542,10 +1542,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T15:58:58.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
