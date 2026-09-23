@@ -1,6 +1,6 @@
 {
-  "content_hash": "451420e47c0cebc3de624b39a1cc7879c9098f7942be81b49efe20ec6e513838",
-  "last_updated": "2026-09-23T16:47:43.991Z",
+  "content_hash": "3093768571a8aa52464947eb26976b30cf0589e22463c502d186e8edd6e4568d",
+  "last_updated": "2026-09-23T17:47:01.383Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T16:00:49.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T14:01:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T17:10:08.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T16:18:25.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T15:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – Frederique Constant x French Foreign Legion, Two Limited Editions to Celebrate the Elite Unit",
+      "url": "https://monochrome-watches.com/frederique-constant-x-french-foreign-legion-limited-editions-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Frederique-Constant-x-French-Foreign-Legion-Legion-Etrangere-review-1-600x237.jpg",
+      "peek_preview": "Founded in Geneva in 1988, Frederique Constant is now a globally respected name in watchmaking, offering classic designs at reasonable prices, with a growing portfolio of complications developed and assembled at its Pla...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-23T17:10:08.000Z",
+      "score_quality": 77,
+      "score_notif": 38,
+      "cluster": "20260923-060ea7d54266",
+      "cluster_main": true
+    },
     {
       "title": "Héron Introduces the Continental, a New Vintage Inspired “Go Anywhere, Do Anything” Watch",
       "url": "https://wornandwound.com/heron-introduces-the-continental-a-new-vintage-inspired-go-anywhere-do-anything-watch/",
@@ -691,7 +705,7 @@
       "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -772,10 +786,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:31:22.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
@@ -1002,20 +1016,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – New Colours for the Louis Erard x Konstantin Chaykin Unfrogettable",
-      "url": "https://monochrome-watches.com/2026-louis-erard-x-konstantin-chaykin-unfrogettable-turquoise-brown-editions-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Louis-Erard-x-Konstantin-Chaykin-Unfrogettable-turquoise-and-brown-editions-2026-review-2-600x237.jpg",
-      "peek_preview": "One of Manuel Emch’s defining moves to put Louis Erard back on solid footing was his collaboration strategy. By inviting avant-garde independent watchmakers such as Alain Silberstein and Vianney Halter to create collabo...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T13:01:03.000Z",
-      "score_quality": 82,
-      "score_notif": 55,
-      "cluster": "20260921-ce94d8669faf",
-      "cluster_main": true
-    },
-    {
       "title": "Review: the Christopher Ward Sealander – the Best Boring Watch Money Can Buy",
       "url": "https://wornandwound.com/review/review-the-christopher-ward-sealander-the-best-boring-watch-money-can-buy/",
       "image": "https://wornandwound.com/library/uploads/2026/09/CWARD_C63_SEALANDER_39A_1.jpg",
@@ -1069,7 +1069,7 @@
       "score_quality": 72,
       "score_notif": 55,
       "cluster": "20260921-ce94d8669faf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Latest: le novità di settembre",
@@ -1192,10 +1192,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T06:00:09.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1615,7 +1615,7 @@
       "score_quality": 87,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1825,6 +1825,34 @@
       "score_quality": 71,
       "score_notif": 14,
       "cluster": "20260918-e30d3928260e",
+      "cluster_main": true
+    },
+    {
+      "title": "Watches and Wonders adds 9 more brands to its roster for 2027, answering FounderFest FAQS",
+      "url": "https://timeandtidewatches.com/watches-and-wonders-adds-7-more-brands-to-its-roster-for-2027-including-berneron-friday-wind-down/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Berneron-Mirage-Miroir_wrist.jpg",
+      "peek_preview": "The watch world’s biggest moment just got even bigger. Earlier today, Watches and Wonders announced nine new brands joining its extensive roster of exhibitors: Akhor, Alain Silberstein, Berneron, Breva Genève, Fortis, K...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T07:01:05.000Z",
+      "score_quality": 74,
+      "score_notif": 52,
+      "cluster": "20260918-10e7333235cc",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands On: Daniel Roth Extra Plat Rose Gold Gilt",
+      "url": "https://watchesbysjx.com/2026/09/daniel-roth-extra-plat-rose-gold-gilt-review.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Daniel-Roth-Extra-Plat-Rose-Gold-Gilt-review-300x200.jpg",
+      "peek_preview": "Daniel Roth’s svelte time-only watch remains compact but gains presence with the Extra Plat Rose Gold Gilt. While it is just a cosmetic update, the black dial with “gilt” markings create a high contrast look that is unu...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-18T04:55:26.000Z",
+      "score_quality": 83,
+      "score_notif": 29,
+      "cluster": "20260918-a3fdda934053",
       "cluster_main": true
     }
   ]
