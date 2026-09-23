@@ -1,6 +1,6 @@
 {
-  "content_hash": "c4a14fb15ee0c2c2b5df5899694b8175b946bc70af0f6f41393fe61e1d558f55",
-  "last_updated": "2026-09-23T13:47:29.051Z",
+  "content_hash": "fc0cf8acdffc7f518cea6606294d9b48197b53947d472197eeace18e3f3f57f5",
+  "last_updated": "2026-09-23T14:47:11.332Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T13:00:14.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T11:00:42.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T14:01:01.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -57,8 +57,8 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T13:30:00.000Z"
     },
     {
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-23T13:00:00.000Z"
+      "latest_article_at": "2026-09-23T14:17:09.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T13:12:10.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Grönefeld Brings Back Its Four Greatest Hits With The New 1941 Quadrivium",
+      "url": "https://www.hodinkee.com/articles/gronefeld-brings-back-its-four-greatest-hits-with-the-new-1941-quadrivium",
+      "image": "https://hodinkee.imgix.net/uploads/images/518556b3-9873-4663-8ef3-08a578b2d5e7/Gronefeld-Quadrivium-2026-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The discontinued One Hertz, Parallax Tourbillon, and Remontoire get new life, all in one very complicated watch.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-23T14:17:09.000Z",
+      "score_quality": 85,
+      "score_notif": 57,
+      "cluster": "20260923-63c25b8b5574",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
+      "url": "https://monochrome-watches.com/gronefeld-1941-quadrivium-remontoire-tourbillon-watch-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Gronefeld-1941-Quadrivium-Remontoire-Tourbillon-1-600x237.jpg",
+      "peek_preview": "Grönefeld, the Dutch independent watchmaking atelier created by Tim and Bart Grönefled, a.k.a. The Horological Brothers, should need little introduction by now. The duo gained recognition from their peers and collectors...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-23T14:01:01.000Z",
+      "score_quality": 88,
+      "score_notif": 57,
+      "cluster": "20260923-63c25b8b5574",
+      "cluster_main": true
+    },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
       "url": "https://deployant.com/new-release-the-grand-seiko-elegance-sbgw325/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-the-grand-seiko-elegance-sbgw325",
@@ -240,10 +268,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T12:00:19.000Z",
-      "score_quality": 57,
+      "score_quality": 67,
       "score_notif": 27,
       "cluster": "20260923-71ebf4df6440",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The new Nivada Grenchen F77 MKII 100 Years Brings Stone Dials and a More Powerful Movement",
@@ -355,7 +383,7 @@
       "score_quality": 66,
       "score_notif": 27,
       "cluster": "20260923-71ebf4df6440",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "H. Moser & Cie.’s Off-Grid Bares All",
@@ -646,10 +674,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-22T12:17:01.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The MeisterSinger NL Edition Tulip 2026",
@@ -719,7 +747,7 @@
       "score_quality": 96,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
@@ -730,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:30:17.000Z",
-      "score_quality": 93,
+      "score_quality": 97,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
@@ -1072,20 +1100,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – The Second Chapter of the GoS x Martin Key Collaboration",
-      "url": "https://monochrome-watches.com/introducing-gos-patrik-sjogren-martin-key-collaboration-2026-edition-triskele-micro-rotor-automatic-specs-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/GoS-x-Martin-Key-2026-Edition-Featured-600x237.jpg",
-      "peek_preview": "Back in 2024, Swedish independent watchmaker GoS ventured far outside of the world of watch- and knifemaking it is known for, for a unique collaboration. Finding inspiration in the bespoke leather jackets, ready-to-wear...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T11:00:15.000Z",
-      "score_quality": 68,
-      "score_notif": 40,
-      "cluster": "20260921-80c047194574",
-      "cluster_main": true
-    },
-    {
       "title": "The Citizen célèbre les 50 ans de l’Eco-Drive avec une édition d’exception",
       "url": "https://www.welovewatches.fr/the-citizen-celebre-les-50-ans-de-leco-drive-avec-une-edition-dexception.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-the-citizen-50eme-anniversaire-aq4091-56w.jpg",
@@ -1153,7 +1167,7 @@
       "score_quality": 84,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1584,10 +1598,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1828,20 +1842,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: The Apple Watch Series 12 And Ultra 4",
-      "url": "https://www.hodinkee.com/articles/the-apple-watch-series-12-and-ultra-4",
-      "image": "https://hodinkee.imgix.net/uploads/images/9e783c29-b987-4f9f-93c4-2eb1873e108f/tan2h-apple-watch-series12-02839-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Spending some time with this year's newest releases, and a look into what's coming up for Apple Watch.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T19:51:00.000Z",
-      "score_quality": 88,
-      "score_notif": 78,
-      "cluster": "20260917-0564b1dabf67",
-      "cluster_main": true
-    },
-    {
       "title": "In Conversation with Jeff Koons on His New Collaboration with Hublot",
       "url": "https://wornandwound.com/in-conversation-with-jeff-koons-on-his-new-collaboration-with-hublot/",
       "image": "https://wornandwound.com/library/uploads/2026/09/2026_09_Hublot-Jeff-Koons_005_WR.jpg",
@@ -1853,7 +1853,7 @@
       "score_quality": 88,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
