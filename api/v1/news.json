@@ -1,6 +1,6 @@
 {
-  "content_hash": "09e71e3be7599a9336455c0a3d0be061c01a0bdbed6e69e4dbc5ec4c7b179e1f",
-  "last_updated": "2026-09-23T20:47:19.794Z",
+  "content_hash": "d7dc4df97ed6ba688836940621745b0a21dc18ff60aca33e9c14e9814934e3ff",
+  "last_updated": "2026-09-23T21:46:42.910Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T20:00:23.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T20:47:36.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Introducing: Grönefeld 1941 Quadrivium—Four Signature Complications, One Brand-New Calibre",
+      "url": "https://www.watchcollectinglifestyle.com/home/gronefeld-1941-quadrivium-new-watch",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790195893148-R5JTTQ09AI5UOVC9PU1C/Gro%CC%88nefeld+1941+Quadrivium.jpg?format=1500w",
+      "peek_preview": "For nearly two decades, Bart and Tim Grönefeld have built their reputation on mechanisms that other independents admire but rarely attempt. The 1941 Quadrivium is the Oldenzaal brothers' greatest-hits record—except ever...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-23T20:47:36.000Z",
+      "score_quality": 76,
+      "score_notif": 57,
+      "cluster": "20260923-63c25b8b5574",
+      "cluster_main": false
+    },
+    {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
       "url": "https://wornandwound.com/six-of-the-most-obscure-watch-and-car-tie-ins-youve-likely-never-heard-of/",
       "image": "https://wornandwound.com/library/uploads/2026/09/AS-Audi-Sport.jpg",
@@ -240,10 +254,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:17:09.000Z",
-      "score_quality": 85,
+      "score_quality": 89,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
@@ -257,7 +271,7 @@
       "score_quality": 88,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T13:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -800,10 +814,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:31:22.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
@@ -1206,10 +1220,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T06:00:09.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1629,7 +1643,7 @@
       "score_quality": 89,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1839,20 +1853,6 @@
       "score_quality": 71,
       "score_notif": 14,
       "cluster": "20260918-e30d3928260e",
-      "cluster_main": true
-    },
-    {
-      "title": "Watches and Wonders adds 9 more brands to its roster for 2027, answering FounderFest FAQS",
-      "url": "https://timeandtidewatches.com/watches-and-wonders-adds-7-more-brands-to-its-roster-for-2027-including-berneron-friday-wind-down/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Berneron-Mirage-Miroir_wrist.jpg",
-      "peek_preview": "The watch world’s biggest moment just got even bigger. Earlier today, Watches and Wonders announced nine new brands joining its extensive roster of exhibitors: Akhor, Alain Silberstein, Berneron, Breva Genève, Fortis, K...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T07:01:05.000Z",
-      "score_quality": 74,
-      "score_notif": 52,
-      "cluster": "20260918-10e7333235cc",
       "cluster_main": true
     }
   ]
