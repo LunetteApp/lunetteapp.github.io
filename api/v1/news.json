@@ -1,6 +1,6 @@
 {
-  "content_hash": "428a81dbfbc68a06f0ba947878168550b699691c7c688e4558acc3f8067747af",
-  "last_updated": "2026-09-23T03:47:02.104Z",
+  "content_hash": "e035d30241b9e5ef28940f6f0b77cb8970a8c5fb08cac8c24f52e88434701f6a",
+  "last_updated": "2026-09-23T04:47:18.365Z",
   "premium": {
     "links": []
   },
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T01:00:41.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T04:00:29.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T03:00:15.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "H. Moser & Cie.’s Off-Grid Bares All",
+      "url": "https://watchesbysjx.com/2026/09/h-moser-cie-off-grid.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/H-Moser-Off-Grid-blue-centred-3x2-header-300x200.jpg",
+      "peek_preview": "Following last year’s Streamliner Alpine Mechanics Edition made for the Alpine F1 team, H. Moser & Cie has just released its second smartwatch, this time with a unique take on the genre. The Off-Grid offers a streamline...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-23T04:00:29.000Z",
+      "score_quality": 72,
+      "score_notif": 64,
+      "cluster": "20260921-6b93cee34e8f",
+      "cluster_main": false
+    },
     {
       "title": "オリエントスターがブランド誕生75周年の集大成となる新たなフラッグシップモデル「オリエントスタースケルトン」を発表",
       "url": "https://www.webchronos.net/news/173405/",
@@ -744,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – New Colours for the Louis Erard x Konstantin Chaykin Unfrogettable",
@@ -803,7 +817,7 @@
       "score_quality": 94,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -971,7 +985,7 @@
       "score_quality": 78,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1444,10 +1458,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 77,
+      "score_quality": 79,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1840,20 +1854,6 @@
       "score_notif": 44,
       "cluster": "20260917-c8554508799e",
       "cluster_main": false
-    },
-    {
-      "title": "Nivada Grenchen rocks the F77 with seven stone dials for its 100th birthday",
-      "url": "https://timeandtidewatches.com/nivada-grenchen-f77-100-years-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-nivada-grenchen-f77-100-years.jpg",
-      "peek_preview": "Nivada Grenchen celebrates 100 years with the F77 MKII 100 Years Collection, featuring seven stone dials and a new La Joux-Perret movement. The post Nivada Grenchen rocks the F77 with seven stone dials for its 100th bir...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T14:00:26.000Z",
-      "score_quality": 67,
-      "score_notif": 43,
-      "cluster": "20260917-29c0fb84b806",
-      "cluster_main": true
     }
   ]
 }
