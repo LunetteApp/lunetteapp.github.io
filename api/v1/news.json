@@ -1,6 +1,6 @@
 {
-  "content_hash": "9781d529a46851d084e41c73a47db0a7d19e643fded7a1ae9c6acec81b858046",
-  "last_updated": "2026-09-22T20:47:37.033Z",
+  "content_hash": "9374a648468f5fe3b7b4a67988100c756ff0acbe4beaec2e4e3b38e4f1e0f1b0",
+  "last_updated": "2026-09-23T00:46:45.873Z",
   "premium": {
     "links": []
   },
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-22T19:58:23.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T03:00:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T00:00:00.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "IWCがF1シンガポールグランプリ開催を記念する「パイロット・ウォッチ・クロノグラフ 41 “Mercedes-AMG PETRONAS Formula One Team”」を発表",
+      "url": "https://www.webchronos.net/news/173315/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/main-2.webp",
+      "peek_preview": "IWCは、メルセデスAMG・ペトロナスF1チームのチームウォッチ第4弾となる「パイロット・ウォッチ・クロノグラフ 41 “Mercedes-AMG PETRONAS Formula One Team”」を発表した。本作は […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-23T00:00:00.000Z",
+      "score_quality": 68,
+      "score_notif": 51,
+      "cluster": "20260923-5bfd66f6bc1b",
+      "cluster_main": true
+    },
     {
       "title": "Franck Muller Uhren heute: Wie das Watchland in Genthod wirklich tickt",
       "url": "https://www.uhrenkosmos.com/franck-muller-besuch-in-der-uhrenmanufaktur/",
@@ -394,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T13:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 90,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -408,10 +422,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-22T12:17:01.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The MeisterSinger NL Edition Tulip 2026",
@@ -495,7 +509,7 @@
       "score_quality": 89,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
@@ -677,7 +691,7 @@
       "score_quality": 93,
       "score_notif": 48,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jack Mason Introduces The Canton Day-Date With Milled Guilloché Dials And American Assembly",
@@ -1024,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-20T11:00:16.000Z",
-      "score_quality": 89,
+      "score_quality": 94,
       "score_notif": 48,
       "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Goldlegierungen von Golduhren: Das Geheimnis von Everose, Sedna, Magic Gold & Co.",
@@ -1363,7 +1377,7 @@
       "score_quality": 97,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Divers Date: The Modern Evolution of a Retro Dive Watch",
@@ -1416,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-18T15:58:58.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 64,
       "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
@@ -1674,20 +1688,6 @@
       "cluster_main": true
     },
     {
-      "title": "ウブロがベルベットのような質感を持つ「ビッグ・バン オリジナル ソフトタッチ」2モデルを発表",
-      "url": "https://www.webchronos.net/news/173149/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/HB_bb_1.webp",
-      "peek_preview": "ウブロは、「ビッグ・バン オリジナル」に独自のテクスチャードラバーコンパウンドを組み合わせ、ベルベット調の柔らかな触感を実現した「ビッグ・バン オリジナル ソフトタッチ」を発表した。用意されるのは、オールブラックモデルと […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-18T00:00:09.000Z",
-      "score_quality": 67,
-      "score_notif": 44,
-      "cluster": "20260918-4f18b9724624",
-      "cluster_main": true
-    },
-    {
       "title": "Hands-On: The Apple Watch Series 12 And Ultra 4",
       "url": "https://www.hodinkee.com/articles/the-apple-watch-series-12-and-ultra-4",
       "image": "https://hodinkee.imgix.net/uploads/images/9e783c29-b987-4f9f-93c4-2eb1873e108f/tan2h-apple-watch-series12-02839-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1713,7 +1713,7 @@
       "score_quality": 82,
       "score_notif": 55,
       "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Answers The Call Of Duty With Khaki Field Modern Warfare 4 Edition",
