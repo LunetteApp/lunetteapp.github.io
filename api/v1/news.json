@@ -1,6 +1,6 @@
 {
-  "content_hash": "07b85a8e2897c13789e90f136bc884a9da4403a0daa4476a7c6194246303d0de",
-  "last_updated": "2026-09-23T15:47:13.022Z",
+  "content_hash": "451420e47c0cebc3de624b39a1cc7879c9098f7942be81b49efe20ec6e513838",
+  "last_updated": "2026-09-23T16:47:43.991Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T19:00:22.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T16:00:49.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T13:00:05.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-09-23T16:18:25.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-23T15:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Héron Introduces the Continental, a New Vintage Inspired “Go Anywhere, Do Anything” Watch",
+      "url": "https://wornandwound.com/heron-introduces-the-continental-a-new-vintage-inspired-go-anywhere-do-anything-watch/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Heron-Continental-15.jpg",
+      "peek_preview": "Héron, the Montreal-based microbrand that had a legitimate hit on its hands with the release of the Mirabel GMT last year, is back with their take on the classic “go anywhere, do anything” sports watch, met with the bra...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-23T16:00:49.000Z",
+      "score_quality": 73,
+      "score_notif": 45,
+      "cluster": "20260923-71ebf4df6440",
+      "cluster_main": true
+    },
+    {
+      "title": "DEEP-X: un super diver italiano per festeggiare i 10 anni di WATCH INSANITY",
+      "url": "https://italianwatchspotter.com/deep-x-watch-insanity/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-101-1024x682.png",
+      "peek_preview": "Indubbiamente è stato scelto un modo piuttosto diretto di guardarsi indietro: costruire un orologio. Già, per celebrare il suo decimo anniversario, il magazine Watch Insanity ha scelto di creare un segnatempo in tiratur...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-23T15:00:00.000Z",
+      "score_quality": 46,
+      "score_notif": 28,
+      "cluster": "20260923-a70ff6b6f8b5",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Grönefeld Brings Back Its Four Greatest Hits With The New 1941 Quadrivium",
       "url": "https://www.hodinkee.com/articles/gronefeld-brings-back-its-four-greatest-hits-with-the-new-1941-quadrivium",
@@ -269,7 +297,7 @@
       "featured": false,
       "published_at": "2026-09-23T12:00:19.000Z",
       "score_quality": 67,
-      "score_notif": 27,
+      "score_notif": 45,
       "cluster": "20260923-71ebf4df6440",
       "cluster_main": false
     },
@@ -381,9 +409,9 @@
       "featured": false,
       "published_at": "2026-09-23T05:00:36.000Z",
       "score_quality": 68,
-      "score_notif": 27,
+      "score_notif": 45,
       "cluster": "20260923-71ebf4df6440",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "H. Moser & Cie.’s Off-Grid Bares All",
@@ -660,10 +688,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T13:00:00.000Z",
-      "score_quality": 95,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -676,7 +704,7 @@
       "published_at": "2026-09-22T12:17:01.000Z",
       "score_quality": 89,
       "score_notif": 55,
-      "cluster": "20260917-eb88bb496ee3",
+      "cluster": "20260922-e42b5e0e8f67",
       "cluster_main": true
     },
     {
@@ -747,7 +775,7 @@
       "score_quality": 98,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
@@ -968,10 +996,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – New Colours for the Louis Erard x Konstantin Chaykin Unfrogettable",
@@ -1024,10 +1052,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -1167,7 +1195,7 @@
       "score_quality": 86,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1584,10 +1612,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1798,62 +1826,6 @@
       "score_notif": 14,
       "cluster": "20260918-e30d3928260e",
       "cluster_main": true
-    },
-    {
-      "title": "Watches and Wonders adds 9 more brands to its roster for 2027, answering FounderFest FAQS",
-      "url": "https://timeandtidewatches.com/watches-and-wonders-adds-7-more-brands-to-its-roster-for-2027-including-berneron-friday-wind-down/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Berneron-Mirage-Miroir_wrist.jpg",
-      "peek_preview": "The watch world’s biggest moment just got even bigger. Earlier today, Watches and Wonders announced nine new brands joining its extensive roster of exhibitors: Akhor, Alain Silberstein, Berneron, Breva Genève, Fortis, K...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T07:01:05.000Z",
-      "score_quality": 68,
-      "score_notif": 64,
-      "cluster": "20260918-10e7333235cc",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Daniel Roth Extra Plat Rose Gold Gilt",
-      "url": "https://watchesbysjx.com/2026/09/daniel-roth-extra-plat-rose-gold-gilt-review.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Daniel-Roth-Extra-Plat-Rose-Gold-Gilt-review-300x200.jpg",
-      "peek_preview": "Daniel Roth’s svelte time-only watch remains compact but gains presence with the Extra Plat Rose Gold Gilt. While it is just a cosmetic update, the black dial with “gilt” markings create a high contrast look that is unu...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T04:55:26.000Z",
-      "score_quality": 83,
-      "score_notif": 28,
-      "cluster": "20260918-a3fdda934053",
-      "cluster_main": true
-    },
-    {
-      "title": "In Conversation with Jeff Koons on His New Collaboration with Hublot",
-      "url": "https://wornandwound.com/in-conversation-with-jeff-koons-on-his-new-collaboration-with-hublot/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/2026_09_Hublot-Jeff-Koons_005_WR.jpg",
-      "peek_preview": "Watch collaborations have saturated the market in recent years, but when I heard Jeff Koons was getting involved in designing a model, my ears perked up. His Celebration series featuring his Balloon Dog sculptures makes...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T19:00:06.000Z",
-      "score_quality": 88,
-      "score_notif": 55,
-      "cluster": "20260917-eb88bb496ee3",
-      "cluster_main": false
-    },
-    {
-      "title": "Hamilton Answers The Call Of Duty With Khaki Field Modern Warfare 4 Edition",
-      "url": "https://teddybaldassarre.com/blogs/watches/hamilton-khaki-field-call-of-duty",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Hamilton-Khaki-Modern-Warfare-flat-2.jpg?v=1789668852",
-      "peek_preview": "Hamilton Watch Company, founded in Lancaster in 1892, has been known as a maker of field-ready military watches since the early 20th Century, and the brand is renowned in the modern era as a supplier of watches to movie...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-17T18:52:24.000Z",
-      "score_quality": 65,
-      "score_notif": 48,
-      "cluster": "20260917-8a9dbff8d0c9",
-      "cluster_main": false
     }
   ]
 }
