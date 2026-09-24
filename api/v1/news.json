@@ -1,6 +1,6 @@
 {
-  "content_hash": "e0a593f2cdcf29deb469231b35ad7fe88fc91fc71914b79577e8f36a154b4c3b",
-  "last_updated": "2026-09-24T10:46:50.169Z",
+  "content_hash": "733fa8392bc95f24e36feec55ce0003312a86ac67b8f3d6257d0fd840c75559b",
+  "last_updated": "2026-09-24T11:47:27.456Z",
   "premium": {
     "links": []
   },
@@ -9,21 +9,21 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T09:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T11:00:05.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T20:00:23.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.5,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 4.4,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T10:01:46.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T10:00:06.000Z"
     },
     {
@@ -64,8 +64,8 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 3,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.9,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T10:00:00.000Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
-      "estimated_articles_per_day": 0.2,
+      "estimated_articles_per_day": 0.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-14T11:42:17.000Z"
     },
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T10:26:11.000Z"
     },
     {
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T10:14:06.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "A Personal Trip Down Memory Lane With The New Glashütte Original 70s Series",
+      "url": "https://www.fratellowatches.com/new-glashutte-original-70s-series/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Glashutte_Original_70s_1-36-10-04-02-86_70s_StS_DIAL_Vinyl_Record_RS_black_Mood.jpg",
+      "peek_preview": "Immediately after I saw the images of the new Glashütte Original 70s series, I was intrigued. With the square case shape and textured dials, these new watches instantly reminded me of a classic Citizen watch my father w...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-24T11:00:05.000Z",
+      "score_quality": 47,
+      "score_notif": 39,
+      "cluster": "20260924-fc6e80b2267f",
+      "cluster_main": true
+    },
     {
       "title": "Grönefeld 1941 Quadrivium: quattro complicazioni un solo orologio",
       "url": "https://www.watchinsanity.it/gronefeld-1941-quadrivium/",
@@ -366,10 +380,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T07:01:51.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Traser P65 Tactical Mission Titanium Upgrades The Brand’s Original Watch",
@@ -425,7 +439,7 @@
       "score_quality": 85,
       "score_notif": 64,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -537,7 +551,7 @@
       "score_quality": 93,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -604,10 +618,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:17:09.000Z",
-      "score_quality": 91,
+      "score_quality": 94,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
@@ -660,10 +674,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T13:00:14.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Staff Picks: The Watches We Wore This Summer",
@@ -705,7 +719,7 @@
       "score_quality": 84,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The New Ulysse Nardin Freak One Blue Enamel and Freak One Guilloché",
@@ -1083,7 +1097,7 @@
       "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -1156,20 +1170,6 @@
       "cluster_main": true
     },
     {
-      "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
-      "url": "https://www.fratellowatches.com/42mm-panerai-luminor-pam01710-pam01711-and-pam01714/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Panerai-PAM01710-PAM01711-PAM01714.jpg",
-      "peek_preview": "Ask watch fans about typical Panerai characteristics, and one of the first things they’ll mention is size. The watches’ large cases have become synonymous with the brand, along with Panerai’s iconic design style, sandwi...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T06:30:17.000Z",
-      "score_quality": 100,
-      "score_notif": 54,
-      "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
-    },
-    {
       "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
       "url": "https://www.welovewatches.fr/christopher-ward-c63-sealander-chronograph-5-chronos-mecaniques-apres-6-ans-dabsence.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/christopher_ward_c63-41-une.jpg",
@@ -1194,8 +1194,8 @@
       "published_at": "2026-09-22T04:03:12.000Z",
       "score_quality": 80,
       "score_notif": 64,
-      "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": true
+      "cluster": "20260918-8db94df72433",
+      "cluster_main": false
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
@@ -1346,10 +1346,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: the Christopher Ward Sealander – the Best Boring Watch Money Can Buy",
@@ -1388,10 +1388,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -1503,7 +1503,7 @@
       "score_quality": 96,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "カシオがクラシカルな角型ケースを採用した「LTP-B150」の新作3型を発表",
@@ -1822,10 +1822,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
