@@ -1,6 +1,6 @@
 {
-  "content_hash": "31594ad0301fcf890671ff3ad51ac63402c59e26ba991f68a3c177141e322868",
-  "last_updated": "2026-09-24T05:46:51.282Z",
+  "content_hash": "73a27793a1057cd4a87e89f819c0f7f415091ac766cc6a9d94d21a059d9a1f16",
+  "last_updated": "2026-09-24T06:47:20.781Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T05:00:42.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T07:01:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T06:00:51.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T05:30:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
+      "url": "https://www.ablogtowatch.com/new-release-formex-airfield-turns-transforms-a-titanium-field-watch-into-a-pilots-model/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Formex-AirField-Automatic-40mm-Titanium-Pilots-Watch-768x346.jpg",
+      "peek_preview": "Pilot’s watches and field watches are among the oldest types of purpose-built timepieces, and the differences that separate these two popular genres of tool watches are largely related to the style of their dials and ha...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-24T06:00:51.000Z",
+      "score_quality": 55,
+      "score_notif": 38,
+      "cluster": "20260924-174749a3d4b2",
+      "cluster_main": true
+    },
     {
       "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
       "url": "https://www.welovewatches.fr/grand-seiko-sbgw325-les-chiffres-arabes-font-leur-retour-25-ans-plus-tard.html",
@@ -310,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T16:00:49.000Z",
-      "score_quality": 73,
+      "score_quality": 75,
       "score_notif": 45,
       "cluster": "20260923-71ebf4df6440",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "DEEP-X: un super diver italiano per festeggiare i 10 anni di WATCH INSANITY",
@@ -537,7 +551,7 @@
       "score_quality": 74,
       "score_notif": 45,
       "cluster": "20260923-71ebf4df6440",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "H. Moser & Cie.’s Off-Grid Bares All",
@@ -814,10 +828,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T13:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -898,10 +912,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:31:22.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Exploring New Territory With The 42mm Panerai Luminor PAM01710, PAM01711, And PAM01714",
@@ -1010,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T21:55:27.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 47,
       "cluster": "20260920-9896b7911448",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Moser Dips Its Toe Back in the Digital Realm with the New Limited Edition Streamliner Off-Grid",
@@ -1461,7 +1475,7 @@
       "score_quality": 75,
       "score_notif": 47,
       "cluster": "20260920-9896b7911448",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ジェラルド・チャールズが複雑なテクスチャーを表現した「マスターリンク アトリエエディション」を発表",
@@ -1840,20 +1854,6 @@
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
       "cluster_main": false
-    },
-    {
-      "title": "New: Czapek Promenade L’Écume des Jours",
-      "url": "https://deployant.com/new-czapek-promenade-lecume-des-jours/?utm_source=rss&utm_medium=rss&utm_campaign=new-czapek-promenade-lecume-des-jours",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/CZAPEK-ECUME-DES-JOURS-COMPOSITE-BBGROUND-deployant.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Czapek releases a new extension to their Promenade collection with the new L’Écume des Jours. The novelty sports a fascinating layered dial layered in blue en...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T09:00:00.000Z",
-      "score_quality": 74,
-      "score_notif": 48,
-      "cluster": "20260918-b40e71a1d543",
-      "cluster_main": true
     }
   ]
 }
