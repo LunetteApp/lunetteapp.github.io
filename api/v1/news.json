@@ -1,6 +1,6 @@
 {
-  "content_hash": "733fa8392bc95f24e36feec55ce0003312a86ac67b8f3d6257d0fd840c75559b",
-  "last_updated": "2026-09-24T11:47:27.456Z",
+  "content_hash": "333430bd032be90842e689124a1087ebeccbe0ac59f903cc77d09a2eda36a6d7",
+  "last_updated": "2026-09-24T12:48:06.216Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T11:00:05.000Z"
     },
     {
@@ -50,16 +50,16 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-21T16:39:42.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T12:02:39.000Z"
     },
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T13:30:00.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T12:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-24T10:01:49.000Z"
+      "latest_article_at": "2026-09-24T12:00:30.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -120,7 +120,7 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.9,
+      "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T15:00:00.000Z"
     },
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
+      "url": "https://www.atimelyperspective.com/mbf-and-caran-dache-go-ape-with-the-new-gorillasharpener-price/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/MBandF_GorillaSharpener_Lifestyle_2_Lres-819x1024.jpg",
+      "peek_preview": "Some collaborations make perfect sense. Others make absolutely no sense — until you see them. The new Caran d’Ache x MB&F GorillaSharpener falls decidedly into the latter camp, and that may be precisely why it is so muc...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-24T12:02:39.000Z",
+      "score_quality": 64,
+      "score_notif": 43,
+      "cluster": "20260924-2745648d3a3b",
+      "cluster_main": false
+    },
+    {
+      "title": "MB&F goes bananas with the Caran d’Ache GorillaSharpener",
+      "url": "https://timeandtidewatches.com/mb-f-gorillasharpener-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-mbf-caran-d-ache-gorilla-sharpener.jpg",
+      "peek_preview": "MB&F and Caran d’Ache go ape with the GorillaSharpener, a CHF 850 mechanical gorilla that turns sharpening a pencil into an art form. The post MB&F goes bananas with the Caran d’Ache GorillaSharpener appeared first on T...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-24T12:00:30.000Z",
+      "score_quality": 60,
+      "score_notif": 43,
+      "cluster": "20260924-2745648d3a3b",
+      "cluster_main": false
+    },
+    {
+      "title": "New Release: Caran d’Ache x MB&F GorillaSharpener",
+      "url": "https://deployant.com/new-release-caran-dache-x-mbf-gorillasharpener/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-caran-dache-x-mbf-gorillasharpener",
+      "image": null,
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors In another show of extraordinary creativity, MB&F celebrates World Gorilla Day with a superbly weird and wonderful pencil sharpener. Dubbed GorillaSharpener,...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-24T12:00:00.000Z",
+      "score_quality": 74,
+      "score_notif": 43,
+      "cluster": "20260924-2745648d3a3b",
+      "cluster_main": true
+    },
     {
       "title": "A Personal Trip Down Memory Lane With The New Glashütte Original 70s Series",
       "url": "https://www.fratellowatches.com/new-glashutte-original-70s-series/",
@@ -240,10 +282,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:01:46.000Z",
-      "score_quality": 84,
+      "score_quality": 88,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -271,7 +313,7 @@
       "score_quality": 87,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -296,10 +338,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T08:01:26.000Z",
-      "score_quality": 83,
+      "score_quality": 85,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -341,7 +383,7 @@
       "score_quality": 84,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -383,7 +425,7 @@
       "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Traser P65 Tactical Mission Titanium Upgrades The Brand’s Original Watch",
@@ -436,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T07:00:00.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 64,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -548,10 +590,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T20:47:36.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -621,7 +663,7 @@
       "score_quality": 94,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
@@ -677,7 +719,7 @@
       "score_quality": 85,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Staff Picks: The Watches We Wore This Summer",
@@ -716,10 +758,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T11:00:42.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The New Ulysse Nardin Freak One Blue Enamel and Freak One Guilloché",
@@ -1080,10 +1122,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T13:00:05.000Z",
-      "score_quality": 74,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Panerai Honors The Pre-Vendome Luminor With A Smaller 42mm Offering",
@@ -1097,7 +1139,7 @@
       "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -1194,8 +1236,8 @@
       "published_at": "2026-09-22T04:03:12.000Z",
       "score_quality": 80,
       "score_notif": 64,
-      "cluster": "20260918-8db94df72433",
-      "cluster_main": false
+      "cluster": "20260922-d8c1333cfb2e",
+      "cluster_main": true
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
@@ -1502,8 +1544,8 @@
       "published_at": "2026-09-21T06:00:09.000Z",
       "score_quality": 96,
       "score_notif": 22,
-      "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster": "20260921-5413dbf2aa48",
+      "cluster_main": true
     },
     {
       "title": "カシオがクラシカルな角型ケースを採用した「LTP-B150」の新作3型を発表",
@@ -1811,48 +1853,6 @@
       "score_quality": 82,
       "score_notif": 28,
       "cluster": "20260918-6c7519e72222",
-      "cluster_main": true
-    },
-    {
-      "title": "Venezianico Redentore Levius: titanio, guilloché e meccanica Made in Italy",
-      "url": "https://www.watchinsanity.it/venezianico-redentore-levius/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Venezianico_Redentore_Levius_Watch_Insanity_06-1024x682.jpg",
-      "peek_preview": "Il nuovo Venezianico Redentore Levius unisce una cassa da 38 mm in titanio grado 5, un quadrante blu guilloché inciso a mano a Milano da Linda Renzetti e il calibro proprietario V5000 Made in Italy. The post Venezianico...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 97,
-      "score_notif": 22,
-      "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
-    },
-    {
-      "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
-      "url": "https://www.watchcollectinglifestyle.com/home/cartier-cheich-white-gold-record-3-million-sothebys-hong-kong",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1789746280461-FUIDJ6UI131IOLKMAWPU/Cartier+Cheich+White+Gold+Closeup.jpg?format=1500w",
-      "peek_preview": "The only Cartier Cheich ever finished in white gold sold for HKD 26,500,000—approx. USD 3.4 million—at Sotheby's Hong Kong Important Watches sale today, September 18, 2026, against a pre-sale estimate of HKD 8,000,000–4...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T15:58:58.000Z",
-      "score_quality": 99,
-      "score_notif": 64,
-      "cluster": "20260918-8db94df72433",
-      "cluster_main": true
-    },
-    {
-      "title": "Citizen Tsuyosa 60 37 mm : l’icône se réinvente dans un format plus compact",
-      "url": "https://www.welovewatches.fr/citizen-tsuyosa-60-37-mm-licone-se-reinvente-dans-un-format-plus-compact.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-citizen-tsuyosa-60-37mm.jpg",
-      "peek_preview": "La Citizen Tsuyosa, c'est déjà une belle histoire... Lancée il y a seulement quelques années, cette ligne de montres au bracelet intégré et aux cadrans colorés s'est imposée en un temps record comme une référence...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-18T15:57:16.000Z",
-      "score_quality": 61,
-      "score_notif": 42,
-      "cluster": "20260918-1f5962d261f7",
       "cluster_main": true
     }
   ]
