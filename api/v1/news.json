@@ -1,6 +1,6 @@
 {
-  "content_hash": "d7dc4df97ed6ba688836940621745b0a21dc18ff60aca33e9c14e9814934e3ff",
-  "last_updated": "2026-09-23T21:46:42.910Z",
+  "content_hash": "a98d798099d797f964ab0dc5509eda7b21e679dbc6568677808217243daec4a8",
+  "last_updated": "2026-09-24T00:47:05.793Z",
   "premium": {
     "links": []
   },
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T20:47:36.000Z"
     },
     {
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T17:25:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T00:21:36.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T03:00:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T00:00:22.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Grönefeld 1941 Quadrivium: Bart e Tim hanno messo tutto in un solo orologio",
+      "url": "https://www.orologidiclasse.com/gronefeld-1941-quadrivium/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/gronefeld-1941-quadrivium.jpg",
+      "peek_preview": "Ci sono orologi che ti chiedono di fermarti un momento prima ancora di provare a capirli. Quando Bart e Tim Grönefeld presentano una nuova creazione, per me quel momento arriva sempre. Con il 1941 Quadrivium, però, vale...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-24T00:21:36.000Z",
+      "score_quality": 64,
+      "score_notif": 57,
+      "cluster": "20260923-63c25b8b5574",
+      "cluster_main": false
+    },
+    {
+      "title": "カシオ「オシアナス」より、「栃木レザー」のストラップを合わせたクラシカルな限定モデルが発表",
+      "url": "https://www.webchronos.net/news/173022/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/OCA_tochigi_1.webp",
+      "peek_preview": "カシオが、アナログ電波ソーラーウォッチ「OCEANUS（オシアナス）」から、クラシックスタイルをテーマとした新作限定モデルを発売した。3針モデルとクロノグラフモデルの2種展開で、いずれもハーフマット調のグラデーションダイ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-24T00:00:22.000Z",
+      "score_quality": 68,
+      "score_notif": 33,
+      "cluster": "20260924-5df6f4f45f30",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Grönefeld 1941 Quadrivium—Four Signature Complications, One Brand-New Calibre",
       "url": "https://www.watchcollectinglifestyle.com/home/gronefeld-1941-quadrivium-new-watch",
@@ -1223,7 +1251,7 @@
       "score_quality": 90,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1548,20 +1576,6 @@
       "cluster_main": true
     },
     {
-      "title": "ジンが危機対応にあたる指揮官のためのミッションタイマー「EZM 19」を発表",
-      "url": "https://www.webchronos.net/news/173246/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/SINN_EZM19_1.webp",
-      "peek_preview": "ジンは、ドイツ・ハッティンゲンの消防署長兼上級消防局長、トーマス・シュタンケと共同開発した「EZM 19」を発表した。本作は、大規模な事故や災害といった危機対応を担う指揮官や指揮本部のスタッフによる、円滑な任務遂行のサポ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-19T00:00:48.000Z",
-      "score_quality": 74,
-      "score_notif": 46,
-      "cluster": "20260919-e7567985c310",
-      "cluster_main": true
-    },
-    {
       "title": "Hands-On: The Straum Expedition",
       "url": "https://www.hodinkee.com/articles/straum-expedition-2",
       "image": "https://hodinkee.imgix.net/uploads/images/5cb028f9-331c-46dc-bf77-0d894a53bab6/G1074521.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1640,10 +1654,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1839,20 +1853,6 @@
       "score_quality": 61,
       "score_notif": 55,
       "cluster": "20260918-1e13c2553f79",
-      "cluster_main": true
-    },
-    {
-      "title": "Oliver Gallaugher Deep Space Blue Watch Review: Getting Lost In The Details",
-      "url": "https://www.ablogtowatch.com/oliver-gallaugher-deep-space-blue-watch-review-getting-lost-in-the-details/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Oliver-Gallaugher-Deep-Space-Blue-RAZ-Crop-07-768x346.jpg",
-      "peek_preview": "All that glitters is not gold, and the marketing of modern watches is an excellent testament to that. We’ve all seen a watch online that looks absolutely stunning, only to have it fall unbelievably short when we finally...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-18T07:01:29.000Z",
-      "score_quality": 71,
-      "score_notif": 14,
-      "cluster": "20260918-e30d3928260e",
       "cluster_main": true
     }
   ]
