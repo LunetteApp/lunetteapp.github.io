@@ -1,6 +1,6 @@
 {
-  "content_hash": "6c50e75adf06de825255a0bbb5719e4d71af23c77bc791d08bdc3e140c60875f",
-  "last_updated": "2026-09-24T16:47:03.450Z",
+  "content_hash": "8e5b0746a6bf7b1e208ffcb810c69103dd8e798073a5f70b41deda566ab065f5",
+  "last_updated": "2026-09-24T17:47:04.308Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T11:00:05.000Z"
     },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T16:00:03.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T16:01:47.000Z"
     },
     {
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 3,
+      "estimated_articles_per_day": 2.9,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T13:00:00.000Z"
     },
@@ -268,10 +268,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T13:00:00.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 67,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -380,10 +380,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:01:46.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -411,7 +411,7 @@
       "score_quality": 89,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -523,7 +523,7 @@
       "score_quality": 89,
       "score_notif": 67,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Traser P65 Tactical Mission Titanium Upgrades The Brand’s Original Watch",
@@ -1839,6 +1839,20 @@
       "score_quality": 72,
       "score_notif": 46,
       "cluster": "20260919-b2ae1c5c4d5f",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: The Baume & Mercier Riviera 73 Watch Is Slimmer, Cleaner, And More Faithful To The Original",
+      "url": "https://www.ablogtowatch.com/hands-on-the-baume-mercier-riviera-73-watch-is-slimmer-cleaner-and-more-faithful-to-the-original/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Baume-et-Mercier-Riviera-73-ADA-Crop-768x346.jpg",
+      "peek_preview": "Images by Ariel Adams The Baume & Mercier Riviera collection has always had something of an identity crisis in the modern era. Despite standing as an often overlooked entry-level luxury option in the ever-increasing int...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-19T12:00:48.000Z",
+      "score_quality": 77,
+      "score_notif": 22,
+      "cluster": "20260919-3da33e582cc0",
       "cluster_main": true
     }
   ]
