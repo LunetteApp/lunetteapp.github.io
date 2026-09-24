@@ -1,6 +1,6 @@
 {
-  "content_hash": "7d75f413930af400c3f44d0ae195ab8eaf6b96ad0381be64ea68cf62cb489b18",
-  "last_updated": "2026-09-24T14:47:15.745Z",
+  "content_hash": "6c50e75adf06de825255a0bbb5719e4d71af23c77bc791d08bdc3e140c60875f",
+  "last_updated": "2026-09-24T16:47:03.450Z",
   "premium": {
     "links": []
   },
@@ -17,20 +17,20 @@
       "lang": "en",
       "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-24T14:00:04.000Z"
+      "latest_article_at": "2026-09-24T16:00:03.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T10:01:46.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T16:01:47.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T14:00:54.000Z"
     },
     {
@@ -50,7 +50,7 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T12:02:39.000Z"
     },
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Value Proposition – Formex Takes its Field Watch to the Air with the New AirField Titanium Pilot’s Watch",
+      "url": "https://monochrome-watches.com/formex-airfield-series-accessible-automatic-titanium-pilot-watch-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Formex-AirField-Accessible-Automatic-Titanium-Pilot-Watch-1-600x237.jpg",
+      "peek_preview": "In 2022, Formex launched the Field Automatic, a 41mm titanium field watch developed with the brand’s signature focus on practical engineering. The series was refined in 2025 with the Field Automatic Gen 2, boasting a sl...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-24T16:01:47.000Z",
+      "score_quality": 78,
+      "score_notif": 48,
+      "cluster": "20260924-174749a3d4b2",
+      "cluster_main": true
+    },
+    {
       "title": "Backes & Strauss Partners With Tennis Player Elina Avanesyan For An Upcoming Special Watch Collection",
       "url": "https://www.ablogtowatch.com/backes-strauss-partners-with-tennis-player-elina-avanesyan-for-an-upcoming-special-watch-collection/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hand-in-pocket-768x1152.png",
@@ -257,7 +271,7 @@
       "score_quality": 88,
       "score_notif": 67,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -369,7 +383,7 @@
       "score_quality": 88,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -394,10 +408,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:00:00.000Z",
-      "score_quality": 87,
+      "score_quality": 89,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -425,7 +439,7 @@
       "score_quality": 87,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -464,10 +478,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T08:00:00.000Z",
-      "score_quality": 86,
+      "score_quality": 88,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -506,10 +520,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T07:01:51.000Z",
-      "score_quality": 86,
+      "score_quality": 89,
       "score_notif": 67,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Traser P65 Tactical Mission Titanium Upgrades The Brand’s Original Watch",
@@ -549,9 +563,9 @@
       "featured": false,
       "published_at": "2026-09-24T07:00:17.000Z",
       "score_quality": 72,
-      "score_notif": 46,
+      "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin Azure Blue—Celebrating the 30th Anniversary of the Overseas",
@@ -577,7 +591,7 @@
       "featured": false,
       "published_at": "2026-09-24T06:00:51.000Z",
       "score_quality": 71,
-      "score_notif": 46,
+      "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
       "cluster_main": false
     },
@@ -775,7 +789,7 @@
       "score_quality": 76,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nivada Grenchen F77 MKII : 7 cadrans en pierre, 1 calibre qui tient tout le week-end",
@@ -800,10 +814,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T13:00:14.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Staff Picks: The Watches We Wore This Summer",
@@ -845,7 +859,7 @@
       "score_quality": 86,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The New Ulysse Nardin Freak One Blue Enamel and Freak One Guilloché",
@@ -1164,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T14:00:21.000Z",
-      "score_quality": 75,
+      "score_quality": 77,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Take A Deep Dive Into Tutima Glashütte’s Watchmaking History And Its Three Newest Patria Dress Watches",
@@ -1240,20 +1254,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The MeisterSinger NL Edition Tulip 2026",
-      "url": "https://monochrome-watches.com/first-look-meistersinger-nl-edition-2026-tulip-netherlands-limited-sw200-specs-price-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/MeisterSinger-NL-Edition-Tulip-2026-review-1-600x237.jpg",
-      "peek_preview": "MeisterSinger’s single-hand watches draw on an old tradition: clocks were often equipped with just one hand, giving the wearer a broader, less hurried reading of the day. Over the years, the German brand that celebrates...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T12:00:19.000Z",
-      "score_quality": 82,
-      "score_notif": 31,
-      "cluster": "20260922-139d8c769747",
-      "cluster_main": true
-    },
-    {
       "title": "Blancpain Ladybird Lady B: 19 millimetri e settant’anni di miniaturizzazione",
       "url": "https://italianwatchspotter.com/il-nuovo-blancpain-ladybird-lady-b/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-96-edited-1024x682.png",
@@ -1279,7 +1279,7 @@
       "score_quality": 66,
       "score_notif": 31,
       "cluster": "20260922-139d8c769747",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Sub Seconds: Diving With The Doxa SUB 200 T-Graph II",
@@ -1839,20 +1839,6 @@
       "score_quality": 72,
       "score_notif": 46,
       "cluster": "20260919-b2ae1c5c4d5f",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Baume & Mercier Riviera 73 Watch Is Slimmer, Cleaner, And More Faithful To The Original",
-      "url": "https://www.ablogtowatch.com/hands-on-the-baume-mercier-riviera-73-watch-is-slimmer-cleaner-and-more-faithful-to-the-original/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Baume-et-Mercier-Riviera-73-ADA-Crop-768x346.jpg",
-      "peek_preview": "Images by Ariel Adams The Baume & Mercier Riviera collection has always had something of an identity crisis in the modern era. Despite standing as an often overlooked entry-level luxury option in the ever-increasing int...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-19T12:00:48.000Z",
-      "score_quality": 82,
-      "score_notif": 23,
-      "cluster": "20260919-3da33e582cc0",
       "cluster_main": true
     }
   ]
