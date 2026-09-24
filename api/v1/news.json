@@ -1,6 +1,6 @@
 {
-  "content_hash": "19113559788472c4baf90b2efb42d46af9d0642e42951af66d62ec88324b47ed",
-  "last_updated": "2026-09-24T04:46:53.445Z",
+  "content_hash": "31594ad0301fcf890671ff3ad51ac63402c59e26ba991f68a3c177141e322868",
+  "last_updated": "2026-09-24T05:46:51.282Z",
   "premium": {
     "links": []
   },
@@ -10,7 +10,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-24T04:00:17.000Z"
+      "latest_article_at": "2026-09-24T05:00:42.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -71,7 +71,7 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
+      "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-23T04:00:29.000Z"
     },
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T13:12:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T05:30:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
+      "url": "https://www.welovewatches.fr/grand-seiko-sbgw325-les-chiffres-arabes-font-leur-retour-25-ans-plus-tard.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/grand-seiko-sbgw235-une.jpg",
+      "peek_preview": "Des chiffres arabes sur une Grand Seiko ? On les croise assez rarement pour que la SBGW325 attire notre attention. Cette édition limitée reprend l’un des signes distinctifs de la SBGW003 de 2001, première montre...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-24T05:30:00.000Z",
+      "score_quality": 60,
+      "score_notif": 57,
+      "cluster": "20260917-83a40dea703f",
+      "cluster_main": false
+    },
+    {
+      "title": "Flieger Or Dresser: Which Glashütte Original Senator Chronograph Suits Your Style?",
+      "url": "https://www.fratellowatches.com/hands-on-glashutte-original-senator-chronograph/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Glashutte-Original-Senator-Chronograph-Navigator-2026-1001044.jpg",
+      "peek_preview": "Just before summer, Glashütte Original invited us to its manufacture in eastern Germany. It was a great way for me to get to know the brand a little better. But the most important reason for the visit was the presentati...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-24T05:00:42.000Z",
+      "score_quality": 48,
+      "score_notif": 10,
+      "cluster": "20260924-a2c0f6989e80",
+      "cluster_main": true
+    },
     {
       "title": "Fratello Talks: If We Could Only Keep One Watch From Our Collection",
       "url": "https://www.fratellowatches.com/fratello-talks-if-we-could-only-keep-one-watch-from-our-collection/",
@@ -285,7 +313,7 @@
       "score_quality": 73,
       "score_notif": 45,
       "cluster": "20260923-71ebf4df6440",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "DEEP-X: un super diver italiano per festeggiare i 10 anni di WATCH INSANITY",
@@ -310,10 +338,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:17:09.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
@@ -327,7 +355,7 @@
       "score_quality": 90,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -369,7 +397,7 @@
       "score_quality": 83,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Staff Picks: The Watches We Wore This Summer",
@@ -408,10 +436,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T11:00:42.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The New Ulysse Nardin Freak One Blue Enamel and Freak One Guilloché",
@@ -506,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T05:00:36.000Z",
-      "score_quality": 68,
+      "score_quality": 74,
       "score_notif": 45,
       "cluster": "20260923-71ebf4df6440",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "H. Moser & Cie.’s Off-Grid Bares All",
@@ -786,10 +814,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T13:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -884,10 +912,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:30:17.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
@@ -985,7 +1013,7 @@
       "score_quality": 74,
       "score_notif": 47,
       "cluster": "20260920-9896b7911448",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Moser Dips Its Toe Back in the Digital Realm with the New Limited Edition Streamliner Off-Grid",
@@ -1279,7 +1307,7 @@
       "score_quality": 92,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shadow Icons: The Underappreciated References — Audemars Piguet Royal Oak Offshore",
@@ -1394,20 +1422,6 @@
       "cluster_main": true
     },
     {
-      "title": "Harnessing Nature: The Awake Sơn Mài Frosted Leaf Blood Moon, Storm, And Lagoon",
-      "url": "https://www.fratellowatches.com/harnessing-nature-the-awake-son-mai-frosted-leaf-blood-moon-storm-and-lagoon/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Awake-Son-Mai-Frosted-Leaf-Trio-1.jpg",
-      "peek_preview": "Since 2024, Awake has built a strong following with its Sơn Mài dials. These time-intensive creations layer Vietnamese lacquer over silver leaf and natural pigments. Last year, the Frosted Leaf technique debuted and won...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-20T09:00:11.000Z",
-      "score_quality": 73,
-      "score_notif": 44,
-      "cluster": "20260920-a48f2d966412",
-      "cluster_main": true
-    },
-    {
       "title": "Simplicity is best with the Jaeger-LeCoultre time and date Master Control Chronometre",
       "url": "https://timeandtidewatches.com/jaeger-lecoultre-time-and-date-master-control-chronometre-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/jaeger-lecoultre-master-control-chronometre-time-and-date-1.jpg",
@@ -1444,10 +1458,10 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-09-20T03:00:01.000Z",
-      "score_quality": 72,
+      "score_quality": 75,
       "score_notif": 47,
       "cluster": "20260920-9896b7911448",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ジェラルド・チャールズが複雑なテクスチャーを表現した「マスターリンク アトリエエディション」を発表",
@@ -1654,10 +1668,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-18T16:00:35.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 22,
       "cluster": "20260918-5107c9f7cef8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Auctions: Unique White-Gold Cartier Cheich Sets a New Cartier Auction Record—$3.4 Million at Sotheby's Hong Kong",
@@ -1839,20 +1853,6 @@
       "score_quality": 74,
       "score_notif": 48,
       "cluster": "20260918-b40e71a1d543",
-      "cluster_main": true
-    },
-    {
-      "title": "Jaeger-LeCoultre crée son poinçon HPG et relance la course aux certifications",
-      "url": "https://www.welovewatches.fr/jaeger-lecoultre-cree-son-poincon-hpg-et-relance-la-course-aux-certifications.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/jlc-2026-high-precision-guarantee-une.jpg",
-      "peek_preview": "Jaeger-LeCoultre détaille son nouveau poinçon maison, le High Precision Guarantee, inauguré en avril 2026 à Watches and Wonders sur la collection Master Control Chronomètre. Derrière ces trois lettres se trouve un proto...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-18T08:35:58.000Z",
-      "score_quality": 61,
-      "score_notif": 55,
-      "cluster": "20260918-1e13c2553f79",
       "cluster_main": true
     }
   ]
