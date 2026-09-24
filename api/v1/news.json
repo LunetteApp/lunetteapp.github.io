@@ -1,6 +1,6 @@
 {
-  "content_hash": "bb3d40cd8c010f4b8b0c8309cc2ea7a0c14c04c1418e20ed7ab94b7f713b338f",
-  "last_updated": "2026-09-24T03:46:32.771Z",
+  "content_hash": "19113559788472c4baf90b2efb42d46af9d0642e42951af66d62ec88324b47ed",
+  "last_updated": "2026-09-24T04:46:53.445Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-23T13:00:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T04:00:17.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T03:00:29.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Fratello Talks: If We Could Only Keep One Watch From Our Collection",
+      "url": "https://www.fratellowatches.com/fratello-talks-if-we-could-only-keep-one-watch-from-our-collection/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Thomas-watch-teaser-9.jpg",
+      "peek_preview": "What if you had to choose just one watch from your entire collection and let everything else go? No backups, no rotation, and no keeping that one watch you rarely wear “just in case.” In this episode of Fratello Talks,...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-24T04:00:17.000Z",
+      "score_quality": 34,
+      "score_notif": 8,
+      "cluster": "20260924-dbab29174aca",
+      "cluster_main": true
+    },
     {
       "title": "G-SHOCK「MASTER OF G」に、黄金の地平線を表現した新色「MASTER IN HORIZON GOLD」が追加",
       "url": "https://www.webchronos.net/news/173094/",
@@ -299,7 +313,7 @@
       "score_quality": 89,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
@@ -310,10 +324,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 88,
+      "score_quality": 90,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -772,10 +786,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T13:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Classic Fusion Balloon Dog by Jeff Koons: Hublot tra arte e giocosità",
@@ -870,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T06:30:17.000Z",
-      "score_quality": 97,
+      "score_quality": 100,
       "score_notif": 54,
       "cluster": "20260922-38757a00cb84",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
@@ -1419,20 +1433,6 @@
       "score_quality": 78,
       "score_notif": 26,
       "cluster": "20260920-8c4e258a41ac",
-      "cluster_main": true
-    },
-    {
-      "title": "Sunday Morning Showdown: Orient Star Sakigake Three Hand Vs. Tissot Gentleman 38mm",
-      "url": "https://www.fratellowatches.com/sunday-morning-showdown-orient-star-sakigake-vs-tissot-gentleman-38/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Tissot-gentleman-238_VS_Orient_Star_Sakigake-HEADER.jpg",
-      "peek_preview": "It’s Sunday morning, which means it’s time for another installment of Sunday Morning Showdown. This week, we’re pitting two affordable daily wearers against each other. They represent different sides of the watchmaking...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-20T05:00:52.000Z",
-      "score_quality": 54,
-      "score_notif": 8,
-      "cluster": "20260920-6c0d00528149",
       "cluster_main": true
     },
     {
