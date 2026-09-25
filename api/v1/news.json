@@ -1,6 +1,6 @@
 {
-  "content_hash": "162579cf11a8cc2938c4f0427c3b42cfe10e82e4be8e1428247cc277e2c99c33",
-  "last_updated": "2026-09-25T18:47:17.309Z",
+  "content_hash": "bde1c1f1dc5430681cd31ae21e62c2dd7d5c854ae9e61c67f5a5ea52e2078ea7",
+  "last_updated": "2026-09-25T19:47:25.976Z",
   "premium": {
     "links": []
   },
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T10:00:06.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T19:35:16.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.9,
+      "estimated_articles_per_day": 2.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T17:00:00.000Z"
     },
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T18:32:16.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Sinn Watches: How This German Brand Makes The Toughest Tool Watches In The Business",
+      "url": "https://teddybaldassarre.com/blogs/watches/sinn-watches-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Sinn-founder-Helmut-Sinn-2.jpg?v=1789066017",
+      "peek_preview": "[toc-section heading=\"The Origin Story: Foundation in Aviation\"] Helmut Sinn, the founder and namesake of Sinn, had an interesting life long before he ever decided to make watches. He was born in Metz, a town on the ban...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T19:35:16.000Z",
+      "score_quality": 53,
+      "score_notif": 10,
+      "cluster": "20260925-ce09f2ce8612",
+      "cluster_main": true
+    },
+    {
       "title": "Insider: Dominique Renaud Pulse60—Up Close With a 1 Hz Heartbeat You Can't Stop Watching",
       "url": "https://www.watchcollectinglifestyle.com/home/dominique-renaud-pulse60-hands-on-review",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790360813032-LUO1T14IAQXS9E8SYILG/Dominique+Renaud+Pulse60-4.jpg?format=1500w",
@@ -257,7 +271,7 @@
       "score_quality": 81,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Closer Look: The New Vacheron Constantin Overseas Perpetual Calendar Azure Blue",
@@ -859,7 +873,7 @@
       "score_quality": 93,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -898,10 +912,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T08:00:00.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -1209,7 +1223,7 @@
       "score_quality": 82,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nivada Grenchen F77 MKII : 7 cadrans en pierre, 1 calibre qui tient tout le week-end",
@@ -1514,10 +1528,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T14:00:21.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Take A Deep Dive Into Tutima Glashütte’s Watchmaking History And Its Three Newest Patria Dress Watches",
@@ -1626,10 +1640,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T04:03:12.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
@@ -1840,20 +1854,6 @@
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
       "cluster_main": false
-    },
-    {
-      "title": "The Citizen célèbre les 50 ans de l’Eco-Drive avec une édition d’exception",
-      "url": "https://www.welovewatches.fr/the-citizen-celebre-les-50-ans-de-leco-drive-avec-une-edition-dexception.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-the-citizen-50eme-anniversaire-aq4091-56w.jpg",
-      "peek_preview": "Il y a cinquante ans, Citizen révolutionnait l'horlogerie en lançant la première montre au monde animée par l'énergie solaire. Pour marquer cet anniversaire hautement symbolique, la maison japonaise dévoile une création...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-21T10:43:52.000Z",
-      "score_quality": 53,
-      "score_notif": 47,
-      "cluster": "20260921-9011cefead8c",
-      "cluster_main": true
     }
   ]
 }
