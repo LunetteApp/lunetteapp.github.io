@@ -1,6 +1,6 @@
 {
-  "content_hash": "001320f9ac2470273037349185c3974d054a0cf5873bd6d7cdd41ff2ce86b3f9",
-  "last_updated": "2026-09-25T13:47:30.044Z",
+  "content_hash": "978045d9c4f8666d41255a77f28ad6ed70cbd2ebdfa4759d56f71205b623b2b0",
+  "last_updated": "2026-09-25T14:47:40.144Z",
   "premium": {
     "links": []
   },
@@ -8,22 +8,22 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.5,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T13:00:51.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T13:00:36.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T13:01:34.000Z"
     },
     {
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.9,
+      "estimated_articles_per_day": 2.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T13:00:00.000Z"
     },
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T10:26:11.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T14:19:33.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria",
+      "url": "https://www.watchinsanity.it/pisa-1940-new-watchmaking-lab-milan/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/PISA_1940_Lab_Watch_Insanity_10-1024x682.jpg",
+      "peek_preview": "Nuovo laboratorio PISA 1940 a Milano: oltre 170 mq dedicati a quick service, revisione, lucidatura, restauro e assistenza orologi. The post Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria appeared first o...",
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-25T14:19:33.000Z",
+      "score_quality": 48,
+      "score_notif": 23,
+      "cluster": "20260925-1bb36aa383a9",
+      "cluster_main": true
+    },
     {
       "title": "Special Episode: More Champagne from August",
       "url": "https://deployant.com/special-episode-more-champagne-from-august/?utm_source=rss&utm_medium=rss&utm_campaign=special-episode-more-champagne-from-august",
@@ -716,10 +730,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T08:01:26.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -761,7 +775,7 @@
       "score_quality": 90,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -1038,10 +1052,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:17:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
@@ -1052,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1839,20 +1853,6 @@
       "score_quality": 70,
       "score_notif": 14,
       "cluster": "20260921-041811a5c677",
-      "cluster_main": true
-    },
-    {
-      "title": "タグ・ホイヤーが「モンツァ」誕生50周年を記念したフライバッククロノグラフを発表",
-      "url": "https://www.webchronos.net/news/173451/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/tagheuer_MONZA-01.webp",
-      "peek_preview": "タグ・ホイヤーは、「モンツァ」の誕生50周年を記念した「タグ・ホイヤー モンツァ フライバック クロノグラフ」を発表した。1976年のオリジナルモデルに着想を得たブラックとレッドのカラーリングを特徴とする。世界限定500 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-21T00:00:21.000Z",
-      "score_quality": 68,
-      "score_notif": 58,
-      "cluster": "20260921-0f0aab352aa0",
       "cluster_main": true
     }
   ]
