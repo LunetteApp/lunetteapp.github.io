@@ -1,6 +1,6 @@
 {
-  "content_hash": "3079fa7b55780662aaa6f88e871c2690f7d3b5ccdca37815ca8e3e8f174a65ef",
-  "last_updated": "2026-09-25T10:47:22.396Z",
+  "content_hash": "a666c22264184d7b04103421517c781a2ead3abf0a1ccb0db90076604545cc65",
+  "last_updated": "2026-09-25T11:47:18.737Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T09:00:39.000Z"
     },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T10:00:48.000Z"
     },
     {
@@ -36,9 +36,9 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-22T16:00:41.000Z"
+      "estimated_articles_per_day": 0.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T11:20:49.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
+      "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T07:00:00.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Titaniumize Everything (w/ Austin Rogers, @rehaut)",
+      "url": "https://www.unpolishedwatches.com/p/titaniumize-everything-w-austin-rogers",
+      "image": "https://substackcdn.com/image/fetch/$s_!CxWh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfb11470-1d25-4b31-a29c-4b108ecccecd_1524x100.png",
+      "peek_preview": "Austin Rogers is a New Yorker by way of Ohio, and goes by @rehaut on Instagram.",
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T11:20:49.000Z",
+      "score_quality": 18,
+      "score_notif": 7,
+      "cluster": "20260925-600f34f5c96a",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Buci Opens a New Chapter with the Singular Nouvelle Collection",
       "url": "https://monochrome-watches.com/buci-opens-a-new-chapter-with-the-singular-nouvelle-collection-launching-kickstarter-introducing-price/",
@@ -590,10 +604,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:01:46.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -621,7 +635,7 @@
       "score_quality": 95,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -1626,10 +1640,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: the Christopher Ward Sealander – the Best Boring Watch Money Can Buy",
@@ -1654,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -1839,20 +1853,6 @@
       "score_quality": 43,
       "score_notif": 11,
       "cluster": "20260920-0351b81e1a6e",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: Hamilton Returns To The World Of Gaming With The New Khaki Field Mechanical 38mm Watch",
-      "url": "https://www.ablogtowatch.com/new-release-hamilton-returns-to-the-world-of-gaming-with-the-new-khaki-field-mechanical-38mm-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hamilton-Khaki-Field-Mechanical-38mm-LOR-Crop-1-768x346.jpg",
-      "peek_preview": "It’s been a banner year for watches in video games. More brands than ever before are embracing the power of digital product placement, resulting in partnerships that would have seemed impossible even a few years ago — l...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-20T11:00:16.000Z",
-      "score_quality": 94,
-      "score_notif": 48,
-      "cluster": "20260920-961bdbcc7a7c",
       "cluster_main": true
     }
   ]
