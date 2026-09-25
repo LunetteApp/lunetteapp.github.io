@@ -1,6 +1,6 @@
 {
-  "content_hash": "85fe2ff5ab3892d0e2c7c664c376a1efa934202e8cde2e7066483f24dd49ea7e",
-  "last_updated": "2026-09-25T05:47:13.828Z",
+  "content_hash": "1e4dfa376a0c64216199ad03e050114a05473e51e0257aa87240813f3b8f4d44",
+  "last_updated": "2026-09-25T07:47:18.138Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T05:00:23.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T16:01:47.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T07:00:32.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T14:00:54.000Z"
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T07:01:27.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T19:00:49.000Z"
+      "estimated_articles_per_day": 2.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T07:01:53.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T05:30:00.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Richard Mille partners with GB1, the British America’s Cup Challenger ahead of 2027 race",
+      "url": "https://timeandtidewatches.com/richard-mille-partners-with-gb1-the-british-americas-cup-challenger-ahead-of-2027-race-friday-wind-down/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/260922-GB1-RichardMille-006-copy.jpg",
+      "peek_preview": "This week, Richard Mille revealed a new partnership with GB1, the British America’s Cup Challenger, as the team’s Official Timekeeping Partner for the 38th America’s Cup. In Time+Tide news, FounderFest was a resounding...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T07:01:53.000Z",
+      "score_quality": 56,
+      "score_notif": 24,
+      "cluster": "20260925-b71056e02118",
+      "cluster_main": true
+    },
+    {
+      "title": "Ming Introduces Lower-Priced ‘Donut Watch Company’ Brand With The Glazed: Review",
+      "url": "https://www.ablogtowatch.com/ming-introduces-lower-priced-donut-watch-company-brand-with-the-glazed-review/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Donut-Watch-Company-Glazed-2-768x346.jpg",
+      "peek_preview": "The Donut Watch Company is to Ming what the MAD Editions watches are to MB&F — a technically separate marque, but really a platform for lower-priced playfulness from the same people who bring you the Ming timepiece bran...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T07:01:27.000Z",
+      "score_quality": 76,
+      "score_notif": 63,
+      "cluster": "20260925-60eca852d817",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – New Stone Dials for the Accessible Perrelet Weekend",
+      "url": "https://monochrome-watches.com/2026-perrelet-weekend-accessible-stone-dial-watch-turquoise-lapis-tiger-eye-onyx-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-Perrelet-Weekend-Stone-Dials-Turquoise-Lapis-Tiger-Eye-Onyx-1-600x237.jpg",
+      "peek_preview": "Perrelet is renowned for its Turbine watches, featuring a dynamic, propeller-style rotor spinning on the dial. As an elegant, dressier counterweight to the theatrical Turbines, Perrelet launched the Weekend collection i...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T07:00:32.000Z",
+      "score_quality": 67,
+      "score_notif": 28,
+      "cluster": "20260925-a74d964695e4",
+      "cluster_main": true
+    },
     {
       "title": "Frédérique Constant x Légion étrangère : le temps d’après les combats",
       "url": "https://www.welovewatches.fr/frederique-constant-x-legion-etrangere-le-temps-dapres-les-combats.html",
@@ -506,10 +548,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:01:46.000Z",
-      "score_quality": 92,
+      "score_quality": 94,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -537,7 +579,7 @@
       "score_quality": 93,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -884,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:17:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
@@ -898,10 +940,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1237,20 +1279,6 @@
       "score_quality": 79,
       "score_notif": 48,
       "cluster": "20260922-d1563798cd2f",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Panerai Luminor Tourbillon GMT Titanio PAM01784",
-      "url": "https://monochrome-watches.com/the-panerai-luminor-tourbillon-gmt-titanio-pam01784/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Panerai-Luminor-Tourbillon-GMT-Titanio-PAM01784-1-600x237.jpg",
-      "peek_preview": "Panerai‘s modern movement story began in 2005, when the company introduced the hand-wound P.2002, its first own calibre, combining a GMT function with an eight-day power reserve. In 2007, the brand expanded its calibre...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T16:05:46.000Z",
-      "score_quality": 83,
-      "score_notif": 46,
-      "cluster": "20260922-c1e97ff4789a",
       "cluster_main": true
     },
     {
@@ -1825,34 +1853,6 @@
       "score_quality": 63,
       "score_notif": 10,
       "cluster": "20260920-7f10620f98dc",
-      "cluster_main": true
-    },
-    {
-      "title": "Simplicity is best with the Jaeger-LeCoultre time and date Master Control Chronometre",
-      "url": "https://timeandtidewatches.com/jaeger-lecoultre-time-and-date-master-control-chronometre-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/jaeger-lecoultre-master-control-chronometre-time-and-date-1.jpg",
-      "peek_preview": "Of the three new models released at Watches and Wonders, I believe there is more joy to be found in the simplest of them. The post Simplicity is best with the Jaeger-LeCoultre time and date Master Control Chronometre ap...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-20T08:00:42.000Z",
-      "score_quality": 66,
-      "score_notif": 18,
-      "cluster": "20260920-b291591a3f13",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Luminox Pacific Diver Official Force Blue Watch Brings The Mission To The Wrist",
-      "url": "https://www.ablogtowatch.com/hands-on-luminox-pacific-diver-official-force-blue-watch-brings-the-mission-to-the-wrist/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Luminox-Pacific-Diver-Official-Force-Blue-RHE-Featured-768x346.jpg",
-      "peek_preview": "Just off the coast of Miami sits the Florida Reef, a sprawling 350-mile-long barrier reef system comprising thousands of smaller reef clusters. It is the only living barrier reef in the continental U.S., and like other...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-20T07:01:15.000Z",
-      "score_quality": 78,
-      "score_notif": 26,
-      "cluster": "20260920-8c4e258a41ac",
       "cluster_main": true
     }
   ]
