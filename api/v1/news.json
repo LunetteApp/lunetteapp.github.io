@@ -1,6 +1,6 @@
 {
-  "content_hash": "a666c22264184d7b04103421517c781a2ead3abf0a1ccb0db90076604545cc65",
-  "last_updated": "2026-09-25T11:47:18.737Z",
+  "content_hash": "001320f9ac2470273037349185c3974d054a0cf5873bd6d7cdd41ff2ce86b3f9",
+  "last_updated": "2026-09-25T13:47:30.044Z",
   "premium": {
     "links": []
   },
@@ -8,23 +8,23 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T09:00:39.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T13:00:51.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T19:00:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T13:00:36.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T10:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T13:01:34.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T11:20:49.000Z"
     },
     {
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T12:00:00.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Special Episode: More Champagne from August",
+      "url": "https://deployant.com/special-episode-more-champagne-from-august/?utm_source=rss&utm_medium=rss&utm_campaign=special-episode-more-champagne-from-august",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/larmandier-bernier-1.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors At a recent wedding celebration, after a heavy dinner of exceptional cuisine, I continued the celebration with the couple and friends at the After Party. And...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T13:30:00.000Z",
+      "score_quality": 26,
+      "score_notif": 6,
+      "cluster": "20260925-6c9982a71c58",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The Favre Leuba Harpoon Revival Series Expands With New Colours",
+      "url": "https://monochrome-watches.com/favre-leuba-harpoon-revival-black-and-blue-dials-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Favre-Leuba-Harpoon-Revival-Black-and-Blue-Dials-1-600x237.jpg",
+      "peek_preview": "One of the oldest Swiss watchmaking brands (Founded in 1737 in Le Locle), Favre Leuba underwent a global relaunch in 2024 under the leadership of CEO Patrik P. Hoffmann and has since been pretty busy relaunching timepie...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T13:01:34.000Z",
+      "score_quality": 79,
+      "score_notif": 42,
+      "cluster": "20260925-654bd46e064e",
+      "cluster_main": true
+    },
+    {
+      "title": "Are You Ready To Pitch The Favre Leuba Harpoon Revival?",
+      "url": "https://www.fratellowatches.com/favre-leuba-harpoon-revival/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Favre-Leuba-Harpoon.jpg",
+      "peek_preview": "“Now, art thou the man to pitch a harpoon down a live whale’s throat, and then jump after it? Answer, quick!” Herman Melville wrote these words and had Captain Peleg say them to Ishmael in the 1851 classic novel Moby-Di...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T13:00:51.000Z",
+      "score_quality": 56,
+      "score_notif": 42,
+      "cluster": "20260925-654bd46e064e",
+      "cluster_main": false
+    },
+    {
+      "title": "Understanding the Poetry of Time Through Buci’s Founder and Its Newest Collection: Nouvelle",
+      "url": "https://wornandwound.com/understanding-the-poetry-of-time-through-bucis-founder-and-its-newest-collection-nouvelle/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Buci-Nouvelle-26.jpg",
+      "peek_preview": "Nousseima Baraket founded Buci in 2022 with a Kickstarter campaign that funded her first collection aptly and simply named “Garde-temps” or “timepiece.” Baraket is of African and French origins, with her parents hailing...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T13:00:36.000Z",
+      "score_quality": 68,
+      "score_notif": 45,
+      "cluster": "20260925-bd4250f514e9",
+      "cluster_main": false
+    },
     {
       "title": "Titaniumize Everything (w/ Austin Rogers, @rehaut)",
       "url": "https://www.unpolishedwatches.com/p/titaniumize-everything-w-austin-rogers",
@@ -355,7 +411,7 @@
       "score_quality": 75,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -607,7 +663,7 @@
       "score_quality": 96,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -632,10 +688,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:00:00.000Z",
-      "score_quality": 95,
+      "score_quality": 97,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -982,10 +1038,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:17:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
@@ -996,10 +1052,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1086,20 +1142,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The New Ulysse Nardin Freak One Blue Enamel and Freak One Guilloché",
-      "url": "https://monochrome-watches.com/2026-new-ulysse-nardin-freak-one-blue-enamel-and-freak-one-guilloche-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Ulysse-Nardin-Freak-One-Blue-Enamel-and-Freak-One-Guilloche-2026-review-12-600x237.jpg",
-      "peek_preview": "With Rolf Schynder at the helm, Ulysse Nardin released an unorthodox timepiece in 2001 that smashed conventions and rewrote watchmaking in one fell swoop. With no dial, no hands and no crown, the Freak, master watchmake...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T08:01:20.000Z",
-      "score_quality": 84,
-      "score_notif": 56,
-      "cluster": "20260923-00eae09e9011",
-      "cluster_main": true
-    },
-    {
       "title": "Ulysse Nardin gives the Freak [ONE] its first taste of decorative arts — in two very different flavours",
       "url": "https://timeandtidewatches.com/ulysse-nardin-freak-one-guilloche-freak-one-blue-enamel-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Ulysse-Nardin-Freak-One-Guilloche-Freak-One-Blue-Enamel-feature.jpg",
@@ -1154,20 +1196,6 @@
       "score_notif": 32,
       "cluster": "20260923-2f68ce0bed43",
       "cluster_main": true
-    },
-    {
-      "title": "Channeling My Inner Explorer With The Brand-New Héron Continental",
-      "url": "https://www.fratellowatches.com/the-brand-new-heron-continental/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Heron-Marinor-V2-13.jpg",
-      "peek_preview": "Héron has slowly been expanding its catalog. Earlier this year, the young Montreal-based brand introduced updated versions of its Marinor dive watch, which Mike reviewed. Now, Héron is introducing the completely new Con...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T05:00:36.000Z",
-      "score_quality": 74,
-      "score_notif": 45,
-      "cluster": "20260923-71ebf4df6440",
-      "cluster_main": false
     },
     {
       "title": "H. Moser & Cie.’s Off-Grid Bares All",
@@ -1640,10 +1668,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: the Christopher Ward Sealander – the Best Boring Watch Money Can Buy",
@@ -1668,10 +1696,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -1825,34 +1853,6 @@
       "score_quality": 68,
       "score_notif": 58,
       "cluster": "20260921-0f0aab352aa0",
-      "cluster_main": true
-    },
-    {
-      "title": "The Champagne Journal: The Best Bottles Experienced for August 26",
-      "url": "https://deployant.com/the-champagne-journal-the-best-bottles-experienced-for-august-26/?utm_source=rss&utm_medium=rss&utm_campaign=the-champagne-journal-the-best-bottles-experienced-for-august-26",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/convivial.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Yes, I am late for this journal entry. I was super pre-occupied with GWD26 during the first week of September, where I usually document what was consumed the...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-20T13:30:00.000Z",
-      "score_quality": 5,
-      "score_notif": 0,
-      "cluster": "20260920-8f608ea3d1a1",
-      "cluster_main": true
-    },
-    {
-      "title": "Grinding Gears: The Watch Industry Seems To Have Forgotten How To Treat People",
-      "url": "https://www.ablogtowatch.com/grinding-gears-the-watch-industry-seems-to-have-forgotten-how-to-treat-people/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2022/05/MoonSwatch-queue-1-768x498.jpg",
-      "peek_preview": "Funny, right after typing that title, my immediate thought was: Has it ever cared? To be clear, the immediate answer in my mind was: I think, yes, it has cared before. If in no other ways, it cared about how people perc...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-20T12:00:52.000Z",
-      "score_quality": 43,
-      "score_notif": 11,
-      "cluster": "20260920-0351b81e1a6e",
       "cluster_main": true
     }
   ]
