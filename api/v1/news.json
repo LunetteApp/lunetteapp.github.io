@@ -1,6 +1,6 @@
 {
-  "content_hash": "1e4dfa376a0c64216199ad03e050114a05473e51e0257aa87240813f3b8f4d44",
-  "last_updated": "2026-09-25T07:47:18.138Z",
+  "content_hash": "cc25dc95d71d23f13626683d1fdebe6e791eede5e77794ea2e817e6895387d45",
+  "last_updated": "2026-09-25T09:47:19.555Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T05:00:23.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T09:00:39.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T07:00:32.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T07:01:27.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T07:01:53.000Z"
     },
     {
@@ -92,9 +92,9 @@
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
-      "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-14T11:42:17.000Z"
+      "estimated_articles_per_day": 0.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T07:19:58.000Z"
     },
     {
       "source_name": "Watch Insanity",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Fashionably Late To The Party: Introducing The Orient Flusso Collection",
+      "url": "https://www.fratellowatches.com/introducing-the-orient-flusso-collection/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Orient-Flusso-models.jpg",
+      "peek_preview": "Orient reinterprets its heritage in integrated-bracelet sports watches with the new Flusso collection. Drawing inspiration from the SK (“Super King”) models that appeared in the brand’s catalog during the 1970s and ’80s...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T09:00:39.000Z",
+      "score_quality": 68,
+      "score_notif": 42,
+      "cluster": "20260925-bfb2b611496d",
+      "cluster_main": true
+    },
+    {
+      "title": "Patek Philippe a Milano: Laura Gervasoni racconta la Watch Art 2026",
+      "url": "https://www.perpetualpassion.com/2026/09/25/patek-philippe-watch-art-milano-2026-intervista-laura-gervasoni/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/Laura-Gervasoni-3-scaled.jpg",
+      "peek_preview": "Dal 2 al 18 ottobre 2026 Patek Philippe porterà a Milano la “Watch Art” Grand Exhibition, aprendo al [...] L'articolo Patek Philippe a Milano: Laura Gervasoni racconta la Watch Art 2026 proviene da PERPETUAL PASSION.",
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-25T07:19:58.000Z",
+      "score_quality": 55,
+      "score_notif": 24,
+      "cluster": "20260925-f57dbec40bf9",
+      "cluster_main": true
+    },
     {
       "title": "Richard Mille partners with GB1, the British America’s Cup Challenger ahead of 2027 race",
       "url": "https://timeandtidewatches.com/richard-mille-partners-with-gb1-the-british-americas-cup-challenger-ahead-of-2027-race-friday-wind-down/",
@@ -551,7 +579,7 @@
       "score_quality": 94,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -576,10 +604,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:00:00.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -856,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T20:47:36.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -940,10 +968,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -982,10 +1010,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T13:00:14.000Z",
-      "score_quality": 89,
+      "score_quality": 91,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Staff Picks: The Watches We Wore This Summer",
@@ -1027,7 +1055,7 @@
       "score_quality": 90,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The New Ulysse Nardin Freak One Blue Enamel and Freak One Guilloché",
@@ -1251,20 +1279,6 @@
       "score_quality": 60,
       "score_notif": 35,
       "cluster": "20260922-1d61e0ad3e1d",
-      "cluster_main": true
-    },
-    {
-      "title": "A Deep-Diving Legacy: Squale Introduces The Galeazzi Artiglio",
-      "url": "https://www.fratellowatches.com/new-squale-galeazzi-artiglio/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Squale-Galeazzi-Artiglio-15.jpg",
-      "peek_preview": "Squale and underwater-tech manufacturer Drass Galeazzi mark the centenary of Roberto Galeazzi’s 1926 patent with the Galeazzi Artiglio. This is a vintage-inspired dive watch with a 600m depth rating and a neat trick up...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T17:00:23.000Z",
-      "score_quality": 73,
-      "score_notif": 42,
-      "cluster": "20260922-f89aa9f52127",
       "cluster_main": true
     },
     {
@@ -1612,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: the Christopher Ward Sealander – the Best Boring Watch Money Can Buy",
@@ -1640,10 +1654,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
@@ -1839,20 +1853,6 @@
       "score_quality": 94,
       "score_notif": 48,
       "cluster": "20260920-961bdbcc7a7c",
-      "cluster_main": true
-    },
-    {
-      "title": "Goldlegierungen von Golduhren: Das Geheimnis von Everose, Sedna, Magic Gold & Co.",
-      "url": "https://www.uhrenkosmos.com/goldlegierungen-von-golduhren-im-ueberblick/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Golduhren-und-Goldlegierungen-mit-Audemars-Piguet-Sand-Gold-A.-Lange-Soehne-Honey-Gold-Omega-Sedna-Gold-Rolex-Gelgold-und-Montblanc-Limegold.jpg",
-      "peek_preview": "Golduhren faszinieren seit jeher durch ihren Glanz und ihre Wertigkeit – doch nicht jede Goldlegierung ist gleich. Wir erklären, was hinter den markeneigenen Bezeichnungen der Goldlegierungen steckt und warum es um mehr...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-09-20T10:51:27.000Z",
-      "score_quality": 63,
-      "score_notif": 10,
-      "cluster": "20260920-7f10620f98dc",
       "cluster_main": true
     }
   ]
