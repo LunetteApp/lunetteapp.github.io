@@ -1,6 +1,6 @@
 {
-  "content_hash": "978045d9c4f8666d41255a77f28ad6ed70cbd2ebdfa4759d56f71205b623b2b0",
-  "last_updated": "2026-09-25T14:47:40.144Z",
+  "content_hash": "462287765c5097489eb25d8142f9574abee5cf62020d2ce6a3a63cbe0b1f52fd",
+  "last_updated": "2026-09-25T15:47:55.068Z",
   "premium": {
     "links": []
   },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.4,
+      "estimated_articles_per_day": 4.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T13:01:34.000Z"
     },
@@ -51,8 +51,8 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T20:41:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T15:07:59.000Z"
     },
     {
       "source_name": "Deployant",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T13:00:00.000Z"
+      "estimated_articles_per_day": 2.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -100,15 +100,15 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T14:19:33.000Z"
     },
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T00:21:36.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T15:22:34.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Questo Cartier Cheich, unico in oro bianco, lo recensimmo dal vivo nel 2023. Ora, venduto per 3,4 milioni di dollari, è il quarzo più caro mai battuto all’asta",
+      "url": "https://www.orologidiclasse.com/cartier-cheich-record-quarzo/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/cartier-cheich-oro-bianco-record-asta-2026.jpg",
+      "peek_preview": "“Chissà quando questo sarà venduto che cifra toccherà…”. Chiudevo così il mio articolo del 2023 sul Cartier Cheich in oro bianco. Oggi conosco la risposta: 26.520.000 dollari di Hong Kong, circa 3,4 milioni di dollari U...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-25T15:22:34.000Z",
+      "score_quality": 74,
+      "score_notif": 64,
+      "cluster": "20260922-d8c1333cfb2e",
+      "cluster_main": false
+    },
+    {
+      "title": "A Closer Look: The New Vacheron Constantin Overseas Perpetual Calendar Azure Blue",
+      "url": "https://www.atimelyperspective.com/hands-on-with-the-new-vacheron-constantin-overseas-perpetual-calendar-azure-blue/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/Overseas_4300V-220G-H119_LifeStyle_2_16x9.jpeg",
+      "peek_preview": "Sometimes a new dial color is enough to make a familiar watch feel entirely different. Last week, I had the opportunity to go hands-on with Vacheron Constantin’s newest Overseas Perpetual Calendar Ultra-Thin, with its s...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T15:07:59.000Z",
+      "score_quality": 76,
+      "score_notif": 67,
+      "cluster": "20260924-28ed3edb0a43",
+      "cluster_main": false
+    },
+    {
+      "title": "Bring a Loupe: An Omega Ranchero, A Cartier Santos Ghost, An Audemars Piguet Perpetual Calendar, And A ZRC Grands Fonds",
+      "url": "https://www.hodinkee.com/articles/an-omega-ranchero-a-cartier-santos-ghost-an-audemars-piguet-perpetual-calendar-and-a-zrc-grands-fron",
+      "image": "https://hodinkee.imgix.net/uploads/images/51f6d79f-10cf-46dc-b346-0e5eff9dfbea/BringALoupe25.png?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T15:00:00.000Z",
+      "score_quality": 43,
+      "score_notif": 12,
+      "cluster": "20260925-ea84f057ce0b",
+      "cluster_main": true
+    },
     {
       "title": "Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria",
       "url": "https://www.watchinsanity.it/pisa-1940-new-watchmaking-lab-milan/",
@@ -733,7 +775,7 @@
       "score_quality": 91,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -772,10 +814,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T08:00:00.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -982,10 +1024,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T20:47:36.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1066,10 +1108,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1108,10 +1150,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T13:00:14.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Staff Picks: The Watches We Wore This Summer",
@@ -1153,7 +1195,7 @@
       "score_quality": 92,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ulysse Nardin gives the Freak [ONE] its first taste of decorative arts — in two very different flavours",
@@ -1674,20 +1716,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: The H. Moser & Cie. Off-Grid (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/the-h-moser-and-cie-off-grid-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/d44891c3-dc8d-4a9d-9dea-91cf8260f3b6/tan2h-moser-off-grid-02349-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A follow-up duo of ana-digi watches from the brand after its Formula 1-tied introduction last year.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 99,
-      "score_notif": 64,
-      "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
-    },
-    {
       "title": "Review: the Christopher Ward Sealander – the Best Boring Watch Money Can Buy",
       "url": "https://wornandwound.com/review/review-the-christopher-ward-sealander-the-best-boring-watch-money-can-buy/",
       "image": "https://wornandwound.com/library/uploads/2026/09/CWARD_C63_SEALANDER_39A_1.jpg",
@@ -1825,34 +1853,6 @@
       "score_quality": 96,
       "score_notif": 22,
       "cluster": "20260921-5413dbf2aa48",
-      "cluster_main": true
-    },
-    {
-      "title": "カシオがクラシカルな角型ケースを採用した「LTP-B150」の新作3型を発表",
-      "url": "https://www.webchronos.net/news/173359/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/CASiO_sukaku_1.webp",
-      "peek_preview": "カシオは「カシオコレクション」の新作として、「LTP-B150」シリーズから3モデルを発表した。ローマ数字インデックスを配したクラシカルな角型ケースに、ステンレススティールブレスレット１種とレザーストラップ２種、計3モデ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-21T03:00:14.000Z",
-      "score_quality": 58,
-      "score_notif": 28,
-      "cluster": "20260921-f31c66c8f6b6",
-      "cluster_main": true
-    },
-    {
-      "title": "Complicated Collectors: Lord Sandberg",
-      "url": "https://watchesbysjx.com/2026/09/lord-sandberg-collector-profile.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Complicated-collectors-michael-Sandberg-300x300.jpg",
-      "peek_preview": "This weekend’s results at Sotheby’s Hong Kong typify contemporary interest in independent watchmaking, and in special editions of series-produced watches. In contrast, the Sandberg Collection, assembled by former HSBC c...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T01:00:40.000Z",
-      "score_quality": 70,
-      "score_notif": 14,
-      "cluster": "20260921-041811a5c677",
       "cluster_main": true
     }
   ]
