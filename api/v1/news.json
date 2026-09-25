@@ -1,6 +1,6 @@
 {
-  "content_hash": "afc931a36dbab05a7b4cee6057b089a410cc7a115b9e6e4a0e60b96f09b9ca6d",
-  "last_updated": "2026-09-25T20:47:06.478Z",
+  "content_hash": "7beeb2fbc659299448df1df3268d62ce12a2d6f92a4c5e22dc5abee4823ac7c5",
+  "last_updated": "2026-09-25T23:47:16.698Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T20:00:56.000Z"
     },
     {
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T01:00:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T23:07:15.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Breguet Expands Marine Fleet",
+      "url": "https://watchesbysjx.com/2026/09/breguet-marine-5517-5527.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Breguet-Marine-5517-5527-3x2-centred-header-1-300x200.jpg",
+      "peek_preview": "The Breguet Marine 5517 and 5527 chronograph have been with us since 2018, remaining largely unchanged even as the rest of the catalogue has been thoroughly modernised. Now, the Marine collection gets its refresh with n...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T23:07:15.000Z",
+      "score_quality": 73,
+      "score_notif": 56,
+      "cluster": "20260924-85abd93b9de2",
+      "cluster_main": false
+    },
     {
       "title": "eBay Finds: a Wild LED Watch with a Great Name, an Unusual Favre-Leuba, Classic Seiko, and More",
       "url": "https://wornandwound.com/ebay-finds-a-wild-led-watch-with-a-great-name-an-unusual-favre-leuba-classic-seiko-and-more/",
@@ -884,10 +898,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T08:01:26.000Z",
-      "score_quality": 93,
+      "score_quality": 95,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -929,7 +943,7 @@
       "score_quality": 94,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -1136,10 +1150,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T20:47:36.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1220,10 +1234,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1837,20 +1851,6 @@
       "featured": false,
       "published_at": "2026-09-21T11:00:58.000Z",
       "score_quality": 99,
-      "score_notif": 64,
-      "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
-    },
-    {
-      "title": "H. Moser expands digital offerings with new Streamliner OFF-GRID",
-      "url": "https://timeandtidewatches.com/h-moser-expands-digital-offerings-with-new-streamliner-off-grid/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/H.-Moser-Streamliner-OFF-GRID-feature.jpg",
-      "peek_preview": "H. Moser & Cie unveils new analogue-digital display multi-functional timepiece with its Streamliner OFF-GRID With multiple practical functions including perpetual calendar, split-second chronograph, and vibrating alarm,...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T11:00:28.000Z",
-      "score_quality": 74,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
       "cluster_main": false
