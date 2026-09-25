@@ -1,6 +1,6 @@
 {
-  "content_hash": "cc25dc95d71d23f13626683d1fdebe6e791eede5e77794ea2e817e6895387d45",
-  "last_updated": "2026-09-25T09:47:19.555Z",
+  "content_hash": "3079fa7b55780662aaa6f88e871c2690f7d3b5ccdca37815ca8e3e8f174a65ef",
+  "last_updated": "2026-09-25T10:47:22.396Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T09:00:39.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T07:00:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T10:00:48.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T07:19:58.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – Buci Opens a New Chapter with the Singular Nouvelle Collection",
+      "url": "https://monochrome-watches.com/buci-opens-a-new-chapter-with-the-singular-nouvelle-collection-launching-kickstarter-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Buci-Nouvelle-collection-dress-watch-kickstarter-9-600x237.jpg",
+      "peek_preview": "Founded in 2022 by Nousseïma Baraket, Buci approaches watchmaking through the written word, taking ideas from books, poetry and different forms of writing. Its debut Garde-Temps collection established this identity, fol...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T10:00:48.000Z",
+      "score_quality": 71,
+      "score_notif": 45,
+      "cluster": "20260925-bd4250f514e9",
+      "cluster_main": true
+    },
     {
       "title": "Fashionably Late To The Party: Introducing The Orient Flusso Collection",
       "url": "https://www.fratellowatches.com/introducing-the-orient-flusso-collection/",
@@ -884,10 +898,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T20:47:36.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -968,10 +982,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1013,7 +1027,7 @@
       "score_quality": 91,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Staff Picks: The Watches We Wore This Summer",
@@ -1052,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T11:00:42.000Z",
-      "score_quality": 90,
+      "score_quality": 92,
       "score_notif": 48,
       "cluster": "20260923-4d6467896cab",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The New Ulysse Nardin Freak One Blue Enamel and Freak One Guilloché",
@@ -1111,20 +1125,6 @@
       "score_quality": 76,
       "score_notif": 24,
       "cluster": "20260923-e83f0936168f",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Girard-Perragaux Laureato Chronograph and Laureato 42mm Williams Editions",
-      "url": "https://monochrome-watches.com/introducing-girard-perragaux-laureato-chronograph-and-laureato-42mm-williams-edition-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Atlassian-Williams-F1-Team-and-Girard-Perregaux-Laureato-Chronograph-and-Laureato-42mm-Williams-Edition-600x237.jpg",
-      "peek_preview": "Girard-Perragaux‘s involvement in the world of sports cars and Formula 1 isn’t new. Back in the 1990s, the brand conceived multiple watches in partnership with Ferrari and, more recently, sponsored the Aston Martin F1 T...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T06:00:03.000Z",
-      "score_quality": 84,
-      "score_notif": 52,
-      "cluster": "20260921-ff50a2b6f4e7",
       "cluster_main": true
     },
     {
@@ -1601,7 +1601,7 @@
       "score_quality": 76,
       "score_notif": 52,
       "cluster": "20260921-ff50a2b6f4e7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jack Mason Introduces The Canton Day-Date With Milled Guilloché Dials And American Assembly",
@@ -1626,10 +1626,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T15:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: the Christopher Ward Sealander – the Best Boring Watch Money Can Buy",
@@ -1654,10 +1654,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-21T12:57:47.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
