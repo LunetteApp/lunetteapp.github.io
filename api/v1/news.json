@@ -1,6 +1,6 @@
 {
-  "content_hash": "d231be70eb06286d13892ee95ed0b85d6a3a492ce9fc392e1d159c971012523b",
-  "last_updated": "2026-09-25T17:47:24.195Z",
+  "content_hash": "162579cf11a8cc2938c4f0427c3b42cfe10e82e4be8e1428247cc277e2c99c33",
+  "last_updated": "2026-09-25T18:47:17.309Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T17:00:15.000Z"
     },
     {
@@ -43,7 +43,7 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T10:00:06.000Z"
     },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T17:00:00.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T07:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T18:32:16.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -135,7 +135,7 @@
       "source_name": "Le Calibre",
       "lang": "fr",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-24T08:05:23.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: Dominique Renaud Pulse60—Up Close With a 1 Hz Heartbeat You Can't Stop Watching",
+      "url": "https://www.watchcollectinglifestyle.com/home/dominique-renaud-pulse60-hands-on-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790360813032-LUO1T14IAQXS9E8SYILG/Dominique+Renaud+Pulse60-4.jpg?format=1500w",
+      "peek_preview": "When we first covered the Dominique Renaud Pulse60 in March, it was an argument on paper. The watchmaker behind Renaud & Papi, the complications workshop later absorbed by Audemars Piguet, was finally putting his own na...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T18:32:16.000Z",
+      "score_quality": 77,
+      "score_notif": 47,
+      "cluster": "20260925-2a095ae83797",
+      "cluster_main": true
+    },
     {
       "title": "Venezianico Introduces the New Redentore Levius",
       "url": "https://wornandwound.com/venezianico-introduces-the-new-redentore-levius/",
@@ -520,10 +534,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T20:41:43.000Z",
-      "score_quality": 75,
+      "score_quality": 77,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -842,10 +856,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T08:01:26.000Z",
-      "score_quality": 91,
+      "score_quality": 93,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -887,7 +901,7 @@
       "score_quality": 92,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -1192,10 +1206,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T13:30:00.000Z",
-      "score_quality": 80,
+      "score_quality": 82,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nivada Grenchen F77 MKII : 7 cadrans en pierre, 1 calibre qui tient tout le week-end",
@@ -1265,7 +1279,7 @@
       "score_quality": 76,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Bremont Terra Nova 40.5 Jumping Hour Burgundy—The Talk of Geneva Watch Days",
@@ -1503,7 +1517,7 @@
       "score_quality": 81,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Take A Deep Dive Into Tutima Glashütte’s Watchmaking History And Its Three Newest Patria Dress Watches",
@@ -1839,20 +1853,6 @@
       "score_quality": 53,
       "score_notif": 47,
       "cluster": "20260921-9011cefead8c",
-      "cluster_main": true
-    },
-    {
-      "title": "Patek Philippe Rare Handcrafts: i capolavori e le tecniche di un’arte senza tempo",
-      "url": "https://italianwatchspotter.com/patek-philippe-rare-handcrafts/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/cr-getbezel-1024x512.jpg",
-      "peek_preview": "È comprensibile che quando si parli di Patek Philippe il primo pensiero sia un Nautilus o una Grande Complicazione, hanno cementato il proprio posto nella storia dell’orologeria con la loro magnificenza e la loro eccezi...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-21T08:00:00.000Z",
-      "score_quality": 67,
-      "score_notif": 16,
-      "cluster": "20260921-31d782cedee6",
       "cluster_main": true
     }
   ]
