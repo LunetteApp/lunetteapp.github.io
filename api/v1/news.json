@@ -1,6 +1,6 @@
 {
-  "content_hash": "41512ee1ae91f2cddd90991105dcfe35b119e8836560f2bcf00a1470d8ea206f",
-  "last_updated": "2026-09-25T16:47:27.139Z",
+  "content_hash": "d231be70eb06286d13892ee95ed0b85d6a3a492ce9fc392e1d159c971012523b",
+  "last_updated": "2026-09-25T17:47:24.195Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T13:00:36.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T17:00:15.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T16:10:52.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T16:05:46.000Z"
     },
     {
@@ -135,8 +135,8 @@
       "source_name": "Le Calibre",
       "lang": "fr",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-15T20:17:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-24T08:05:23.000Z"
     },
     {
       "source_name": "Uhrenkosmos",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Venezianico Introduces the New Redentore Levius",
+      "url": "https://wornandwound.com/venezianico-introduces-the-new-redentore-levius/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Venezianico-Ti-4.jpg",
+      "peek_preview": "Colin Chapman, founder of the legendary automotive marquee, Lotus, once stated that “simplify, then add lightness” was his philosophy. It’s an oft-celebrated, frequently misquoted, and pervasively genius idea: removing...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T17:00:15.000Z",
+      "score_quality": 56,
+      "score_notif": 39,
+      "cluster": "20260925-d8bafd2cca84",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: The Patek Philippe Celestial Ref. 6105G (Plus Technical In-Depth)",
+      "url": "https://www.hodinkee.com/articles/hands-on-patek-philippe-6105",
+      "image": "https://hodinkee.imgix.net/uploads/images/aca51b9a-98af-483f-b00a-240d48429de0/20260709_PatekPreviews_043.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "There were a number of surprising and sometimes divisive releases from Patek this year, but when you look at them as a whole, you can attempt to read the tea leaves to see the future of the Maison. We start with the mos...",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-25T17:00:00.000Z",
+      "score_quality": 87,
+      "score_notif": 29,
+      "cluster": "20260925-95afbd185b4b",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The Olive Green Minerva Exo Tourbillon Limited Edition 18 Brings Back The Suspended Regulator",
       "url": "https://monochrome-watches.com/minerva-exo-tourbillon-limited-edition-18-olive-green-yellow-gold-suspended-balance-review-price/",
@@ -495,7 +523,7 @@
       "score_quality": 75,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -789,6 +817,20 @@
       "score_quality": 68,
       "score_notif": 24,
       "cluster": "20260924-085777ad5c35",
+      "cluster_main": true
+    },
+    {
+      "title": "Windheure Avis : Que vaut vraiment ce site en ligne ?",
+      "url": "https://www.lecalibre.com/windheure-avis/?utm_source=rss&utm_medium=rss&utm_campaign=windheure-avis",
+      "image": "https://www.lecalibre.com/wp-content/uploads/2025/09/windheure-home-avis.png",
+      "peek_preview": "Chez Le Calibre, notre ligne de conduite est claire. On parle de montres avec passion, sans compromis, et nous cherchons à mettre en avant uniquement les pièces ayant un intérêt horloger. Depuis plusieurs années, vous ê...",
+      "source_name": "Le Calibre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-24T08:05:23.000Z",
+      "score_quality": 24,
+      "score_notif": 8,
+      "cluster": "20260924-8e553779b630",
       "cluster_main": true
     },
     {
@@ -1122,10 +1164,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:17:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
@@ -1136,10 +1178,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1220,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T08:01:16.000Z",
-      "score_quality": 74,
+      "score_quality": 76,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Bremont Terra Nova 40.5 Jumping Hour Burgundy—The Talk of Geneva Watch Days",
@@ -1488,21 +1530,7 @@
       "published_at": "2026-09-22T13:00:05.000Z",
       "score_quality": 99,
       "score_notif": 54,
-      "cluster": "20260922-af6ef4e274c8",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: Panerai Honors The Pre-Vendome Luminor With A Smaller 42mm Offering",
-      "url": "https://www.hodinkee.com/articles/introducing-panerai-luminor",
-      "image": "https://hodinkee.imgix.net/uploads/images/a1e9335f-21fb-4925-9e7d-6d7f7f28a443/Panerai2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A more wearable size for a wider range of buyers, and a more affordable price to go with it.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T13:00:00.000Z",
-      "score_quality": 100,
-      "score_notif": 54,
-      "cluster": "20260922-af6ef4e274c8",
+      "cluster": "20260922-02f5516968f6",
       "cluster_main": true
     },
     {
@@ -1730,20 +1758,6 @@
       "cluster_main": true
     },
     {
-      "title": "Review: the Christopher Ward Sealander – the Best Boring Watch Money Can Buy",
-      "url": "https://wornandwound.com/review/review-the-christopher-ward-sealander-the-best-boring-watch-money-can-buy/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/CWARD_C63_SEALANDER_39A_1.jpg",
-      "peek_preview": "Christopher Ward introduced the C63 Sealander in 2021 as a go-anywhere, do-anything watch. It was meant to be the brand’s contemporary, bread-and-butter line: a less specialized variation of the C60 Trident diver that h...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T13:00:02.000Z",
-      "score_quality": 74,
-      "score_notif": 12,
-      "cluster": "20260921-6984891db548",
-      "cluster_main": true
-    },
-    {
       "title": "New Release: H. Moser Off-Grid | Hands-on, Price and Live Photographs",
       "url": "https://deployant.com/just-released-h-moser-off-grid-hands-on-and-live-photographs/?utm_source=rss&utm_medium=rss&utm_campaign=just-released-h-moser-off-grid-hands-on-and-live-photographs",
       "image": "https://deployant.com/wp-content/uploads/2026/09/moser-streamliner-offthegrid-wrist.jpg",
@@ -1839,20 +1853,6 @@
       "score_quality": 67,
       "score_notif": 16,
       "cluster": "20260921-31d782cedee6",
-      "cluster_main": true
-    },
-    {
-      "title": "Nobody Asked: Picking NFL Team Watches, Part I",
-      "url": "https://www.ablogtowatch.com/nobody-asked-picking-nfl-team-watches-part-i/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/ABTW-Nobody-Asked-768x346.jpg",
-      "peek_preview": "Today, I’m starting a new column called Nobody Asked. It’s lighthearted, fun, and inconsequential. In it, I pair watches with things have few if any inherent horological indicators. To kick things off, I’m going to pick...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T07:01:14.000Z",
-      "score_quality": 20,
-      "score_notif": 4,
-      "cluster": "20260921-0a0e70d563c4",
       "cluster_main": true
     }
   ]
