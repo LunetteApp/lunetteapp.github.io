@@ -1,6 +1,6 @@
 {
-  "content_hash": "5c1a749374ba033c723b09ab7618591019f9137aa179922b65c22574940032d7",
-  "last_updated": "2026-09-25T01:46:47.004Z",
+  "content_hash": "2df040fd00f41f80dbc3e4b7aa73b8b9bede7ce911ce24ab1c53677757430f46",
+  "last_updated": "2026-09-25T03:46:55.840Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T01:00:33.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T00:00:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-25T03:00:02.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "セイコー ルキアより、ヒペリカムの実をモチーフにした「LUKIA Grow」の秋冬新作が登場",
+      "url": "https://www.webchronos.net/news/173426/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/SEIKOlukia_LUKIAGrow-01.webp",
+      "peek_preview": "セイコーが展開するレディースウォッチブランド「セイコー ルキア」の「LUKIA Grow（ルキア グロウ）」コレクションより、ヒペリカムの実をモチーフとした新作ウォッチが発表された。ラインナップは、トノー型ケースのモデル […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-25T03:00:02.000Z",
+      "score_quality": 60,
+      "score_notif": 22,
+      "cluster": "20260925-317728134096",
+      "cluster_main": true
+    },
     {
       "title": "Interview: Fabrizio Buonamassa Stigliani and Vianney Halter",
       "url": "https://watchesbysjx.com/2026/09/fabrizio-buonamassa-stigliani-vianney-halter-interview.html",
@@ -870,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T13:30:00.000Z",
-      "score_quality": 78,
+      "score_quality": 80,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nivada Grenchen F77 MKII : 7 cadrans en pierre, 1 calibre qui tient tout le week-end",
@@ -1265,7 +1279,7 @@
       "score_quality": 79,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Take A Deep Dive Into Tutima Glashütte’s Watchmaking History And Its Three Newest Patria Dress Watches",
@@ -1306,8 +1320,8 @@
       "published_at": "2026-09-22T13:00:05.000Z",
       "score_quality": 99,
       "score_notif": 54,
-      "cluster": "20260922-02f5516968f6",
-      "cluster_main": true
+      "cluster": "20260922-af6ef4e274c8",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Panerai Honors The Pre-Vendome Luminor With A Smaller 42mm Offering",
@@ -1460,7 +1474,7 @@
       "published_at": "2026-09-21T21:55:27.000Z",
       "score_quality": 76,
       "score_notif": 47,
-      "cluster": "20260920-9896b7911448",
+      "cluster": "20260921-55b6b8582fdb",
       "cluster_main": true
     },
     {
@@ -1826,20 +1840,6 @@
       "score_notif": 26,
       "cluster": "20260920-8c4e258a41ac",
       "cluster_main": true
-    },
-    {
-      "title": "ピアジェがオープンワークダイアルを採用した「ピアジェ・ポロ」のミニッツリピーターモデルを発表",
-      "url": "https://www.webchronos.net/news/173456/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/PGmr_1.webp",
-      "peek_preview": "ピアジェは「ピアジェ ポロ」コレクションの新作として、「ピアジェ ポロ ミニッツリピーター」を発表した。本作では、ギヨシェ彫りを施したオープンワーク仕様のダイアルを採用し、厚さ9.3mmのケースに収めた薄型ムーブメントC […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-20T03:00:01.000Z",
-      "score_quality": 75,
-      "score_notif": 47,
-      "cluster": "20260920-9896b7911448",
-      "cluster_main": false
     },
     {
       "title": "New releases from Blancpain, Czapek, Grand Seiko and more",
