@@ -1,6 +1,6 @@
 {
-  "content_hash": "6354dfac04b676eb89172bdce707a4e2dfddf3473679d01141ab3e6816cae073",
-  "last_updated": "2026-09-26T17:47:11.831Z",
+  "content_hash": "7dcf3c89c9c32062cfcb5d3e77d82e8b7d4bae4bf17ed73964e2042ac4abeeab",
+  "last_updated": "2026-09-26T18:46:47.708Z",
   "premium": {
     "links": []
   },
@@ -43,7 +43,7 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T19:35:16.000Z"
     },
@@ -523,20 +523,6 @@
       "score_quality": 34,
       "score_notif": 9,
       "cluster": "20260925-0d0dc2e5d573",
-      "cluster_main": true
-    },
-    {
-      "title": "Questo Cartier Cheich, unico in oro bianco, lo recensimmo dal vivo nel 2023. Ora, venduto per 3,4 milioni di dollari, è il quarzo più caro mai battuto all’asta",
-      "url": "https://www.orologidiclasse.com/cartier-cheich-record-quarzo/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/cartier-cheich-oro-bianco-record-asta-2026.jpg",
-      "peek_preview": "“Chissà quando questo sarà venduto che cifra toccherà…”. Chiudevo così il mio articolo del 2023 sul Cartier Cheich in oro bianco. Oggi conosco la risposta: 26.520.000 dollari di Hong Kong, circa 3,4 milioni di dollari U...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-25T15:22:34.000Z",
-      "score_quality": 87,
-      "score_notif": 64,
-      "cluster": "20260922-d8c1333cfb2e",
       "cluster_main": true
     },
     {
@@ -1139,7 +1125,7 @@
       "score_quality": 97,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -1178,10 +1164,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T08:00:00.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -1839,7 +1825,7 @@
       "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
@@ -1853,6 +1839,20 @@
       "score_quality": 58,
       "score_notif": 27,
       "cluster": "20260922-9e20bd8c5447",
+      "cluster_main": true
+    },
+    {
+      "title": "Insight: Screw-Down Showdown",
+      "url": "https://watchesbysjx.com/2026/09/insight-watch-crowns-water-resistance.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2024/09/rolex-deepsea-challenge-triplock-crown-rlx-titanium-300x195.jpg",
+      "peek_preview": "Mechanical movements attract most of the technical interest in watchmaking, but considerable engineering also goes into keeping them dry. For an everyday watch, the waterproof construction of the case and crown is centr...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-22T01:00:57.000Z",
+      "score_quality": 58,
+      "score_notif": 10,
+      "cluster": "20260922-0f3dd3c12299",
       "cluster_main": true
     }
   ]
