@@ -1,6 +1,6 @@
 {
-  "content_hash": "4ca5d55fae24d6c7b2113841128a93107dd41fa966dc286ee23156324da4e34d",
-  "last_updated": "2026-09-26T03:47:08.291Z",
+  "content_hash": "707ef5e65f65cab23c6272dae30ed9c9595907b37b7b32a9b531a8dfad94bfec",
+  "last_updated": "2026-09-26T05:47:00.843Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T13:00:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-26T05:00:28.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T05:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-26T05:30:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T03:00:20.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "MeisterSinger NL Edition 2026 : quand le temps s’épanouit en tulipe",
+      "url": "https://www.welovewatches.fr/meistersinger-nl-edition-2026-quand-le-temps-sepanouit-en-tulipe.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-montre-meistersinger-nl-edition-2026-tulipe.jpg",
+      "peek_preview": "Depuis 2004, MeisterSinger a instauré une jolie tradition : dévoiler chaque année une édition spéciale exclusivement dédiée au marché néerlandais, très attendue par les passionnés d'horlogerie du pays. Pour 2026, année...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-26T05:30:00.000Z",
+      "score_quality": 45,
+      "score_notif": 31,
+      "cluster": "20260922-139d8c769747",
+      "cluster_main": false
+    },
+    {
+      "title": "Weirdos Or Class Acts? Introducing The Ulysse Nardin Freak One Blue Enamel And Guilloché",
+      "url": "https://www.fratellowatches.com/ulysse-nardin-freak-one-blue-enamel-and-guilloche/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Original-JPG-2403-500LE-Duo-Low-kopie.jpg",
+      "peek_preview": "Since the watch shocked the world when it first appeared in 2001 and still looks as unconventional and futuristic as ever, the question is fair: are the two new Ulysse Nardin Freak One Blue Enamel and Guilloche watches...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-26T05:00:28.000Z",
+      "score_quality": 72,
+      "score_notif": 56,
+      "cluster": "20260923-00eae09e9011",
+      "cluster_main": false
+    },
     {
       "title": "デルマがムオニオナルスタ隕石ダイアルを採用した限定モデル、「ミッドランド メテオライト」を発表",
       "url": "https://www.webchronos.net/news/173769/",
@@ -327,7 +355,7 @@
       "score_quality": 83,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Closer Look: The New Vacheron Constantin Overseas Perpetual Calendar Azure Blue",
@@ -856,10 +884,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:01:46.000Z",
-      "score_quality": 96,
+      "score_quality": 98,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -887,7 +915,7 @@
       "score_quality": 97,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -1178,10 +1206,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T20:47:36.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1262,10 +1290,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1276,10 +1304,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T13:30:00.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nivada Grenchen F77 MKII : 7 cadrans en pierre, 1 calibre qui tient tout le week-end",
@@ -1292,21 +1320,7 @@
       "published_at": "2026-09-23T13:12:10.000Z",
       "score_quality": 68,
       "score_notif": 48,
-      "cluster": "20260923-4d6467896cab",
-      "cluster_main": false
-    },
-    {
-      "title": "A Sumptuous Centenary: Hands-On With The New Nivada F77 MKII Stone Dials Collection",
-      "url": "https://www.fratellowatches.com/hands-on-nivada-f77-mkii-stone-dials-100-years/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Nivada-F77-MKII-5.jpg",
-      "peek_preview": "Although Nivada Grenchen re-entered the market in 2020 after decades of absence, its roots date back to its original establishment in 1926. To celebrate the 100th anniversary, Nivada is releasing seven new dial variatio...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T13:00:14.000Z",
-      "score_quality": 93,
-      "score_notif": 48,
-      "cluster": "20260923-4d6467896cab",
+      "cluster": "20260923-fdfec7a53fb6",
       "cluster_main": true
     },
     {
@@ -1587,7 +1601,7 @@
       "score_quality": 83,
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Take A Deep Dive Into Tutima Glashütte’s Watchmaking History And Its Three Newest Patria Dress Watches",
@@ -1696,10 +1710,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T04:03:12.000Z",
-      "score_quality": 82,
+      "score_quality": 84,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
@@ -1839,20 +1853,6 @@
       "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": true
-    },
-    {
-      "title": "Torna Louis Erard x Konstantin Chaykin Unfrogettable con due nuovi colori",
-      "url": "https://www.orologidiclasse.com/louis-erard-konstantin-chaykin-unfrogettable-2026/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/louis-erard-konstantin-chaykin-unfrogettable-2026.jpg",
-      "peek_preview": "Louis Erard e Konstantin Chaykin riportano in scena Unfrogettable, la loro “rana” meccanica, con due nuove interpretazioni cromatiche: Turquoise e Brown. La formula resta quella già nota della collaborazione tra il bran...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-21T12:30:23.000Z",
-      "score_quality": 72,
-      "score_notif": 55,
-      "cluster": "20260921-ce94d8669faf",
       "cluster_main": true
     }
   ]
