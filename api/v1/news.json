@@ -1,6 +1,6 @@
 {
-  "content_hash": "7beeb2fbc659299448df1df3268d62ce12a2d6f92a4c5e22dc5abee4823ac7c5",
-  "last_updated": "2026-09-25T23:47:16.698Z",
+  "content_hash": "dd6c4b41aa953afa0c833d811bbeaf4dfc022f5c9fcee866a97250f301db195c",
+  "last_updated": "2026-09-26T00:47:05.354Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T23:07:15.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T03:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-26T00:00:57.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "カシオが“チプカシ”にモバイルリンク機能を追加した「F-B100W」を発売",
+      "url": "https://www.webchronos.net/news/173623/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/CASIO_classic_1.webp",
+      "peek_preview": "カシオは、「カシオコレクション」の新作として、「F-B100W」シリーズ3種を発表した。1980年代から続くデジタルウオッチの定番スタイルを受け継ぎつつ、歩数計測やBluetoothを用いたスマートフォン連携が可能となっ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-26T00:00:57.000Z",
+      "score_quality": 63,
+      "score_notif": 48,
+      "cluster": "20260926-87735f267722",
+      "cluster_main": true
+    },
     {
       "title": "Breguet Expands Marine Fleet",
       "url": "https://watchesbysjx.com/2026/09/breguet-marine-5517-5527.html",
@@ -296,10 +310,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-25T15:22:34.000Z",
-      "score_quality": 81,
+      "score_quality": 83,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Closer Look: The New Vacheron Constantin Overseas Perpetual Calendar Azure Blue",
@@ -1671,7 +1685,7 @@
       "score_quality": 82,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
@@ -1840,20 +1854,6 @@
       "score_notif": 10,
       "cluster": "20260921-1a715c254aa8",
       "cluster_main": true
-    },
-    {
-      "title": "Hands-On Debut: The H. Moser & Cie. Off-Grid, An Entry-Level Experiment",
-      "url": "https://www.ablogtowatch.com/hands-on-debut-the-h-moser-cie-off-grid-an-entry-level-experiment/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/H-Moser-Off-Grid-RHE-Thumbnail-768x346.jpg",
-      "peek_preview": "Can a brand whose motto is “Very Rare” have an entry-level watch? The question itself feels a bit like a paradox, particularly for a brand as committed to scarcity as H. Moser & Cie. With an annual production number tha...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T11:00:58.000Z",
-      "score_quality": 99,
-      "score_notif": 64,
-      "cluster": "20260921-6b93cee34e8f",
-      "cluster_main": false
     }
   ]
 }
