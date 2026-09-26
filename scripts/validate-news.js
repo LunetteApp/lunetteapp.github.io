@@ -67,8 +67,17 @@ function validateNews(news, history) {
 
   const URLs = new Set();
   const clusters = new Map();
+  const allowedArticleKeys = new Set([
+    "title", "url", "image", "peek_preview", "source_name", "lang",
+    "featured", "published_at", "score_quality", "score_notif",
+    "cluster", "cluster_main"
+  ]);
   for (const [index, article] of news.items.entries()) {
     const label = `Article ${index + 1}`;
+    const unexpected = Object.keys(article ?? {}).filter((key) => !allowedArticleKeys.has(key));
+    if (unexpected.length > 0) {
+      throw new Error(`${label} contains unexpected fields: ${unexpected.join(", ")}`);
+    }
     if (!article?.title || !article?.url || !article?.source_name || !article?.lang) {
       throw new Error(`${label} is missing title, URL, source, or language`);
     }

@@ -11,7 +11,11 @@ const {
   withoutArticles
 } = require("../analyze-news");
 const { resolveLLMConfig } = require("../llm-provider");
-const { compactArticleID, singletonClusterID } = require("../news-utils");
+const {
+  compactArticleID,
+  normalizeEventNotifications,
+  singletonClusterID
+} = require("../news-utils");
 
 function article({
   title,
@@ -19,6 +23,7 @@ function article({
   source = "Example Watches",
   lang = "en",
   published = "2026-08-02T10:00:00.000Z",
+  preview = "",
   cluster
 }) {
   return {
@@ -27,16 +32,24 @@ function article({
     source_name: source,
     lang,
     published_at: published,
+    peek_preview: preview,
     cluster
   };
 }
 
-test("the batch contains titles, sources, languages, and no article URLs", () => {
+function historyFor(articles) {
+  return {
+    articles: Object.fromEntries(articles.map((item) => [item.url, {}]))
+  };
+}
+
+test("the batch contains short previews, titles, sources, languages, and no article URLs", () => {
   const articles = [article({
     title: "  A precise\nwatch headline  ",
     url: "https://example.com/never-send-this-url",
     source: "Trusted Watch Source",
-    lang: "IT"
+    lang: "IT",
+    preview: "First-hand photos and specifications. https://example.com/tracking"
   })];
 
   const prompt = analysisPrompt(articles, new Date("2026-08-02T12:34:00.000Z"));
@@ -44,7 +57,9 @@ test("the batch contains titles, sources, languages, and no article URLs", () =>
   assert.match(prompt, /source: Trusted Watch Source/);
   assert.match(prompt, /language: it/);
   assert.match(prompt, /A precise watch headline/);
+  assert.match(prompt, /preview: First-hand photos and specifications\. \[link\]/);
   assert.doesNotMatch(prompt, /never-send-this-url/);
+  assert.doesNotMatch(prompt, /example\.com\/tracking/);
 });
 
 test("the prompt treats 60 as a scarce hourly notification slot", () => {
@@ -77,7 +92,7 @@ test("empty workflow price variables do not override gpt-5.4 pricing with zero",
   });
 });
 
-test("one title-only call scores, clusters, and chooses the main title", async () => {
+test("one analysis call scores, clusters, and chooses the main title without inflating quality", async () => {
   const articles = [
     article({
       title: "Coming Soon: Acme Diver",
@@ -128,7 +143,8 @@ test("one title-only call scores, clusters, and chooses the main title", async (
   assert.deepEqual(result.clusters[0].articleIDs, [mainID, teaserID]);
   assert.equal(result.scores[teaserID].notification, 65);
   assert.equal(result.scores[mainID].notification, 65);
-  assert.ok(result.scores[mainID].quality > result.scores[teaserID].quality);
+  assert.equal(result.scores[mainID].quality, 80);
+  assert.equal(result.scores[teaserID].quality, 90);
 });
 
 test("a clustering-only run retains scores and accepts an empty score response", async () => {
@@ -307,6 +323,84 @@ test("an established cluster id survives when a new duplicate is added", () => {
     "stable-story-id"
   ]);
   assert.deepEqual(articles.map((item) => item.cluster_main), [false, true, false]);
+});
+
+test("one surviving old member keeps the event id and prevents a late release alert", () => {
+  const earlier = article({
+    title: "Panerai Luminor 42mm launch",
+    url: "https://old.example/panerai",
+    published: "2026-09-22T13:00:00.000Z",
+    cluster: "original-panerai-event"
+  });
+  earlier.score_quality = 99;
+  earlier.score_notif = 54;
+  const later = article({
+    title: "New: Panerai Luminor 42mm PAM01710",
+    url: "https://new.example/panerai",
+    published: "2026-09-26T13:30:00.000Z"
+  });
+  later.cluster = singletonClusterID(later);
+  later.score_quality = 65;
+  later.score_notif = 63;
+  const articles = [earlier, later];
+  const history = historyFor(articles);
+  history.articles[earlier.url] = {
+    event_cluster_id: "original-panerai-event",
+    event_first_published_at: "2026-09-22T13:00:00.000Z"
+  };
+  const ids = articles.map((item) => compactArticleID(item.url));
+
+  applyClusterGroups(articles, [{
+    story: "Panerai Luminor 42mm",
+    mainArticleID: ids[1],
+    articleIDs: [ids[1], ids[0]]
+  }]);
+  normalizeEventNotifications(articles, new Date("2026-09-26T15:00:00.000Z"), history);
+
+  assert.deepEqual(articles.map((item) => item.cluster), [
+    "original-panerai-event", "original-panerai-event"
+  ]);
+  assert.deepEqual(articles.map((item) => history.articles[item.url].event_first_published_at), [
+    "2026-09-22T13:00:00.000Z", "2026-09-22T13:00:00.000Z"
+  ]);
+  assert.equal(Object.hasOwn(later, "event_first_published_at"), false);
+  assert.equal(later.score_notif, 59);
+  assert.equal(later.score_quality, 65);
+});
+
+test("a genuinely new event keeps its fresh notification score", () => {
+  const articleItem = article({
+    title: "A new Panerai development",
+    url: "https://new.example/development",
+    published: "2026-09-26T13:30:00.000Z"
+  });
+  articleItem.score_notif = 72;
+  const history = historyFor([articleItem]);
+  applyClusterGroups([articleItem], []);
+  normalizeEventNotifications([articleItem], new Date("2026-09-26T15:00:00.000Z"), history);
+
+  assert.equal(articleItem.score_notif, 72);
+  assert.equal(history.articles[articleItem.url].event_first_published_at, "2026-09-26T13:30:00.000Z");
+});
+
+test("splitting an incorrect old cluster gives a distinct story its own date", () => {
+  const articleItem = article({
+    title: "A separate announcement",
+    url: "https://new.example/separate",
+    published: "2026-09-26T13:30:00.000Z",
+    cluster: "incorrect-old-cluster"
+  });
+  articleItem.score_notif = 72;
+  const history = historyFor([articleItem]);
+  history.articles[articleItem.url] = {
+    event_cluster_id: "incorrect-old-cluster",
+    event_first_published_at: "2026-09-22T13:00:00.000Z"
+  };
+  applyClusterGroups([articleItem], []);
+  normalizeEventNotifications([articleItem], new Date("2026-09-26T15:00:00.000Z"), history);
+
+  assert.equal(articleItem.score_notif, 72);
+  assert.equal(history.articles[articleItem.url].event_first_published_at, "2026-09-26T13:30:00.000Z");
 });
 
 test("a member dropped from an inherited cluster does not become a second main", () => {

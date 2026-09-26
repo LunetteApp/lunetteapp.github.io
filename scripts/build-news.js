@@ -20,6 +20,7 @@ const {
 const {
   canonicalNewsURL,
   isScore,
+  normalizeEventNotifications,
   singletonClusterID,
   writeFileAtomically
 } = require("./news-utils");
@@ -146,6 +147,7 @@ async function main() {
       existingItemsByURL.get(canonicalNewsURL(item.url))
     );
   });
+  normalizeEventNotifications(newsItems, checkedAt, history);
 
   for (const article of newsItems) {
     const key = canonicalNewsURL(article.url);

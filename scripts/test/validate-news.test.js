@@ -44,3 +44,11 @@ test("validation requires exactly one explicit cluster main", () => {
     /exactly one cluster_main=true/
   );
 });
+
+test("validation rejects changes to the news article JSON structure", () => {
+  const { news, history } = fixture([true]);
+  news.items[0].event_first_published_at = "2026-08-02T12:00:00.000Z";
+  news.content_hash = contentHashForNews(news);
+
+  assert.throws(() => validateNews(news, history), /unexpected fields/);
+});

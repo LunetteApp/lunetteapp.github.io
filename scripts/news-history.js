@@ -56,6 +56,15 @@ function validateArticleHistory(history) {
     if (record.published_at !== null && !validISODate(record.published_at)) {
       throw new Error(`Article-history record has invalid published_at: ${canonicalURL}`);
     }
+    if (Object.hasOwn(record, "event_cluster_id")
+        && (typeof record.event_cluster_id !== "string" || !record.event_cluster_id.trim())) {
+      throw new Error(`Article-history record has invalid event_cluster_id: ${canonicalURL}`);
+    }
+    if (Object.hasOwn(record, "event_first_published_at")
+        && record.event_first_published_at !== null
+        && !validISODate(record.event_first_published_at)) {
+      throw new Error(`Article-history record has invalid event_first_published_at: ${canonicalURL}`);
+    }
     for (const flag of [
       "marketing",
       "scoring_pending",

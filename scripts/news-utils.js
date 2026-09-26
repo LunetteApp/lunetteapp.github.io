@@ -58,6 +58,44 @@ function isScore(value) {
     || (Number.isInteger(value) && value >= 0 && value <= 100);
 }
 
+// Keep event age in article history, not news.json. A later write-up cannot
+// create another notification window for the same event.
+function normalizeEventNotifications(articles, now, history, maxAgeHours = 24) {
+  const groups = new Map();
+  for (const article of articles) {
+    const key = article.cluster || canonicalNewsURL(article.url);
+    const members = groups.get(key) ?? [];
+    members.push(article);
+    groups.set(key, members);
+  }
+
+  const cutoff = now.getTime() - maxAgeHours * 60 * 60 * 1_000;
+  for (const [cluster, members] of groups) {
+    const timestamps = members.flatMap((article) => {
+      const record = history?.articles?.[canonicalNewsURL(article.url)];
+      return [
+        Date.parse(article.published_at || ""),
+        record?.event_cluster_id === cluster
+          ? Date.parse(record.event_first_published_at || "")
+          : NaN
+      ];
+    }).filter(Number.isFinite);
+    const firstPublished = timestamps.length > 0 ? Math.min(...timestamps) : null;
+    for (const article of members) {
+      const record = history?.articles?.[canonicalNewsURL(article.url)];
+      if (record) {
+        record.event_cluster_id = cluster;
+        record.event_first_published_at = firstPublished === null
+          ? null : new Date(firstPublished).toISOString();
+      }
+      if (firstPublished !== null && firstPublished < cutoff
+          && Number.isInteger(article.score_notif)) {
+        article.score_notif = Math.min(article.score_notif, 59);
+      }
+    }
+  }
+}
+
 function writeFileAtomically(filePath, content) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
   const temporaryPath = `${filePath}.${process.pid}.${Date.now()}.tmp`;
@@ -78,6 +116,7 @@ module.exports = {
   canonicalNewsURL,
   compactArticleID,
   isScore,
+  normalizeEventNotifications,
   singletonClusterID,
   writeFileAtomically
 };
