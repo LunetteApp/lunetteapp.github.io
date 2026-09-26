@@ -1,6 +1,6 @@
 {
-  "content_hash": "be448b05afea8e0ef87a3272a24de1e89b76e5f08d05e4e06bc548a887255ad3",
-  "last_updated": "2026-09-26T15:46:54.613Z",
+  "content_hash": "ccec5728c129d9b8a69ea7ee8d68665f7e782855386156072cf2b5614d9f6cf7",
+  "last_updated": "2026-09-26T16:47:11.115Z",
   "premium": {
     "links": []
   },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-26T07:01:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-26T16:00:18.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.8,
+      "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T17:00:00.000Z"
     },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T15:30:01.000Z"
     },
     {
@@ -1066,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:01:46.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -1094,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -1374,10 +1374,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T20:47:36.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1430,10 +1430,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:17:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1840,20 +1840,6 @@
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
       "cluster_main": false
-    },
-    {
-      "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
-      "url": "https://www.webchronos.net/news/173292/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/main.webp",
-      "peek_preview": "IWCは1886年にカール・ベンツが自動車の特許を取得してから、2026年で140周年となる節目をメルセデス・ベンツと共に祝うモデル、「ビッグ・パイロット・ウォッチ・パーペチュアル・カレンダー・プロセット “140イヤー […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-22T03:00:16.000Z",
-      "score_quality": 60,
-      "score_notif": 52,
-      "cluster": "20260922-9e20bd8c5447",
-      "cluster_main": true
     }
   ]
 }
