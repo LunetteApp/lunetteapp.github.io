@@ -1,6 +1,6 @@
 {
-  "content_hash": "93bac13a98b0ff681c8e10fd74719e0198eb0c5f310fd1c417be624046506564",
-  "last_updated": "2026-09-26T07:47:07.576Z",
+  "content_hash": "af5743327524b238b3a9f200f2e6c2f32d423f09a8755654543f9f4dd0a043e2",
+  "last_updated": "2026-09-26T08:46:42.065Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
+      "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T05:00:28.000Z"
     },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T16:10:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-26T08:35:28.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T07:01:13.000Z"
     },
     {
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T07:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Petrolhead Corner – The One-in-Four 1967 AAR Eagle MK I Gurney-Weslake Is Up For Sale",
+      "url": "https://monochrome-watches.com/the-petrolhead-corner-rm-sothebys-dan-gurney-all-american-racers-aar-eagle-mk-1-weslake-v12-auction/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Dan-Gurney-1967-AAR-Eagle-MK-I-Gurney-Weslake-V12-RM-Sothebys-Featured-600x237.jpg",
+      "peek_preview": "If you go through the history books of Formula 1, there are a million incredible stories to be discovered. On the driver’s side, icons like Schumacher, Senna, Prost, Moss and Fangio, as well as modern legends such as Ha...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-26T08:35:28.000Z",
+      "score_quality": 36,
+      "score_notif": 8,
+      "cluster": "20260926-4ac35a30d02f",
+      "cluster_main": true
+    },
     {
       "title": "LUM-TEC Combat B70 Automatic Red, White, & Blue American Sports Flight Watch Review",
       "url": "https://www.ablogtowatch.com/lum-tec-combat-b70-automatic-red-white-blue-american-sports-flight-watch-review/",
@@ -383,7 +397,7 @@
       "score_quality": 85,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Closer Look: The New Vacheron Constantin Overseas Perpetual Calendar Azure Blue",
@@ -912,10 +926,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:01:46.000Z",
-      "score_quality": 98,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -943,7 +957,7 @@
       "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -1310,20 +1324,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – Grönefeld Unveils the 1941 Quadrivium, The Brother’s new Remontoire Tourbillon Watch",
-      "url": "https://monochrome-watches.com/gronefeld-1941-quadrivium-remontoire-tourbillon-watch-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Gronefeld-1941-Quadrivium-Remontoire-Tourbillon-1-600x237.jpg",
-      "peek_preview": "Grönefeld, the Dutch independent watchmaking atelier created by Tim and Bart Grönefled, a.k.a. The Horological Brothers, should need little introduction by now. The duo gained recognition from their peers and collectors...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T14:01:01.000Z",
-      "score_quality": 99,
-      "score_notif": 57,
-      "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
-    },
-    {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
       "url": "https://deployant.com/new-release-the-grand-seiko-elegance-sbgw325/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-the-grand-seiko-elegance-sbgw325",
       "image": "https://deployant.com/wp-content/uploads/2026/09/SBGW325_dial-deployant.jpeg",
@@ -1475,7 +1475,7 @@
       "score_quality": 79,
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWCがF1シンガポールグランプリ開催を記念する「パイロット・ウォッチ・クロノグラフ 41 “Mercedes-AMG PETRONAS Formula One Team”」を発表",
@@ -1682,10 +1682,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-22T08:00:00.000Z",
-      "score_quality": 64,
+      "score_quality": 80,
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: MeisterSinger NL Edition Tulip",
@@ -1738,10 +1738,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T04:03:12.000Z",
-      "score_quality": 84,
+      "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
