@@ -1,6 +1,6 @@
 {
-  "content_hash": "af5743327524b238b3a9f200f2e6c2f32d423f09a8755654543f9f4dd0a043e2",
-  "last_updated": "2026-09-26T08:46:42.065Z",
+  "content_hash": "d24459d98f97bbe8e71d84d4430abdba946d8a74002a33213966309320b5bee0",
+  "last_updated": "2026-09-26T11:47:50.814Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-26T05:00:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-26T11:00:00.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T08:35:28.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T16:05:46.000Z"
+      "estimated_articles_per_day": 2.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-26T11:01:09.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Breitling’s New CEO Just Revealed Their 5-Year Plan | House of Brands Ep. 1",
+      "url": "https://timeandtidewatches.com/breitlings-new-ceo-just-revealed-their-5-year-plan-house-of-brands-ep-1-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/breitling-house-of-brands-ep-1-feature-image.jpg",
+      "peek_preview": "Russele sat down with Georges Kern and newly installed Breitling CEO Jean-Marc Pontroué to discuss the future of the brand. The post Breitling’s New CEO Just Revealed Their 5-Year Plan | House of Brands Ep. 1 appeared f...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-26T11:01:09.000Z",
+      "score_quality": 77,
+      "score_notif": 50,
+      "cluster": "20260926-be0db44747a0",
+      "cluster_main": true
+    },
+    {
+      "title": "Taking The The Atelier Wen × Massena Lab Inflection Shuò For A Spin",
+      "url": "https://www.fratellowatches.com/taking-the-the-atelier-wen-x-massena-lab-inflection-shuo-for-a-spin/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Atelier-Wen-Inflection-Massena-Collab.jpg",
+      "peek_preview": "I first handled the original Atelier Wen Inflection last year. Its full-tantalum construction was impressive due to the difficulty of working with the material. Plus, the weight was memorable. Last month, the brand anno...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-26T11:00:00.000Z",
+      "score_quality": 74,
+      "score_notif": 16,
+      "cluster": "20260926-f66f7b49067b",
+      "cluster_main": true
+    },
     {
       "title": "The Petrolhead Corner – The One-in-Four 1967 AAR Eagle MK I Gurney-Weslake Is Up For Sale",
       "url": "https://monochrome-watches.com/the-petrolhead-corner-rm-sothebys-dan-gurney-all-american-racers-aar-eagle-mk-1-weslake-v12-auction/",
@@ -394,10 +422,10 @@
       "lang": "it",
       "featured": false,
       "published_at": "2026-09-25T15:22:34.000Z",
-      "score_quality": 85,
+      "score_quality": 87,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Closer Look: The New Vacheron Constantin Overseas Perpetual Calendar Azure Blue",
@@ -926,10 +954,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:01:46.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -954,10 +982,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:00:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -999,7 +1027,7 @@
       "score_quality": 95,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -1038,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T08:00:00.000Z",
-      "score_quality": 94,
+      "score_quality": 96,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -1184,20 +1212,6 @@
       "cluster_main": true
     },
     {
-      "title": "Fratello Talks: If We Could Only Keep One Watch From Our Collection",
-      "url": "https://www.fratellowatches.com/fratello-talks-if-we-could-only-keep-one-watch-from-our-collection/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Thomas-watch-teaser-9.jpg",
-      "peek_preview": "What if you had to choose just one watch from your entire collection and let everything else go? No backups, no rotation, and no keeping that one watch you rarely wear “just in case.” In this episode of Fratello Talks,...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T04:00:17.000Z",
-      "score_quality": 34,
-      "score_notif": 8,
-      "cluster": "20260924-dbab29174aca",
-      "cluster_main": true
-    },
-    {
       "title": "G-SHOCK「MASTER OF G」に、黄金の地平線を表現した新色「MASTER IN HORIZON GOLD」が追加",
       "url": "https://www.webchronos.net/news/173094/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/09/GSC_ho_1.webp",
@@ -1248,10 +1262,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T20:47:36.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1318,10 +1332,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T14:17:00.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1472,10 +1486,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-23T01:00:41.000Z",
-      "score_quality": 79,
+      "score_quality": 81,
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWCがF1シンガポールグランプリ開催を記念する「パイロット・ウォッチ・クロノグラフ 41 “Mercedes-AMG PETRONAS Formula One Team”」を発表",
@@ -1530,8 +1544,8 @@
       "published_at": "2026-09-22T19:00:22.000Z",
       "score_quality": 75,
       "score_notif": 52,
-      "cluster": "20260921-ff50a2b6f4e7",
-      "cluster_main": false
+      "cluster": "20260922-7dd248187566",
+      "cluster_main": true
     },
     {
       "title": "Insider: Maison Alcée x MB&F Nostromo—The CHF 12,000 Clock You Assemble Yourself",
@@ -1685,7 +1699,7 @@
       "score_quality": 80,
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: MeisterSinger NL Edition Tulip",
@@ -1741,7 +1755,7 @@
       "score_quality": 86,
       "score_notif": 64,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
@@ -1839,20 +1853,6 @@
       "score_quality": 56,
       "score_notif": 22,
       "cluster": "20260921-b393af01760c",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Girard-Perregaux Laureato Williams Editions—Pure Purpose, Two Ways",
-      "url": "https://www.watchcollectinglifestyle.com/home/girard-perregaux-laureato-f1-williams-editions",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790006065049-UMZ76SYIEPUEY8I24QJL/Girard-Perregaux+Laureato+Chronograph+Williams+F1+Team.jpg?format=1500w",
-      "peek_preview": "Girard-Perregaux and the Atlassian Williams F1 Team have unveiled the first fruits of their new partnership: the Laureato Williams Edition 42 mm and the Laureato Chronograph Williams Edition 42 mm. The pairing is less a...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-21T16:02:21.000Z",
-      "score_quality": 76,
-      "score_notif": 52,
-      "cluster": "20260921-ff50a2b6f4e7",
       "cluster_main": true
     }
   ]
