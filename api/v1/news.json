@@ -1,6 +1,6 @@
 {
-  "content_hash": "27f62f5b8383616d48846ad9e2c873c1c6a3612998aca1930a58173380bd2bfd",
-  "last_updated": "2026-09-26T14:47:15.289Z",
+  "content_hash": "be448b05afea8e0ef87a3272a24de1e89b76e5f08d05e4e06bc548a887255ad3",
+  "last_updated": "2026-09-26T15:46:54.613Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T14:00:59.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T14:00:47.000Z"
     },
     {
@@ -57,8 +57,8 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T13:30:00.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-26T11:01:09.000Z"
+      "estimated_articles_per_day": 2.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-26T15:30:01.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New releases from Frederique Constant, Panerai, Vacheron Constantin and more",
+      "url": "https://timeandtidewatches.com/gronefeld-panerai-vacheron-constantin-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-heron-continental-2.jpg",
+      "peek_preview": "This week is all about blue dials: when something works so well it’s hard to change it, but it’s even harder to bring something new to the mix. Frederique Constant reimagines its rectangular model in a Canadian tuxedo,...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-26T15:30:01.000Z",
+      "score_quality": 32,
+      "score_notif": 15,
+      "cluster": "20260926-9b63ca6db7bf",
+      "cluster_main": true
+    },
     {
       "title": "Watches, Stories, & Gear: A New Chuck Klosterman Book, A Gorilla-Shaped Pencil Sharpener, and the Dumb Phone Argument Continues",
       "url": "https://wornandwound.com/watches-stories-gear-a-new-chuck-klosterman-book-a-gorilla-shaped-pencil-sharpener-and-the-dumb-phone-argument-continues/",
@@ -355,7 +369,7 @@
       "score_quality": 67,
       "score_notif": 31,
       "cluster": "20260922-139d8c769747",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weirdos Or Class Acts? Introducing The Ulysse Nardin Freak One Blue Enamel And Guilloché",
@@ -1052,10 +1066,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:01:46.000Z",
-      "score_quality": 99,
+      "score_quality": 100,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -1080,10 +1094,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-24T10:00:00.000Z",
-      "score_quality": 100,
+      "score_quality": 99,
       "score_notif": 64,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -1780,10 +1794,10 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-09-22T07:30:00.000Z",
-      "score_quality": 66,
+      "score_quality": 68,
       "score_notif": 31,
       "cluster": "20260922-139d8c769747",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Sub Seconds: Diving With The Doxa SUB 200 T-Graph II",
@@ -1839,20 +1853,6 @@
       "score_quality": 60,
       "score_notif": 52,
       "cluster": "20260922-9e20bd8c5447",
-      "cluster_main": true
-    },
-    {
-      "title": "Insight: Screw-Down Showdown",
-      "url": "https://watchesbysjx.com/2026/09/insight-watch-crowns-water-resistance.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2024/09/rolex-deepsea-challenge-triplock-crown-rlx-titanium-300x195.jpg",
-      "peek_preview": "Mechanical movements attract most of the technical interest in watchmaking, but considerable engineering also goes into keeping them dry. For an everyday watch, the waterproof construction of the case and crown is centr...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T01:00:57.000Z",
-      "score_quality": 64,
-      "score_notif": 15,
-      "cluster": "20260922-0f3dd3c12299",
       "cluster_main": true
     }
   ]
