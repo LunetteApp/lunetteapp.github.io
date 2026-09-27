@@ -1,6 +1,6 @@
 {
-  "content_hash": "3410ffd36707fd091a9fa71e7bf8fce5d5d8a56ca1438fa476737a2e0bcf51eb",
-  "last_updated": "2026-09-27T09:47:04.475Z",
+  "content_hash": "e1996e871a00e4fb2767da84894cfa32c9816b8f454e92562f28ae6385a68ec6",
+  "last_updated": "2026-09-27T11:47:03.618Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-27T09:00:08.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-27T09:35:10.000Z"
     },
     {
@@ -37,8 +37,8 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T11:20:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-27T11:29:58.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T17:47:28.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-27T10:55:56.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "13 vintage details I never stop thinking about | Sunday Edition",
+      "url": "https://www.unpolishedwatches.com/p/13-vintage-details-i-never-stop-thinking",
+      "image": "https://substackcdn.com/image/fetch/$s_!yWw2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98701029-53ce-4122-aa28-7c7ffe93f61c_2048x2048.jpeg",
+      "peek_preview": "Tiny pyramids, a parking emoji, and the best ‘script’ ever put on a dial.",
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-27T11:29:58.000Z",
+      "score_quality": 65,
+      "score_notif": 6,
+      "cluster": "20260927-96cf078ad80b",
+      "cluster_main": true
+    },
+    {
+      "title": "Montblanc Star Legacy Nicolas Rieussec Edition 100 Limited Edition: Der Chronograph schreibt wieder Geschichte",
+      "url": "https://www.uhrenkosmos.com/montblanc-star-legacy-nicolas-rieussec-edition/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Montblanc-Star-Legacy-Nicolas-Rieussec-Chronograph-LE-100-Aufmacher.jpg",
+      "peek_preview": "Die neue, auf 100 Exemplare limitierte Montblanc Star Legacy Nicolas Rieussec Edition des Chronographen bringt Roségold, Manufakturtechnik und leuchtende Dokumente aus dem Jahr 1821 ans Handgelenk.",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-09-27T10:55:56.000Z",
+      "score_quality": 74,
+      "score_notif": 44,
+      "cluster": "20260927-d5e57eeffcd8",
+      "cluster_main": true
+    },
     {
       "title": "Buying Guide – Six Classy Dress Watches, With A Twist",
       "url": "https://monochrome-watches.com/buying-guide-dress-watches-frederique-constant-alexandre-martin-venezianico-marcu-kiwame-tokyo-berneron-specs-price/",
@@ -1027,7 +1055,7 @@
       "score_quality": 92,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -1307,7 +1335,7 @@
       "score_quality": 87,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -1391,7 +1419,7 @@
       "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1447,7 +1475,7 @@
       "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1825,34 +1853,6 @@
       "score_quality": 72,
       "score_notif": 24,
       "cluster": "20260922-605275d55a8f",
-      "cluster_main": true
-    },
-    {
-      "title": "Christopher Ward C63 Sealander Chronograph : 5 chronos mécaniques après 6 ans d’absence",
-      "url": "https://www.welovewatches.fr/christopher-ward-c63-sealander-chronograph-5-chronos-mecaniques-apres-6-ans-dabsence.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/christopher_ward_c63-41-une.jpg",
-      "peek_preview": "Christopher Ward n’avait plus lancé de chronographe mécanique de série depuis les C60 et C65 Chronograph de 2020. Six ans plus tard, la marque britannique revient à cette complication avec le C63 Sealander Chronograph,...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-22T06:25:00.000Z",
-      "score_quality": 68,
-      "score_notif": 43,
-      "cluster": "20260922-0aaee9ff9c99",
-      "cluster_main": true
-    },
-    {
-      "title": "Sotheby’s Sets Record Price for Cartier and Quartz",
-      "url": "https://watchesbysjx.com/2026/09/sothebys-hong-kong-cartier-cheich-white-gold.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/cartier-cheich-white-gold-sothebys-hong-kong-2-300x200.jpg",
-      "peek_preview": "The Cartier Cheich is one of the jeweller’s most unusual, and rarest, creations. Originally conceived as a prize for winners of the Dakar Rally during the years when the race was sponsored by Cartier, the Cheich was mod...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T04:03:12.000Z",
-      "score_quality": 86,
-      "score_notif": 59,
-      "cluster": "20260922-d8c1333cfb2e",
       "cluster_main": true
     }
   ]
