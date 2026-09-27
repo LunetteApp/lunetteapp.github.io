@@ -1,6 +1,6 @@
 {
-  "content_hash": "77f23d7ac35608f8c5ffc4cc757d3e63dc3a279adbdb66270324aba08c0e8f53",
-  "last_updated": "2026-09-27T03:47:17.984Z",
+  "content_hash": "43671a5f147cde3395d353d1e1df8a79779e5b08ae24c512e6515750abea592e",
+  "last_updated": "2026-09-27T05:46:42.496Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-26T11:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-27T05:00:54.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-27T03:00:41.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Sunday Morning Showdown: Hamilton Khaki Field Murph 38mm Vs. Seiko Prospex Alpinist",
+      "url": "https://www.fratellowatches.com/sunday-morning-showdown-hamilton-khaki-field-murph-38mm-vs-seiko-prospex-alpinist/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/HEADER-Hamilton_Khaki_Field_Murph-Seiko-Prospex-Alpinist-145th-Anniversary-HBC006-8.jpg",
+      "peek_preview": "It’s another Sunday morning, so it’s time for a hot cup of coffee and a heated watch battle. This week, Daan is back, and he takes on Jorg once more in a clash of two cult favorites. Daan’s pick is the recently released...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-27T05:00:54.000Z",
+      "score_quality": 32,
+      "score_notif": 8,
+      "cluster": "20260927-8ad9754b0f34",
+      "cluster_main": true
+    },
     {
       "title": "クロノトウキョウがサックスブルーで彩った「Calendrier Small Batch Release」を発表！",
       "url": "https://www.webchronos.net/news/173757/",
@@ -859,7 +873,7 @@
       "score_quality": 78,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Backes & Strauss Partners With Tennis Player Elina Avanesyan For An Upcoming Special Watch Collection",
@@ -943,7 +957,7 @@
       "score_quality": 92,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -1237,7 +1251,7 @@
       "score_quality": 72,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin Azure Blue—Celebrating the 30th Anniversary of the Overseas",
@@ -1251,7 +1265,7 @@
       "score_quality": 87,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -1280,20 +1294,6 @@
       "score_notif": 57,
       "cluster": "20260917-83a40dea703f",
       "cluster_main": false
-    },
-    {
-      "title": "Flieger Or Dresser: Which Glashütte Original Senator Chronograph Suits Your Style?",
-      "url": "https://www.fratellowatches.com/hands-on-glashutte-original-senator-chronograph/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Glashutte-Original-Senator-Chronograph-Navigator-2026-1001044.jpg",
-      "peek_preview": "Just before summer, Glashütte Original invited us to its manufacture in eastern Germany. It was a great way for me to get to know the brand a little better. But the most important reason for the visit was the presentati...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T05:00:42.000Z",
-      "score_quality": 48,
-      "score_notif": 10,
-      "cluster": "20260924-a2c0f6989e80",
-      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MASTER OF G」に、黄金の地平線を表現した新色「MASTER IN HORIZON GOLD」が追加",
@@ -1349,7 +1349,7 @@
       "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1405,7 +1405,7 @@
       "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
