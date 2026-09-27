@@ -1,6 +1,6 @@
 {
-  "content_hash": "e1996e871a00e4fb2767da84894cfa32c9816b8f454e92562f28ae6385a68ec6",
-  "last_updated": "2026-09-27T11:47:03.618Z",
+  "content_hash": "4e0899477610859952fa698f0ad9084c3473b18d3da234b4ee903d9b81521c36",
+  "last_updated": "2026-09-27T13:47:45.986Z",
   "premium": {
     "links": []
   },
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-27T11:29:58.000Z"
     },
     {
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-26T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-27T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -113,7 +113,7 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T07:00:00.000Z"
     },
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-27T10:55:56.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New: Lang & Heyne Friedrich III Power Reserve (Sept 2026)",
+      "url": "https://deployant.com/new-lang-heyne-friedrich-iii-power-reserve-sept-2026/?utm_source=rss&utm_medium=rss&utm_campaign=new-lang-heyne-friedrich-iii-power-reserve-sept-2026",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/LangHeyne_FriedrichIII-PWR_Image_lowRes-1600-Large.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Lang & Heyne marks their 25th anniversary with a new interpretation of their Friedrich, now version III with a power reserve display. Our commentary in italic...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-27T13:30:00.000Z",
+      "score_quality": 70,
+      "score_notif": 44,
+      "cluster": "20260927-0134cf9ceaa1",
+      "cluster_main": true
+    },
     {
       "title": "13 vintage details I never stop thinking about | Sunday Edition",
       "url": "https://www.unpolishedwatches.com/p/13-vintage-details-i-never-stop-thinking",
@@ -509,7 +523,7 @@
       "score_quality": 67,
       "score_notif": 31,
       "cluster": "20260922-139d8c769747",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weirdos Or Class Acts? Introducing The Ulysse Nardin Freak One Blue Enamel And Guilloché",
@@ -1167,7 +1181,7 @@
       "score_quality": 99,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -1195,7 +1209,7 @@
       "score_quality": 100,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -1237,7 +1251,7 @@
       "score_quality": 97,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -1279,7 +1293,7 @@
       "score_quality": 98,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -1839,21 +1853,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20260922-139d8c769747",
-      "cluster_main": true
-    },
-    {
-      "title": "Sub Seconds: Diving With The Doxa SUB 200 T-Graph II",
-      "url": "https://www.ablogtowatch.com/sub-seconds-diving-with-the-doxa-sub-200-t-graph-ii/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Doxa-SUB-200-T-GRAPH-2-JVB-2-768x614.jpg",
-      "peek_preview": "The go-anywhere, do-anything (GADA) watch is a byword in enthusiast watch culture, the Platonic ideal of a one-and-done watch collection. It’s at home in any situation, from poolside to boardroom, and whatever other cli...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T07:01:00.000Z",
-      "score_quality": 72,
-      "score_notif": 24,
-      "cluster": "20260922-605275d55a8f",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
