@@ -1,6 +1,6 @@
 {
-  "content_hash": "4e0899477610859952fa698f0ad9084c3473b18d3da234b4ee903d9b81521c36",
-  "last_updated": "2026-09-27T13:47:45.986Z",
+  "content_hash": "10182b3a6383168b75506fa46e8d380bf97da7869c88def423e01da6d9ca87d5",
+  "last_updated": "2026-09-27T18:47:27.649Z",
   "premium": {
     "links": []
   },
@@ -15,14 +15,14 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T14:00:59.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4.2,
+      "estimated_articles_per_day": 4.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-27T09:35:10.000Z"
     },
@@ -58,13 +58,13 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-27T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-25T17:00:00.000Z"
     },
@@ -134,14 +134,14 @@
     {
       "source_name": "Le Calibre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-24T08:05:23.000Z"
+      "estimated_articles_per_day": 0.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-27T18:19:42.000Z"
     },
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-27T10:55:56.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Gravitymaster GWR-B3000 : La plus fiable des montres de pilote ?",
+      "url": "https://www.lecalibre.com/g-shock-gravitymaster-gwr-b3000/?utm_source=rss&utm_medium=rss&utm_campaign=g-shock-gravitymaster-gwr-b3000",
+      "image": "https://www.lecalibre.com/wp-content/uploads/2026/09/casio-g-shock-gravitymaster-gwr-b3000-bleu-1024x768.png",
+      "peek_preview": "Avec sa nouvelle Gravitymaster GWR-B3000, G-Shock propose une montre qui vient clairement affirmer son caractère. Imposante, ultra technique et pensée pour l’aviation, elle embarque surtout un nouveau module quartz qui...",
+      "source_name": "Le Calibre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-27T18:19:42.000Z",
+      "score_quality": 56,
+      "score_notif": 38,
+      "cluster": "20260927-f4b4651a57d1",
+      "cluster_main": true
+    },
     {
       "title": "New: Lang & Heyne Friedrich III Power Reserve (Sept 2026)",
       "url": "https://deployant.com/new-lang-heyne-friedrich-iii-power-reserve-sept-2026/?utm_source=rss&utm_medium=rss&utm_campaign=new-lang-heyne-friedrich-iii-power-reserve-sept-2026",
@@ -470,20 +484,6 @@
       "cluster_main": true
     },
     {
-      "title": "The Petrolhead Corner – The One-in-Four 1967 AAR Eagle MK I Gurney-Weslake Is Up For Sale",
-      "url": "https://monochrome-watches.com/the-petrolhead-corner-rm-sothebys-dan-gurney-all-american-racers-aar-eagle-mk-1-weslake-v12-auction/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Dan-Gurney-1967-AAR-Eagle-MK-I-Gurney-Weslake-V12-RM-Sothebys-Featured-600x237.jpg",
-      "peek_preview": "If you go through the history books of Formula 1, there are a million incredible stories to be discovered. On the driver’s side, icons like Schumacher, Senna, Prost, Moss and Fangio, as well as modern legends such as Ha...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-26T08:35:28.000Z",
-      "score_quality": 36,
-      "score_notif": 8,
-      "cluster": "20260926-4ac35a30d02f",
-      "cluster_main": true
-    },
-    {
       "title": "LUM-TEC Combat B70 Automatic Red, White, & Blue American Sports Flight Watch Review",
       "url": "https://www.ablogtowatch.com/lum-tec-combat-b70-automatic-red-white-blue-american-sports-flight-watch-review/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/LUM-TEC-Combat-B70-Automatic-watch-3-768x346.jpg",
@@ -522,7 +522,7 @@
       "published_at": "2026-09-26T05:30:00.000Z",
       "score_quality": 67,
       "score_notif": 31,
-      "cluster": "20260922-139d8c769747",
+      "cluster": "20260926-64abeed82235",
       "cluster_main": true
     },
     {
@@ -946,20 +946,6 @@
       "cluster_main": true
     },
     {
-      "title": "Edward R. Murrow’s Gold Bulova Chronograph Hits the Auction Block Next Month",
-      "url": "https://wornandwound.com/edward-r-murrows-gold-bulova-chronograph-hits-the-auction-block-next-month/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Edward-R-Murrow-Bulova-Auction-1.jpg",
-      "peek_preview": "There are rare occasions in this line of work when you encounter real history that resonates with you. I’ve been fortunate enough through the years to handle a number of important vintage watches, owned by notable peopl...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T19:00:32.000Z",
-      "score_quality": 68,
-      "score_notif": 22,
-      "cluster": "20260924-f8de997df36e",
-      "cluster_main": true
-    },
-    {
       "title": "Vacheron Constantin Overseas Ewiger Kalender Edition extra-flach: Zum 30. Geburtstag gibt es Azurblau",
       "url": "https://www.uhrenkosmos.com/vacheron-constantin-overseas-ewiger-kalender-30/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Flachbau-Vacheron-Constantin-Overseas-Ewiger-Kalender-Edition-extra-flach-30.-Jahre-Overseas.jpg",
@@ -1069,7 +1055,7 @@
       "score_quality": 92,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -1181,7 +1167,7 @@
       "score_quality": 99,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -1209,7 +1195,7 @@
       "score_quality": 100,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -1251,7 +1237,7 @@
       "score_quality": 97,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -1293,7 +1279,7 @@
       "score_quality": 98,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
@@ -1349,7 +1335,7 @@
       "score_quality": 87,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -1433,7 +1419,7 @@
       "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1489,7 +1475,7 @@
       "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1839,20 +1825,6 @@
       "score_quality": 80,
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": false
-    },
-    {
-      "title": "New: MeisterSinger NL Edition Tulip",
-      "url": "https://deployant.com/new-meistersinger-nl-edition-tulip/?utm_source=rss&utm_medium=rss&utm_campaign=new-meistersinger-nl-edition-tulip",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/MeisterSinger_ED-NL26_Still_Portrait_for-Deployant.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors MeisterSinger, the one hand watch specialist releases their annual edition for the Dutch market. This novelty has a stylised Tulip on the dial. Priced at just...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T07:30:00.000Z",
-      "score_quality": 68,
-      "score_notif": 31,
-      "cluster": "20260922-139d8c769747",
       "cluster_main": false
     }
   ]
