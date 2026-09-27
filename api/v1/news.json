@@ -1,6 +1,6 @@
 {
-  "content_hash": "8012ccc2597bb86fa12794b37ddd854c721cbc642508206f504498fc7ade50a4",
-  "last_updated": "2026-09-27T01:46:54.293Z",
+  "content_hash": "77f23d7ac35608f8c5ffc4cc757d3e63dc3a279adbdb66270324aba08c0e8f53",
+  "last_updated": "2026-09-27T03:47:17.984Z",
   "premium": {
     "links": []
   },
@@ -163,18 +163,32 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-27T00:00:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-27T03:00:41.000Z"
     },
     {
       "source_name": "GMT Korea",
       "lang": "ko",
-      "estimated_articles_per_day": 0.3,
+      "estimated_articles_per_day": 0.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T13:10:52.000Z"
     }
   ],
   "items": [
+    {
+      "title": "クロノトウキョウがサックスブルーで彩った「Calendrier Small Batch Release」を発表！",
+      "url": "https://www.webchronos.net/news/173757/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/kurono_sax_1.webp",
+      "peek_preview": "クロノトウキョウはトリプルカレンダーを搭載した「Calendrier Small Batch Release（SBR）」を発表した。本作は、独立時計師・浅岡肇が温めていたサックスブルーのダイアルに、電鋳によるアプライドイ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-27T03:00:41.000Z",
+      "score_quality": 74,
+      "score_notif": 43,
+      "cluster": "20260927-282807bfa697",
+      "cluster_main": true
+    },
     {
       "title": "オメガ「スピードマスター 38」がアップデート。 よりムーンウォッチ然とした新作7モデルが登場",
       "url": "https://www.webchronos.net/news/170565/",
@@ -1335,7 +1349,7 @@
       "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1391,7 +1405,7 @@
       "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1545,7 +1559,7 @@
       "score_quality": 81,
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "IWCがF1シンガポールグランプリ開催を記念する「パイロット・ウォッチ・クロノグラフ 41 “Mercedes-AMG PETRONAS Formula One Team”」を発表",
@@ -1741,7 +1755,7 @@
       "score_quality": 80,
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: MeisterSinger NL Edition Tulip",
@@ -1797,20 +1811,6 @@
       "score_quality": 86,
       "score_notif": 59,
       "cluster": "20260922-d8c1333cfb2e",
-      "cluster_main": true
-    },
-    {
-      "title": "IWCより、自動車の誕生140周年をメルセデス・ベンツと祝う「ビッグ・パイロット・ウォッチ」が登場",
-      "url": "https://www.webchronos.net/news/173292/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/main.webp",
-      "peek_preview": "IWCは1886年にカール・ベンツが自動車の特許を取得してから、2026年で140周年となる節目をメルセデス・ベンツと共に祝うモデル、「ビッグ・パイロット・ウォッチ・パーペチュアル・カレンダー・プロセット “140イヤー […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-22T03:00:16.000Z",
-      "score_quality": 58,
-      "score_notif": 27,
-      "cluster": "20260922-9e20bd8c5447",
       "cluster_main": true
     },
     {
