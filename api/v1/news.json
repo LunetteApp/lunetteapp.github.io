@@ -1,6 +1,6 @@
 {
-  "content_hash": "cc5fc70f6a0d5f9d0597710b4172fdd48da4741aa20f47f49ff7555086e0608c",
-  "last_updated": "2026-09-26T22:24:47.821Z",
+  "content_hash": "a3a6581471f6982cbf19fac0f869e37a9fe42ef69d893ecd67ec56899b7cf6b5",
+  "last_updated": "2026-09-27T00:47:21.281Z",
   "premium": {
     "links": []
   },
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.8,
+      "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T15:30:01.000Z"
     },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-26T03:00:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-27T00:00:38.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "オメガ「スピードマスター 38」がアップデート。 よりムーンウォッチ然とした新作7モデルが登場",
+      "url": "https://www.webchronos.net/news/170565/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/OM_sm_1.webp",
+      "peek_preview": "オメガは、38mm径ケースを持つ「スピードマスター 38」コレクションに、新たな7つのモデルを追加した。これらの新作では、細部にわたるブラッシュアップが施されたほか、王道の“ムーンウォッチ”を彷彿とさせるディテールが随所 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-27T00:00:38.000Z",
+      "score_quality": 78,
+      "score_notif": 64,
+      "cluster": "20260927-9da6d5719514",
+      "cluster_main": true
+    },
     {
       "title": "New releases from Frederique Constant, Panerai, Vacheron Constantin and more",
       "url": "https://timeandtidewatches.com/gronefeld-panerai-vacheron-constantin-last-week-in-watches/",
@@ -383,7 +397,7 @@
       "score_quality": 78,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "デルマがムオニオナルスタ隕石ダイアルを採用した限定モデル、「ミッドランド メテオライト」を発表",
@@ -426,20 +440,6 @@
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
       "cluster_main": false
-    },
-    {
-      "title": "eBay Finds: a Wild LED Watch with a Great Name, an Unusual Favre-Leuba, Classic Seiko, and More",
-      "url": "https://wornandwound.com/ebay-finds-a-wild-led-watch-with-a-great-name-an-unusual-favre-leuba-classic-seiko-and-more/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/eBay-Finds-9-25-26-4.jpg",
-      "peek_preview": "eBay Finds is back! This bi-weekly installment will feature a selection of watches currently listed on eBay that have caught the eye of editor Christoph McNeil (@vintagediver). If you come across any hidden gems on the...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T20:00:56.000Z",
-      "score_quality": 30,
-      "score_notif": 8,
-      "cluster": "20260925-a101661b89f8",
-      "cluster_main": true
     },
     {
       "title": "Sinn Watches: How This German Brand Makes The Toughest Tool Watches In The Business",
@@ -538,20 +538,6 @@
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
       "cluster_main": false
-    },
-    {
-      "title": "Bring a Loupe: An Omega Ranchero, A Cartier Santos Ghost, An Audemars Piguet Perpetual Calendar, And A ZRC Grands Fonds",
-      "url": "https://www.hodinkee.com/articles/an-omega-ranchero-a-cartier-santos-ghost-an-audemars-piguet-perpetual-calendar-and-a-zrc-grands-fron",
-      "image": "https://hodinkee.imgix.net/uploads/images/51f6d79f-10cf-46dc-b346-0e5eff9dfbea/BringALoupe25.png?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T15:00:00.000Z",
-      "score_quality": 43,
-      "score_notif": 12,
-      "cluster": "20260925-ea84f057ce0b",
-      "cluster_main": true
     },
     {
       "title": "Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria",
@@ -803,7 +789,7 @@
       "score_quality": 79,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -859,7 +845,7 @@
       "score_quality": 78,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Backes & Strauss Partners With Tennis Player Elina Avanesyan For An Upcoming Special Watch Collection",
@@ -943,7 +929,7 @@
       "score_quality": 92,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -1055,7 +1041,7 @@
       "score_quality": 99,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -1083,7 +1069,7 @@
       "score_quality": 100,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Makina Azazel_I Outgrows Local Time And Adds A GMT Complication",
@@ -1184,20 +1170,6 @@
       "cluster_main": false
     },
     {
-      "title": "Audemars Piguet Brings Padel to Singapore",
-      "url": "https://watchesbysjx.com/2026/09/audemars-piguet-padel-singapore.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Audemars-Piguet-Padel-singapore-1-300x200.jpg",
-      "peek_preview": "Audemars Piguet is hosting a Padel Pop-Up Club starting September 25, marking the brand’s first local event tied to its involvement in the sport. Held in the School Hall of New Bahru, a fashionable “lifestyle destinatio...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T07:35:32.000Z",
-      "score_quality": 46,
-      "score_notif": 18,
-      "cluster": "20260924-50b221d17898",
-      "cluster_main": true
-    },
-    {
       "title": "First Look – Vacheron Constantin Celebrates 30 Years of Overseas Special Edition Perpetual Calendar Ultra-Thin",
       "url": "https://monochrome-watches.com/vacheron-constantin-celebrates-30-years-of-overseas-special-edition-perpetual-calendar-ultra-thin/",
       "image": "https://monochrome-watches.com/app/uploads/2026/09/Vacheron-Constantin-Overseas-Perpetual-Calendar-Ultra-Thin-30th-Anniversary-Azure-Blue-White-Gold-review-2-600x237.jpg",
@@ -1251,7 +1223,7 @@
       "score_quality": 72,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin Azure Blue—Celebrating the 30th Anniversary of the Overseas",
@@ -1265,7 +1237,7 @@
       "score_quality": 87,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -1839,20 +1811,6 @@
       "score_quality": 58,
       "score_notif": 27,
       "cluster": "20260922-9e20bd8c5447",
-      "cluster_main": true
-    },
-    {
-      "title": "Insight: Screw-Down Showdown",
-      "url": "https://watchesbysjx.com/2026/09/insight-watch-crowns-water-resistance.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2024/09/rolex-deepsea-challenge-triplock-crown-rlx-titanium-300x195.jpg",
-      "peek_preview": "Mechanical movements attract most of the technical interest in watchmaking, but considerable engineering also goes into keeping them dry. For an everyday watch, the waterproof construction of the case and crown is centr...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T01:00:57.000Z",
-      "score_quality": 58,
-      "score_notif": 10,
-      "cluster": "20260922-0f3dd3c12299",
       "cluster_main": true
     }
   ]
