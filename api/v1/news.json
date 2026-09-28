@@ -1,6 +1,6 @@
 {
-  "content_hash": "7f33efc83d9de7ead0a76a15129355750f36cc8fe4b3d3b6aed228ce504fba23",
-  "last_updated": "2026-09-28T17:47:19.328Z",
+  "content_hash": "6d91900e8fe23a3c86e75cddbebdf4d14b1d114557cef3a78ac62fe35be4a655",
+  "last_updated": "2026-09-28T19:46:57.607Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T14:00:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-28T19:00:35.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T17:14:50.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T17:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "A Majestic Journey Through Clocks & Watches Made for Royalty: The Victorian Age of Time – Queen Victoria and the Watchmaking Revolution",
+      "url": "https://wornandwound.com/a-majestic-journey-through-clocks-watches-made-for-royalty-the-victorian-age-of-time-queen-victoria-and-the-watchmaking-revolution/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Patekpendant.jpg",
+      "peek_preview": "From the imposing astronomical clocks of Tudor England to the exquisite pendant watches of Victorian Britain, timekeeping has long been a symbol of power, prestige, and technological marvel within Europe’s royal courts....",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-28T19:00:35.000Z",
+      "score_quality": 74,
+      "score_notif": 5,
+      "cluster": "20260928-256fb4629811",
+      "cluster_main": true
+    },
     {
       "title": "Citizen Attesa: Japan's IYKYK \"Tech-Forward\" Titanium Collection Explained",
       "url": "https://teddybaldassarre.com/blogs/watches/citizen-attesa",
@@ -1335,7 +1349,7 @@
       "score_quality": 92,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -1545,7 +1559,7 @@
       "score_quality": 87,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -1646,20 +1660,6 @@
       "cluster_main": true
     },
     {
-      "title": "Héron Introduces the Continental, a New Vintage Inspired “Go Anywhere, Do Anything” Watch",
-      "url": "https://wornandwound.com/heron-introduces-the-continental-a-new-vintage-inspired-go-anywhere-do-anything-watch/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Heron-Continental-15.jpg",
-      "peek_preview": "Héron, the Montreal-based microbrand that had a legitimate hit on its hands with the release of the Mirabel GMT last year, is back with their take on the classic “go anywhere, do anything” sports watch, met with the bra...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T16:00:49.000Z",
-      "score_quality": 75,
-      "score_notif": 45,
-      "cluster": "20260923-a19df99cb995",
-      "cluster_main": true
-    },
-    {
       "title": "DEEP-X: un super diver italiano per festeggiare i 10 anni di WATCH INSANITY",
       "url": "https://italianwatchspotter.com/deep-x-watch-insanity/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-101-1024x682.png",
@@ -1727,7 +1727,7 @@
       "score_quality": 67,
       "score_notif": 45,
       "cluster": "20260923-a19df99cb995",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ulysse Nardin gives the Freak [ONE] its first taste of decorative arts — in two very different flavours",
