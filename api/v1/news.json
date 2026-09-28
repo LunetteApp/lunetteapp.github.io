@@ -1,6 +1,6 @@
 {
-  "content_hash": "48304c912d9396912141aa51485a00d1e4c0eb98a6f55c58117b6b44fb02a5f7",
-  "last_updated": "2026-09-28T01:46:56.882Z",
+  "content_hash": "6297c92d1b08011f54cecfaff96d71426d4493a8f35088b56b525ce35e9424ab",
+  "last_updated": "2026-09-28T03:46:52.454Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T00:00:56.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-28T03:00:42.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "シチズン プロマスターから、エコ・ドライブ誕生50周年を記念した限定モデル2種が登場",
+      "url": "https://www.webchronos.net/news/173442/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/CITIZENpromaster_SKYHAWK-01.webp",
+      "peek_preview": "シチズンは「シチズン プロマスター」の新作として、光発電エコ・ドライブの誕生50周年を記念する特別モデルを発表した。ラインナップは、SKYシリーズの「SKYHAWK（スカイホーク）」と、LANDシリーズの「TSUNO C […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-28T03:00:42.000Z",
+      "score_quality": 64,
+      "score_notif": 43,
+      "cluster": "20260928-5eeb4aa474ad",
+      "cluster_main": true
+    },
     {
       "title": "The Louis Vuitton Monterey Ceramic Returns",
       "url": "https://watchesbysjx.com/2026/09/louis-vuitton-monterey-ceramic.html",
@@ -1632,20 +1646,6 @@
       "cluster_main": true
     },
     {
-      "title": "オリエントスターがブランド誕生75周年の集大成となる新たなフラッグシップモデル「オリエントスタースケルトン」を発表",
-      "url": "https://www.webchronos.net/news/173405/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/orientstar_skeleton-01.webp",
-      "peek_preview": "オリエントスターは、ブランド誕生75周年を記念した新たなフラッグシップモデル「オリエントスタースケルトン」を発表した。“時空間”をテーマに、35年にわたって培ってきたスケルトンウォッチの技術を集約。満を持して新開発された […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-23T03:00:15.000Z",
-      "score_quality": 72,
-      "score_notif": 49,
-      "cluster": "20260923-8f50cd52aa50",
-      "cluster_main": true
-    },
-    {
       "title": "Hands On: Blancpain Lady B",
       "url": "https://watchesbysjx.com/2026/09/blancpain-lady-b.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Blancpain-Lady-B-cal-615-movement-3x2-header-300x200.jpg",
@@ -1657,7 +1657,7 @@
       "score_quality": 81,
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Franck Muller Uhren heute: Wie das Watchland in Genthod wirklich tickt",
@@ -1839,7 +1839,7 @@
       "score_quality": 80,
       "score_notif": 32,
       "cluster": "20260917-e64751d5106d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: MeisterSinger NL Edition Tulip",
