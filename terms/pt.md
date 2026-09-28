@@ -1,6 +1,6 @@
 # Termos de Uso
 
-**Última atualização:** 9 de junho de 2026
+**Última atualização:** 28 de setembro de 2026
 
 ## 1. Aceitação dos Termos
 
@@ -8,24 +8,23 @@ Ao baixar, instalar ou usar o Lunette ("o Aplicativo"), você concorda em ficar 
 
 ## 2. Descrição do serviço
 
-O Lunette é um aplicativo móvel para iOS que permite gerenciar uma coleção pessoal de relógios, acompanhar a precisão da marcação de horário, registrar entradas de diário e gerar imagens de story compartilháveis. O Aplicativo funciona principalmente offline, com todos os dados armazenados localmente no seu dispositivo.
+O Lunette é um app iOS para gerenciar uma coleção de relógios, verificar a precisão, manter um diário de uso e criar histórias para compartilhar. O app funciona offline. O backup opcional no iCloud pode guardar uma cópia dos dados na sua Conta Apple.
 
 ## 3. Contas de usuário
 
-O Lunette não exige cadastro nem conta. Nenhuma credencial de login é criada ou armazenada. As informações do seu perfil (nome, identificador, avatar) são armazenadas localmente no seu dispositivo e nunca são transmitidas a nós.
+O Lunette não exige cadastro nem conta. Seu perfil fica no dispositivo. Seu nome pode ser incluído se você optar por nos contatar, exportar dados ou ativar o backup no iCloud.
 
 ## 4. Uso aceitável
 
 Você concorda em usar o Aplicativo somente para a finalidade a que se destina, ou seja, o gerenciamento pessoal de coleção de relógios. Você não pode:
 
-- Fazer engenharia reversa, descompilar ou desmontar o Aplicativo
 - Usar o Aplicativo para qualquer finalidade ilegal
 - Tentar interferir no funcionamento do Aplicativo
 - Redistribuir ou revender o Aplicativo fora da Apple App Store
 
 ## 5. Conteúdo do usuário
 
-Todo o conteúdo que você cria dentro do Aplicativo — incluindo fotos, entradas de diário, notas e dados de perfil — continua sendo de sua propriedade. Não acessamos, coletamos nem reivindicamos quaisquer direitos sobre o seu conteúdo. Você é o único responsável por qualquer conteúdo que optar por compartilhar externamente usando os recursos de exportação ou de compartilhamento de stories do Aplicativo.
+O conteúdo criado no app, incluindo fotos, diário, notas e dados do perfil, continua sendo seu. Só o recebemos se você optar por enviá-lo em um contato, exportá-lo ou compartilhá-lo. Você é responsável pelo conteúdo que compartilhar externamente.
 
 ## 6. Propriedade intelectual
 
@@ -35,12 +34,9 @@ O Aplicativo exibe nomes de marcas de relógios e referências de modelos apenas
 
 ## 7. Compras dentro do aplicativo
 
-O Lunette oferece uma compra única opcional dentro do aplicativo ("Lunette Pro") que desbloqueia recursos adicionais, incluindo relógios ilimitados, entradas de diário, verificações de precisão, fotos e vários lembretes diários.
+O Lunette oferece duas compras opcionais no aplicativo, ambas com pagamento único. Lunette Pro aumenta os limites de relógios, diário, fotos e verificações de precisão e libera recursos como acompanhamento da Lista de Desejos, notificações de notícias, fundos adicionais e exportação em PDF. Timegrapher Pro libera separadamente sessões ilimitadas do cronocomparador. Comprar um não inclui o outro.
 
-- Todas as compras são processadas pela Apple App Store
-- Os preços são exibidos na sua moeda local antes da compra
-- As compras não são reembolsáveis, exceto conforme exigido pela legislação aplicável ou pelas políticas de reembolso da Apple
-- Você pode restaurar compras anteriores em qualquer dispositivo conectado ao mesmo Apple ID
+A Apple processa as compras e mostra o preço antes da confirmação. Você pode solicitar reembolso à [Apple](https://reportaproblem.apple.com/) conforme as políticas dela e a lei aplicável. Compras elegíveis podem ser restauradas com a mesma Conta Apple.
 
 ## 8. Backup no iCloud
 
@@ -48,55 +44,37 @@ Se você ativar o backup no iCloud, os seus dados são armazenados na sua conta 
 
 ## 9. Privacidade
 
-A sua privacidade é importante para nós. Consulte a nossa [Política de Privacidade](https://lunetteapp.com/privacy) para obter detalhes sobre como os dados são tratados. Em resumo: o Lunette não coleta dados pessoais, não usa análise nem rastreamento e armazena todas as informações localmente no seu dispositivo.
+O aplicativo não exige conta e não usa análise nem rastreamento de anúncios. Sua coleção fica no dispositivo, a menos que você escolha o backup no iCloud ou a exportação. Se entrar em contato conosco, usamos as informações enviadas para responder. Veja a [Política de Privacidade](https://lunetteapp.com/privacy).
 
 ## 10. Serviços de terceiros
 
-O Aplicativo se conecta aos seguintes serviços externos:
-
-- **Servidores de horário** (time.apple.com, time.google.com) para a sincronização da medição de precisão
-- **Servidor de catálogo de relógios** para atualizações do banco de dados de referência
-- **Sites de anúncios da Lista de Desejos** (por exemplo, Chrono24, eBay): ao adicionar ou atualizar um item da Lista de Desejos, o Aplicativo carrega a URL que você fornece para extrair o preço e a imagem. Esses sites podem receber o seu endereço IP e aplicar seus próprios cookies e políticas.
-
-Além do carregamento de anúncios da Lista de Desejos por ação sua, essas conexões não transmitem nenhum dado pessoal seu. O Aplicativo não contém integrações de análise, publicidade ou redes sociais de terceiros.
+O aplicativo pode se conectar a servidores públicos de horário para verificar a precisão, à API do Lunette para atualizar o catálogo, as notícias e os modelos de histórias e a sites de anúncios quando você informa uma URL da Lista de Desejos. Se ativar o backup no iCloud, a Apple o gerencia na sua conta. Esses serviços podem receber seu endereço IP durante a conexão normal. Sites externos têm seus próprios termos e políticas. Veja a [Política de Privacidade](https://lunetteapp.com/privacy).
 
 ## 11. Isenções de responsabilidade
 
-O Aplicativo é fornecido "no estado em que se encontra" e "conforme disponível", sem garantias de qualquer tipo, expressas ou implícitas. Não garantimos que o Aplicativo estará livre de erros ou funcionará sem interrupções.
+Os resultados de precisão são estimativas baseadas nas leituras e referências de horário disponíveis. Não são certificações relojoeiras profissionais. A disponibilidade do aplicativo e dos recursos online pode variar. Estes termos não limitam direitos ou garantias que a lei não permite excluir.
 
-O recurso de medição de precisão fornece estimativas com base nas referências de horário disponíveis e não deve ser considerado para certificação horológica profissional.
+## 12. Responsabilidade e direitos do consumidor
 
-## 12. Limitação de responsabilidade
+Falhas de software, do dispositivo ou do sistema operacional, exclusões acidentais e problemas de backup podem causar perda ou corrupção de dados. Mantenha uma cópia separada dos dados importantes. Não podemos garantir a recuperação dos dados perdidos. Na medida permitida pela lei aplicável, não nos responsabilizamos pela perda de dados causada por esses eventos. Essa limitação não exclui a responsabilidade por dolo, culpa grave ou outra violação cuja responsabilidade não possa ser excluída por lei, nem reduz seus direitos legais como consumidor.
 
-Na máxima extensão permitida pela legislação aplicável, Michael Siddi não será responsável por quaisquer danos indiretos, incidentais, especiais, consequenciais ou punitivos, nem por qualquer perda de dados, decorrentes do seu uso do Aplicativo.
+## 13. Suas responsabilidades
 
-Como todos os dados são armazenados localmente no seu dispositivo, você é responsável por manter backups. Não somos responsáveis por perda de dados resultante de falha do dispositivo, exclusão do Aplicativo ou qualquer outra causa.
-
-## 13. Indenização
-
-Você concorda em indenizar e isentar Michael Siddi de quaisquer reivindicações, danos ou despesas decorrentes do seu uso do Aplicativo ou da violação destes termos.
+Você é responsável pelo conteúdo que escolher compartilhar e por usar o aplicativo de forma lícita.
 
 ## 14. Rescisão
 
-Você pode parar de usar o Aplicativo a qualquer momento, excluindo-o do seu dispositivo. Reservamo-nos o direito de descontinuar o Aplicativo ou qualquer recurso a qualquer momento, sem aviso prévio.
-
-Após a rescisão, os seus dados armazenados localmente permanecem no seu dispositivo até que você opte por excluí-los.
+Você pode parar de usar o aplicativo a qualquer momento. Excluí-lo remove os dados locais daquele dispositivo. Se tiver ativado o backup no iCloud, gerencie ou exclua essa cópia pela sua Conta Apple. Recursos online podem mudar ou terminar conforme a lei aplicável.
 
 ## 15. Legislação aplicável
 
-Estes termos são regidos pelas leis da Itália. Quaisquer disputas estarão sujeitas à jurisdição exclusiva dos tribunais da Itália, independentemente das disposições sobre conflito de leis.
-
-Para consumidores da UE: nada nestes termos afeta os seus direitos legais previstos na legislação de proteção ao consumidor da UE aplicável, incluindo o direito de instaurar processos no seu país de residência.
+Estes termos seguem a lei italiana. Ressalvadas as normas obrigatórias de proteção e competência do consumidor no seu país de residência, os tribunais competentes da Itália têm jurisdição exclusiva. Isso não limita seu direito de recorrer a outro tribunal disponível conforme a lei aplicável.
 
 ## 16. Disposições gerais
 
-**Modificações:** podemos atualizar estes termos periodicamente. O uso continuado do Aplicativo após as alterações constitui aceitação dos novos termos. Alterações relevantes serão indicadas pela atualização da data de "Última atualização".
+Podemos atualizar estes termos e publicar o texto revisado com uma nova data. As mudanças só se aplicam conforme permitido por lei e não removem direitos de compras anteriores.
 
-**Independência das cláusulas:** se qualquer disposição destes termos for considerada inválida, as demais disposições permanecem em pleno vigor.
-
-**Acordo integral:** estes termos, juntamente com a Política de Privacidade, constituem o acordo integral entre você e Michael Siddi em relação ao Aplicativo.
-
-**Não renúncia:** a falha em fazer valer qualquer disposição não constitui renúncia a essa disposição.
+Se uma disposição for inválida, as demais continuam valendo quando possível. Deixar de exigir uma disposição não significa renunciar a ela.
 
 ## Contato
 

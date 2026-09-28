@@ -1,19 +1,19 @@
-/* ═══════════════════════════════════════════
-   Lunette v4 — Quiet Luxury Editorial
-   Instrument Serif · Satoshi · Geist Mono
-   ═══════════════════════════════════════════ */
+/* Lunette Modern theme, matched to ios/Shared/AppTheme.swift. */
 
 :root {
-    --bg: #0B0D11;
-    --surface: #15181F;
-    --surface-elevated: #11141A;
-    --border: rgba(45, 51, 65, 0.72);
-    --border-hover: rgba(143, 172, 218, 0.18);
-    --accent: #8FACDA;
-    --accent-muted: rgba(143, 172, 218, 0.12);
-    --text: #ECEEF3;
-    --text-2: #B2B9C3;
-    --text-3: #808795;
+    color-scheme: dark;
+    --bg: #10275B;
+    --surface: #1B3972;
+    --surface-elevated: #17346B;
+    --border: rgba(82, 115, 166, 0.72);
+    --border-hover: rgba(231, 237, 246, 0.38);
+    --accent: #E7EDF6;
+    --accent-muted: rgba(231, 237, 246, 0.12);
+    --text: #F8FAFD;
+    --text-2: #CED9E9;
+    --text-secondary: var(--text-2);
+    --text-3: #A9BBD4;
+    --text-on-accent: #10275B;
     --display: 'Space Grotesk', -apple-system, sans-serif;
     --sans: 'Inter', -apple-system, sans-serif;
     --mono: 'Geist Mono', 'SF Mono', monospace;
@@ -52,7 +52,7 @@ body {
     display: flex;
     align-items: center;
     gap: 32px;
-    background: rgba(9, 9, 11, 0.72);
+    background: rgba(18, 44, 97, 0.92);
     backdrop-filter: blur(24px);
     -webkit-backdrop-filter: blur(24px);
     border: 1px solid var(--border);
@@ -81,7 +81,7 @@ body {
     align-items: center;
     white-space: nowrap;
     background: var(--accent);
-    color: #08090D;
+    color: var(--text-on-accent);
     font-size: 12px;
     font-weight: 600;
     padding: 9px 16px;
@@ -167,21 +167,13 @@ body {
 
 .hero-bg {
     position: absolute;
-    top: -40px;
-    right: -200px;
-    width: 900px;
-    height: auto;
+    top: -150px;
+    right: -160px;
+    width: 850px;
+    height: 850px;
     pointer-events: none;
     z-index: 0;
-    -webkit-mask-image: radial-gradient(ellipse 80% 80% at 70% 40%, black 20%, transparent 70%);
-    mask-image: radial-gradient(ellipse 80% 80% at 70% 40%, black 20%, transparent 70%);
-    opacity: 0.5;
-}
-
-.hero-bg img {
-    width: 100%;
-    height: auto;
-    display: block;
+    background: radial-gradient(circle, rgba(74, 134, 212, 0.4), rgba(27, 57, 114, 0.14) 45%, transparent 72%);
 }
 
 .hero-layout {
@@ -241,7 +233,7 @@ body {
     font-family: var(--sans);
     font-size: 14px;
     font-weight: 600;
-    color: #08090D;
+    color: var(--text-on-accent);
     background: var(--accent);
     padding: 14px 28px;
     border-radius: 100px;
@@ -263,13 +255,34 @@ body {
     justify-content: center;
 }
 
-.hero-device img {
+.device-frame {
+    position: relative;
+    aspect-ratio: 1350 / 2760;
+    filter: drop-shadow(0 28px 36px rgba(4, 14, 38, 0.5));
+}
+
+.device-frame::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: url("assets/iphone-18-pro-glacier.webp") center / 100% 100% no-repeat;
+    pointer-events: none;
+}
+
+.device-screen {
+    position: absolute;
+    left: 5.333%;
+    top: 2.536%;
+    width: 89.333%;
+    height: 94.96%;
+    display: block;
+    object-fit: cover;
+    border-radius: 16% / 7.4%;
+}
+
+.hero-device .device-frame {
     width: 280px;
-    height: auto;
-    border-radius: 32px;
-    box-shadow:
-        0 60px 120px rgba(0, 0, 0, 0.5),
-        0 20px 40px rgba(0, 0, 0, 0.3);
 }
 
 /* ─── Feature Sections ─── */
@@ -283,20 +296,12 @@ body {
 .features-bg {
     position: absolute;
     top: 120px;
-    left: -280px;
-    width: 800px;
-    height: auto;
+    left: -320px;
+    width: 900px;
+    height: 900px;
     pointer-events: none;
     z-index: 0;
-    -webkit-mask-image: radial-gradient(ellipse 75% 70% at 40% 50%, black 10%, transparent 65%);
-    mask-image: radial-gradient(ellipse 75% 70% at 40% 50%, black 10%, transparent 65%);
-    opacity: 0.35;
-}
-
-.features-bg img {
-    width: 100%;
-    height: auto;
-    display: block;
+    background: radial-gradient(circle, rgba(74, 134, 212, 0.24), transparent 68%);
 }
 
 .feature-section {
@@ -350,13 +355,8 @@ body {
     justify-content: center;
 }
 
-.feature-device img {
+.feature-device .device-frame {
     width: 260px;
-    height: auto;
-    border-radius: 28px;
-    box-shadow:
-        0 40px 80px rgba(0, 0, 0, 0.4),
-        0 12px 28px rgba(0, 0, 0, 0.25);
 }
 
 /* ─── Principles ─── */
@@ -426,16 +426,7 @@ body {
     inset: 0;
     pointer-events: none;
     z-index: 0;
-    -webkit-mask-image: radial-gradient(ellipse 90% 80% at 50% 60%, black 10%, transparent 60%);
-    mask-image: radial-gradient(ellipse 90% 80% at 50% 60%, black 10%, transparent 60%);
-    opacity: 0.3;
-}
-
-.closing-bg img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
+    background: radial-gradient(ellipse at 50% 55%, rgba(74, 134, 212, 0.28), transparent 65%);
 }
 
 .closing-content {
@@ -564,7 +555,7 @@ body {
         justify-content: center;
     }
 
-    .hero-device img { width: 230px; }
+    .hero-device .device-frame { width: 230px; }
 
     .features { padding: 0 20px; }
 
@@ -579,7 +570,7 @@ body {
     .feature-section--flip .feature-device { order: 2; }
 
     .feature-text p { max-width: 100%; }
-    .feature-device img { width: 220px; }
+    .feature-device .device-frame { width: 220px; }
 
     .principles-inner { padding: 0 20px; }
 

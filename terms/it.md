@@ -1,6 +1,6 @@
 # Condizioni d'Uso
 
-**Ultimo aggiornamento:** 9 giugno 2026
+**Ultimo aggiornamento:** 28 settembre 2026
 
 ## 1. Accettazione delle Condizioni
 
@@ -8,24 +8,23 @@ Scaricando, installando o utilizzando Lunette ("l'App"), accetti di essere vinco
 
 ## 2. Descrizione del Servizio
 
-Lunette è un'applicazione mobile per iOS che consente di gestire una collezione personale di orologi, monitorare la precisione, registrare voci di diario e generare immagini condivisibili. L'App funziona principalmente offline con tutti i dati archiviati localmente sul dispositivo.
+Lunette è un’app iOS per gestire una collezione di orologi, controllarne la precisione, tenere un diario d’uso e creare storie da condividere. L’App funziona offline. Il backup iCloud opzionale può salvare una copia dei dati nel tuo account Apple.
 
 ## 3. Account Utente
 
-Lunette non richiede registrazione o account. Non vengono creati o archiviati credenziali di accesso. Le informazioni del profilo (nome, handle, avatar) sono archiviate localmente sul dispositivo e non vengono mai trasmesse a noi.
+Lunette non richiede registrazione o account. Il profilo è archiviato sul dispositivo. Il tuo nome può essere incluso se scegli di contattarci, esportare i dati o attivare il backup iCloud.
 
 ## 4. Uso Accettabile
 
 Accetti di utilizzare l'App solo per lo scopo previsto di gestione della collezione personale di orologi. Non puoi:
 
-- Decompilare, disassemblare o decodificare l'App
 - Utilizzare l'App per scopi illeciti
 - Tentare di interferire con il funzionamento dell'App
 - Ridistribuire o rivendere l'App al di fuori dell'Apple App Store
 
 ## 5. Contenuti dell'Utente
 
-Tutti i contenuti creati nell'App — incluse foto, voci di diario, note e dati del profilo — rimangono di tua proprietà. Non accediamo, raccogliamo o rivendichiamo alcun diritto sui tuoi contenuti. Sei l'unico responsabile dei contenuti che scegli di condividere esternamente utilizzando le funzioni di esportazione o condivisione dell'App.
+I contenuti creati nell’App, tra cui foto, voci del diario, note e dati del profilo, rimangono tuoi. Non li riceviamo salvo che tu scelga di inviarli con una richiesta di contatto, esportarli o condividerli. Sei responsabile dei contenuti che scegli di condividere all’esterno.
 
 ## 6. Proprietà Intellettuale
 
@@ -35,12 +34,9 @@ L'App mostra nomi di marchi e riferimenti a modelli di orologi esclusivamente pe
 
 ## 7. Acquisti In-App
 
-Lunette offre un acquisto in-app opzionale una tantum ("Lunette Pro") che sblocca funzionalità aggiuntive tra cui orologi illimitati, voci di diario, controlli di precisione, foto e promemoria giornalieri multipli.
+Lunette offre due acquisti in-app opzionali una tantum. Lunette Pro aumenta i limiti per orologi, voci del diario, foto e controlli di precisione e sblocca funzioni come il monitoraggio della Wishlist, le notifiche delle notizie, gli sfondi extra per le storie e l'esportazione PDF. Timegrapher Pro sblocca separatamente sessioni illimitate del cronocomparatore. L'acquisto di uno non include l'altro.
 
-- Tutti gli acquisti sono elaborati tramite l'Apple App Store
-- I prezzi sono visualizzati nella valuta locale prima dell'acquisto
-- Gli acquisti non sono rimborsabili, salvo quanto previsto dalla legge applicabile o dalle politiche di rimborso di Apple
-- Puoi ripristinare acquisti precedenti su qualsiasi dispositivo connesso allo stesso Apple ID
+Gli acquisti sono gestiti da Apple, che mostra il prezzo prima della conferma. Puoi chiedere un rimborso tramite [Apple](https://reportaproblem.apple.com/) secondo le sue regole e la legge applicabile. Gli acquisti idonei possono essere ripristinati con lo stesso account Apple.
 
 ## 8. Backup iCloud
 
@@ -48,55 +44,37 @@ Se attivi il backup iCloud, i tuoi dati vengono archiviati nel tuo account iClou
 
 ## 9. Privacy
 
-La tua privacy è importante per noi. Consulta la nostra [Informativa sulla Privacy](https://lunetteapp.com/privacy) per dettagli sulla gestione dei dati. In sintesi: Lunette non raccoglie dati personali, non utilizza analitiche o tracciamento e archivia tutte le informazioni localmente sul dispositivo.
+L'App non richiede un account e non usa strumenti di analisi o tracciamento pubblicitario. La collezione è archiviata sul dispositivo, salvo che tu scelga il backup iCloud o l'esportazione. Se ci contatti, trattiamo le informazioni che ci invii per risponderti. Consulta l'[Informativa sulla Privacy](https://lunetteapp.com/privacy) per i dettagli.
 
 ## 10. Servizi di Terze Parti
 
-L'App si connette ai seguenti servizi esterni:
-
-- **Server temporali** (time.apple.com, time.google.com) per la sincronizzazione delle misurazioni di precisione
-- **Server catalogo orologi** per aggiornamenti del database di riferimento
-- **Siti di annunci della Wishlist** (es. Chrono24, eBay): quando aggiungi o aggiorni un articolo nella Wishlist, l'App carica l'URL che fornisci per estrarne prezzo e immagine. Tali siti possono ricevere il tuo indirizzo IP e applicare i propri cookie e le proprie informative.
-
-Ad eccezione del caricamento degli annunci della Wishlist su tua azione, queste connessioni non trasmettono i tuoi dati personali. L'App non contiene analitiche, pubblicità o integrazioni social di terze parti.
+L'App può collegarsi a server temporali pubblici per controllare la precisione, all'API di Lunette per aggiornamenti del catalogo, notizie e modelli per le storie e ai siti di annunci quando fornisci un URL della Wishlist. Se attivi il backup iCloud, Apple gestisce il backup nel tuo account. Questi servizi possono ricevere il tuo indirizzo IP durante la normale connessione. I siti esterni hanno condizioni e informative proprie. Consulta l'[Informativa sulla Privacy](https://lunetteapp.com/privacy) per altri dettagli.
 
 ## 11. Esclusione di Garanzie
 
-L'App è fornita "così com'è" e "come disponibile" senza garanzie di alcun tipo, esplicite o implicite. Non garantiamo che l'App sarà priva di errori o ininterrotta.
+I risultati sulla precisione sono stime basate sulle letture e sui riferimenti temporali disponibili. Non sono certificazioni orologiere professionali. La disponibilità dell'App e delle funzioni online può variare. Queste condizioni non limitano diritti o garanzie che la legge non consente di escludere.
 
-La funzione di misurazione della precisione fornisce stime basate sui riferimenti temporali disponibili e non deve essere utilizzata per certificazioni orologiere professionali.
+## 12. Responsabilità e diritti dei consumatori
 
-## 12. Limitazione di Responsabilità
+Malfunzionamenti del software, guasti del dispositivo o del sistema operativo, cancellazioni accidentali e problemi di backup possono causare la perdita o il danneggiamento dei dati. Conserva una copia separata dei dati importanti. Non possiamo garantire il recupero dei dati persi. Nei limiti consentiti dalla legge applicabile, non siamo responsabili della perdita di dati causata da questi eventi. Questa limitazione non esclude la responsabilità per dolo, colpa grave o altri inadempimenti per cui la legge vieta l'esclusione, né riduce i rimedi previsti per i consumatori.
 
-Nella misura massima consentita dalla legge applicabile, Michael Siddi non sarà responsabile per danni indiretti, incidentali, speciali, consequenziali o punitivi, o per qualsiasi perdita di dati, derivanti dall'uso dell'App.
+## 13. Le tue responsabilità
 
-Poiché tutti i dati sono archiviati localmente sul dispositivo, sei responsabile del mantenimento dei backup. Non siamo responsabili per perdite di dati dovute a guasti del dispositivo, eliminazione dell'App o qualsiasi altra causa.
-
-## 13. Indennizzo
-
-Accetti di indennizzare e manlevare Michael Siddi da qualsiasi reclamo, danno o spesa derivante dal tuo uso dell'App o dalla violazione di queste condizioni.
+Sei responsabile dei contenuti che scegli di condividere e dell'uso lecito dell'App.
 
 ## 14. Risoluzione
 
-Puoi smettere di utilizzare l'App in qualsiasi momento eliminandola dal dispositivo. Ci riserviamo il diritto di interrompere l'App o qualsiasi funzionalità in qualsiasi momento senza preavviso.
-
-Alla risoluzione, i dati archiviati localmente rimangono sul dispositivo fino a quando non scegli di eliminarli.
+Puoi smettere di usare l'App in qualsiasi momento. Eliminandola, rimuovi i dati locali da quel dispositivo. Se hai attivato il backup iCloud, gestiscilo o eliminalo tramite il tuo account Apple. Le funzioni online possono cambiare o terminare, nel rispetto della legge applicabile.
 
 ## 15. Legge Applicabile
 
-Le presenti condizioni sono regolate dalla legge italiana. Qualsiasi controversia sarà soggetta alla giurisdizione esclusiva dei tribunali italiani.
-
-Per i consumatori UE: nulla nelle presenti condizioni pregiudica i diritti previsti dalla normativa europea a tutela dei consumatori, incluso il diritto di agire nel proprio paese di residenza.
+A queste condizioni si applica la legge italiana. Fatti salvi i diritti inderogabili dei consumatori e le regole sulla competenza nel tuo paese di residenza, le controversie sono soggette alla competenza esclusiva dei tribunali italiani. Resta salvo il diritto di rivolgerti a un altro tribunale competente secondo la legge applicabile.
 
 ## 16. Disposizioni Generali
 
-**Modifiche:** Possiamo aggiornare queste condizioni periodicamente. L'uso continuato dell'App dopo le modifiche costituisce accettazione delle nuove condizioni. Le modifiche sostanziali saranno indicate aggiornando la data di "Ultimo aggiornamento".
+Possiamo aggiornare queste condizioni e pubblicheremo il testo rivisto con una nuova data. Le modifiche si applicano solo nei limiti consentiti dalla legge e non eliminano i diritti relativi agli acquisti precedenti.
 
-**Separabilità:** Se una disposizione risulta invalida, le restanti disposizioni rimangono pienamente in vigore.
-
-**Intero accordo:** Le presenti condizioni, insieme all'Informativa sulla Privacy, costituiscono l'intero accordo tra te e Michael Siddi riguardo all'App.
-
-**Nessuna rinuncia:** La mancata applicazione di una disposizione non costituisce rinuncia a tale disposizione.
+Se una disposizione non è valida, le altre restano efficaci per quanto possibile. La mancata applicazione di una disposizione non costituisce rinuncia.
 
 ## Contatti
 

@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-**Última atualização:** 22 de junho de 2026
+**Última atualização:** 28 de setembro de 2026
 
 ## Visão geral
 
@@ -8,34 +8,22 @@ O Lunette é um aplicativo de gerenciamento de coleção de relógios. Temos o c
 
 ## Coleta de dados
 
-**O Lunette não coleta nenhum dado pessoal.** O aplicativo:
-
-- Não exige conta nem cadastro
-- Não usa frameworks de análise, rastreamento ou publicidade
-- Não envia nenhuma informação pessoal pela rede
+O aplicativo não exige conta e não usa análise nem rastreamento de anúncios. Sua coleção fica no dispositivo. Se você ativar o backup no iCloud, uma cópia será salva na sua Conta Apple. Solicitações de rede podem mostrar seu endereço IP ao destino. Se entrar em contato, receberemos os dados enviados pelo formulário.
 
 ## Conexões de rede
 
-O Lunette faz conexões de rede limitadas para as seguintes finalidades:
+O Lunette usa conexões de rede limitadas:
 
-- **Sincronização de horário:** o aplicativo se conecta a servidores de horário públicos (time.apple.com, time.google.com) usando o protocolo padrão NTP para fornecer uma referência de horário precisa para o recurso de medição de precisão.
-- **Atualizações do catálogo de relógios:** ao ser iniciado, o aplicativo pode baixar dados atualizados do catálogo de relógios (informações de marca e modelo) dos nossos servidores para manter o banco de dados de referência sempre atual.
-- **Recuperação de anúncios da Lista de Desejos:** ao adicionar ou atualizar um item da Lista de Desejos, o aplicativo carrega o endereço (URL) que você fornece — por exemplo, do Chrono24 ou do eBay — para extrair o preço e a imagem. O site de destino pode receber o seu endereço IP e aplicar seus próprios cookies e política de privacidade. O aplicativo não envia nenhum outro dado pessoal seu a esses sites.
-- **Feed de notícias:** o aplicativo recupera notícias de uma seleção de sites externos especializados em relógios e carrega as miniaturas dos artigos associados. Se você abrir um artigo, ele é aberto em uma visualização de navegador dentro do aplicativo; o site de notícias que você visita pode receber o seu endereço IP e aplicar seus próprios cookies e política de privacidade. O aplicativo não envia nenhum dado pessoal seu ao buscar as notícias ou as suas imagens.
+- **Referências de horário:** Servidores públicos fornecem uma referência para verificações de precisão.
+- **Conteúdo do aplicativo:** A API do Lunette fornece atualizações do catálogo, notícias e modelos de histórias. Imagens de notícias podem ser carregadas dos sites dos editores.
+- **Anúncios da Lista de Desejos:** Ao adicionar ou atualizar a URL de um anúncio, o app acessa o site para obter preço e imagem. O site pode receber seu IP. Ao abrir um anúncio ou artigo, o destino pode aplicar seus cookies e sua política de privacidade.
+- **Backup opcional no iCloud:** A Apple gerencia o backup na sua conta do iCloud quando você ativa o recurso.
 
-Além da recuperação de anúncios da Lista de Desejos descrita acima, essas conexões não transmitem nenhum dado pessoal, identificador de dispositivo ou conteúdo gerado pelo usuário.
+O aplicativo não envia sua coleção à API do Lunette.
 
 ## Armazenamento de dados
 
-Todos os dados que você insere no Lunette — incluindo a sua coleção de relógios, entradas do diário, fotos, registros de manutenção e informações de perfil — são armazenados exclusivamente no seu dispositivo, em um banco de dados local.
-
-### Fotos e imagens
-
-As fotos que você captura ou importa no Lunette são armazenadas localmente no armazenamento isolado (sandbox) do aplicativo, no seu dispositivo. Elas nunca são enviadas nem compartilhadas com terceiros.
-
-### Dados de localização
-
-Se você ativar a marcação de localização para as entradas do diário, os dados de localização (cidade, país, coordenadas) são armazenados localmente junto com a entrada do diário. Os dados de localização nunca são transmitidos externamente.
+Coleção, diário, fotos, locais opcionais, serviços, Lista de Desejos e perfil são armazenados no dispositivo. Se você ativar o backup no iCloud, esses dados podem entrar na cópia da sua Conta Apple. Ao exportar ou compartilhar conteúdo, ele vai para o destino escolhido.
 
 ## Backup no iCloud
 
@@ -49,26 +37,15 @@ Você pode desativar o backup no iCloud a qualquer momento nas configurações d
 
 ## Serviços de terceiros
 
-O Lunette não se integra a nenhum serviço de análise, publicidade ou rastreamento de terceiros. Não há:
-
-- Ferramentas de análise
-- Serviços de relatório de falhas
-- Redes de publicidade
-- Integrações com redes sociais
-
-A única interação com terceiros ocorre por ação sua: ao adicionar um item da Lista de Desejos, o aplicativo abre a URL do site de anúncio que você fornece (por exemplo, Chrono24, eBay) para recuperar o preço e a imagem, conforme descrito na seção "Conexões de rede".
+O aplicativo não integra análise nem publicidade de terceiros. As conexões são descritas acima. O site carrega fontes do Google e um selo do Product Hunt, que podem receber seu endereço IP durante a visita. O formulário é processado por FormSubmit.co, como explicado abaixo.
 
 ## Compartilhamento de dados
 
-Não compartilhamos, vendemos nem transferimos os seus dados a terceiros. Como todos os dados permanecem no seu dispositivo, não temos acesso a eles.
+Não vendemos os dados da sua coleção. Não podemos ver sua coleção local nem seu backup pessoal no iCloud. A Apple recebe os dados do backup apenas se você o ativar. Sites externos recebem solicitações quando você abre seus artigos ou anúncios. FormSubmit.co recebe as informações enviadas pelo formulário.
 
 ## Exclusão de dados
 
-Você pode excluir todos os seus dados a qualquer momento ao:
-
-- Excluir relógios, entradas do diário ou registros de manutenção individuais dentro do aplicativo
-- Excluir o aplicativo do seu dispositivo, o que remove todos os dados associados
-- Desativar o backup no iCloud e excluir o backup da sua conta do iCloud
+Você pode excluir registros individuais no aplicativo. Excluir o app remove os dados locais daquele dispositivo. Se ativou o backup no iCloud, exclua a cópia separadamente na sua Conta Apple. Para pedir a exclusão de mensagens enviadas pelo formulário, entre em contato pelos dados abaixo.
 
 ## Privacidade de crianças
 
@@ -82,10 +59,10 @@ Se atualizarmos esta política de privacidade, publicaremos as alterações nest
 
 Quando você usa o formulário de contato no nosso site ou por meio do aplicativo, coletamos:
 
-- **Nome** — para nos dirigirmos a você na nossa resposta
-- **Endereço de e-mail** — para responder à sua solicitação
-- **Conteúdo da mensagem** — para entender o seu pedido
-- **Informações do dispositivo** (se enviadas pelo aplicativo) — versão do aplicativo, versão do iOS, modelo do dispositivo e status Pro, para ajudar a diagnosticar problemas
+- **Nome**, para nos dirigirmos a você na nossa resposta
+- **Endereço de e-mail**, para responder à sua solicitação
+- **Conteúdo da mensagem**, para entender o seu pedido
+- **Informações do dispositivo** (se enviadas pelo aplicativo), versão do aplicativo, versão do iOS, modelo do dispositivo e status Pro, para ajudar a diagnosticar problemas
 
 Esses dados são processados por meio do [FormSubmit.co](https://formsubmit.co), um serviço de tratamento de formulários de terceiros, e entregues a nós por e-mail. Usamos essas informações apenas para responder à sua solicitação. Não as usamos para marketing nem as compartilhamos com nenhum outro terceiro. Mantemos a correspondência apenas pelo tempo necessário para resolver o seu pedido.
 

@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact — Lunette</title>
+    <meta name="theme-color" content="#10275B">
+    <title>Contact | Lunette</title>
     <meta name="description" content="Get in touch with the Lunette app developer.">
     <link rel="canonical" href="https://lunetteapp.com/contact/">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Lunette">
     <meta property="og:url" content="https://lunetteapp.com/contact/">
-    <meta property="og:title" content="Contact — Lunette">
+    <meta property="og:title" content="Contact | Lunette">
     <meta property="og:description" content="Get in touch with the Lunette app developer.">
     <meta property="og:image" content="https://lunetteapp.com/assets/icon.png">
     <link rel="icon" type="image/png" href="../assets/icon.png">
@@ -46,10 +47,10 @@
             width: 100%;
             padding: 0.85rem 1rem;
             margin-bottom: 1rem;
-            border: 1px solid var(--border, #333);
+            border: 1px solid var(--border, #5273A6);
             border-radius: 10px;
-            background: var(--surface, #1a1a1a);
-            color: var(--text, #fff);
+            background: var(--surface, #1B3972);
+            color: var(--text, #F8FAFD);
             font-family: 'Inter', sans-serif;
             font-size: 0.95rem;
             outline: none;
@@ -57,7 +58,7 @@
         }
         .contact-form input:focus,
         .contact-form textarea:focus {
-            border-color: var(--accent, #c9a84c);
+            border-color: var(--accent, #E7EDF6);
         }
         .contact-form textarea {
             resize: vertical;
@@ -72,7 +73,7 @@
             color: var(--text-secondary, #999);
             margin-top: 1rem;
             padding: 0.75rem;
-            background: var(--surface, #1a1a1a);
+            background: var(--surface, #1B3972);
             border-radius: 8px;
             font-family: 'Geist Mono', monospace;
             white-space: pre-wrap;
@@ -81,7 +82,7 @@
         .back-link {
             display: inline-block;
             margin-bottom: 2rem;
-            color: var(--accent, #c9a84c);
+            color: var(--accent, #E7EDF6);
             text-decoration: none;
             font-size: 0.9rem;
         }
@@ -94,7 +95,7 @@
     <div class="contact-inner">
         <a href="/" class="back-link">← Lunette</a>
         <h1 data-i18n="contact.title">Get in touch.</h1>
-        <p class="contact-subtitle" data-i18n="contact.subtitle">Bug report, feature request, or just saying hi — we'd love to hear from you.</p>
+        <p class="contact-subtitle" data-i18n="contact.subtitle">Send a bug report, suggest a feature or just say hello. We would love to hear from you.</p>
 
         <form action="https://formsubmit.co/9c7475e8eebd7021455eb658ce221651" method="POST" class="contact-form">
             <input type="hidden" name="_captcha" value="false">
@@ -111,9 +112,28 @@
     </div>
 </section>
 
+<script src="../translations.js"></script>
 <script>
 (function() {
     const params = new URLSearchParams(window.location.search);
+    const requestedLanguage = params.get('lang') || (navigator.language || '').slice(0, 2).toLowerCase();
+    const language = translations[requestedLanguage] ? requestedLanguage : 'en';
+    const copy = translations[language];
+    document.documentElement.lang = language;
+    document.querySelector('[data-i18n="contact.title"]').textContent = copy['contact.title'];
+    document.querySelector('[data-i18n="contact.subtitle"]').textContent = copy['contact.subtitle'];
+    document.querySelector('[data-i18n="contact.send"]').textContent = copy['contact.send'];
+    for (const [key, id] of Object.entries({
+        'contact.name': 'contact-name',
+        'contact.email': 'contact-email',
+        'contact.subject': 'contact-subject',
+        'contact.message': 'contact-message'
+    })) {
+        document.getElementById(id).placeholder = copy[key];
+    }
+    document.getElementById('contact-subject').value = copy['contact.defaultSubject'];
+    document.querySelector('.back-link').href = '/?lang=' + language;
+    document.querySelector('input[name="_next"]').value = 'https://lunetteapp.com/contact?sent=1&lang=' + language;
 
     // Autofill from URL params: ?name=X&email=X&subject=X&message=X&device=X
     const fields = {
@@ -140,10 +160,12 @@
     if (params.get('sent') === '1') {
         const inner = document.querySelector('.contact-inner');
         inner.innerHTML = `
-            <a href="/" class="back-link">← Lunette</a>
-            <h1>Message sent!</h1>
-            <p class="contact-subtitle">Thanks for reaching out. We'll get back to you soon.</p>
+            <a href="/?lang=${language}" class="back-link">← Lunette</a>
+            <h1 id="sent-title"></h1>
+            <p class="contact-subtitle" id="sent-body"></p>
         `;
+        document.getElementById('sent-title').textContent = copy['contact.sent.title'];
+        document.getElementById('sent-body').textContent = copy['contact.sent.body'];
     }
 })();
 </script>

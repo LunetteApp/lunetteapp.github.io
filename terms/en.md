@@ -1,46 +1,42 @@
 # Terms of Use
 
-**Last updated:** June 9, 2026
+**Last updated:** September 28, 2026
 
 ## 1. Agreement to Terms
 
-By downloading, installing, or using Lunette ("the App"), you agree to be bound by these Terms of Use. If you do not agree, do not use the App.
+By downloading, installing or using Lunette ("the App"), you agree to be bound by these Terms of Use. If you do not agree, do not use the App.
 
 ## 2. Description of Service
 
-Lunette is a mobile application for iOS that allows you to manage a personal watch collection, track timekeeping accuracy, log journal entries, and generate shareable story images. The App operates primarily offline with all data stored locally on your device.
+Lunette is an iOS app for managing a watch collection, checking timekeeping, keeping a wear journal and creating shareable stories. The App works offline. Optional iCloud backup can store a copy of your data in your Apple account.
 
 ## 3. User Accounts
 
-Lunette does not require registration or an account. No login credentials are created or stored. Your profile information (name, handle, avatar) is stored locally on your device and is never transmitted to us.
+Lunette does not require registration or an account. Your profile is stored on your device. Your name may be included if you choose to contact us, export data or enable iCloud backup.
 
 ## 4. Acceptable Use
 
 You agree to use the App only for its intended purpose of personal watch collection management. You may not:
 
-- Reverse engineer, decompile, or disassemble the App
 - Use the App for any unlawful purpose
 - Attempt to interfere with the App's operation
 - Redistribute or resell the App outside the Apple App Store
 
 ## 5. User Content
 
-All content you create within the App — including photos, journal entries, notes, and profile data — remains your property. We do not access, collect, or claim any rights over your content. You are solely responsible for any content you choose to share externally using the App's export or story-sharing features.
+Content you create in the App, including photos, journal entries, notes and profile data, remains yours. We do not receive that content unless you choose to send it through a contact request, export or share it. You are responsible for content you choose to share externally.
 
 ## 6. Intellectual Property
 
-The App, its design, code, branding, icons, and illustrations are the property of Michael Siddi and are protected by applicable copyright and intellectual property laws.
+The App, its design, code, branding, icons and illustrations are the property of Michael Siddi and are protected by applicable copyright and intellectual property laws.
 
-The App displays watch brand names and model references solely to help users identify and catalogue their watches. All third-party trademarks belong to their respective owners and are used for identification purposes only. Lunette is not affiliated with, endorsed by, or sponsored by any watch brand.
+The App displays watch brand names and model references solely to help users identify and catalogue their watches. All third-party trademarks belong to their respective owners and are used for identification purposes only. Lunette is not affiliated with, endorsed by or sponsored by any watch brand.
 
 ## 7. In-App Purchases
 
-Lunette offers an optional one-time in-app purchase ("Lunette Pro") that unlocks additional features including unlimited watches, journal entries, accuracy checks, photos, and multiple daily reminders.
+Lunette has two optional one-time in-app purchases. Lunette Pro raises limits for watches, journal entries, photos and accuracy checks and unlocks extras such as wishlist tracking, news notifications, premium story backgrounds and PDF export. Timegrapher Pro separately unlocks unlimited timegrapher sessions. Buying one does not unlock the other.
 
-- All purchases are processed through the Apple App Store
-- Pricing is displayed in your local currency before purchase
-- Purchases are non-refundable, except as required by applicable law or Apple's refund policies
-- You may restore previous purchases on any device signed into the same Apple ID
+Apple processes purchases and displays the price before confirmation. You can request a refund through [Apple](https://reportaproblem.apple.com/) under its policies and applicable law. Eligible purchases can be restored with the same Apple Account.
 
 ## 8. iCloud Backup
 
@@ -48,55 +44,37 @@ If you enable iCloud backup, your data is stored in your personal iCloud account
 
 ## 9. Privacy
 
-Your privacy is important to us. Please review our [Privacy Policy](https://lunetteapp.com/privacy) for details on how data is handled. In summary: Lunette does not collect personal data, does not use analytics or tracking, and stores all information locally on your device.
+The App requires no account and uses no analytics or ad tracking. Your collection is stored on your device unless you choose iCloud backup or export. If you contact us, we process the information you send to reply. See our [Privacy Policy](https://lunetteapp.com/privacy) for details.
 
 ## 10. Third-Party Services
 
-The App connects to the following external services:
-
-- **Time servers** (time.apple.com, time.google.com) for accuracy measurement synchronization
-- **Watch catalog server** for reference database updates
-- **Wishlist listing sites** (e.g. Chrono24, eBay): when you add or refresh a Wishlist item, the App loads the URL you provide to extract its price and image. These sites may receive your IP address and apply their own cookies and policies.
-
-Apart from loading Wishlist listings on your action, these connections transmit no personal data of yours. The App contains no third-party analytics, advertising, or social media integrations.
+The App may connect to public time servers for timekeeping checks, to Lunette's API for watch catalog updates, news and story templates and to listing sites when you provide a Wishlist URL. If you enable iCloud backup, Apple handles that backup in your own account. These services may receive your IP address as part of normal network access. Third-party sites have their own terms and privacy policies. See the [Privacy Policy](https://lunetteapp.com/privacy) for more detail.
 
 ## 11. Disclaimers
 
-The App is provided "as is" and "as available" without warranties of any kind, either express or implied. We do not warrant that the App will be error-free or uninterrupted.
+Timekeeping results are estimates based on the readings and time references available. They are not professional horological certifications. App and online feature availability may vary. Nothing in these terms limits rights or warranties that cannot be excluded by law.
 
-The accuracy measurement feature provides estimates based on available time references and should not be relied upon for professional horological certification.
+## 12. Liability and consumer rights
 
-## 12. Limitation of Liability
+Software faults, device or operating system failures, accidental deletion and backup problems can cause data loss or corruption. Keep a separate backup of records that matter to you. We cannot guarantee that lost data can be recovered. To the extent permitted by applicable law, we are not liable for data loss caused by these events. This does not exclude liability for intentional misconduct, gross negligence or any breach for which liability cannot legally be excluded, and it does not reduce your statutory consumer remedies.
 
-To the maximum extent permitted by applicable law, Michael Siddi shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, arising from your use of the App.
+## 13. Your responsibilities
 
-Since all data is stored locally on your device, you are responsible for maintaining backups. We are not liable for data loss resulting from device failure, App deletion, or any other cause.
-
-## 13. Indemnification
-
-You agree to indemnify and hold harmless Michael Siddi from any claims, damages, or expenses arising from your use of the App or violation of these terms.
+You are responsible for content you choose to share and for using the App lawfully.
 
 ## 14. Termination
 
-You may stop using the App at any time by deleting it from your device. We reserve the right to discontinue the App or any feature at any time without notice.
-
-Upon termination, your locally stored data remains on your device until you choose to delete it.
+You may stop using the App at any time. Deleting it removes the local app data from that device. If you enabled iCloud backup, manage or delete that backup through your Apple account. Online features may change or end, subject to applicable law.
 
 ## 15. Governing Law
 
-These terms are governed by the laws of Italy. Any disputes shall be subject to the exclusive jurisdiction of the courts of Italy, without regard to conflict of law provisions.
-
-For EU consumers: nothing in these terms affects your statutory rights under applicable EU consumer protection laws, including the right to bring proceedings in your country of residence.
+Italian law applies to these terms. Subject to mandatory consumer protections and jurisdiction rules in your country of residence, disputes are subject to the exclusive jurisdiction of the competent courts in Italy. This does not limit any right to bring a claim before another court available to you under applicable law.
 
 ## 16. General Provisions
 
-**Modifications:** We may update these terms from time to time. Continued use of the App after changes constitutes acceptance of the new terms. Material changes will be indicated by updating the "Last updated" date.
+We may update these terms and will publish the revised text with a new date. Changes apply only as permitted by law and do not remove rights attached to earlier purchases.
 
-**Severability:** If any provision of these terms is found invalid, the remaining provisions remain in full force.
-
-**Entire agreement:** These terms, together with the Privacy Policy, constitute the entire agreement between you and Michael Siddi regarding the App.
-
-**No waiver:** Failure to enforce any provision does not constitute a waiver of that provision.
+If a provision is invalid, the rest remains effective where possible. Failure to enforce a provision does not waive it.
 
 ## Contact
 

@@ -1,6 +1,6 @@
 # Informativa sulla Privacy
 
-**Ultimo aggiornamento:** 22 giugno 2026
+**Ultimo aggiornamento:** 28 settembre 2026
 
 ## Panoramica
 
@@ -8,34 +8,22 @@ Lunette è un'app per la gestione della collezione di orologi. Ci impegniamo a p
 
 ## Raccolta Dati
 
-**Lunette non raccoglie alcun dato personale.** L'app:
-
-- Non richiede un account o registrazione
-- Non utilizza strumenti di analisi, tracciamento o pubblicità
-- Non invia alcuna informazione personale attraverso la rete
+L'app non richiede un account e non usa strumenti di analisi o tracciamento pubblicitario. La collezione è archiviata sul dispositivo. Se attivi il backup iCloud, una copia viene salvata nel tuo account Apple. Le richieste di rete possono rendere visibile il tuo indirizzo IP ai servizi contattati. Se ci scrivi, riceviamo le informazioni inviate tramite il modulo di contatto.
 
 ## Connessioni di Rete
 
-Lunette effettua connessioni di rete limitate per i seguenti scopi:
+Lunette usa connessioni di rete limitate:
 
-- **Sincronizzazione oraria:** L'app si connette a server temporali pubblici (time.apple.com, time.google.com) tramite il protocollo standard NTP per fornire un riferimento temporale preciso per la funzione di misurazione della precisione.
-- **Aggiornamento catalogo orologi:** All'avvio, l'app può scaricare dati aggiornati del catalogo orologi (informazioni su marche e modelli) dai nostri server per mantenere aggiornato il database di riferimento.
-- **Recupero annunci Wishlist:** quando aggiungi o aggiorni un articolo nella Wishlist, l'app carica l'indirizzo (URL) che fornisci — ad esempio Chrono24 o eBay — per estrarne il prezzo e l'immagine. Il sito di destinazione può ricevere il tuo indirizzo IP e applicare i propri cookie e la propria informativa sulla privacy. L'app non invia a questi siti alcun altro tuo dato personale.
-- **Feed di notizie:** L'app recupera notizie da una selezione di siti web esterni specializzati in orologi e carica le relative miniature degli articoli. Se apri un articolo, questo si apre in una vista browser integrata nell'app; il sito di notizie che visiti può ricevere il tuo indirizzo IP e applicare i propri cookie e la propria informativa sulla privacy. L'app non invia alcun tuo dato personale durante il recupero delle notizie o delle sue immagini.
+- **Riferimenti temporali:** Server pubblici forniscono un riferimento per i controlli di precisione.
+- **Contenuti dell'app:** L'API di Lunette fornisce aggiornamenti del catalogo, notizie e modelli per le storie. Le immagini delle notizie possono essere caricate dai siti degli editori.
+- **Annunci della Wishlist:** Quando aggiungi o aggiorni l'URL di un annuncio, l'app visita il sito per recuperare prezzo e immagine. Il sito può ricevere il tuo indirizzo IP. Se apri un annuncio o un articolo, il sito può applicare i propri cookie e la propria informativa.
+- **Backup iCloud opzionale:** Apple gestisce i backup nel tuo account iCloud quando attivi questa funzione.
 
-Ad eccezione del recupero degli annunci della Wishlist descritto sopra, queste connessioni non trasmettono dati personali, identificativi del dispositivo o contenuti generati dall'utente.
+L'app non invia la tua collezione all'API di Lunette.
 
 ## Archiviazione Dati
 
-Tutti i dati che inserisci in Lunette — inclusa la tua collezione di orologi, le voci del diario, le foto, i registri di manutenzione e le informazioni del profilo — sono archiviati esclusivamente sul tuo dispositivo in un database locale.
-
-### Foto e Immagini
-
-Le foto che scatti o importi in Lunette sono archiviate localmente nello spazio di archiviazione protetto dell'app sul tuo dispositivo. Non vengono mai caricate o condivise con terze parti.
-
-### Dati di Posizione
-
-Se abiliti il geotagging per le voci del diario, i dati sulla posizione (città, paese, coordinate) vengono archiviati localmente insieme alla voce del diario. I dati sulla posizione non vengono mai trasmessi all'esterno.
+Collezione, diario, foto, luoghi aggiunti facoltativamente, manutenzioni, Wishlist e profilo sono archiviati sul dispositivo. Se attivi il backup iCloud, questi dati possono essere inclusi nella copia salvata nel tuo account Apple. Se esporti o condividi contenuti, vengono inviati alla destinazione che scegli.
 
 ## Backup iCloud
 
@@ -49,26 +37,15 @@ Puoi disabilitare il backup iCloud in qualsiasi momento dalle impostazioni dell'
 
 ## Servizi di Terze Parti
 
-Lunette non integra alcun servizio di analisi, pubblicità o tracciamento di terze parti. Non sono presenti:
-
-- Strumenti di analisi
-- Servizi di segnalazione errori
-- Reti pubblicitarie
-- Integrazioni con social media
-
-L'unica interazione con terze parti avviene su tua azione: quando aggiungi un articolo alla Wishlist, l'app apre l'URL del sito di annunci che fornisci (es. Chrono24, eBay) per recuperarne prezzo e immagine, come descritto nella sezione "Connessioni di Rete".
+L'app non integra servizi di analisi o pubblicità di terze parti. Le connessioni di rete sono descritte sopra. Il sito web carica caratteri da Google e un badge di Product Hunt: questi servizi possono ricevere il tuo indirizzo IP quando visiti il sito. Il modulo di contatto è gestito da FormSubmit.co, come spiegato sotto.
 
 ## Condivisione Dati
 
-Non condividiamo, vendiamo o trasferiamo i tuoi dati a terze parti. Poiché tutti i dati rimangono sul tuo dispositivo, non abbiamo accesso ad essi.
+Non vendiamo i dati della tua collezione. Non possiamo vedere la collezione locale né il tuo backup iCloud personale. Apple riceve i dati del backup solo se lo attivi. I siti esterni ricevono richieste quando apri i loro articoli o annunci. FormSubmit.co riceve le informazioni che invii tramite il modulo di contatto.
 
 ## Cancellazione Dati
 
-Puoi eliminare tutti i tuoi dati in qualsiasi momento:
-
-- Eliminando singoli orologi, voci del diario o registri di manutenzione dall'app
-- Eliminando l'app dal tuo dispositivo, che rimuove tutti i dati associati
-- Disabilitando il backup iCloud ed eliminando il backup dal tuo account iCloud
+Puoi eliminare singoli dati nell'app. Eliminando l'app, rimuovi i dati locali da quel dispositivo. Se hai attivato il backup iCloud, elimina la copia separatamente tramite il tuo account Apple. Per chiedere la cancellazione della corrispondenza inviata dal modulo di contatto, usa i recapiti qui sotto.
 
 ## Privacy dei Minori
 
@@ -82,10 +59,10 @@ Se aggiorniamo questa informativa sulla privacy, pubblicheremo le modifiche su q
 
 Quando utilizzi il modulo di contatto sul nostro sito web o tramite l'app, raccogliamo:
 
-- **Nome** — per rivolgerci a te nella nostra risposta
-- **Indirizzo email** — per rispondere alla tua richiesta
-- **Contenuto del messaggio** — per comprendere la tua richiesta
-- **Informazioni sul dispositivo** (se inviato dall'app) — versione dell'app, versione iOS, modello del dispositivo e stato Pro, per aiutare a diagnosticare eventuali problemi
+- **Nome**, per rivolgerci a te nella nostra risposta
+- **Indirizzo email**, per rispondere alla tua richiesta
+- **Contenuto del messaggio**, per comprendere la tua richiesta
+- **Informazioni sul dispositivo** (se inviato dall'app), versione dell'app, versione iOS, modello del dispositivo e stato Pro, per aiutare a diagnosticare eventuali problemi
 
 Questi dati vengono elaborati tramite [FormSubmit.co](https://formsubmit.co), un servizio di terze parti per la gestione dei moduli, e ci vengono consegnati via email. Utilizziamo queste informazioni esclusivamente per rispondere alla tua richiesta. Non le utilizziamo per scopi di marketing né le condividiamo con altre terze parti. Conserviamo la corrispondenza solo per il tempo necessario a risolvere la tua richiesta.
 
