@@ -1,6 +1,6 @@
 {
-  "content_hash": "0fad7a0e340ccc5c45dc85bf880310ba2aa8238423cea51fd8b735f66b9eb670",
-  "last_updated": "2026-09-27T22:45:45.755Z",
+  "content_hash": "13453f7fc83031dbad56a043bb3a350dfd63554c0c161e59d7299c8f3fccd895",
+  "last_updated": "2026-09-28T00:47:04.451Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-27T03:00:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-28T00:00:56.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "オリエントスターの新デザインプロジェクト「Sakigake（先駆け）」から「スリーハンド」が発表",
+      "url": "https://www.webchronos.net/news/173663/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/ORS_thN_1.webp",
+      "peek_preview": "オリエントスターは、新たなデザインプロジェクト「Sakigake（先駆け）」の第1弾として、“しなやかに強く”をコンセプトとした「スリーハンド」を発表した。ケースとブレスレットの一体感を高め、ポリッシュ仕上げとマット仕上 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-28T00:00:56.000Z",
+      "score_quality": 69,
+      "score_notif": 45,
+      "cluster": "20260928-75d6bb6a11c7",
+      "cluster_main": true
+    },
     {
       "title": "Fresh Faces For The Sporty Breguet Marine 5517 And Chronographe 5527",
       "url": "https://www.fratellowatches.com/fresh-faces-for-the-sporty-breguet-marine-5517-and-chronographe-5527/",
@@ -353,7 +367,7 @@
       "featured": false,
       "published_at": "2026-09-27T00:00:38.000Z",
       "score_quality": 78,
-      "score_notif": 64,
+      "score_notif": 59,
       "cluster": "20260927-9da6d5719514",
       "cluster_main": true
     },
@@ -537,7 +551,7 @@
       "score_quality": 67,
       "score_notif": 31,
       "cluster": "20260922-139d8c769747",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weirdos Or Class Acts? Introducing The Ulysse Nardin Freak One Blue Enamel And Guilloché",
@@ -1251,7 +1265,7 @@
       "score_quality": 97,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breguet takes the Marine 5517 and 5527 into deeper waters with fresh guilloché dials",
@@ -1293,7 +1307,7 @@
       "score_quality": 98,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Traser P65 Tactical Mission Titanium Upgrades The Brand’s Original Watch",
@@ -1632,20 +1646,6 @@
       "cluster_main": false
     },
     {
-      "title": "IWCがF1シンガポールグランプリ開催を記念する「パイロット・ウォッチ・クロノグラフ 41 “Mercedes-AMG PETRONAS Formula One Team”」を発表",
-      "url": "https://www.webchronos.net/news/173315/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/main-2.webp",
-      "peek_preview": "IWCは、メルセデスAMG・ペトロナスF1チームのチームウォッチ第4弾となる「パイロット・ウォッチ・クロノグラフ 41 “Mercedes-AMG PETRONAS Formula One Team”」を発表した。本作は […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-23T00:00:00.000Z",
-      "score_quality": 68,
-      "score_notif": 51,
-      "cluster": "20260923-5bfd66f6bc1b",
-      "cluster_main": true
-    },
-    {
       "title": "Franck Muller Uhren heute: Wie das Watchland in Genthod wirklich tickt",
       "url": "https://www.uhrenkosmos.com/franck-muller-besuch-in-der-uhrenmanufaktur/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/09/Franck-Muller-Watchland-Crazy-Hours-Color-Dreams-Aufmacher.jpg",
@@ -1839,7 +1839,7 @@
       "score_quality": 58,
       "score_notif": 31,
       "cluster": "20260922-139d8c769747",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Sub Seconds: Diving With The Doxa SUB 200 T-Graph II",
