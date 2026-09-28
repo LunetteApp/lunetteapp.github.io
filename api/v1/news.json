@@ -1,6 +1,6 @@
 {
-  "content_hash": "31d18e3528468d8bdda7384d27b54c9a8956b3df4d65758532a49e667da819c3",
-  "last_updated": "2026-09-28T13:47:13.260Z",
+  "content_hash": "ad4746d7ebd77a7bd1fe3e35591177609bd66e5a42434cf76e251c74c202e315",
+  "last_updated": "2026-09-28T14:47:09.945Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-26T14:00:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-28T14:00:21.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T13:00:52.000Z"
     },
     {
@@ -57,15 +57,15 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T13:00:00.000Z"
     },
     {
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
+      "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-26T13:19:58.000Z"
     },
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T11:27:43.000Z"
     },
@@ -1293,7 +1293,7 @@
       "score_quality": 92,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -1489,7 +1489,7 @@
       "score_quality": 72,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin Azure Blue—Celebrating the 30th Anniversary of the Overseas",
@@ -1503,7 +1503,7 @@
       "score_quality": 87,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -1517,7 +1517,7 @@
       "score_quality": 71,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
@@ -1587,7 +1587,7 @@
       "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1643,7 +1643,7 @@
       "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1811,20 +1811,6 @@
       "score_quality": 56,
       "score_notif": 26,
       "cluster": "20260922-7f9170cdb188",
-      "cluster_main": true
-    },
-    {
-      "title": "Girard-Perregaux Presents a Pair of Laureato Watches for the Williams F1 Team",
-      "url": "https://wornandwound.com/girard-perregaux-presents-a-pair-of-laureato-watches-for-the-williams-f1-team/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/GP-x-Williams-F1-Laureato-5.jpg",
-      "peek_preview": "Last month, Girard-Perregaux announced its latest involvement in the Formula 1 scene with the Atlassian Williams F1 Team. We knew a collaborative watch would soon follow, and the moment has unfolded. Here, we get the de...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T19:00:22.000Z",
-      "score_quality": 75,
-      "score_notif": 52,
-      "cluster": "20260922-7dd248187566",
       "cluster_main": true
     },
     {
