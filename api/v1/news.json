@@ -1,6 +1,6 @@
 {
-  "content_hash": "7f151e9bae5fd8fa9f09f3f274430cd8e99932d1553cdc664ebb1b1053d01065",
-  "last_updated": "2026-09-28T12:47:00.400Z",
+  "content_hash": "31d18e3528468d8bdda7384d27b54c9a8956b3df4d65758532a49e667da819c3",
+  "last_updated": "2026-09-28T13:47:13.260Z",
   "premium": {
     "links": []
   },
@@ -23,13 +23,13 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T11:00:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-28T13:00:52.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
+      "estimated_articles_per_day": 2.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T07:01:53.000Z"
     },
@@ -57,16 +57,16 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-27T13:30:00.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-28T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T17:00:00.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-28T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.8,
+      "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T11:01:21.000Z"
     },
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T12:28:50.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
+      "url": "https://deployant.com/review-perrellet-weekend-stone-dials-new-stones-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=review-perrellet-weekend-stone-dials-new-stones-for-2026",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/perrelet-stone-wrist.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Perrelet has expanded its Weekend collection with four new natural stone-dial models in turquoise, lapis lazuli, tiger’s eye and black onyx. At CHF 1,590, the...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-28T13:30:00.000Z",
+      "score_quality": 58,
+      "score_notif": 28,
+      "cluster": "20260925-a74d964695e4",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing – The Yema Navygraf Meteorite CMM.10 Limited Edition, in Black or Green",
+      "url": "https://monochrome-watches.com/yema-navygraf-meteorite-cmm-10-limited-edition-black-green-titanium-case-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Yema-Navygraf-Meteorite-CMM.10-Limited-Edition-black-or-green-1-600x237.jpg",
+      "peek_preview": "Recently, French brand Yema has expanded the Navygraf series beyond its traditional tool-watch format, experimenting with less conventional materials such as forged carbon and mother-of-pearl for the dial and bezel inse...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-28T13:00:52.000Z",
+      "score_quality": 82,
+      "score_notif": 24,
+      "cluster": "20260922-1d61e0ad3e1d",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: The Louis Vuitton Monterey In Ceramic",
+      "url": "https://www.hodinkee.com/articles/the-louis-vuitton-monterey-in-ceramic",
+      "image": "https://hodinkee.imgix.net/uploads/images/93064804-a861-4c1e-b81b-9c5ec320ff82/montereyceramicheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A modern tribute to the brand's Monterey II brings back ceramics and a smaller case into the permanent collection.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-28T13:00:00.000Z",
+      "score_quality": 77,
+      "score_notif": 62,
+      "cluster": "20260928-83f8266bad79",
+      "cluster_main": false
+    },
     {
       "title": "M.A.D.2 Live sbarca in Italia: appuntamento alla Milano Watch Week",
       "url": "https://italianwatchspotter.com/m-a-d-2-live-in-tour-milano/",
@@ -1170,20 +1212,6 @@
       "cluster_main": false
     },
     {
-      "title": "Value Proposition – Formex Takes its Field Watch to the Air with the New AirField Titanium Pilot’s Watch",
-      "url": "https://monochrome-watches.com/formex-airfield-series-accessible-automatic-titanium-pilot-watch-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Formex-AirField-Accessible-Automatic-Titanium-Pilot-Watch-1-600x237.jpg",
-      "peek_preview": "In 2022, Formex launched the Field Automatic, a 41mm titanium field watch developed with the brand’s signature focus on practical engineering. The series was refined in 2025 with the Field Automatic Gen 2, boasting a sl...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T16:01:47.000Z",
-      "score_quality": 78,
-      "score_notif": 48,
-      "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
-    },
-    {
       "title": "Backes & Strauss Partners With Tennis Player Elina Avanesyan For An Upcoming Special Watch Collection",
       "url": "https://www.ablogtowatch.com/backes-strauss-partners-with-tennis-player-elina-avanesyan-for-an-upcoming-special-watch-collection/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Hand-in-pocket-768x1152.png",
@@ -1265,7 +1293,7 @@
       "score_quality": 92,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -1475,7 +1503,7 @@
       "score_quality": 87,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -1489,7 +1517,7 @@
       "score_quality": 71,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
@@ -1559,7 +1587,7 @@
       "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1615,7 +1643,7 @@
       "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1823,37 +1851,9 @@
       "featured": false,
       "published_at": "2026-09-22T17:25:13.000Z",
       "score_quality": 60,
-      "score_notif": 35,
+      "score_notif": 24,
       "cluster": "20260922-1d61e0ad3e1d",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Chopard Brings Back The Original Happy Diamonds And Happy Sport",
-      "url": "https://www.hodinkee.com/articles/chopard-brings-back-the-original-happy-diamonds-and-happy-sport",
-      "image": "https://hodinkee.imgix.net/uploads/images/a06d5d6f-1a60-4099-be1a-52c10edbd8ce/ChpardHappySportandHappyDiamonds.png?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Faithful proportions, floating stones, and a surprisingly tiny mechanical movement make for a convincing exercise in archival revival.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T17:00:00.000Z",
-      "score_quality": 79,
-      "score_notif": 48,
-      "cluster": "20260922-d1563798cd2f",
-      "cluster_main": true
-    },
-    {
-      "title": "Late to the trend, and better for it | Moser Streamliner 34 Review",
-      "url": "https://www.unpolishedwatches.com/p/late-to-the-trend-and-better-for",
-      "image": "https://substackcdn.com/image/fetch/$s_!O_TI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F817097c5-3fee-491a-8d76-1d8aa7ca7814_2048x1365.jpeg",
-      "peek_preview": "A week with Moser’s smallest sports watch. Plus, why Rolex doesn’t need scarcity.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-22T16:00:41.000Z",
-      "score_quality": 73,
-      "score_notif": 14,
-      "cluster": "20260922-621695c688f8",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
