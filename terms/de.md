@@ -6,6 +6,8 @@
 
 Durch das Herunterladen, Installieren oder Nutzen von Lunette ("die App") erklärst du dich mit diesen Nutzungsbedingungen einverstanden. Wenn du nicht einverstanden bist, nutze die App nicht.
 
+Diese Bedingungen gelten zusätzlich zur [Standard-Lizenzvereinbarung](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) von Apple. Apple ist nicht Partei dieser Bedingungen und ist nicht für die App oder deren Support verantwortlich.
+
 ## 2. Beschreibung des Dienstes
 
 Lunette ist eine iOS-App zum Verwalten einer Uhrensammlung, Prüfen des Uhrengangs, Führen eines Tragetagebuchs und Erstellen teilbarer Storys. Die App funktioniert offline. Ein optionales iCloud-Backup kann eine Kopie deiner Daten in deinem Apple-Konto speichern.
@@ -54,23 +56,21 @@ Die App kann öffentliche Zeitserver für Genauigkeitsprüfungen, die Lunette-AP
 
 Genauigkeitsergebnisse sind Schätzungen anhand der verfügbaren Messwerte und Zeitreferenzen. Sie sind keine professionelle uhrmacherische Zertifizierung. Die Verfügbarkeit der App und der Online-Funktionen kann variieren. Diese Bedingungen schränken gesetzlich unabdingbare Rechte und Gewährleistungen nicht ein.
 
+Nachrichtenartikel und Bilder stammen von den Websites der Herausgeber. Preise und Fotos in der Wunschliste stammen von den Angebotsseiten, die du hinzufügst. Wir haben keinen Einfluss auf diese Inhalte und können nicht garantieren, dass sie richtig, vollständig oder aktuell sind. Prüfe Preise und Details vor dem Kauf beim Verkäufer.
+
 ## 12. Haftung und Verbraucherrechte
 
 Softwarefehler, Ausfälle des Geräts oder Betriebssystems, versehentliches Löschen und Probleme mit Backups können zum Verlust oder zur Beschädigung von Daten führen. Bewahre eine separate Sicherung wichtiger Daten auf. Wir können die Wiederherstellung verlorener Daten nicht garantieren. Soweit gesetzlich zulässig, haften wir nicht für Datenverluste, die durch solche Ereignisse verursacht werden. Dies schließt die Haftung für Vorsatz, grobe Fahrlässigkeit oder andere Pflichtverletzungen, für die eine Haftung gesetzlich nicht ausgeschlossen werden darf, nicht aus und schränkt gesetzliche Verbraucherrechte nicht ein.
 
-## 13. Deine Pflichten
-
-Du bist für Inhalte verantwortlich, die du selbst teilst, und musst die App rechtmäßig verwenden.
-
-## 14. Beendigung
+## 13. Beendigung
 
 Du kannst die App jederzeit nicht mehr verwenden. Beim Löschen werden lokale App-Daten von diesem Gerät entfernt. Ein aktiviertes iCloud-Backup kannst du über dein Apple-Konto verwalten oder löschen. Online-Funktionen können sich im Rahmen des geltenden Rechts ändern oder enden.
 
-## 15. Anwendbares Recht
+## 14. Anwendbares Recht
 
 Für diese Bedingungen gilt italienisches Recht. Vorbehaltlich zwingender Verbraucherschutz- und Zuständigkeitsregeln in deinem Wohnsitzland sind die zuständigen Gerichte in Italien ausschließlich zuständig. Dein Recht, ein anderes nach geltendem Recht zuständiges Gericht anzurufen, bleibt unberührt.
 
-## 16. Allgemeine Bestimmungen
+## 15. Allgemeine Bestimmungen
 
 Wir können diese Bedingungen aktualisieren und veröffentlichen den neuen Text mit einem neuen Datum. Änderungen gelten nur im gesetzlich zulässigen Umfang und nehmen dir keine Rechte aus früheren Käufen.
 

@@ -6,6 +6,8 @@
 
 By downloading, installing or using Lunette ("the App"), you agree to be bound by these Terms of Use. If you do not agree, do not use the App.
 
+These terms apply in addition to Apple's [Standard License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). Apple is not a party to these terms and is not responsible for the App or its support.
+
 ## 2. Description of Service
 
 Lunette is an iOS app for managing a watch collection, checking timekeeping, keeping a wear journal and creating shareable stories. The App works offline. Optional iCloud backup can store a copy of your data in your Apple account.
@@ -54,23 +56,21 @@ The App may connect to public time servers for timekeeping checks, to Lunette's 
 
 Timekeeping results are estimates based on the readings and time references available. They are not professional horological certifications. App and online feature availability may vary. Nothing in these terms limits rights or warranties that cannot be excluded by law.
 
+News articles and images come from publisher websites. Wishlist prices and photos come from the listing sites you add. We do not control that content and cannot guarantee that it is accurate, complete or up to date. Confirm prices and details with the seller before you buy.
+
 ## 12. Liability and consumer rights
 
 Software faults, device or operating system failures, accidental deletion and backup problems can cause data loss or corruption. Keep a separate backup of records that matter to you. We cannot guarantee that lost data can be recovered. To the extent permitted by applicable law, we are not liable for data loss caused by these events. This does not exclude liability for intentional misconduct, gross negligence or any breach for which liability cannot legally be excluded, and it does not reduce your statutory consumer remedies.
 
-## 13. Your responsibilities
-
-You are responsible for content you choose to share and for using the App lawfully.
-
-## 14. Termination
+## 13. Termination
 
 You may stop using the App at any time. Deleting it removes the local app data from that device. If you enabled iCloud backup, manage or delete that backup through your Apple account. Online features may change or end, subject to applicable law.
 
-## 15. Governing Law
+## 14. Governing Law
 
 Italian law applies to these terms. Subject to mandatory consumer protections and jurisdiction rules in your country of residence, disputes are subject to the exclusive jurisdiction of the competent courts in Italy. This does not limit any right to bring a claim before another court available to you under applicable law.
 
-## 16. General Provisions
+## 15. General Provisions
 
 We may update these terms and will publish the revised text with a new date. Changes apply only as permitted by law and do not remove rights attached to earlier purchases.
 

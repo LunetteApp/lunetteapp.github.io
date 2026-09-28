@@ -6,6 +6,8 @@
 
 Scaricando, installando o utilizzando Lunette ("l'App"), accetti di essere vincolato dalle presenti Condizioni d'Uso. Se non accetti, non utilizzare l'App.
 
+Le presenti condizioni si applicano in aggiunta al [Contratto di licenza standard](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) di Apple. Apple non è parte delle presenti condizioni e non è responsabile dell'App né della relativa assistenza.
+
 ## 2. Descrizione del Servizio
 
 Lunette è un’app iOS per gestire una collezione di orologi, controllarne la precisione, tenere un diario d’uso e creare storie da condividere. L’App funziona offline. Il backup iCloud opzionale può salvare una copia dei dati nel tuo account Apple.
@@ -54,23 +56,21 @@ L'App può collegarsi a server temporali pubblici per controllare la precisione,
 
 I risultati sulla precisione sono stime basate sulle letture e sui riferimenti temporali disponibili. Non sono certificazioni orologiere professionali. La disponibilità dell'App e delle funzioni online può variare. Queste condizioni non limitano diritti o garanzie che la legge non consente di escludere.
 
+Gli articoli e le immagini delle notizie provengono dai siti degli editori. I prezzi e le foto della Wishlist provengono dai siti di annunci che aggiungi. Non controlliamo questi contenuti e non possiamo garantire che siano accurati, completi o aggiornati. Verifica prezzi e dettagli con il venditore prima dell'acquisto.
+
 ## 12. Responsabilità e diritti dei consumatori
 
 Malfunzionamenti del software, guasti del dispositivo o del sistema operativo, cancellazioni accidentali e problemi di backup possono causare la perdita o il danneggiamento dei dati. Conserva una copia separata dei dati importanti. Non possiamo garantire il recupero dei dati persi. Nei limiti consentiti dalla legge applicabile, non siamo responsabili della perdita di dati causata da questi eventi. Questa limitazione non esclude la responsabilità per dolo, colpa grave o altri inadempimenti per cui la legge vieta l'esclusione, né riduce i rimedi previsti per i consumatori.
 
-## 13. Le tue responsabilità
-
-Sei responsabile dei contenuti che scegli di condividere e dell'uso lecito dell'App.
-
-## 14. Risoluzione
+## 13. Risoluzione
 
 Puoi smettere di usare l'App in qualsiasi momento. Eliminandola, rimuovi i dati locali da quel dispositivo. Se hai attivato il backup iCloud, gestiscilo o eliminalo tramite il tuo account Apple. Le funzioni online possono cambiare o terminare, nel rispetto della legge applicabile.
 
-## 15. Legge Applicabile
+## 14. Legge Applicabile
 
 A queste condizioni si applica la legge italiana. Fatti salvi i diritti inderogabili dei consumatori e le regole sulla competenza nel tuo paese di residenza, le controversie sono soggette alla competenza esclusiva dei tribunali italiani. Resta salvo il diritto di rivolgerti a un altro tribunale competente secondo la legge applicabile.
 
-## 16. Disposizioni Generali
+## 15. Disposizioni Generali
 
 Possiamo aggiornare queste condizioni e pubblicheremo il testo rivisto con una nuova data. Le modifiche si applicano solo nei limiti consentiti dalla legge e non eliminano i diritti relativi agli acquisti precedenti.
 

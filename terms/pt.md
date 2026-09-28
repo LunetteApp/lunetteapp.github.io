@@ -6,6 +6,8 @@
 
 Ao baixar, instalar ou usar o Lunette ("o Aplicativo"), você concorda em ficar vinculado a estes Termos de Uso. Se você não concordar, não use o Aplicativo.
 
+Estes termos se aplicam em adição ao [Contrato de Licença Padrão](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) da Apple. A Apple não é parte destes termos e não é responsável pelo Aplicativo nem pelo seu suporte.
+
 ## 2. Descrição do serviço
 
 O Lunette é um app iOS para gerenciar uma coleção de relógios, verificar a precisão, manter um diário de uso e criar histórias para compartilhar. O app funciona offline. O backup opcional no iCloud pode guardar uma cópia dos dados na sua Conta Apple.
@@ -54,23 +56,21 @@ O aplicativo pode se conectar a servidores públicos de horário para verificar 
 
 Os resultados de precisão são estimativas baseadas nas leituras e referências de horário disponíveis. Não são certificações relojoeiras profissionais. A disponibilidade do aplicativo e dos recursos online pode variar. Estes termos não limitam direitos ou garantias que a lei não permite excluir.
 
+Os artigos e imagens de notícias vêm dos sites dos editores. Os preços e fotos da Lista de Desejos vêm dos sites de anúncios que você adiciona. Não controlamos esse conteúdo e não podemos garantir que ele seja preciso, completo ou atualizado. Confirme preços e detalhes com o vendedor antes de comprar.
+
 ## 12. Responsabilidade e direitos do consumidor
 
 Falhas de software, do dispositivo ou do sistema operacional, exclusões acidentais e problemas de backup podem causar perda ou corrupção de dados. Mantenha uma cópia separada dos dados importantes. Não podemos garantir a recuperação dos dados perdidos. Na medida permitida pela lei aplicável, não nos responsabilizamos pela perda de dados causada por esses eventos. Essa limitação não exclui a responsabilidade por dolo, culpa grave ou outra violação cuja responsabilidade não possa ser excluída por lei, nem reduz seus direitos legais como consumidor.
 
-## 13. Suas responsabilidades
-
-Você é responsável pelo conteúdo que escolher compartilhar e por usar o aplicativo de forma lícita.
-
-## 14. Rescisão
+## 13. Rescisão
 
 Você pode parar de usar o aplicativo a qualquer momento. Excluí-lo remove os dados locais daquele dispositivo. Se tiver ativado o backup no iCloud, gerencie ou exclua essa cópia pela sua Conta Apple. Recursos online podem mudar ou terminar conforme a lei aplicável.
 
-## 15. Legislação aplicável
+## 14. Legislação aplicável
 
 Estes termos seguem a lei italiana. Ressalvadas as normas obrigatórias de proteção e competência do consumidor no seu país de residência, os tribunais competentes da Itália têm jurisdição exclusiva. Isso não limita seu direito de recorrer a outro tribunal disponível conforme a lei aplicável.
 
-## 16. Disposições gerais
+## 15. Disposições gerais
 
 Podemos atualizar estes termos e publicar o texto revisado com uma nova data. As mudanças só se aplicam conforme permitido por lei e não removem direitos de compras anteriores.
 

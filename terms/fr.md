@@ -6,6 +6,8 @@
 
 En téléchargeant, installant ou utilisant Lunette ("l'App"), vous acceptez d'être lié par les présentes Conditions d'Utilisation. Si vous n'êtes pas d'accord, n'utilisez pas l'App.
 
+Les présentes conditions s'appliquent en complément du [Contrat de licence standard](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) d'Apple. Apple n'est pas partie aux présentes conditions et n'est pas responsable de l'App ni de son assistance.
+
 ## 2. Description du Service
 
 Lunette est une app iOS pour gérer une collection de montres, vérifier leur marche, tenir un journal de port et créer des stories à partager. L’app fonctionne hors ligne. La sauvegarde iCloud facultative peut conserver une copie de vos données dans votre compte Apple.
@@ -54,23 +56,21 @@ L'app peut se connecter à des serveurs horaires publics pour contrôler la pré
 
 Les résultats de précision sont des estimations fondées sur les mesures et les références horaires disponibles. Ils ne constituent pas une certification horlogère professionnelle. La disponibilité de l'app et des fonctions en ligne peut varier. Ces conditions ne limitent pas les droits ou garanties que la loi interdit d'exclure.
 
+Les articles et images d'actualité proviennent des sites des éditeurs. Les prix et photos de la liste de souhaits proviennent des sites d'annonces que vous ajoutez. Nous ne contrôlons pas ces contenus et ne pouvons pas garantir qu'ils soient exacts, complets ou à jour. Vérifiez les prix et les détails auprès du vendeur avant d'acheter.
+
 ## 12. Responsabilité et droits des consommateurs
 
 Les dysfonctionnements du logiciel, les pannes de l’appareil ou du système d’exploitation, les suppressions accidentelles et les problèmes de sauvegarde peuvent entraîner une perte ou une altération des données. Conservez une copie séparée des données importantes. Nous ne pouvons pas garantir la récupération des données perdues. Dans les limites autorisées par la loi applicable, nous ne sommes pas responsables des pertes de données causées par ces événements. Cette limitation n’exclut pas notre responsabilité en cas de faute intentionnelle, de faute lourde ou d’autre manquement dont la responsabilité ne peut être exclue par la loi et ne réduit pas vos recours légaux en tant que consommateur.
 
-## 13. Vos responsabilités
-
-Vous êtes responsable des contenus que vous choisissez de partager et d'une utilisation licite de l'app.
-
-## 14. Résiliation
+## 13. Résiliation
 
 Vous pouvez cesser d'utiliser l'app à tout moment. Sa suppression efface les données locales de cet appareil. Si vous avez activé la sauvegarde iCloud, gérez-la ou supprimez-la dans votre compte Apple. Les fonctions en ligne peuvent changer ou cesser dans le respect de la loi applicable.
 
-## 15. Loi Applicable
+## 14. Loi Applicable
 
 Le droit italien s’applique à ces conditions. Sous réserve des protections impératives des consommateurs et des règles de compétence dans votre pays de résidence, les tribunaux compétents d’Italie ont compétence exclusive. Cela ne limite pas votre droit de saisir un autre tribunal disponible selon la loi applicable.
 
-## 16. Dispositions Générales
+## 15. Dispositions Générales
 
 Nous pouvons mettre à jour ces conditions et publierons le texte révisé avec une nouvelle date. Les changements ne s'appliquent que dans la mesure permise par la loi et ne suppriment pas les droits liés aux achats antérieurs.
 
