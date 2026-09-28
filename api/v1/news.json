@@ -1,6 +1,6 @@
 {
-  "content_hash": "7cddfaa736c9da8486c1bf9901667d949c69bbeafb369766118bc97e9f76b3d8",
-  "last_updated": "2026-09-28T16:47:13.545Z",
+  "content_hash": "7f33efc83d9de7ead0a76a15129355750f36cc8fe4b3d3b6aed228ce504fba23",
+  "last_updated": "2026-09-28T17:47:19.328Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T16:10:54.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-25T19:35:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-28T17:14:50.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-28T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Citizen Attesa: Japan's IYKYK \"Tech-Forward\" Titanium Collection Explained",
+      "url": "https://teddybaldassarre.com/blogs/watches/citizen-attesa",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen_Attesa-2.jpg?v=1790614058",
+      "peek_preview": "Citizen has spent decades making advanced watch technology accessible, from light-powered Eco-Drive movements to the purpose-built Promaster collection. The Attesa is where much of that expertise comes together. Introdu...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-28T17:14:50.000Z",
+      "score_quality": 66,
+      "score_notif": 9,
+      "cluster": "20260928-8976b3e0ead6",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Ianos Amfivios (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/ianos-amfivios-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/1884e368-109d-4d59-bf9e-038a48dbf05c/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Ianos brings Greece's first issued dive watch to a new audience with the Amfivios.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-28T17:00:00.000Z",
+      "score_quality": 84,
+      "score_notif": 46,
+      "cluster": "20260928-256a2d58a981",
+      "cluster_main": true
+    },
+    {
       "title": "First Look – Marco Tedeschi’s Impressive Central Floating Tourbillon in Black Aventurine",
       "url": "https://monochrome-watches.com/marco-tedeschi-central-floating-tourbillon-in-black-aventurine-review-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/09/Marco-Tedeschi-Central-Floating-Tourbillon-Titanium-Black-Aventurine-Review-7-600x237.jpg",
@@ -228,7 +256,7 @@
       "published_at": "2026-09-28T13:00:52.000Z",
       "score_quality": 82,
       "score_notif": 24,
-      "cluster": "20260922-1d61e0ad3e1d",
+      "cluster": "20260928-4c393bd35729",
       "cluster_main": true
     },
     {
@@ -381,9 +409,9 @@
       "featured": false,
       "published_at": "2026-09-28T07:00:44.000Z",
       "score_quality": 68,
-      "score_notif": 36,
+      "score_notif": 46,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Ianos Amfivios takes a military-issued diver and opens it up to the rest of us",
@@ -395,7 +423,7 @@
       "featured": false,
       "published_at": "2026-09-28T07:00:37.000Z",
       "score_quality": 72,
-      "score_notif": 36,
+      "score_notif": 46,
       "cluster": "20260928-256a2d58a981",
       "cluster_main": false
     },
@@ -1601,7 +1629,7 @@
       "score_quality": 99,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
@@ -1657,7 +1685,7 @@
       "score_quality": 100,
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: The Grand Seiko Elegance SBGW325",
@@ -1685,20 +1713,6 @@
       "score_quality": 68,
       "score_notif": 48,
       "cluster": "20260923-fdfec7a53fb6",
-      "cluster_main": true
-    },
-    {
-      "title": "Staff Picks: The Watches We Wore This Summer",
-      "url": "https://www.hodinkee.com/articles/the-watches-we-wore-this-summer",
-      "image": "https://hodinkee.imgix.net/uploads/images/0371a86b-f0e0-4428-99b5-be9974af4b34/summerwatches.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Summer may be slipping away, but there's still time to talk about watches.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T13:00:00.000Z",
-      "score_quality": 32,
-      "score_notif": 8,
-      "cluster": "20260923-1d1ce5abd04d",
       "cluster_main": true
     },
     {
@@ -1840,20 +1854,6 @@
       "score_notif": 27,
       "cluster": "20260922-385dc691e8e9",
       "cluster_main": true
-    },
-    {
-      "title": "Nuovo Yema Navygraf Meteorite CMM.10 Limited Edition: titanio e meteorite in 150 esemplari",
-      "url": "https://www.orologidiclasse.com/yema-navygraf-meteorite-cmm10-limited-edition/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/yema-navygraf-meteorite-cmm10-limited-edition.jpg",
-      "peek_preview": "Yema presenta il Navygraf Meteorite CMM.10 Limited Edition, una serie limitata a soli 150 esemplari che porta il diver francese verso un posizionamento decisamente più ambizioso. Il prezzo è di 2.900 euro e gli elementi...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-22T17:25:13.000Z",
-      "score_quality": 60,
-      "score_notif": 24,
-      "cluster": "20260922-1d61e0ad3e1d",
-      "cluster_main": false
     }
   ]
 }
