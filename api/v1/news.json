@@ -1,6 +1,6 @@
 {
-  "content_hash": "2f87930fb0377443aa0987ab41a0052cc9bc19534c91bb790beee6be52ba760b",
-  "last_updated": "2026-09-29T03:47:28.871Z",
+  "content_hash": "96c50564551324cad8349ef37da7a596de9d47ea2c27ea44a5c709854295f605",
+  "last_updated": "2026-09-29T06:48:05.409Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T16:10:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T06:30:38.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T03:00:57.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – New, Earthy Colourways for the Seiko 5 Sports Field GMT Series",
+      "url": "https://monochrome-watches.com/new-earthy-colourways-2026-seiko-5-sports-field-gmt-series-hdb001-hdb002-value-proposition-introducing/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-new-colours-Seiko-5-Sports-Field-Watch-HDB001-HDB002-1-600x237.jpg",
+      "peek_preview": "Seiko’s entry-level collection, the 5 Sports series, was primarily known for its SKX-inspired, dive-oriented watches and numerous collaborations, resulting in pretty cool timepieces. But that was until the brand decided...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T06:30:38.000Z",
+      "score_quality": 78,
+      "score_notif": 18,
+      "cluster": "20260924-52705c3f8bc5",
+      "cluster_main": true
+    },
     {
       "title": "チャペックがボリス・ヴィアンの小説『日々の泡』を表現した「プロムナード レキュム・デ・ジュール」を発表",
       "url": "https://www.webchronos.net/news/173818/",
@@ -201,7 +215,7 @@
       "score_quality": 85,
       "score_notif": 67,
       "cluster": "20260928-70f86d451bef",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Visiting Manufacture La Joux-Perret",
@@ -299,7 +313,7 @@
       "score_quality": 83,
       "score_notif": 67,
       "cluster": "20260928-70f86d451bef",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Majestic Journey Through Clocks & Watches Made for Royalty: The Victorian Age of Time – Queen Victoria and the Watchmaking Revolution",
@@ -1194,8 +1208,8 @@
       "published_at": "2026-09-25T13:00:36.000Z",
       "score_quality": 68,
       "score_notif": 45,
-      "cluster": "20260925-bd4250f514e9",
-      "cluster_main": false
+      "cluster": "20260925-e87bd7dfa254",
+      "cluster_main": true
     },
     {
       "title": "Titaniumize Everything (w/ Austin Rogers, @rehaut)",
@@ -1209,20 +1223,6 @@
       "score_quality": 18,
       "score_notif": 7,
       "cluster": "20260925-600f34f5c96a",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Buci Opens a New Chapter with the Singular Nouvelle Collection",
-      "url": "https://monochrome-watches.com/buci-opens-a-new-chapter-with-the-singular-nouvelle-collection-launching-kickstarter-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Buci-Nouvelle-collection-dress-watch-kickstarter-9-600x237.jpg",
-      "peek_preview": "Founded in 2022 by Nousseïma Baraket, Buci approaches watchmaking through the written word, taking ideas from books, poetry and different forms of writing. Its debut Garde-Temps collection established this identity, fol...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T10:00:48.000Z",
-      "score_quality": 71,
-      "score_notif": 45,
-      "cluster": "20260925-bd4250f514e9",
       "cluster_main": true
     },
     {
@@ -1375,9 +1375,9 @@
       "featured": false,
       "published_at": "2026-09-24T19:00:49.000Z",
       "score_quality": 57,
-      "score_notif": 26,
+      "score_notif": 18,
       "cluster": "20260924-52705c3f8bc5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Overseas Ewiger Kalender Edition extra-flach: Zum 30. Geburtstag gibt es Azurblau",
