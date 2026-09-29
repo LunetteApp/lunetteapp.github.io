@@ -1,6 +1,6 @@
 {
-  "content_hash": "42c90bac67d6cfc5afe9056eebb73cf9f2e886cea63175b84e8ca5a8a0bb2012",
-  "last_updated": "2026-09-29T12:48:30.905Z",
+  "content_hash": "2979ee2fbf846a7367582c74297f5bd64aad7b8df61c26a16d8a28bd79af7c8b",
+  "last_updated": "2026-09-29T13:47:55.053Z",
   "premium": {
     "links": []
   },
@@ -9,21 +9,21 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T12:00:26.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T19:00:35.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T13:00:09.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T12:00:42.000Z"
     },
     {
@@ -58,14 +58,14 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T12:06:32.000Z"
     },
     {
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T12:00:17.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Ba111od Chapter 7 Skeleton in Natural Steel: Video with Thomas Baillod | new for Sept 26",
+      "url": "https://deployant.com/ba111od-chapter-7-skeleton-in-natural-steel-video-with-thomas-baillod-new-for-sept-26/?utm_source=rss&utm_medium=rss&utm_campaign=ba111od-chapter-7-skeleton-in-natural-steel-video-with-thomas-baillod-new-for-sept-26",
+      "image": "https://deployant.com/wp-content/uploads/2026/09/Ba111od-Chapter-7-Skeleton-thumbnail.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors At Geneva Watch Days 2026, Ba111od founder Thomas Baillod introduces the new Chapter 7 Skeleton in natural steel. We sat down with Baillod to talk through the...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T13:30:00.000Z",
+      "score_quality": 81,
+      "score_notif": 25,
+      "cluster": "20260924-33c7d2e2e5a7",
+      "cluster_main": false
+    },
+    {
+      "title": "Formex Introduces the New AirField",
+      "url": "https://wornandwound.com/formex-introduces-the-new-airfield/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Formex-AirField-2.jpg",
+      "peek_preview": "Earlier this year when Formex unveiled the Aria, which is unquestionably their most ambitious watch to date, with a price point to match, there was a lot of talk among enthusiasts about what a higher price point could s...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T13:00:09.000Z",
+      "score_quality": 71,
+      "score_notif": 48,
+      "cluster": "20260924-174749a3d4b2",
+      "cluster_main": false
+    },
     {
       "title": "Introducing: The Nomos Club Sport Neomatik Worldtimer Dark (Live Pics)",
       "url": "https://www.hodinkee.com/articles/the-nomos-club-sport-neomatik-worldtimer-dark-live-pics",
@@ -1741,7 +1769,7 @@
       "score_quality": 72,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin Azure Blue—Celebrating the 30th Anniversary of the Overseas",
@@ -1769,7 +1797,7 @@
       "score_quality": 71,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
@@ -1782,8 +1810,8 @@
       "published_at": "2026-09-24T05:30:00.000Z",
       "score_quality": 60,
       "score_notif": 57,
-      "cluster": "20260917-83a40dea703f",
-      "cluster_main": false
+      "cluster": "20260924-08574af34ce5",
+      "cluster_main": true
     },
     {
       "title": "Grönefeld 1941 Quadrivium: Bart e Tim hanno messo tutto in un solo orologio",
@@ -1814,20 +1842,6 @@
       "cluster_main": true
     },
     {
-      "title": "Six of the Most Obscure Watch and Car Tie-Ins You’ve Likely Never Heard Of",
-      "url": "https://wornandwound.com/six-of-the-most-obscure-watch-and-car-tie-ins-youve-likely-never-heard-of/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/AS-Audi-Sport.jpg",
-      "peek_preview": "In terms of analog intricacy and an unyielding enthusiasm for the vintage and enduring, watches and the automotive realm are a natural A-to-B: it should come as no surprise that the Venn diagram of watch nerds and autom...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T20:00:23.000Z",
-      "score_quality": 52,
-      "score_notif": 12,
-      "cluster": "20260923-78e1669fe471",
-      "cluster_main": true
-    },
-    {
       "title": "DEEP-X: un super diver italiano per festeggiare i 10 anni di WATCH INSANITY",
       "url": "https://italianwatchspotter.com/deep-x-watch-insanity/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-101-1024x682.png",
@@ -1839,20 +1853,6 @@
       "score_quality": 46,
       "score_notif": 28,
       "cluster": "20260923-a70ff6b6f8b5",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: The Grand Seiko Elegance SBGW325",
-      "url": "https://deployant.com/new-release-the-grand-seiko-elegance-sbgw325/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-the-grand-seiko-elegance-sbgw325",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/SBGW325_dial-deployant.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Grand Seiko revisits one of the quieter milestones in its modern mechanical history with the new SBGW325, a 600-piece limited edition inspired by the SBGW003...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T13:30:00.000Z",
-      "score_quality": 84,
-      "score_notif": 57,
-      "cluster": "20260917-83a40dea703f",
       "cluster_main": true
     }
   ]
