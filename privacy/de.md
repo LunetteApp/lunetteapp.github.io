@@ -2,14 +2,14 @@
 
 **Letzte Aktualisierung:** 29. September 2026
 
-Lunette betreibt kein Tracking, zeigt keine Werbung, nutzt keine Analysedienste und speichert deine Daten nicht auf unseren Servern. Alles, was du hinzufügst, bleibt auf deinem Gerät.
+Für die hier beschriebenen personenbezogenen Daten ist Michael Siddi in Italien verantwortlich. Bei Fragen oder Anliegen zum Datenschutz schreibe an [hello@michaelsiddi.com](mailto:hello@michaelsiddi.com).
 
-Du kannst deine Daten in deinem eigenen iCloud-Konto sichern, das Apple verwaltet, oder als ZIP-Datei exportieren und aufbewahren, wo du möchtest. Wir haben auf beides keinen Zugriff.
+Die App zeigt keine Werbung, nutzt keine Analysedienste und betreibt kein Tracking. Deine Sammlung wird standardmäßig auf deinem Gerät gespeichert, nicht auf unseren Servern. Du kannst sie in deinem eigenen iCloud-Konto sichern, das Apple verwaltet, oder als ZIP-Datei exportieren. Wir können auf diese Kopien nur zugreifen, wenn du sie selbst mit uns teilst.
 
-Kamera, Fotos, Mikrofon und Standort werden nur für die Funktionen genutzt, die danach fragen. Zeitwaagen-Audio wird auf deinem Gerät verarbeitet und nie übertragen. Standort- und Adresssuchen laufen über Apple.
+Kamera, Fotos, Mikrofon und Standort werden nur für die Funktionen genutzt, die danach fragen. Zeitwaagen-Audio wird auf deinem Gerät verarbeitet und nicht an uns gesendet. Du kannst eine Diagnoseaufnahme selbst teilen. Apple verarbeitet Standort- und Adresssuchen.
 
-Die App verbindet sich mit öffentlichen Zeitservern, mit der Lunette-API für Katalogupdates, Nachrichten und Vorlagen sowie mit Angebotsseiten, die du deiner Wunschliste hinzufügst. Diese Dienste können deine IP-Adresse sehen, ebenso Google Fonts und Product Hunt auf unserer Website. Die App sendet deine Sammlung nie an uns.
+Die App verbindet sich mit öffentlichen Zeitservern, mit der Lunette-API für Katalogupdates, Nachrichten, Vorlagen und Wechselkurse sowie mit Angebotsseiten, die du deiner Wunschliste hinzufügst. Diese Dienste erhalten technische Verbindungsdaten wie deine IP-Adresse. Auch unser Website-Host, Google Fonts und Product Hunt können solche Daten erhalten. Die App sendet deine Sammlung nie an uns.
 
-Wenn du unser [Kontaktformular](https://lunetteapp.com/contact) nutzt, stellt FormSubmit.co uns deine Nachricht und eventuelle Gerätedaten per E-Mail zu. Wir nutzen sie nur für die Antwort.
+Wenn du unser [Kontaktformular](https://lunetteapp.com/contact) nutzt, stellt FormSubmit.co uns deinen Namen, deine E-Mail-Adresse, deine Nachricht und eventuelle Gerätedaten per E-Mail zu. Wir nutzen diese Angaben zur Beantwortung deiner Anfrage auf Grundlage unseres berechtigten Interesses. Wir bewahren die Korrespondenz nur so lange auf, wie es für die Bearbeitung der Anfrage oder gesetzliche Pflichten nötig ist.
 
-Wenn du die App löschst, werden ihre Daten von deinem Gerät entfernt. Ein iCloud-Backup löschst du über dein Apple-Konto.
+Du kannst Auskunft über personenbezogene Daten verlangen, die wir über dich speichern, sowie ihre Berichtigung oder Löschung. Du kannst auch eine Einschränkung der Verarbeitung verlangen oder ihr widersprechen und dich bei der [italienischen Datenschutzbehörde](https://www.garanteprivacy.it/) beschweren. Wenn du die App löschst, werden ihre lokalen Daten entfernt. Ein iCloud-Backup löschst du über dein Apple-Konto.

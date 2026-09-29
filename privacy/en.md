@@ -2,14 +2,14 @@
 
 **Last updated:** September 29, 2026
 
-Lunette does not track you, shows no ads, uses no analytics and does not store your data on our servers. Everything you add stays on your device.
+Michael Siddi in Italy is responsible for the personal data described here. For privacy questions or requests, email [hello@michaelsiddi.com](mailto:hello@michaelsiddi.com).
 
-You can back up your data to your own iCloud account, managed by Apple, or export it as a ZIP file and keep it wherever you want. We cannot access either.
+The app has no ads, analytics or tracking. Your collection is stored on your device by default, not on our servers. You can back it up to your own iCloud account, managed by Apple, or export it as a ZIP file. We cannot access those copies unless you choose to share them.
 
-Camera, photos, microphone and location are used only for the features that ask for them. Timegrapher audio is processed on your device and never sent anywhere. Location and address lookups are handled by Apple.
+Camera, photos, microphone and location are used only for the features that ask for them. Timegrapher audio is processed on your device and is not sent to us. You can choose to share a diagnostic recording. Apple handles location and address lookups.
 
-The app connects to public time servers, to Lunette's API for catalog updates, news and templates and to listing sites you add to your Wishlist. These services can see your IP address, as can Google Fonts and Product Hunt on our website. The app never sends your collection to us.
+The app connects to public time servers, Lunette's API for catalog updates, news, templates and exchange rates and listing sites you add to your Wishlist. These services receive technical connection data such as your IP address. Our website host, Google Fonts and Product Hunt can receive similar data. The app never sends your collection to us.
 
-If you use our [contact form](https://lunetteapp.com/contact), FormSubmit.co delivers your message and any device details to us by email. We use them only to reply.
+If you use our [contact form](https://lunetteapp.com/contact), FormSubmit.co delivers your name, email, message and any device details to us by email. We use this information to answer you, based on our legitimate interest in handling requests. We keep correspondence only as long as needed to handle the request or meet legal obligations.
 
-Deleting the app removes its data from your device. Delete any iCloud backup through your Apple account.
+You can ask us to access, correct or delete personal data we hold about you, or to restrict or object to its use. You can also complain to the [Italian Data Protection Authority](https://www.garanteprivacy.it/). Deleting the app removes its local data. Delete any iCloud backup through your Apple account.
