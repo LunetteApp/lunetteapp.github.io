@@ -1,6 +1,6 @@
 {
-  "content_hash": "330dc7266c72e4dcd5968b5603ba4c3883d68b749675b89209199a351b3bac87",
-  "last_updated": "2026-09-28T23:45:47.665Z",
+  "content_hash": "70ab62fba4f6ec88bd0bdfca6c461d9b446adf0442c053c61d491ca144ecedac",
+  "last_updated": "2026-09-29T00:47:26.342Z",
   "premium": {
     "links": []
   },
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T22:25:39.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T03:00:42.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T00:00:50.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "オリエントの〝ダイバーズ〟デザインウォッチ「オリエント マコ」より、初のGMTモデルが登場",
+      "url": "https://www.webchronos.net/news/173689/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/OR_mako_1.webp",
+      "peek_preview": "オリエントの「スポーツ」コレクションを代表する「オリエント マコ」より、シリーズ初となるGMTモデルが発表された。カラーバリエーションは限定モデルも含めた計5種が用意され、いずれもダイアルを引き立てるツートンカラーのベゼ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-29T00:00:50.000Z",
+      "score_quality": 74,
+      "score_notif": 55,
+      "cluster": "20260929-b2a0903044ae",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: MB&F x Caran d'Ache GorillaSharpener—The Knuckle-Walking Desk Beast That Wants You Writing Again",
       "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-x-caran-d-ache-gorilla-pencil-sharpner",
@@ -285,7 +299,7 @@
       "score_quality": 84,
       "score_notif": 46,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Marco Tedeschi’s Impressive Central Floating Tourbillon in Black Aventurine",
@@ -495,7 +509,7 @@
       "score_quality": 68,
       "score_notif": 46,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Ianos Amfivios takes a military-issued diver and opens it up to the rest of us",
@@ -929,7 +943,7 @@
       "score_quality": 78,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "デルマがムオニオナルスタ隕石ダイアルを採用した限定モデル、「ミッドランド メテオライト」を発表",
@@ -1615,7 +1629,7 @@
       "score_quality": 72,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin Azure Blue—Celebrating the 30th Anniversary of the Overseas",
@@ -1643,7 +1657,7 @@
       "score_quality": 71,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
@@ -1686,20 +1700,6 @@
       "score_notif": 57,
       "cluster": "20260923-63c25b8b5574",
       "cluster_main": false
-    },
-    {
-      "title": "カシオ「オシアナス」より、「栃木レザー」のストラップを合わせたクラシカルな限定モデルが発表",
-      "url": "https://www.webchronos.net/news/173022/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/OCA_tochigi_1.webp",
-      "peek_preview": "カシオが、アナログ電波ソーラーウォッチ「OCEANUS（オシアナス）」から、クラシックスタイルをテーマとした新作限定モデルを発売した。3針モデルとクロノグラフモデルの2種展開で、いずれもハーフマット調のグラデーションダイ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-24T00:00:22.000Z",
-      "score_quality": 68,
-      "score_notif": 33,
-      "cluster": "20260924-5df6f4f45f30",
-      "cluster_main": true
     },
     {
       "title": "Introducing: Grönefeld 1941 Quadrivium—Four Signature Complications, One Brand-New Calibre",
@@ -1797,7 +1797,7 @@
       "score_quality": 76,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Bremont Terra Nova 40.5 Jumping Hour Burgundy—The Talk of Geneva Watch Days",
