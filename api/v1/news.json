@@ -1,6 +1,6 @@
 {
-  "content_hash": "64ef8dd5caf3632faf42713dedf476754a62963e91bc97d19e02a4c3e872e94b",
-  "last_updated": "2026-09-29T10:47:23.257Z",
+  "content_hash": "1ef97d8b4f0b80edcdd791e88fdaf5bf6f97a6738778136bc1dd2a31774b6433",
+  "last_updated": "2026-09-29T11:47:56.984Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T10:03:43.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-29T06:30:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T11:01:28.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -51,8 +51,8 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T10:33:47.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T10:47:06.000Z"
     },
     {
       "source_name": "Deployant",
@@ -72,15 +72,15 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T01:13:03.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T11:01:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T11:01:03.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – Konstantin Chaykin Brings the Atomic Heart Twins to Life",
+      "url": "https://monochrome-watches.com/konstantin-chaykin-atomic-heart-limited-editions-video-game-rotating-discs-wristmons-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Konstantin-Chaykin-x-Atomic-Heart-Limited-Editions-Video-Game-Collaboration-1-600x237.jpg",
+      "peek_preview": "Konstantin Chaykin has steadily brought unexpected cultural references in his Wristmon series, both international and from his home country, into watchmaking, converting the dial into a small stage for artistic characte...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T11:01:28.000Z",
+      "score_quality": 74,
+      "score_notif": 39,
+      "cluster": "20260929-2e7a1962dd7c",
+      "cluster_main": true
+    },
+    {
+      "title": "Grand Seiko SBGH376 “Sakura Wakaba”: Your next GS grail?",
+      "url": "https://timeandtidewatches.com/grand-seiko-sbgh376-sakura-wakaba-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Grand-Seiko-SBGH376-Sakura-Wakaba-4.jpg",
+      "peek_preview": "The Grand Seiko SBGH376 did not get as much time in the spotlight as the Ushio Diver at Watches and Wonders, but it's not one to miss... The post Grand Seiko SBGH376 “Sakura Wakaba”: Your next GS grail? appeared first o...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T11:01:03.000Z",
+      "score_quality": 30,
+      "score_notif": 8,
+      "cluster": "20260929-c6ffd69e82e9",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands On With The Not-Yet Released Wind Vintage X True North Dreamsicle Watch That The Pope Owns",
+      "url": "https://www.atimelyperspective.com/hands-on-with-the-not-yet-released-wind-vintage-x-true-north-dreamsicle-watch-that-the-pope-owns-price/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_0743-768x1024.jpeg",
+      "peek_preview": "There are plenty of ways to launch a new watch, but having one presented to the Pope before it even goes on sale is certainly among the more unusual. Earlier this month, vintage watch expert and Wind Vintage founder Eri...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T10:47:06.000Z",
+      "score_quality": 77,
+      "score_notif": 44,
+      "cluster": "20260929-e1eafef47dee",
+      "cluster_main": true
+    },
     {
       "title": "Australian Surfer Finds Rolex Submariner In The Pacific Ocean (From The Archives)",
       "url": "https://www.fratellowatches.com/australian-surfer-finds-rolex-submariner-in-the-pacific-ocean/",
@@ -481,7 +523,7 @@
       "score_quality": 77,
       "score_notif": 59,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "M.A.D.2 Live sbarca in Italia: appuntamento alla Milano Watch Week",
@@ -593,7 +635,7 @@
       "score_quality": 86,
       "score_notif": 59,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time Machines: Reluctantly Becoming A ‘Rolex Guy’ With The Circa 1974 Rolex Oysterdate Precision Ref. 6694 Watch",
@@ -1055,7 +1097,7 @@
       "score_quality": 78,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "デルマがムオニオナルスタ隕石ダイアルを採用した限定モデル、「ミッドランド メテオライト」を発表",
@@ -1226,20 +1268,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The Favre Leuba Harpoon Revival Series Expands With New Colours",
-      "url": "https://monochrome-watches.com/favre-leuba-harpoon-revival-black-and-blue-dials-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Favre-Leuba-Harpoon-Revival-Black-and-Blue-Dials-1-600x237.jpg",
-      "peek_preview": "One of the oldest Swiss watchmaking brands (Founded in 1737 in Le Locle), Favre Leuba underwent a global relaunch in 2024 under the leadership of CEO Patrik P. Hoffmann and has since been pretty busy relaunching timepie...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T13:01:34.000Z",
-      "score_quality": 79,
-      "score_notif": 42,
-      "cluster": "20260925-654bd46e064e",
-      "cluster_main": true
-    },
-    {
       "title": "Are You Ready To Pitch The Favre Leuba Harpoon Revival?",
       "url": "https://www.fratellowatches.com/favre-leuba-harpoon-revival/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Favre-Leuba-Harpoon.jpg",
@@ -1251,7 +1279,7 @@
       "score_quality": 56,
       "score_notif": 42,
       "cluster": "20260925-654bd46e064e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Understanding the Poetry of Time Through Buci’s Founder and Its Newest Collection: Nouvelle",
@@ -1503,7 +1531,7 @@
       "score_quality": 92,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
@@ -1699,7 +1727,7 @@
       "score_quality": 72,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin Azure Blue—Celebrating the 30th Anniversary of the Overseas",
@@ -1713,7 +1741,7 @@
       "score_quality": 87,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
@@ -1727,7 +1755,7 @@
       "score_quality": 71,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
@@ -1825,34 +1853,6 @@
       "score_quality": 68,
       "score_notif": 48,
       "cluster": "20260923-fdfec7a53fb6",
-      "cluster_main": true
-    },
-    {
-      "title": "The scratch-resistant Héron Continental takes a beating so your wallet doesn’t have to",
-      "url": "https://timeandtidewatches.com/heron-continental-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-heron-continental-2.jpg",
-      "peek_preview": "If you read the marketing material pumped out by the wider watch industry today, you’d be entirely forgiven for assuming the average mechanical watch buyer spends their weekends summiting treacherous Himalayan peaks, fr...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T12:00:19.000Z",
-      "score_quality": 67,
-      "score_notif": 45,
-      "cluster": "20260923-a19df99cb995",
-      "cluster_main": true
-    },
-    {
-      "title": "Ulysse Nardin gives the Freak [ONE] its first taste of decorative arts — in two very different flavours",
-      "url": "https://timeandtidewatches.com/ulysse-nardin-freak-one-guilloche-freak-one-blue-enamel-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Ulysse-Nardin-Freak-One-Guilloche-Freak-One-Blue-Enamel-feature.jpg",
-      "peek_preview": "Ulysse Nardin gives the Freak [ONE] its first taste of decorative arts in two very different flavours: Guilloché and Blue Enamel. The post Ulysse Nardin gives the Freak [ONE] its first taste of decorative arts — in two...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T08:01:16.000Z",
-      "score_quality": 76,
-      "score_notif": 56,
-      "cluster": "20260923-00eae09e9011",
       "cluster_main": true
     }
   ]
