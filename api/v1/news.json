@@ -1,6 +1,6 @@
 {
-  "content_hash": "96c50564551324cad8349ef37da7a596de9d47ea2c27ea44a5c709854295f605",
-  "last_updated": "2026-09-29T06:48:05.409Z",
+  "content_hash": "938821a8815204d70be1de398bde1177d9ca474773b222796973cb1b0c534e10",
+  "last_updated": "2026-09-29T07:48:01.238Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T09:00:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T07:00:08.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T06:30:38.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T07:01:53.000Z"
+      "estimated_articles_per_day": 2.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T07:01:11.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T05:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T07:30:49.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Rolex Four Seasons : les 4 Daytona uniques rapportent près de 43,5 millions d’euros",
+      "url": "https://www.welovewatches.fr/rolex-four-seasons-les-4-daytona-uniques-rapportent-pres-de-435-millions-deuros.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/rolex-encheres-2026-une.jpg",
+      "peek_preview": "Début septembre, nous présentions les quatre Daytona « Four Seasons » créées par Rolex pour une vente caritative. Le résultat est désormais connu. Adjugées séparément par Phillips le 28 septembre à Londres, elles ont ra...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-29T07:30:49.000Z",
+      "score_quality": 63,
+      "score_notif": 67,
+      "cluster": "20260928-70f86d451bef",
+      "cluster_main": false
+    },
+    {
+      "title": "Zenith Chronomaster Solo Sport Watches Hands-On: 5Hz, Three Hands, & ZENCLASP",
+      "url": "https://www.ablogtowatch.com/zenith-chronomaster-solo-sport-watches-hands-on-5hz-three-hands-zenclasp/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Zenith-Chronomaster-Solo-Sport-Watches-13-768x346.jpg",
+      "peek_preview": "The latest major timepiece collection release from Swiss Zenith is the Chronomaster Solo Sport watch collection. At launch, four models of the three-hand, high-beat automatic mechanical watches debut on the market. More...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T07:01:11.000Z",
+      "score_quality": 78,
+      "score_notif": 52,
+      "cluster": "20260929-80225e9beeaa",
+      "cluster_main": true
+    },
+    {
+      "title": "Fratello On Air: Does Watch Financing Help Or Hurt The Hobby?",
+      "url": "https://www.fratellowatches.com/fratello-on-air-does-watch-financing-help-or-hurt-the-hobby/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/RolexExplorer14270-0.jpg",
+      "peek_preview": "Welcome to another episode of Fratello On Air. We’re back after a couple of weeks under the weather and ready to talk watches. But we’re not just talking about them; we’re also asking whether watch financing has helped...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T07:00:08.000Z",
+      "score_quality": 31,
+      "score_notif": 12,
+      "cluster": "20260929-b71509a17191",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – New, Earthy Colourways for the Seiko 5 Sports Field GMT Series",
       "url": "https://monochrome-watches.com/new-earthy-colourways-2026-seiko-5-sports-field-gmt-series-hdb001-hdb002-value-proposition-introducing/",
       "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-new-colours-Seiko-5-Sports-Field-Watch-HDB001-HDB002-1-600x237.jpg",
@@ -215,7 +257,7 @@
       "score_quality": 85,
       "score_notif": 67,
       "cluster": "20260928-70f86d451bef",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Visiting Manufacture La Joux-Perret",
@@ -274,10 +316,10 @@
       "cluster_main": true
     },
     {
-      "title": "Rolex Daytona “Four Seasons”: i quattro pezzi unici venduti per $49,4 milioni",
+      "title": "Rolex Daytona Four Seasons : i quattro pezzi unici venduti per $49,4 milioni",
       "url": "https://www.perpetualpassion.com/2026/09/28/rolex-daytona-four-seasons-asta-49-milioni/",
       "image": "https://i0.wp.com/www.perpetualpassion.com/wp-content/uploads/2026/09/44-1-880x1100.png?ssl=1&resize=2000%2C2000",
-      "peek_preview": "I quattro Rolex Cosmograph Daytona “Four Seasons” sono stati venduti da Phillips in Association with Bacs & Russo a Londra [...] L'articolo Rolex Daytona “Four Seasons”: i quattro pezzi unici venduti per $49,4 milioni p...",
+      "peek_preview": "I quattro Rolex Cosmograph Daytona Four Seasons sono stati venduti da Phillips in Association with Bacs & Russo a [...] L'articolo Rolex Daytona Four Seasons : i quattro pezzi unici venduti per $49,4 milioni proviene da...",
       "source_name": "Perpetual Passion",
       "lang": "it",
       "featured": false,
@@ -313,7 +355,7 @@
       "score_quality": 83,
       "score_notif": 67,
       "cluster": "20260928-70f86d451bef",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Majestic Journey Through Clocks & Watches Made for Royalty: The Victorian Age of Time – Queen Victoria and the Watchmaking Revolution",
@@ -425,7 +467,7 @@
       "score_quality": 77,
       "score_notif": 59,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "M.A.D.2 Live sbarca in Italia: appuntamento alla Milano Watch Week",
@@ -537,7 +579,7 @@
       "score_quality": 86,
       "score_notif": 59,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Time Machines: Reluctantly Becoming A ‘Rolex Guy’ With The Circa 1974 Rolex Oysterdate Precision Ref. 6694 Watch",
@@ -1296,20 +1338,6 @@
       "cluster_main": true
     },
     {
-      "title": "The Top 5 Watches That Should Never Have Been Discontinued — Part 2",
-      "url": "https://www.fratellowatches.com/the-top-5-watches-that-should-never-have-been-discontinued-part-2/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/03/Omega-Speedmaster-X-33-Marstimer-15.jpg",
-      "peek_preview": "Another Friday, another list! Two weeks ago, we published a list of five watches that should never have been discontinued. In our eyes, those watches are classics and deserve a permanent spot in their respective brands’...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T05:00:23.000Z",
-      "score_quality": 30,
-      "score_notif": 6,
-      "cluster": "20260925-9ab44f7db7c4",
-      "cluster_main": true
-    },
-    {
       "title": "セイコー ルキアより、ヒペリカムの実をモチーフにした「LUKIA Grow」の秋冬新作が登場",
       "url": "https://www.webchronos.net/news/173426/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/09/SEIKOlukia_LUKIAGrow-01.webp",
@@ -1671,7 +1699,7 @@
       "score_quality": 72,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin Azure Blue—Celebrating the 30th Anniversary of the Overseas",
@@ -1699,7 +1727,7 @@
       "score_quality": 71,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
@@ -1826,34 +1854,6 @@
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
       "cluster_main": false
-    },
-    {
-      "title": "Insider: Bremont Terra Nova 40.5 Jumping Hour Burgundy—The Talk of Geneva Watch Days",
-      "url": "https://www.watchcollectinglifestyle.com/home/bremont-terra-nova-jumping-hour-burgundy",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790110278379-L3KSHYZW2K1BP1L8LZLP/Bremont+Terra+Nova+Jumping+Hour-6.jpg?format=1500w",
-      "peek_preview": "The last time Bremont appeared in WCL, Felix the Cat was running off with the number 6 on a DLC-coated Altitude MB Meteor, and we asked where Davide Cerrato's vision had gone. Geneva Watch Days 2026 gave a partial answe...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T08:00:00.000Z",
-      "score_quality": 72,
-      "score_notif": 48,
-      "cluster": "20260923-f3ab6e934c2c",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Nivada Grenchen Autochron Mecaquartz Watch Offers Immense Vintage-Style Fun For The Money",
-      "url": "https://www.ablogtowatch.com/hands-on-the-nivada-grenchen-autochron-mecaquartz-watch-offers-immense-vintage-style-fun-per-dollar/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Nivada-Autochron-Mecaquartz-LOR-Crop-768x346.jpg",
-      "peek_preview": "Over the past few years, it seems as though the esoteric, funky side of vintage watch collecting has permeated into the larger enthusiast discourse. Beyond just the desire for smaller, more vintage sizes, collectors who...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-23T07:01:48.000Z",
-      "score_quality": 76,
-      "score_notif": 24,
-      "cluster": "20260923-e83f0936168f",
-      "cluster_main": true
     }
   ]
 }
