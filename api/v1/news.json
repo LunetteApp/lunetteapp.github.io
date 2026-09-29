@@ -1,6 +1,6 @@
 {
-  "content_hash": "59a4b671426f0d6bbe75eb12ab1e899bfd98fa0902ff51d31b272d3b7b5f2217",
-  "last_updated": "2026-09-29T16:47:45.111Z",
+  "content_hash": "4e4f2a00bdcd87896f5be77466c8ef2036aff73bff23aabdff4fba1addeb0216",
+  "last_updated": "2026-09-29T17:47:50.142Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T16:00:50.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T16:01:07.000Z"
     },
     {
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T17:14:50.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T16:59:30.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-29T15:00:00.000Z"
+      "estimated_articles_per_day": 2.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T22:34:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-29T17:10:54.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: Breguet Classique Tourbillon Sidéral ref. 7255—Up Close With the Flying Tourbillon That Floats Above a Night Sky",
+      "url": "https://www.watchcollectinglifestyle.com/home/breguet-classique-tourbillon-sideral-ref-7255-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790699606434-PCMX0B52CD7UCXMDVKO8/Breguet+Classique+Tourbillon+Side%CC%81ral+ref.+7255-9.jpg?format=1500w",
+      "peek_preview": "When we first introduced the Breguet Classique Tourbillon Sidéral ref. 7255 , it existed as press images and a spec sheet. Now it sits in front of us, and the live pictures confirm what those promised. This is Breguet's...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T17:10:54.000Z",
+      "score_quality": 80,
+      "score_notif": 30,
+      "cluster": "20260929-4cba5534c26c",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: Seiko Alpinist GMT HBC007",
+      "url": "https://www.hodinkee.com/articles/seiko-alpinist-gmt-hbc007",
+      "image": "https://hodinkee.imgix.net/uploads/images/1b8251c8-9358-4069-898c-7b3c0fbf0a33/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A cult-favorite GMT from Seiko makes its way out of Japan after a very long wait.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T17:00:00.000Z",
+      "score_quality": 84,
+      "score_notif": 52,
+      "cluster": "20260929-9ceeea29f202",
+      "cluster_main": true
+    },
+    {
+      "title": "Grand Seiko SBGY007 'Omiwatari' Review: Beneath The Surface Of The Frozen-Lake Dial",
+      "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-sbgy007-omiwatari-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand_Seiko_SBGY007_Omiwatari_SS3.webp?v=1784056937",
+      "peek_preview": "When winter really sets in at Lake Suwa in Nagano, the shifting temperatures cause the ice to expand and crack. As it pushes against itself, jagged ridges burst upward across the frozen lake, cutting long lines right th...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T16:59:30.000Z",
+      "score_quality": 74,
+      "score_notif": 14,
+      "cluster": "20260929-60e96cd6c705",
+      "cluster_main": true
+    },
     {
       "title": "First Look – A new Burgundy Dial for the Oris Big Crown x Cervo Volante",
       "url": "https://monochrome-watches.com/2026-oris-big-crown-x-cervo-volante-burgundy-dial-review-price/",
@@ -495,7 +537,7 @@
       "score_quality": 85,
       "score_notif": 67,
       "cluster": "20260928-70f86d451bef",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Visiting Manufacture La Joux-Perret",
@@ -593,7 +635,7 @@
       "score_quality": 83,
       "score_notif": 67,
       "cluster": "20260928-70f86d451bef",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Majestic Journey Through Clocks & Watches Made for Royalty: The Victorian Age of Time – Queen Victoria and the Watchmaking Revolution",
@@ -635,7 +677,7 @@
       "score_quality": 84,
       "score_notif": 46,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Marco Tedeschi’s Impressive Central Floating Tourbillon in Black Aventurine",
@@ -831,7 +873,7 @@
       "score_quality": 68,
       "score_notif": 46,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Ianos Amfivios takes a military-issued diver and opens it up to the rest of us",
@@ -1727,20 +1769,6 @@
       "score_quality": 79,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: The Longines Spirit Pilot And Spirit Pilot Flyback In Blue (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/the-longines-spirit-pilot-and-spirit-pilot-flyback-in-blue-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/b2ed33e5-85f0-4b86-8b5d-f41b51ce413c/tan2h-longines-spirit-flyback-blue-09258-header-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A new dial color may seem minor, but it gives both watches a new, more contemporary aesthetic.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T10:00:00.000Z",
-      "score_quality": 100,
-      "score_notif": 59,
-      "cluster": "20260924-ab2be98f83f7",
       "cluster_main": true
     },
     {
@@ -1825,34 +1853,6 @@
       "score_quality": 87,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: Formex AirField Turns Transforms A Titanium Field Watch Into A Pilot’s Model",
-      "url": "https://www.ablogtowatch.com/new-release-formex-airfield-turns-transforms-a-titanium-field-watch-into-a-pilots-model/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Formex-AirField-Automatic-40mm-Titanium-Pilots-Watch-768x346.jpg",
-      "peek_preview": "Pilot’s watches and field watches are among the oldest types of purpose-built timepieces, and the differences that separate these two popular genres of tool watches are largely related to the style of their dials and ha...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T06:00:51.000Z",
-      "score_quality": 71,
-      "score_notif": 48,
-      "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
-    },
-    {
-      "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
-      "url": "https://www.welovewatches.fr/grand-seiko-sbgw325-les-chiffres-arabes-font-leur-retour-25-ans-plus-tard.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/grand-seiko-sbgw235-une.jpg",
-      "peek_preview": "Des chiffres arabes sur une Grand Seiko ? On les croise assez rarement pour que la SBGW325 attire notre attention. Cette édition limitée reprend l’un des signes distinctifs de la SBGW003 de 2001, première montre...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-24T05:30:00.000Z",
-      "score_quality": 60,
-      "score_notif": 57,
-      "cluster": "20260924-08574af34ce5",
       "cluster_main": true
     }
   ]
