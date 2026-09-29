@@ -1,6 +1,6 @@
 {
-  "content_hash": "938821a8815204d70be1de398bde1177d9ca474773b222796973cb1b0c534e10",
-  "last_updated": "2026-09-29T07:48:01.238Z",
+  "content_hash": "64ef8dd5caf3632faf42713dedf476754a62963e91bc97d19e02a4c3e872e94b",
+  "last_updated": "2026-09-29T10:47:23.257Z",
   "premium": {
     "links": []
   },
@@ -10,7 +10,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-29T07:00:08.000Z"
+      "latest_article_at": "2026-09-29T10:03:43.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -29,8 +29,8 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T07:01:11.000Z"
     },
     {
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-09-29T01:13:03.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T07:30:49.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Australian Surfer Finds Rolex Submariner In The Pacific Ocean (From The Archives)",
+      "url": "https://www.fratellowatches.com/australian-surfer-finds-rolex-submariner-in-the-pacific-ocean/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Matt-Cuddihy-Rolex-Cover-e1686566837623.jpg",
+      "peek_preview": "We’ve been going through some of the best Fratello stories recently, and this one by Henry on a surfer finding a Rolex Submariner in the ocean was one of our best-read articles. Just in case you might have missed it, we...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T10:03:43.000Z",
+      "score_quality": 22,
+      "score_notif": 2,
+      "cluster": "20260929-a30c39703371",
+      "cluster_main": true
+    },
+    {
       "title": "Rolex Four Seasons : les 4 Daytona uniques rapportent près de 43,5 millions d’euros",
       "url": "https://www.welovewatches.fr/rolex-four-seasons-les-4-daytona-uniques-rapportent-pres-de-435-millions-deuros.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/rolex-encheres-2026-une.jpg",
@@ -206,7 +220,7 @@
     {
       "title": "Fratello On Air: Does Watch Financing Help Or Hurt The Hobby?",
       "url": "https://www.fratellowatches.com/fratello-on-air-does-watch-financing-help-or-hurt-the-hobby/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/RolexExplorer14270-0.jpg",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/03/Fratello-Talks-watches-wed-buy-new-and-pre-owned-for-E5k-today-omega-nomos-rolex-2.jpg",
       "peek_preview": "Welcome to another episode of Fratello On Air. We’re back after a couple of weeks under the weather and ready to talk watches. But we’re not just talking about them; we’re also asking whether watch financing has helped...",
       "source_name": "Fratello Watches",
       "lang": "en",
@@ -246,8 +260,8 @@
       "cluster_main": true
     },
     {
-      "title": "Rolex Daytona “Four Seasons” Set Shatters Auction Record",
-      "url": "https://watchesbysjx.com/2026/09/rolex-daytona-four-seasons-auction-record.html",
+      "title": "Rolex Daytona “Four Seasons” Achieves Record Price",
+      "url": "https://watchesbysjx.com/2026/09/rolex-daytona-four-seasons-london-auction.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Rolex-Daytona-Four-Seasons-3x2-header-5-300x200.jpg",
       "peek_preview": "When we first reported on Rolex’s Daytona “Four Seasons” charity auction, we wondered whether the quartet could reach CHF31 million, the sum achieved by Patek Philippe’s steel Grandmaster Chime at Only Watch in 2019. We...",
       "source_name": "SJX Watches",
@@ -299,7 +313,7 @@
       "score_quality": 75,
       "score_notif": 43,
       "cluster": "20260924-2745648d3a3b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "H. Moser Off-Grid: chi riparerà un orologio digitale da 3.900 franchi tra vent’anni?",
@@ -1041,7 +1055,7 @@
       "score_quality": 78,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "デルマがムオニオナルスタ隕石ダイアルを採用した限定モデル、「ミッドランド メテオライト」を発表",
@@ -1265,20 +1279,6 @@
       "score_quality": 18,
       "score_notif": 7,
       "cluster": "20260925-600f34f5c96a",
-      "cluster_main": true
-    },
-    {
-      "title": "Fashionably Late To The Party: Introducing The Orient Flusso Collection",
-      "url": "https://www.fratellowatches.com/introducing-the-orient-flusso-collection/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Orient-Flusso-models.jpg",
-      "peek_preview": "Orient reinterprets its heritage in integrated-bracelet sports watches with the new Flusso collection. Drawing inspiration from the SK (“Super King”) models that appeared in the brand’s catalog during the 1970s and ’80s...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T09:00:39.000Z",
-      "score_quality": 68,
-      "score_notif": 42,
-      "cluster": "20260925-bfb2b611496d",
       "cluster_main": true
     },
     {
@@ -1545,7 +1545,7 @@
       "score_quality": 74,
       "score_notif": 43,
       "cluster": "20260924-2745648d3a3b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grönefeld 1941 Quadrivium: quattro complicazioni un solo orologio",
@@ -1699,7 +1699,7 @@
       "score_quality": 72,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin Azure Blue—Celebrating the 30th Anniversary of the Overseas",
@@ -1727,7 +1727,7 @@
       "score_quality": 71,
       "score_notif": 48,
       "cluster": "20260924-174749a3d4b2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grand Seiko SBGW325 : les chiffres arabes font leur retour, 25 ans plus tard",
@@ -1853,7 +1853,7 @@
       "score_quality": 76,
       "score_notif": 56,
       "cluster": "20260923-00eae09e9011",
-      "cluster_main": false
+      "cluster_main": true
     }
   ]
 }
