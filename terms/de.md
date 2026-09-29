@@ -1,83 +1,15 @@
 # Nutzungsbedingungen
 
-**Zuletzt aktualisiert:** 28. September 2026
+**Zuletzt aktualisiert:** 29. September 2026
 
-## 1. Zustimmung zu den Bedingungen
+Mit der Nutzung von Lunette stimmst du diesen Bedingungen zu. Sie gelten zusätzlich zur [Standard-Lizenzvereinbarung](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) von Apple. Apple ist nicht Partei dieser Bedingungen.
 
-Durch das Herunterladen, Installieren oder Nutzen von Lunette ("die App") erklärst du dich mit diesen Nutzungsbedingungen einverstanden. Wenn du nicht einverstanden bist, nutze die App nicht.
+Deine Daten bleiben auf deinem Gerät. Du kannst sie in deinem eigenen iCloud-Konto sichern oder als ZIP-Datei exportieren und aufbewahren, wo du möchtest. Wir betreiben kein Tracking und speichern deine Daten nicht auf unseren Servern.
 
-Diese Bedingungen gelten zusätzlich zur [Standard-Lizenzvereinbarung](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) von Apple. Apple ist nicht Partei dieser Bedingungen und ist nicht für die App oder deren Support verantwortlich.
+Lunette Pro und Timegrapher Pro sind optionale Einmalkäufe, die Apple abwickelt. Für Erstattungen gelten die [Richtlinien von Apple](https://reportaproblem.apple.com/).
 
-## 2. Beschreibung des Dienstes
+Genauigkeitsergebnisse sind Schätzungen und keine Zertifizierungen. Nachrichten und Preise auf der Wunschliste stammen von fremden Websites und können ungenau sein. Uhrenmarken werden nur zur Identifikation genannt und Lunette ist mit ihnen nicht verbunden.
 
-Lunette ist eine iOS-App zum Verwalten einer Uhrensammlung, Prüfen des Uhrengangs, Führen eines Tragetagebuchs und Erstellen teilbarer Storys. Die App funktioniert offline. Ein optionales iCloud-Backup kann eine Kopie deiner Daten in deinem Apple-Konto speichern.
+Die App wird so bereitgestellt, wie sie ist. Wir haften nicht für Datenverluste. Bewahre daher eigene Sicherungen auf. Gesetzlich unabdingbare Rechte bleiben unberührt.
 
-## 3. Benutzerkonten
-
-Lunette erfordert weder Registrierung noch Konto. Dein Profil liegt auf deinem Gerät. Dein Name kann enthalten sein, wenn du uns kontaktierst, Daten exportierst oder iCloud-Backup aktivierst.
-
-## 4. Akzeptable Nutzung
-
-Du stimmst zu, die App nur für den vorgesehenen Zweck der persönlichen Uhrensammlungsverwaltung zu nutzen. Du darfst nicht:
-
-- Die App für rechtswidrige Zwecke nutzen
-- Versuchen, den Betrieb der App zu stören
-- Die App außerhalb des Apple App Store weitervertreiben oder weiterverkaufen
-
-## 5. Benutzerinhalte
-
-Inhalte, die du in der App erstellst, darunter Fotos, Tagebucheinträge, Notizen und Profildaten, gehören dir. Wir erhalten sie nur, wenn du sie uns bei einer Kontaktanfrage sendest, exportierst oder teilst. Für extern geteilte Inhalte bist du verantwortlich.
-
-## 6. Geistiges Eigentum
-
-Die App, ihr Design, Code, Branding, Icons und Illustrationen sind Eigentum von Michael Siddi und durch geltendes Urheber- und geistiges Eigentumsrecht geschützt.
-
-Die App zeigt Markennamen und Modellreferenzen von Uhren ausschließlich zur Identifizierung und Katalogisierung der Uhren der Nutzer an. Alle Marken Dritter gehören ihren jeweiligen Eigentümern und werden nur zu Identifikationszwecken verwendet. Lunette ist nicht mit einer Uhrenmarke verbunden, wird nicht von einer Uhrenmarke unterstützt oder gesponsert.
-
-## 7. In-App-Käufe
-
-Lunette bietet zwei optionale In-App-Käufe als Einmalkauf. Lunette Pro erhöht die Limits für Uhren, Tagebuch, Fotos und Genauigkeitsprüfungen und schaltet Extras wie Wunschlistenüberwachung, Nachrichtenbenachrichtigungen, zusätzliche Story-Hintergründe und PDF-Export frei. Timegrapher Pro schaltet separat unbegrenzte Zeitwaagen-Sitzungen frei. Der Kauf des einen Produkts umfasst das andere nicht.
-
-Apple wickelt Käufe ab und zeigt den Preis vor der Bestätigung an. Du kannst bei [Apple](https://reportaproblem.apple.com/) gemäß den geltenden Regeln und Gesetzen eine Erstattung beantragen. Berechtigte Käufe lassen sich mit demselben Apple Account wiederherstellen.
-
-## 8. iCloud-Backup
-
-Wenn du das iCloud-Backup aktivierst, werden deine Daten in deinem persönlichen, von Apple verwalteten iCloud-Konto gespeichert. Wir haben keinen Zugang zu diesen Daten. Deine Nutzung von iCloud unterliegt den Geschäftsbedingungen von Apple.
-
-## 9. Datenschutz
-
-Die App erfordert kein Konto und verwendet weder Analytik noch Werbetracking. Deine Sammlung bleibt auf dem Gerät, sofern du nicht iCloud-Backup oder Export auswählst. Wenn du uns kontaktierst, verarbeiten wir deine Angaben, um zu antworten. Mehr dazu in der [Datenschutzerklärung](https://lunetteapp.com/privacy).
-
-## 10. Dienste Dritter
-
-Die App kann öffentliche Zeitserver für Genauigkeitsprüfungen, die Lunette-API für Katalogupdates, Nachrichten und Story-Vorlagen sowie Angebotsseiten für von dir angegebene Wunschlisten-URLs aufrufen. Wenn du iCloud-Backup aktivierst, verwaltet Apple die Sicherung in deinem Konto. Diese Dienste können bei normalen Netzwerkverbindungen deine IP-Adresse erhalten. Für fremde Seiten gelten eigene Bedingungen und Datenschutzregeln. Siehe die [Datenschutzerklärung](https://lunetteapp.com/privacy).
-
-## 11. Gewährleistungsausschluss
-
-Genauigkeitsergebnisse sind Schätzungen anhand der verfügbaren Messwerte und Zeitreferenzen. Sie sind keine professionelle uhrmacherische Zertifizierung. Die Verfügbarkeit der App und der Online-Funktionen kann variieren. Diese Bedingungen schränken gesetzlich unabdingbare Rechte und Gewährleistungen nicht ein.
-
-Nachrichtenartikel und Bilder stammen von den Websites der Herausgeber. Preise und Fotos in der Wunschliste stammen von den Angebotsseiten, die du hinzufügst. Wir haben keinen Einfluss auf diese Inhalte und können nicht garantieren, dass sie richtig, vollständig oder aktuell sind. Prüfe Preise und Details vor dem Kauf beim Verkäufer.
-
-## 12. Haftung und Verbraucherrechte
-
-Softwarefehler, Ausfälle des Geräts oder Betriebssystems, versehentliches Löschen und Probleme mit Backups können zum Verlust oder zur Beschädigung von Daten führen. Bewahre eine separate Sicherung wichtiger Daten auf. Wir können die Wiederherstellung verlorener Daten nicht garantieren. Soweit gesetzlich zulässig, haften wir nicht für Datenverluste, die durch solche Ereignisse verursacht werden. Dies schließt die Haftung für Vorsatz, grobe Fahrlässigkeit oder andere Pflichtverletzungen, für die eine Haftung gesetzlich nicht ausgeschlossen werden darf, nicht aus und schränkt gesetzliche Verbraucherrechte nicht ein.
-
-## 13. Beendigung
-
-Du kannst die App jederzeit nicht mehr verwenden. Beim Löschen werden lokale App-Daten von diesem Gerät entfernt. Ein aktiviertes iCloud-Backup kannst du über dein Apple-Konto verwalten oder löschen. Online-Funktionen können sich im Rahmen des geltenden Rechts ändern oder enden.
-
-## 14. Anwendbares Recht
-
-Für diese Bedingungen gilt italienisches Recht. Vorbehaltlich zwingender Verbraucherschutz- und Zuständigkeitsregeln in deinem Wohnsitzland sind die zuständigen Gerichte in Italien ausschließlich zuständig. Dein Recht, ein anderes nach geltendem Recht zuständiges Gericht anzurufen, bleibt unberührt.
-
-## 15. Allgemeine Bestimmungen
-
-Wir können diese Bedingungen aktualisieren und veröffentlichen den neuen Text mit einem neuen Datum. Änderungen gelten nur im gesetzlich zulässigen Umfang und nehmen dir keine Rechte aus früheren Käufen.
-
-Ist eine Bestimmung unwirksam, bleiben die übrigen nach Möglichkeit wirksam. Die Nichtdurchsetzung einer Bestimmung bedeutet keinen Verzicht darauf.
-
-## Kontakt
-
-Bei Fragen zu diesen Bedingungen kontaktiere uns über unser [Kontaktformular](https://lunetteapp.com/contact).
-
-**Website:** [lunetteapp.com](https://lunetteapp.com)
+Es gilt italienisches Recht, unbeschadet zwingender Verbraucherschutzvorschriften deines Landes. Fragen? Nutze unser [Kontaktformular](https://lunetteapp.com/contact).
