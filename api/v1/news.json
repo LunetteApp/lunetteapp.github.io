@@ -1,6 +1,6 @@
 {
-  "content_hash": "6c7f6ab8fe08366693df1df40b175ce7db2dd9c87585e73bd0a431e162ea71e4",
-  "last_updated": "2026-09-30T04:47:24.245Z",
+  "content_hash": "5d6405715adfb8c901731844e74db42a1ff4e08cbd0e7c6ccdcbe58974d263b5",
+  "last_updated": "2026-09-30T07:48:06.009Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-29T12:00:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-30T07:00:07.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-29T07:01:11.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-30T07:01:43.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -57,7 +57,7 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
+      "estimated_articles_per_day": 1.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T13:30:00.000Z"
     },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-30T04:00:44.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: Timex Atelier Chronograph Quartz M1q Bridges The Gap To The Brand’s Luxury Watches",
+      "url": "https://www.ablogtowatch.com/hands-on-timex-atelier-chronograph-quartz-m1q-bridges-the-gap-to-the-brands-luxury-watches/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Timex-Atelier-Chronograph-Quartz-M1q-Watch-12-768x346.jpg",
+      "peek_preview": "Officially launched last year in 2025 as a premium sub-brand, Timex Atelier produces Swiss-made watches that continue the design language established by Giorgio Galli (Timex’s Chief Creative Director) in his eponymous s...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-30T07:01:43.000Z",
+      "score_quality": 74,
+      "score_notif": 18,
+      "cluster": "20260930-ad88117f6d10",
+      "cluster_main": true
+    },
+    {
+      "title": "Why I Bought A Replica — An Omega Speedmaster Replica 3594.50, That Is",
+      "url": "https://www.fratellowatches.com/why-i-bought-an-omega-speedmaster-replica-3594-50/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Speedmaster-Replica-Lex-2.jpg",
+      "peek_preview": "Recently, we’ve received a fair number of messages about the Speedmaster ’57 Replica (or Re-edition, as Omega now refers to it). It’s still a Speedmaster variation that is under the radar for the masses, but can consist...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-30T07:00:07.000Z",
+      "score_quality": 55,
+      "score_notif": 10,
+      "cluster": "20260930-99a5718c6e40",
+      "cluster_main": true
+    },
     {
       "title": "Hands On: Raymond Weil Millesime Jubilee",
       "url": "https://watchesbysjx.com/2026/09/hands-on-raymond-weil-millesime-jubilee.html",
@@ -411,7 +439,7 @@
       "score_quality": 84,
       "score_notif": 54,
       "cluster": "20260929-7f998e00cb9a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The new Nomos Club Sport Neomatik Worldtimer Dark",
@@ -425,7 +453,7 @@
       "score_quality": 82,
       "score_notif": 54,
       "cluster": "20260929-7f998e00cb9a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Make Sure To Wear Your Sunglasses At Night For The New Nomos Club Sport Neomatik Worldtimer Dark",
@@ -451,9 +479,9 @@
       "featured": false,
       "published_at": "2026-09-29T12:00:17.000Z",
       "score_quality": 74,
-      "score_notif": 48,
-      "cluster": "20260929-032d7a379d93",
-      "cluster_main": true
+      "score_notif": 56,
+      "cluster": "20260924-310d9d0a7205",
+      "cluster_main": false
     },
     {
       "title": "Channeling Autumn: The Newest Oris × Cervo Volante Big Crown Pointer Date",
@@ -1152,8 +1180,8 @@
       "published_at": "2026-09-27T06:50:47.000Z",
       "score_quality": 68,
       "score_notif": 56,
-      "cluster": "20260927-24c743ac4d0c",
-      "cluster_main": true
+      "cluster": "20260924-310d9d0a7205",
+      "cluster_main": false
     },
     {
       "title": "Sunday Morning Showdown: Hamilton Khaki Field Murph 38mm Vs. Seiko Prospex Alpinist",
@@ -1324,20 +1352,6 @@
       "cluster_main": true
     },
     {
-      "title": "Taking The The Atelier Wen × Massena Lab Inflection Shuò For A Spin",
-      "url": "https://www.fratellowatches.com/taking-the-the-atelier-wen-x-massena-lab-inflection-shuo-for-a-spin/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Atelier-Wen-Inflection-Massena-Collab.jpg",
-      "peek_preview": "I first handled the original Atelier Wen Inflection last year. Its full-tantalum construction was impressive due to the difficulty of working with the material. Plus, the weight was memorable. Last month, the brand anno...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-26T11:00:00.000Z",
-      "score_quality": 74,
-      "score_notif": 16,
-      "cluster": "20260926-f66f7b49067b",
-      "cluster_main": true
-    },
-    {
       "title": "LUM-TEC Combat B70 Automatic Red, White, & Blue American Sports Flight Watch Review",
       "url": "https://www.ablogtowatch.com/lum-tec-combat-b70-automatic-red-white-blue-american-sports-flight-watch-review/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/LUM-TEC-Combat-B70-Automatic-watch-3-768x346.jpg",
@@ -1489,7 +1503,7 @@
       "score_quality": 76,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria",
@@ -1657,7 +1671,7 @@
       "score_quality": 69,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Backes & Strauss Partners With Tennis Player Elina Avanesyan For An Upcoming Special Watch Collection",
@@ -1797,7 +1811,7 @@
       "score_quality": 75,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -1811,7 +1825,7 @@
       "score_quality": 79,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Windheure Avis : Que vaut vraiment ce site en ligne ?",
@@ -1840,20 +1854,6 @@
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
       "cluster_main": true
-    },
-    {
-      "title": "Breguet Updates Marine Collection With More Nautical Style",
-      "url": "https://teddybaldassarre.com/blogs/watches/breguet-marine",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Breguet-Marine-Automatic-blue-front-2.jpg?v=1790188749",
-      "peek_preview": "Breguet has today unveiled new versions of its Marine 5517 and Chronographe 5527, giving both watches a noticeably different face. Their dials now feature the brand’s namesake numerals and the “Quai de l’Horloge” guillo...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T08:00:03.000Z",
-      "score_quality": 64,
-      "score_notif": 56,
-      "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
     }
   ]
 }
