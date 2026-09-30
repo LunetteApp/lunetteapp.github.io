@@ -1,6 +1,6 @@
 {
-  "content_hash": "ccee509ac4570ecc310de1e524612c273ae4fbe64143634bffd0ea58b635da06",
-  "last_updated": "2026-09-30T03:47:11.256Z",
+  "content_hash": "6c7f6ab8fe08366693df1df40b175ce7db2dd9c87585e73bd0a431e162ea71e4",
+  "last_updated": "2026-09-30T04:47:24.245Z",
   "premium": {
     "links": []
   },
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-29T20:20:07.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-30T04:00:44.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-30T03:00:55.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: Raymond Weil Millesime Jubilee",
+      "url": "https://watchesbysjx.com/2026/09/hands-on-raymond-weil-millesime-jubilee.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Raymond-Weil-Jubilee-Chronograph-3x2-centred-header-300x200.jpg",
+      "peek_preview": "Raymond Weil kicked off its 50th anniversary earlier this year with the Fifty, a vintage-inspired limited edition chronograph powered by an appropriately historical vintage calibre. The party continues with the Millesim...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-30T04:00:44.000Z",
+      "score_quality": 81,
+      "score_notif": 26,
+      "cluster": "20260930-551f8f748bb7",
+      "cluster_main": true
+    },
     {
       "title": "オリエントから36.4mm径のユニセックスモデル「オリエント バンビーノ 36」が発売",
       "url": "https://www.webchronos.net/news/173799/",
@@ -1475,7 +1489,7 @@
       "score_quality": 76,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria",
@@ -1643,7 +1657,7 @@
       "score_quality": 69,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Backes & Strauss Partners With Tennis Player Elina Avanesyan For An Upcoming Special Watch Collection",
@@ -1840,20 +1854,6 @@
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
       "cluster_main": false
-    },
-    {
-      "title": "Hands-On: Traser P65 Tactical Mission Titanium Upgrades The Brand’s Original Watch",
-      "url": "https://www.ablogtowatch.com/hands-on-traser-p65-tactical-mission-titanium-upgrades-the-brands-original-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/08/Traser-P65-Tactical-MIssion-Titanium-Watch-FEATURE-768x346.jpg",
-      "peek_preview": "Within the context of watches with luminous tritium tubes, one of the most important models of all time is the Traser P6500 Type 6, which was created to fulfill a request from the United States Department of Defense. Be...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T07:01:05.000Z",
-      "score_quality": 74,
-      "score_notif": 28,
-      "cluster": "20260924-95c55bbcca22",
-      "cluster_main": true
     }
   ]
 }
