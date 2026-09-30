@@ -1,6 +1,6 @@
 {
-  "content_hash": "de1623ff8419f48721e3bb09b06170830ae543a0a16eb0ef9632aa69b44b4483",
-  "last_updated": "2026-09-30T00:47:28.172Z",
+  "content_hash": "ccee509ac4570ecc310de1e524612c273ae4fbe64143634bffd0ea58b635da06",
+  "last_updated": "2026-09-30T03:47:11.256Z",
   "premium": {
     "links": []
   },
@@ -71,7 +71,7 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
+      "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T20:20:07.000Z"
     },
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
+      "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-30T00:00:29.000Z"
+      "latest_article_at": "2026-09-30T03:00:55.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "オリエントから36.4mm径のユニセックスモデル「オリエント バンビーノ 36」が発売",
+      "url": "https://www.webchronos.net/news/173799/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/OR_ba_1.webp",
+      "peek_preview": "オリエントは「オリエント バンビーノ」の新作として、36.4mm径のケースを採用した「オリエント バンビーノ 36」を発売した。ノンデイト仕様のシンプルなダイアルを採用し、グリーンやアイボリーなど4種類のカラーがラインナ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-09-30T03:00:55.000Z",
+      "score_quality": 64,
+      "score_notif": 46,
+      "cluster": "20260930-6376769c1ae3",
+      "cluster_main": true
+    },
     {
       "title": "雲間に浮かぶ月を表現したオリエントスター「M45 F8 メカニカルムーンフェイズ ハンドワインディング」が登場",
       "url": "https://www.webchronos.net/news/173784/",
@@ -803,7 +817,7 @@
       "score_quality": 77,
       "score_notif": 59,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MeisterSinger NL Edition 2026: Diese 66 Uhren sprechen durch die Blume",
@@ -901,7 +915,7 @@
       "score_quality": 86,
       "score_notif": 59,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time Machines: Reluctantly Becoming A ‘Rolex Guy’ With The Circa 1974 Rolex Oysterdate Precision Ref. 6694 Watch",
@@ -1366,20 +1380,6 @@
       "cluster_main": true
     },
     {
-      "title": "カシオが“チプカシ”にモバイルリンク機能を追加した「F-B100W」を発売",
-      "url": "https://www.webchronos.net/news/173623/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/CASIO_classic_1.webp",
-      "peek_preview": "カシオは、「カシオコレクション」の新作として、「F-B100W」シリーズ3種を発表した。1980年代から続くデジタルウオッチの定番スタイルを受け継ぎつつ、歩数計測やBluetoothを用いたスマートフォン連携が可能となっ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-26T00:00:57.000Z",
-      "score_quality": 63,
-      "score_notif": 48,
-      "cluster": "20260926-87735f267722",
-      "cluster_main": true
-    },
-    {
       "title": "Breguet Expands Marine Fleet",
       "url": "https://watchesbysjx.com/2026/09/breguet-marine-5517-5527.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Breguet-Marine-5517-5527-3x2-centred-header-1-300x200.jpg",
@@ -1475,7 +1475,7 @@
       "score_quality": 76,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria",
@@ -1643,7 +1643,7 @@
       "score_quality": 69,
       "score_notif": 59,
       "cluster": "20260924-28ed3edb0a43",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Backes & Strauss Partners With Tennis Player Elina Avanesyan For An Upcoming Special Watch Collection",
@@ -1783,7 +1783,7 @@
       "score_quality": 75,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Longines Explores The Wild Blue Yonder With New Spirit Pilot & Spirit Pilot Flyback Editions",
@@ -1797,7 +1797,7 @@
       "score_quality": 79,
       "score_notif": 59,
       "cluster": "20260924-ab2be98f83f7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Windheure Avis : Que vaut vraiment ce site en ligne ?",
