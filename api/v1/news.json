@@ -1,6 +1,6 @@
 {
-  "content_hash": "a78137a12bfe5d109352229722b8bdc088fb376483e59ad0850824aa1fdd16d7",
-  "last_updated": "2026-09-30T14:47:10.441Z",
+  "content_hash": "d6ce05c4825ae7fd995c836d9866d12cf129df6d3f30b27cf3c0740a29510cc9",
+  "last_updated": "2026-09-30T16:47:25.793Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-29T19:00:19.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-30T16:00:23.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-30T13:01:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-30T16:00:51.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-29T16:59:30.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-30T16:34:51.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.8,
+      "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-29T22:08:12.000Z"
     },
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-30T14:42:30.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Rolex Oyster Perpetual Jubilee-Dial Edition: Hands On With The Multicolored Cult-Classic",
+      "url": "https://teddybaldassarre.com/blogs/watches/rolex-oyster-perpetual-jubilee-dial",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Rolex-Oyster-Perpetual-Jubilee-Dial-flat-2.jpg?v=1790776626",
+      "peek_preview": "Rolex has been predictably busy in 2026, the landmark 100th anniversary of its brand-defining Oyster case, with the recent and somewhat unexpected launch of the Perpetual Padellone being just the most recent example. Ea...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-30T16:34:51.000Z",
+      "score_quality": 79,
+      "score_notif": 69,
+      "cluster": "20260930-66859075797f",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – Baume & Mercier Gives the Clifton an Ice-Blue Update (Incl. Video)",
+      "url": "https://monochrome-watches.com/baume-et-merci-clifton-ice-blue-collection-2026-baumatic-39mm-perpetual-calendar-video-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Baume-et-Merci-Clifton-Ice-Blue-collection-2026-Baumatic-39mm-Perpetual-Calendar-video-review-1-600x237.jpg",
+      "peek_preview": "The Clifton collection was introduced in 2012 and has since become the more classically styled part of Baume & Mercier‘s catalogue, drawing on the design of 1950s watches. In 2018, with the arrival of the Baumatic movem...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-30T16:00:51.000Z",
+      "score_quality": 76,
+      "score_notif": 43,
+      "cluster": "20260930-759f08d582ca",
+      "cluster_main": true
+    },
     {
       "title": "Chanel porta il design del J12 sui trofei della Boat Race",
       "url": "https://www.orologidiclasse.com/chanel-j12-boat-race-trofei-2027/",
@@ -565,7 +593,7 @@
       "score_quality": 84,
       "score_notif": 54,
       "cluster": "20260929-7f998e00cb9a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The new Nomos Club Sport Neomatik Worldtimer Dark",
@@ -579,7 +607,7 @@
       "score_quality": 82,
       "score_notif": 54,
       "cluster": "20260929-7f998e00cb9a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Make Sure To Wear Your Sunglasses At Night For The New Nomos Club Sport Neomatik Worldtimer Dark",
@@ -1072,20 +1100,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – Louis Vuitton Unveils the Monterey in Green or Black Ceramic, Tribute to the LV II of 1988",
-      "url": "https://monochrome-watches.com/louis-vuitton-monterey-in-green-or-black-ceramic-tribute-to-the-lv-ii-of-1988-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-Louis-Vuitton-Monterey-Green-Ceramic-anc-Black-Ceramic-review-11-600x237.jpg",
-      "peek_preview": "Contrary to popular belief, Louis Vuitton’s first watch was not the 2002 Tambour but the earlier Montre LV I and LV II, launched in 1988. Designed by Italian architect Gae Aulenti and produced in collaboration with IWC,...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-28T07:01:53.000Z",
-      "score_quality": 86,
-      "score_notif": 59,
-      "cluster": "20260928-83f8266bad79",
-      "cluster_main": true
-    },
-    {
       "title": "Time Machines: Reluctantly Becoming A ‘Rolex Guy’ With The Circa 1974 Rolex Oysterdate Precision Ref. 6694 Watch",
       "url": "https://www.ablogtowatch.com/time-machines-reluctantly-becoming-a-rolex-guy-with-the-circa-1974-rolex-oysterdate-precision-ref-6694-watch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Time-Machines-Rolex-Oysterdate-Precision-LOR-Crop-768x346.jpg",
@@ -1153,7 +1167,7 @@
       "score_quality": 84,
       "score_notif": 59,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "オリエントスターの新デザインプロジェクト「Sakigake（先駆け）」から「スリーハンド」が発表",
@@ -1825,34 +1839,6 @@
       "score_quality": 74,
       "score_notif": 43,
       "cluster": "20260924-2745648d3a3b",
-      "cluster_main": true
-    },
-    {
-      "title": "Grönefeld 1941 Quadrivium: quattro complicazioni un solo orologio",
-      "url": "https://www.watchinsanity.it/gronefeld-1941-quadrivium/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Gronefeld_1941_Quadrivium_Watch_Insanity_04-1024x682.jpg",
-      "peek_preview": "Grönefeld presenta il 1941 Quadrivium con tourbillon volante, remontoire e secondi saltanti, in tantalio o platino. Edizione limitata a 28 esemplari. The post Grönefeld 1941 Quadrivium: quattro complicazioni un solo oro...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-24T10:26:11.000Z",
-      "score_quality": 66,
-      "score_notif": 57,
-      "cluster": "20260924-0f33bb18e642",
-      "cluster_main": true
-    },
-    {
-      "title": "Versace Tolomeo Chrono: quando la Medusa impara a sussurrare",
-      "url": "https://giornaleorologi.it/2026/09/24/versace-tolomeo-chrono-quando-la-medusa-impara-a-sussurrare/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/TolomeoChronoWatch-Watches-Versace_APERTURA-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Versace Tolomeo Chrono: quando la Medusa impara a sussurrare Il quiet luxury non è certo il primo concetto che viene in mente quando si pensa a Versace. Per decenni, la Casa della Medusa ha cos...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-24T10:14:06.000Z",
-      "score_quality": 33,
-      "score_notif": 22,
-      "cluster": "20260924-1165f14d7d2f",
       "cluster_main": true
     }
   ]
