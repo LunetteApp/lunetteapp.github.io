@@ -1,6 +1,6 @@
 {
-  "content_hash": "d6ce05c4825ae7fd995c836d9866d12cf129df6d3f30b27cf3c0740a29510cc9",
-  "last_updated": "2026-09-30T16:47:25.793Z",
+  "content_hash": "42fd06d8cb593a6ef75c30dd8c4d8f12d4ae04999d65b83132817f28110b268d",
+  "last_updated": "2026-09-30T17:47:26.573Z",
   "premium": {
     "links": []
   },
@@ -17,13 +17,13 @@
       "lang": "en",
       "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-09-30T16:00:23.000Z"
+      "latest_article_at": "2026-09-30T17:00:51.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-30T16:00:51.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-30T16:34:51.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-29T22:08:12.000Z"
+      "estimated_articles_per_day": 2.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-30T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Ianos Introduces the Amfivios, a Civilian Version of their Military Issued Dive Watch",
+      "url": "https://wornandwound.com/ianos-introduces-the-amfivios-a-civilian-version-of-their-military-issued-dive-watch/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Ianos-Amfivios-11.jpg",
+      "peek_preview": "We’ve been saying it for years, but one of the things that makes the microbrand and small independent scene so exciting is that there is truly a watch for everyone. It’s a playing field that allows makers to be incredib...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-30T17:00:51.000Z",
+      "score_quality": 70,
+      "score_notif": 46,
+      "cluster": "20260928-256a2d58a981",
+      "cluster_main": false
+    },
+    {
+      "title": "Photo Report: Toronto Timepiece Show 2026",
+      "url": "https://www.hodinkee.com/articles/toronto-timepiece-show-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/4de28fc1-e83c-4729-a0f0-1c3b40e4e611/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "There's a new watch fair in town — except it's not new, not in town (unless you're happen to be from Toronto), and definitely not one to miss.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-30T17:00:00.000Z",
+      "score_quality": 71,
+      "score_notif": 19,
+      "cluster": "20260930-6cb2ce4f863e",
+      "cluster_main": true
+    },
     {
       "title": "Rolex Oyster Perpetual Jubilee-Dial Edition: Hands On With The Multicolored Cult-Classic",
       "url": "https://teddybaldassarre.com/blogs/watches/rolex-oyster-perpetual-jubilee-dial",
@@ -971,7 +999,7 @@
       "score_quality": 58,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
@@ -1013,7 +1041,7 @@
       "score_quality": 77,
       "score_notif": 59,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MeisterSinger NL Edition 2026: Diese 66 Uhren sprechen durch die Blume",
@@ -1167,7 +1195,7 @@
       "score_quality": 84,
       "score_notif": 59,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "オリエントスターの新デザインプロジェクト「Sakigake（先駆け）」から「スリーハンド」が発表",
@@ -1489,7 +1517,7 @@
       "score_quality": 73,
       "score_notif": 56,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Sinn Watches: How This German Brand Makes The Toughest Tool Watches In The Business",
@@ -1531,20 +1559,6 @@
       "score_quality": 56,
       "score_notif": 39,
       "cluster": "20260925-d8bafd2cca84",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Patek Philippe Celestial Ref. 6105G (Plus Technical In-Depth)",
-      "url": "https://www.hodinkee.com/articles/hands-on-patek-philippe-6105",
-      "image": "https://hodinkee.imgix.net/uploads/images/aca51b9a-98af-483f-b00a-240d48429de0/20260709_PatekPreviews_043.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "There were a number of surprising and sometimes divisive releases from Patek this year, but when you look at them as a whole, you can attempt to read the tea leaves to see the future of the Maison. We start with the mos...",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T17:00:00.000Z",
-      "score_quality": 87,
-      "score_notif": 29,
-      "cluster": "20260925-95afbd185b4b",
       "cluster_main": true
     },
     {
@@ -1601,20 +1615,6 @@
       "score_quality": 26,
       "score_notif": 6,
       "cluster": "20260925-6c9982a71c58",
-      "cluster_main": true
-    },
-    {
-      "title": "Understanding the Poetry of Time Through Buci’s Founder and Its Newest Collection: Nouvelle",
-      "url": "https://wornandwound.com/understanding-the-poetry-of-time-through-bucis-founder-and-its-newest-collection-nouvelle/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Buci-Nouvelle-26.jpg",
-      "peek_preview": "Nousseima Baraket founded Buci in 2022 with a Kickstarter campaign that funded her first collection aptly and simply named “Garde-temps” or “timepiece.” Baraket is of African and French origins, with her parents hailing...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T13:00:36.000Z",
-      "score_quality": 68,
-      "score_notif": 45,
-      "cluster": "20260925-e87bd7dfa254",
       "cluster_main": true
     },
     {
@@ -1839,6 +1839,20 @@
       "score_quality": 74,
       "score_notif": 43,
       "cluster": "20260924-2745648d3a3b",
+      "cluster_main": true
+    },
+    {
+      "title": "Grönefeld 1941 Quadrivium: quattro complicazioni un solo orologio",
+      "url": "https://www.watchinsanity.it/gronefeld-1941-quadrivium/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Gronefeld_1941_Quadrivium_Watch_Insanity_04-1024x682.jpg",
+      "peek_preview": "Grönefeld presenta il 1941 Quadrivium con tourbillon volante, remontoire e secondi saltanti, in tantalio o platino. Edizione limitata a 28 esemplari. The post Grönefeld 1941 Quadrivium: quattro complicazioni un solo oro...",
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-24T10:26:11.000Z",
+      "score_quality": 55,
+      "score_notif": 21,
+      "cluster": "20260924-0f33bb18e642",
       "cluster_main": true
     }
   ]
