@@ -1,6 +1,6 @@
 {
-  "content_hash": "79cd4dedbf643508466bb27055ba55d0a61c1fe0afbef61fabdf753c006915c7",
-  "last_updated": "2026-09-30T19:24:18.922Z",
+  "content_hash": "91fcb15494f57ce7a13f37fe34abbc85b9c8d77f1c8cd26ed33853653c51ef00",
+  "last_updated": "2026-09-30T20:47:55.649Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-30T17:00:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-09-30T20:00:41.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Collecting: the Records Explain the Watches",
+      "url": "https://wornandwound.com/collecting-the-records-explain-the-watches/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/Moving-records-editorial-2.jpg",
+      "peek_preview": "If you follow me on Instagram, or if you know me in the real world, you’re probably aware that I’m currently in the uncomfortable but exciting process of packing up my life into a neverending series of cardboard boxes,...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-30T20:00:41.000Z",
+      "score_quality": 60,
+      "score_notif": 24,
+      "cluster": "20260930-e0311959ad3e",
+      "cluster_main": true
+    },
     {
       "title": "Ianos Introduces the Amfivios, a Civilian Version of their Military Issued Dive Watch",
       "url": "https://wornandwound.com/ianos-introduces-the-amfivios-a-civilian-version-of-their-military-issued-dive-watch/",
@@ -873,7 +887,7 @@
       "score_quality": 72,
       "score_notif": 24,
       "cluster": "20260924-2745648d3a3b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "H. Moser Off-Grid: chi riparerà un orologio digitale da 3.900 franchi tra vent’anni?",
@@ -999,7 +1013,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
@@ -1517,7 +1531,7 @@
       "score_quality": 77,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Sinn Watches: How This German Brand Makes The Toughest Tool Watches In The Business",
@@ -1545,20 +1559,6 @@
       "score_quality": 85,
       "score_notif": 24,
       "cluster": "20260925-2a095ae83797",
-      "cluster_main": true
-    },
-    {
-      "title": "Venezianico Introduces the New Redentore Levius",
-      "url": "https://wornandwound.com/venezianico-introduces-the-new-redentore-levius/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Venezianico-Ti-4.jpg",
-      "peek_preview": "Colin Chapman, founder of the legendary automotive marquee, Lotus, once stated that “simplify, then add lightness” was his philosophy. It’s an oft-celebrated, frequently misquoted, and pervasively genius idea: removing...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T17:00:15.000Z",
-      "score_quality": 70,
-      "score_notif": 28,
-      "cluster": "20260925-d8bafd2cca84",
       "cluster_main": true
     },
     {
@@ -1839,7 +1839,7 @@
       "score_quality": 71,
       "score_notif": 24,
       "cluster": "20260924-2745648d3a3b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Grönefeld 1941 Quadrivium: quattro complicazioni un solo orologio",
