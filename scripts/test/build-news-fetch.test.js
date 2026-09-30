@@ -27,7 +27,7 @@ test("a new feed build retains an event's first publication date and caps old al
 
   assert.equal(history.articles[item.url].event_first_published_at, "2026-09-22T13:00:00.000Z");
   assert.equal(Object.hasOwn(item, "event_first_published_at"), false);
-  assert.equal(item.score_notif, 59);
+  assert.equal(item.score_notif, 34);
 });
 
 test("an existing cluster is aged from its oldest article without changing feed fields", () => {
@@ -48,7 +48,7 @@ test("an existing cluster is aged from its oldest article without changing feed 
 
   normalizeEventNotifications([earlier, later], new Date("2026-09-26T15:00:00.000Z"), history);
 
-  assert.equal(later.score_notif, 59);
+  assert.equal(later.score_notif, 34);
   assert.equal(history.articles[later.url].event_first_published_at, earlier.published_at);
   assert.deepEqual([earlier, later].map((item) => Object.keys(item)), originalKeys);
 });

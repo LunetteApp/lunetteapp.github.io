@@ -13,9 +13,11 @@ const NEWS_PATH = path.join(ROOT, "api", "v1", "news.json");
 const news = JSON.parse(fs.readFileSync(NEWS_PATH, "utf8"));
 const { history } = readArticleHistory();
 const articles = Array.isArray(news.items) ? news.items : [];
+const forceRescoring = process.env.NEWS_FORCE_RESCORING === "true";
 const scoringPending = articles.filter((article) => {
   const record = historyRecord(history, article.url);
-  return article.score_quality === -1
+  return forceRescoring
+    || article.score_quality === -1
     || article.score_notif === -1
     || record?.scoring_pending === true;
 });

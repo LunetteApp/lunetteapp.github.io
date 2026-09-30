@@ -2,6 +2,12 @@ name: Update news feed
 
 on:
   workflow_dispatch:
+    inputs:
+      force_rescoring:
+        description: Rescore every article in the current feed
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -19,6 +25,7 @@ jobs:
       # singleton clusters and unscored articles, which stay pending for a
       # later run.
       NEWS_SKIP_INFERENCE: ${{ vars.NEWS_SKIP_INFERENCE || 'false' }}
+      NEWS_FORCE_RESCORING: ${{ inputs.force_rescoring && 'true' || 'false' }}
       LLM_MODEL: ${{ vars.NEWS_LLM_MODEL || 'gpt-5.4' }}
       LLM_REASONING_EFFORT: ${{ vars.NEWS_LLM_REASONING_EFFORT || 'medium' }}
       # Rates come from scripts/llm-prices.js by model name. Set these variables

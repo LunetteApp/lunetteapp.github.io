@@ -34,8 +34,8 @@ may contain site boilerplate rather than substantive reporting.
 Do four things with the same list.
 
 SCORES — return one [quality, notification] pair for each line named in the
-"Score lines" field, in that exact order. A first run names every line; an
-incremental run names only articles without retained scores and can name none.
+"Score lines" field, in that exact order. A first or forced run can name every
+line; an incremental run names only articles without retained scores and can name none.
 
 quality: 0-100 for how suitable this exact source, headline, and preview are to represent the
 story in the app. Reward a precise, informative title from a reliable specialist
@@ -51,24 +51,25 @@ reporting. Ignore publication time for quality.
 - 20-39: vague, promotional, derivative, truncated, or a thin roundup.
 - 0-19: clickbait, deals, giveaways, sweepstakes, and filler.
 
-notification: 0-100 for whether this story merits interrupting a reader right now.
-The user can receive at most one news notification per hour, so a score of 60 or
-more means this story is worth consuming that scarce hourly slot. Be selective:
-most headlines must stay below 60. Reward novelty, urgency, consequence, and broad
-watch-enthusiast interest. Do not raise this score merely because the source or
-brand is prestigious.
-- 90-100: extremely rare, industry-defining news with immediate broad importance.
-- 75-89: a major consequential announcement or genuine scoop.
-- 60-74: clearly worth the limited notification slot now.
-- 35-59: useful current news that belongs in the feed, not as an interruption.
-- 0-34: evergreen articles, routine reviews, opinion, podcasts, guides, events,
-  deals, giveaways, and narrow-interest filler.
+notification: 0-100 for the relative priority of this watch story when choosing
+one fresh story for the next available notification slot. The app also accounts
+for publication age and allows at most one notification per hour. This score is
+an ordering signal, not a pass/fail judgment about interrupting the reader. Do
+not force most watch news into low bands or reserve 60+ only for rare events.
+Reward novelty, consequence, specific new releases, and broad watch-enthusiast
+interest. Do not raise the score merely because the source or brand is prestigious.
+- 90-100: exceptional, industry-defining news or a major genuine scoop.
+- 75-89: a major launch, substantial industry development, or widely relevant new discovery.
+- 60-74: a specific new watch release or other timely, substantive watch news.
+- 40-59: routine but relevant current coverage, including reviews and interviews.
+- 20-39: narrow-interest or mostly evergreen watch content with little current news value.
+- 0-19: off-topic material, thin filler, clickbait, deals, or giveaways.
 
-Publication time only shapes notification, and only for headlines whose value is
-their timing. Score the event, not a publisher's later article about the same
-event. Use the earliest publication time among headlines in a cluster to judge
+The app handles ordinary publication age, so do not lower a story's score merely
+because its article is several hours old. Score the event, not a publisher's later
+article about the same event. Use the earliest publication time in a cluster to judge
 a launch's age. A launch or breaking event first reported more than a day ago
-must score below 60, even if a new outlet writes about it today. A later recap
+must score below 35, even if a new outlet writes about it today. A later recap
 must not make an older announcement newly urgent. If there is a genuinely new
 development, keep it outside the old event cluster. Evergreen writing — history,
 explainers, interviews, reviews — can remain high quality but is not urgent.
@@ -153,13 +154,15 @@ async function main() {
   const news = JSON.parse(fs.readFileSync(NEWS_PATH, "utf8"));
   const { history } = readArticleHistory();
   const articles = Array.isArray(news.items) ? news.items : [];
-  const pending = articles.filter((article) => {
+  const forceRescoring = process.env.NEWS_FORCE_RESCORING === "true";
+  const regularPending = articles.filter((article) => {
     const record = historyRecord(history, article.url);
     return article.score_quality === -1
       || article.score_notif === -1
       || record?.scoring_pending === true
       || record?.clustering_pending === true;
   });
+  const pending = forceRescoring ? articles : regularPending;
   if (pending.length === 0) {
     log("No articles require analysis");
     return;
@@ -170,10 +173,10 @@ async function main() {
   });
   // Scores, marketing, and clusters are one request over one list: the model
   // reads each headline once, and every answer comes back from that reading.
-  log(`${pending.length} pending; analysing all ${articles.length} article(s) with ${provider.model}`);
+  log(`${pending.length} pending; analysing all ${articles.length} article(s) with ${provider.model}${forceRescoring ? " (forced rescoring)" : ""}`);
 
   try {
-    const analysis = await analyseArticles(articles, provider.model, provider.request);
+    const analysis = await analyseArticles(articles, provider.model, provider.request, { forceRescoring });
     const marketing = new Set(analysis.marketing);
     const retained = articles.filter(
       (article) => !marketing.has(compactArticleID(article.url))
@@ -204,7 +207,9 @@ async function main() {
     log(`Scored ${retained.length} article(s), dropped ${marketing.size} marketing article(s), and applied ${analysis.clusters.length} cluster(s)`);
   } catch (error) {
     log(`Analysis failed; pending state retained: ${error.message}`);
-    for (const article of pending) {
+    // A failed manual rescore keeps previously evaluated articles as they were.
+    // Only articles that were already pending need retry flags.
+    for (const article of regularPending) {
       if (!isScore(article.score_quality)) article.score_quality = -1;
       if (!isScore(article.score_notif)) article.score_notif = -1;
       if (typeof article.cluster !== "string" || !article.cluster.trim()) {
@@ -228,7 +233,7 @@ async function main() {
   log(`Run cost ${spend.formatted} over ${spend.calls} call(s); tokens in=${spend.input} out=${spend.output}`);
 }
 
-async function analyseArticles(articles, model, requestFunction) {
+async function analyseArticles(articles, model, requestFunction, { forceRescoring = false } = {}) {
   const ids = articles.map((article) => compactArticleID(article.url));
   if (new Set(ids).size !== ids.length) {
     throw new Error("Article ID collision in analysis request");
@@ -237,7 +242,8 @@ async function analyseArticles(articles, model, requestFunction) {
   // several tokens to generate where an index costs one.
   const indices = articles.map((_, index) => index);
   const scoreIndices = indices.filter((index) =>
-    !isEvaluatedScore(articles[index]?.score_quality)
+    forceRescoring
+      || !isEvaluatedScore(articles[index]?.score_quality)
       || !isEvaluatedScore(articles[index]?.score_notif)
   );
   const schema = {

@@ -90,7 +90,7 @@ function normalizeEventNotifications(articles, now, history, maxAgeHours = 24) {
       }
       if (firstPublished !== null && firstPublished < cutoff
           && Number.isInteger(article.score_notif)) {
-        article.score_notif = Math.min(article.score_notif, 59);
+        article.score_notif = Math.min(article.score_notif, 34);
       }
     }
   }

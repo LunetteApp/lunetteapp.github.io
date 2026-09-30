@@ -62,9 +62,10 @@ test("the batch contains short previews, titles, sources, languages, and no arti
   assert.doesNotMatch(prompt, /example\.com\/tracking/);
 });
 
-test("the prompt treats 60 as a scarce hourly notification slot", () => {
-  assert.match(INSTRUCTIONS, /at most one news notification per hour/);
-  assert.match(INSTRUCTIONS, /score of 60 or\s+more/);
+test("the prompt ranks fresh stories without a minimum notification score", () => {
+  assert.match(INSTRUCTIONS, /at most one notification per hour/);
+  assert.match(INSTRUCTIONS, /ordering signal, not a pass\/fail judgment/);
+  assert.match(INSTRUCTIONS, /specific new watch release or other timely, substantive watch news/);
   assert.match(INSTRUCTIONS, /same\s+notification score/);
   assert.match(INSTRUCTIONS, /first element of lines/);
   assert.match(INSTRUCTIONS, /shortened brand name/);
@@ -219,6 +220,35 @@ test("an incremental run requests and maps scores only for unscored lines", asyn
   });
 });
 
+test("forced rescoring replaces retained scores for every article", async () => {
+  const articles = [
+    {
+      ...article({ title: "First release", url: "https://example.com/first" }),
+      score_quality: 70,
+      score_notif: 18
+    },
+    {
+      ...article({ title: "Second release", url: "https://example.com/second" }),
+      score_quality: 72,
+      score_notif: 22
+    }
+  ];
+  const requests = [];
+  const result = await analyseArticles(articles, "test-model", async (payload) => {
+    requests.push(payload);
+    return {
+      message: {
+        content: JSON.stringify({ scores: [[70, 64], [72, 68]], marketing: [], clusters: [] })
+      }
+    };
+  }, { forceRescoring: true });
+
+  assert.equal(requests[0].outputSchema.properties.scores.maxItems, 2);
+  assert.match(requests[0].messages[1].content, /Score lines: 0, 1/);
+  assert.equal(result.scores[compactArticleID(articles[0].url)].notification, 64);
+  assert.equal(result.scores[compactArticleID(articles[1].url)].notification, 68);
+});
+
 test("the same call names the marketing lines it wants removed", async () => {
   const articles = [
     article({
@@ -364,7 +394,7 @@ test("one surviving old member keeps the event id and prevents a late release al
     "2026-09-22T13:00:00.000Z", "2026-09-22T13:00:00.000Z"
   ]);
   assert.equal(Object.hasOwn(later, "event_first_published_at"), false);
-  assert.equal(later.score_notif, 59);
+  assert.equal(later.score_notif, 34);
   assert.equal(later.score_quality, 65);
 });
 
