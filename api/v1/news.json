@@ -1,6 +1,6 @@
 {
-  "content_hash": "981dda153c7d2f8fbcf2949eb834b2c134f8232d7be12723d6ceba57157d1338",
-  "last_updated": "2026-10-01T06:47:34.123Z",
+  "content_hash": "6631811475cbdf9a404120f2d2d5fcea49df4736b8875d67540974d9f4342417",
+  "last_updated": "2026-10-01T07:48:17.499Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T06:00:28.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-30T12:00:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T07:01:56.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T06:28:18.000Z"
     },
     {
@@ -257,7 +257,7 @@
       "score_quality": 57,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "In-Depth: 200 Odd Years of Hacking Tourbillons",
@@ -397,7 +397,7 @@
       "score_quality": 55,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Kerbedanz 65′ 27″ Collection Video Overview with CEO Vahe Vartzbed",
@@ -521,7 +521,7 @@
       "featured": false,
       "published_at": "2026-09-30T07:01:43.000Z",
       "score_quality": 76,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20260930-ad88117f6d10",
       "cluster_main": true
     },
@@ -775,7 +775,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20260929-7f998e00cb9a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The new Nomos Club Sport Neomatik Worldtimer Dark",
@@ -789,7 +789,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20260929-7f998e00cb9a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Make Sure To Wear Your Sunglasses At Night For The New Nomos Club Sport Neomatik Worldtimer Dark",
@@ -1026,7 +1026,7 @@
       "published_at": "2026-09-28T22:34:35.000Z",
       "score_quality": 72,
       "score_notif": 24,
-      "cluster": "20260924-2745648d3a3b",
+      "cluster": "20260928-fb58535f9273",
       "cluster_main": true
     },
     {
@@ -1153,7 +1153,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
@@ -1573,7 +1573,7 @@
       "score_quality": 77,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Sinn Watches: How This German Brand Makes The Toughest Tool Watches In The Business",
@@ -1840,20 +1840,6 @@
       "score_notif": 0,
       "cluster": "20260924-f3a3664349af",
       "cluster_main": true
-    },
-    {
-      "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
-      "url": "https://www.atimelyperspective.com/mbf-and-caran-dache-go-ape-with-the-new-gorillasharpener-price/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/MBandF_GorillaSharpener_Lifestyle_2_Lres-819x1024.jpg",
-      "peek_preview": "Some collaborations make perfect sense. Others make absolutely no sense — until you see them. The new Caran d’Ache x MB&F GorillaSharpener falls decidedly into the latter camp, and that may be precisely why it is so muc...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T12:02:39.000Z",
-      "score_quality": 74,
-      "score_notif": 24,
-      "cluster": "20260924-2745648d3a3b",
-      "cluster_main": false
     }
   ]
 }
