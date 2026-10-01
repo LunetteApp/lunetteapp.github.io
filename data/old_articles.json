@@ -1354,8 +1354,8 @@
       "lang": "it",
       "published_at": "2026-10-01T11:17:00.000Z",
       "first_seen_at": "2026-10-01T11:45:51.000Z",
-      "event_cluster_id": "20260925-f57dbec40bf9",
-      "event_first_published_at": "2026-09-25T07:19:58.000Z",
+      "event_cluster_id": "20260925-f57dbec40bf9-2",
+      "event_first_published_at": "2026-10-01T09:00:08.000Z",
       "scoring_pending": false,
       "clustering_pending": false
     },
@@ -1712,8 +1712,8 @@
       "lang": "it",
       "published_at": "2026-10-01T09:00:34.000Z",
       "first_seen_at": "2026-10-01T09:45:58.000Z",
-      "event_cluster_id": "20260925-f57dbec40bf9",
-      "event_first_published_at": "2026-09-25T07:19:58.000Z",
+      "event_cluster_id": "20260925-f57dbec40bf9-2",
+      "event_first_published_at": "2026-10-01T09:00:08.000Z",
       "scoring_pending": false,
       "clustering_pending": false
     },
@@ -7274,8 +7274,8 @@
       "lang": "en",
       "published_at": "2026-10-01T09:10:20.000Z",
       "first_seen_at": "2026-10-01T09:45:58.000Z",
-      "event_cluster_id": "20261001-0050ad3b3045",
-      "event_first_published_at": "2026-10-01T09:10:20.000Z",
+      "event_cluster_id": "20260925-f57dbec40bf9-2",
+      "event_first_published_at": "2026-10-01T09:00:08.000Z",
       "scoring_pending": false,
       "clustering_pending": false
     },
@@ -17261,14 +17261,36 @@
       "scoring_pending": false,
       "clustering_pending": false
     },
+    "https://www.watchcollectinglifestyle.com/home/patek-philippe-calatrava-7007g-010-milan-exhibition": {
+      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-calatrava-7007g-010-milan-exhibition",
+      "title": "Introducing: Patek Philippe Calatrava 7007G-010—The White Dial That Completes Italy's Tricolore",
+      "lang": "en",
+      "published_at": "2026-10-01T20:00:28.000Z",
+      "first_seen_at": "2026-10-01T20:45:52.000Z",
+      "event_cluster_id": "20261001-b0860f21bc55",
+      "event_first_published_at": "2026-10-01T20:00:28.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false
+    },
     "https://www.watchcollectinglifestyle.com/home/patek-philippe-calatrava-minute-repeater-7047g-010-milan-exhibition": {
       "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-calatrava-minute-repeater-7047g-010-milan-exhibition",
       "title": "Introducing: Patek Philippe Calatrava Minute Repeater 7047G-010—Five Pieces for Milan in Ferrari Red",
       "lang": "en",
-      "published_at": "2026-10-01T19:45:36.000Z",
+      "published_at": "2026-10-01T19:45:00.000Z",
       "first_seen_at": "2026-10-01T19:46:00.000Z",
       "event_cluster_id": "20261001-5d86ecb6bbe7",
-      "event_first_published_at": "2026-10-01T19:45:36.000Z",
+      "event_first_published_at": "2026-10-01T19:45:00.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false
+    },
+    "https://www.watchcollectinglifestyle.com/home/patek-philippe-calatrava-perpetual-calendar-7147g-010-milan-exhibition": {
+      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-calatrava-perpetual-calendar-7147g-010-milan-exhibition",
+      "title": "Introducing: Patek Philippe Calatrava Perpetual Calendar 7147G-010—Patek's First Perpetual Calendar with Italian Sub-Dials",
+      "lang": "en",
+      "published_at": "2026-10-01T20:31:24.000Z",
+      "first_seen_at": "2026-10-01T20:45:52.000Z",
+      "event_cluster_id": "20261001-74bf389078b1",
+      "event_first_published_at": "2026-10-01T20:31:24.000Z",
       "scoring_pending": false,
       "clustering_pending": false
     },
