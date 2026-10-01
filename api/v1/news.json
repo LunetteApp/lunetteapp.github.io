@@ -1,6 +1,6 @@
 {
-  "content_hash": "122edf7bd75165f7d91573c0dd6490287439c12794e5f51af3806efe324a4dc8",
-  "last_updated": "2026-10-01T12:48:26.993Z",
+  "content_hash": "6343f200febd0027fcc91974ad723ec632a0f5bf0b8f1d6af255646473e3df9d",
+  "last_updated": "2026-10-01T13:47:53.247Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
+      "estimated_articles_per_day": 3.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T11:00:20.000Z"
     },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T12:00:26.000Z"
     },
     {
@@ -57,14 +57,14 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-01T06:28:18.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.8,
+      "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T09:05:17.000Z"
     },
@@ -78,8 +78,8 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T12:01:51.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T12:30:21.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Seiko Prospex HBB006 “Blue Tears”: Thong Sia Group Exclusive Limited Edition",
+      "url": "https://deployant.com/seiko-prospex-hbb006-blue-tears-thong-sia-group-exclusive-limited-edition/?utm_source=rss&utm_medium=rss&utm_campaign=seiko-prospex-hbb006-blue-tears-thong-sia-group-exclusive-limited-edition",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/Prospex-TSG-Exclusive-Blue-Tears-HBB006K1_sq-key-visual-for-Deployant.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Seiko introduces the Prospex HBB006 “Blue Tears,” a new limited edition created exclusively for the Thong Sia Group markets of Singapore, Hong Kong, Macau, Ma...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T13:30:00.000Z",
+      "score_quality": 78,
+      "score_notif": 62,
+      "cluster": "20261001-a84c4e785d2a",
+      "cluster_main": true
+    },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
       "url": "https://www.welovewatches.fr/formex-airfield-la-field-en-titane-passe-en-mode-pilote.html",
@@ -313,7 +327,7 @@
       "score_quality": 78,
       "score_notif": 62,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -369,7 +383,7 @@
       "score_quality": 81,
       "score_notif": 62,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Patek Philippe 5978P-010 Instantaneous Perpetual Calendar Chronograph Limited Edition Milano 2026",
@@ -621,7 +635,7 @@
       "score_quality": 57,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "In-Depth: 200 Odd Years of Hacking Tourbillons",
@@ -761,7 +775,7 @@
       "score_quality": 55,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Kerbedanz 65′ 27″ Collection Video Overview with CEO Vahe Vartzbed",
@@ -773,7 +787,7 @@
       "featured": false,
       "published_at": "2026-09-30T13:30:00.000Z",
       "score_quality": 52,
-      "score_notif": 37,
+      "score_notif": 34,
       "cluster": "20260930-bc80c695bd60",
       "cluster_main": true
     },
@@ -787,7 +801,7 @@
       "featured": false,
       "published_at": "2026-09-30T13:01:41.000Z",
       "score_quality": 74,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20260930-339dcbe9e81e",
       "cluster_main": true
     },
@@ -801,7 +815,7 @@
       "featured": false,
       "published_at": "2026-09-30T13:00:31.000Z",
       "score_quality": 62,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20260930-339dcbe9e81e",
       "cluster_main": false
     },
@@ -815,7 +829,7 @@
       "featured": false,
       "published_at": "2026-09-30T13:00:17.000Z",
       "score_quality": 65,
-      "score_notif": 42,
+      "score_notif": 34,
       "cluster": "20260930-6dd2f535cb0c",
       "cluster_main": true
     },
@@ -829,7 +843,7 @@
       "featured": false,
       "published_at": "2026-09-30T13:00:02.000Z",
       "score_quality": 68,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20260930-339dcbe9e81e",
       "cluster_main": false
     },
@@ -1055,7 +1069,7 @@
       "score_quality": 70,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Monceau Model 01 GTS is a sharp, compact hit of ’70s motorsport style",
@@ -1405,7 +1419,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
@@ -1839,20 +1853,6 @@
       "score_quality": 78,
       "score_notif": 32,
       "cluster": "20260925-49ae69531cba",
-      "cluster_main": true
-    },
-    {
-      "title": "Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria",
-      "url": "https://www.watchinsanity.it/pisa-1940-new-watchmaking-lab-milan/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/PISA_1940_Lab_Watch_Insanity_10-1024x682.jpg",
-      "peek_preview": "Nuovo laboratorio PISA 1940 a Milano: oltre 170 mq dedicati a quick service, revisione, lucidatura, restauro e assistenza orologi. The post Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria appeared first o...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-25T14:19:33.000Z",
-      "score_quality": 60,
-      "score_notif": 26,
-      "cluster": "20260925-1bb36aa383a9",
       "cluster_main": true
     }
   ]
