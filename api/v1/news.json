@@ -1,6 +1,6 @@
 {
-  "content_hash": "a9a2343017ba946792941510b8eea89475546385d30bb01bcd2b258d3fddc84b",
-  "last_updated": "2026-10-01T00:47:38.164Z",
+  "content_hash": "08d710c2beacab9011cc3e8381493f758698f583fa9f0b28e76e1714d5b614c1",
+  "last_updated": "2026-10-01T01:48:16.422Z",
   "premium": {
     "links": []
   },
@@ -65,15 +65,15 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-30T17:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T01:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-30T04:00:44.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T01:00:01.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
+      "estimated_articles_per_day": 2.1,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-01T00:00:04.000Z"
+      "latest_article_at": "2026-10-01T01:02:49.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "シャネルが「ザ ボートレース（The Boat Race）」との関係をたたえてトロフィーを制作",
+      "url": "https://www.webchronos.net/news/174075/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/chanel_boat.jpg",
+      "peek_preview": "2024年、歴史ある「ザ ボートレース（The Boat Race）」とパートナーシップを結び、同レース初の公式タイムキーピングパートナーおよびタイトルスポンサーを務めるシャネル。2027年、第3回目となる「「The C […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-01T01:02:49.000Z",
+      "score_quality": 57,
+      "score_notif": 28,
+      "cluster": "20260930-a88511327622",
+      "cluster_main": false
+    },
+    {
+      "title": "In-Depth: 200 Odd Years of Hacking Tourbillons",
+      "url": "https://watchesbysjx.com/2026/10/hacking-tourbillon-history.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Hacking-Tourbillon-Feat-300x200.jpg",
+      "peek_preview": "Conventional wisdom holds that stopping a tourbillon for precise time setting — “hacking” in watchmaking parlance — is a difficult endeavor given the constant rotation of the cage. The hacking tourbillon wristwatch didn...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T01:00:01.000Z",
+      "score_quality": 89,
+      "score_notif": 24,
+      "cluster": "20261001-4f10d8435de4",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: G-SHOCK Reveals The MRG-D5000 “Blue Rose Project” In Sapphire",
+      "url": "https://www.hodinkee.com/articles/g-shock-reveals-the-mrg-d5000-blue-rose-project-in-sapphire",
+      "image": "https://hodinkee.imgix.net/uploads/images/6f75c77b-1ceb-4ea3-a47d-b5d441c0247d/tan2h-g-shock-blueroseproject-01988-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The most expensive G-SHOCK to date might come as shocking news, but it's not entirely out of the blue.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T01:00:00.000Z",
+      "score_quality": 77,
+      "score_notif": 72,
+      "cluster": "20261001-4e32206aac09",
+      "cluster_main": true
+    },
     {
       "title": "ウブロが、ジェフ・クーンズの「バルーン ドッグ」をモチーフとした「クラシック・フュージョン バルーン ドッグ by ジェフ・クーンズ」を発表",
       "url": "https://www.webchronos.net/news/173887/",
@@ -229,7 +271,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Toronto Timepiece Show 2026",
@@ -915,7 +957,7 @@
       "score_quality": 72,
       "score_notif": 24,
       "cluster": "20260924-2745648d3a3b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "H. Moser Off-Grid: chi riparerà un orologio digitale da 3.900 franchi tra vent’anni?",
@@ -1013,7 +1055,7 @@
       "score_quality": 76,
       "score_notif": 31,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – Marco Tedeschi’s Impressive Central Floating Tourbillon in Black Aventurine",
@@ -1041,7 +1083,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
@@ -1069,20 +1111,6 @@
       "score_quality": 74,
       "score_notif": 30,
       "cluster": "20260928-4c393bd35729",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Louis Vuitton Monterey In Ceramic",
-      "url": "https://www.hodinkee.com/articles/the-louis-vuitton-monterey-in-ceramic",
-      "image": "https://hodinkee.imgix.net/uploads/images/93064804-a861-4c1e-b81b-9c5ec320ff82/montereyceramicheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A modern tribute to the brand's Monterey II brings back ceramics and a smaller case into the permanent collection.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-28T13:00:00.000Z",
-      "score_quality": 80,
-      "score_notif": 33,
-      "cluster": "20260928-83f8266bad79",
       "cluster_main": true
     },
     {
@@ -1237,7 +1265,7 @@
       "score_quality": 82,
       "score_notif": 33,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "オリエントスターの新デザインプロジェクト「Sakigake（先駆け）」から「スリーハンド」が発表",
@@ -1363,20 +1391,6 @@
       "score_quality": 73,
       "score_notif": 29,
       "cluster": "20260927-282807bfa697",
-      "cluster_main": true
-    },
-    {
-      "title": "オメガ「スピードマスター 38」がアップデート。 よりムーンウォッチ然とした新作7モデルが登場",
-      "url": "https://www.webchronos.net/news/170565/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/OM_sm_1.webp",
-      "peek_preview": "オメガは、38mm径ケースを持つ「スピードマスター 38」コレクションに、新たな7つのモデルを追加した。これらの新作では、細部にわたるブラッシュアップが施されたほか、王道の“ムーンウォッチ”を彷彿とさせるディテールが随所 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-27T00:00:38.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20260927-9da6d5719514",
       "cluster_main": true
     },
     {
@@ -1545,7 +1559,7 @@
       "score_quality": 77,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Sinn Watches: How This German Brand Makes The Toughest Tool Watches In The Business",
@@ -1601,7 +1615,7 @@
       "score_quality": 78,
       "score_notif": 32,
       "cluster": "20260924-8bde792f6e32",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria",
@@ -1755,7 +1769,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20260924-8bde792f6e32",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Backes & Strauss Partners With Tennis Player Elina Avanesyan For An Upcoming Special Watch Collection",
@@ -1840,20 +1854,6 @@
       "score_notif": 24,
       "cluster": "20260924-2745648d3a3b",
       "cluster_main": false
-    },
-    {
-      "title": "New Release: Caran d’Ache x MB&F GorillaSharpener",
-      "url": "https://deployant.com/new-release-caran-dache-x-mbf-gorillasharpener/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-caran-dache-x-mbf-gorillasharpener",
-      "image": null,
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors In another show of extraordinary creativity, MB&F celebrates World Gorilla Day with a superbly weird and wonderful pencil sharpener. Dubbed GorillaSharpener,...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T12:00:00.000Z",
-      "score_quality": 71,
-      "score_notif": 24,
-      "cluster": "20260924-2745648d3a3b",
-      "cluster_main": true
     }
   ]
 }
