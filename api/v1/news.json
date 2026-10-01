@@ -1,6 +1,6 @@
 {
-  "content_hash": "5e2733f6a532b4b0843d3bd894e2b4827d5695b41972813f244a63cfc26beb54",
-  "last_updated": "2026-10-01T05:47:26.792Z",
+  "content_hash": "981dda153c7d2f8fbcf2949eb834b2c134f8232d7be12723d6ceba57157d1338",
+  "last_updated": "2026-10-01T06:47:34.123Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T05:00:31.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 4.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-30T16:00:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T06:00:28.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-30T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T06:28:18.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
+      "url": "https://deployant.com/in-memoriam-gunter-blumlein-25-years-on-the-legend-remains-unforgotten/?utm_source=rss&utm_medium=rss&utm_campaign=in-memoriam-gunter-blumlein-25-years-on-the-legend-remains-unforgotten",
+      "image": "https://deployant.com/wp-content/uploads/2016/09/2001.Peter-Chong-G%C3%BCnter-Bl%C3%BCmlein.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Today we observe 25 years since the passing of one of the horological world’s most iconic and visionary leaders – Günter Blümlein. The Man Who Reshaped Modern...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T06:28:18.000Z",
+      "score_quality": 74,
+      "score_notif": 27,
+      "cluster": "20261001-44f86f935f0a",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The Face-Changing Voxel Meridion VX01-E, With a 24-Hour Jumping Display",
+      "url": "https://monochrome-watches.com/face-changing-voxel-meridion-vx01-e-with-24-hour-jumping-display-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Voxel-Meridion-VX01-E-twin-time-indication-face-chaging-dial-review-11-600x237.jpg",
+      "peek_preview": "With a multitude of new brands entering the market every year, it is difficult to stand out. Founded by Thibault Luc and Bruno Herbet, Voxel has chosen to do just that with its debut watch. The Meridian VX01-E sets itse...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T06:00:28.000Z",
+      "score_quality": 84,
+      "score_notif": 67,
+      "cluster": "20261001-f09d12aecaf0",
+      "cluster_main": true
+    },
     {
       "title": "Test-Driving The Seiko Speedtimer HBJ008 European Limited Edition HBJ008",
       "url": "https://www.fratellowatches.com/test-driving-the-seiko-speedtimer-hbj008-european-limited-edition-hbj008/",
@@ -313,7 +341,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Photo Report: Toronto Timepiece Show 2026",
@@ -747,7 +775,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20260929-7f998e00cb9a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The new Nomos Club Sport Neomatik Worldtimer Dark",
@@ -761,7 +789,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20260929-7f998e00cb9a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Make Sure To Wear Your Sunglasses At Night For The New Nomos Club Sport Neomatik Worldtimer Dark",
@@ -1097,7 +1125,7 @@
       "score_quality": 76,
       "score_notif": 31,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Marco Tedeschi’s Impressive Central Floating Tourbillon in Black Aventurine",
@@ -1125,7 +1153,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
@@ -1181,20 +1209,6 @@
       "score_quality": 45,
       "score_notif": 12,
       "cluster": "20260928-9a850170f03d",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Baume & Mercier Riviera Chronograph for the Gran Premio Storico d’Italia",
-      "url": "https://monochrome-watches.com/baume-mercier-riviera-chronograph-automatic-gran-premio-storico-italia-limited-edition-10897-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Baume-Mercier-Riviera-Chronograph-Automatic-Gran-Premio-Storico-Italia-1-600x237.jpg",
-      "peek_preview": "Baume & Mercier has been appointed the Official Timekeeper of the 2026 Gran Premio Storico d’Italia. This new partnership brings the Swiss watchmaker to the motorsport event at the Mugello Circuit. Taking place October...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-28T11:00:13.000Z",
-      "score_quality": 72,
-      "score_notif": 30,
-      "cluster": "20260928-32cb324bc3a5",
       "cluster_main": true
     },
     {
@@ -1559,7 +1573,7 @@
       "score_quality": 77,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Sinn Watches: How This German Brand Makes The Toughest Tool Watches In The Business",
@@ -1837,20 +1851,6 @@
       "featured": false,
       "published_at": "2026-09-24T12:02:39.000Z",
       "score_quality": 74,
-      "score_notif": 24,
-      "cluster": "20260924-2745648d3a3b",
-      "cluster_main": false
-    },
-    {
-      "title": "MB&F goes bananas with the Caran d’Ache GorillaSharpener",
-      "url": "https://timeandtidewatches.com/mb-f-gorillasharpener-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-mbf-caran-d-ache-gorilla-sharpener.jpg",
-      "peek_preview": "MB&F and Caran d’Ache go ape with the GorillaSharpener, a CHF 850 mechanical gorilla that turns sharpening a pencil into an art form. The post MB&F goes bananas with the Caran d’Ache GorillaSharpener appeared first on T...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-24T12:00:30.000Z",
-      "score_quality": 55,
       "score_notif": 24,
       "cluster": "20260924-2745648d3a3b",
       "cluster_main": false
