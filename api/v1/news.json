@@ -1,6 +1,6 @@
 {
-  "content_hash": "8b55a0447abafbdf8f76f88dfada74063614664337793a06848b49f19a56616f",
-  "last_updated": "2026-10-01T03:47:23.134Z",
+  "content_hash": "0650894dbb562f8f3e9cba94e9df1cf59f5579c179a7dcfd06db963074db457d",
+  "last_updated": "2026-10-01T04:47:33.133Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-30T13:00:17.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T04:00:30.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -43,7 +43,7 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-30T16:34:51.000Z"
     },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T03:01:51.000Z"
     },
     {
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T03:00:25.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Fratello Talks: Can Brand Ambassadors Help Create A New Generation Of Watch Enthusiasts?",
+      "url": "https://www.fratellowatches.com/fratello-talks-can-brand-ambassadors-help-create-a-new-generation-of-watch-enthusiasts/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/05/tudor-inter-miami-cf-03-e1790581666865.jpg",
+      "peek_preview": "Brand ambassadors have long been part of the watch industry. From actors and athletes to musicians and explorers, these familiar faces help bring brands’ watches to a wider audience. But can that visibility do more than...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T04:00:30.000Z",
+      "score_quality": 56,
+      "score_notif": 22,
+      "cluster": "20261001-026e10616e76",
+      "cluster_main": true
+    },
     {
       "title": "TAG Heuer celebrates 50 years of the Five Borough New York City Marathon with new Connected Calibre E5 Running Edition",
       "url": "https://timeandtidewatches.com/tag-heuer-five-borough-nyc-marathon-connected-calibre-e5-running-edition-introducing/",
@@ -299,7 +313,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Photo Report: Toronto Timepiece Show 2026",
@@ -507,7 +521,7 @@
       "featured": false,
       "published_at": "2026-09-30T04:00:44.000Z",
       "score_quality": 77,
-      "score_notif": 47,
+      "score_notif": 34,
       "cluster": "20260930-551f8f748bb7",
       "cluster_main": true
     },
@@ -985,7 +999,7 @@
       "score_quality": 72,
       "score_notif": 24,
       "cluster": "20260924-2745648d3a3b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "H. Moser Off-Grid: chi riparerà un orologio digitale da 3.900 franchi tra vent’anni?",
@@ -1083,7 +1097,7 @@
       "score_quality": 76,
       "score_notif": 31,
       "cluster": "20260928-256a2d58a981",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Marco Tedeschi’s Impressive Central Floating Tourbillon in Black Aventurine",
@@ -1238,20 +1252,6 @@
       "score_notif": 18,
       "cluster": "20260928-ceebaeb486c4",
       "cluster_main": true
-    },
-    {
-      "title": "The New Ianos Amfivios Is Like A Fish In Water On The Wrist",
-      "url": "https://www.fratellowatches.com/new-ianos-amfivios/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Ianos-Amfivios-5.jpg",
-      "peek_preview": "With the Avyssos, Mihanikos, and Dytis, the Greek brand Ianos completed its trilogy of dive watches. That’s what founder Jacob Hatzidimitriou thought, anyway. Then, last year, he released the Ianos OYK. That watch was d...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-28T07:00:44.000Z",
-      "score_quality": 71,
-      "score_notif": 31,
-      "cluster": "20260928-256a2d58a981",
-      "cluster_main": false
     },
     {
       "title": "The Ianos Amfivios takes a military-issued diver and opens it up to the rest of us",
@@ -1629,7 +1629,7 @@
       "score_quality": 78,
       "score_notif": 32,
       "cluster": "20260924-8bde792f6e32",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Pisa 1940 inaugura a Milano il nuovo laboratorio di orologeria",
@@ -1783,7 +1783,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20260924-8bde792f6e32",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Backes & Strauss Partners With Tennis Player Elina Avanesyan For An Upcoming Special Watch Collection",
@@ -1853,7 +1853,7 @@
       "score_quality": 74,
       "score_notif": 24,
       "cluster": "20260924-2745648d3a3b",
-      "cluster_main": false
+      "cluster_main": true
     }
   ]
 }
