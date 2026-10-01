@@ -1,6 +1,6 @@
 {
-  "content_hash": "0c2bc29c6083a50b82d01979da68d1171679ae81c03bc72ee433c388a9164be0",
-  "last_updated": "2026-10-01T11:48:35.210Z",
+  "content_hash": "122edf7bd75165f7d91573c0dd6490287439c12794e5f51af3806efe324a4dc8",
+  "last_updated": "2026-10-01T12:48:26.993Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T11:00:20.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-01T07:01:56.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T12:00:26.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-01T09:00:31.000Z"
+      "estimated_articles_per_day": 2.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T12:01:51.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -114,22 +114,22 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T11:17:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T11:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-29T07:30:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-01T12:30:21.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -176,6 +176,62 @@
   ],
   "items": [
     {
+      "title": "Formex AirField : la Field en titane passe en mode pilote",
+      "url": "https://www.welovewatches.fr/formex-airfield-la-field-en-titane-passe-en-mode-pilote.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/montre-airfield-automatic-40-mm-tarmac-grey-une.jpg",
+      "peek_preview": "Pour sa montre de pilote (ou tout du moins de passionnés d'aviation), Formex n'est pas reparti d'une feuille blanche. La marque de Bienne a pris sa Field en titane, gardé le boîtier tel quel et...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-01T12:30:21.000Z",
+      "score_quality": 58,
+      "score_notif": 34,
+      "cluster": "20260929-d95b9f618f4b",
+      "cluster_main": false
+    },
+    {
+      "title": "TAG Heuer celebrates 50 years of the Five Borough New York City Marathon with new Connected Calibre E5 Running Edition",
+      "url": "https://timeandtidewatches.com/tag-heuer-five-borough-nyc-marathon-connected-calibre-e5-running-edition-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/TAG-Heuer-Connected-E5-NY-Marathon-Runners-Edition.jpg",
+      "peek_preview": "TAG Heuer celebrates 50 years of the five-borough New York City Marathon with the titanium Connected Calibre E5 NYRR Running Edition. The post TAG Heuer celebrates 50 years of the Five Borough New York City Marathon wit...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T12:01:51.000Z",
+      "score_quality": 60,
+      "score_notif": 56,
+      "cluster": "20261001-85a3754ce77d",
+      "cluster_main": true
+    },
+    {
+      "title": "Norqain introduces titanium to its Wild One collection with three new models",
+      "url": "https://timeandtidewatches.com/norqain-introduces-titanium-to-its-wild-one-collection-with-three-new-models/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-norqain-wild-one-titanium-collection-1.webp",
+      "peek_preview": "Norqain releases three new Wild One models with a top plate, centre container, and optional pin-buckle in grade 5 titanium. The three models include two skeletonised models in 39mm and 42mm and a meteorite dial model in...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T12:00:48.000Z",
+      "score_quality": 62,
+      "score_notif": 66,
+      "cluster": "20261001-c716f755d99a",
+      "cluster_main": true
+    },
+    {
+      "title": "New Release: NOMOS Club Sport neomatik Worldtimer dark Watch Doubles Down On Luminous Details",
+      "url": "https://www.ablogtowatch.com/new-release-nomos-club-sport-neomatik-worldtimer-dark-watch-doubles-down-on-luminous-details/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/NOMOS-Club-Sport-Neomatik-Worldtimer-Dark-Watch-768x346.jpg",
+      "peek_preview": "Originally launched last year at Watches & Wonders 2025, the Club Sport neomatik Worldtimer is one of the most compelling new NOMOS models to debut in recent years, pairing the sporty ethos of the German brand’s Club co...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T12:00:26.000Z",
+      "score_quality": 64,
+      "score_notif": 34,
+      "cluster": "20260929-7f998e00cb9a",
+      "cluster_main": false
+    },
+    {
       "title": "WAGE Milano 2026: l’omaggio di Patek Philippe all’Italia",
       "url": "https://giornaleorologi.it/2026/10/01/wage-milano-2026-lomaggio-di-patek-philippe-allitalia/",
       "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/20260930_115332-1024x683.jpg",
@@ -186,7 +242,7 @@
       "published_at": "2026-10-01T11:17:00.000Z",
       "score_quality": 42,
       "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
+      "cluster": "20260925-f57dbec40bf9",
       "cluster_main": false
     },
     {
@@ -257,7 +313,7 @@
       "score_quality": 78,
       "score_notif": 62,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -299,7 +355,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -313,7 +369,7 @@
       "score_quality": 81,
       "score_notif": 62,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Patek Philippe 5978P-010 Instantaneous Perpetual Calendar Chronograph Limited Edition Milano 2026",
@@ -341,7 +397,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Gradient Blue Patek Philippe Aquanaut 5167A Limited Edition Milano 2026",
@@ -999,7 +1055,7 @@
       "score_quality": 70,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Monceau Model 01 GTS is a sharp, compact hit of ’70s motorsport style",
@@ -1349,7 +1405,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
@@ -1797,62 +1853,6 @@
       "score_quality": 60,
       "score_notif": 26,
       "cluster": "20260925-1bb36aa383a9",
-      "cluster_main": true
-    },
-    {
-      "title": "Special Episode: More Champagne from August",
-      "url": "https://deployant.com/special-episode-more-champagne-from-august/?utm_source=rss&utm_medium=rss&utm_campaign=special-episode-more-champagne-from-august",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/larmandier-bernier-1.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors At a recent wedding celebration, after a heavy dinner of exceptional cuisine, I continued the celebration with the couple and friends at the After Party. And...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T13:30:00.000Z",
-      "score_quality": 10,
-      "score_notif": 0,
-      "cluster": "20260925-6c9982a71c58",
-      "cluster_main": true
-    },
-    {
-      "title": "Titaniumize Everything (w/ Austin Rogers, @rehaut)",
-      "url": "https://www.unpolishedwatches.com/p/titaniumize-everything-w-austin-rogers",
-      "image": "https://substackcdn.com/image/fetch/$s_!CxWh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfb11470-1d25-4b31-a29c-4b108ecccecd_1524x100.png",
-      "peek_preview": "Austin Rogers is a New Yorker by way of Ohio, and goes by @rehaut on Instagram.",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T11:20:49.000Z",
-      "score_quality": 44,
-      "score_notif": 8,
-      "cluster": "20260925-600f34f5c96a",
-      "cluster_main": true
-    },
-    {
-      "title": "Patek Philippe a Milano: Laura Gervasoni racconta la Watch Art 2026",
-      "url": "https://www.perpetualpassion.com/2026/09/25/patek-philippe-watch-art-milano-2026-intervista-laura-gervasoni/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/09/Laura-Gervasoni-3-scaled.jpg",
-      "peek_preview": "Dal 2 al 18 ottobre 2026 Patek Philippe porterà a Milano la “Watch Art” Grand Exhibition, aprendo al [...] L'articolo Patek Philippe a Milano: Laura Gervasoni racconta la Watch Art 2026 proviene da PERPETUAL PASSION.",
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-25T07:19:58.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
-    },
-    {
-      "title": "Richard Mille partners with GB1, the British America’s Cup Challenger ahead of 2027 race",
-      "url": "https://timeandtidewatches.com/richard-mille-partners-with-gb1-the-british-americas-cup-challenger-ahead-of-2027-race-friday-wind-down/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/260922-GB1-RichardMille-006-copy.jpg",
-      "peek_preview": "This week, Richard Mille revealed a new partnership with GB1, the British America’s Cup Challenger, as the team’s Official Timekeeping Partner for the 38th America’s Cup. In Time+Tide news, FounderFest was a resounding...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-25T07:01:53.000Z",
-      "score_quality": 60,
-      "score_notif": 29,
-      "cluster": "20260925-b71056e02118",
       "cluster_main": true
     }
   ]
