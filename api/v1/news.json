@@ -1,6 +1,6 @@
 {
-  "content_hash": "6ac9e1519716e8b81bb5193cf7d81f3edd5fb8bab99e6115cea46275475bd43c",
-  "last_updated": "2026-10-02T03:48:02.721Z",
+  "content_hash": "cfc957bf9a79baf473438f448db389a2ad78d7c5850c5e8b068b30049852a1c7",
+  "last_updated": "2026-10-02T05:47:42.899Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-01T22:01:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-02T05:00:36.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-01T12:30:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-02T05:30:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T03:00:05.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "There Are Only 33 Of These: Introducing The Black-Dial Brellum Pandial 43 Power Reserve LE Chronometer",
+      "url": "https://www.fratellowatches.com/the-black-dialed-brellum-pandial-43-power-reserve-le-chronometer/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Brellum-Pandial-43-Power-Reserve-LE-Chronometer-5.jpg",
+      "peek_preview": "The first Brellum Pandial Power Reserve Chronometer LE I ever saw indeed had a panda dial. The white dial with black sub-registers created the famous look so many desire. The latest Pandial is like a panda suffering fro...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T05:00:36.000Z",
+      "score_quality": 74,
+      "score_notif": 62,
+      "cluster": "20261002-f78d379781eb",
+      "cluster_main": true
+    },
     {
       "title": "アイクポッドが名作のDNAを受け継ぐ新作レクタンギュラーウォッチ「ミニポッド」全8モデルを発表",
       "url": "https://www.webchronos.net/news/174231/",
@@ -241,9 +255,9 @@
       "featured": false,
       "published_at": "2026-10-01T20:31:24.000Z",
       "score_quality": 80,
-      "score_notif": 67,
-      "cluster": "20261001-74bf389078b1",
-      "cluster_main": true
+      "score_notif": 74,
+      "cluster": "20261001-1615cfaf2042",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Calatrava 7007G-010—The White Dial That Completes Italy's Tricolore",
@@ -255,9 +269,9 @@
       "featured": false,
       "published_at": "2026-10-01T20:00:28.000Z",
       "score_quality": 77,
-      "score_notif": 61,
-      "cluster": "20261001-b0860f21bc55",
-      "cluster_main": true
+      "score_notif": 74,
+      "cluster": "20261001-1615cfaf2042",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Calatrava Minute Repeater 7047G-010—Five Pieces for Milan in Ferrari Red",
@@ -269,9 +283,9 @@
       "featured": false,
       "published_at": "2026-10-01T19:45:00.000Z",
       "score_quality": 82,
-      "score_notif": 64,
-      "cluster": "20261001-5d86ecb6bbe7",
-      "cluster_main": true
+      "score_notif": 74,
+      "cluster": "20261001-1615cfaf2042",
+      "cluster_main": false
     },
     {
       "title": "Seiko Surfaces with Prospex “Blue Tears” Limited Edition",
@@ -285,7 +299,7 @@
       "score_quality": 81,
       "score_notif": 62,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -411,7 +425,7 @@
       "score_quality": 78,
       "score_notif": 62,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -425,7 +439,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20260929-d95b9f618f4b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer celebrates 50 years of the Five Borough New York City Marathon with new Connected Calibre E5 Running Edition",
@@ -551,7 +565,7 @@
       "score_quality": 78,
       "score_notif": 62,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -579,7 +593,7 @@
       "score_quality": 86,
       "score_notif": 83,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -593,7 +607,7 @@
       "score_quality": 81,
       "score_notif": 62,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -621,7 +635,7 @@
       "score_quality": 85,
       "score_notif": 83,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
@@ -691,7 +705,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Revives the 1920s with the American Classic Cushion",
@@ -747,7 +761,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Dream Comes To Fruition: The G-Shock MRG-D5000 In Blue Sapphire",
@@ -815,7 +829,7 @@
       "featured": false,
       "published_at": "2026-10-01T05:00:31.000Z",
       "score_quality": 74,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261001-79c7068eb4ea",
       "cluster_main": true
     },
@@ -1083,7 +1097,7 @@
       "score_quality": 68,
       "score_notif": 33,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Moritz Grossmann Injects a Contemporary Air into the Benu Power Reserve",
@@ -1125,20 +1139,6 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20260930-ad88117f6d10",
-      "cluster_main": true
-    },
-    {
-      "title": "Why I Bought A Replica — An Omega Speedmaster Replica 3594.50, That Is",
-      "url": "https://www.fratellowatches.com/why-i-bought-an-omega-speedmaster-replica-3594-50/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Speedmaster-Replica-Lex-2.jpg",
-      "peek_preview": "Recently, we’ve received a fair number of messages about the Speedmaster ’57 Replica (or Re-edition, as Omega now refers to it). It’s still a Speedmaster variation that is under the radar for the masses, but can consist...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-30T07:00:07.000Z",
-      "score_quality": 62,
-      "score_notif": 22,
-      "cluster": "20260930-99a5718c6e40",
       "cluster_main": true
     },
     {
@@ -1349,7 +1349,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20260929-d95b9f618f4b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ユリス・ナルダンが「フリーク ONE ギヨシェ」を発表。アワーディスクの繊細な表情に注目",
@@ -1629,7 +1629,7 @@
       "score_quality": 75,
       "score_notif": 33,
       "cluster": "20260928-83f8266bad79",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time Machines: Reluctantly Becoming A ‘Rolex Guy’ With The Circa 1974 Rolex Oysterdate Precision Ref. 6694 Watch",
@@ -1839,20 +1839,6 @@
       "score_quality": 66,
       "score_notif": 24,
       "cluster": "20260926-11072a9ac351",
-      "cluster_main": true
-    },
-    {
-      "title": "Breitling’s New CEO Just Revealed Their 5-Year Plan | House of Brands Ep. 1",
-      "url": "https://timeandtidewatches.com/breitlings-new-ceo-just-revealed-their-5-year-plan-house-of-brands-ep-1-video/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/breitling-house-of-brands-ep-1-feature-image.jpg",
-      "peek_preview": "Russele sat down with Georges Kern and newly installed Breitling CEO Jean-Marc Pontroué to discuss the future of the brand. The post Breitling’s New CEO Just Revealed Their 5-Year Plan | House of Brands Ep. 1 appeared f...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-26T11:01:09.000Z",
-      "score_quality": 79,
-      "score_notif": 33,
-      "cluster": "20260926-be0db44747a0",
       "cluster_main": true
     }
   ]
