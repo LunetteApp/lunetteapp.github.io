@@ -1,6 +1,6 @@
 {
-  "content_hash": "c209c2dc14065e1556ae559e3aaf5be00084a94263bcf392eaf01a5ee559f440",
-  "last_updated": "2026-10-02T08:47:33.930Z",
+  "content_hash": "38a74a0f55eedd3bb5c8a730d8528e1f3337e182290fc4ccf609c8dc3348d7c0",
+  "last_updated": "2026-10-02T09:47:41.092Z",
   "premium": {
     "links": []
   },
@@ -10,7 +10,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-02T08:00:26.000Z"
+      "latest_article_at": "2026-10-02T09:00:39.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -22,8 +22,8 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 4,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.9,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T08:01:04.000Z"
     },
     {
@@ -72,14 +72,14 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T08:00:47.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T08:01:34.000Z"
     },
     {
@@ -99,7 +99,7 @@
     {
       "source_name": "Watch Insanity",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T14:55:35.000Z"
     },
@@ -121,14 +121,14 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T08:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T07:57:28.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "The Top 5 Watches Released In September 2026",
+      "url": "https://www.fratellowatches.com/the-top-5-watches-released-in-september-2026/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Panerai-PAM01710-PAM01711-PAM01714-5.jpg",
+      "peek_preview": "Another Friday, another list! Now that October is here, it’s time for an overview of the best releases from September. Last month, after a much-deserved summer break, the watch industry came back to life at full speed w...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T09:00:39.000Z",
+      "score_quality": 32,
+      "score_notif": 18,
+      "cluster": "20261002-1ac29ec48b4e",
+      "cluster_main": true
+    },
+    {
       "title": "Hanhart debuts its first official Steve McQueen 417 ES Limited Edition",
       "url": "https://timeandtidewatches.com/hanhart-417-es-steve-mcqueen-limited-edition-no-1-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Hanhart-417-ES-Steve-McQueen-Limited-Edition-No.-1-%E2%80%93-33.jpg",
@@ -187,7 +201,7 @@
       "score_quality": 74,
       "score_notif": 67,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Hanhart Officially Puts Steve McQueen’s Name on the 417 ES Chronograph",
@@ -201,7 +215,7 @@
       "score_quality": 84,
       "score_notif": 67,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Revisits Steve McQueen’s Personal Chronograph",
@@ -395,9 +409,9 @@
       "featured": false,
       "published_at": "2026-10-01T20:31:24.000Z",
       "score_quality": 80,
-      "score_notif": 74,
-      "cluster": "20261001-74bf389078b1",
-      "cluster_main": true
+      "score_notif": 34,
+      "cluster": "20261001-1615cfaf2042",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Calatrava 7007G-010—The White Dial That Completes Italy's Tricolore",
@@ -409,9 +423,9 @@
       "featured": false,
       "published_at": "2026-10-01T20:00:28.000Z",
       "score_quality": 77,
-      "score_notif": 74,
-      "cluster": "20261001-b0860f21bc55",
-      "cluster_main": true
+      "score_notif": 34,
+      "cluster": "20261001-1615cfaf2042",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Calatrava Minute Repeater 7047G-010—Five Pieces for Milan in Ferrari Red",
@@ -423,9 +437,9 @@
       "featured": false,
       "published_at": "2026-10-01T19:45:00.000Z",
       "score_quality": 82,
-      "score_notif": 74,
-      "cluster": "20261001-5d86ecb6bbe7",
-      "cluster_main": true
+      "score_notif": 34,
+      "cluster": "20261001-1615cfaf2042",
+      "cluster_main": false
     },
     {
       "title": "Seiko Surfaces with Prospex “Blue Tears” Limited Edition",
@@ -451,7 +465,7 @@
       "featured": false,
       "published_at": "2026-10-01T18:34:47.000Z",
       "score_quality": 76,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261001-b485214a755d",
       "cluster_main": true
     },
@@ -703,7 +717,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:15:36.000Z",
       "score_quality": 78,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
       "cluster_main": false
     },
@@ -718,8 +732,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261001-0050ad3b3045",
-      "cluster_main": true
+      "cluster": "20260925-f57dbec40bf9-2",
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -731,7 +745,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:05:00.000Z",
       "score_quality": 86,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
       "cluster_main": false
     },
@@ -745,7 +759,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:04:00.000Z",
       "score_quality": 81,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
       "cluster_main": true
     },
@@ -773,7 +787,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:03:29.000Z",
       "score_quality": 85,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
       "cluster_main": true
     },
@@ -789,7 +803,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Gradient Blue Patek Philippe Aquanaut 5167A Limited Edition Milano 2026",
@@ -801,7 +815,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:02:37.000Z",
       "score_quality": 82,
-      "score_notif": 76,
+      "score_notif": 34,
       "cluster": "20261001-ddf04519302d",
       "cluster_main": true
     },
@@ -815,7 +829,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:01:21.000Z",
       "score_quality": 81,
-      "score_notif": 74,
+      "score_notif": 34,
       "cluster": "20261001-1615cfaf2042",
       "cluster_main": true
     },
@@ -829,7 +843,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:00:51.000Z",
       "score_quality": 80,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
       "cluster_main": false
     },
@@ -857,7 +871,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:00:31.000Z",
       "score_quality": 64,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261001-b485214a755d",
       "cluster_main": false
     },
@@ -871,7 +885,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:00:27.000Z",
       "score_quality": 49,
-      "score_notif": 41,
+      "score_notif": 34,
       "cluster": "20261001-ed0be02982ab",
       "cluster_main": true
     },
@@ -885,7 +899,7 @@
       "featured": false,
       "published_at": "2026-10-01T09:00:18.000Z",
       "score_quality": 82,
-      "score_notif": 71,
+      "score_notif": 34,
       "cluster": "20261001-6de8e690d1f0",
       "cluster_main": true
     },
@@ -901,7 +915,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Dream Comes To Fruition: The G-Shock MRG-D5000 In Blue Sapphire",
@@ -1180,8 +1194,8 @@
       "published_at": "2026-09-30T13:00:31.000Z",
       "score_quality": 62,
       "score_notif": 34,
-      "cluster": "20260930-339dcbe9e81e",
-      "cluster_main": false
+      "cluster": "20260930-30ad9ece017f",
+      "cluster_main": true
     },
     {
       "title": "The Nezumi Voiture VM2: A Racing Chronograph That’s Here To Stay",
@@ -1195,20 +1209,6 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20260930-6dd2f535cb0c",
-      "cluster_main": true
-    },
-    {
-      "title": "Earthen Co. Breaks New Ground With More Colors For Its Summit MK II Collection",
-      "url": "https://www.fratellowatches.com/new-colors-earthen-co-summit-mk-ii/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Earthen-Co-Summit-new-colours-2026-10.jpg",
-      "peek_preview": "When Earthen Co. debuted with the Summit, I was immediately intrigued. The combination of ceramic cases with the famous IWC Mark-series design silhouette made the watches instantly recognizable and stylish. But the Hong...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-30T13:00:02.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20260930-339dcbe9e81e",
       "cluster_main": true
     },
     {
@@ -1377,7 +1377,7 @@
       "score_quality": 70,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Monceau Model 01 GTS is a sharp, compact hit of ’70s motorsport style",
@@ -1643,7 +1643,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
