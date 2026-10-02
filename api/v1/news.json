@@ -1,6 +1,6 @@
 {
-  "content_hash": "6ae76df5774b58dff129bdbaede4a76c0ff77c1dd6862b1d7416ea9bb3733e2b",
-  "last_updated": "2026-10-02T10:45:52.903Z",
+  "content_hash": "eff53643b19467c09bf9f99cb089266ad6a91487f7124081e1a2cc288382857c",
+  "last_updated": "2026-10-02T11:47:18.302Z",
   "premium": {
     "links": []
   },
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-01T11:17:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-02T10:48:19.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "I cronografi F.P.Journe: una storia al contrario",
+      "url": "https://giornaleorologi.it/2026/10/02/i-cronografi-f-p-journe-una-storia-al-contrario/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/F.P.-Journe-Octa-Chronograph-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - I cronografi F.P.Journe: una storia al contrario Una lezione di pura meccanica. Ecco come ho sempre considerato le creazioni di François-Paul Journe. Ma non si tratta delle solite banalità del...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-02T10:48:19.000Z",
+      "score_quality": 77,
+      "score_notif": 22,
+      "cluster": "20261002-224ae5c84c8d",
+      "cluster_main": true
+    },
+    {
       "title": "The Top 5 Watches Released In September 2026",
       "url": "https://www.fratellowatches.com/the-top-5-watches-released-in-september-2026/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Panerai-PAM01710-PAM01711-PAM01714-5.jpg",
@@ -201,7 +215,7 @@
       "score_quality": 74,
       "score_notif": 67,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – Hanhart Officially Puts Steve McQueen’s Name on the 417 ES Chronograph",
@@ -215,7 +229,7 @@
       "score_quality": 84,
       "score_notif": 67,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Revisits Steve McQueen’s Personal Chronograph",
@@ -410,8 +424,8 @@
       "published_at": "2026-10-01T20:31:24.000Z",
       "score_quality": 80,
       "score_notif": 34,
-      "cluster": "20261001-1615cfaf2042",
-      "cluster_main": false
+      "cluster": "20261001-74bf389078b1",
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Calatrava 7007G-010—The White Dial That Completes Italy's Tricolore",
@@ -424,8 +438,8 @@
       "published_at": "2026-10-01T20:00:28.000Z",
       "score_quality": 77,
       "score_notif": 34,
-      "cluster": "20261001-1615cfaf2042",
-      "cluster_main": false
+      "cluster": "20261001-b0860f21bc55",
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Calatrava Minute Repeater 7047G-010—Five Pieces for Milan in Ferrari Red",
@@ -438,8 +452,8 @@
       "published_at": "2026-10-01T19:45:00.000Z",
       "score_quality": 82,
       "score_notif": 34,
-      "cluster": "20261001-1615cfaf2042",
-      "cluster_main": false
+      "cluster": "20261001-5d86ecb6bbe7",
+      "cluster_main": true
     },
     {
       "title": "Seiko Surfaces with Prospex “Blue Tears” Limited Edition",
@@ -453,7 +467,7 @@
       "score_quality": 81,
       "score_notif": 62,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -579,7 +593,7 @@
       "score_quality": 78,
       "score_notif": 62,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -675,7 +689,7 @@
       "featured": false,
       "published_at": "2026-10-01T11:00:00.000Z",
       "score_quality": 74,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261001-a7ab3fe7ccfb",
       "cluster_main": true
     },
@@ -719,7 +733,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -750,20 +764,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
-      "url": "https://www.hodinkee.com/articles/intro-patek-milan-limited-editions",
-      "image": "https://hodinkee.imgix.net/uploads/images/a8c9c682-9b80-422b-9b13-3767e0367e0c/HeroMilanWatchesPP.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "With various thematic ties to the host city and country, Patek leans into the culture of one of the original watch-collecting Meccas.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:04:00.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
-    },
-    {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
       "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
       "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -775,6 +775,20 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
+      "url": "https://www.hodinkee.com/articles/intro-patek-milan-limited-editions",
+      "image": "https://hodinkee.imgix.net/uploads/images/a8c9c682-9b80-422b-9b13-3767e0367e0c/HeroMilanWatchesPP.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "With various thematic ties to the host city and country, Patek leans into the culture of one of the original watch-collecting Meccas.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T09:04:00.000Z",
+      "score_quality": 75,
+      "score_notif": 34,
+      "cluster": "20260925-f57dbec40bf9-2",
       "cluster_main": true
     },
     {
@@ -803,7 +817,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Gradient Blue Patek Philippe Aquanaut 5167A Limited Edition Milano 2026",
@@ -929,7 +943,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido Multifort TV Big Date Día De Los Muertos Alebrijes: La Prova dal Vivo",
@@ -1027,7 +1041,7 @@
       "score_quality": 57,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "In-Depth: 200 Odd Years of Hacking Tourbillons",
@@ -1055,7 +1069,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ウブロが、ジェフ・クーンズの「バルーン ドッグ」をモチーフとした「クラシック・フュージョン バルーン ドッグ by ジェフ・クーンズ」を発表",
@@ -1167,7 +1181,7 @@
       "score_quality": 55,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Kerbedanz 65′ 27″ Collection Video Overview with CEO Vahe Vartzbed",
@@ -1377,7 +1391,7 @@
       "score_quality": 70,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Monceau Model 01 GTS is a sharp, compact hit of ’70s motorsport style",
@@ -1643,7 +1657,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
@@ -1840,20 +1854,6 @@
       "score_notif": 30,
       "cluster": "20260927-24c743ac4d0c",
       "cluster_main": false
-    },
-    {
-      "title": "New releases from Frederique Constant, Panerai, Vacheron Constantin and more",
-      "url": "https://timeandtidewatches.com/gronefeld-panerai-vacheron-constantin-last-week-in-watches/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-heron-continental-2.jpg",
-      "peek_preview": "This week is all about blue dials: when something works so well it’s hard to change it, but it’s even harder to bring something new to the mix. Frederique Constant reimagines its rectangular model in a Canadian tuxedo,...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-26T15:30:01.000Z",
-      "score_quality": 46,
-      "score_notif": 14,
-      "cluster": "20260926-9b63ca6db7bf",
-      "cluster_main": true
     }
   ]
 }
