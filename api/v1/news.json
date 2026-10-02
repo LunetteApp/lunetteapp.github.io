@@ -1,6 +1,6 @@
 {
-  "content_hash": "183821fe7bb81144eb3bf422a226a05f90dd3e60dc6a906245370b25d74d70a0",
-  "last_updated": "2026-10-02T15:47:56.702Z",
+  "content_hash": "5aeb8c3c9b9f7d09b596da6c70fa47c635ab4864b9fdf08aed866578510a69db",
+  "last_updated": "2026-10-02T16:47:57.635Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
+      "estimated_articles_per_day": 3.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T09:00:39.000Z"
     },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T13:00:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-02T16:00:31.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -64,8 +64,8 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T15:00:00.000Z"
     },
     {
@@ -79,14 +79,14 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T15:30:19.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T15:00:24.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "First Look – Armin Strom Applies the Midas Touch to the New Tribute³ Au750",
+      "url": "https://monochrome-watches.com/armin-strom-tribute3-au750-full-rose-gold-case-dial-movement-guilloche-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Armin_Strom_Tribute3_Au750_full_rose_gold-review-1-600x237.jpg",
+      "peek_preview": "Armin Strom has conquered the indie watchmaking scene with its combination of mechanical inventiveness and striking asymmetric displays. As a fully integrated manufacture, Armin Strom can bring its wildest mechanical dr...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T16:00:31.000Z",
+      "score_quality": 84,
+      "score_notif": 66,
+      "cluster": "20261002-1b93e64ea058",
+      "cluster_main": true
+    },
+    {
       "title": "Over The Moon: Van Cleef & Arpels Chases the Cosmos with the Midnight Jour Nuit Phase de Lune",
       "url": "https://timeandtidewatches.com/van-cleef-arpels-midnight-jour-nuit-phase-de-lune-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-van-cleef-arpels-phase-de-lune.webp",
@@ -201,7 +215,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261001-ddf04519302d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bring a Loupe: A Lucien Piccard Telephone, A Mappin and Webb Dress Watch, An Omega Admiralty, And A Jaeger LeCoultre Master Mariner",
@@ -465,9 +479,9 @@
       "featured": false,
       "published_at": "2026-10-02T08:00:00.000Z",
       "score_quality": 67,
-      "score_notif": 60,
+      "score_notif": 66,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Orient Flusso : nouvelle rivale des PRX et Tsuyosa",
@@ -649,7 +663,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -775,7 +789,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -928,8 +942,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261001-0050ad3b3045",
-      "cluster_main": true
+      "cluster": "20260925-f57dbec40bf9-2",
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1013,7 +1027,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261001-ddf04519302d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Trilogy of Patek Philippe Calatrava for Milano Grand Exhibition 2026",
@@ -1153,20 +1167,6 @@
       "score_quality": 74,
       "score_notif": 27,
       "cluster": "20261001-44f86f935f0a",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The Face-Changing Voxel Meridion VX01-E, With a 24-Hour Jumping Display",
-      "url": "https://monochrome-watches.com/face-changing-voxel-meridion-vx01-e-with-24-hour-jumping-display-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Voxel-Meridion-VX01-E-twin-time-indication-face-chaging-dial-review-11-600x237.jpg",
-      "peek_preview": "With a multitude of new brands entering the market every year, it is difficult to stand out. Founded by Thibault Luc and Bruno Herbet, Voxel has chosen to do just that with its debut watch. The Meridian VX01-E sets itse...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T06:00:28.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261001-f09d12aecaf0",
       "cluster_main": true
     },
     {
@@ -1839,6 +1839,20 @@
       "score_quality": 68,
       "score_notif": 26,
       "cluster": "20260928-bba8b38b9450",
+      "cluster_main": true
+    },
+    {
+      "title": "News orologi: fatti, volti ed eventi – 28/09/2026",
+      "url": "https://giornaleorologi.it/2026/09/28/news-orologi/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/serenay_sarikaya_richard_mille_17-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - News orologi: fatti, volti ed eventi – 28/09/2026 Il mondo delle lancette viaggia a ritmo serrato. E queste News orologi lo dimostrano: tra nuove partnership, aste da brivido e appuntamenti var...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-09-28T10:39:39.000Z",
+      "score_quality": 27,
+      "score_notif": 10,
+      "cluster": "20260928-3483aafd2a12",
       "cluster_main": true
     }
   ]
