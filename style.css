@@ -359,6 +359,44 @@ body {
     width: 260px;
 }
 
+.feature-text .feature-note {
+    margin-top: 12px;
+    font-size: 14px;
+    color: var(--text-3);
+}
+
+.tryon-photos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    width: 100%;
+    max-width: 460px;
+}
+
+.tryon-photo:nth-child(2) {
+    transform: translateY(28px);
+}
+
+.tryon-photo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    border-radius: 14px;
+    border: 1px solid var(--border);
+    box-shadow: 0 18px 30px rgba(4, 14, 38, 0.45);
+}
+
+.tryon-photo figcaption {
+    margin-top: 10px;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    color: var(--text-2);
+    text-align: center;
+}
+
 /* ─── Principles ─── */
 .principles {
     border-top: 1px solid var(--border);
@@ -571,6 +609,8 @@ body {
 
     .feature-text p { max-width: 100%; }
     .feature-device .device-frame { width: 220px; }
+    .tryon-photos { gap: 8px; }
+    .tryon-photo:nth-child(2) { transform: translateY(16px); }
 
     .principles-inner { padding: 0 20px; }
 
