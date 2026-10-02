@@ -1,6 +1,6 @@
 {
-  "content_hash": "5aeb8c3c9b9f7d09b596da6c70fa47c635ab4864b9fdf08aed866578510a69db",
-  "last_updated": "2026-10-02T16:47:57.635Z",
+  "content_hash": "c9edbf18fb000bb42166c2842de9a168139524f8967513c16ce41d02ede0f2a7",
+  "last_updated": "2026-10-02T17:47:38.769Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T16:00:31.000Z"
     },
     {
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-01T18:34:47.000Z"
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-02T17:45:16.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T15:00:00.000Z"
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-02T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "The 16 Best Square Watches For Standing Out In A Round World",
+      "url": "https://teddybaldassarre.com/blogs/watches/best-square-watches",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen_Square_Watch.jpg?v=1790960227",
+      "peek_preview": "Square watches are easy to spot among all the round cases populating the watch world, but they don’t all make the same impression. The slim Nomos Tetra and the substantial TAG Heuer Monaco, for example, have little in c...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T17:45:16.000Z",
+      "score_quality": 37,
+      "score_notif": 24,
+      "cluster": "20261002-36b34727cc34",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
+      "url": "https://www.hodinkee.com/articles/sinn-103-st-sa-lufthansa-for-100-years-of-lufthansa",
+      "image": "https://hodinkee.imgix.net/uploads/images/39884a79-f27a-4d7c-be7c-d6737eec4511/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "German airline Lufthansa celebrates 100 years with a special edition watch from Sinn.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T17:00:00.000Z",
+      "score_quality": 82,
+      "score_notif": 68,
+      "cluster": "20261002-d8e7a4432ddb",
+      "cluster_main": true
+    },
     {
       "title": "First Look – Armin Strom Applies the Midas Touch to the New Tribute³ Au750",
       "url": "https://monochrome-watches.com/armin-strom-tribute3-au750-full-rose-gold-case-dial-movement-guilloche-review-price/",
@@ -663,7 +691,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -789,7 +817,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -957,7 +985,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -999,7 +1027,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
@@ -1520,20 +1548,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: Seiko Alpinist GMT HBC007",
-      "url": "https://www.hodinkee.com/articles/seiko-alpinist-gmt-hbc007",
-      "image": "https://hodinkee.imgix.net/uploads/images/1b8251c8-9358-4069-898c-7b3c0fbf0a33/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A cult-favorite GMT from Seiko makes its way out of Japan after a very long wait.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T17:00:00.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20260929-9ceeea29f202",
-      "cluster_main": true
-    },
-    {
       "title": "Grand Seiko SBGY007 'Omiwatari' Review: Beneath The Surface Of The Frozen-Lake Dial",
       "url": "https://teddybaldassarre.com/blogs/watches/grand-seiko-sbgy007-omiwatari-review",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Grand_Seiko_SBGY007_Omiwatari_SS3.webp?v=1784056937",
@@ -1839,20 +1853,6 @@
       "score_quality": 68,
       "score_notif": 26,
       "cluster": "20260928-bba8b38b9450",
-      "cluster_main": true
-    },
-    {
-      "title": "News orologi: fatti, volti ed eventi – 28/09/2026",
-      "url": "https://giornaleorologi.it/2026/09/28/news-orologi/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/serenay_sarikaya_richard_mille_17-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - News orologi: fatti, volti ed eventi – 28/09/2026 Il mondo delle lancette viaggia a ritmo serrato. E queste News orologi lo dimostrano: tra nuove partnership, aste da brivido e appuntamenti var...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-28T10:39:39.000Z",
-      "score_quality": 27,
-      "score_notif": 10,
-      "cluster": "20260928-3483aafd2a12",
       "cluster_main": true
     }
   ]
