@@ -1,6 +1,6 @@
 {
-  "content_hash": "cf9840db365636d6850e23e2342865fce97419986c8f26861afe64ac9dfbda81",
-  "last_updated": "2026-10-02T14:48:52.459Z",
+  "content_hash": "183821fe7bb81144eb3bf422a226a05f90dd3e60dc6a906245370b25d74d70a0",
+  "last_updated": "2026-10-02T15:47:56.702Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T14:01:12.000Z"
     },
     {
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-01T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-02T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -80,14 +80,14 @@
       "lang": "en",
       "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-02T14:00:18.000Z"
+      "latest_article_at": "2026-10-02T15:30:19.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 3,
-      "latest_article_at": "2026-10-02T14:42:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-02T15:00:24.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T14:30:10.000Z"
     },
     {
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Over The Moon: Van Cleef & Arpels Chases the Cosmos with the Midnight Jour Nuit Phase de Lune",
+      "url": "https://timeandtidewatches.com/van-cleef-arpels-midnight-jour-nuit-phase-de-lune-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-van-cleef-arpels-phase-de-lune.webp",
+      "peek_preview": "Van Cleef & Arpels puts its watchmaking prowess on display with a stunningly decorated take on the sun & moon display The post Over The Moon: Van Cleef & Arpels Chases the Cosmos with the Midnight Jour Nuit Phase de Lun...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T15:30:19.000Z",
+      "score_quality": 67,
+      "score_notif": 63,
+      "cluster": "20261002-6cec5ead2e06",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Patek Philippe Aquanaut 5167A-014—Navy Fumé, a Red Seconds Hand, and 250 Pieces for Italy",
+      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-aquanaut-5167a-014-navy-milan-exhibition",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790949456518-4TZNQQQYPXMRBV9WM6MX/Patek+Philippe+Aquanaut+Milano+Exhibition+Edition+Dial.jpg?format=1500w",
+      "peek_preview": "Among the seven limited editions Patek Philippe has reserved for Italy at its Watch Art Grand Exhibition in Milan, the Aquanaut Ref. 5167A-014 is the one that steps away from the flag. This stainless steel sports watch...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T15:00:24.000Z",
+      "score_quality": 83,
+      "score_notif": 34,
+      "cluster": "20261001-ddf04519302d",
+      "cluster_main": false
+    },
+    {
+      "title": "Bring a Loupe: A Lucien Piccard Telephone, A Mappin and Webb Dress Watch, An Omega Admiralty, And A Jaeger LeCoultre Master Mariner",
+      "url": "https://www.hodinkee.com/articles/a-lucien-piccard-telephone-a-mappin-and-webb-dress-watch-an-omega-admiralty-and-a-jaeger-lecoultre-m",
+      "image": "https://hodinkee.imgix.net/uploads/images/c971e885-5d7d-43d9-84ae-023331947e58/BAL102HERO.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T15:00:00.000Z",
+      "score_quality": 34,
+      "score_notif": 16,
+      "cluster": "20261002-93cb1dfd1ee7",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: Patek Philippe World Time Minute Repeater 5531G-013—Milan After Dark in Yellow Enamel, Five Pieces Only",
       "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-world-time-minute-repeater-5531g-013-milan-after-dark",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790949014046-KORFGIFJEFN4QSJP8AX9/Patek+Philippe+WorldTime+5531g-013+Detail.jpg?format=1500w",
@@ -243,7 +285,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -607,7 +649,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -661,7 +703,7 @@
       "featured": false,
       "published_at": "2026-10-01T15:03:27.000Z",
       "score_quality": 72,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
       "cluster_main": true
     },
@@ -675,7 +717,7 @@
       "featured": false,
       "published_at": "2026-10-01T15:00:52.000Z",
       "score_quality": 78,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261001-f99fd03c3b34",
       "cluster_main": true
     },
@@ -689,7 +731,7 @@
       "featured": false,
       "published_at": "2026-10-01T15:00:36.000Z",
       "score_quality": 60,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
       "cluster_main": false
     },
@@ -733,7 +775,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -873,7 +915,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -929,7 +971,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Patek Philippe 5978P-010 Instantaneous Perpetual Calendar Chronograph Limited Edition Milano 2026",
@@ -1097,7 +1139,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1362,7 +1404,7 @@
       "published_at": "2026-09-30T12:00:51.000Z",
       "score_quality": 68,
       "score_notif": 33,
-      "cluster": "20260928-83f8266bad79",
+      "cluster": "20260930-906e77eea021",
       "cluster_main": true
     },
     {
@@ -1517,7 +1559,7 @@
       "score_quality": 70,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Monceau Model 01 GTS is a sharp, compact hit of ’70s motorsport style",
@@ -1545,20 +1587,6 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20260929-d17017381296",
-      "cluster_main": true
-    },
-    {
-      "title": "Business News: Gallet’s Return Heralds Renewed Battle For Mid-Tier Priced Watch Segment",
-      "url": "https://www.hodinkee.com/articles/gallets-return-heralds-renewed-battle-for-mid-tier-priced-watch-segment",
-      "image": "https://hodinkee.imgix.net/uploads/images/986252ef-e955-4ad1-86fc-b7b0a991f6b6/tan2h-gallet-for-andy-01018-compressed.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "After years of moving up in category and price, inflation overload pushes some Swiss brands and clients back to the middle.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T15:00:00.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20260929-062a77c1f34b",
       "cluster_main": true
     },
     {
@@ -1783,7 +1811,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20260924-85abd93b9de2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: Perrellet Weekend Stone Dials, new stones for 2026",
@@ -1812,48 +1840,6 @@
       "score_notif": 26,
       "cluster": "20260928-bba8b38b9450",
       "cluster_main": true
-    },
-    {
-      "title": "We brought Cartier obsessives to the Melbourne Boutique — here’s what happened",
-      "url": "https://timeandtidewatches.com/we-brought-cartier-obsessives-to-the-melbourne-boutique-video/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/cartier-melbourne-boutique-video.jpg",
-      "peek_preview": "Time+Tide descended on the Cartier Boutique at 90 Collins Street, Melbourne — and brought along some of the most passionate Cartier fans. The post We brought Cartier obsessives to the Melbourne Boutique — here’s what ha...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-28T11:01:21.000Z",
-      "score_quality": 45,
-      "score_notif": 12,
-      "cluster": "20260928-9a850170f03d",
-      "cluster_main": true
-    },
-    {
-      "title": "News orologi: fatti, volti ed eventi – 28/09/2026",
-      "url": "https://giornaleorologi.it/2026/09/28/news-orologi/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/09/serenay_sarikaya_richard_mille_17-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - News orologi: fatti, volti ed eventi – 28/09/2026 Il mondo delle lancette viaggia a ritmo serrato. E queste News orologi lo dimostrano: tra nuove partnership, aste da brivido e appuntamenti var...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-28T10:39:39.000Z",
-      "score_quality": 40,
-      "score_notif": 12,
-      "cluster": "20260928-3483aafd2a12",
-      "cluster_main": true
-    },
-    {
-      "title": "Louis Vuitton Revisits Its First Wristwatch With The New Monterey Ceramic",
-      "url": "https://www.atimelyperspective.com/louis-vuitton-revisits-its-first-wristwatch-with-the-new-monterey-ceramic-prices/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/W0CR11_PM1_Side-view.jpg",
-      "peek_preview": "Long before Louis Vuitton made a serious push into watchmaking with the Tambour in 2002, the famed French luxury house had already tested the waters with a rather unusual pair of watches. Having covered the watch indust...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-28T10:33:47.000Z",
-      "score_quality": 75,
-      "score_notif": 33,
-      "cluster": "20260928-83f8266bad79",
-      "cluster_main": false
     }
   ]
 }
