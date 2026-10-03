@@ -1,6 +1,6 @@
 {
-  "content_hash": "5be13a215f293726905678f9184ca775ff971aae52ad9111069e8e2253d7b364",
-  "last_updated": "2026-10-03T11:46:55.253Z",
+  "content_hash": "46cd1d573bd7ea75e7ace80d852b33648509085b6499cf412adcbfb440b269f2",
+  "last_updated": "2026-10-03T13:00:33.084Z",
   "premium": {
     "links": []
   },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
+      "estimated_articles_per_day": 3.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T08:35:45.000Z"
     },
@@ -30,14 +30,14 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T07:01:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T12:00:07.000Z"
     },
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T11:03:19.000Z"
     },
     {
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
+      "estimated_articles_per_day": 2.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T19:00:00.000Z"
     },
@@ -78,16 +78,16 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T11:01:21.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T15:00:24.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T12:37:43.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Weekend Reads: Patek Philippe Takes Over Milan with Seven Limited Editions, Breguet's Tourbillon Sidéral Dazzles, and Artisans de Genève Goes Manual-Wound on the Neon Daytona",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-10-03",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-03T12:37:43.000Z",
+      "score_quality": 23,
+      "score_notif": 14,
+      "cluster": "20261003-b65443fa1251",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On Debut: The Limited-Edition Casio G-Shock MR-G MRGD5000 Watch Renders A Classic Shape In Sapphire",
+      "url": "https://www.ablogtowatch.com/hands-on-debut-the-limited-edition-casio-g-shock-mr-g-mrgd5000-watch-renders-a-classic-shape-in-sapphire/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Casio-G-Shock-MR-G-Sapphire-LOR-Crop-768x346.jpg",
+      "peek_preview": "In the highest echelons of luxury watchmaking, sapphire cases are nothing new. Brands like Jacob & Co. and Hublot have been experimenting with dramatic full-sapphire presentations for years, typically with extravagant s...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-03T12:00:07.000Z",
+      "score_quality": 79,
+      "score_notif": 34,
+      "cluster": "20261001-4e32206aac09",
+      "cluster_main": false
+    },
+    {
       "title": "Am I Buying Microbrands All Wrong?",
       "url": "https://www.unpolishedwatches.com/p/am-i-buying-microbrands-all-wrong-ece",
       "image": "https://substackcdn.com/image/fetch/$s_!u3CQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8773b95-7ddd-4dfc-ab7a-11f89e131b67_2048x2048.jpeg",
@@ -184,8 +212,8 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-03T11:03:19.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 27,
+      "score_notif": 22,
       "cluster": "20261003-6598756318a8",
       "cluster_main": true
     },
@@ -198,8 +226,8 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-03T11:01:21.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 61,
+      "score_notif": 30,
       "cluster": "20261003-7162c2e838e0",
       "cluster_main": true
     },
@@ -212,10 +240,10 @@
       "lang": "de",
       "featured": false,
       "published_at": "2026-10-03T10:18:42.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
-      "cluster": "20261003-d4754ed32623",
-      "cluster_main": true
+      "score_quality": 58,
+      "score_notif": 34,
+      "cluster": "20261002-07fb6cf05945",
+      "cluster_main": false
     },
     {
       "title": "It Doesn’t Get Any Better: Hands-On With The Albishorn Type X-Graph",
@@ -226,8 +254,8 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-03T09:00:06.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 78,
+      "score_notif": 47,
       "cluster": "20261003-fcb71305bb08",
       "cluster_main": true
     },
@@ -240,8 +268,8 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-03T08:35:45.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 10,
+      "score_notif": 4,
       "cluster": "20261003-6547e0b446ec",
       "cluster_main": true
     },
@@ -254,8 +282,8 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-03T08:00:34.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 63,
+      "score_notif": 60,
       "cluster": "20261003-059bd2c96a8b",
       "cluster_main": true
     },
@@ -268,8 +296,8 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-03T07:01:00.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 57,
+      "score_notif": 49,
       "cluster": "20261003-6e693532a43f",
       "cluster_main": true
     },
@@ -282,8 +310,8 @@
       "lang": "fr",
       "featured": false,
       "published_at": "2026-10-03T05:30:00.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 55,
+      "score_notif": 51,
       "cluster": "20261003-e4f8a7650a3e",
       "cluster_main": true
     },
@@ -296,8 +324,8 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-03T05:00:37.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 75,
+      "score_notif": 69,
       "cluster": "20261003-27dd88a1cbe5",
       "cluster_main": true
     },
@@ -310,8 +338,8 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-10-03T03:00:49.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 67,
+      "score_notif": 64,
       "cluster": "20261003-40cc6acfdece",
       "cluster_main": true
     },
@@ -324,8 +352,8 @@
       "lang": "ja",
       "featured": false,
       "published_at": "2026-10-03T00:00:09.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 2,
+      "score_notif": 0,
       "cluster": "20261003-189248d956f5",
       "cluster_main": true
     },
@@ -338,8 +366,8 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-02T22:01:36.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 58,
+      "score_notif": 76,
       "cluster": "20261002-07420429ec36",
       "cluster_main": true
     },
@@ -352,8 +380,8 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-02T19:00:40.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
+      "score_quality": 32,
+      "score_notif": 16,
       "cluster": "20261002-ee4cd0fc7d65",
       "cluster_main": true
     },
@@ -366,9 +394,9 @@
       "lang": "en",
       "featured": false,
       "published_at": "2026-10-02T19:00:00.000Z",
-      "score_quality": -1,
-      "score_notif": -1,
-      "cluster": "20261002-36e633c32376",
+      "score_quality": 80,
+      "score_notif": 33,
+      "cluster": "20261001-b485214a755d",
       "cluster_main": true
     },
     {
@@ -887,7 +915,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -899,9 +927,9 @@
       "featured": false,
       "published_at": "2026-10-01T18:34:47.000Z",
       "score_quality": 76,
-      "score_notif": 34,
+      "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Owner’s Review: the Favre Leuba Raider Harpoon 42",
@@ -943,7 +971,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Lorige BL-Evolution “Competition”, Built from Le Mans Victory",
@@ -971,7 +999,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Christopher Ward C1 Jump Hour XV brings its first complication into the atelier era",
@@ -1013,7 +1041,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1153,7 +1181,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -1209,7 +1237,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Patek Philippe 5978P-010 Instantaneous Perpetual Calendar Chronograph Limited Edition Milano 2026",
@@ -1305,23 +1333,9 @@
       "featured": false,
       "published_at": "2026-10-01T09:00:31.000Z",
       "score_quality": 64,
-      "score_notif": 34,
+      "score_notif": 33,
       "cluster": "20261001-b485214a755d",
       "cluster_main": false
-    },
-    {
-      "title": "ブランパン、新作「ブランパン Lady B」と女性用機械式時計の歴史を紹介するイベントを東京・原宿で開催",
-      "url": "https://www.webchronos.net/news/173410/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/ladyb_top.jpg",
-      "peek_preview": "ブランパンは、女性に向けた新コレクション「ブランパン Lady B」の発表を記念したイベント「ザ ブランパン レディバード レガシー」を、東京・原宿で開催する。会場では新作モデルに加え、新作モデルにつながる歴史的なタイム […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-01T09:00:27.000Z",
-      "score_quality": 49,
-      "score_notif": 34,
-      "cluster": "20261001-ed0be02982ab",
-      "cluster_main": true
     },
     {
       "title": "Patek Philippe Unveils Seven Italian Exclusives",
@@ -1643,7 +1657,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20260928-70f86d451bef",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Owner’s Review: the Norqain Adventure Sport",
@@ -1698,7 +1712,7 @@
       "published_at": "2026-09-29T16:00:50.000Z",
       "score_quality": 70,
       "score_notif": 30,
-      "cluster": "20260924-85abd93b9de2",
+      "cluster": "20260929-6f656892d258",
       "cluster_main": true
     },
     {
@@ -1825,34 +1839,6 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20260929-80225e9beeaa",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex Daytona “Four Seasons” Sells for Almost US$50 Million",
-      "url": "https://watchesbysjx.com/2026/09/rolex-daytona-four-seasons-london-auction.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Rolex-Daytona-Four-Seasons-3x2-header-5-300x200.jpg",
-      "peek_preview": "When we first reported on Rolex’s Daytona “Four Seasons” charity auction, we wondered whether the quartet could reach CHF31 million, the sum achieved by Patek Philippe’s steel Grandmaster Chime at Only Watch in 2019. We...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T01:13:03.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20260928-70f86d451bef",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: MB&F x Caran d'Ache GorillaSharpener—The Knuckle-Walking Desk Beast That Wants You Writing Again",
-      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-x-caran-d-ache-gorilla-pencil-sharpner",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790634285379-BWOE7MLPB29C1LUW25NA/MBandF_GorillaSharpener+and+Caran+d%27Ache.jpg?format=1500w",
-      "peek_preview": "MB&F has never treated a desk as neutral territory. To mark the 15th anniversary of the M.A.D.Gallery, the brand and Caran d'Ache have given one of Switzerland's most familiar childhood objects the stance of a mountain...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-28T22:34:35.000Z",
-      "score_quality": 72,
-      "score_notif": 24,
-      "cluster": "20260928-fb58535f9273",
       "cluster_main": true
     }
   ]
