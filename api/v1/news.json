@@ -1,6 +1,6 @@
 {
-  "content_hash": "24aa7894c77ad3c028c7420d0cea87bb0fa5cdebb42479633a251ec2bbd194c4",
-  "last_updated": "2026-10-03T09:46:59.919Z",
+  "content_hash": "570401c8ee9c28582b90e54ead0ffa00c5338bdf645036d8868cda3ff250b5fd",
+  "last_updated": "2026-10-03T10:46:52.623Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T09:00:06.000Z"
     },
     {
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
+      "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T15:00:24.000Z"
     },
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-01T15:03:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T10:18:42.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Hanhart 417 ES Steve McQueen: Manche Uhren zeigen die Zeit. Andere erzählen eine Geschichte.",
+      "url": "https://www.uhrenkosmos.com/hanhart-417-es-steve-mcqueen-limited-edition-1/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Steve-McQueen-mit-Hanhart-417-ES-dem-Ausgangspunkt-der-neuen-Hanhart-417-ES-Steve-McQueen-Limited-Edition-No.-1.jpg",
+      "peek_preview": "Die Hanhart 417 ES Steve McQueen Limited Edition No. 1 erzählt eine Geschichte, die bisher nur auf alten Fotos zu sehen war: Der „King of Cool“ trug den Bundeswehr-Chronographen beim Motorradfahren, bei Rennen und im Pr...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-03T10:18:42.000Z",
+      "score_quality": -1,
+      "score_notif": -1,
+      "cluster": "20261003-d4754ed32623",
+      "cluster_main": true
+    },
     {
       "title": "It Doesn’t Get Any Better: Hands-On With The Albishorn Type X-Graph",
       "url": "https://www.fratellowatches.com/hands-on-albishorn-type-x-graph/",
@@ -1837,20 +1851,6 @@
       "featured": false,
       "published_at": "2026-09-28T22:25:39.000Z",
       "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20260928-70f86d451bef",
-      "cluster_main": false
-    },
-    {
-      "title": "Rolex Daytona Four Seasons: i quattro pezzi unici raggiungono 43,4 milioni all’asta",
-      "url": "https://italianwatchspotter.com/rolex-daytona-four-seasons/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-122-1024x963.png",
-      "peek_preview": "Quattro Rolex, quattro esemplari unici e nessuna stima ufficiale. A Londra, Phillips in Association with Bacs & Russo batte all’asta Spring, Summer, Autumn e Winter, i quattro Rolex Cosmograph Daytona Four Seasons prese...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-28T22:10:41.000Z",
-      "score_quality": 76,
       "score_notif": 34,
       "cluster": "20260928-70f86d451bef",
       "cluster_main": false
