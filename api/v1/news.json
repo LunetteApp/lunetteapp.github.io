@@ -1,6 +1,6 @@
 {
-  "content_hash": "d16f64dc75b70ec34f1ab47bad7dcaf06c508689877668cbc54353151fe253f3",
-  "last_updated": "2026-10-03T07:46:59.985Z",
+  "content_hash": "188283e1c1ef65cbe2501cf1fb10b8b0e9e6d0207b58f85643d1cfc4963e1b7a",
+  "last_updated": "2026-10-03T08:46:56.067Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T16:00:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T08:35:45.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T07:01:00.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T22:01:36.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T08:00:34.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "The Petrolhead Corner – The Jensen Interceptor Is Back, With A Bang",
+      "url": "https://monochrome-watches.com/the-petrolhead-corner-jensen-international-automotive-interceptor-gtx-gtr-gt/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-Jensen-International-Automotive-Interceptor-GTX-Featured-600x237.jpg",
+      "peek_preview": "Few cars have the timeless demeanour the Jensen Interceptor has. It is considered one of the coolest and most unique British GT cars ever made, with V8 power from Chrysler and a unique shape penned by Carrozzeria Tourin...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-03T08:35:45.000Z",
+      "score_quality": -1,
+      "score_notif": -1,
+      "cluster": "20261003-6547e0b446ec",
+      "cluster_main": true
+    },
+    {
+      "title": "Piecing it Together: The Dennison ALD Elements brings 1970s glamour to the wrist",
+      "url": "https://timeandtidewatches.com/dennison-ald-elements-in-the-shop/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-dennison-ald-element.jpg",
+      "peek_preview": "The Dennison ALD Elements pairs a slim 1970s-inspired cushion case with a striking four-stone mosaic dial and bark-mesh bracelet The post Piecing it Together: The Dennison ALD Elements brings 1970s glamour to the wrist...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-03T08:00:34.000Z",
+      "score_quality": -1,
+      "score_notif": -1,
+      "cluster": "20261003-059bd2c96a8b",
+      "cluster_main": true
+    },
     {
       "title": "The Abinger Phantom Luna Is A Luminescent Mid-Sized Value Statement",
       "url": "https://www.ablogtowatch.com/watch-review-the-abinger-phantom-luna-is-a-lumiscent-mid-sized-value-statement/",
@@ -325,7 +353,7 @@
       "featured": false,
       "published_at": "2026-10-02T16:00:31.000Z",
       "score_quality": 84,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
       "cluster_main": true
     },
@@ -409,7 +437,7 @@
       "featured": false,
       "published_at": "2026-10-02T14:30:10.000Z",
       "score_quality": 54,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
       "cluster_main": false
     },
@@ -549,7 +577,7 @@
       "featured": false,
       "published_at": "2026-10-02T08:01:34.000Z",
       "score_quality": 74,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
       "cluster_main": false
     },
@@ -563,7 +591,7 @@
       "featured": false,
       "published_at": "2026-10-02T08:01:04.000Z",
       "score_quality": 84,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
       "cluster_main": true
     },
@@ -577,7 +605,7 @@
       "featured": false,
       "published_at": "2026-10-02T08:00:47.000Z",
       "score_quality": 81,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
       "cluster_main": false
     },
@@ -591,7 +619,7 @@
       "featured": false,
       "published_at": "2026-10-02T08:00:26.000Z",
       "score_quality": 76,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
       "cluster_main": false
     },
@@ -605,7 +633,7 @@
       "featured": false,
       "published_at": "2026-10-02T08:00:00.000Z",
       "score_quality": 68,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261002-0f284a4d591e",
       "cluster_main": true
     },
@@ -619,7 +647,7 @@
       "featured": false,
       "published_at": "2026-10-02T08:00:00.000Z",
       "score_quality": 67,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
       "cluster_main": false
     },
@@ -633,7 +661,7 @@
       "featured": false,
       "published_at": "2026-10-02T07:57:28.000Z",
       "score_quality": 56,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261002-23ab6f408d5a",
       "cluster_main": true
     },
@@ -1240,20 +1268,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The Two Patek Philippe World Time Minute Repeater 5531G Limited Edition Milano 2026",
-      "url": "https://monochrome-watches.com/patek-philippe-world-time-minute-repeater-5531g-012-5531g-013-limited-edition-milano-2026-introducing/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Patek-Philippe-World-Time-Minute-Repeater-5531G-012-and-5531G-013-Limited-Edition-Milano-2026-2-600x237.jpg",
-      "peek_preview": "Among the special editions revealed for the Watch Art Grand Exhibition Milan 2026 are two variants of the reference 5531, first introduced in 2017 and since occupying a particular place in the modern collection. The 553...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:00:18.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261001-6de8e690d1f0",
-      "cluster_main": true
-    },
-    {
       "title": "Patek Philippe Unveils Seven Italian Exclusives",
       "url": "https://www.fratellowatches.com/patek-philippe-unveils-seven-italian-exclusives/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Patek_Philippe_5978P-1.jpg",
@@ -1840,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20260928-70f86d451bef",
       "cluster_main": false
-    },
-    {
-      "title": "Citizen Attesa: Japan's IYKYK \"Tech-Forward\" Titanium Collection Explained",
-      "url": "https://teddybaldassarre.com/blogs/watches/citizen-attesa",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen_Attesa-2.jpg?v=1790614058",
-      "peek_preview": "Citizen has spent decades making advanced watch technology accessible, from light-powered Eco-Drive movements to the purpose-built Promaster collection. The Attesa is where much of that expertise comes together. Introdu...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-28T17:14:50.000Z",
-      "score_quality": 72,
-      "score_notif": 23,
-      "cluster": "20260928-8976b3e0ead6",
-      "cluster_main": true
     }
   ]
 }
