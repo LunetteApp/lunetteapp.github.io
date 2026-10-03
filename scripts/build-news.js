@@ -147,6 +147,7 @@ async function main() {
       existingItemsByURL.get(canonicalNewsURL(item.url))
     );
   });
+  normalizeClusterMains(newsItems);
   normalizeEventNotifications(newsItems, checkedAt, history);
 
   for (const article of newsItems) {
@@ -456,6 +457,27 @@ function preserveEvaluationMetadata(item, previousItem) {
     ? previousItem.cluster_main
     : true;
   return item;
+}
+
+// Feed limits and source filters can remove an established cluster's main.
+// Keep a surviving main, or choose the best remaining article, so the build
+// stays valid even when inference is skipped or fails.
+function normalizeClusterMains(articles) {
+  const clusters = new Map();
+  for (const article of articles) {
+    const members = clusters.get(article.cluster) ?? [];
+    members.push(article);
+    clusters.set(article.cluster, members);
+  }
+  for (const members of clusters.values()) {
+    const existingMains = members.filter((article) => article.cluster_main === true);
+    const candidates = existingMains.length > 0 ? existingMains : members;
+    const main = [...candidates].sort((left, right) =>
+      right.score_quality - left.score_quality
+        || canonicalNewsURL(left.url).localeCompare(canonicalNewsURL(right.url))
+    )[0];
+    for (const article of members) article.cluster_main = article === main;
+  }
 }
 
 function logSourceResult(source, { parsedCount, acceptedCount, keptCount }) {
@@ -816,5 +838,6 @@ module.exports = {
   buildSourceMetadata,
   extractPageImage,
   fetchText,
+  normalizeClusterMains,
   preserveEvaluationMetadata
 };

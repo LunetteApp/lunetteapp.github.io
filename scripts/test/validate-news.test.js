@@ -43,6 +43,12 @@ test("validation requires exactly one explicit cluster main", () => {
     () => validateNews(duplicate.news, duplicate.history),
     /exactly one cluster_main=true/
   );
+
+  const noMain = fixture([false, false]);
+  assert.throws(
+    () => validateNews(noMain.news, noMain.history),
+    /exactly one cluster_main=true/
+  );
 });
 
 test("validation rejects changes to the news article JSON structure", () => {
