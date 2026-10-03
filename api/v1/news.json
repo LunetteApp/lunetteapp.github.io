@@ -1,6 +1,6 @@
 {
-  "content_hash": "46cd1d573bd7ea75e7ace80d852b33648509085b6499cf412adcbfb440b269f2",
-  "last_updated": "2026-10-03T13:00:33.084Z",
+  "content_hash": "6fc150799d418188b391e64463375f5b37187ebdf02c8b315a1c70735a543e40",
+  "last_updated": "2026-10-03T13:48:08.101Z",
   "premium": {
     "links": []
   },
@@ -15,7 +15,7 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T19:00:40.000Z"
     },
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T13:30:00.000Z"
+      "estimated_articles_per_day": 1.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T12:37:43.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Grönefeld 1941 Quadrivium: Remontoire, Flying Tourbillon And Jumping Seconds",
+      "url": "https://deployant.com/gronefeld-1941-quadrivium/?utm_source=rss&utm_medium=rss&utm_campaign=gronefeld-1941-quadrivium",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/gronefeld-wrist.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Grönefeld has built a new calibre that gathers the complications from three watches it no longer makes. The 1941 Quadrivium carries a 7.5-second remontoire, a...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-03T13:30:00.000Z",
+      "score_quality": 82,
+      "score_notif": 71,
+      "cluster": "20261003-098635c31d52",
+      "cluster_main": true
+    },
+    {
       "title": "Weekend Reads: Patek Philippe Takes Over Milan with Seven Limited Editions, Breguet's Tourbillon Sidéral Dazzles, and Artisans de Genève Goes Manual-Wound on the Neon Daytona",
       "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-10-03",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
@@ -201,7 +215,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -438,7 +452,7 @@
       "published_at": "2026-10-02T16:00:31.000Z",
       "score_quality": 84,
       "score_notif": 34,
-      "cluster": "20261002-1b93e64ea058",
+      "cluster": "20261002-ccf267ca1adf",
       "cluster_main": true
     },
     {
@@ -591,7 +605,7 @@
       "featured": false,
       "published_at": "2026-10-02T13:00:31.000Z",
       "score_quality": 79,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261002-aa4f1f37c806",
       "cluster_main": true
     },
@@ -733,7 +747,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Orient Flusso : nouvelle rivale des PRX et Tsuyosa",
@@ -971,7 +985,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Lorige BL-Evolution “Competition”, Built from Le Mans Victory",
@@ -999,7 +1013,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Christopher Ward C1 Jump Hour XV brings its first complication into the atelier era",
@@ -1194,8 +1208,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster": "20261001-0050ad3b3045",
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1461,7 +1475,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ウブロが、ジェフ・クーンズの「バルーン ドッグ」をモチーフとした「クラシック・フュージョン バルーン ドッグ by ジェフ・クーンズ」を発表",
