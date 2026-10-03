@@ -1,6 +1,6 @@
 {
-  "content_hash": "df8bc4db76d900a404711308e5b35b8697c252445f1a13924026b4f1661f3849",
-  "last_updated": "2026-10-03T15:46:59.451Z",
+  "content_hash": "78ef28992302860714beac9acad59cb23ed9d7d16b0cc6955c8f3e8864d78750",
+  "last_updated": "2026-10-03T17:45:49.936Z",
   "premium": {
     "links": []
   },
@@ -57,7 +57,7 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
+      "estimated_articles_per_day": 1.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T13:30:00.000Z"
     },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T15:30:54.000Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
-      "estimated_articles_per_day": 0.2,
+      "estimated_articles_per_day": 0.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-09-28T22:25:39.000Z"
     },
@@ -479,7 +479,7 @@
       "featured": false,
       "published_at": "2026-10-02T17:00:00.000Z",
       "score_quality": 82,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261002-d8e7a4432ddb",
       "cluster_main": true
     },
