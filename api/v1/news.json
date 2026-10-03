@@ -1,6 +1,6 @@
 {
-  "content_hash": "1dfdcfab882e225f69f84d9ade18d4d79625692f1a96ec04f94284202b3a4835",
-  "last_updated": "2026-10-02T23:46:52.615Z",
+  "content_hash": "6fe22ed347bb7ebd98b2d002b2efff83394753fd7cd0e8b4cd694350a5adf77d",
+  "last_updated": "2026-10-03T00:46:53.377Z",
   "premium": {
     "links": []
   },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T22:01:36.000Z"
     },
     {
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T03:00:05.000Z"
+      "estimated_articles_per_day": 2.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T00:00:09.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "トム フォードビューティがタバコとショコラが香る新作フレグランスを発表",
+      "url": "https://www.webchronos.net/news/174204/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/TFB_FY27_TOBACCO_CHOCOLAT_50ML_KV_Logo_1920x1080.jpg",
+      "peek_preview": "トム フォードビューティより、「プライベート ブレンド コレクション」の新作フレグランス「タバコ ショコラ オードパルファム スプレィ」が発売された。上質なダークチョコレートのニュアンスとタバコの葉が香る、アンバーグルマ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-03T00:00:09.000Z",
+      "score_quality": -1,
+      "score_notif": -1,
+      "cluster": "20261003-189248d956f5",
+      "cluster_main": true
+    },
     {
       "title": "The Cartier Roadster is the sports watch only Cartier could make",
       "url": "https://timeandtidewatches.com/the-cartier-roadster-is-the-sports-watch-only-cartier-could-make/",
@@ -1657,20 +1671,6 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20260929-d95b9f618f4b",
-      "cluster_main": true
-    },
-    {
-      "title": "ユリス・ナルダンが「フリーク ONE ギヨシェ」を発表。アワーディスクの繊細な表情に注目",
-      "url": "https://www.webchronos.net/news/174116/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/un_freak.webp",
-      "peek_preview": "ユリス・ナルダンは、精緻な幾何学模様が魅力のギヨシェ装飾をアワーディスクに施した「フリーク ONE ギヨシェ」を発表した。このアワーディスクはサンドカラーのCVDによりニュートラルな色調に仕上げられており、ここにギヨシェ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-09-29T12:00:17.000Z",
-      "score_quality": 74,
-      "score_notif": 33,
-      "cluster": "20260929-032d7a379d93",
       "cluster_main": true
     },
     {
