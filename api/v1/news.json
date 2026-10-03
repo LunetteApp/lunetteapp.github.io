@@ -1,6 +1,6 @@
 {
-  "content_hash": "188283e1c1ef65cbe2501cf1fb10b8b0e9e6d0207b58f85643d1cfc4963e1b7a",
-  "last_updated": "2026-10-03T08:46:56.067Z",
+  "content_hash": "24aa7894c77ad3c028c7420d0cea87bb0fa5cdebb42479633a251ec2bbd194c4",
+  "last_updated": "2026-10-03T09:46:59.919Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T05:00:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T09:00:06.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T08:35:45.000Z"
     },
     {
@@ -43,7 +43,7 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1,
+      "estimated_articles_per_day": 0.9,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T17:45:16.000Z"
     },
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
+      "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T19:00:00.000Z"
     },
@@ -78,8 +78,8 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T08:00:34.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "It Doesn’t Get Any Better: Hands-On With The Albishorn Type X-Graph",
+      "url": "https://www.fratellowatches.com/hands-on-albishorn-type-x-graph/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Albishorn-Type-X-Graph-10.jpg",
+      "peek_preview": "It was April 2024 when I saw some of the Albishorn models — prototypes at that stage — for the first time. At Watches and Wonders, it’s easy to get watch overload already on the first day. I remember sitting at the tabl...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-03T09:00:06.000Z",
+      "score_quality": -1,
+      "score_notif": -1,
+      "cluster": "20261003-fcb71305bb08",
+      "cluster_main": true
+    },
     {
       "title": "The Petrolhead Corner – The Jensen Interceptor Is Back, With A Bang",
       "url": "https://monochrome-watches.com/the-petrolhead-corner-jensen-international-automotive-interceptor-gtx-gtr-gt/",
@@ -1335,20 +1349,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261001-79c7068eb4ea",
-      "cluster_main": true
-    },
-    {
-      "title": "Fratello Talks: Can Brand Ambassadors Help Create A New Generation Of Watch Enthusiasts?",
-      "url": "https://www.fratellowatches.com/fratello-talks-can-brand-ambassadors-help-create-a-new-generation-of-watch-enthusiasts/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/05/tudor-inter-miami-cf-03-e1790581666865.jpg",
-      "peek_preview": "Brand ambassadors have long been part of the watch industry. From actors and athletes to musicians and explorers, these familiar faces help bring brands’ watches to a wider audience. But can that visibility do more than...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T04:00:30.000Z",
-      "score_quality": 56,
-      "score_notif": 22,
-      "cluster": "20261001-026e10616e76",
       "cluster_main": true
     },
     {
