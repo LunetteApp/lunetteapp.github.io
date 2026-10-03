@@ -1,6 +1,6 @@
 {
-  "content_hash": "451e3d1725293bad8ba44e74b2bd72acbf76de0aa43b2fa9cf0dc5aff089a0d2",
-  "last_updated": "2026-10-03T14:47:53.848Z",
+  "content_hash": "df8bc4db76d900a404711308e5b35b8697c252445f1a13924026b4f1661f3849",
+  "last_updated": "2026-10-03T15:46:59.451Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T14:00:02.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T14:00:38.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T11:01:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T15:30:54.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "New releases from Patek Philippe, Nomos, Dennison and more",
+      "url": "https://timeandtidewatches.com/patek-philippe-nomos-dennison-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/dennison-web.jpg",
+      "peek_preview": "Patek Philippe takes over Milan, while NOMOS, Hamilton, Hanhart, G-SHOCK and more headline this week’s biggest new watch releases. The post New releases from Patek Philippe, Nomos, Dennison and more appeared first on Ti...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-03T15:30:54.000Z",
+      "score_quality": 28,
+      "score_notif": 24,
+      "cluster": "20261003-ba102cfef490",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – Raymond Weil Marks 50 Years Again, with a More Accessible Millesime Jubilee Chronograph Automatic",
       "url": "https://monochrome-watches.com/raymond-weil-marks-50-years-again-with-a-more-accessible-millesime-jubilee-chronograph-automatic-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/Raymond-Weil-Millesime-Jubilee-Chronograph-Automatic-50th-Anniversary-1-600x237.jpg",
@@ -255,9 +269,9 @@
       "featured": false,
       "published_at": "2026-10-03T11:03:19.000Z",
       "score_quality": 27,
-      "score_notif": 22,
-      "cluster": "20261003-6598756318a8",
-      "cluster_main": true
+      "score_notif": 24,
+      "cluster": "20261002-30f460bc0fe2",
+      "cluster_main": false
     },
     {
       "title": "Gallet relaunch explained: More affordable Breitling-backed tool watches | House of Brands Ep. 2",
@@ -493,7 +507,7 @@
       "featured": false,
       "published_at": "2026-10-02T15:30:19.000Z",
       "score_quality": 67,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261002-6cec5ead2e06",
       "cluster_main": true
     },
@@ -957,7 +971,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1083,7 +1097,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1236,8 +1250,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261001-0050ad3b3045",
-      "cluster_main": true
+      "cluster": "20260925-f57dbec40bf9-2",
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1265,7 +1279,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -1377,7 +1391,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Dream Comes To Fruition: The G-Shock MRG-D5000 In Blue Sapphire",
@@ -1783,20 +1797,6 @@
       "score_quality": 60,
       "score_notif": 29,
       "cluster": "20260929-b084096c5255",
-      "cluster_main": true
-    },
-    {
-      "title": "Grand Seiko SBGH376 “Sakura Wakaba”: Your next GS grail?",
-      "url": "https://timeandtidewatches.com/grand-seiko-sbgh376-sakura-wakaba-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Grand-Seiko-SBGH376-Sakura-Wakaba-4.jpg",
-      "peek_preview": "The Grand Seiko SBGH376 did not get as much time in the spotlight as the Ushio Diver at Watches and Wonders, but it's not one to miss... The post Grand Seiko SBGH376 “Sakura Wakaba”: Your next GS grail? appeared first o...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T11:01:03.000Z",
-      "score_quality": 60,
-      "score_notif": 30,
-      "cluster": "20260929-c6ffd69e82e9",
       "cluster_main": true
     },
     {
