@@ -1,6 +1,6 @@
 {
-  "content_hash": "dd8e17fbd560d30764134c9e308d8b16f531600440e10a82f22b06c5163c1106",
-  "last_updated": "2026-10-03T06:47:00.324Z",
+  "content_hash": "d16f64dc75b70ec34f1ab47bad7dcaf06c508689877668cbc54353151fe253f3",
+  "last_updated": "2026-10-03T07:46:59.985Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T05:00:37.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T14:01:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-03T07:01:00.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -71,7 +71,7 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
+      "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T08:00:47.000Z"
     },
@@ -127,8 +127,8 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 0.9,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T05:30:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Abinger Phantom Luna Is A Luminescent Mid-Sized Value Statement",
+      "url": "https://www.ablogtowatch.com/watch-review-the-abinger-phantom-luna-is-a-lumiscent-mid-sized-value-statement/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Abinger-Phantom-Luna-JVB-05-768x614.jpg",
+      "peek_preview": "At some point or other, we’ve all dreamed of what our ideal watch would look like. Sometimes it exists — and, better yet, is readily available and within budget — but for others, it simply is not out there. Perhaps unfo...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-03T07:01:00.000Z",
+      "score_quality": -1,
+      "score_notif": -1,
+      "cluster": "20261003-6e693532a43f",
+      "cluster_main": true
+    },
     {
       "title": "Lip x Ocarat Golden Sand : deux Churchill à cadran aventurine qui décrochent les étoiles",
       "url": "https://www.welovewatches.fr/lip-x-ocarat-golden-sand-deux-churchill-a-cadran-aventurine-qui-decrochent-les-etoiles.html",
@@ -1840,20 +1854,6 @@
       "score_notif": 23,
       "cluster": "20260928-8976b3e0ead6",
       "cluster_main": true
-    },
-    {
-      "title": "Breguet Marine 5517 e 5527: una nuova veste per la collezione Marine",
-      "url": "https://www.watchinsanity.it/breguet-marine-5517-5527-2026/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/09/Breguet_Marine_5517_Watch_Insanity_01-1024x682.jpg",
-      "peek_preview": "Breguet rinnova i Marine 5517 e Chronographe 5527 con quadranti guilloché Quai de l’Horloge, numeri Breguet e una nuova disposizione delle indicazioni. The post Breguet Marine 5517 e 5527: una nuova veste per la collezi...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-28T14:55:35.000Z",
-      "score_quality": 63,
-      "score_notif": 30,
-      "cluster": "20260924-85abd93b9de2",
-      "cluster_main": false
     }
   ]
 }
