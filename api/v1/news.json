@@ -1,6 +1,6 @@
 {
-  "content_hash": "a1bc9780e512617446322a7657c2efa5a9d066b9dfc7f4d7d261271c73457a24",
-  "last_updated": "2026-10-04T05:48:10.987Z",
+  "content_hash": "effda6f38fb0529df1260a90320d42271df7d0dc251e9c6b335b0059c9fd16a0",
+  "last_updated": "2026-10-04T06:47:39.264Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-04T05:00:49.000Z"
     },
     {
@@ -635,7 +635,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1055,7 +1055,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Lorige BL-Evolution “Competition”, Built from Le Mans Victory",
@@ -1083,7 +1083,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Christopher Ward C1 Jump Hour XV brings its first complication into the atelier era",
@@ -1265,7 +1265,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -1278,8 +1278,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster": "20261001-0050ad3b3045",
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1293,21 +1293,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Patek Philippe gives the Ladies First a colorful, gemstone-focused refresh with the Gondolo—and a new way of thinking about women's watches.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:04:00.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -1321,7 +1307,21 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Patek Philippe gives the Ladies First a colorful, gemstone-focused refresh with the Gondolo—and a new way of thinking about women's watches.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T09:04:00.000Z",
+      "score_quality": 81,
+      "score_notif": 34,
+      "cluster": "20261001-c6c60f5d1867",
+      "cluster_main": true
     },
     {
       "title": "First Look – The Patek Philippe 5978P-010 Instantaneous Perpetual Calendar Chronograph Limited Edition Milano 2026",
@@ -1335,7 +1335,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
@@ -1391,7 +1391,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Revives the 1920s with the American Classic Cushion",
@@ -1447,7 +1447,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1683,9 +1683,9 @@
       "featured": false,
       "published_at": "2026-09-29T20:20:07.000Z",
       "score_quality": 72,
-      "score_notif": 34,
+      "score_notif": 28,
       "cluster": "20260928-70f86d451bef",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Owner’s Review: the Norqain Adventure Sport",
@@ -1823,7 +1823,7 @@
       "featured": false,
       "published_at": "2026-09-29T07:30:49.000Z",
       "score_quality": 70,
-      "score_notif": 34,
+      "score_notif": 28,
       "cluster": "20260928-70f86d451bef",
       "cluster_main": false
     },
@@ -1839,6 +1839,20 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20260929-80225e9beeaa",
+      "cluster_main": true
+    },
+    {
+      "title": "Rolex Daytona “Four Seasons” Sells for Almost US$50 Million",
+      "url": "https://watchesbysjx.com/2026/09/rolex-daytona-four-seasons-london-auction.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Rolex-Daytona-Four-Seasons-3x2-header-5-300x200.jpg",
+      "peek_preview": "When we first reported on Rolex’s Daytona “Four Seasons” charity auction, we wondered whether the quartet could reach CHF31 million, the sum achieved by Patek Philippe’s steel Grandmaster Chime at Only Watch in 2019. We...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-09-29T01:13:03.000Z",
+      "score_quality": 84,
+      "score_notif": 28,
+      "cluster": "20260928-70f86d451bef",
       "cluster_main": true
     }
   ]
