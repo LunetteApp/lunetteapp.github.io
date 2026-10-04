@@ -1,6 +1,6 @@
 {
-  "content_hash": "a96621681b34b8fdfcedb5d7627296c354840b59e5c6956e16d3ace6c00ece6a",
-  "last_updated": "2026-10-04T12:47:25.688Z",
+  "content_hash": "296e6f59d0a955c52553fe59a4cc82d6553910a081d570fe9ef49cb8bde1f90f",
+  "last_updated": "2026-10-04T13:47:31.591Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
+      "estimated_articles_per_day": 3.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-04T09:00:05.000Z"
     },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
+      "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-04T09:35:25.000Z"
     },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-04T12:00:43.000Z"
     },
     {
@@ -50,7 +50,7 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-01T09:57:39.000Z"
     },
@@ -58,20 +58,20 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-04T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
+      "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
+      "estimated_articles_per_day": 1.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T08:00:47.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Review: L. Leroy Vox Temporis Minute Repeater Flying Tourbillon",
+      "url": "https://deployant.com/review-l-leroy-vox-temporis-minute-repeater-flying-tourbillon/?utm_source=rss&utm_medium=rss&utm_campaign=review-l-leroy-vox-temporis-minute-repeater-flying-tourbillon",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/leroy-voxtemporis-ti-silver-wrist.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors L.Leroy introduces a new collection at the very high end of the complications spectrum with their new Vox Temporis Minute Repeater Flying Tourbillon. The comb...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-04T13:30:00.000Z",
+      "score_quality": 74,
+      "score_notif": 53,
+      "cluster": "20261004-70efee431151",
+      "cluster_main": true
+    },
     {
       "title": "New Release: Brellum Pandial Power Reserve Chronometer LE Watch Is Feature-Packed And COSC-Certified",
       "url": "https://www.ablogtowatch.com/new-release-brellum-pandial-power-reserve-chronometer-le-watch-is-feature-packed-and-cosc-certified/",
@@ -339,7 +353,7 @@
       "featured": false,
       "published_at": "2026-10-03T13:30:00.000Z",
       "score_quality": 82,
-      "score_notif": 71,
+      "score_notif": 34,
       "cluster": "20261003-098635c31d52",
       "cluster_main": true
     },
@@ -369,7 +383,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -565,7 +579,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -705,7 +719,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1069,7 +1083,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1083,7 +1097,7 @@
       "score_quality": 76,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Owner’s Review: the Favre Leuba Raider Harpoon 42",
@@ -1195,7 +1209,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1391,7 +1405,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Patek Philippe 5978P-010 Instantaneous Perpetual Calendar Chronograph Limited Edition Milano 2026",
@@ -1419,7 +1433,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
@@ -1489,7 +1503,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1559,7 +1573,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
@@ -1726,7 +1740,7 @@
       "published_at": "2026-09-29T20:20:07.000Z",
       "score_quality": 72,
       "score_notif": 28,
-      "cluster": "20260928-70f86d451bef",
+      "cluster": "20260929-f5508372e58d",
       "cluster_main": true
     },
     {
@@ -1839,20 +1853,6 @@
       "score_quality": 76,
       "score_notif": 27,
       "cluster": "20260929-e1eafef47dee",
-      "cluster_main": false
-    },
-    {
-      "title": "Rolex Four Seasons : les 4 Daytona uniques rapportent près de 43,5 millions d’euros",
-      "url": "https://www.welovewatches.fr/rolex-four-seasons-les-4-daytona-uniques-rapportent-pres-de-435-millions-deuros.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/rolex-encheres-2026-une.jpg",
-      "peek_preview": "Début septembre, nous présentions les quatre Daytona « Four Seasons » créées par Rolex pour une vente caritative. Le résultat est désormais connu. Adjugées séparément par Phillips le 28 septembre à Londres, elles ont ra...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-09-29T07:30:49.000Z",
-      "score_quality": 70,
-      "score_notif": 28,
-      "cluster": "20260928-70f86d451bef",
       "cluster_main": false
     }
   ]
