@@ -1,6 +1,6 @@
 {
-  "content_hash": "c48be7896c07f5251084a85969058ee1c7a49b1bac8c0b82a85ab4e57e61b374",
-  "last_updated": "2026-10-04T08:45:47.594Z",
+  "content_hash": "2f89d12b9f159b677568e0ed1afc29413aadc74db7b0d82d0991b1b000b3ef8c",
+  "last_updated": "2026-10-04T09:48:29.858Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-04T05:00:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-04T09:00:05.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T14:00:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-04T09:35:25.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-04T07:00:06.000Z"
     },
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Buying Guide – Battling Scratches, With Five Cool Ceramic Watches",
+      "url": "https://monochrome-watches.com/buying-guide-ceramic-watches-earthen-co-tudor-iwc-schaffhausen-zenith-urwerk-specs-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/09/Earthen-Summit-MKII-Apres-Bleu-5-600x237.jpg",
+      "peek_preview": "I am sure that each and every one of us has experienced that heartbreaking moment when you scratch a watch for the first time. A table, a door, the wall or whatever it is, will leave a nasty memory in the experience you...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-04T09:35:25.000Z",
+      "score_quality": 54,
+      "score_notif": 23,
+      "cluster": "20261004-93246ae81c9a",
+      "cluster_main": true
+    },
+    {
+      "title": "How To Juggle Vintage Inspiration And Modern Reinterpretation",
+      "url": "https://www.fratellowatches.com/how-to-juggle-vintage-inspiration-and-modern-reinterpretation/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Henry-Vario-watches-3.jpg",
+      "peek_preview": "Recently, I’ve experienced several watches that all wrestle with the same problem in different ways. Vario, Timor, and Ollech & Wajs each draw heavily on history, yet each brand has landed on a different answer to a que...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-04T09:00:05.000Z",
+      "score_quality": 58,
+      "score_notif": 24,
+      "cluster": "20261004-f8dd599074fd",
+      "cluster_main": true
+    },
     {
       "title": "Tudor Watch Feels At Home In San Diego As We Visit The New Navy SEAL Museum",
       "url": "https://www.ablogtowatch.com/tudor-watch-feels-at-home-in-san-diego-as-we-visit-the-new-navy-seal-museum/",
@@ -327,7 +355,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -381,7 +409,7 @@
       "featured": false,
       "published_at": "2026-10-03T09:00:06.000Z",
       "score_quality": 78,
-      "score_notif": 47,
+      "score_notif": 34,
       "cluster": "20261003-fcb71305bb08",
       "cluster_main": true
     },
@@ -578,7 +606,7 @@
       "published_at": "2026-10-02T15:00:24.000Z",
       "score_quality": 83,
       "score_notif": 34,
-      "cluster": "20261001-ddf04519302d",
+      "cluster": "20261002-57fc8084049a",
       "cluster_main": true
     },
     {
@@ -1027,7 +1055,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1153,7 +1181,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1324,20 +1352,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Patek Philippe gives the Ladies First a colorful, gemstone-focused refresh with the Gondolo—and a new way of thinking about women's watches.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:04:00.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
-    },
-    {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
       "url": "https://www.hodinkee.com/articles/intro-patek-milan-limited-editions",
       "image": "https://hodinkee.imgix.net/uploads/images/a8c9c682-9b80-422b-9b13-3767e0367e0c/HeroMilanWatchesPP.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1349,6 +1363,20 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Patek Philippe gives the Ladies First a colorful, gemstone-focused refresh with the Gondolo—and a new way of thinking about women's watches.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T09:04:00.000Z",
+      "score_quality": 81,
+      "score_notif": 34,
+      "cluster": "20261001-c6c60f5d1867",
       "cluster_main": false
     },
     {
@@ -1377,20 +1405,6 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Gradient Blue Patek Philippe Aquanaut 5167A Limited Edition Milano 2026",
-      "url": "https://monochrome-watches.com/introducing-gradient-blue-patek-philippe-aquanaut-5167a-steel-limited-edition-milano-2026/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/Patek-Philippe-Aquanaut-5167A-014-Limited-Editions-Milano-2026-gradient-blue-dial-6-600x237.jpg",
-      "peek_preview": "Among the 7 newly unveiled limited editions from Patek Philippe’s Watch Art Grand Exhibition Milan 2026 (October 2-18, 2026) is a steel Aquanaut 5167A distinguished by a touch of Italian sporty-chic elegance… And as you...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:02:37.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261001-ddf04519302d",
       "cluster_main": false
     },
     {
@@ -1450,20 +1464,6 @@
       "cluster_main": false
     },
     {
-      "title": "A Dream Comes To Fruition: The G-Shock MRG-D5000 In Blue Sapphire",
-      "url": "https://www.fratellowatches.com/g-shock-mr-g-mrg-d5000-in-blue-sapphire/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/MRG-D5000_05142.jpg",
-      "peek_preview": "Casio is expanding its MR-G collection with the MRG-D5000, a limited-edition G-Shock featuring a bezel and outer case made of blue sapphire crystal. Its screwless, multi-component construction aims to make the material...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T08:00:41.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
-    },
-    {
       "title": "Mido Multifort TV Big Date Día De Los Muertos Alebrijes: La Prova dal Vivo",
       "url": "https://www.orologidiclasse.com/mido-multifort-tv-big-date-dia-de-los-muertos-alebrijes/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/mido-multifort-tv-big-date-alebrijes-al-polso.jpg",
@@ -1517,7 +1517,7 @@
       "score_quality": 57,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "In-Depth: 200 Odd Years of Hacking Tourbillons",
@@ -1545,7 +1545,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
@@ -1629,7 +1629,7 @@
       "score_quality": 55,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Kerbedanz 65′ 27″ Collection Video Overview with CEO Vahe Vartzbed",
