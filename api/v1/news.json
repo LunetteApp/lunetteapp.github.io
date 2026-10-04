@@ -1,6 +1,6 @@
 {
-  "content_hash": "01877be606cd91fe42f0808d409bd92451a1d59e87592e4e0c3d32c2ef5f8b21",
-  "last_updated": "2026-10-04T07:47:51.550Z",
+  "content_hash": "c48be7896c07f5251084a85969058ee1c7a49b1bac8c0b82a85ab4e57e61b374",
+  "last_updated": "2026-10-04T08:45:47.594Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-04T07:01:48.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-04T07:00:06.000Z"
     },
     {
@@ -409,7 +409,7 @@
       "featured": false,
       "published_at": "2026-10-03T08:00:34.000Z",
       "score_quality": 63,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261003-059bd2c96a8b",
       "cluster_main": true
     },
@@ -1324,20 +1324,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
-      "url": "https://www.hodinkee.com/articles/intro-patek-milan-limited-editions",
-      "image": "https://hodinkee.imgix.net/uploads/images/a8c9c682-9b80-422b-9b13-3767e0367e0c/HeroMilanWatchesPP.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "With various thematic ties to the host city and country, Patek leans into the culture of one of the original watch-collecting Meccas.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:04:00.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
-    },
-    {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
       "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
       "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1349,6 +1335,20 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
+      "url": "https://www.hodinkee.com/articles/intro-patek-milan-limited-editions",
+      "image": "https://hodinkee.imgix.net/uploads/images/a8c9c682-9b80-422b-9b13-3767e0367e0c/HeroMilanWatchesPP.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "With various thematic ties to the host city and country, Patek leans into the culture of one of the original watch-collecting Meccas.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T09:04:00.000Z",
+      "score_quality": 75,
+      "score_notif": 34,
+      "cluster": "20260925-f57dbec40bf9-2",
       "cluster_main": false
     },
     {
