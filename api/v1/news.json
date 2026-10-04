@@ -1,6 +1,6 @@
 {
-  "content_hash": "52b6f44bc440f48402db155c1e8e852f6d08a7af5ccdf0d8650dc7635ffcc7cd",
-  "last_updated": "2026-10-04T16:45:53.175Z",
+  "content_hash": "88c6224961aea138452f8c8c2887209505e50026e93494d6ef09581d0db37cbf",
+  "last_updated": "2026-10-04T22:48:25.946Z",
   "premium": {
     "links": []
   },
@@ -8,14 +8,14 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-04T09:00:05.000Z"
+      "estimated_articles_per_day": 3.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-04T22:01:27.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
+      "estimated_articles_per_day": 1.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T14:00:02.000Z"
     },
@@ -43,7 +43,7 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
+      "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-02T17:45:16.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "IFL Watches Revisits Edvard Munch’s Iconic Work With The Bulova Super Seville Scream",
+      "url": "https://www.fratellowatches.com/ifl-watches-bulova-super-seville-scream/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Bulova-Super-Seville-Scream-IMG_3911-3x2-1.jpg",
+      "peek_preview": "The world of art is an endless source of inspiration for the team at IFL Watches. The artists who hand-paint the dials of the limited-edition creations show great versatility in storytelling. Their often modern, street-...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-04T22:01:27.000Z",
+      "score_quality": 70,
+      "score_notif": 61,
+      "cluster": "20261004-21b8f03cc38d",
+      "cluster_main": true
+    },
     {
       "title": "Review: L. Leroy Vox Temporis Minute Repeater Flying Tourbillon",
       "url": "https://deployant.com/review-l-leroy-vox-temporis-minute-repeater-flying-tourbillon/?utm_source=rss&utm_medium=rss&utm_campaign=review-l-leroy-vox-temporis-minute-repeater-flying-tourbillon",
@@ -383,7 +397,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -638,20 +652,6 @@
       "cluster_main": true
     },
     {
-      "title": "Bring a Loupe: A Lucien Piccard Telephone, A Mappin and Webb Dress Watch, An Omega Admiralty, And A Jaeger LeCoultre Master Mariner",
-      "url": "https://www.hodinkee.com/articles/a-lucien-piccard-telephone-a-mappin-and-webb-dress-watch-an-omega-admiralty-and-a-jaeger-lecoultre-m",
-      "image": "https://hodinkee.imgix.net/uploads/images/c971e885-5d7d-43d9-84ae-023331947e58/BAL102HERO.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T15:00:00.000Z",
-      "score_quality": 34,
-      "score_notif": 16,
-      "cluster": "20261002-93cb1dfd1ee7",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: Patek Philippe World Time Minute Repeater 5531G-013—Milan After Dark in Yellow Enamel, Five Pieces Only",
       "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-world-time-minute-repeater-5531g-013-milan-after-dark",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790949014046-KORFGIFJEFN4QSJP8AX9/Patek+Philippe+WorldTime+5531g-013+Detail.jpg?format=1500w",
@@ -719,7 +719,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1139,7 +1139,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Lorige BL-Evolution “Competition”, Built from Le Mans Victory",
@@ -1167,7 +1167,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Christopher Ward C1 Jump Hour XV brings its first complication into the atelier era",
@@ -1362,8 +1362,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261001-0050ad3b3045",
-      "cluster_main": true
+      "cluster": "20260925-f57dbec40bf9-2",
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1478,20 +1478,6 @@
       "cluster_main": false
     },
     {
-      "title": "Patek Philippe Unveils Seven Italian Exclusives",
-      "url": "https://www.fratellowatches.com/patek-philippe-unveils-seven-italian-exclusives/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Patek_Philippe_5978P-1.jpg",
-      "peek_preview": "As of today, Patek Philippe has opened the doors to its seventh Watch Art Grand Exhibition, this time in Milan. Alongside the exhibition itself, the Genevan watchmaker has introduced seven limited-edition watches reserv...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:00:08.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
-    },
-    {
       "title": "Mido Multifort TV Big Date Día De Los Muertos Alebrijes: La Prova dal Vivo",
       "url": "https://www.orologidiclasse.com/mido-multifort-tv-big-date-dia-de-los-muertos-alebrijes/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/09/mido-multifort-tv-big-date-alebrijes-al-polso.jpg",
@@ -1503,7 +1489,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1573,7 +1559,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",

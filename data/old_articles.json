@@ -7540,8 +7540,8 @@
       "lang": "en",
       "published_at": "2026-10-01T09:10:20.000Z",
       "first_seen_at": "2026-10-01T09:45:58.000Z",
-      "event_cluster_id": "20261001-0050ad3b3045",
-      "event_first_published_at": "2026-10-01T09:10:20.000Z",
+      "event_cluster_id": "20260925-f57dbec40bf9-2",
+      "event_first_published_at": "2026-10-01T09:00:08.000Z",
       "scoring_pending": false,
       "clustering_pending": false
     },
@@ -12485,6 +12485,17 @@
       "scoring_pending": false,
       "clustering_pending": false
     },
+    "https://www.fratellowatches.com/ifl-watches-bulova-super-seville-scream/": {
+      "url": "https://www.fratellowatches.com/ifl-watches-bulova-super-seville-scream/",
+      "title": "IFL Watches Revisits Edvard Munch’s Iconic Work With The Bulova Super Seville Scream",
+      "lang": "en",
+      "published_at": "2026-10-04T22:01:27.000Z",
+      "first_seen_at": "2026-10-04T22:45:49.000Z",
+      "event_cluster_id": "20261004-21b8f03cc38d",
+      "event_first_published_at": "2026-10-04T22:01:27.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false
+    },
     "https://www.fratellowatches.com/ifl-watches-spinnaker-spence-underwater-dancers/": {
       "url": "https://www.fratellowatches.com/ifl-watches-spinnaker-spence-underwater-dancers/",
       "title": "IFL Watches And Spinnaker Team Up For The Colorful Spence Underwater Dancers",
@@ -14038,7 +14049,8 @@
       "event_cluster_id": "20261002-93cb1dfd1ee7",
       "event_first_published_at": "2026-10-02T15:00:00.000Z",
       "scoring_pending": false,
-      "clustering_pending": false
+      "clustering_pending": false,
+      "marketing": true
     },
     "https://www.hodinkee.com/articles/a-new-generation-of-the-omega-speedmaster-38-mm": {
       "url": "https://www.hodinkee.com/articles/a-new-generation-of-the-omega-speedmaster-38-mm",
