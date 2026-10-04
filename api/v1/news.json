@@ -1,6 +1,6 @@
 {
-  "content_hash": "c126faf9805f669293a89d87a58a89dc166e82a1689f0af8421df1d18f3220f7",
-  "last_updated": "2026-10-04T11:45:56.852Z",
+  "content_hash": "a96621681b34b8fdfcedb5d7627296c354840b59e5c6956e16d3ace6c00ece6a",
+  "last_updated": "2026-10-04T12:47:25.688Z",
   "premium": {
     "links": []
   },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-04T07:01:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-04T12:00:43.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "New Release: Brellum Pandial Power Reserve Chronometer LE Watch Is Feature-Packed And COSC-Certified",
+      "url": "https://www.ablogtowatch.com/new-release-brellum-pandial-power-reserve-chronometer-le-watch-is-feature-packed-and-cosc-certified/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Brellum-Pandial-Power-Reserve-Chronometer-LE-Watch-768x349.jpg",
+      "peek_preview": "Founded by fourth-generation watchmaker Sebastien Muller, Brellum is an independent Swiss brand that adheres to a strict output of just 299 watches per year, with every single one being an official COSC-certified chrono...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-04T12:00:43.000Z",
+      "score_quality": 52,
+      "score_notif": 34,
+      "cluster": "20261002-f78d379781eb",
+      "cluster_main": false
+    },
     {
       "title": "Buying Guide – Battling Scratches, With Five Cool Ceramic Watches",
       "url": "https://monochrome-watches.com/buying-guide-ceramic-watches-earthen-co-tudor-iwc-schaffhausen-zenith-urwerk-specs-review-price/",
@@ -355,7 +369,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -1111,7 +1125,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Lorige BL-Evolution “Competition”, Built from Le Mans Victory",
@@ -1139,7 +1153,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Christopher Ward C1 Jump Hour XV brings its first complication into the atelier era",
@@ -1334,8 +1348,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster": "20261001-0050ad3b3045",
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1545,7 +1559,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
@@ -1840,20 +1854,6 @@
       "score_notif": 28,
       "cluster": "20260928-70f86d451bef",
       "cluster_main": false
-    },
-    {
-      "title": "Zenith Chronomaster Solo Sport Watches Hands-On: 5Hz, Three Hands, & ZENCLASP",
-      "url": "https://www.ablogtowatch.com/zenith-chronomaster-solo-sport-watches-hands-on-5hz-three-hands-zenclasp/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Zenith-Chronomaster-Solo-Sport-Watches-13-768x346.jpg",
-      "peek_preview": "The latest major timepiece collection release from Swiss Zenith is the Chronomaster Solo Sport watch collection. At launch, four models of the three-hand, high-beat automatic mechanical watches debut on the market. More...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T07:01:11.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20260929-80225e9beeaa",
-      "cluster_main": true
     }
   ]
 }
