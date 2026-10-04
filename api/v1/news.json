@@ -1,6 +1,6 @@
 {
-  "content_hash": "effda6f38fb0529df1260a90320d42271df7d0dc251e9c6b335b0059c9fd16a0",
-  "last_updated": "2026-10-04T06:47:39.264Z",
+  "content_hash": "01877be606cd91fe42f0808d409bd92451a1d59e87592e4e0c3d32c2ef5f8b21",
+  "last_updated": "2026-10-04T07:47:51.550Z",
   "premium": {
     "links": []
   },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T12:00:07.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-04T07:01:48.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,14 +78,14 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T15:30:54.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-04T07:00:06.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.5,
+      "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T12:37:43.000Z"
     },
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Tudor Watch Feels At Home In San Diego As We Visit The New Navy SEAL Museum",
+      "url": "https://www.ablogtowatch.com/tudor-watch-feels-at-home-in-san-diego-as-we-visit-the-new-navy-seal-museum/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Tudor-Navy-SEAL-Museum-San-Diego-19-768x346.jpg",
+      "peek_preview": "If there were a city in the United States that could best be compared to the Swiss watch brand Tudor, it would probably be San Diego, California. If sister brand Rolex feels most at home in Manhattan, then Tudor is most...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-04T07:01:48.000Z",
+      "score_quality": 64,
+      "score_notif": 28,
+      "cluster": "20261004-7051ee434bce",
+      "cluster_main": true
+    },
+    {
+      "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
+      "url": "https://timeandtidewatches.com/jaeger-lecoultre-master-control-perpetual-calendar-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-jaeger-le-coultre-master-control-perpetual-calendar.jpg",
+      "peek_preview": "The Perpetual Calendar in JLC's Master Control collection is Tom's weapon of choice against Zach and Russell's picks. Let's find out why... The post The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar sho...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-04T07:00:06.000Z",
+      "score_quality": 52,
+      "score_notif": 24,
+      "cluster": "20261004-8a33377b4616",
+      "cluster_main": true
+    },
     {
       "title": "Sunday Morning Showdown: Ianos Amfivios Vs. Doxa Sub 300 Ti5",
       "url": "https://www.fratellowatches.com/sunday-morning-showdown-ianos-amfivios-vs-doxa-sub-300-ti5/",
@@ -395,7 +423,7 @@
       "featured": false,
       "published_at": "2026-10-03T07:01:00.000Z",
       "score_quality": 57,
-      "score_notif": 49,
+      "score_notif": 34,
       "cluster": "20261003-6e693532a43f",
       "cluster_main": true
     },
@@ -999,7 +1027,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1125,7 +1153,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1265,7 +1293,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -1278,8 +1306,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261001-0050ad3b3045",
-      "cluster_main": true
+      "cluster": "20260925-f57dbec40bf9-2",
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1293,7 +1321,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -1307,7 +1335,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -1321,7 +1349,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Patek Philippe 5978P-010 Instantaneous Perpetual Calendar Chronograph Limited Edition Milano 2026",
@@ -1335,7 +1363,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
@@ -1349,7 +1377,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Gradient Blue Patek Philippe Aquanaut 5167A Limited Edition Milano 2026",
@@ -1489,7 +1517,7 @@
       "score_quality": 57,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "In-Depth: 200 Odd Years of Hacking Tourbillons",
@@ -1601,7 +1629,7 @@
       "score_quality": 55,
       "score_notif": 28,
       "cluster": "20260930-a88511327622",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Kerbedanz 65′ 27″ Collection Video Overview with CEO Vahe Vartzbed",
@@ -1685,7 +1713,7 @@
       "score_quality": 72,
       "score_notif": 28,
       "cluster": "20260928-70f86d451bef",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Owner’s Review: the Norqain Adventure Sport",
@@ -1741,20 +1769,6 @@
       "score_quality": 70,
       "score_notif": 30,
       "cluster": "20260929-6f656892d258",
-      "cluster_main": true
-    },
-    {
-      "title": "The Monceau Model 01 GTS is a sharp, compact hit of ’70s motorsport style",
-      "url": "https://timeandtidewatches.com/monceau-model-01-gts-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-monceau-model-01-gts.jpg",
-      "peek_preview": "The Monceau Model 01 GTS brings a sandblasted case, automotive-inspired dials and a slim 39mm profile to the revived brand’s sports watch. The post The Monceau Model 01 GTS is a sharp, compact hit of ’70s motorsport sty...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T15:30:42.000Z",
-      "score_quality": 65,
-      "score_notif": 34,
-      "cluster": "20260929-a330c17cf5af",
       "cluster_main": true
     },
     {
@@ -1839,20 +1853,6 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20260929-80225e9beeaa",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex Daytona “Four Seasons” Sells for Almost US$50 Million",
-      "url": "https://watchesbysjx.com/2026/09/rolex-daytona-four-seasons-london-auction.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Rolex-Daytona-Four-Seasons-3x2-header-5-300x200.jpg",
-      "peek_preview": "When we first reported on Rolex’s Daytona “Four Seasons” charity auction, we wondered whether the quartet could reach CHF31 million, the sum achieved by Patek Philippe’s steel Grandmaster Chime at Only Watch in 2019. We...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T01:13:03.000Z",
-      "score_quality": 84,
-      "score_notif": 28,
-      "cluster": "20260928-70f86d451bef",
       "cluster_main": true
     }
   ]
