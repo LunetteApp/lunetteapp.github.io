@@ -4282,7 +4282,8 @@
       "event_cluster_id": "20261002-36b34727cc34",
       "event_first_published_at": "2026-10-02T17:45:16.000Z",
       "scoring_pending": false,
-      "clustering_pending": false
+      "clustering_pending": false,
+      "marketing": true
     },
     "https://teddybaldassarre.com/blogs/watches/best-starter-watches": {
       "url": "https://teddybaldassarre.com/blogs/watches/best-starter-watches",
@@ -13082,6 +13083,17 @@
       "lang": "en",
       "published_at": "2026-08-02T05:00:01.000Z",
       "first_seen_at": "2026-08-02T05:45:37.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false
+    },
+    "https://www.fratellowatches.com/sunday-morning-showdown-ianos-amfivios-vs-doxa-sub-300-ti5/": {
+      "url": "https://www.fratellowatches.com/sunday-morning-showdown-ianos-amfivios-vs-doxa-sub-300-ti5/",
+      "title": "Sunday Morning Showdown: Ianos Amfivios Vs. Doxa Sub 300 Ti5",
+      "lang": "en",
+      "published_at": "2026-10-04T05:00:49.000Z",
+      "first_seen_at": "2026-10-04T05:45:53.000Z",
+      "event_cluster_id": "20261004-ad198f6bb3d4",
+      "event_first_published_at": "2026-10-04T05:00:49.000Z",
       "scoring_pending": false,
       "clustering_pending": false
     },
