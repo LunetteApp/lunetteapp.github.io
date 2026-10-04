@@ -1,6 +1,6 @@
 {
-  "content_hash": "88c6224961aea138452f8c8c2887209505e50026e93494d6ef09581d0db37cbf",
-  "last_updated": "2026-10-04T22:48:25.946Z",
+  "content_hash": "5b5f100dcf404c8c21dc23738375c4644219dc8c7b7813b04b33892dbfa73f00",
+  "last_updated": "2026-10-04T23:47:41.717Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-04T22:01:27.000Z"
     },
     {
@@ -397,7 +397,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -593,7 +593,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -719,7 +719,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1097,7 +1097,7 @@
       "score_quality": 76,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Owner’s Review: the Favre Leuba Raider Harpoon 42",
@@ -1489,7 +1489,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1559,7 +1559,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
@@ -1725,9 +1725,9 @@
       "featured": false,
       "published_at": "2026-09-29T20:20:07.000Z",
       "score_quality": 72,
-      "score_notif": 28,
-      "cluster": "20260929-f5508372e58d",
-      "cluster_main": true
+      "score_notif": 31,
+      "cluster": "20260929-438966e72357",
+      "cluster_main": false
     },
     {
       "title": "Owner’s Review: the Norqain Adventure Sport",
@@ -1840,6 +1840,20 @@
       "score_notif": 27,
       "cluster": "20260929-e1eafef47dee",
       "cluster_main": false
+    },
+    {
+      "title": "Rolex Four Seasons : les 4 Daytona uniques rapportent près de 43,5 millions d’euros",
+      "url": "https://www.welovewatches.fr/rolex-four-seasons-les-4-daytona-uniques-rapportent-pres-de-435-millions-deuros.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/rolex-encheres-2026-une.jpg",
+      "peek_preview": "Début septembre, nous présentions les quatre Daytona « Four Seasons » créées par Rolex pour une vente caritative. Le résultat est désormais connu. Adjugées séparément par Phillips le 28 septembre à Londres, elles ont ra...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-09-29T07:30:49.000Z",
+      "score_quality": 62,
+      "score_notif": 31,
+      "cluster": "20260929-438966e72357",
+      "cluster_main": true
     }
   ]
 }
