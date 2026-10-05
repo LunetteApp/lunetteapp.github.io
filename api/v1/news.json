@@ -1,6 +1,6 @@
 {
-  "content_hash": "7a28a40439f26993e720e9e06f157e3ff83df6cecd95a656da96812ccf0f42a7",
-  "last_updated": "2026-10-05T18:46:29.634Z",
+  "content_hash": "bac57cb869e316c438e1daefc212b0833608b41cfb6df7c96e7abf7b847ae843",
+  "last_updated": "2026-10-05T19:53:08.662Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T14:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T19:00:03.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Review: The Tudor Northflag Gets a Second Chance",
+      "url": "https://wornandwound.com/review/review-the-tudor-northflag-gets-a-second-chance/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/TUDOR_NORTHFLAG_6.jpg",
+      "peek_preview": "When the Tudor North Flag came out in 2015, it was met with a collective “what?” Tudor had chosen it to debut its in-house movements, a genuinely big moment for the brand. But the watch itself was a totally unexpected t...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-05T19:00:03.000Z",
+      "score_quality": 76,
+      "score_notif": 24,
+      "cluster": "20261005-b55845b319e9",
+      "cluster_main": true
+    },
+    {
       "title": "Dueling Dials: Omega’s James Bond and Spectre Seamasters",
       "url": "https://watchesbysjx.com/2026/10/omega-seamaster-diver-300m-james-bond-spectre.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Omega-Seamaster-Diver-300M-James-Bond-Spectre-3x2-header-300x200.jpg",
@@ -215,7 +229,7 @@
       "score_quality": 84,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
@@ -523,7 +537,7 @@
       "score_quality": 52,
       "score_notif": 34,
       "cluster": "20261002-f78d379781eb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Buying Guide – Battling Scratches, With Five Cool Ceramic Watches",
@@ -705,7 +719,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -901,7 +915,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1013,7 +1027,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido Celebrates Día De Los Muertos With A Special Multifort TV Big Date",
@@ -1027,7 +1041,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1041,7 +1055,7 @@
       "score_quality": 59,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Czapek new releases for GWD26 explained by Xavier de Roquemaurel | Video",
@@ -1265,7 +1279,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261002-f78d379781eb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "アイクポッドが名作のDNAを受け継ぐ新作レクタンギュラーウォッチ「ミニポッド」全8モデルを発表",
@@ -1363,7 +1377,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1461,7 +1475,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1643,7 +1657,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
@@ -1671,7 +1685,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Watch Art Grand Exhibition Milano 2026: tutte le novità e i capolavori creati per l’Italia",
@@ -1685,7 +1699,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido Multifort TV Big Date Día De Los Muertos Alebrijes: La Prova dal Vivo",
@@ -1741,7 +1755,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
@@ -1839,20 +1853,6 @@
       "score_quality": 68,
       "score_notif": 33,
       "cluster": "20260930-906e77eea021",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Timex Atelier Chronograph Quartz M1q Bridges The Gap To The Brand’s Luxury Watches",
-      "url": "https://www.ablogtowatch.com/hands-on-timex-atelier-chronograph-quartz-m1q-bridges-the-gap-to-the-brands-luxury-watches/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Timex-Atelier-Chronograph-Quartz-M1q-Watch-12-768x346.jpg",
-      "peek_preview": "Officially launched last year in 2025 as a premium sub-brand, Timex Atelier produces Swiss-made watches that continue the design language established by Giorgio Galli (Timex’s Chief Creative Director) in his eponymous s...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-30T07:01:43.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20260930-ad88117f6d10",
       "cluster_main": true
     }
   ]
