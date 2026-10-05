@@ -1,6 +1,6 @@
 {
-  "content_hash": "0bc676dbe82818e5e72fd9fc5e755cb8d95eac7c722f53e26805403b799c2286",
-  "last_updated": "2026-10-05T16:47:49.424Z",
+  "content_hash": "063cbaa742ebac067a52398f34949b0b0a83d164133e25b0ba01fb44a117c712",
+  "last_updated": "2026-10-05T17:47:48.062Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T16:30:49.000Z"
     },
     {
@@ -65,15 +65,15 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T10:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T08:00:47.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T17:02:17.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Dueling Dials: Omega’s James Bond and Spectre Seamasters",
+      "url": "https://watchesbysjx.com/2026/10/omega-seamaster-diver-300m-james-bond-spectre.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Omega-Seamaster-Diver-300M-James-Bond-Spectre-3x2-header-300x200.jpg",
+      "peek_preview": "The Omega Seamaster Diver 300M James Bond and Spectre collection pairs familiar no-date divers with competing character motifs, including platinum-gold variants in two limited edition boxed sets. The watches extend Omeg...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-05T17:02:17.000Z",
+      "score_quality": 74,
+      "score_notif": 83,
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
+    },
+    {
+      "title": "Hands-On: Traska Chronograph Tungsten Gray",
+      "url": "https://www.hodinkee.com/articles/traska-chronograph-tungsten-gray",
+      "image": "https://hodinkee.imgix.net/uploads/images/22213695-3195-4991-b57c-c4ca452342b8/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "After nearly six months on the wrist, I can't say enough about Traska's first chronograph.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-05T17:00:00.000Z",
+      "score_quality": 82,
+      "score_notif": 45,
+      "cluster": "20261005-ba54950f1a61",
+      "cluster_main": true
+    },
     {
       "title": "First Look – Hamilton Brings Art Deco Back with the American Classic Cushion Mechanical Collection",
       "url": "https://monochrome-watches.com/hamilton-american-classic-cushion-mechanical-collection-2026-upgraded-7001-peseux-review-price/",
@@ -620,7 +648,7 @@
       "published_at": "2026-10-03T14:00:38.000Z",
       "score_quality": 82,
       "score_notif": 32,
-      "cluster": "20260930-551f8f748bb7",
+      "cluster": "20261003-d83498914847",
       "cluster_main": true
     },
     {
@@ -677,7 +705,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -690,8 +718,8 @@
       "published_at": "2026-10-03T11:03:19.000Z",
       "score_quality": 27,
       "score_notif": 24,
-      "cluster": "20261002-30f460bc0fe2",
-      "cluster_main": false
+      "cluster": "20261003-6598756318a8",
+      "cluster_main": true
     },
     {
       "title": "Gallet relaunch explained: More affordable Breitling-backed tool watches | House of Brands Ep. 2",
@@ -985,7 +1013,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido Celebrates Día De Los Muertos With A Special Multifort TV Big Date",
@@ -1559,7 +1587,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -1587,7 +1615,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -1601,7 +1629,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -1629,7 +1657,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
@@ -1657,7 +1685,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido Multifort TV Big Date Día De Los Muertos Alebrijes: La Prova dal Vivo",
@@ -1713,7 +1741,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
@@ -1755,20 +1783,6 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20260930-7a15eeae65ad",
-      "cluster_main": true
-    },
-    {
-      "title": "Photo Report: Toronto Timepiece Show 2026",
-      "url": "https://www.hodinkee.com/articles/toronto-timepiece-show-2026",
-      "image": "https://hodinkee.imgix.net/uploads/images/4de28fc1-e83c-4729-a0f0-1c3b40e4e611/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "There's a new watch fair in town — except it's not new, not in town (unless you're happen to be from Toronto), and definitely not one to miss.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-30T17:00:00.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20260930-6cb2ce4f863e",
       "cluster_main": true
     },
     {
@@ -1840,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20260930-ad88117f6d10",
       "cluster_main": true
-    },
-    {
-      "title": "Hands On: Raymond Weil Millesime Jubilee",
-      "url": "https://watchesbysjx.com/2026/09/hands-on-raymond-weil-millesime-jubilee.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Raymond-Weil-Jubilee-Chronograph-3x2-centred-header-300x200.jpg",
-      "peek_preview": "Raymond Weil kicked off its 50th anniversary earlier this year with the Fifty, a vintage-inspired limited edition chronograph powered by an appropriately historical vintage calibre. The party continues with the Millesim...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-30T04:00:44.000Z",
-      "score_quality": 77,
-      "score_notif": 32,
-      "cluster": "20260930-551f8f748bb7",
-      "cluster_main": false
     }
   ]
 }
