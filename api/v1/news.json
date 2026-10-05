@@ -1,6 +1,6 @@
 {
-  "content_hash": "6ffeb22202c8bbd218df6f9691b5dd489bbfff42d8dd4db982d4b40c44384dfd",
-  "last_updated": "2026-10-05T07:48:02.076Z",
+  "content_hash": "64257dc0fc5e051a551fd4811faecb492e56dcfee6e45e675b946c41d66aded2",
+  "last_updated": "2026-10-05T09:47:43.220Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
+      "estimated_articles_per_day": 3.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T05:00:25.000Z"
     },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T07:00:52.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T07:01:30.000Z"
     },
     {
@@ -80,12 +80,12 @@
       "lang": "en",
       "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-05T07:01:02.000Z"
+      "latest_article_at": "2026-10-05T09:01:14.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
+      "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-03T12:37:43.000Z"
     },
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T07:00:00.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T10:18:42.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T09:01:23.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T03:00:56.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T09:30:50.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Rolex Perpetual Padellone im Video: Die große Pfanne ist zurück",
+      "url": "https://www.uhrenkosmos.com/rolex-perpetual-padellone-im-video-vorstellung/",
+      "image": "https://www.youtube.com/embed/p-yZeZkFR10",
+      "peek_preview": "Mit der Perpetual Padellone macht Rolex einen Sammler-Spitznamen zur offiziellen Uhrenlinie – und packt einen Jahreskalender mit springenden Anzeigen, Dynapulse-Hemmung und Meteoriten-Mond hinein. Gisbert Brunner und Pe...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-05T09:01:23.000Z",
+      "score_quality": 74,
+      "score_notif": 84,
+      "cluster": "20261005-caefc0209bce",
+      "cluster_main": true
+    },
+    {
+      "title": "The new Omega Seamaster Diver 300m James Bond & Spectre editions offer watches for both the hero and villain",
+      "url": "https://timeandtidewatches.com/omega-seamaster-diver-300m-james-bond-spectre-editions-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Omega-Seamaster-Diver-300m-James-Bond-Spectre-Editions-26.jpg",
+      "peek_preview": "The new Omega Seamaster Diver 300m James Bond & Spectre Editions will make you question whether you align with the hero or vilain. The post The new Omega Seamaster Diver 300m James Bond & Spectre editions offer watches...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-05T09:01:14.000Z",
+      "score_quality": 71,
+      "score_notif": 73,
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": true
+    },
     {
       "title": "According To Ariel: Demand Human Watch Curation Versus Algorithmically Generated Slop Suggestions",
       "url": "https://www.ablogtowatch.com/according-to-ariel-demand-human-watch-curation-versus-algorithmically-generated-slop-suggestions/",
@@ -1181,7 +1209,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1307,7 +1335,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1475,7 +1503,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -1503,7 +1531,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
@@ -1531,20 +1559,6 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
-    },
-    {
-      "title": "Hamilton Revives the 1920s with the American Classic Cushion",
-      "url": "https://timeandtidewatches.com/hamilton-american-classic-cushion-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Hamilton-American-Classic-Cushion-Header.jpg",
-      "peek_preview": "Hamilton revives its century-old cushion watch with the American Classic Cushion, inspired by 1920s models and Christopher Nolan’s Oppenheimer The post Hamilton Revives the 1920s with the American Classic Cushion appear...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:00:31.000Z",
-      "score_quality": 64,
-      "score_notif": 33,
-      "cluster": "20261001-b485214a755d",
       "cluster_main": false
     },
     {
@@ -1825,34 +1839,6 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20260929-d17017381296",
-      "cluster_main": true
-    },
-    {
-      "title": "Ba111od Chapter 7 Skeleton in Natural Steel: Video with Thomas Baillod | new for Sept 26",
-      "url": "https://deployant.com/ba111od-chapter-7-skeleton-in-natural-steel-video-with-thomas-baillod-new-for-sept-26/?utm_source=rss&utm_medium=rss&utm_campaign=ba111od-chapter-7-skeleton-in-natural-steel-video-with-thomas-baillod-new-for-sept-26",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/Ba111od-Chapter-7-Skeleton-thumbnail.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors At Geneva Watch Days 2026, Ba111od founder Thomas Baillod introduces the new Chapter 7 Skeleton in natural steel. We sat down with Baillod to talk through the...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T13:30:00.000Z",
-      "score_quality": 60,
-      "score_notif": 29,
-      "cluster": "20260929-b084096c5255",
-      "cluster_main": true
-    },
-    {
-      "title": "Casio F-91W: 21 grammi di cultura pop",
-      "url": "https://italianwatchspotter.com/casio-f-91w-21-grammi-di-cultura-pop/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/image-128-1024x1024.png",
-      "peek_preview": "Fate una prova. Chiudete gli occhi e disegnate un Casio. Rettangolo nero. Cornice blu. Un accento rosso, uno giallo. Tre pulsanti. Display LCD. Se avete pensato all’F-91W, Casio ha già vinto. Trasformare tre pulsanti, u...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-09-29T11:00:00.000Z",
-      "score_quality": 74,
-      "score_notif": 18,
-      "cluster": "20260929-2a35380e79f3",
       "cluster_main": true
     }
   ]
