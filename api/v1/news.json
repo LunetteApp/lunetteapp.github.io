@@ -1,6 +1,6 @@
 {
-  "content_hash": "42bdd9bd3fbf465b16e8188039734db22207765697255169c456cb53252408ee",
-  "last_updated": "2026-10-05T14:47:33.233Z",
+  "content_hash": "0bc676dbe82818e5e72fd9fc5e755cb8d95eac7c722f53e26805403b799c2286",
+  "last_updated": "2026-10-05T16:47:49.424Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T14:00:22.000Z"
     },
     {
@@ -24,7 +24,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-05T14:00:05.000Z"
+      "latest_article_at": "2026-10-05T16:30:49.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T09:01:14.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – Hamilton Brings Art Deco Back with the American Classic Cushion Mechanical Collection",
+      "url": "https://monochrome-watches.com/hamilton-american-classic-cushion-mechanical-collection-2026-upgraded-7001-peseux-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Hamilton-American-Classic-Cushion-Mechanical-Review-Upgraded-Peseux-7001-11-600x237.jpg",
+      "peek_preview": "As smaller, historically inspired, shaped watches find renewed interest, it is no surprise that Hamilton looks back almost a century for its latest collection, reviving the cushion-shaped watches that defined part of it...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-05T16:30:49.000Z",
+      "score_quality": 84,
+      "score_notif": 33,
+      "cluster": "20261001-b485214a755d",
+      "cluster_main": false
+    },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
       "url": "https://wornandwound.com/shinolas-popular-duck-watch-goes-mechanical-with-the-quirkiest-campaign-ever/",
@@ -481,7 +495,7 @@
       "score_quality": 52,
       "score_notif": 34,
       "cluster": "20261002-f78d379781eb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Buying Guide – Battling Scratches, With Five Cool Ceramic Watches",
@@ -676,8 +690,8 @@
       "published_at": "2026-10-03T11:03:19.000Z",
       "score_quality": 27,
       "score_notif": 24,
-      "cluster": "20261003-6598756318a8",
-      "cluster_main": true
+      "cluster": "20261002-30f460bc0fe2",
+      "cluster_main": false
     },
     {
       "title": "Gallet relaunch explained: More affordable Breitling-backed tool watches | House of Brands Ep. 2",
@@ -1212,20 +1226,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The New Steel Brellum Pandial Power Reserve Chronometer LE Black",
-      "url": "https://monochrome-watches.com/brellum-pandial-power-reserve-chronometer-le-black-steel-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Brellum-Pandial-Power-Reserve-Chronometer-LE-Black-Stainless-Steel-2026-review-8-600x237.jpg",
-      "peek_preview": "Independent and deliberately small-scale, Brellum is known (and respected) for following a straightforward formula: strict quality controls, every movement is COSC-certified, and annual watch production is capped at 299...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T07:00:38.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261002-f78d379781eb",
-      "cluster_main": true
-    },
-    {
       "title": "There Are Only 33 Of These: Introducing The Black-Dial Brellum Pandial 43 Power Reserve LE Chronometer",
       "url": "https://www.fratellowatches.com/the-black-dialed-brellum-pandial-43-power-reserve-le-chronometer/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Brellum-Pandial-43-Power-Reserve-LE-Chronometer-5.jpg",
@@ -1335,7 +1335,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1433,7 +1433,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1559,7 +1559,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -1587,7 +1587,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -1601,7 +1601,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -1643,7 +1643,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Watch Art Grand Exhibition Milano 2026: tutte le novità e i capolavori creati per l’Italia",
