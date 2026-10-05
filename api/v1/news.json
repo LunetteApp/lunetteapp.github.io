@@ -1,6 +1,6 @@
 {
-  "content_hash": "15ce64f7758298ce1c7f64769ebcc3cbc5c240e39fb0955d527f7d8f7e91e1b4",
-  "last_updated": "2026-10-05T10:47:53.251Z",
+  "content_hash": "6e4e31e427d05677bd4448964cc3d0e292098b9e872e9de698c3359379d7a774",
+  "last_updated": "2026-10-05T11:47:39.275Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T10:00:43.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T10:01:17.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T10:00:03.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T10:00:00.000Z"
     },
     {
@@ -100,14 +100,14 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T10:00:00.000Z"
     },
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T10:00:26.000Z"
     },
     {
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-02T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T11:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "OMEGA svela i nuovi Seamaster Diver 300M: Team James Bond o SPECTRE?",
+      "url": "https://italianwatchspotter.com/omega-seamaster-diver-300m-james-bond-e-spectre/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/SE-_BondSpectre_ADV_Family_Duo_4_5_RVB-819x1024.jpg",
+      "peek_preview": "James Bond e SPECTRE, per la prima volta, nella stessa collezione OMEGA. Dopo oltre trent’anni di presenza al polso di 007, il Seamaster Diver 300M riunisce i due avversari della saga attraverso sei nuove referenze, tre...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-05T11:00:00.000Z",
+      "score_quality": 74,
+      "score_notif": 83,
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
+    },
     {
       "title": "First Look – The Omega Seamaster Diver 300M James Bond and Spectre Collection",
       "url": "https://monochrome-watches.com/omega-seamaster-diver-300m-james-bond-and-spectre-collection-2026-review-price/",
@@ -803,7 +817,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -929,7 +943,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1279,7 +1293,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1293,7 +1307,7 @@
       "score_quality": 76,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Owner’s Review: the Favre Leuba Raider Harpoon 42",
@@ -1391,7 +1405,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1517,7 +1531,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -1530,8 +1544,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster": "20261001-0050ad3b3045",
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1545,7 +1559,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -1559,7 +1573,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -1573,7 +1587,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
@@ -1587,7 +1601,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
@@ -1601,7 +1615,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Watch Art Grand Exhibition Milano 2026: tutte le novità e i capolavori creati per l’Italia",
@@ -1629,7 +1643,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1839,20 +1853,6 @@
       "score_quality": 68,
       "score_notif": 26,
       "cluster": "20260929-86fcbc82033c",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: Breguet Classique Tourbillon Sidéral ref. 7255—Up Close With the Flying Tourbillon That Floats Above a Night Sky",
-      "url": "https://www.watchcollectinglifestyle.com/home/breguet-classique-tourbillon-sideral-ref-7255-review",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790699606434-PCMX0B52CD7UCXMDVKO8/Breguet+Classique+Tourbillon+Side%CC%81ral+ref.+7255-9.jpg?format=1500w",
-      "peek_preview": "When we first introduced the Breguet Classique Tourbillon Sidéral ref. 7255 , it existed as press images and a spec sheet. Now it sits in front of us, and the live pictures confirm what those promised. This is Breguet's...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T17:10:54.000Z",
-      "score_quality": 85,
-      "score_notif": 32,
-      "cluster": "20260929-4cba5534c26c",
       "cluster_main": true
     }
   ]
