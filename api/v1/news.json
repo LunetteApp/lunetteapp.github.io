@@ -1,6 +1,6 @@
 {
-  "content_hash": "4192e02d979a43ce19f7a20fa3cd694b450ac2f43db049b215bee2c31ebc709a",
-  "last_updated": "2026-10-05T13:47:53.079Z",
+  "content_hash": "42bdd9bd3fbf465b16e8188039734db22207765697255169c456cb53252408ee",
+  "last_updated": "2026-10-05T14:47:33.233Z",
   "premium": {
     "links": []
   },
@@ -15,16 +15,16 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T14:00:02.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T14:00:22.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T10:01:17.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T14:00:05.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -57,8 +57,8 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T13:30:00.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
+      "url": "https://wornandwound.com/shinolas-popular-duck-watch-goes-mechanical-with-the-quirkiest-campaign-ever/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Shinola-Duck-55.jpg",
+      "peek_preview": "One of several running stories I’ve been working on lately is a chronology of influential watch ads, and perhaps I need to add this latest campaign from Shinola to the list. The headline is that the brand’s popular Duck...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-05T14:00:22.000Z",
+      "score_quality": 68,
+      "score_notif": 63,
+      "cluster": "20261005-b5b085a86e41",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – Inercy Paris Unveils The All-New Compass Collection",
+      "url": "https://monochrome-watches.com/inercy-paris-compass-collection-swiss-automatic-la-joux-perret-solar-compass-sports-watch-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Inercy-Paris-Compass-Collection-review-3-600x237.jpg",
+      "peek_preview": "A young microbrand based in Paris, Inercy started out with a flying tourbillon at a price that makes the complication accessible to a much wider audience. Introduced in 2023, the One was a 42mm watch with a compass-insp...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-05T14:00:05.000Z",
+      "score_quality": 76,
+      "score_notif": 60,
+      "cluster": "20261005-3b4270425c39",
+      "cluster_main": true
+    },
     {
       "title": "Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin 30th Anniversary: The Azure 4300V/220G-H119",
       "url": "https://deployant.com/vacheron-constantin-overseas-perpetual-calendar-ultra-thin-30th-anniversary-the-azure-4300v-220g-h119/?utm_source=rss&utm_medium=rss&utm_campaign=vacheron-constantin-overseas-perpetual-calendar-ultra-thin-30th-anniversary-the-azure-4300v-220g-h119",
@@ -635,7 +663,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -943,7 +971,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido Celebrates Día De Los Muertos With A Special Multifort TV Big Date",
@@ -957,7 +985,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1307,7 +1335,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1335,20 +1363,6 @@
       "score_quality": 66,
       "score_notif": 26,
       "cluster": "20261001-590eaf0d28a1",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – Three New Interpretations of the Norqain Wild One in Titanium",
-      "url": "https://monochrome-watches.com/three-new-interpretations-of-the-norqain-wild-one-in-titanium-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Norqain-Wild-One-Titanium-collection-2026-review-600x237.jpg",
-      "peek_preview": "Norqain, the independent, family-owned Swiss watch brand, has amassed a solid reputation for robust, action-oriented sports watches. CEO Ben Kuffer has relied on exceptional friends since he started the brand in 2018; o...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T17:00:56.000Z",
-      "score_quality": 83,
-      "score_notif": 34,
-      "cluster": "20261001-c716f755d99a",
       "cluster_main": true
     },
     {
@@ -1419,7 +1433,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1461,7 +1475,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261001-c716f755d99a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: NOMOS Club Sport neomatik Worldtimer dark Watch Doubles Down On Luminous Details",
@@ -1558,8 +1572,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261001-0050ad3b3045",
-      "cluster_main": true
+      "cluster": "20260925-f57dbec40bf9-2",
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1576,20 +1590,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
-      "url": "https://www.hodinkee.com/articles/intro-patek-milan-limited-editions",
-      "image": "https://hodinkee.imgix.net/uploads/images/a8c9c682-9b80-422b-9b13-3767e0367e0c/HeroMilanWatchesPP.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "With various thematic ties to the host city and country, Patek leans into the culture of one of the original watch-collecting Meccas.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:04:00.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
-    },
-    {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
       "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
       "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1601,6 +1601,20 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
+      "url": "https://www.hodinkee.com/articles/intro-patek-milan-limited-editions",
+      "image": "https://hodinkee.imgix.net/uploads/images/a8c9c682-9b80-422b-9b13-3767e0367e0c/HeroMilanWatchesPP.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "With various thematic ties to the host city and country, Patek leans into the culture of one of the original watch-collecting Meccas.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T09:04:00.000Z",
+      "score_quality": 75,
+      "score_notif": 34,
+      "cluster": "20260925-f57dbec40bf9-2",
       "cluster_main": false
     },
     {
@@ -1629,7 +1643,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Watch Art Grand Exhibition Milano 2026: tutte le novità e i capolavori creati per l’Italia",
@@ -1657,7 +1671,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1699,7 +1713,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
@@ -1840,20 +1854,6 @@
       "score_notif": 32,
       "cluster": "20260930-551f8f748bb7",
       "cluster_main": false
-    },
-    {
-      "title": "Takeaways from the Record-Breaking Rolex Daytona Auction",
-      "url": "https://watchesbysjx.com/2026/09/takeaways-from-the-record-breaking-rolex-daytona-auction.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Rolex-Daytona-Four-Seasons-spring-126599-SAVL-300x200.jpg",
-      "peek_preview": "In just a couple of weeks, Rolex and Phillips pulled off the near-impossible: a record-setting auction where the unique Daytona “Four Seasons” set sold for £37.3 million, equivalent to US$49.5 million. The sum is the la...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T20:20:07.000Z",
-      "score_quality": 72,
-      "score_notif": 31,
-      "cluster": "20260929-f5508372e58d",
-      "cluster_main": true
     }
   ]
 }
