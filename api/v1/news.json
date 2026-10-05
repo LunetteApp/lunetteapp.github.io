@@ -1,6 +1,6 @@
 {
-  "content_hash": "6e4e31e427d05677bd4448964cc3d0e292098b9e872e9de698c3359379d7a774",
-  "last_updated": "2026-10-05T11:47:39.275Z",
+  "content_hash": "4192e02d979a43ce19f7a20fa3cd694b450ac2f43db049b215bee2c31ebc709a",
+  "last_updated": "2026-10-05T13:47:53.079Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-04T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-05T11:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin 30th Anniversary: The Azure 4300V/220G-H119",
+      "url": "https://deployant.com/vacheron-constantin-overseas-perpetual-calendar-ultra-thin-30th-anniversary-the-azure-4300v-220g-h119/?utm_source=rss&utm_medium=rss&utm_campaign=vacheron-constantin-overseas-perpetual-calendar-ultra-thin-30th-anniversary-the-azure-4300v-220g-h119",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/vc-oversea-qp-ut-wrist.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors In celebration of the 30th Anniversary of the Overseas collection, Vacheron Constantin launches the Perpetual Calendar Ultra-Thin in a new Azure Dial. This is...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-05T13:30:00.000Z",
+      "score_quality": 76,
+      "score_notif": 64,
+      "cluster": "20261005-734f09fcc4b2",
+      "cluster_main": true
+    },
     {
       "title": "OMEGA svela i nuovi Seamaster Diver 300M: Team James Bond o SPECTRE?",
       "url": "https://italianwatchspotter.com/omega-seamaster-diver-300m-james-bond-e-spectre/",
@@ -423,7 +437,7 @@
       "featured": false,
       "published_at": "2026-10-04T13:30:00.000Z",
       "score_quality": 74,
-      "score_notif": 53,
+      "score_notif": 34,
       "cluster": "20261004-70efee431151",
       "cluster_main": true
     },
@@ -621,7 +635,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -929,7 +943,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido Celebrates Día De Los Muertos With A Special Multifort TV Big Date",
@@ -943,7 +957,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1293,7 +1307,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1405,7 +1419,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1559,7 +1573,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -1573,7 +1587,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -1601,7 +1615,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
@@ -1643,7 +1657,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1685,7 +1699,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
@@ -1839,20 +1853,6 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20260929-f5508372e58d",
-      "cluster_main": true
-    },
-    {
-      "title": "Owner’s Review: the Norqain Adventure Sport",
-      "url": "https://wornandwound.com/review/owners-review-the-norqain-adventure-sport/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Norqain-Adventure-Sport-Owners-Review-3.jpg",
-      "peek_preview": "One of the recurring topics of conversation I’ve long heard among watch collectors is the fantasy of a pared down collection. Sometimes, the dream is by the numbers – a seven-watch collection (one for each day of the we...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-29T19:00:19.000Z",
-      "score_quality": 68,
-      "score_notif": 26,
-      "cluster": "20260929-86fcbc82033c",
       "cluster_main": true
     }
   ]
