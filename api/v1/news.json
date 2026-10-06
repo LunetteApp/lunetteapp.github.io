@@ -1,6 +1,6 @@
 {
-  "content_hash": "8be566efb1b8f4c16fafcdde75c36e6863f27a7e924239c7f1b8df7370ffebbd",
-  "last_updated": "2026-10-06T02:45:56.682Z",
+  "content_hash": "7c6b916a3d22f449eaa8394a6bf14a1cfe3610d559c23e0e420ecd620dca4255",
+  "last_updated": "2026-10-06T03:47:54.634Z",
   "premium": {
     "links": []
   },
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T17:00:00.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T03:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T00:00:47.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T03:00:55.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "ジェラルド・チャールズが髙島屋大阪店に直営ブティックをオープン",
+      "url": "https://www.webchronos.net/news/174633/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/%E5%A4%A7%E9%98%AA%E3%83%96%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8_02-1.webp",
+      "peek_preview": "ジェラルド・チャールズが、日本国内で2店舗目となる直営店「ジェラルド・チャールズ／インディペンデントウォッチ」を髙島屋大阪店にオープンした。グローバルでも最大規模を誇るこの新店舗では、定番から稀少な限定モデルまで多彩なコ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-06T03:00:55.000Z",
+      "score_quality": 64,
+      "score_notif": 27,
+      "cluster": "20261006-7b00425c619c",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: The Seiko Panda Watch That Stole The Show In 2024 Is Finally Here",
+      "url": "https://www.hodinkee.com/articles/the-seiko-panda-watch-that-stole-the-show-in-2024-is-finally-here",
+      "image": "https://hodinkee.imgix.net/uploads/images/2103fe4e-211a-4712-a594-8278f8b28e18/SeikoWatchesHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "One of the standout creations from Seiko's 2024 power design project—an irresistibly charming chronograph designed to look like an actual panda—has officially entered production.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T03:00:00.000Z",
+      "score_quality": 83,
+      "score_notif": 70,
+      "cluster": "20261006-2822e51b1fba",
+      "cluster_main": true
+    },
     {
       "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
       "url": "https://www.webchronos.net/news/174977/",
@@ -257,7 +285,7 @@
       "score_quality": 84,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
@@ -507,7 +535,7 @@
       "featured": false,
       "published_at": "2026-10-05T03:00:56.000Z",
       "score_quality": 75,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261005-6ee9e2e41d41",
       "cluster_main": true
     },
@@ -746,8 +774,8 @@
       "published_at": "2026-10-03T12:00:07.000Z",
       "score_quality": 79,
       "score_notif": 34,
-      "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster": "20261003-4a3f8dcd40a5",
+      "cluster_main": true
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -943,7 +971,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1069,7 +1097,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1321,20 +1349,6 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261002-66dedf8a25c1",
-      "cluster_main": true
-    },
-    {
-      "title": "文字盤メーカーの名門がエナメルを手掛けたユリス・ナルダン「フリーク ONE」の限定モデルが登場",
-      "url": "https://www.webchronos.net/news/174140/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/UN_bleu_1.webp",
-      "peek_preview": "ユリス・ナルダンは、ドンツェ・カドランが手掛けるアワーディスクを備えた「フリーク ONE ブルーエナメル」を世界限定99本で発売する。文字盤も針もリュウズも持たない本作は、ギヨシェ装飾と鮮やかなブルーのグラン フー エナ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-02T00:00:32.000Z",
-      "score_quality": 77,
-      "score_notif": 30,
-      "cluster": "20261002-19e50d5610b2",
       "cluster_main": true
     },
     {
@@ -1628,8 +1642,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster": "20261001-0050ad3b3045",
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1727,7 +1741,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1755,20 +1769,6 @@
       "score_quality": 89,
       "score_notif": 24,
       "cluster": "20261001-4f10d8435de4",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: G-SHOCK Reveals The MRG-D5000 “Blue Rose Project” In Sapphire",
-      "url": "https://www.hodinkee.com/articles/g-shock-reveals-the-mrg-d5000-blue-rose-project-in-sapphire",
-      "image": "https://hodinkee.imgix.net/uploads/images/6f75c77b-1ceb-4ea3-a47d-b5d441c0247d/tan2h-g-shock-blueroseproject-01988-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The most expensive G-SHOCK to date might come as shocking news, but it's not entirely out of the blue.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T01:00:00.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261001-4e32206aac09",
       "cluster_main": true
     },
     {
