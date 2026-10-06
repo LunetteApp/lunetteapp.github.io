@@ -1,6 +1,6 @@
 {
-  "content_hash": "f333da542a59260bb933eeae549d0d17ff77d2d9e4429abbb098dc19d3005f9e",
-  "last_updated": "2026-10-06T16:48:27.946Z",
+  "content_hash": "f4cc501a51734d57cb2c05e70e04e0506611d931694d033ce05c513eb428483f",
+  "last_updated": "2026-10-06T17:47:59.952Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T16:00:41.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T15:00:00.000Z"
+      "estimated_articles_per_day": 2.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Auctions: Previewing Marteau’s ‘Encore’ And Antiquorum’s Return To New York, Both This Month",
+      "url": "https://www.hodinkee.com/articles/auctions-marteau-antiquorum-oct-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/96c39352-0930-444d-ae8e-9ea95abeb242/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "On the heels of a strong spring auction, Marteau has real heat, while a horological auction stalwart returns to the Big Apple.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T17:00:00.000Z",
+      "score_quality": 78,
+      "score_notif": 44,
+      "cluster": "20261006-085bc549c4bd",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – American Indie Watchmaker RGM Releases the Perpetual Calendar Model 501-PC",
       "url": "https://monochrome-watches.com/rgm-perpetual-calendar-model-501-pc-american-indie-watchmaker-introducing-price/",
@@ -591,7 +605,7 @@
       "featured": false,
       "published_at": "2026-10-05T17:00:00.000Z",
       "score_quality": 82,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261005-ba54950f1a61",
       "cluster_main": true
     },
@@ -607,7 +621,7 @@
       "score_quality": 84,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
@@ -677,7 +691,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Choosing Between Good And Evil: The Omega Seamaster Diver 300M James Bond And Spectre Collection",
@@ -733,7 +747,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
@@ -1110,8 +1124,8 @@
       "published_at": "2026-10-03T11:03:19.000Z",
       "score_quality": 27,
       "score_notif": 24,
-      "cluster": "20261002-30f460bc0fe2",
-      "cluster_main": false
+      "cluster": "20261003-6598756318a8",
+      "cluster_main": true
     },
     {
       "title": "Gallet relaunch explained: More affordable Breitling-backed tool watches | House of Brands Ep. 2",
@@ -1251,7 +1265,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1349,7 +1363,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido Celebrates Día De Los Muertos With A Special Multifort TV Big Date",
@@ -1601,7 +1615,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1699,7 +1713,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1814,20 +1828,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/the-patek-philippe-reference-5978p-a-brand-new-perpetual-calendar-chronograph-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/7c26189a-7ea7-4c57-a73d-fca6f6c1b81d/p5h1.png?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "For only the 7th time in the history of Patek Philippe, we have a new manually wound perpetual calendar chronograph – and it is very cool!",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:05:00.000Z",
-      "score_quality": 86,
-      "score_notif": 34,
-      "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
-    },
-    {
       "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
       "url": "https://watchesbysjx.com/2026/10/patek-philippe-watch-art-grand-exhibition-milan-limited-editions.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Patek-Philippe-Calatrava-Minute-Repeater-7047-Milan-2026-3x2-centred-header-300x200.jpg",
@@ -1838,8 +1838,8 @@
       "published_at": "2026-10-01T09:02:54.000Z",
       "score_quality": 79,
       "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster": "20261001-6c723f2de80d",
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
@@ -1853,7 +1853,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
