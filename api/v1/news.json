@@ -1,6 +1,6 @@
 {
-  "content_hash": "ce3ef15ec2d51ccf5c22d8c62b87396d7e33d60bc3d673546740d80210557788",
-  "last_updated": "2026-10-06T05:48:03.179Z",
+  "content_hash": "6d18e6790693a178bbfe10943ca6acf0e476d24a1ce00f9403f26ed3f7d2b8f2",
+  "last_updated": "2026-10-06T06:47:23.016Z",
   "premium": {
     "links": []
   },
@@ -10,7 +10,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-06T05:00:20.000Z"
+      "latest_article_at": "2026-10-06T06:00:24.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T10:00:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T06:12:09.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T05:44:00.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Come nascono i quadranti Glashütte Original: il carattere sassone prende forma",
+      "url": "https://www.orologidiclasse.com/come-nascono-quadranti-glashutte-original/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/glashutte-original-quadrante-verde-applicazione-indici.jpg",
+      "peek_preview": "Quando hai davanti un Glashütte Original, la tentazione di capovolgerlo per osservare il movimento è forte. Lo capisco bene: una platina a tre quarti, i castoni d’oro o un doppio collo di cigno sono un richiamo irresist...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-06T06:12:09.000Z",
+      "score_quality": 74,
+      "score_notif": 24,
+      "cluster": "20261006-47930c955c4b",
+      "cluster_main": true
+    },
+    {
+      "title": "Power To The Pandagraph: Seiko Brings The 2024 Hit Concept Watch Into Production",
+      "url": "https://www.fratellowatches.com/seiko-pandagraph-hhk001-hhk002/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Seiko-Pandagraph-3.jpg",
+      "peek_preview": "I think it’s safe to say that pandas are universally beloved, and panda dials are among the most popular options for chronographs. That’s probably why Seiko’s so-called Pandagraph got so much attention back in 2024. The...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T06:00:24.000Z",
+      "score_quality": 78,
+      "score_notif": 70,
+      "cluster": "20261006-2822e51b1fba",
+      "cluster_main": false
+    },
+    {
       "title": "Christopher Ward C1 Jump Hour XV : 15 ans d’heures sautantes",
       "url": "https://www.welovewatches.fr/christopher-ward-c1-jump-hour-xv-15-ans-dheures-sautantes.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/christopher_ward_c1_jump_hour_xv_une_1940x1280.jpg",
@@ -187,7 +215,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261001-ba6f6a617b45",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Covert Release: The Seiko 5 Sports Field HDB001 And HDB002 GMTs",
@@ -732,7 +760,7 @@
       "published_at": "2026-10-04T00:00:41.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261004-0dc923cf6aa3",
+      "cluster": "20261001-55cd6071139d",
       "cluster_main": true
     },
     {
@@ -1282,20 +1310,6 @@
       "cluster_main": false
     },
     {
-      "title": "Steve McQueen Finally Gets A Dedicated Hanhart 417 ES",
-      "url": "https://www.fratellowatches.com/steve-mcqueen-finally-gets-a-dedicated-hanhart-417-es/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Hanhart-Steve-McQueen-Limited-Edition-No.-1-13.jpg",
-      "peek_preview": "At some point, everyone into vintage watches comes across certain iconic photos. They’ll see Paul Newman wearing cool Carrera-style sunglasses and his Daytona, Nina Rindt holding a “Großer Preis von Österreich” (Austria...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T08:00:26.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261002-07fb6cf05945",
-      "cluster_main": false
-    },
-    {
       "title": "Girard-Perregaux presenta il Laureato Chronograph “Azzurro” alla Milano Watch Week",
       "url": "https://italianwatchspotter.com/girard-perregaux-laureato-azzurro/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/IWS02591-1024x683.jpg",
@@ -1433,7 +1447,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1503,7 +1517,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261001-ba6f6a617b45",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Bamford London D-300 Takes The Brand Below The Waves For The First Time In Ceramic Style",
@@ -1531,7 +1545,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1643,7 +1657,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261001-55cd6071139d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ladies First: Patek Philippe Debuts Gondolo 7043",
@@ -1839,20 +1853,6 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20260930-7a15eeae65ad",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex Oyster Perpetual Jubilee-Dial Edition: Hands On With The Multicolored Cult-Classic",
-      "url": "https://teddybaldassarre.com/blogs/watches/rolex-oyster-perpetual-jubilee-dial",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Rolex-Oyster-Perpetual-Jubilee-Dial-flat-2.jpg?v=1790776626",
-      "peek_preview": "Rolex has been predictably busy in 2026, the landmark 100th anniversary of its brand-defining Oyster case, with the recent and somewhat unexpected launch of the Perpetual Padellone being just the most recent example. Ea...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-30T16:34:51.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20260930-66859075797f",
       "cluster_main": true
     }
   ]
