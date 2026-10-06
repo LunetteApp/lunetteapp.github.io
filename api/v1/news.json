@@ -1,6 +1,6 @@
 {
-  "content_hash": "6d18e6790693a178bbfe10943ca6acf0e476d24a1ce00f9403f26ed3f7d2b8f2",
-  "last_updated": "2026-10-06T06:47:23.016Z",
+  "content_hash": "421de15886abead5d654ee6e870b1f35969c26c53ac0c83b0f9955b75e978111",
+  "last_updated": "2026-10-06T07:48:17.319Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T06:00:24.000Z"
     },
     {
@@ -22,16 +22,16 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T16:30:49.000Z"
+      "estimated_articles_per_day": 3.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T07:00:07.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T07:01:30.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T07:01:41.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T09:01:14.000Z"
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T07:00:18.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T06:12:09.000Z"
     },
     {
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Hands-On With New GMT-Equipped Tudor Northflag M9140G1A0U Watch",
+      "url": "https://www.ablogtowatch.com/hands-on-with-new-gmt-equipped-tudor-northflag-m9140g1a0u-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Tudor-Northflag-GMT-M9140G1A0U-Watch-6-768x346.jpg",
+      "peek_preview": "I hope it doesn’t become a trend, but for 2026, Tudor released a new watch in the form of the Tudor Northflag M9140G1A0U, outside of the typical Watches & Wonders new product launch period, which has traditionally been...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T07:01:41.000Z",
+      "score_quality": 82,
+      "score_notif": 72,
+      "cluster": "20261005-b55845b319e9",
+      "cluster_main": true
+    },
+    {
+      "title": "Yema gives the Navygraf a 4.5-billion-year-old meteorite dial",
+      "url": "https://timeandtidewatches.com/yema-navygraf-meteorite-cmm10-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-yema-meteorite-cmm10.jpg",
+      "peek_preview": "We get hands-on with the Yema Navygraf Meteorite CMM.10, pairing a 39mm titanium case with a striking meteorite dial and manufacture movement. The post Yema gives the Navygraf a 4.5-billion-year-old meteorite dial appea...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T07:00:18.000Z",
+      "score_quality": 80,
+      "score_notif": 64,
+      "cluster": "20261006-c8cb5614c476",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Frederique Constant Presents the 2026 Edition of The Elements Collection",
+      "url": "https://monochrome-watches.com/frederique-constant-presents-the-2026-edition-of-the-elements-collection-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Frederique-Constant-The-Elements-Collection-2026-Classic-Moonphase-Date-Manufacture-Onyx-Tourbillon-Manufacture-Heliotrope-Perpetual-Calendar-Manufacture-Turquoise-1-600x237.jpg",
+      "peek_preview": "Frederique Constant has released the 2026 edition of The Elements Collection, an annual collector’s box set comprising three timepieces, each distinguished by a rare mineral dial. Presented in steel cases from the Class...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T07:00:07.000Z",
+      "score_quality": 78,
+      "score_notif": 61,
+      "cluster": "20261006-983d79442048",
+      "cluster_main": true
+    },
+    {
       "title": "Come nascono i quadranti Glashütte Original: il carattere sassone prende forma",
       "url": "https://www.orologidiclasse.com/come-nascono-quadranti-glashutte-original/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/glashutte-original-quadrante-verde-applicazione-indici.jpg",
@@ -201,7 +243,7 @@
       "score_quality": 78,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Christopher Ward C1 Jump Hour XV : 15 ans d’heures sautantes",
@@ -215,7 +257,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261001-ba6f6a617b45",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Covert Release: The Seiko 5 Sports Field HDB001 And HDB002 GMTs",
@@ -271,7 +313,7 @@
       "score_quality": 83,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
@@ -311,9 +353,9 @@
       "featured": false,
       "published_at": "2026-10-05T19:00:03.000Z",
       "score_quality": 76,
-      "score_notif": 24,
+      "score_notif": 72,
       "cluster": "20261005-b55845b319e9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Dueling Dials: Omega’s James Bond and Spectre Seamasters",
@@ -355,7 +397,7 @@
       "score_quality": 84,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
@@ -425,7 +467,7 @@
       "score_quality": 84,
       "score_notif": 83,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Choosing Between Good And Evil: The Omega Seamaster Diver 300M James Bond And Spectre Collection",
@@ -481,7 +523,7 @@
       "score_quality": 89,
       "score_notif": 83,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
@@ -549,7 +591,7 @@
       "featured": false,
       "published_at": "2026-10-05T07:01:02.000Z",
       "score_quality": 74,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261005-4b9fc32d01e3",
       "cluster_main": true
     },
@@ -563,7 +605,7 @@
       "featured": false,
       "published_at": "2026-10-05T07:00:52.000Z",
       "score_quality": 81,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261005-78be6bbeb7bd",
       "cluster_main": true
     },
@@ -1041,7 +1083,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1282,20 +1324,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – Hanhart Officially Puts Steve McQueen’s Name on the 417 ES Chronograph",
-      "url": "https://monochrome-watches.com/hanhart-417-es-steve-mcqueen-limited-edition-no-1-official-partnership-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Hanhart-417-ES-Steve-McQueen-Limited-Edition-no1-review-1-600x237.jpg",
-      "peek_preview": "Two watches are often associated with Steve McQueen: the Heuer Monaco worn during the Le Mans movie and a Rolex Submariner that became part of his off-screen image. But “the King of Cool” had a much broader relationship...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T08:01:04.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261002-07fb6cf05945",
-      "cluster_main": true
-    },
-    {
       "title": "Hanhart Revisits Steve McQueen’s Personal Chronograph",
       "url": "https://watchesbysjx.com/2026/10/hanhart-417-steve-mcqueen.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Hanhart-417-ES-Steve-McQueen-3x2-centred-header-300x200.jpg",
@@ -1307,7 +1335,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Girard-Perregaux presenta il Laureato Chronograph “Azzurro” alla Milano Watch Week",
@@ -1447,7 +1475,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1517,7 +1545,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261001-ba6f6a617b45",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Bamford London D-300 Takes The Brand Below The Waves For The First Time In Ceramic Style",
@@ -1545,7 +1573,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1573,20 +1601,6 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261001-85a3754ce77d",
-      "cluster_main": true
-    },
-    {
-      "title": "Norqain introduces titanium to its Wild One collection with three new models",
-      "url": "https://timeandtidewatches.com/norqain-introduces-titanium-to-its-wild-one-collection-with-three-new-models/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-norqain-wild-one-titanium-collection-1.webp",
-      "peek_preview": "Norqain releases three new Wild One models with a top plate, centre container, and optional pin-buckle in grade 5 titanium. The three models include two skeletonised models in 39mm and 42mm and a meteorite dial model in...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T12:00:48.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261001-c716f755d99a",
       "cluster_main": true
     },
     {
@@ -1671,7 +1685,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -1699,7 +1713,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -1713,7 +1727,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -1727,7 +1741,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
@@ -1741,7 +1755,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
@@ -1755,7 +1769,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Watch Art Grand Exhibition Milano 2026: tutte le novità e i capolavori creati per l’Italia",
@@ -1839,20 +1853,6 @@
       "score_quality": 60,
       "score_notif": 24,
       "cluster": "20260930-e0311959ad3e",
-      "cluster_main": true
-    },
-    {
-      "title": "Ianos Introduces the Amfivios, a Civilian Version of their Military Issued Dive Watch",
-      "url": "https://wornandwound.com/ianos-introduces-the-amfivios-a-civilian-version-of-their-military-issued-dive-watch/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Ianos-Amfivios-11.jpg",
-      "peek_preview": "We’ve been saying it for years, but one of the things that makes the microbrand and small independent scene so exciting is that there is truly a watch for everyone. It’s a playing field that allows makers to be incredib...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-30T17:00:51.000Z",
-      "score_quality": 72,
-      "score_notif": 31,
-      "cluster": "20260930-7a15eeae65ad",
       "cluster_main": true
     }
   ]
