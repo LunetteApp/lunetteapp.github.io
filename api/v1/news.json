@@ -1,6 +1,6 @@
 {
-  "content_hash": "2b2cba63e68d877dd531f519f8117ee161a8d508e1697e59495757532d8c623c",
-  "last_updated": "2026-10-06T15:48:26.182Z",
+  "content_hash": "f333da542a59260bb933eeae549d0d17ff77d2d9e4429abbb098dc19d3005f9e",
+  "last_updated": "2026-10-06T16:48:27.946Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T14:01:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T16:00:41.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T14:00:16.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T15:45:11.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T15:00:00.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Introducing – American Indie Watchmaker RGM Releases the Perpetual Calendar Model 501-PC",
+      "url": "https://monochrome-watches.com/rgm-perpetual-calendar-model-501-pc-american-indie-watchmaker-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/RGM-Perpetual-Calendar-Model-501-PC-American-Independent-Watchmaker-1-600x237.jpg",
+      "peek_preview": "RGM Watch Company, the American independent watchmaker based in Pennsylvania, is bringing the perpetual calendar complication back into its collection with the new Model 501-PC, marking the company’s first watch with th...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T16:00:41.000Z",
+      "score_quality": 83,
+      "score_notif": 68,
+      "cluster": "20261006-af10b6ba2f2b",
+      "cluster_main": true
+    },
+    {
       "title": "Favre-Leuba Watches: Reviewing the Historic Watchmaker's Current Collection",
       "url": "https://teddybaldassarre.com/blogs/watches/favre-leuba-watches-review",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Favre-Leuba-Bathy-vintage-2.jpg?v=1791218911",
@@ -229,12 +243,12 @@
       "score_quality": 73,
       "score_notif": 31,
       "cluster": "20261001-f6e3e39e782b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Limited-Edition Diatom Inner Worlds Watch Collection Brings Space-Flown Pieces Of The Solar System To The Wrist",
       "url": "https://www.ablogtowatch.com/the-limited-edition-diatom-inner-worlds-watch-collection-brings-space-flown-pieces-of-the-solar-system-to-the-wrist/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Diatom-Inner-Worlds-LOR-Crop-1-768x346.jpg",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Diatom-Inner-Worlds-SP-FI-768x346.jpg",
       "peek_preview": "Even in a watchmaking world filled with rare, exotic materials, nothing is as rare or exotic as elements sourced from outer space. The young, scientifically-minded watch brand Diatom goes even further, not only crafting...",
       "source_name": "aBlogtoWatch",
       "lang": "en",
@@ -327,7 +341,7 @@
       "score_quality": 78,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Intervista a Thierry Stern: Patek Philippe tra tradizione e futuro alla Watch Art Milano 2026",
@@ -509,7 +523,7 @@
       "score_quality": 83,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
@@ -663,7 +677,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Choosing Between Good And Evil: The Omega Seamaster Diver 300M James Bond And Spectre Collection",
@@ -719,7 +733,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
@@ -1096,8 +1110,8 @@
       "published_at": "2026-10-03T11:03:19.000Z",
       "score_quality": 27,
       "score_notif": 24,
-      "cluster": "20261003-6598756318a8",
-      "cluster_main": true
+      "cluster": "20261002-30f460bc0fe2",
+      "cluster_main": false
     },
     {
       "title": "Gallet relaunch explained: More affordable Breitling-backed tool watches | House of Brands Ep. 2",
@@ -1126,20 +1140,6 @@
       "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
       "cluster_main": false
-    },
-    {
-      "title": "The Petrolhead Corner – The Jensen Interceptor is Back, with a Bang",
-      "url": "https://monochrome-watches.com/the-petrolhead-corner-jensen-international-automotive-interceptor-gtx-gtr-gt/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-Jensen-International-Automotive-Interceptor-GTX-Featured-600x237.jpg",
-      "peek_preview": "Few cars have the timeless demeanour the Jensen Interceptor has. It is considered one of the coolest and most unique British GT cars ever made, with V8 power from Chrysler and a unique shape penned by Carrozzeria Tourin...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-03T08:35:45.000Z",
-      "score_quality": 10,
-      "score_notif": 4,
-      "cluster": "20261003-6547e0b446ec",
-      "cluster_main": true
     },
     {
       "title": "Piecing it Together: The Dennison ALD Elements brings 1970s glamour to the wrist",
@@ -1601,7 +1601,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1643,7 +1643,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Porsche Design launches Chronograph 1 Utility, the second instalment of its collaboration trilogy with Hodinkee",
@@ -1657,7 +1657,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Christopher Ward C1 Jump Hour XV brings its first complication into the atelier era",
@@ -1699,7 +1699,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1769,7 +1769,7 @@
       "score_quality": 74,
       "score_notif": 31,
       "cluster": "20261001-f6e3e39e782b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I’ve Watched Hublot Defy Convention For 40 Years; Then Came Jeff Koons",
@@ -1838,8 +1838,8 @@
       "published_at": "2026-10-01T09:02:54.000Z",
       "score_quality": 79,
       "score_notif": 34,
-      "cluster": "20261001-6c723f2de80d",
-      "cluster_main": true
+      "cluster": "20260925-f57dbec40bf9-2",
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
