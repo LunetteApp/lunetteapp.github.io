@@ -1,6 +1,6 @@
 {
-  "content_hash": "f4cc501a51734d57cb2c05e70e04e0506611d931694d033ce05c513eb428483f",
-  "last_updated": "2026-10-06T17:47:59.952Z",
+  "content_hash": "46192d568ddd36383c2fb4a397fb35ed5d000df7f8ca9792cc439e5e7b20bec5",
+  "last_updated": "2026-10-06T18:47:41.247Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T14:00:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T18:00:29.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T16:00:41.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T18:00:10.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T15:45:11.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T18:16:26.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T17:00:00.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T20:20:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T18:06:44.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,62 @@
   ],
   "items": [
     {
+      "title": "The Imaginative (And Literal) Seiko Panda Lovers Chronograph Becomes A Reality",
+      "url": "https://teddybaldassarre.com/blogs/watches/seiko-panda",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko_Panda_Watch_2.jpg?v=1791307227",
+      "peek_preview": "The Seiko Power Design Project initiative is the brand’s vehicle for letting its designers go wild, but few of the concepts unveiled at the related exhibitions rarely get made into watches that can be, well, purchased....",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T18:16:26.000Z",
+      "score_quality": 74,
+      "score_notif": 70,
+      "cluster": "20261006-2822e51b1fba",
+      "cluster_main": false
+    },
+    {
+      "title": "From the Editor: Armin Strom Tribute³ Au750—Eight Pieces, Solid Gold Bridges, and Three Different Guilloché Patterns",
+      "url": "https://www.watchcollectinglifestyle.com/home/armin-strom-tribute-3-au750-guilloche-watch",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791306900479-S8BG0K10ST23THKQHBS8/Armin+Strom+Tribute%C2%B3+Au750.jpg?format=1500w",
+      "peek_preview": "I have been collecting watches for over 36 years, and I rarely say this about a limited edition, but the new Armin Strom Tribute³ Au750 is one of the best releases the brand has ever made—of course, after my beloved WCL...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T18:06:44.000Z",
+      "score_quality": 57,
+      "score_notif": 34,
+      "cluster": "20261002-1b93e64ea058",
+      "cluster_main": false
+    },
+    {
+      "title": "Hamilton Introduces the American Classic Cushion Mechanical",
+      "url": "https://wornandwound.com/hamilton-introduces-the-american-classic-cushion-mechanical/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Hamilton-Cushion-59.jpg",
+      "peek_preview": "We’re at an interesting time when it comes to the dialogue in the watch community on vintage inspired watches. Watches that make explicit references to the past are simply less common now than they were a decade ago, or...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T18:00:29.000Z",
+      "score_quality": 78,
+      "score_notif": 33,
+      "cluster": "20261001-b485214a755d",
+      "cluster_main": false
+    },
+    {
+      "title": "Interview – Thierry Stern on Heritage, Craftsmanship, and the Future of Patek Philippe",
+      "url": "https://monochrome-watches.com/interview-thierry-stern-on-heritage-craftsmanship-and-the-future-of-patek-philippe-watch-art-grand-exhibition-milan-2026/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-interview-Thierry-Stern-on-Heritage-Craftsmanship-and-the-Future-of-Patek-Philippe-Patek-Philippe-Watch-Art-Grand-Exhibition-Milan-600x237.jpeg",
+      "peek_preview": "Last Friday, the Patek Philippe Watch Art Grand Exhibition opened its doors in Milan, and at the moment of opening, more than 45,000 people had already registered to visit the exhibition. The Grand Exhibition in Milan i...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T18:00:10.000Z",
+      "score_quality": 88,
+      "score_notif": 44,
+      "cluster": "20261006-a08cd7231dd1",
+      "cluster_main": true
+    },
+    {
       "title": "Auctions: Previewing Marteau’s ‘Encore’ And Antiquorum’s Return To New York, Both This Month",
       "url": "https://www.hodinkee.com/articles/auctions-marteau-antiquorum-oct-2026",
       "image": "https://hodinkee.imgix.net/uploads/images/96c39352-0930-444d-ae8e-9ea95abeb242/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -257,7 +313,7 @@
       "score_quality": 73,
       "score_notif": 31,
       "cluster": "20261001-f6e3e39e782b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Limited-Edition Diatom Inner Worlds Watch Collection Brings Space-Flown Pieces Of The Solar System To The Wrist",
@@ -355,7 +411,7 @@
       "score_quality": 78,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Intervista a Thierry Stern: Patek Philippe tra tradizione e futuro alla Watch Art Milano 2026",
@@ -367,9 +423,9 @@
       "featured": false,
       "published_at": "2026-10-06T10:20:23.000Z",
       "score_quality": 82,
-      "score_notif": 47,
+      "score_notif": 44,
       "cluster": "20261006-a08cd7231dd1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fratello On Air: Are You Safe Online As A Watch Collector?",
@@ -537,7 +593,7 @@
       "score_quality": 83,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
@@ -621,7 +677,7 @@
       "score_quality": 84,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
@@ -1058,20 +1114,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – Raymond Weil Marks 50 Years Again, with a More Accessible Millesime Jubilee Chronograph Automatic",
-      "url": "https://monochrome-watches.com/raymond-weil-marks-50-years-again-with-a-more-accessible-millesime-jubilee-chronograph-automatic-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Raymond-Weil-Millesime-Jubilee-Chronograph-Automatic-50th-Anniversary-1-600x237.jpg",
-      "peek_preview": "Born in 1976, Raymond Weil has been celebrating its 50th anniversary throughout 2026. Following the launch of The Fifty at Watches & Wonders, the Geneva-based, independent, family-owned brand continues the story with th...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-03T14:00:38.000Z",
-      "score_quality": 82,
-      "score_notif": 32,
-      "cluster": "20261003-d83498914847",
-      "cluster_main": true
-    },
-    {
       "title": "Grönefeld 1941 Quadrivium: Remontoire, Flying Tourbillon And Jumping Seconds",
       "url": "https://deployant.com/gronefeld-1941-quadrivium/?utm_source=rss&utm_medium=rss&utm_campaign=gronefeld-1941-quadrivium",
       "image": "https://deployant.com/wp-content/uploads/2026/10/gronefeld-wrist.jpg",
@@ -1124,8 +1166,8 @@
       "published_at": "2026-10-03T11:03:19.000Z",
       "score_quality": 27,
       "score_notif": 24,
-      "cluster": "20261003-6598756318a8",
-      "cluster_main": true
+      "cluster": "20261002-30f460bc0fe2",
+      "cluster_main": false
     },
     {
       "title": "Gallet relaunch explained: More affordable Breitling-backed tool watches | House of Brands Ep. 2",
@@ -1265,7 +1307,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1362,7 +1404,7 @@
       "published_at": "2026-10-02T14:13:10.000Z",
       "score_quality": 81,
       "score_notif": 34,
-      "cluster": "20261001-f09c2c0441ee",
+      "cluster": "20261002-8416d5611bbc",
       "cluster_main": true
     },
     {
@@ -1615,7 +1657,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1713,7 +1755,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1783,7 +1825,7 @@
       "score_quality": 74,
       "score_notif": 31,
       "cluster": "20261001-f6e3e39e782b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "I’ve Watched Hublot Defy Convention For 40 Years; Then Came Jeff Koons",
@@ -1812,48 +1854,6 @@
       "score_notif": 34,
       "cluster": "20261001-8872e7915562",
       "cluster_main": true
-    },
-    {
-      "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
-      "url": "https://watchesbysjx.com/2026/10/patek-philippe-rare-handcrafts-milan-2026.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Patek-Philippe-RHC-Milan-2026-3x2-header-1-300x200.jpg",
-      "peek_preview": "It was just a few months ago that Patek Philippe unveiled a wide range of Rare Handcrafts at its Geneva salon, but that hasn’t stopped the brand from releasing another full slate of Dome Clocks, pocket watches, and wris...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:10:20.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261001-0050ad3b3045",
-      "cluster_main": true
-    },
-    {
-      "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
-      "url": "https://watchesbysjx.com/2026/10/patek-philippe-watch-art-grand-exhibition-milan-limited-editions.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Patek-Philippe-Calatrava-Minute-Repeater-7047-Milan-2026-3x2-centred-header-300x200.jpg",
-      "peek_preview": "Patek Philippe has just unveiled a suite of new limited editions for the Italian market, which make their debut at Watch Art Grand Exhibition Milano 2026. While the showstopper is the instantaneous perpetual calendar ch...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:02:54.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261001-6c723f2de80d",
-      "cluster_main": true
-    },
-    {
-      "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
-      "url": "https://watchesbysjx.com/2026/10/patek-philippe-5978p-perpetual-calendar-chronograph.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Patek-Philippe-Instantaneous-Perpetual-Calendar-Chronograph-5978P-Milan-2-300x200.jpg",
-      "peek_preview": "Patek Philippe’s Watch Art Grand Exhibition has just opened in Milan, and the flagship new release is the Instantaneous Perpetual Calendar Chronograph ref. 5978P-010, which combines the calendar system from the Grand Co...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:00:51.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
     }
   ]
 }
