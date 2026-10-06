@@ -1,6 +1,6 @@
 {
-  "content_hash": "c5ffc6c536d30c2802e686abd13089f855c69c8ffe8f2c4528b44d5c2b46f269",
-  "last_updated": "2026-10-06T11:47:21.568Z",
+  "content_hash": "e637e307ea03bb93385ea20f9be14a51bebc7ce8f4154a8eaa7d08d9a6d83d56",
+  "last_updated": "2026-10-06T12:47:41.946Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T10:07:14.000Z"
+      "estimated_articles_per_day": 3.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T12:00:09.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T11:00:57.000Z"
     },
     {
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T10:20:23.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "The Toledano & Chan Oshinobi Hides Its Secret In Plain Sight",
+      "url": "https://www.fratellowatches.com/the-toledano-chan-oshinobi-hides-its-secret-in-plain-sight/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Toledano__Chan_Oshinobi-1-scaled.jpg",
+      "peek_preview": "Toledano & Chan has carved out a nice little niche in the watch industry. In a universe dominated by familiarity, the young brand is not afraid to walk a different path. It’s a path defined by creativity and pushing des...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T12:00:09.000Z",
+      "score_quality": 69,
+      "score_notif": 61,
+      "cluster": "20261006-4aee5e4ef1c1",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – IWC Goes Golfing with a New Olive Green Pilot’s Watch Chronograph 43",
       "url": "https://monochrome-watches.com/iwc-pilots-watch-chronograph-43-olive-green-iw378008-golf-alfred-dunhill-links-championship-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/IWC-Pilot-Watch-Chronograph-43-Olive-Green-Dial-IW378008-Alfred-Dunhill-Links-Championship-Golf-1-600x237.jpg",
@@ -201,7 +215,7 @@
       "score_quality": 78,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Intervista a Thierry Stern: Patek Philippe tra tradizione e futuro alla Watch Art Milano 2026",
@@ -383,7 +397,7 @@
       "score_quality": 83,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
@@ -1002,20 +1016,6 @@
       "cluster_main": false
     },
     {
-      "title": "It Doesn’t Get Any Better: Hands-On With The Albishorn Type X-Graph",
-      "url": "https://www.fratellowatches.com/hands-on-albishorn-type-x-graph/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Albishorn-Type-X-Graph-10.jpg",
-      "peek_preview": "It was April 2024 when I saw some of the Albishorn models — prototypes at that stage — for the first time. At Watches and Wonders, it’s easy to get watch overload already on the first day. I remember sitting at the tabl...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-03T09:00:06.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261003-fcb71305bb08",
-      "cluster_main": true
-    },
-    {
       "title": "The Petrolhead Corner – The Jensen Interceptor is Back, with a Bang",
       "url": "https://monochrome-watches.com/the-petrolhead-corner-jensen-international-automotive-interceptor-gtx-gtr-gt/",
       "image": "https://monochrome-watches.com/app/uploads/2026/09/2026-Jensen-International-Automotive-Interceptor-GTX-Featured-600x237.jpg",
@@ -1251,7 +1251,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido Celebrates Día De Los Muertos With A Special Multifort TV Big Date",
@@ -1265,7 +1265,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1349,7 +1349,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Revisits Steve McQueen’s Personal Chronograph",
@@ -1363,7 +1363,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Girard-Perregaux presenta il Laureato Chronograph “Azzurro” alla Milano Watch Week",
@@ -1783,7 +1783,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Watch Art Grand Exhibition Milano 2026: tutte le novità e i capolavori creati per l’Italia",
@@ -1811,7 +1811,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
