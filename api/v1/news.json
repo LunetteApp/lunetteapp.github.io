@@ -1,6 +1,6 @@
 {
-  "content_hash": "421de15886abead5d654ee6e870b1f35969c26c53ac0c83b0f9955b75e978111",
-  "last_updated": "2026-10-06T07:48:17.319Z",
+  "content_hash": "11d8a85477ad5a373e1be2edf2643038ab7a88e42f056b323b99105844663f6d",
+  "last_updated": "2026-10-06T08:47:26.883Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T07:00:07.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T07:01:41.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T07:00:18.000Z"
     },
     {
@@ -92,9 +92,9 @@
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
-      "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-28T22:25:39.000Z"
+      "estimated_articles_per_day": 0.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-05T08:20:16.000Z"
     },
     {
       "source_name": "Watch Insanity",
@@ -243,7 +243,7 @@
       "score_quality": 78,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward C1 Jump Hour XV : 15 ans d’heures sautantes",
@@ -313,7 +313,7 @@
       "score_quality": 83,
       "score_notif": 70,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
@@ -367,7 +367,7 @@
       "featured": false,
       "published_at": "2026-10-05T17:02:17.000Z",
       "score_quality": 74,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
     },
@@ -397,7 +397,7 @@
       "score_quality": 84,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
@@ -451,7 +451,7 @@
       "featured": false,
       "published_at": "2026-10-05T11:00:00.000Z",
       "score_quality": 74,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
     },
@@ -465,9 +465,9 @@
       "featured": false,
       "published_at": "2026-10-05T10:01:17.000Z",
       "score_quality": 84,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Choosing Between Good And Evil: The Omega Seamaster Diver 300M James Bond And Spectre Collection",
@@ -479,7 +479,7 @@
       "featured": false,
       "published_at": "2026-10-05T10:00:43.000Z",
       "score_quality": 78,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
     },
@@ -493,7 +493,7 @@
       "featured": false,
       "published_at": "2026-10-05T10:00:26.000Z",
       "score_quality": 74,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
     },
@@ -507,7 +507,7 @@
       "featured": false,
       "published_at": "2026-10-05T10:00:03.000Z",
       "score_quality": 75,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
     },
@@ -521,9 +521,9 @@
       "featured": false,
       "published_at": "2026-10-05T10:00:00.000Z",
       "score_quality": 89,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
@@ -535,7 +535,7 @@
       "featured": false,
       "published_at": "2026-10-05T10:00:00.000Z",
       "score_quality": 64,
-      "score_notif": 83,
+      "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
     },
@@ -563,7 +563,21 @@
       "featured": false,
       "published_at": "2026-10-05T09:01:14.000Z",
       "score_quality": 71,
-      "score_notif": 83,
+      "score_notif": 34,
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
+    },
+    {
+      "title": "OMEGA Seamaster Diver 300M James Bond e Spectre: i due volti di 007",
+      "url": "https://www.perpetualpassion.com/2026/10/05/omega-seamaster-diver-300m-james-bond-spectre/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/210.30.42.20.01.023_BondSpectre_ADV_SE_Wristshot_4_5_RVB-scaled.jpg",
+      "peek_preview": "Sei orologi, due identità e una base tecnica comune. OMEGA presenta la collezione Seamaster Diver 300M James Bond [...] L'articolo OMEGA Seamaster Diver 300M James Bond e Spectre: i due volti di 007 proviene da PERPETUA...",
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-05T08:20:16.000Z",
+      "score_quality": 60,
+      "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
     },
@@ -1083,7 +1097,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1698,8 +1712,8 @@
       "published_at": "2026-10-01T09:10:20.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster": "20261001-0050ad3b3045",
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Patek Philippe Reference 5978P – A Brand New Perpetual Calendar Chronograph! (Live Pics)",
@@ -1713,7 +1727,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -1727,7 +1741,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
@@ -1755,7 +1769,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
@@ -1769,7 +1783,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Watch Art Grand Exhibition Milano 2026: tutte le novità e i capolavori creati per l’Italia",
@@ -1839,20 +1853,6 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20260930-f203ff1ad731",
-      "cluster_main": true
-    },
-    {
-      "title": "Collecting: the Records Explain the Watches",
-      "url": "https://wornandwound.com/collecting-the-records-explain-the-watches/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Moving-records-editorial-2.jpg",
-      "peek_preview": "If you follow me on Instagram, or if you know me in the real world, you’re probably aware that I’m currently in the uncomfortable but exciting process of packing up my life into a neverending series of cardboard boxes,...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-30T20:00:41.000Z",
-      "score_quality": 60,
-      "score_notif": 24,
-      "cluster": "20260930-e0311959ad3e",
       "cluster_main": true
     }
   ]
