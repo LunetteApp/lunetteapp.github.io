@@ -1,6 +1,6 @@
 {
-  "content_hash": "7f56e82ddd1aa7555c41dd4c995844ee19821cf6fee332ece6d982ac7e7719b0",
-  "last_updated": "2026-10-05T22:45:50.805Z",
+  "content_hash": "8be566efb1b8f4c16fafcdde75c36e6863f27a7e924239c7f1b8df7370ffebbd",
+  "last_updated": "2026-10-06T00:47:20.720Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T09:30:50.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T00:00:47.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
+      "url": "https://www.webchronos.net/news/174977/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/BG_1.webp",
+      "peek_preview": "ブレゲより「マリーン 5517」の新作が発表された。ブランド創業250周年を記念して誕生したケ・ド・ロルロージュモチーフのギヨシェ装飾をダイアルに採用し、日付表示を6時位置に配している。18Kホワイトゴールドケース、18 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-06T00:00:47.000Z",
+      "score_quality": 58,
+      "score_notif": 64,
+      "cluster": "20261006-183f6fdeb629",
+      "cluster_main": true
+    },
     {
       "title": "Insider: David Candaux DC6 Wildfire—The Inclined Tourbillon and Movement Set Ablaze",
       "url": "https://www.watchcollectinglifestyle.com/home/david-candaux-dc6-wildfire-tourbillon-review-price",
@@ -243,7 +257,7 @@
       "score_quality": 84,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
@@ -507,7 +521,7 @@
       "featured": false,
       "published_at": "2026-10-05T00:00:26.000Z",
       "score_quality": 68,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261005-8e6e576fd0ac",
       "cluster_main": true
     },
@@ -551,7 +565,7 @@
       "score_quality": 52,
       "score_notif": 34,
       "cluster": "20261002-f78d379781eb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Buying Guide – Battling Scratches, With Five Cool Ceramic Watches",
@@ -733,7 +747,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Am I Buying Microbrands All Wrong?",
@@ -929,7 +943,7 @@
       "score_quality": 80,
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1041,7 +1055,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido Celebrates Día De Los Muertos With A Special Multifort TV Big Date",
@@ -1293,7 +1307,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261002-f78d379781eb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "アイクポッドが名作のDNAを受け継ぐ新作レクタンギュラーウォッチ「ミニポッド」全8モデルを発表",
@@ -1321,20 +1335,6 @@
       "score_quality": 77,
       "score_notif": 30,
       "cluster": "20261002-19e50d5610b2",
-      "cluster_main": true
-    },
-    {
-      "title": "オーデマ ピゲが「ロイヤル オーク ジュエリー コレクション」を発表。アイコニックなブレスレットをまとう",
-      "url": "https://www.webchronos.net/news/174524/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/ap_jewelly_top.webp",
-      "peek_preview": "オーデマ ピゲは新たに「Royal Oak Joaillerie（ロイヤル オーク ジュエリー）」コレクションを発表した。本作は八角形のベゼルや、ケースとブレスレットが優美につながるフォルムといったアイコニックな意匠を持 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-01T22:00:21.000Z",
-      "score_quality": 69,
-      "score_notif": 34,
-      "cluster": "20261001-92e068e509f2",
       "cluster_main": true
     },
     {
@@ -1391,7 +1391,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1433,7 +1433,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Porsche Design launches Chronograph 1 Utility, the second instalment of its collaboration trilogy with Hodinkee",
@@ -1447,7 +1447,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Christopher Ward C1 Jump Hour XV brings its first complication into the atelier era",
@@ -1489,7 +1489,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1615,7 +1615,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Patek Philippe Captures Italian Splendour in Enamel and Marquetry",
@@ -1643,21 +1643,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-f09c2c0441ee",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Patek Philippe gives the Ladies First a colorful, gemstone-focused refresh with the Gondolo—and a new way of thinking about women's watches.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:04:00.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261001-c6c60f5d1867",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Patek Philippe Launches Six More Limited Editions With Two New References In Milan",
@@ -1671,7 +1657,21 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Patek Philippe gives the Ladies First a colorful, gemstone-focused refresh with the Gondolo—and a new way of thinking about women's watches.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T09:04:00.000Z",
+      "score_quality": 81,
+      "score_notif": 34,
+      "cluster": "20261001-c6c60f5d1867",
+      "cluster_main": true
     },
     {
       "title": "Complicated Calatravas Headline Patek Philippe Watch Art Grand Exhibition Milano 2026",
@@ -1713,7 +1713,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido Multifort TV Big Date Día De Los Muertos Alebrijes: La Prova dal Vivo",
@@ -1769,7 +1769,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261001-4e32206aac09",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
