@@ -1,6 +1,6 @@
 {
-  "content_hash": "e637e307ea03bb93385ea20f9be14a51bebc7ce8f4154a8eaa7d08d9a6d83d56",
-  "last_updated": "2026-10-06T12:47:41.946Z",
+  "content_hash": "a5406e6d4beaea8aad853facced6952edcc1da94547bd68efb095801d8b98bbe",
+  "last_updated": "2026-10-06T13:48:39.206Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T12:00:09.000Z"
     },
     {
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T03:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T09:01:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-06T13:22:45.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Seiko Power Design Project: Panda Chronograph",
+      "url": "https://deployant.com/seiko-power-design-project-panda-chronograph/?utm_source=rss&utm_medium=rss&utm_campaign=seiko-power-design-project-panda-chronograph",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/Main_Visual_SASAMETER_for-deployant.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Seiko releases a new chronograph which actually look like a panda, complete with droopy eyes for the black sub-dials, and black ears acting as pushers. This l...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T13:30:00.000Z",
+      "score_quality": 58,
+      "score_notif": 70,
+      "cluster": "20261006-2822e51b1fba",
+      "cluster_main": false
+    },
+    {
+      "title": "Patek Philippe Watch Art Grand Exhibition 2026: Ausflug in die Welt von Patek Philippe",
+      "url": "https://www.uhrenkosmos.com/patek-philippe-watch-art-grand-exhibition-2026/",
+      "image": "https://www.youtube.com/embed/P5YSw7iC4aM",
+      "peek_preview": "Archivschätze, historische Uhren, ganze Generationen von Kalibern und seltene Handwerkskünste: Die Watch Art Grand Exhibition 2026 in Mailand ist die bislang größte Wanderausstellung von Patek Philippe.",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-06T13:22:45.000Z",
+      "score_quality": 70,
+      "score_notif": 34,
+      "cluster": "20260925-f57dbec40bf9-2",
+      "cluster_main": false
+    },
+    {
+      "title": "Happenings: The Horological Society Of New York To Hold Classes In Boston and Los Angeles",
+      "url": "https://www.hodinkee.com/articles/the-horological-society-of-new-york-to-hold-classes-in-boston-and-los-angeles",
+      "image": "https://hodinkee.imgix.net/uploads/images/4028f5bb-4a40-4cab-ac9c-b2e413c33d29/herote.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "These next classes will be hosted by Shreve, Crump & Low and F.P.Journe.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T13:00:00.000Z",
+      "score_quality": 54,
+      "score_notif": 27,
+      "cluster": "20261006-a1530e5e502d",
+      "cluster_main": true
+    },
     {
       "title": "The Toledano & Chan Oshinobi Hides Its Secret In Plain Sight",
       "url": "https://www.fratellowatches.com/the-toledano-chan-oshinobi-hides-its-secret-in-plain-sight/",
@@ -521,7 +563,7 @@
       "featured": false,
       "published_at": "2026-10-05T13:30:00.000Z",
       "score_quality": 76,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261005-734f09fcc4b2",
       "cluster_main": true
     },
@@ -551,7 +593,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Choosing Between Good And Evil: The Omega Seamaster Diver 300M James Bond And Spectre Collection",
@@ -607,7 +649,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
@@ -1013,7 +1055,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Petrolhead Corner – The Jensen Interceptor is Back, with a Bang",
@@ -1265,7 +1307,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1349,7 +1391,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Revisits Steve McQueen’s Personal Chronograph",
@@ -1503,7 +1545,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1545,7 +1587,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Porsche Design launches Chronograph 1 Utility, the second instalment of its collaboration trilogy with Hodinkee",
@@ -1559,7 +1601,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261001-ff7b28460f25",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Christopher Ward C1 Jump Hour XV brings its first complication into the atelier era",
@@ -1601,7 +1643,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
@@ -1698,7 +1740,7 @@
       "published_at": "2026-10-01T09:15:36.000Z",
       "score_quality": 78,
       "score_notif": 34,
-      "cluster": "20261001-c6c60f5d1867",
+      "cluster": "20261001-8872e7915562",
       "cluster_main": true
     },
     {
@@ -1741,20 +1783,6 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Patek Philippe Revisits The Ladies First With The New Gondolo (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/patek-philippe-revisits-the-ladies-first-with-the-new-gondolo-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/8fb36aee-a09c-4891-82ed-4748661e53a2/Gondolo-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Patek Philippe gives the Ladies First a colorful, gemstone-focused refresh with the Gondolo—and a new way of thinking about women's watches.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:04:00.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261001-c6c60f5d1867",
       "cluster_main": false
     },
     {
@@ -1769,7 +1797,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe’s Ref. 5978P is Instantaneous Perpetual and Chronograph",
@@ -1811,7 +1839,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "In Memoriam: Günter Blümlein – 25 Years On, The Legend Remains Unforgotten",
@@ -1825,34 +1853,6 @@
       "score_quality": 74,
       "score_notif": 27,
       "cluster": "20261001-44f86f935f0a",
-      "cluster_main": true
-    },
-    {
-      "title": "In-Depth: 200 Odd Years of Hacking Tourbillons",
-      "url": "https://watchesbysjx.com/2026/10/hacking-tourbillon-history.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/09/Hacking-Tourbillon-Feat-300x200.jpg",
-      "peek_preview": "Conventional wisdom holds that stopping a tourbillon for precise time setting (“hacking” in watchmaking parlance) is a difficult endeavour given the constant rotation of the cage. The hacking tourbillon wristwatch didn’...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T01:00:01.000Z",
-      "score_quality": 89,
-      "score_notif": 24,
-      "cluster": "20261001-4f10d8435de4",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: Artisans de Genève Neon Rolex Daytona—Up Close With the Manual-Wound Unique Piece Inspired by Adam Levine's Neon",
-      "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-neon-rolex-daytona-manual-wound-yellow-gold",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790807359943-ZW40IWMX1CC84J2CJ8KE/Artisans+de+Gene%CC%80ve+Daytona+Neon-11.jpg?format=1500w",
-      "peek_preview": "When we first covered the Artisans de Genève Neon created for Adam Levine, it was a commission seen through the workshop's own images: a gold Rolex Cosmograph Daytona reimagined by hand, with a skeletonized calibre and...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-09-30T22:53:06.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20260930-f203ff1ad731",
       "cluster_main": true
     }
   ]
