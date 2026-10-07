@@ -1,6 +1,6 @@
 {
-  "content_hash": "b0578cb7f93a0f5ccc1307faf87db7cf304c8301da3c7103be1cd01b3517966b",
-  "last_updated": "2026-10-07T10:45:57.488Z",
+  "content_hash": "ef24e90d252d8174049fcfb66fdffa0540c2cc5e6cf5125ff83a77db6c27ffcd",
+  "last_updated": "2026-10-07T11:47:40.663Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-07T09:00:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T11:00:09.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-07T07:00:53.000Z"
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T11:42:15.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T07:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T10:49:39.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "The Tissot Supersport NBA turns the shot clock into a surprisingly sleek-looking chronograph",
+      "url": "https://timeandtidewatches.com/tissot-supersport-nba-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-tissot-supersport-nba.jpg",
+      "peek_preview": "Tissot brings basketball to the wrist with the Supersport NBA, featuring a 24-second bezel, court-inspired dial and grey sportswear styling. The post The Tissot Supersport NBA turns the shot clock into a surprisingly sl...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-07T11:42:15.000Z",
+      "score_quality": 66,
+      "score_notif": 63,
+      "cluster": "20261007-0caad4796a23",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On With The DUG Purist Typ 1 And Typ 2",
+      "url": "https://www.fratellowatches.com/hands-on-dug-purist-typ-1-and-typ-2/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/DUG-Purist-40-25.jpg",
+      "peek_preview": "One of the most common complaints in the watch community concerns current pricing. Indeed, the COVID-19 period affected the prices of luxury items. Meet Deutsche Uhrenmanufaktur Glashütte GmbH, or DUG, which claims to b...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-07T11:00:09.000Z",
+      "score_quality": 80,
+      "score_notif": 44,
+      "cluster": "20261007-edec2afa307a",
+      "cluster_main": true
+    },
+    {
+      "title": "Ferragamo Entrelacé: un po’ orologio, un po’ bijou",
+      "url": "https://giornaleorologi.it/2026/10/07/ferragamo-entrelace-un-po-orologio-un-po-bijou/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/Apertura_FERRAGAMO-ENTRELACE-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Ferragamo Entrelacé: un po’ orologio, un po’ bijou Piccolo il quadrante, sottile la cassa, importante il bracciale. Il Ferragamo Entrelacé mette subito in chiaro le gerarchie fra i propri compo...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-07T10:49:39.000Z",
+      "score_quality": 46,
+      "score_notif": 30,
+      "cluster": "20261007-75196ff15a42",
+      "cluster_main": true
+    },
+    {
       "title": "Seiko’s Power Design Project “Panda” Comes to Life",
       "url": "https://watchesbysjx.com/2026/10/seiko-power-design-project-panda-chronograph-hhk001-hhk002.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Seiko-power-design-project-panda-HHK001-HHK002-300x200.jpg",
@@ -187,7 +229,7 @@
       "score_quality": 81,
       "score_notif": 32,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – H. Moser & Cie. Presents Three New Models with its Retrograde Seconds Display",
@@ -355,7 +397,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -382,7 +424,7 @@
       "published_at": "2026-10-06T18:00:10.000Z",
       "score_quality": 88,
       "score_notif": 34,
-      "cluster": "20261006-a08cd7231dd1",
+      "cluster": "20261006-17336414e380",
       "cluster_main": true
     },
     {
@@ -549,7 +591,7 @@
       "featured": false,
       "published_at": "2026-10-06T11:00:57.000Z",
       "score_quality": 77,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261006-c42026db80dd",
       "cluster_main": true
     },
@@ -565,7 +607,7 @@
       "score_quality": 78,
       "score_notif": 32,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Intervista a Thierry Stern: Patek Philippe tra tradizione e futuro alla Watch Art Milano 2026",
@@ -579,7 +621,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261006-a08cd7231dd1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fratello On Air: Are You Safe Online As A Watch Collector?",
@@ -802,8 +844,8 @@
       "published_at": "2026-10-05T17:02:17.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261005-925b5ddebd1f",
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Traska Chronograph Tungsten Gray",
@@ -1055,20 +1097,6 @@
       "score_quality": 26,
       "score_notif": 27,
       "cluster": "20261005-5c6221f04414",
-      "cluster_main": true
-    },
-    {
-      "title": "Beware Of The Shapeshifter: Introducing The 13th Roger Dubuis Excalibur Knights Of The Round Table",
-      "url": "https://www.fratellowatches.com/introducing-the-13th-roger-dubuis-excalibur-knights-of-the-round-table/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Roger-Dubuis-The-Knights-Of-The-Round-Table-Look-Great-In-Green-18.jpg",
-      "peek_preview": "Welcome to a realm where time is told by 12 knights. Introducing the 13th Roger Dubuis Excalibur Knights Of The Round Table, a watch in forest green and, for the first time in the long-running series, a pink gold case a...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-05T05:00:25.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261005-6cc708d0e1ea",
       "cluster_main": true
     },
     {
@@ -1573,7 +1601,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Revisits Steve McQueen’s Personal Chronograph",
@@ -1587,7 +1615,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Girard-Perregaux presenta il Laureato Chronograph “Azzurro” alla Milano Watch Week",
@@ -1615,7 +1643,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Orient Flusso : nouvelle rivale des PRX et Tsuyosa",
@@ -1754,22 +1782,8 @@
       "published_at": "2026-10-01T15:03:27.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261001-ff7b28460f25",
+      "cluster": "20261001-6a317e4d6a3a",
       "cluster_main": true
-    },
-    {
-      "title": "Porsche Design launches Chronograph 1 Utility, the second instalment of its collaboration trilogy with Hodinkee",
-      "url": "https://timeandtidewatches.com/porsche-design-hodinkee-chronograph-1-utility-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-porsche-hodinkee-utility-chronograph-1.jpg",
-      "peek_preview": "Porsche Design joins forces with Hodinkee for another retro, limited-edition chronograph, debuting a COSC-certified Porsche Design WERK 01.340 movement. The post Porsche Design launches Chronograph 1 Utility, the second...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T15:00:36.000Z",
-      "score_quality": 60,
-      "score_notif": 34,
-      "cluster": "20261001-ff7b28460f25",
-      "cluster_main": false
     },
     {
       "title": "The Bamford London D-300 Takes The Brand Below The Waves For The First Time In Ceramic Style",
@@ -1840,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20260925-f57dbec40bf9-2",
       "cluster_main": false
-    },
-    {
-      "title": "Il nuovo TORIC Petite Seconde Morning Blue di Parmigiani Fleurier arriva alla Milano Watch Week",
-      "url": "https://italianwatchspotter.com/toric-morning-blue-di-parmigiani-fleurier/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/TECHNICAL_VISUAL_TORIC_PS_PLT_1-819x1024.jpg",
-      "peek_preview": "In occasione della Milano Watch Week 2026, Parmigiani Fleurier presenta il nuovo TORIC Petite Seconde Platinum Morning Blue. Platino 950, quadrante in oro bianco granato a mano, calibro manuale PF780 in oro rosa. Ore, m...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-01T11:00:00.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261001-a7ab3fe7ccfb",
-      "cluster_main": true
     }
   ]
 }
