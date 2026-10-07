@@ -1,6 +1,6 @@
 {
-  "content_hash": "5cea6cb746da12b1b27a4f2438df4949fb21faae717c4a06c182f091ad6204d1",
-  "last_updated": "2026-10-07T14:45:59.255Z",
+  "content_hash": "abb96754bb28b46876280824c637029002f3c684f8c787cb4ce15d2dd8d5231c",
+  "last_updated": "2026-10-07T16:47:17.908Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T18:00:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T15:59:09.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-07T13:01:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T16:05:42.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.9,
+      "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T05:44:00.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The World’s Smallest & Lightest Triple-Axis Tourbillon, The Peacock Tai Chi Curved Guilloche",
+      "url": "https://monochrome-watches.com/peacock-tai-chi-curved-guilloche-worlds-smallest-lightest-triple-axis-tourbillon-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Peacock-Tai-Chi-Curved-Guilloche-worlds-smallest-lightest-triple-axis-tourbillon-1-600x237.jpg",
+      "peek_preview": "Founded in 1957, Liaoning-based watch manufacturer Peacock certainly has a strong track record, being one of the backbones of industrial watchmaking in the region. And in recent years, as it approaches its 70th annivers...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-07T16:05:42.000Z",
+      "score_quality": 73,
+      "score_notif": 68,
+      "cluster": "20261007-08a7624c87fd",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The Return of the Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
       "url": "https://monochrome-watches.com/jacob-and-co-palatial-flying-tourbillon-minute-repeater-return-2026-updated-review-price/",
@@ -467,7 +481,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -494,7 +508,7 @@
       "published_at": "2026-10-06T18:00:10.000Z",
       "score_quality": 88,
       "score_notif": 34,
-      "cluster": "20261006-a08cd7231dd1",
+      "cluster": "20261006-17336414e380",
       "cluster_main": true
     },
     {
@@ -521,7 +535,7 @@
       "featured": false,
       "published_at": "2026-10-06T16:00:41.000Z",
       "score_quality": 83,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261006-af10b6ba2f2b",
       "cluster_main": true
     },
@@ -691,7 +705,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261006-a08cd7231dd1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fratello On Air: Are You Safe Online As A Watch Collector?",
@@ -957,20 +971,6 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261005-b5b085a86e41",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – Inercy Paris Unveils the All-New Compass Collection",
-      "url": "https://monochrome-watches.com/inercy-paris-compass-collection-swiss-automatic-la-joux-perret-solar-compass-sports-watch-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Inercy-Paris-Compass-Collection-review-3-600x237.jpg",
-      "peek_preview": "A young microbrand based in Paris, Inercy started out with a flying tourbillon at a price that makes the complication accessible to a much wider audience. Introduced in 2023, the One was a 42mm watch with a compass-insp...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-05T14:00:05.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261005-3b4270425c39",
       "cluster_main": true
     },
     {
@@ -1699,7 +1699,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Orient Flusso : nouvelle rivale des PRX et Tsuyosa",
@@ -1839,20 +1839,6 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261001-6a317e4d6a3a",
-      "cluster_main": true
-    },
-    {
-      "title": "The Bamford London D-300 Takes The Brand Below The Waves For The First Time In Ceramic Style",
-      "url": "https://www.ablogtowatch.com/the-bamford-london-d-300-takes-the-brand-below-the-waves-for-the-first-time-in-ceramic-style/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Bamford-London-D-300-LOR-Crop-1-768x346.jpg",
-      "peek_preview": "Distinctive independent British watch brand Bamford London has no shortage of unique, diverse releases in its back catalogue, but the marque has never produced its own dedicated, fully purpose-built diver until now. For...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T14:00:41.000Z",
-      "score_quality": 70,
-      "score_notif": 34,
-      "cluster": "20261001-4f160e25159d",
       "cluster_main": true
     }
   ]
