@@ -1,6 +1,6 @@
 {
-  "content_hash": "72b7544f0374f29aa16818cfc3959c788dad505988075295ec5437ff6f275bda",
-  "last_updated": "2026-10-07T17:48:22.515Z",
+  "content_hash": "5a514d335193e6cea9f48cf6a28d17972e02125f4a3206ebfe5cff7f552460ed",
+  "last_updated": "2026-10-07T18:47:55.170Z",
   "premium": {
     "links": []
   },
@@ -43,15 +43,15 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T18:16:26.000Z"
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T17:56:12.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-07T16:59:53.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-07T17:00:00.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-07T17:08:26.000Z"
     },
     {
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T06:12:09.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T18:00:25.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "H. Moser & Cie. Pioneer, Streamliner, Endeavour: Secondi Retrogradi a Tutto Gas",
+      "url": "https://www.orologidiclasse.com/h-moser-cie-secondi-retrogradi-pioneer-streamliner-endeavour/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/h-moser-cie-pioneer-streamliner-endeavour-secondi-retrogradi.jpg",
+      "peek_preview": "Non è passata una settimana da quando ho scritto del rivoluzionario Off-Grid, e la mente ribelle e fantasiosa di Edouard Meylan fa ancora capolino, ma stavolta rimette un piede, anzi due, nell’Alta Orologeria più tradiz...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-07T18:00:25.000Z",
+      "score_quality": 74,
+      "score_notif": 66,
+      "cluster": "20261007-680e21158554",
+      "cluster_main": false
+    },
+    {
+      "title": "Nodus Watches Review: Enthusiast-Driven, Purpose-Built",
+      "url": "https://teddybaldassarre.com/blogs/watches/nodus-watches-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/imgi_274_Nodus-Sector-II-GMT-Refresh-WEB-3.jpg?v=1791393004",
+      "peek_preview": "Though still in its youth, since 2017, Nodus has quickly established itself as one of the leaders in the independent, microbrand space, honing its focus on producing hard-working, purpose-forward watches assembled in Lo...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-07T17:56:12.000Z",
+      "score_quality": 63,
+      "score_notif": 24,
+      "cluster": "20261007-2cb8252e747c",
+      "cluster_main": true
+    },
     {
       "title": "Experience: A. Lange & Söhne at the 2026 Audrain Newport Concours d'Elegance—Where the Chronograph Meets the Cars",
       "url": "https://www.watchcollectinglifestyle.com/home/a-lange-and-sohne-at-2026-audrain-newport-concours-d-elegance",
@@ -1826,20 +1854,6 @@
       "score_notif": 33,
       "cluster": "20261001-b485214a755d",
       "cluster_main": false
-    },
-    {
-      "title": "Owner’s Review: the Favre Leuba Raider Harpoon 42",
-      "url": "https://wornandwound.com/review/onwers-review-the-favre-leuba-raider-harpoon-42/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/Harpoon05.jpg",
-      "peek_preview": "Favre Leuba is a slightly curious brand. Despite being able to trace its origins back to 1737 (beaten only by Blancpain), the brand has undergone a succession of relaunches in recent decades as it attempts to re-forge i...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T18:00:22.000Z",
-      "score_quality": 66,
-      "score_notif": 26,
-      "cluster": "20261001-590eaf0d28a1",
-      "cluster_main": true
     }
   ]
 }
