@@ -1,6 +1,6 @@
 {
-  "content_hash": "5a514d335193e6cea9f48cf6a28d17972e02125f4a3206ebfe5cff7f552460ed",
-  "last_updated": "2026-10-07T18:47:55.170Z",
+  "content_hash": "af8473f50bac6c4a39c1ea5021102dc250bf5e6bab0032ee2346c9e0d9d8d273",
+  "last_updated": "2026-10-07T19:47:51.349Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-07T15:59:09.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T19:00:52.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-07T17:56:12.000Z"
     },
     {
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-07T18:00:25.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Zenith Presents Its Unique Piece for the TimeForArt Auction",
+      "url": "https://wornandwound.com/zenith-presents-its-unique-piece-for-the-timeforart-auction/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Zenith-x-USM-Unique-Piece-58.jpg",
+      "peek_preview": "In 2022, the inaugural TimeForArt auction took place in partnership with Phillips, marking the first and only benefit watch auction to support contemporary art and artists. In its opening year, it raised $1.2 million fo...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-07T19:00:52.000Z",
+      "score_quality": 68,
+      "score_notif": 47,
+      "cluster": "20261007-4c99f292c96a",
+      "cluster_main": true
+    },
     {
       "title": "H. Moser & Cie. Pioneer, Streamliner, Endeavour: Secondi Retrogradi a Tutto Gas",
       "url": "https://www.orologidiclasse.com/h-moser-cie-secondi-retrogradi-pioneer-streamliner-endeavour/",
@@ -537,7 +551,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1741,7 +1755,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Orient Flusso : nouvelle rivale des PRX et Tsuyosa",
@@ -1840,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20261001-737ef136fc0b",
       "cluster_main": true
-    },
-    {
-      "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
-      "url": "https://teddybaldassarre.com/blogs/watches/hamilton-classic-cushion",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Hamilton_American_Classic_Cushion_H36119520_lifestyle_2.jpg?v=1790801713",
-      "peek_preview": "Today, Hamilton has effectively proven the old adage “the best things come in small packages” to be an astute one. Drawing from the brand’s own Art Deco design archives. The new Hamilton Classic Cushion collection kicks...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T18:34:47.000Z",
-      "score_quality": 76,
-      "score_notif": 33,
-      "cluster": "20261001-b485214a755d",
-      "cluster_main": false
     }
   ]
 }
