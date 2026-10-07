@@ -1,6 +1,6 @@
 {
-  "content_hash": "00e2b17bd98d67e84e7f32e9582fe2ba392d0ec24109a07f0e4971299b66fba8",
-  "last_updated": "2026-10-07T02:48:00.337Z",
+  "content_hash": "f83ce16d8edae936bf19b6580a8d102cfa0ac7f01857d52390700d6a9c5bd244",
+  "last_updated": "2026-10-07T03:47:28.851Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-07T00:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T03:00:13.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "パネライが1990年代の象徴的な「ルミノール」デザインを受け継ぐ42mm径モデルを3種発売",
+      "url": "https://www.webchronos.net/news/175242/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/PN_1.webp",
+      "peek_preview": "パネライが、1990年代の「ルミノール」のデザインを受け継ぐ新作モデルを発売した。ブランド初の民間向け腕時計のひとつ、Ref.5218-201/Aにデザインの範を取っている。本作では、オリジナルよりも性能をアップグレード […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-07T03:00:13.000Z",
+      "score_quality": 70,
+      "score_notif": 67,
+      "cluster": "20261007-6beba177db12",
+      "cluster_main": true
+    },
     {
       "title": "A. Lange & Söhne’s Singapore Pop-Up Explores Chronographs and Cars",
       "url": "https://watchesbysjx.com/2026/10/lange-singapore-challenging-chronographs.html",
@@ -213,9 +227,9 @@
       "featured": false,
       "published_at": "2026-10-06T18:16:26.000Z",
       "score_quality": 74,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "From the Editor: Armin Strom Tribute³ Au750—Eight Pieces, Solid Gold Bridges, and Three Different Guilloché Patterns",
@@ -367,7 +381,7 @@
       "featured": false,
       "published_at": "2026-10-06T13:30:00.000Z",
       "score_quality": 58,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261006-2822e51b1fba",
       "cluster_main": false
     },
@@ -437,7 +451,7 @@
       "featured": false,
       "published_at": "2026-10-06T10:42:07.000Z",
       "score_quality": 78,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261006-2822e51b1fba",
       "cluster_main": false
     },
@@ -549,9 +563,9 @@
       "featured": false,
       "published_at": "2026-10-06T06:00:24.000Z",
       "score_quality": 78,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Christopher Ward C1 Jump Hour XV : 15 ans d’heures sautantes",
@@ -619,7 +633,7 @@
       "featured": false,
       "published_at": "2026-10-06T03:00:00.000Z",
       "score_quality": 83,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261006-2822e51b1fba",
       "cluster_main": false
     },
@@ -1194,8 +1208,8 @@
       "published_at": "2026-10-03T11:03:19.000Z",
       "score_quality": 27,
       "score_notif": 24,
-      "cluster": "20261003-6598756318a8",
-      "cluster_main": true
+      "cluster": "20261002-30f460bc0fe2",
+      "cluster_main": false
     },
     {
       "title": "Gallet relaunch explained: More affordable Breitling-backed tool watches | House of Brands Ep. 2",
@@ -1840,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20261001-55cd6071139d",
       "cluster_main": false
-    },
-    {
-      "title": "Ladies First: Patek Philippe Debuts Gondolo 7043",
-      "url": "https://watchesbysjx.com/2026/10/patek-philippe-gondolo-ladies-first-7043.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Patek-Philippe-Gondolo-Ladies-First-7043G-3x2-centred-header-2-300x200.jpg",
-      "peek_preview": "Patek Philippe expands its feminine offerings with the Gondolo Ladies First ref. 7043 in white and rose gold with the option of diamonds, or even more diamonds. Housed in the Gondolo case with ergonomic articulating lug...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:15:36.000Z",
-      "score_quality": 76,
-      "score_notif": 26,
-      "cluster": "20261001-8872e7915562",
-      "cluster_main": true
     }
   ]
 }
