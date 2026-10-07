@@ -1,6 +1,6 @@
 {
-  "content_hash": "a4878ea694e3633069d3a8bdf1936a23dc28c5e38ae119f88d1f51c67b2b69bc",
-  "last_updated": "2026-10-07T00:47:17.146Z",
+  "content_hash": "bf5abd802eeee569cddde9901874d2c1587e1822866f359cef20e7b58ed9d26e",
+  "last_updated": "2026-10-07T01:47:16.809Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
+      "estimated_articles_per_day": 3.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-06T12:00:09.000Z"
     },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T04:00:50.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T01:00:29.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-07T00:00:10.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "A. Lange & Söhne’s Singapore Pop-Up Explores Chronographs and Cars",
+      "url": "https://watchesbysjx.com/2026/10/lange-singapore-challenging-chronographs.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2025/05/Lange-1815-Chronograph-Concorso-2-300x200.jpg",
+      "peek_preview": "This month Singapore will play host to A. Lange & Söhne’s Challenging Chronographs, a pop-up exhibition exploring Lange’s iconic chronograph movements and the brand’s perennial presence at the automotive world’s most el...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-07T01:00:29.000Z",
+      "score_quality": 74,
+      "score_notif": 27,
+      "cluster": "20261007-149820d75a1c",
+      "cluster_main": true
+    },
     {
       "title": "ジラール・ペルゴ「ロレアート」より、アトラシアン・ウィリアムズ F1チームとのコラボモデル2種が登場",
       "url": "https://www.webchronos.net/news/175087/",
@@ -215,7 +229,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -327,7 +341,7 @@
       "score_quality": 73,
       "score_notif": 31,
       "cluster": "20261001-f6e3e39e782b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Limited-Edition Diatom Inner Worlds Watch Collection Brings Space-Flown Pieces Of The Solar System To The Wrist",
@@ -1268,20 +1282,6 @@
       "cluster_main": true
     },
     {
-      "title": "トム フォードビューティがタバコとショコラが香る新作フレグランスを発表",
-      "url": "https://www.webchronos.net/news/174204/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/TFB_FY27_TOBACCO_CHOCOLAT_50ML_KV_Logo_1920x1080.jpg",
-      "peek_preview": "トム フォードビューティより、「プライベート ブレンド コレクション」の新作フレグランス「タバコ ショコラ オードパルファム スプレィ」が発売された。上質なダークチョコレートのニュアンスとタバコの葉が香る、アンバーグルマ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-03T00:00:09.000Z",
-      "score_quality": 2,
-      "score_notif": 0,
-      "cluster": "20261003-189248d956f5",
-      "cluster_main": true
-    },
-    {
       "title": "The Cartier Roadster is the sports watch only Cartier could make",
       "url": "https://timeandtidewatches.com/the-cartier-roadster-is-the-sports-watch-only-cartier-could-make/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/cartier-roadster-featre-featured-image-1.jpg",
@@ -1559,7 +1559,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Orient Flusso : nouvelle rivale des PRX et Tsuyosa",
@@ -1825,7 +1825,7 @@
       "score_quality": 74,
       "score_notif": 31,
       "cluster": "20261001-f6e3e39e782b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "I’ve Watched Hublot Defy Convention For 40 Years; Then Came Jeff Koons",
@@ -1840,20 +1840,6 @@
       "score_notif": 34,
       "cluster": "20261001-55cd6071139d",
       "cluster_main": false
-    },
-    {
-      "title": "Ladies First: Patek Philippe Debuts Gondolo 7043",
-      "url": "https://watchesbysjx.com/2026/10/patek-philippe-gondolo-ladies-first-7043.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Patek-Philippe-Gondolo-Ladies-First-7043G-3x2-centred-header-2-300x200.jpg",
-      "peek_preview": "Patek Philippe expands its feminine offerings with the Gondolo Ladies First ref. 7043 in white and rose gold with the option of diamonds, or even more diamonds. Housed in the Gondolo case with ergonomic articulating lug...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T09:15:36.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261001-8872e7915562",
-      "cluster_main": true
     }
   ]
 }
