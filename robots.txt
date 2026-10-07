@@ -41,7 +41,31 @@ Disallow: /api/
 Disallow: /scripts/
 Disallow: /data/
 
+User-agent: Claude-User
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
 User-agent: PerplexityBot
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /api/
+Disallow: /scripts/
+Disallow: /data/
+
+User-agent: Bytespider
 Allow: /
 Disallow: /api/
 Disallow: /scripts/

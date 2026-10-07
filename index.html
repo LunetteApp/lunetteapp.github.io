@@ -6,6 +6,9 @@
     <meta name="theme-color" content="#10275B">
     <title>Lunette | Your watches deserve this app</title>
     <meta name="description" content="Keep your watch collection, timekeeping checks and wear journal together in a private iOS app. No account or subscription required.">
+    <meta name="keywords" content="watch collection app, watch collection tracker, watch inventory, wristwatch journal, watch accuracy, timegrapher, watch service history, iOS">
+    <meta name="author" content="Michael Siddi">
+    <meta name="robots" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="https://lunetteapp.com/">
     <link rel="alternate" hreflang="en" href="https://lunetteapp.com/?lang=en">
     <link rel="alternate" hreflang="it" href="https://lunetteapp.com/?lang=it">
@@ -22,11 +25,15 @@
     <meta property="og:url" content="https://lunetteapp.com/">
     <meta property="og:title" content="Lunette | Your watches deserve this app">
     <meta property="og:description" content="Document your watches, check how they keep time and remember what you wore.">
-    <meta property="og:image" content="https://lunetteapp.com/assets/icon.png">
+    <meta property="og:image" content="https://lunetteapp.com/assets/og-image.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Lunette app on three iPhones showing the watch collection, home and journal">
+    <meta property="og:locale" content="en_US">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Lunette | Your watches deserve this app">
     <meta name="twitter:description" content="Document your watches, check how they keep time and remember what you wore.">
-    <meta name="twitter:image" content="https://lunetteapp.com/assets/icon.png">
+    <meta name="twitter:image" content="https://lunetteapp.com/assets/og-image.jpg">
     <link rel="icon" type="image/png" href="assets/icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,20 +43,70 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "SoftwareApplication",
-      "name": "Lunette",
-      "operatingSystem": "iOS 17",
-      "applicationCategory": "LifestyleApplication",
-      "description": "Keep your watch collection, timekeeping checks and wear journal together in a private iOS app. No account or subscription required.",
-      "url": "https://lunetteapp.com/",
-      "image": "https://lunetteapp.com/assets/icon.png",
-      "downloadUrl": "https://apps.apple.com/app/lunette/id6773048433",
-      "offers": [
+      "@graph": [
         {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "USD",
-          "description": "Free up to 5 watches"
+          "@type": "WebSite",
+          "@id": "https://lunetteapp.com/#website",
+          "url": "https://lunetteapp.com/",
+          "name": "Lunette",
+          "description": "Official website of Lunette, an iOS app for documenting a watch collection, checking timekeeping and keeping a wear journal.",
+          "inLanguage": ["en", "it", "es", "fr", "de", "pt", "ko", "ja", "zh"],
+          "publisher": { "@id": "https://lunetteapp.com/#developer" },
+          "about": { "@id": "https://lunetteapp.com/#app" }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://lunetteapp.com/#developer",
+          "name": "Michael Siddi",
+          "jobTitle": "Mobile Engineering Manager",
+          "description": "Independent developer of Lunette, based in Italy.",
+          "url": "https://michaelsiddi.com",
+          "email": "mailto:hello@michaelsiddi.com",
+          "address": { "@type": "PostalAddress", "addressCountry": "IT" }
+        },
+        {
+          "@type": "MobileApplication",
+          "@id": "https://lunetteapp.com/#app",
+          "name": "Lunette",
+          "alternateName": "Lunette - Watch Collection Tracker",
+          "operatingSystem": "iOS 17.0 or later",
+          "applicationCategory": "LifestyleApplication",
+          "description": "Keep your watch collection, timekeeping checks and wear journal together in a private iOS app. No account or subscription required.",
+          "url": "https://lunetteapp.com/",
+          "image": "https://lunetteapp.com/assets/icon.png",
+          "screenshot": [
+            "https://lunetteapp.com/assets/screenshots/modern-01.webp",
+            "https://lunetteapp.com/assets/screenshots/modern-02.webp",
+            "https://lunetteapp.com/assets/screenshots/modern-03.webp",
+            "https://lunetteapp.com/assets/screenshots/modern-04.webp"
+          ],
+          "downloadUrl": "https://apps.apple.com/app/lunette/id6773048433",
+          "installUrl": "https://apps.apple.com/app/lunette/id6773048433",
+          "inLanguage": ["en", "it", "es", "fr", "de", "pt", "ko", "ja", "zh"],
+          "featureList": [
+            "Watch collection with references, serial numbers, movement details, photos, documents and purchase records",
+            "Wear journal with wrist photos and optional locations",
+            "Timekeeping accuracy checks against a reference time",
+            "Watch of the Day shareable stories",
+            "Service history with dates, costs and watchmaker contacts",
+            "Tried On and Shops log for try-ons, waiting lists and boutique notes",
+            "Offline-first with optional iCloud backup",
+            "No analytics or ad tracking"
+          ],
+          "author": { "@id": "https://lunetteapp.com/#developer" },
+          "publisher": { "@id": "https://lunetteapp.com/#developer" },
+          "sameAs": [
+            "https://apps.apple.com/app/lunette/id6773048433",
+            "https://www.producthunt.com/products/lunette-2"
+          ],
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD",
+              "description": "Free up to 5 watches"
+            }
+          ]
         }
       ]
     }
