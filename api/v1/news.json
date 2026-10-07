@@ -1,6 +1,6 @@
 {
-  "content_hash": "f83ce16d8edae936bf19b6580a8d102cfa0ac7f01857d52390700d6a9c5bd244",
-  "last_updated": "2026-10-07T03:47:28.851Z",
+  "content_hash": "514fbc7a6c38046154f9fa26a1927afc5cb7a83458118bc9a3f7aa6995b0030f",
+  "last_updated": "2026-10-07T05:47:57.303Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-06T12:00:09.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-07T05:00:28.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-07T03:00:13.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Back In Black: Hands-On With Two New Seiko Astron GPS Solar Dual-Time Chronograph 2026 Limited Editions",
+      "url": "https://www.fratellowatches.com/two-seiko-astron-gps-solar-dual-time-chronograph-2026-limited-editions/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Seiko-Astron-LE-HAB009J1-HAB010J1.jpg",
+      "peek_preview": "What is rarer, a shooting star or two Seiko Astron GPS Solar Dual-Time Chronograph 2026 Limited Editions? That’s an easy question, right? Well, I hate to break it to you, but maybe not. Shooting stars or meteors aren’t...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-07T05:00:28.000Z",
+      "score_quality": 82,
+      "score_notif": 66,
+      "cluster": "20261007-c6c84f60f345",
+      "cluster_main": true
+    },
     {
       "title": "パネライが1990年代の象徴的な「ルミノール」デザインを受け継ぐ42mm径モデルを3種発売",
       "url": "https://www.webchronos.net/news/175242/",
@@ -229,7 +243,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "From the Editor: Armin Strom Tribute³ Au750—Eight Pieces, Solid Gold Bridges, and Three Different Guilloché Patterns",
@@ -565,7 +579,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward C1 Jump Hour XV : 15 ans d’heures sautantes",
@@ -1100,20 +1114,6 @@
       "cluster_main": true
     },
     {
-      "title": "Sunday Morning Showdown: Ianos Amfivios Vs. Doxa Sub 300 Ti5",
-      "url": "https://www.fratellowatches.com/sunday-morning-showdown-ianos-amfivios-vs-doxa-sub-300-ti5/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Ianos-Amfivios_VS_Doxa_Sub_300_Ti5-HEADER.jpg",
-      "peek_preview": "It’s Sunday morning, so it’s time for a nice cup of coffee and another watch battle. This week, our Sunday Morning Showdown is a contest between two divers that immediately stand out in a crowd. In the saturated world o...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-04T05:00:49.000Z",
-      "score_quality": 63,
-      "score_notif": 24,
-      "cluster": "20261004-ad198f6bb3d4",
-      "cluster_main": true
-    },
-    {
       "title": "オリエントが名機のデザインを継承したブレスレット一体型モデル「オリエント フルッソ」を発表",
       "url": "https://www.webchronos.net/news/174646/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/10/main.jpg",
@@ -1208,8 +1208,8 @@
       "published_at": "2026-10-03T11:03:19.000Z",
       "score_quality": 27,
       "score_notif": 24,
-      "cluster": "20261002-30f460bc0fe2",
-      "cluster_main": false
+      "cluster": "20261003-6598756318a8",
+      "cluster_main": true
     },
     {
       "title": "Gallet relaunch explained: More affordable Breitling-backed tool watches | House of Brands Ep. 2",
@@ -1671,7 +1671,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
@@ -1769,7 +1769,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261001-a84c4e785d2a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Formex AirField : la Field en titane passe en mode pilote",
