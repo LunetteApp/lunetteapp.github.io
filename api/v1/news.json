@@ -1,6 +1,6 @@
 {
-  "content_hash": "d77b451d332f3a9afbd7b4d4198c25856764ae4bc167371238aef66a370314f2",
-  "last_updated": "2026-10-08T15:47:42.197Z",
+  "content_hash": "600f2a72ac81c451383a02be4de4ab4e5ea007ae90a8d4e93a76caef185b6f4c",
+  "last_updated": "2026-10-08T16:47:43.943Z",
   "premium": {
     "links": []
   },
@@ -15,16 +15,16 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T14:00:18.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-08T16:00:18.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T14:30:10.000Z"
+      "estimated_articles_per_day": 3.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-08T16:10:21.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -50,9 +50,9 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-07T16:59:53.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-08T15:53:39.000Z"
     },
     {
       "source_name": "Deployant",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T15:00:00.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Introducing – The Fun New Mido Multifort TV Big Date Día de los Muertos Alebrijes",
+      "url": "https://monochrome-watches.com/mido-multifort-tv-big-date-dia-de-los-muertos-alebrijes-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Mido-Multifort-TV-Big-Date-Dia-de-los-Muertos-Alebrijes-1-600x237.jpg",
+      "peek_preview": "Since 2020, Mido has marked “Día de los Muertos” with special editions inspired by the Mexican tradition of remembering the dead through colour, symbolism, and celebration. For 2026, the brand launches the Multifort TV...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-08T16:10:21.000Z",
+      "score_quality": 79,
+      "score_notif": 64,
+      "cluster": "20261008-5aa9f52860cf",
+      "cluster_main": true
+    },
+    {
+      "title": "Seiko Group Transforms Pace Gallery Into A Japanese Retreat",
+      "url": "https://www.atimelyperspective.com/seiko-group-transforms-pace-gallery-into-a-japanese-retreat/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_1322-768x1024.jpeg",
+      "peek_preview": "On an outdoor terrace six floors above the streets of Manhattan, Seiko Group did something unexpected for a watch company Tuesday night: it asked everyone to slow down. For the New York presentation of “The Gift of Time...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-08T15:53:39.000Z",
+      "score_quality": 74,
+      "score_notif": 41,
+      "cluster": "20261008-29f7287f440d",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – Glashütte Original Brings Meissen Porcelain to the Senator Cherry Blossom",
       "url": "https://monochrome-watches.com/glashutte-original-senator-meissen-cherry-blossom-porcelain-dial-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/Glashutte-Original-Meissen-Senator-Cherry-Blossom-1-600x237.jpg",
@@ -187,7 +215,7 @@
       "score_quality": 82,
       "score_notif": 65,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe e Chanel acquisiranno Ebel: una nuova era per lo storico marchio svizzero",
@@ -285,7 +313,7 @@
       "score_quality": 86,
       "score_notif": 61,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -355,7 +383,7 @@
       "score_quality": 83,
       "score_notif": 61,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Industry News – Is Basilia Jewellery & Watch Fair About to Prove Its Bet?",
@@ -551,7 +579,7 @@
       "score_quality": 82,
       "score_notif": 65,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Review: Beachcombing With The Citizen Promaster WaveTracker JV3000",
@@ -579,7 +607,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker",
@@ -620,8 +648,8 @@
       "published_at": "2026-10-08T05:00:17.000Z",
       "score_quality": 78,
       "score_notif": 28,
-      "cluster": "20261004-7051ee434bce",
-      "cluster_main": false
+      "cluster": "20261008-d6a516f6ff2c",
+      "cluster_main": true
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -704,7 +732,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-1aaf20d22ad7",
+      "cluster": "20261007-8d700be94eb6",
       "cluster_main": true
     },
     {
@@ -719,7 +747,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The World’s Smallest & Lightest Triple-Axis Tourbillon, The Peacock Tai Chi Curved Guilloche",
@@ -731,7 +759,7 @@
       "featured": false,
       "published_at": "2026-10-07T16:05:42.000Z",
       "score_quality": 73,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261007-08a7624c87fd",
       "cluster_main": true
     },
@@ -1027,7 +1055,7 @@
       "score_quality": 57,
       "score_notif": 30,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1041,20 +1069,6 @@
       "score_quality": 78,
       "score_notif": 33,
       "cluster": "20261006-2f371e5b7827",
-      "cluster_main": true
-    },
-    {
-      "title": "Interview – Thierry Stern on Heritage, Craftsmanship, and the Future of Patek Philippe",
-      "url": "https://monochrome-watches.com/interview-thierry-stern-on-heritage-craftsmanship-and-the-future-of-patek-philippe-watch-art-grand-exhibition-milan-2026/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-interview-Thierry-Stern-on-Heritage-Craftsmanship-and-the-Future-of-Patek-Philippe-Patek-Philippe-Watch-Art-Grand-Exhibition-Milan-600x237.jpeg",
-      "peek_preview": "Last Friday, the Patek Philippe Watch Art Grand Exhibition opened its doors in Milan, and at the moment of opening, more than 45,000 people had already registered to visit the exhibition. The Grand Exhibition in Milan i...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-06T18:00:10.000Z",
-      "score_quality": 88,
-      "score_notif": 34,
-      "cluster": "20261006-17336414e380",
       "cluster_main": true
     },
     {
@@ -1377,7 +1391,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
@@ -1419,7 +1433,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "OMEGA Seamaster Diver 300M James Bond e Spectre: i due volti di 007",
@@ -1825,20 +1839,6 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261002-8416d5611bbc",
-      "cluster_main": true
-    },
-    {
-      "title": "Mido Celebrates Día De Los Muertos With A Special Multifort TV Big Date",
-      "url": "https://www.ablogtowatch.com/mido-celebrates-dia-de-los-muertos-with-a-special-multifort-tv-big-date/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Mido-Multifort-TV-Big-Date-Dia-de-los-muertos-2026-SP-15-768x346.jpg",
-      "peek_preview": "For the seventh consecutive year, Swiss watchmaker Mido is celebrating Mexico’s Día de los Muertos with a special-edition timepiece that brings the holiday’s distinctive artistic traditions to the wrist. The new Multifo...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T14:01:12.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261002-aee5446570fa",
       "cluster_main": true
     }
   ]
