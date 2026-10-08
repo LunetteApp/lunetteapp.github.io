@@ -1,6 +1,6 @@
 {
-  "content_hash": "0bc6fc146782218098a4c7ff6d823af8da368ce154ed59fcd2555e3debde04cc",
-  "last_updated": "2026-10-08T00:48:06.027Z",
+  "content_hash": "3925c43fe06bb565272f6849cdddfaa967b918df3dd9fc0ed2c68411693c949c",
+  "last_updated": "2026-10-08T01:47:35.348Z",
   "premium": {
     "links": []
   },
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T00:00:34.000Z"
     },
     {
@@ -242,7 +242,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-1aaf20d22ad7",
+      "cluster": "20261007-8d700be94eb6",
       "cluster_main": true
     },
     {
@@ -257,7 +257,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The World’s Smallest & Lightest Triple-Axis Tourbillon, The Peacock Tai Chi Curved Guilloche",
@@ -397,7 +397,7 @@
       "score_quality": 81,
       "score_notif": 32,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – H. Moser & Cie. Presents Three New Models with its Retrograde Seconds Display",
@@ -943,7 +943,7 @@
       "score_quality": 83,
       "score_notif": 32,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
@@ -1840,6 +1840,20 @@
       "score_notif": 34,
       "cluster": "20261001-737ef136fc0b",
       "cluster_main": true
+    },
+    {
+      "title": "Hamilton Debuts Art Deco-Inspired Classic Cushion Collection With A New Petite Mechanical Movement",
+      "url": "https://teddybaldassarre.com/blogs/watches/hamilton-classic-cushion",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Hamilton_American_Classic_Cushion_H36119520_lifestyle_2.jpg?v=1790801713",
+      "peek_preview": "Today, Hamilton has effectively proven the old adage “the best things come in small packages” to be an astute one. Drawing from the brand’s own Art Deco design archives. The new Hamilton Classic Cushion collection kicks...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-01T18:34:47.000Z",
+      "score_quality": 76,
+      "score_notif": 33,
+      "cluster": "20261001-b485214a755d",
+      "cluster_main": false
     }
   ]
 }
