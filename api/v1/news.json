@@ -1,6 +1,6 @@
 {
-  "content_hash": "600f2a72ac81c451383a02be4de4ab4e5ea007ae90a8d4e93a76caef185b6f4c",
-  "last_updated": "2026-10-08T16:47:43.943Z",
+  "content_hash": "f1097fcf9f8912e4c76874eed8ada2608e0b00eb3df30901f5b9956289f76fe1",
+  "last_updated": "2026-10-08T17:47:40.733Z",
   "premium": {
     "links": []
   },
@@ -17,13 +17,13 @@
       "lang": "en",
       "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-08T16:00:18.000Z"
+      "latest_article_at": "2026-10-08T17:00:43.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T16:10:21.000Z"
     },
     {
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T15:53:39.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-08T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
+      "url": "https://wornandwound.com/can-amt-bridge-the-gap-between-off-the-shelf-and-in-house/",
+      "image": "https://wornandwound.com/library/uploads/2026/09/AMT_header.jpg",
+      "peek_preview": "As a watch enthusiast, one should be a movement enthusiast too, right? Sure, everyone loves a handmade, ornately finished, über-high-end independent movement labored over for hundreds of hours, but I’m talking about som...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-08T17:00:43.000Z",
+      "score_quality": 72,
+      "score_notif": 24,
+      "cluster": "20261008-998554d7989f",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Arsène Lippens Patches Up Dials With The Artigiano “Sashiko Denim”",
+      "url": "https://www.hodinkee.com/articles/introducing-arsene-lippens-artigiano",
+      "image": "https://hodinkee.imgix.net/uploads/images/49e55fa3-d8cf-4f7f-ab2a-75c49da474cd/SoldierPic1_Sashikodenim.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Inspired by the traditional Japanese art of repairing and strengthening old textiles, it's a charming part of their series on textile crafts.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-08T17:00:00.000Z",
+      "score_quality": 78,
+      "score_notif": 52,
+      "cluster": "20261008-23f08bf341de",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – The Fun New Mido Multifort TV Big Date Día de los Muertos Alebrijes",
       "url": "https://monochrome-watches.com/mido-multifort-tv-big-date-dia-de-los-muertos-alebrijes-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/Mido-Multifort-TV-Big-Date-Dia-de-los-Muertos-Alebrijes-1-600x237.jpg",
@@ -215,7 +243,7 @@
       "score_quality": 82,
       "score_notif": 65,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe e Chanel acquisiranno Ebel: una nuova era per lo storico marchio svizzero",
@@ -327,7 +355,7 @@
       "score_quality": 79,
       "score_notif": 62,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -355,7 +383,7 @@
       "score_quality": 84,
       "score_notif": 62,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -579,7 +607,7 @@
       "score_quality": 82,
       "score_notif": 65,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Review: Beachcombing With The Citizen Promaster WaveTracker JV3000",
@@ -1391,7 +1419,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
@@ -1433,7 +1461,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OMEGA Seamaster Diver 300M James Bond e Spectre: i due volti di 007",
@@ -1741,20 +1769,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261002-07420429ec36",
-      "cluster_main": true
-    },
-    {
-      "title": "These are Six Discontinued Watches We’d Like to See Make a Comeback",
-      "url": "https://wornandwound.com/these-are-six-discontinued-watches-wed-like-to-see-make-a-comeback/",
-      "image": "https://wornandwound.com/library/uploads/2021/06/SEIKO_SKX007_010.jpg",
-      "peek_preview": "When you work in a world about objects that measure time, you are confronted daily with the finite nature of things – nothing lasts forever. Speaking a bit less existentially, we see certain products come and go all thr...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T19:00:40.000Z",
-      "score_quality": 32,
-      "score_notif": 16,
-      "cluster": "20261002-ee4cd0fc7d65",
       "cluster_main": true
     },
     {
