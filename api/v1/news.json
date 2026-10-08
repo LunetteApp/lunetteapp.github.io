@@ -1,6 +1,6 @@
 {
-  "content_hash": "49bceefa6879e33dddbcf9b1ce6a03dacf7f9e4c8c649e27a6cf6ac041ff1996",
-  "last_updated": "2026-10-08T14:47:16.710Z",
+  "content_hash": "d77b451d332f3a9afbd7b4d4198c25856764ae4bc167371238aef66a370314f2",
+  "last_updated": "2026-10-08T15:47:42.197Z",
   "premium": {
     "links": []
   },
@@ -15,22 +15,22 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T14:00:18.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T14:30:10.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T14:00:48.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-08T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,21 +79,21 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T14:00:37.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T14:16:40.000Z"
     },
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T14:25:11.000Z"
     },
     {
@@ -285,7 +285,7 @@
       "score_quality": 86,
       "score_notif": 61,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -355,7 +355,7 @@
       "score_quality": 83,
       "score_notif": 61,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Industry News – Is Basilia Jewellery & Watch Fair About to Prove Its Bet?",
@@ -579,7 +579,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker",
@@ -621,7 +621,7 @@
       "score_quality": 78,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -1027,7 +1027,7 @@
       "score_quality": 57,
       "score_notif": 30,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1252,20 +1252,6 @@
       "score_notif": 27,
       "cluster": "20261006-7b00425c619c",
       "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Seiko Panda Watch That Stole The Show In 2024 Is Finally Here",
-      "url": "https://www.hodinkee.com/articles/the-seiko-panda-watch-that-stole-the-show-in-2024-is-finally-here",
-      "image": "https://hodinkee.imgix.net/uploads/images/2103fe4e-211a-4712-a594-8278f8b28e18/SeikoWatchesHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "One of the standout creations from Seiko's 2024 power design project—an irresistibly charming chronograph designed to look like an actual panda—has officially entered production.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-06T03:00:00.000Z",
-      "score_quality": 83,
-      "score_notif": 32,
-      "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
     },
     {
       "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
@@ -1559,7 +1545,7 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
