@@ -1,6 +1,6 @@
 {
-  "content_hash": "b100e134d3129a713aa6154a058a4055f18e3acd26a4a6335e4151229db721b2",
-  "last_updated": "2026-10-08T21:46:54.893Z",
+  "content_hash": "c185fd1a13023377ca49671a624d04c85eca4c16b0a41943f7a3299a15eb6719",
+  "last_updated": "2026-10-08T22:47:23.596Z",
   "premium": {
     "links": []
   },
@@ -36,9 +36,9 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-03T11:03:19.000Z"
+      "estimated_articles_per_day": 0.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-08T22:40:45.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T21:04:28.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "10 things I just learned about Lange & Söhne",
+      "url": "https://www.unpolishedwatches.com/p/10-things-i-just-learned-about-lange",
+      "image": "https://substackcdn.com/image/fetch/$s_!98g5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0c3db3b-abec-4bf2-bb5a-15543a95dc37_2048x2048.jpeg",
+      "peek_preview": "Why Lange melted its Wellendorff bracelets, and what else its CEO and head of product development told me.",
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-08T22:40:45.000Z",
+      "score_quality": 70,
+      "score_notif": 30,
+      "cluster": "20261008-8faf289ae6df",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: The Sexy, Secretive Toledano & Chan Oshinobi, With Commentary From Phil Toledano",
       "url": "https://www.hodinkee.com/articles/the-sexy-secretive-toledano-and-chan-oshinobi-with-commentary-from-phil-toledano",
       "image": "https://hodinkee.imgix.net/uploads/images/931a2fce-67fb-4807-bccb-1bd68d539774/Tchero.png?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -201,7 +215,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The 20 Best Racing Watches From Affordable to Luxury",
@@ -383,7 +397,7 @@
       "score_quality": 86,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -718,7 +732,7 @@
       "published_at": "2026-10-08T05:00:17.000Z",
       "score_quality": 78,
       "score_notif": 28,
-      "cluster": "20261004-7051ee434bce",
+      "cluster": "20261008-d6a516f6ff2c",
       "cluster_main": true
     },
     {
@@ -802,8 +816,8 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": false
+      "cluster": "20261007-8d700be94eb6",
+      "cluster_main": true
     },
     {
       "title": "Cars, Chronographs And A. Lange & Söhne At Audrain Concours",
@@ -1264,7 +1278,7 @@
       "published_at": "2026-10-06T07:01:41.000Z",
       "score_quality": 82,
       "score_notif": 34,
-      "cluster": "20261006-8d9b4a587824",
+      "cluster": "20261005-b55845b319e9",
       "cluster_main": true
     },
     {
@@ -1377,7 +1391,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261005-b55845b319e9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Duelling Dials: Omega’s James Bond and Spectre Seamasters",
@@ -1629,7 +1643,7 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
@@ -1839,20 +1853,6 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261002-57fc8084049a",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Patek Philippe World Time Minute Repeater 5531G-013—Milan After Dark in Yellow Enamel, Five Pieces Only",
-      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-world-time-minute-repeater-5531g-013-milan-after-dark",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790949014046-KORFGIFJEFN4QSJP8AX9/Patek+Philippe+WorldTime+5531g-013+Detail.jpg?format=1500w",
-      "peek_preview": "Patek’s Watch Art Grand Exhibition in Milan gives the city two faces, and the Ref. 5531G-013 is the one that comes out after sunset. Where its sibling, the Ref. 5531G-012, shows Milan in daylight; this World Time Minute...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T14:42:10.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261002-69b9f6d738fe",
       "cluster_main": true
     }
   ]
