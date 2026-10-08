@@ -1,6 +1,6 @@
 {
-  "content_hash": "f1097fcf9f8912e4c76874eed8ada2608e0b00eb3df30901f5b9956289f76fe1",
-  "last_updated": "2026-10-08T17:47:40.733Z",
+  "content_hash": "2aac9c35590de5041852b1fef13faf600a6c43dd0130e9a0c5fee0ef36b540c4",
+  "last_updated": "2026-10-08T18:46:50.800Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T17:00:43.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-07T17:56:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-08T18:00:43.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T17:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The 20 Best Racing Watches From Affordable to Luxury",
+      "url": "https://teddybaldassarre.com/blogs/watches/racing-watches",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Vaer-RS1-Rally-Chronograph-2.jpg?v=1754574143",
+      "peek_preview": "High-end watches and high-performance cars have long been intertwined, and the cross section between watch aficionados and car-racing enthusiasts has always been large. So it makes sense that \"racing watches\" — i.e., wa...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-08T18:00:43.000Z",
+      "score_quality": 33,
+      "score_notif": 24,
+      "cluster": "20261008-1cafa8a1dd70",
+      "cluster_main": true
+    },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
       "url": "https://wornandwound.com/can-amt-bridge-the-gap-between-off-the-shelf-and-in-house/",
@@ -355,7 +369,7 @@
       "score_quality": 79,
       "score_notif": 62,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -383,7 +397,7 @@
       "score_quality": 84,
       "score_notif": 62,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -634,7 +648,7 @@
       "published_at": "2026-10-08T07:00:33.000Z",
       "score_quality": 76,
       "score_notif": 30,
-      "cluster": "20261002-1b93e64ea058",
+      "cluster": "20261008-fb76d4b87669",
       "cluster_main": true
     },
     {
@@ -760,7 +774,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-8d700be94eb6",
+      "cluster": "20261007-1aaf20d22ad7",
       "cluster_main": true
     },
     {
@@ -775,7 +789,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The World’s Smallest & Lightest Triple-Axis Tourbillon, The Peacock Tai Chi Curved Guilloche",
@@ -1082,8 +1096,8 @@
       "published_at": "2026-10-06T18:06:44.000Z",
       "score_quality": 57,
       "score_notif": 30,
-      "cluster": "20261002-1b93e64ea058",
-      "cluster_main": false
+      "cluster": "20261006-952225f74357",
+      "cluster_main": true
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1348,8 +1362,8 @@
       "published_at": "2026-10-05T17:02:17.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261005-925b5ddebd1f",
+      "cluster_main": true
     },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
@@ -1840,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20261002-07fb6cf05945",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing: Patek Philippe Perpetual Calendar Chronograph ref. 5978P-010—Instantaneous Calendar Meets Hand-Wound Chronograph",
-      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-5978p-010-perpetual-calendar-chronograph-milan",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790948764256-4QYJM727TD31AMSJ26RK/Patek+Philippe+Grand+Complication+5978p-010+Detail.jpg?format=1500w",
-      "peek_preview": "Patek Philippe's seventh Watch Art Grand Exhibition in Milan opens today, October 2, at CityOval in the CityLife district and runs through October 18, and as tradition dictates, the host market receives limited editions...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T14:13:10.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261002-8416d5611bbc",
-      "cluster_main": true
     }
   ]
 }
