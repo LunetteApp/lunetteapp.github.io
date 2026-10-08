@@ -1,6 +1,6 @@
 {
-  "content_hash": "80e077b7f5cb6aa11956b662afe2685b4362677d62cd7f6944e23ed327c5907b",
-  "last_updated": "2026-10-08T10:47:14.353Z",
+  "content_hash": "a4540d4b02bc9f99fbf8c02a8906cd558f7eae007396388d58e337d10b6a6018",
+  "last_updated": "2026-10-08T11:47:22.099Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T07:00:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-08T11:03:21.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T10:01:13.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T10:00:02.000Z"
     },
     {
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T10:13:51.000Z"
     },
     {
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T10:00:11.000Z"
     },
     {
@@ -120,15 +120,15 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T11:00:00.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-08T11:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T10:19:40.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T10:25:31.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Red Hot And Ready To Chime: The Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
+      "url": "https://www.fratellowatches.com/red-hot-and-ready-to-chime-the-jacob-co-palatial-flying-tourbillon-minute-repeater/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Jacob-co-palatial-minute-repeater-tourbillon-2-scaled.jpeg",
+      "peek_preview": "I got a sneak preview of the new Jacob & Co. Palatial Flying Tourbillon Minute Repeater during Geneva Watch Days last month. Now, anyone who knows me will know that I’m not generally a fan of the color red. As a Tottenh...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-08T11:03:21.000Z",
+      "score_quality": 84,
+      "score_notif": 66,
+      "cluster": "20261007-0cc6d8e35199",
+      "cluster_main": false
+    },
+    {
+      "title": "Longines Spirit Pilot 2026: la nuova collezione si veste di blu!",
+      "url": "https://italianwatchspotter.com/i-nuovi-longines-spirit-pilot-2026/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/LonginesSpiritPilot_L3.809.4.93.6_L3.721.4.93.6_BTL3_sRGB_2x3-683x1024.jpg",
+      "peek_preview": "Il blu ha sempre avuto un posto speciale nell’orologeria. Elegante senza essere troppo formale, sportivo senza risultare eccessivo, è uno di quei colori capaci di dare personalità a un orologio e accompagnarlo nelle occ...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-08T11:00:00.000Z",
+      "score_quality": 47,
+      "score_notif": 62,
+      "cluster": "20261008-e2f1821c6617",
+      "cluster_main": true
+    },
     {
       "title": "Nomos Metro Datum Gangreserve eisblau: Drei Räder und 23 Jahre Geschichte",
       "url": "https://www.uhrenkosmos.com/nomos-metro-datum-gangreserve-eisblau/",
@@ -229,7 +257,7 @@
       "score_quality": 86,
       "score_notif": 69,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Quando la porcellana di Meissen fiorisce sul quadrante: ecco il nuovo Glashütte Original Senator Meissen Cherry Blossom",
@@ -271,7 +299,7 @@
       "score_quality": 84,
       "score_notif": 69,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Review: Beachcombing With The Citizen Promaster WaveTracker JV3000",
@@ -299,7 +327,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker",
@@ -340,8 +368,8 @@
       "published_at": "2026-10-08T05:00:17.000Z",
       "score_quality": 78,
       "score_notif": 28,
-      "cluster": "20261004-7051ee434bce",
-      "cluster_main": false
+      "cluster": "20261008-d6a516f6ff2c",
+      "cluster_main": true
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -424,7 +452,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-1aaf20d22ad7",
+      "cluster": "20261007-8d700be94eb6",
       "cluster_main": true
     },
     {
@@ -439,7 +467,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The World’s Smallest & Lightest Triple-Axis Tourbillon, The Peacock Tai Chi Curved Guilloche",
@@ -535,7 +563,7 @@
       "featured": false,
       "published_at": "2026-10-07T11:42:15.000Z",
       "score_quality": 66,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261007-0caad4796a23",
       "cluster_main": true
     },
@@ -549,7 +577,7 @@
       "featured": false,
       "published_at": "2026-10-07T11:00:09.000Z",
       "score_quality": 80,
-      "score_notif": 44,
+      "score_notif": 34,
       "cluster": "20261007-edec2afa307a",
       "cluster_main": true
     },
@@ -579,7 +607,7 @@
       "score_quality": 81,
       "score_notif": 32,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – H. Moser & Cie. Presents Three New Models with its Retrograde Seconds Display",
@@ -915,7 +943,7 @@
       "score_quality": 78,
       "score_notif": 32,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Intervista a Thierry Stern: Patek Philippe tra tradizione e futuro alla Watch Art Milano 2026",
@@ -1000,20 +1028,6 @@
       "score_notif": 24,
       "cluster": "20261006-47930c955c4b",
       "cluster_main": true
-    },
-    {
-      "title": "Power To The Pandagraph: Seiko Brings The 2024 Hit Concept Watch Into Production",
-      "url": "https://www.fratellowatches.com/seiko-pandagraph-hhk001-hhk002/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Seiko-Pandagraph-3.jpg",
-      "peek_preview": "I think it’s safe to say that pandas are universally beloved, and panda dials are among the most popular options for chronographs. That’s probably why Seiko’s so-called Pandagraph got so much attention back in 2024. The...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-06T06:00:24.000Z",
-      "score_quality": 78,
-      "score_notif": 32,
-      "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
     },
     {
       "title": "Christopher Ward C1 Jump Hour XV : 15 ans d’heures sautantes",
@@ -1405,7 +1419,7 @@
       "score_quality": 64,
       "score_notif": 32,
       "cluster": "20261002-23ab6f408d5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New releases from Patek Philippe, Nomos, Dennison and more",
@@ -1671,7 +1685,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido gives the Multifort TV Big Date a Day of the Dead makeover",
@@ -1685,7 +1699,7 @@
       "score_quality": 59,
       "score_notif": 34,
       "cluster": "20261001-ffbd28034628",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Czapek new releases for GWD26 explained by Xavier de Roquemaurel | Video",
@@ -1797,7 +1811,7 @@
       "score_quality": 67,
       "score_notif": 30,
       "cluster": "20261002-1b93e64ea058",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Orient Flusso : nouvelle rivale des PRX et Tsuyosa",
@@ -1811,7 +1825,7 @@
       "score_quality": 56,
       "score_notif": 32,
       "cluster": "20261002-23ab6f408d5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: Wind Vintage X True North Vintage Rally Timer IV ‘Dreamsicle’ Watch",
@@ -1839,20 +1853,6 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261001-74bf389078b1",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Patek Philippe Calatrava 7007G-010—The White Dial That Completes Italy's Tricolore",
-      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-calatrava-7007g-010-milan-exhibition",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790884276357-DS6X50UKRO6SG18JWW93/Patek+Philippe+Calatrava+7007G-010.jpeg?format=1500w",
-      "peek_preview": "Every flag needs its quiet calm stripe. The new Patek Philippe Calatrava Ref. 7007G-010, unveiled among the seven limited editions Patek Philippe reserved for Italy at its Watch Art Grand Exhibition in Milan, is the whi...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-01T20:00:28.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261001-b0860f21bc55",
       "cluster_main": true
     }
   ]
