@@ -1,6 +1,6 @@
 {
-  "content_hash": "31286c35af4d4e9b363d40db5d1612cc3741d13c9bff66fef2072fbc0c5b14e2",
-  "last_updated": "2026-10-09T17:47:35.651Z",
+  "content_hash": "95f393615bb659d9808b630438fa42bac900cef29e7e6d8188354b3b8bfcbb14",
+  "last_updated": "2026-10-09T19:47:30.453Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T14:00:40.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T19:00:47.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T18:00:43.000Z"
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T19:42:15.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-09T17:00:00.000Z"
+      "latest_article_at": "2026-10-09T19:00:40.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "13 Of The Best Vintage-Inspired Watches Under $5,000",
+      "url": "https://teddybaldassarre.com/blogs/watches/vintage-inspired-watches-under-5-000",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Vario-Trench-2.jpg?v=1791570906",
+      "peek_preview": "Vintage-inspired watches have been a fixture of modern watchmaking for well over a decade, and their appeal is easy to understand. Smaller proportions, distinctive dials, and details tied to an earlier era give them cha...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T19:42:15.000Z",
+      "score_quality": 30,
+      "score_notif": 22,
+      "cluster": "20261009-355815657b10",
+      "cluster_main": true
+    },
+    {
+      "title": "Business News: Movado Selling Ebel To F.P. Journe And Chanel In Deal Heralding Comeback Of Once Mighty Swiss Brand",
+      "url": "https://www.hodinkee.com/articles/movado-strikes-deal-to-sell-ebel-to-fp-journe-and-chanel-in-deal-heralding-comeback-of-once-mighty-s",
+      "image": "https://hodinkee.imgix.net/uploads/images/4046b900-de1d-4de0-88de-71088924154e/Ebelhero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Consortium of buyers, including François-Paul Journe and French luxury group Chanel, buys 95% stake in Ebel for $66.5 million.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T19:00:40.000Z",
+      "score_quality": 83,
+      "score_notif": 34,
+      "cluster": "20261008-c67ec841554e",
+      "cluster_main": false
+    },
+    {
       "title": "Introducing: The Bremont Supermarine 500 Full Ceramic In Deep Blue",
       "url": "https://www.hodinkee.com/articles/the-bremont-supermarine-500-full-ceramic-in-deep-blue",
       "image": "https://hodinkee.imgix.net/uploads/images/88d54d6d-22bb-41f2-bb1b-bb7ee64d22ae/Bremont.png?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -229,20 +257,6 @@
       "score_quality": 82,
       "score_notif": 64,
       "cluster": "20261009-301164e4595e",
-      "cluster_main": true
-    },
-    {
-      "title": "Bring a Loupe: An Orvis Solunagraph, An Omega DeVille Emerald, A Lip Mach 2000 Chronograph, And A Patek Philippe Calatrava",
-      "url": "https://www.hodinkee.com/articles/an-orvis-solunagraph-an-omega-deville-emerald-a-lip-mach-2000-chronograph-and-a-patek-philippe-calat",
-      "image": "https://hodinkee.imgix.net/uploads/images/a8a2282d-8bcc-4cb7-a651-3f546cf8973c/hero109.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T15:00:00.000Z",
-      "score_quality": 34,
-      "score_notif": 12,
-      "cluster": "20261009-2e115685bb07",
       "cluster_main": true
     },
     {
@@ -453,7 +467,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -467,7 +481,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -677,7 +691,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe e Chanel comprano Ebel per 66,5 milioni di dollari",
@@ -789,7 +803,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -817,7 +831,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -1016,20 +1030,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Glashütte Original's “Cherry Blossom” Senator Meissen Is In Full Bloom This Fall",
-      "url": "https://www.hodinkee.com/articles/glashutte-originals-cherry-blossom-senator-meissen-is-in-full-bloom-this-fall",
-      "image": "https://hodinkee.imgix.net/uploads/images/22874c7f-28f7-42c2-a6c3-6a32a74098b2/CherryBlossomSenatorMeissenHERO.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Glashütte Original and Meissen reunite for their latest collaboration, bringing the Japanese Jugatsu-zakura to a hand-painted porcelain dial.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T10:00:00.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261008-204986f95f6a",
-      "cluster_main": true
-    },
-    {
       "title": "Watch Review: Beachcombing With The Citizen Promaster WaveTracker JV3000",
       "url": "https://www.ablogtowatch.com/beachcombing-with-the-citizen-promaster-wavetracker-jv3000/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Citizen-WaveTracker-JVB-01-768x614.jpg",
@@ -1055,7 +1055,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Raymond Weil is making their family business our personal property",
@@ -1082,8 +1082,8 @@
       "published_at": "2026-10-08T05:00:17.000Z",
       "score_quality": 78,
       "score_notif": 28,
-      "cluster": "20261004-7051ee434bce",
-      "cluster_main": false
+      "cluster": "20261008-d6a516f6ff2c",
+      "cluster_main": true
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -1391,7 +1391,7 @@
       "score_quality": 57,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1516,7 +1516,7 @@
       "published_at": "2026-10-06T07:01:41.000Z",
       "score_quality": 82,
       "score_notif": 34,
-      "cluster": "20261005-b55845b319e9",
+      "cluster": "20261006-8d9b4a587824",
       "cluster_main": true
     },
     {
@@ -1616,20 +1616,6 @@
       "score_notif": 34,
       "cluster": "20261005-42d4cd1bda90",
       "cluster_main": true
-    },
-    {
-      "title": "Review: The Tudor Northflag Gets a Second Chance",
-      "url": "https://wornandwound.com/review/review-the-tudor-northflag-gets-a-second-chance/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/TUDOR_NORTHFLAG_6.jpg",
-      "peek_preview": "When the Tudor North Flag came out in 2015, it was met with a collective “what?” Tudor had chosen it to debut its in-house movements, a genuinely big moment for the brand. But the watch itself was a totally unexpected t...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-05T19:00:03.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261005-b55845b319e9",
-      "cluster_main": false
     },
     {
       "title": "Duelling Dials: Omega’s James Bond and Spectre Seamasters",
@@ -1839,20 +1825,6 @@
       "score_quality": 52,
       "score_notif": 34,
       "cluster": "20261004-8e67f7e3cc99",
-      "cluster_main": true
-    },
-    {
-      "title": "Tudor Watch Feels At Home In San Diego As We Visit The New Navy SEAL Museum",
-      "url": "https://www.ablogtowatch.com/tudor-watch-feels-at-home-in-san-diego-as-we-visit-the-new-navy-seal-museum/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Tudor-Navy-SEAL-Museum-San-Diego-19-768x346.jpg",
-      "peek_preview": "If there were a city in the United States that could best be compared to the Swiss watch brand Tudor, it would probably be San Diego, California. If sister brand Rolex feels most at home in Manhattan, then Tudor is most...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-04T07:01:48.000Z",
-      "score_quality": 64,
-      "score_notif": 28,
-      "cluster": "20261004-7051ee434bce",
       "cluster_main": true
     }
   ]
