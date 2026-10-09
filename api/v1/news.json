@@ -1,6 +1,6 @@
 {
-  "content_hash": "5d707abedbcbc7f0aba5bee3fb528087ef2c74d45ece7929cd183bf62644aaff",
-  "last_updated": "2026-10-09T20:47:27.120Z",
+  "content_hash": "4bdf4d96356eef98adae7cd3ba60414e029d724e635a5233ef722ed3a4a5f09f",
+  "last_updated": "2026-10-09T21:47:10.745Z",
   "premium": {
     "links": []
   },
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T19:00:40.000Z"
     },
@@ -215,7 +215,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -453,7 +453,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Angelus Puts a Tachymeter on Its Vintage-Inspired Monopusher Chronograph",
@@ -789,7 +789,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -831,7 +831,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -859,7 +859,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Industry News – Is Basilia Jewellery & Watch Fair About to Prove Its Bet?",
@@ -985,7 +985,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1082,7 +1082,7 @@
       "published_at": "2026-10-08T05:00:17.000Z",
       "score_quality": 78,
       "score_notif": 28,
-      "cluster": "20261008-d6a516f6ff2c",
+      "cluster": "20261004-7051ee434bce",
       "cluster_main": true
     },
     {
@@ -1828,6 +1828,20 @@
       "cluster_main": true
     },
     {
+      "title": "Tudor Watch Feels At Home In San Diego As We Visit The New Navy SEAL Museum",
+      "url": "https://www.ablogtowatch.com/tudor-watch-feels-at-home-in-san-diego-as-we-visit-the-new-navy-seal-museum/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Tudor-Navy-SEAL-Museum-San-Diego-19-768x346.jpg",
+      "peek_preview": "If there were a city in the United States that could best be compared to the Swiss watch brand Tudor, it would probably be San Diego, California. If sister brand Rolex feels most at home in Manhattan, then Tudor is most...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-04T07:01:48.000Z",
+      "score_quality": 67,
+      "score_notif": 28,
+      "cluster": "20261004-7051ee434bce",
+      "cluster_main": false
+    },
+    {
       "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
       "url": "https://timeandtidewatches.com/jaeger-lecoultre-master-control-perpetual-calendar-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-jaeger-le-coultre-master-control-perpetual-calendar.jpg",
@@ -1839,20 +1853,6 @@
       "score_quality": 34,
       "score_notif": 14,
       "cluster": "20261004-8a33377b4616",
-      "cluster_main": true
-    },
-    {
-      "title": "New releases from Patek Philippe, Nomos, Dennison and more",
-      "url": "https://timeandtidewatches.com/patek-philippe-nomos-dennison-last-week-in-watches/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/dennison-web.jpg",
-      "peek_preview": "Patek Philippe takes over Milan, while NOMOS, Hamilton, Hanhart, G-SHOCK and more headline this week’s biggest new watch releases. The post New releases from Patek Philippe, Nomos, Dennison and more appeared first on Ti...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-03T15:30:54.000Z",
-      "score_quality": 27,
-      "score_notif": 18,
-      "cluster": "20261003-ba102cfef490",
       "cluster_main": true
     }
   ]
