@@ -1,6 +1,6 @@
 {
-  "content_hash": "4c6562c45d88fd6837af4aae4bf23fae0ce57cc74955100da24ea406452e7d95",
-  "last_updated": "2026-10-09T13:48:04.186Z",
+  "content_hash": "fffcb5189bcb35fb664d6c7503e0daddfa00f1e5bed2e851b7099c3a57879b0a",
+  "last_updated": "2026-10-09T14:48:12.908Z",
   "premium": {
     "links": []
   },
@@ -15,16 +15,16 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T20:00:18.000Z"
+      "estimated_articles_per_day": 1.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T14:00:40.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T12:00:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T14:00:56.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -57,15 +57,15 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T13:00:00.000Z"
     },
     {
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-05T10:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T13:55:45.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T13:06:11.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – Timex Goes Surprisingly Classic and Elegant with the New, Affordable Marlin Chatham Automatic",
+      "url": "https://monochrome-watches.com/timex-goes-surprisinhly-classic-and-elegant-with-the-new-affordable-marlin-chatham-automatic/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Timex-Marlin-Chatham-Automatic-36mm-Cushion-Shaped-Dress-Watch-36mm-Affordable-1-600x237.jpg",
+      "peek_preview": "An important part of the recent history of American watchmaking, Timex has long been known for making reliable and accessible watches. As explained by our editor Erik, the brand survived and effectively embraced the qua...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T14:00:56.000Z",
+      "score_quality": 74,
+      "score_notif": 63,
+      "cluster": "20261009-ea4bc4aa71c1",
+      "cluster_main": true
+    },
+    {
+      "title": "Inside the Release Party Omega’s New Bond and Spectre-Edition Seamasters with CEO Raynald Aeschlimann",
+      "url": "https://wornandwound.com/inside-the-release-party-omegas-new-bond-and-spectre-edition-seamasters-with-ceo-raynald-aeschlimann/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Omega-x-Bond-LA-58.jpg",
+      "peek_preview": "On Monday evening in Los Angeles, Omega celebrated Global James Bond Day with a launch party for the latest collection of Seamaster Diver 300Ms to join the Omega x James Bond Universe–including their first Spectre-theme...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T14:00:40.000Z",
+      "score_quality": 76,
+      "score_notif": 34,
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
+    },
+    {
+      "title": "Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora",
+      "url": "https://www.watchinsanity.it/bell-ross-br-03-green-radar-ceramic-2026/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Bell_Ross_BR03_Green_Radar_Ceramic_Watch_Insanity_01-1024x682.jpg",
+      "peek_preview": "Bell&Ross presenta il BR-03 Green Radar Ceramic: tre aerei per leggere l’ora, cassa in ceramica da 41 mm e 999 esemplari. The post Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora appeared first on WATCH...",
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-09T13:55:45.000Z",
+      "score_quality": 56,
+      "score_notif": 34,
+      "cluster": "20261008-5064d26da7f5",
+      "cluster_main": false
+    },
     {
       "title": "The Sept 26 Files: Best Champagnes and Luxury Wine Experiences",
       "url": "https://deployant.com/the-sept-26-files-best-champagnes-and-luxury-wine-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=the-sept-26-files-best-champagnes-and-luxury-wine-experiences",
@@ -227,7 +269,7 @@
       "featured": false,
       "published_at": "2026-10-09T12:00:29.000Z",
       "score_quality": 84,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261008-623aaa6de54a",
       "cluster_main": true
     },
@@ -327,7 +369,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -341,7 +383,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -481,7 +523,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -551,7 +593,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe e Chanel comprano Ebel per 66,5 milioni di dollari",
@@ -591,7 +633,7 @@
       "featured": false,
       "published_at": "2026-10-08T14:00:48.000Z",
       "score_quality": 48,
-      "score_notif": 54,
+      "score_notif": 34,
       "cluster": "20261008-29bbf0d571c8",
       "cluster_main": true
     },
@@ -605,7 +647,7 @@
       "featured": false,
       "published_at": "2026-10-08T14:00:37.000Z",
       "score_quality": 60,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261008-623aaa6de54a",
       "cluster_main": false
     },
@@ -649,7 +691,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -663,7 +705,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -691,7 +733,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -873,7 +915,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Quando la porcellana di Meissen fiorisce sul quadrante: ecco il nuovo Glashütte Original Senator Meissen Cherry Blossom",
@@ -901,7 +943,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Glashütte Original's “Cherry Blossom” Senator Meissen Is In Full Bloom This Fall",
@@ -915,7 +957,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Review: Beachcombing With The Citizen Promaster WaveTracker JV3000",
@@ -943,20 +985,6 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker",
-      "url": "https://monochrome-watches.com/pequignet-releases-a-new-royale-paris-chronograph-with-a-bpm-tempo-tracker/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Pequignet-Royale-Paris-Chrono-BPM-Tempo-Tracker-scale-1-600x237.jpg",
-      "peek_preview": "Pequignet was founded in 1973 in Morteau, the historic heart of French watchmaking in the Jura mountains. In the early 2000s, the brand made a bold decision to become an integrated French manufacture and launched its fi...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T07:00:25.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261008-c0f87b28a4c9",
       "cluster_main": true
     },
     {
@@ -1548,20 +1576,6 @@
       "cluster_main": false
     },
     {
-      "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
-      "url": "https://wornandwound.com/shinolas-popular-duck-watch-goes-mechanical-with-the-quirkiest-campaign-ever/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Shinola-Duck-55.jpg",
-      "peek_preview": "One of several running stories I’ve been working on lately is a chronology of influential watch ads, and perhaps I need to add this latest campaign from Shinola to the list. The headline is that the brand’s popular Duck...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-05T14:00:22.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261005-b5b085a86e41",
-      "cluster_main": true
-    },
-    {
       "title": "Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin 30th Anniversary: The Azure 4300V/220G-H119",
       "url": "https://deployant.com/vacheron-constantin-overseas-perpetual-calendar-ultra-thin-30th-anniversary-the-azure-4300v-220g-h119/?utm_source=rss&utm_medium=rss&utm_campaign=vacheron-constantin-overseas-perpetual-calendar-ultra-thin-30th-anniversary-the-azure-4300v-220g-h119",
       "image": "https://deployant.com/wp-content/uploads/2026/10/vc-oversea-qp-ut-wrist.jpg",
@@ -1839,20 +1853,6 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261003-4a3f8dcd40a5",
-      "cluster_main": true
-    },
-    {
-      "title": "Am I Buying Microbrands All Wrong?",
-      "url": "https://www.unpolishedwatches.com/p/am-i-buying-microbrands-all-wrong-ece",
-      "image": "https://substackcdn.com/image/fetch/$s_!u3CQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8773b95-7ddd-4dfc-ab7a-11f89e131b67_2048x2048.jpeg",
-      "peek_preview": "500-word on the Fears Brunswick Perpetual Calendar + September Recap",
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-03T11:03:19.000Z",
-      "score_quality": 27,
-      "score_notif": 24,
-      "cluster": "20261003-6598756318a8",
       "cluster_main": true
     }
   ]
