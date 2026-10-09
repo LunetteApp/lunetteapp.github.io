@@ -1,6 +1,6 @@
 {
-  "content_hash": "be8750776311df0af33c4321a885369e200cc4e6afa31ac1b59187c21a69451c",
-  "last_updated": "2026-10-09T16:47:38.479Z",
+  "content_hash": "31286c35af4d4e9b363d40db5d1612cc3741d13c9bff66fef2072fbc0c5b14e2",
+  "last_updated": "2026-10-09T17:47:35.651Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T16:10:55.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T16:31:11.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T16:18:08.000Z"
     },
     {
@@ -176,7 +176,21 @@
   ],
   "items": [
     {
-      "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited-Edition No. 1 Watch",
+      "title": "Introducing: The Bremont Supermarine 500 Full Ceramic In Deep Blue",
+      "url": "https://www.hodinkee.com/articles/the-bremont-supermarine-500-full-ceramic-in-deep-blue",
+      "image": "https://hodinkee.imgix.net/uploads/images/88d54d6d-22bb-41f2-bb1b-bb7ee64d22ae/Bremont.png?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Bremont's new black and blue Supermarine might look like a bruiser, but it’s built to take a punch.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T17:00:00.000Z",
+      "score_quality": 79,
+      "score_notif": 34,
+      "cluster": "20261008-c06fab00cb30",
+      "cluster_main": false
+    },
+    {
+      "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
       "url": "https://www.ablogtowatch.com/hanhart-celebrates-a-hollywood-legends-off-screen-life-with-417-es-steve-mcqueen-limited-edition-no-1-watch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Hanhart-417-ES-Steve-Mcqueen-LOR-Crop-1-768x346.jpg",
       "peek_preview": "Virtually no other actor in history has a deeper connection to the world of watches than Steve McQueen. Several brands have celebrated the watches he wore on screen. When he wasn’t acting or playing a character, though,...",
@@ -425,7 +439,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Angelus Puts a Tachymeter on Its Vintage-Inspired Monopusher Chronograph",
@@ -439,7 +453,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -453,7 +467,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -619,7 +633,7 @@
       "featured": false,
       "published_at": "2026-10-08T17:00:00.000Z",
       "score_quality": 78,
-      "score_notif": 52,
+      "score_notif": 34,
       "cluster": "20261008-23f08bf341de",
       "cluster_main": true
     },
@@ -663,7 +677,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe e Chanel comprano Ebel per 66,5 milioni di dollari",
@@ -957,7 +971,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1013,7 +1027,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Review: Beachcombing With The Citizen Promaster WaveTracker JV3000",
@@ -1069,7 +1083,7 @@
       "score_quality": 78,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -1839,20 +1853,6 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": false
-    },
-    {
-      "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
-      "url": "https://timeandtidewatches.com/jaeger-lecoultre-master-control-perpetual-calendar-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-jaeger-le-coultre-master-control-perpetual-calendar.jpg",
-      "peek_preview": "The Perpetual Calendar in JLC's Master Control collection is Tom's weapon of choice against Zach and Russell's picks. Let's find out why... The post The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar sho...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-04T07:00:06.000Z",
-      "score_quality": 52,
-      "score_notif": 24,
-      "cluster": "20261004-8a33377b4616",
       "cluster_main": true
     }
   ]
