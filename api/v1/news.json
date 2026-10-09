@@ -1,6 +1,6 @@
 {
-  "content_hash": "210638dbb5637e7a3c85e02bb4b6cec3c91636c86e0fc314f2189a69f857d7c5",
-  "last_updated": "2026-10-09T09:47:08.545Z",
+  "content_hash": "5fd4079c5fe6303c85cf57b40d61a26b0d6c2731979be930ae4609318c85c09f",
+  "last_updated": "2026-10-09T10:47:15.438Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T09:00:41.000Z"
     },
     {
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T08:01:23.000Z"
+      "estimated_articles_per_day": 3.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T10:00:55.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T10:25:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T10:30:36.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Mühle Sportivo Power Dive: Dem Wasser verbunden",
+      "url": "https://www.uhrenkosmos.com/muehle-sportivo-power-dive-taucheruhr/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Muehle-Sportive-Power-Dive-mit-Kautschukband-und-Stahlband.jpg",
+      "peek_preview": "Die neue Mühle Sportivo Power Dive führt die Tradition von robusten, hochfunktionalen Sportuhren von Mühle Glashütte fort. Mit 300 Metern Wasserdichtheit, drehbarer Taucherlünette und Gangreserveanzeige zeigt sie, wie s...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-09T10:30:36.000Z",
+      "score_quality": 67,
+      "score_notif": 60,
+      "cluster": "20261009-f97fcf4e997d",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Rado Takes the Captain Cook to the Cricket Pitch with Cameron Green",
+      "url": "https://monochrome-watches.com/rado-captain-cook-cameron-green-limited-edition-cricket-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Rado-Captain-Cook-x-Cameron-Green-Limited-Edition-1-600x237.jpg",
+      "peek_preview": "After the recent European Cricket Special Edition, Rado once again turns to cricket for its latest Captain Cook collaboration, working with Australian Cameron Green on a watch that brings several elements of the sport i...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T10:00:55.000Z",
+      "score_quality": 80,
+      "score_notif": 61,
+      "cluster": "20261009-38244f559cb7",
+      "cluster_main": true
+    },
+    {
       "title": "The Top 5 Bond Watches Of All Time",
       "url": "https://www.fratellowatches.com/the-top-5-bond-watches-of-all-time/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/08/SMP-300M-4.jpg",
@@ -199,7 +227,7 @@
       "featured": false,
       "published_at": "2026-10-09T08:41:24.000Z",
       "score_quality": 60,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
       "cluster_main": true
     },
@@ -215,7 +243,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -229,7 +257,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -369,7 +397,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -437,15 +465,15 @@
       "featured": false,
       "published_at": "2026-10-08T14:30:10.000Z",
       "score_quality": 82,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
-      "title": "F.P. Journe e Chanel acquisiranno Ebel: una nuova era per lo storico marchio svizzero",
+      "title": "F.P. Journe e Chanel comprano Ebel per 66,5 milioni di dollari",
       "url": "https://www.perpetualpassion.com/2026/10/08/fp-journe-chanel-acquisizione-ebel-2026/",
       "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/208255_004.jpg",
-      "peek_preview": "Un’operazione da 66,5 milioni di dollari riunisce Montres Journe, Chanel e Pierre Jacques, futuro CEO di Ebel. Per [...] L'articolo F.P. Journe e Chanel acquisiranno Ebel: una nuova era per lo storico marchio svizzero p...",
+      "peek_preview": "Un’operazione da 66,5 milioni di dollari riunisce Montres Journe, Chanel e Pierre Jacques, futuro CEO di Ebel. Per [...] L'articolo F.P. Journe e Chanel comprano Ebel per 66,5 milioni di dollari proviene da PERPETUAL PA...",
       "source_name": "Perpetual Passion",
       "lang": "it",
       "featured": false,
@@ -507,7 +535,7 @@
       "featured": false,
       "published_at": "2026-10-08T14:00:18.000Z",
       "score_quality": 77,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261008-1f90043def07",
       "cluster_main": false
     },
@@ -537,7 +565,7 @@
       "score_quality": 86,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -551,7 +579,7 @@
       "score_quality": 79,
       "score_notif": 62,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -579,7 +607,7 @@
       "score_quality": 84,
       "score_notif": 62,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -717,7 +745,7 @@
       "featured": false,
       "published_at": "2026-10-08T10:25:31.000Z",
       "score_quality": 75,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261008-1f90043def07",
       "cluster_main": false
     },
@@ -731,7 +759,7 @@
       "featured": false,
       "published_at": "2026-10-08T10:19:40.000Z",
       "score_quality": 68,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
       "cluster_main": false
     },
@@ -745,7 +773,7 @@
       "featured": false,
       "published_at": "2026-10-08T10:13:51.000Z",
       "score_quality": 67,
-      "score_notif": 41,
+      "score_notif": 34,
       "cluster": "20261008-bcafbe274457",
       "cluster_main": true
     },
@@ -759,7 +787,7 @@
       "featured": false,
       "published_at": "2026-10-08T10:01:13.000Z",
       "score_quality": 86,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261008-1f90043def07",
       "cluster_main": true
     },
@@ -773,7 +801,7 @@
       "featured": false,
       "published_at": "2026-10-08T10:00:11.000Z",
       "score_quality": 74,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261008-204986f95f6a",
       "cluster_main": false
     },
@@ -787,7 +815,7 @@
       "featured": false,
       "published_at": "2026-10-08T10:00:00.000Z",
       "score_quality": 84,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261008-1f90043def07",
       "cluster_main": false
     },
@@ -801,9 +829,9 @@
       "featured": false,
       "published_at": "2026-10-08T10:00:00.000Z",
       "score_quality": 82,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261008-204986f95f6a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Review: Beachcombing With The Citizen Promaster WaveTracker JV3000",
@@ -873,7 +901,7 @@
       "score_quality": 78,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -986,20 +1014,6 @@
       "score_notif": 34,
       "cluster": "20261007-08a7624c87fd",
       "cluster_main": true
-    },
-    {
-      "title": "First Look – The Return of the Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
-      "url": "https://monochrome-watches.com/jacob-and-co-palatial-flying-tourbillon-minute-repeater-return-2026-updated-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Jacob-Co-Palatial-Flying-Tourbillon-Minute-Repeater-2026-return-review-9-600x237.jpg",
-      "peek_preview": "Jacob Arabo, founder of Jacob & Co., has a flair for showmanship. Whether you like them or not, his creations are strikingly expressive and absolutely like no others in terms of aesthetics and technicality. The visual s...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T13:01:02.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261007-0cc6d8e35199",
-      "cluster_main": false
     },
     {
       "title": "Hands On: Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1713,7 +1727,7 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
@@ -1839,20 +1853,6 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261003-059bd2c96a8b",
-      "cluster_main": true
-    },
-    {
-      "title": "The Abinger Phantom Luna Is A Luminescent Mid-Sized Value Statement",
-      "url": "https://www.ablogtowatch.com/watch-review-the-abinger-phantom-luna-is-a-lumiscent-mid-sized-value-statement/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Abinger-Phantom-Luna-JVB-05-768x614.jpg",
-      "peek_preview": "At some point or other, we’ve all dreamed of what our ideal watch would look like. Sometimes it exists — and, better yet, is readily available and within budget — but for others, it simply is not out there. Perhaps unfo...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-03T07:01:00.000Z",
-      "score_quality": 57,
-      "score_notif": 34,
-      "cluster": "20261003-6e693532a43f",
       "cluster_main": true
     }
   ]
