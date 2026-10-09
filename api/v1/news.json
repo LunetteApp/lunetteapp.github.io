@@ -1,6 +1,6 @@
 {
-  "content_hash": "95f393615bb659d9808b630438fa42bac900cef29e7e6d8188354b3b8bfcbb14",
-  "last_updated": "2026-10-09T19:47:30.453Z",
+  "content_hash": "5d707abedbcbc7f0aba5bee3fb528087ef2c74d45ece7929cd183bf62644aaff",
+  "last_updated": "2026-10-09T20:47:27.120Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T19:00:47.000Z"
     },
     {
@@ -43,8 +43,8 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 0.9,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T19:42:15.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T19:00:40.000Z"
     },
     {
@@ -467,7 +467,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -481,7 +481,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -789,7 +789,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -803,7 +803,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -831,7 +831,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -859,7 +859,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Industry News – Is Basilia Jewellery & Watch Fair About to Prove Its Bet?",
@@ -1055,7 +1055,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Raymond Weil is making their family business our personal property",
@@ -1391,7 +1391,7 @@
       "score_quality": 57,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1825,6 +1825,34 @@
       "score_quality": 52,
       "score_notif": 34,
       "cluster": "20261004-8e67f7e3cc99",
+      "cluster_main": true
+    },
+    {
+      "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
+      "url": "https://timeandtidewatches.com/jaeger-lecoultre-master-control-perpetual-calendar-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-jaeger-le-coultre-master-control-perpetual-calendar.jpg",
+      "peek_preview": "The Perpetual Calendar in JLC's Master Control collection is Tom's weapon of choice against Zach and Russell's picks. Let's find out why... The post The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar sho...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-04T07:00:06.000Z",
+      "score_quality": 34,
+      "score_notif": 14,
+      "cluster": "20261004-8a33377b4616",
+      "cluster_main": true
+    },
+    {
+      "title": "New releases from Patek Philippe, Nomos, Dennison and more",
+      "url": "https://timeandtidewatches.com/patek-philippe-nomos-dennison-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/dennison-web.jpg",
+      "peek_preview": "Patek Philippe takes over Milan, while NOMOS, Hamilton, Hanhart, G-SHOCK and more headline this week’s biggest new watch releases. The post New releases from Patek Philippe, Nomos, Dennison and more appeared first on Ti...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-03T15:30:54.000Z",
+      "score_quality": 27,
+      "score_notif": 18,
+      "cluster": "20261003-ba102cfef490",
       "cluster_main": true
     }
   ]
