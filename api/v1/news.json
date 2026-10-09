@@ -1,6 +1,6 @@
 {
-  "content_hash": "588d2d306420876000267e170be685e76e830ad9a4b5ef9a1d3806ea1ed440d0",
-  "last_updated": "2026-10-09T07:47:10.406Z",
+  "content_hash": "80d9de91413e04b31fa3b4f9db96957a439b783a05a2659e792a52f4b4032c98",
+  "last_updated": "2026-10-09T08:47:18.776Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
+      "estimated_articles_per_day": 3.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T05:00:15.000Z"
     },
@@ -22,15 +22,15 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T05:48:39.000Z"
+      "estimated_articles_per_day": 3.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T08:01:23.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T07:01:54.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T21:04:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T08:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-07T10:49:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T08:41:24.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Citizen Eco-Drive Photon: 50 anni di luce e innovazione",
+      "url": "https://giornaleorologi.it/2026/10/09/citizen-eco-drive-photon-50-anni/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/BJ6560-53W_PHOTON_top-banner_2560-1660-copia-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Citizen Eco-Drive Photon: 50 anni di luce e innovazione Cinquant’anni di ricerca sulla tecnologia a carica luce, celebrati alla Fondazione Bisazza. Per l’occasione, Citizen ha presentato il nuo...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-09T08:41:24.000Z",
+      "score_quality": 60,
+      "score_notif": 62,
+      "cluster": "20261008-7b7a7a144f65",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing – Angelus Puts a Tachymeter on Its Vintage-Inspired Monopusher Chronograph",
+      "url": "https://monochrome-watches.com/angelus-chronographe-tachymetre-monopusher-collection-2026-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Angelus-Chronographe-Tachymetre-Monopusher-1-600x237.jpg",
+      "peek_preview": "Angelus continues to revive its historical stopwatch designs with the new Chronographe Tachymètre, a trio of compact monopusher watches that follows last year’s Chronographe Télémètre. The new watches share the same cas...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T08:01:23.000Z",
+      "score_quality": 84,
+      "score_notif": 68,
+      "cluster": "20261009-7f20ac2978c7",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/angelus-chronographe-tachymetre-live-pics",
+      "image": "https://hodinkee.imgix.net/uploads/images/2fc449f0-e053-45bb-b3cc-05fa4fd07465/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A trio of new limited-edition chronographs from Angelus bring a sporting sensibility to a classic offering.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T08:00:00.000Z",
+      "score_quality": 80,
+      "score_notif": 68,
+      "cluster": "20261009-7f20ac2978c7",
+      "cluster_main": false
+    },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
       "url": "https://www.ablogtowatch.com/trematic-t-five-beguia-maris-watch-review-a-compact-skindiver-in-grade-5-titanium/",
@@ -313,7 +355,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -481,7 +523,7 @@
       "score_quality": 86,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -775,7 +817,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker",
@@ -817,7 +859,7 @@
       "score_quality": 78,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -872,8 +914,8 @@
       "published_at": "2026-10-07T18:00:25.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261007-680e21158554",
-      "cluster_main": false
+      "cluster": "20261007-8814bf3bc7e1",
+      "cluster_main": true
     },
     {
       "title": "Nodus Watches Review: Enthusiast-Driven, Purpose-Built",
@@ -1058,20 +1100,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – H. Moser & Cie. Presents Three New Models with its Retrograde Seconds Display",
-      "url": "https://monochrome-watches.com/2026-h-moser-cie-retrograde-seconds-streamliner-pioneer-skeleton-endeavour-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/HMoser_1252-1200_3251-1200_6252-1200__Retrograde_Seconds_Trilogy_2026-600x237.jpg",
-      "peek_preview": "Retrograde complications, in which a hand sweeps across an arc or sector and snaps back to zero, are prized for their theatrical jumping display. While retrograde displays have been around for centuries and were popular...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T09:01:23.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261007-680e21158554",
-      "cluster_main": true
-    },
-    {
       "title": "True Classics Never Go Out Of Style: Four New Reissues Of The Ebel Sport Classic Chronograph",
       "url": "https://www.fratellowatches.com/ebel-sport-classic-chronograph-reissues/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Ebel-Sport-Classic-Chrono-21.jpg",
@@ -1209,7 +1237,7 @@
       "score_quality": 57,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1685,7 +1713,7 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
@@ -1825,34 +1853,6 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261003-6e693532a43f",
-      "cluster_main": true
-    },
-    {
-      "title": "Lip x Ocarat Golden Sand : deux Churchill à cadran aventurine qui décrochent les étoiles",
-      "url": "https://www.welovewatches.fr/lip-x-ocarat-golden-sand-deux-churchill-a-cadran-aventurine-qui-decrochent-les-etoiles.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-lip-churchill-t24-c18-golden-sand-collab-ocarat.jpg",
-      "peek_preview": "La marque de montres Lip et Ocarat, c'est désormais une belle histoire qui dure... La maison horlogère française et le revendeur officiel dévoilent cette fois non pas une, mais deux éditions limitées baptisées Golden Sa...",
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-03T05:30:00.000Z",
-      "score_quality": 55,
-      "score_notif": 34,
-      "cluster": "20261003-e4f8a7650a3e",
-      "cluster_main": true
-    },
-    {
-      "title": "The Cartier Roadster is the sports watch only Cartier could make",
-      "url": "https://timeandtidewatches.com/the-cartier-roadster-is-the-sports-watch-only-cartier-could-make/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/cartier-roadster-featre-featured-image-1.jpg",
-      "peek_preview": "The Cartier Roadster is back for 2026. We look at why its automotive design and unmistakable character make it Cartier’s true sports watch. The post The Cartier Roadster is the sports watch only Cartier could make appea...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T22:01:36.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261002-07420429ec36",
       "cluster_main": true
     }
   ]
