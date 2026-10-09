@@ -1,6 +1,6 @@
 {
-  "content_hash": "ce5f5e08db37a5bc76fd2d15d39b5328a2ea424602adcc3c7d42c7f95f4b273c",
-  "last_updated": "2026-10-09T06:47:31.599Z",
+  "content_hash": "588d2d306420876000267e170be685e76e830ad9a4b5ef9a1d3806ea1ed440d0",
+  "last_updated": "2026-10-09T07:47:10.406Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T05:48:39.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T14:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T07:01:54.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T06:01:29.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "source_name": "Le Calibre",
       "lang": "fr",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T06:05:16.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
+      "url": "https://www.ablogtowatch.com/trematic-t-five-beguia-maris-watch-review-a-compact-skindiver-in-grade-5-titanium/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Trematic-T-Five-Beigua-Maris-Grade-5-Titanium-Dive-Watch-768x346.jpg",
+      "peek_preview": "Originally founded in the early 1950s, Trematic was among the numerous Swiss watch brands that closed their doors during the 1980s due to mounting pressures from the Quartz Crisis. With that in mind, Trematic was revive...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T07:01:54.000Z",
+      "score_quality": 78,
+      "score_notif": 33,
+      "cluster": "20261009-97a1485f8140",
+      "cluster_main": true
+    },
     {
       "title": "Alpina X Route du Rhum 2026 : deux montres taillées pour l’aventure",
       "url": "https://www.lecalibre.com/alpina-x-route-du-rhum-2026/?utm_source=rss&utm_medium=rss&utm_campaign=alpina-x-route-du-rhum-2026",
@@ -745,7 +759,7 @@
       "featured": false,
       "published_at": "2026-10-08T07:01:00.000Z",
       "score_quality": 67,
-      "score_notif": 43,
+      "score_notif": 34,
       "cluster": "20261008-4175179e1e5d",
       "cluster_main": true
     },
@@ -761,7 +775,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker",
@@ -773,7 +787,7 @@
       "featured": false,
       "published_at": "2026-10-08T07:00:25.000Z",
       "score_quality": 81,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261008-c0f87b28a4c9",
       "cluster_main": true
     },
@@ -802,7 +816,7 @@
       "published_at": "2026-10-08T05:00:17.000Z",
       "score_quality": 78,
       "score_notif": 28,
-      "cluster": "20261008-d6a516f6ff2c",
+      "cluster": "20261004-7051ee434bce",
       "cluster_main": true
     },
     {
@@ -886,7 +900,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-8d700be94eb6",
+      "cluster": "20261007-1aaf20d22ad7",
       "cluster_main": true
     },
     {
@@ -901,7 +915,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The World’s Smallest & Lightest Triple-Axis Tourbillon, The Peacock Tai Chi Curved Guilloche",
@@ -1195,7 +1209,7 @@
       "score_quality": 57,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1671,7 +1685,7 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
@@ -1839,20 +1853,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261002-07420429ec36",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Patek Philippe Aquanaut 5167A-014—Navy Fumé, a Red Seconds Hand, and 250 Pieces for Italy",
-      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-aquanaut-5167a-014-navy-milan-exhibition",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790949456518-4TZNQQQYPXMRBV9WM6MX/Patek+Philippe+Aquanaut+Milano+Exhibition+Edition+Dial.jpg?format=1500w",
-      "peek_preview": "Among the seven limited editions Patek Philippe has reserved for Italy at its Watch Art Grand Exhibition in Milan, the Aquanaut Ref. 5167A-014 is the one that steps away from the flag. This stainless steel sports watch...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T15:00:24.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261002-57fc8084049a",
       "cluster_main": true
     }
   ]
