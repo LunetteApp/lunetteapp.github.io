@@ -1,6 +1,6 @@
 {
-  "content_hash": "f5590d0516716efe753390f1edf69ac041dfd5aee4fbdc2bef545818a8746b7d",
-  "last_updated": "2026-10-09T05:47:15.077Z",
+  "content_hash": "ce5f5e08db37a5bc76fd2d15d39b5328a2ea424602adcc3c7d42c7f95f4b273c",
+  "last_updated": "2026-10-09T06:47:31.599Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T05:00:15.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T16:10:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T05:48:39.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T14:00:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T06:01:29.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -127,16 +127,16 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.9,
+      "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-08T10:19:40.000Z"
     },
     {
       "source_name": "Le Calibre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-09-27T18:19:42.000Z"
+      "estimated_articles_per_day": 0.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T06:05:16.000Z"
     },
     {
       "source_name": "Uhrenkosmos",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Alpina X Route du Rhum 2026 : deux montres taillées pour l’aventure",
+      "url": "https://www.lecalibre.com/alpina-x-route-du-rhum-2026/?utm_source=rss&utm_medium=rss&utm_campaign=alpina-x-route-du-rhum-2026",
+      "image": "https://www.lecalibre.com/wp-content/uploads/2026/10/alpina-route-du-rhum-seastrong-extreme.png",
+      "peek_preview": "À l’occasion de la Route du Rhum – Destination Guadeloupe 2026, Alpina dévoile deux éditions limitées qui célèbrent l’univers de la prestigieuse course transatlantique. Au programme : une Seastrong Diver Extreme Automat...",
+      "source_name": "Le Calibre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-09T06:05:16.000Z",
+      "score_quality": 68,
+      "score_notif": 61,
+      "cluster": "20261009-daa030c34534",
+      "cluster_main": true
+    },
+    {
+      "title": "Chanel & F.P.Journe acquire 95% stake in Ebel in US$66.5M deal",
+      "url": "https://timeandtidewatches.com/chanel-f-p-journe-acquire-95-stake-in-ebel-in-us66-5m-deal-friday-wind-down/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Ebel-FP-Journe-Chanel-Pierre-Jacques-acquisition.jpg",
+      "peek_preview": "The House of Brands is looking to restore Gallet and Universal Genéve to their former glory; Kari Voutilainen and Alex Rosenfield relaunched Urban Jürgensen; and now Chanel and F.P. Journe will look to revitalise anothe...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T06:01:29.000Z",
+      "score_quality": 80,
+      "score_notif": 84,
+      "cluster": "20261008-c67ec841554e",
+      "cluster_main": false
+    },
+    {
+      "title": "Industry News – F.P. Journe and Chanel Acquire 95% of EBEL from Movado Group",
+      "url": "https://monochrome-watches.com/fp-journe-chanel-pierre-jacques-acquire-95-percent-of-ebel-from-movado-group/",
+      "image": "https://monochrome-watches.com/app/uploads/2025/10/2025-Ebel-1911-Chronograph-Ice-Blue-Featured-600x237.jpg",
+      "peek_preview": "In a recent announcement by the Movado Group, Ebel is set to be acquired by a strategic buyer group led by Montres Journe SA, with the participation of Chanel (partial owner of F.P. Journe) and industry veteran and ex-C...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T05:48:39.000Z",
+      "score_quality": 84,
+      "score_notif": 84,
+      "cluster": "20261008-c67ec841554e",
+      "cluster_main": false
+    },
     {
       "title": "Do The Baume & Mercier Clifton 10870 And Perpetual Calendar 10872 Break The Ice?",
       "url": "https://www.fratellowatches.com/baume-mercier-clifton-10870-10872/",
@@ -257,7 +299,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -425,7 +467,7 @@
       "score_quality": 86,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -439,7 +481,7 @@
       "score_quality": 79,
       "score_notif": 62,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -467,7 +509,7 @@
       "score_quality": 84,
       "score_notif": 62,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -564,7 +606,7 @@
       "published_at": "2026-10-08T12:00:00.000Z",
       "score_quality": 76,
       "score_notif": 34,
-      "cluster": "20261007-482c2b31c104",
+      "cluster": "20261008-5064d26da7f5",
       "cluster_main": true
     },
     {
@@ -719,7 +761,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker",
@@ -1072,20 +1114,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – Bell & Ross Goes HUD-Style with the new BR-03 Green Radar Ceramic",
-      "url": "https://monochrome-watches.com/bell-ross-br-03-green-radar-ceramic-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Bell-and-Ross-BR-03-Green-Radar-Ceramic-review-1-600x237.jpg",
-      "peek_preview": "For the most part, Bell & Ross watches are immediately recognisable, but the Radar series holds the prize. The concept first appeared in 2010 with the BR-01 Radar, replacing conventional hands with concentric discs insp...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T07:00:21.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261007-482c2b31c104",
-      "cluster_main": false
-    },
-    {
       "title": "Back In Black: Hands-On With Two New Seiko Astron GPS Solar Dual-Time Chronograph 2026 Limited Editions",
       "url": "https://www.fratellowatches.com/two-seiko-astron-gps-solar-dual-time-chronograph-2026-limited-editions/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Seiko-Astron-LE-HAB009J1-HAB010J1.jpg",
@@ -1167,7 +1195,7 @@
       "score_quality": 57,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1814,20 +1842,6 @@
       "cluster_main": true
     },
     {
-      "title": "Over The Moon: Van Cleef & Arpels Chases the Cosmos with the Midnight Jour Nuit Phase de Lune",
-      "url": "https://timeandtidewatches.com/van-cleef-arpels-midnight-jour-nuit-phase-de-lune-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-van-cleef-arpels-phase-de-lune.webp",
-      "peek_preview": "Van Cleef & Arpels puts its watchmaking prowess on display with a stunningly decorated take on the sun & moon display The post Over The Moon: Van Cleef & Arpels Chases the Cosmos with the Midnight Jour Nuit Phase de Lun...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T15:30:19.000Z",
-      "score_quality": 67,
-      "score_notif": 34,
-      "cluster": "20261002-6cec5ead2e06",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: Patek Philippe Aquanaut 5167A-014—Navy Fumé, a Red Seconds Hand, and 250 Pieces for Italy",
       "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-aquanaut-5167a-014-navy-milan-exhibition",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790949456518-4TZNQQQYPXMRBV9WM6MX/Patek+Philippe+Aquanaut+Milano+Exhibition+Edition+Dial.jpg?format=1500w",
@@ -1839,20 +1853,6 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261002-57fc8084049a",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Patek Philippe World Time Minute Repeater 5531G-013—Milan After Dark in Yellow Enamel, Five Pieces Only",
-      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-world-time-minute-repeater-5531g-013-milan-after-dark",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790949014046-KORFGIFJEFN4QSJP8AX9/Patek+Philippe+WorldTime+5531g-013+Detail.jpg?format=1500w",
-      "peek_preview": "Patek’s Watch Art Grand Exhibition in Milan gives the city two faces, and the Ref. 5531G-013 is the one that comes out after sunset. Where its sibling, the Ref. 5531G-012, shows Milan in daylight; this World Time Minute...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-02T14:42:10.000Z",
-      "score_quality": 81,
-      "score_notif": 32,
-      "cluster": "20261002-69b9f6d738fe",
       "cluster_main": true
     }
   ]
