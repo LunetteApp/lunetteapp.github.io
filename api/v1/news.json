@@ -1,6 +1,6 @@
 {
-  "content_hash": "c8901149c1df14f803ca8ed46888f02cad9580d5587955bc39fd5d9f20b984ad",
-  "last_updated": "2026-10-09T12:47:06.336Z",
+  "content_hash": "4c6562c45d88fd6837af4aae4bf23fae0ce57cc74955100da24ea406452e7d95",
+  "last_updated": "2026-10-09T13:48:04.186Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T12:00:29.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T12:00:09.000Z"
     },
     {
@@ -57,16 +57,16 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T13:30:00.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T10:19:40.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-09T13:06:11.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "The Sept 26 Files: Best Champagnes and Luxury Wine Experiences",
+      "url": "https://deployant.com/the-sept-26-files-best-champagnes-and-luxury-wine-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=the-sept-26-files-best-champagnes-and-luxury-wine-experiences",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/vendemaire-sacre-glass-1080x1920.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Welcome to our September sharing of the month’s most exceptional bottles tasted. For this episode, we travelled in Switzerland, France and Germany before retu...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T13:30:00.000Z",
+      "score_quality": 6,
+      "score_notif": 0,
+      "cluster": "20261009-3213a2ff277f",
+      "cluster_main": true
+    },
+    {
+      "title": "Seiko Power Design Project : le chronographe panda devient vraiment un panda",
+      "url": "https://www.welovewatches.fr/seiko-power-design-project-le-chronographe-panda-devient-vraiment-un-panda.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/seiko-panda-hhk002p1-une.jpg",
+      "peek_preview": "Dans le jargon horloger, un cadran « panda » désigne un chronographe à fond blanc et compteurs noirs. Chez Seiko, le designer Kiyotaka Sakai a pris la question au pied de la lettre, et le...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-09T13:06:11.000Z",
+      "score_quality": 65,
+      "score_notif": 29,
+      "cluster": "20261006-2822e51b1fba",
+      "cluster_main": false
+    },
+    {
+      "title": "Happenings: Singapore's Indie-Focused IAMWATCH Returns This November",
+      "url": "https://www.hodinkee.com/articles/happenings-iamwatch-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/44099eff-47f8-4ec4-b0e6-6c8a50138ca1/download5.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Put on by our friends Michael Tay and The Hour Glass, the event is basically a who's-who of indie rock stars in a casual, approachable environment.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T13:00:00.000Z",
+      "score_quality": 61,
+      "score_notif": 40,
+      "cluster": "20261009-12bf0e8475e2",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Baltic Takes its Hermétique to Iceland with The Rift, And Adds a 34mm Version",
       "url": "https://monochrome-watches.com/baltic-takes-its-hermetique-to-iceland-with-the-rift-and-adds-a-34mm-version/",
@@ -285,7 +327,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -299,7 +341,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -437,9 +479,9 @@
       "featured": false,
       "published_at": "2026-10-08T20:00:18.000Z",
       "score_quality": 79,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -591,7 +633,7 @@
       "featured": false,
       "published_at": "2026-10-08T13:30:00.000Z",
       "score_quality": 71,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261008-a4ac946b6cf1",
       "cluster_main": true
     },
@@ -605,9 +647,9 @@
       "featured": false,
       "published_at": "2026-10-08T13:05:34.000Z",
       "score_quality": 86,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -619,7 +661,7 @@
       "featured": false,
       "published_at": "2026-10-08T13:01:18.000Z",
       "score_quality": 79,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
       "cluster_main": true
     },
@@ -633,7 +675,7 @@
       "featured": false,
       "published_at": "2026-10-08T13:00:22.000Z",
       "score_quality": 67,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
       "cluster_main": false
     },
@@ -647,7 +689,7 @@
       "featured": false,
       "published_at": "2026-10-08T13:00:16.000Z",
       "score_quality": 84,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
       "cluster_main": false
     },
@@ -661,7 +703,7 @@
       "featured": false,
       "published_at": "2026-10-08T13:00:03.000Z",
       "score_quality": 75,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
       "cluster_main": false
     },
@@ -675,7 +717,7 @@
       "featured": false,
       "published_at": "2026-10-08T13:00:00.000Z",
       "score_quality": 83,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
       "cluster_main": false
     },
@@ -942,8 +984,8 @@
       "published_at": "2026-10-08T05:00:17.000Z",
       "score_quality": 78,
       "score_notif": 28,
-      "cluster": "20261008-d6a516f6ff2c",
-      "cluster_main": true
+      "cluster": "20261004-7051ee434bce",
+      "cluster_main": false
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -1026,7 +1068,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-8d700be94eb6",
+      "cluster": "20261007-1aaf20d22ad7",
       "cluster_main": true
     },
     {
@@ -1041,7 +1083,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1055,7 +1097,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261007-0cc6d8e35199",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1069,21 +1111,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261007-0cc6d8e35199",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Atelier de Chronométrie's New Chronograph Caliber Is A Stunning Return To The Past",
-      "url": "https://www.hodinkee.com/articles/introducing-adc-chronograph",
-      "image": "https://hodinkee.imgix.net/uploads/images/21cc08db-738b-4406-90f0-fcdd1f137668/E_V00.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Based on the Valjoux 23, and with several new upgrades, the chronograph is now part of the brand's bespoke offerings.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T13:00:00.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261007-7b29627bd6b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Limited Edition Gerald Charles Maestro GC Sport Tennis Turquoise In Attractive Sporting Color",
@@ -1825,34 +1853,6 @@
       "score_quality": 27,
       "score_notif": 24,
       "cluster": "20261003-6598756318a8",
-      "cluster_main": true
-    },
-    {
-      "title": "Gallet relaunch explained: More affordable Breitling-backed tool watches | House of Brands Ep. 2",
-      "url": "https://timeandtidewatches.com/gallet-relaunch-house-of-brands-ep-2-video/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Gallet-house-of-brands-episode-2-video.jpg",
-      "peek_preview": "Gallet is back, and it's got Breitling's full weight behind it. At Geneva Watch Days 2026, a 200-year-old brand gets its second act. The post Gallet relaunch explained: More affordable Breitling-backed tool watches | Ho...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-03T11:01:21.000Z",
-      "score_quality": 61,
-      "score_notif": 30,
-      "cluster": "20261003-7162c2e838e0",
-      "cluster_main": true
-    },
-    {
-      "title": "Hanhart 417 ES Steve McQueen: Manche Uhren zeigen die Zeit. Andere erzählen eine Geschichte.",
-      "url": "https://www.uhrenkosmos.com/hanhart-417-es-steve-mcqueen-limited-edition-1/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Steve-McQueen-mit-Hanhart-417-ES-dem-Ausgangspunkt-der-neuen-Hanhart-417-ES-Steve-McQueen-Limited-Edition-No.-1.jpg",
-      "peek_preview": "Die Hanhart 417 ES Steve McQueen Limited Edition No. 1 erzählt eine Geschichte, die bisher nur auf alten Fotos zu sehen war: Der „King of Cool“ trug den Bundeswehr-Chronographen beim Motorradfahren, bei Rennen und im Pr...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-03T10:18:42.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261003-d4754ed32623",
       "cluster_main": true
     }
   ]
