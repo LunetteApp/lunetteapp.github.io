@@ -1,6 +1,6 @@
 {
-  "content_hash": "9d150293afcb0ca7090b2823dc68bc8860ec27b23ee919d4ed701e1fde9ac812",
-  "last_updated": "2026-10-09T01:47:35.405Z",
+  "content_hash": "c509119f5d29a9a7469cee4535ff0675b2c42c714273a7c1cc5f80c36bf62ca9",
+  "last_updated": "2026-10-09T02:47:31.323Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T01:00:15.000Z"
     },
     {
@@ -229,7 +229,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -467,7 +467,7 @@
       "score_quality": 83,
       "score_notif": 63,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Industry News – Is Basilia Jewellery & Watch Fair About to Prove Its Bet?",
@@ -691,7 +691,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker",
@@ -733,7 +733,7 @@
       "score_quality": 78,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -1139,7 +1139,7 @@
       "score_quality": 57,
       "score_notif": 30,
       "cluster": "20261006-952225f74357",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hamilton Introduces the American Classic Cushion Mechanical",
@@ -1405,7 +1405,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Shinola’s Popular Duck Watch Goes Mechanical with the Quirkiest Campaign Ever",
@@ -1475,7 +1475,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
@@ -1643,7 +1643,7 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
@@ -1825,6 +1825,34 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261002-6cec5ead2e06",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Patek Philippe Aquanaut 5167A-014—Navy Fumé, a Red Seconds Hand, and 250 Pieces for Italy",
+      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-aquanaut-5167a-014-navy-milan-exhibition",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790949456518-4TZNQQQYPXMRBV9WM6MX/Patek+Philippe+Aquanaut+Milano+Exhibition+Edition+Dial.jpg?format=1500w",
+      "peek_preview": "Among the seven limited editions Patek Philippe has reserved for Italy at its Watch Art Grand Exhibition in Milan, the Aquanaut Ref. 5167A-014 is the one that steps away from the flag. This stainless steel sports watch...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T15:00:24.000Z",
+      "score_quality": 79,
+      "score_notif": 34,
+      "cluster": "20261002-57fc8084049a",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Patek Philippe World Time Minute Repeater 5531G-013—Milan After Dark in Yellow Enamel, Five Pieces Only",
+      "url": "https://www.watchcollectinglifestyle.com/home/patek-philippe-world-time-minute-repeater-5531g-013-milan-after-dark",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1790949014046-KORFGIFJEFN4QSJP8AX9/Patek+Philippe+WorldTime+5531g-013+Detail.jpg?format=1500w",
+      "peek_preview": "Patek’s Watch Art Grand Exhibition in Milan gives the city two faces, and the Ref. 5531G-013 is the one that comes out after sunset. Where its sibling, the Ref. 5531G-012, shows Milan in daylight; this World Time Minute...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-02T14:42:10.000Z",
+      "score_quality": 81,
+      "score_notif": 32,
+      "cluster": "20261002-69b9f6d738fe",
       "cluster_main": true
     }
   ]
