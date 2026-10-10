@@ -1,6 +1,6 @@
 {
-  "content_hash": "eb8afb43bd3b1f199cad409b1ee41483fdddf4873c1028d211c1541f604c1cb7",
-  "last_updated": "2026-10-10T06:45:46.079Z",
+  "content_hash": "c96f42540aa2c9bfcc752f2a1c7be1ffff917241f4197d358dcc98611be82db7",
+  "last_updated": "2026-10-10T07:47:49.522Z",
   "premium": {
     "links": []
   },
@@ -29,9 +29,9 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T16:31:11.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-10T07:01:19.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T06:01:29.000Z"
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-10T07:00:07.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.9,
+      "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T05:27:00.000Z"
     },
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "The Perfect Vintage-Style Panerai? Luminor Destro PAM01732 Watch Review",
+      "url": "https://www.ablogtowatch.com/the-perfect-vintage-style-panerai-luminor-destro-pam01732-watch-review/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Panerai-Luminor-Destro-PAM01732-watch-2-768x346.jpg",
+      "peek_preview": "At Panerai, you have a wide variety of wristwatch products, but within a strict silo of styles and themes. That means fans of the admittedly beautiful look of most Panerai watches need to refine their selection amongst...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-10T07:01:19.000Z",
+      "score_quality": 78,
+      "score_notif": 24,
+      "cluster": "20261010-b4db18bc1e83",
+      "cluster_main": true
+    },
+    {
+      "title": "Bremont unveils its latest limited edition diver, the Supermarine Full Ceramic Deep Blue",
+      "url": "https://timeandtidewatches.com/bremont-supermarine-full-ceramic-deep-blue-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Bremont-Supermarine-Full-Ceramic-Deep-Blue-Hero-1-1.jpg",
+      "peek_preview": "Bremont unveils its latest full ceramic Supermarine, this time in a deep blue finish, tested to its limits by Aldo Kane The post Bremont unveils its latest limited edition diver, the Supermarine Full Ceramic Deep Blue a...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-10T07:00:07.000Z",
+      "score_quality": 64,
+      "score_notif": 34,
+      "cluster": "20261008-c06fab00cb30",
+      "cluster_main": false
+    },
     {
       "title": "Ebel : un accord de rachat avec F.P. Journe, Chanel et Pierre Jacques",
       "url": "https://www.welovewatches.fr/ebel-un-accord-de-rachat-avec-f-p-journe-chanel-et-pierre-jacques.html",
@@ -431,7 +459,7 @@
       "title": "Hands-On: The CIGA Design Hunter Tourbillon In Blue",
       "url": "https://www.fratellowatches.com/hands-on-the-ciga-design-hunter-tourbillon-in-blue/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/CIGA-Design-Hunter-Tourbillon.jpg",
-      "peek_preview": "CIGA Design is a Shenzhen-based watch brand that has been producing watches since 2016. I’d say the turning point came in 2021, when the brand’s Blue Planet won the Challenge Watch Prize at the Grand Prix d’Horlogerie d...",
+      "peek_preview": "CIGA design is a Shenzhen-based watch brand that has been producing watches since 2016. I’d say the turning point came in 2021, when the brand’s Blue Planet won the Challenge Watch Prize at the Grand Prix d’Horlogerie d...",
       "source_name": "Fratello Watches",
       "lang": "en",
       "featured": false,
@@ -495,7 +523,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Angelus Puts a Tachymeter on Its Vintage-Inspired Monopusher Chronograph",
@@ -509,7 +537,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -523,7 +551,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -1027,7 +1055,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1208,7 +1236,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-8d700be94eb6",
+      "cluster": "20261007-1aaf20d22ad7",
       "cluster_main": true
     },
     {
@@ -1223,7 +1251,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1727,7 +1755,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
@@ -1769,7 +1797,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "OMEGA Seamaster Diver 300M James Bond e Spectre: i due volti di 007",
@@ -1825,34 +1853,6 @@
       "score_quality": 26,
       "score_notif": 27,
       "cluster": "20261005-5c6221f04414",
-      "cluster_main": true
-    },
-    {
-      "title": "Review: L. Leroy Vox Temporis Minute Repeater Flying Tourbillon",
-      "url": "https://deployant.com/review-l-leroy-vox-temporis-minute-repeater-flying-tourbillon/?utm_source=rss&utm_medium=rss&utm_campaign=review-l-leroy-vox-temporis-minute-repeater-flying-tourbillon",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/leroy-voxtemporis-ti-silver-wrist.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors L.Leroy introduces a new collection at the very high end of the complications spectrum with their new Vox Temporis Minute Repeater Flying Tourbillon. The comb...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-04T13:30:00.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261004-70efee431151",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: Brellum Pandial Power Reserve Chronometer LE Watch Is Feature-Packed And COSC-Certified",
-      "url": "https://www.ablogtowatch.com/new-release-brellum-pandial-power-reserve-chronometer-le-watch-is-feature-packed-and-cosc-certified/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Brellum-Pandial-Power-Reserve-Chronometer-LE-Watch-768x349.jpg",
-      "peek_preview": "Founded by fourth-generation watchmaker Sebastien Muller, Brellum is an independent Swiss brand that adheres to a strict output of just 299 watches per year, with every single one being an official COSC-certified chrono...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-04T12:00:43.000Z",
-      "score_quality": 52,
-      "score_notif": 34,
-      "cluster": "20261004-8e67f7e3cc99",
       "cluster_main": true
     }
   ]
