@@ -1,6 +1,6 @@
 {
-  "content_hash": "866db3a451d93686349b29a15797ec8896fb77bc7072945712fa48f9077c946a",
-  "last_updated": "2026-10-10T08:47:07.563Z",
+  "content_hash": "2217d578cca828b1c7185feb4d86eeb8140945585e698daf67a911ed0b9dd6e5",
+  "last_updated": "2026-10-10T10:47:11.460Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T08:35:33.000Z"
     },
     {
@@ -72,13 +72,13 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T01:00:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-10T10:00:32.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T07:00:07.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "World Watch Day 2026: Time as Living Heritage",
+      "url": "https://watchesbysjx.com/2026/10/world-watch-day-mec-art.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/03/Association-Mec-Art-Mechanical-Art-Institute-300x200.jpg",
+      "peek_preview": "Today marks the second annual World Watch Day, celebrated on October 10 in a clever nod to the familiar “10:10” depiction of watch hands. This year’s theme, “Time as Living Heritage”, puts the people of Sainte-Croix at...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-10T10:00:32.000Z",
+      "score_quality": 84,
+      "score_notif": 52,
+      "cluster": "20261010-bfc3e6758afb",
+      "cluster_main": true
+    },
     {
       "title": "The Petrolhead Corner – The 1990 Monte Carlo Automobiles Centenaire You Probably Never Heard Of",
       "url": "https://monochrome-watches.com/the-petrolhead-corner-1990-monte-carlo-automobile-mca-centenaire-fulvio-maria-ballabio-lamborghini-v12-broad-arrow-auctions-zoute-grand-prix/",
@@ -383,7 +397,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora",
@@ -467,7 +481,7 @@
       "score_quality": 76,
       "score_notif": 29,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The CIGA Design Hunter Tourbillon In Blue",
@@ -493,7 +507,7 @@
       "featured": false,
       "published_at": "2026-10-09T10:30:36.000Z",
       "score_quality": 67,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261009-f97fcf4e997d",
       "cluster_main": true
     },
@@ -507,7 +521,7 @@
       "featured": false,
       "published_at": "2026-10-09T10:00:55.000Z",
       "score_quality": 80,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261009-38244f559cb7",
       "cluster_main": true
     },
@@ -537,7 +551,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Angelus Puts a Tachymeter on Its Vintage-Inspired Monopusher Chronograph",
@@ -550,8 +564,8 @@
       "published_at": "2026-10-09T08:01:23.000Z",
       "score_quality": 84,
       "score_notif": 34,
-      "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster": "20261009-c87bd0ad2b58",
+      "cluster_main": true
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -873,7 +887,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Bremont Supermarine Full Ceramic Deep Blue",
@@ -887,7 +901,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -915,7 +929,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -943,7 +957,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "BREAKING NEWS: F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1055,7 +1069,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1237,7 +1251,7 @@
       "score_quality": 59,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Cars, Chronographs And A. Lange & Söhne At Audrain Concours",
@@ -1251,7 +1265,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1559,7 +1573,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Intervista a Thierry Stern: Patek Philippe tra tradizione e futuro alla Watch Art Milano 2026",
@@ -1685,20 +1699,6 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261005-42d4cd1bda90",
-      "cluster_main": true
-    },
-    {
-      "title": "Duelling Dials: Omega’s James Bond and Spectre Seamasters",
-      "url": "https://watchesbysjx.com/2026/10/omega-seamaster-diver-300m-james-bond-spectre.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Omega-Seamaster-Diver-300M-James-Bond-Spectre-3x2-header-300x200.jpg",
-      "peek_preview": "The Omega Seamaster Diver 300M James Bond and Spectre collection pairs familiar no-date divers with competing character motifs, including platinum-gold variants in two limited edition boxed sets. The watches extend Omeg...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-05T17:02:17.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": true
     },
     {
