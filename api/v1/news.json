@@ -1,6 +1,6 @@
 {
-  "content_hash": "99b7dbe1662112f01d9d9942ed7814e5f9bcdbb186d07e2b67796527915db9aa",
-  "last_updated": "2026-10-10T00:47:10.693Z",
+  "content_hash": "294ce905f918375017c57c4c3802a3e4882d49728fb6262d846eed88ed39bfb4",
+  "last_updated": "2026-10-10T03:47:00.226Z",
   "premium": {
     "links": []
   },
@@ -164,7 +164,7 @@
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-10T00:00:46.000Z"
+      "latest_article_at": "2026-10-10T03:00:53.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ゼニスが百貨店初となるコンセプトブティック「ゼニス ブティック そごう横浜店」をオープン",
+      "url": "https://www.webchronos.net/news/173721/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/YOKOHAMA-SOGO-002.webp",
+      "peek_preview": "ゼニスが新たに「ゼニス ブティック そごう横浜店」をオープンした。星空が目を引きつける設えや、歴史とウォッチメイキングをひもとく「ストーリーバー」を完備した、百貨店における初のコンセプトブティックである。 ブランドの世界 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-10T03:00:53.000Z",
+      "score_quality": 52,
+      "score_notif": 24,
+      "cluster": "20261010-95f50d21cbe1",
+      "cluster_main": true
+    },
     {
       "title": "アーミン・シュトロームが3種類のギヨシェを取り入れた18Kローズゴールド製の「トリビュート³ Au750」を発表",
       "url": "https://www.webchronos.net/news/174950/",
@@ -215,7 +229,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261008-c67ec841554e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Bremont Supermarine 500 Full Ceramic In Deep Blue",
@@ -577,7 +591,7 @@
       "featured": false,
       "published_at": "2026-10-09T03:00:42.000Z",
       "score_quality": 75,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261009-beefc6d2acf8",
       "cluster_main": true
     },
@@ -915,7 +929,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261008-c67ec841554e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fratello Talks: Sylvain Berneron",
@@ -1096,8 +1110,8 @@
       "published_at": "2026-10-08T05:00:17.000Z",
       "score_quality": 78,
       "score_notif": 28,
-      "cluster": "20261008-d6a516f6ff2c",
-      "cluster_main": true
+      "cluster": "20261004-7051ee434bce",
+      "cluster_main": false
     },
     {
       "title": "A.ランゲ＆ゾーネが「1815 アップ／ダウン」にブルーダイアルを備える新作モデル2種を追加",
@@ -1180,7 +1194,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-8d700be94eb6",
+      "cluster": "20261007-1aaf20d22ad7",
       "cluster_main": true
     },
     {
@@ -1195,7 +1209,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1839,20 +1853,6 @@
       "score_quality": 67,
       "score_notif": 28,
       "cluster": "20261004-7051ee434bce",
-      "cluster_main": true
-    },
-    {
-      "title": "The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar shows what JLC does best",
-      "url": "https://timeandtidewatches.com/jaeger-lecoultre-master-control-perpetual-calendar-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-jaeger-le-coultre-master-control-perpetual-calendar.jpg",
-      "peek_preview": "The Perpetual Calendar in JLC's Master Control collection is Tom's weapon of choice against Zach and Russell's picks. Let's find out why... The post The Jaeger-LeCoultre Master Control Chronometre Perpetual Calendar sho...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-04T07:00:06.000Z",
-      "score_quality": 34,
-      "score_notif": 14,
-      "cluster": "20261004-8a33377b4616",
       "cluster_main": true
     }
   ]
