@@ -1,6 +1,6 @@
 {
-  "content_hash": "dc7eac5b7999ebd5ad84ff9153a5fcac0a64f86ccc8c48831c6c2b454cb58a16",
-  "last_updated": "2026-10-10T12:47:13.367Z",
+  "content_hash": "0ac14d5ae1e422c620c048120d9e443cc761f9d56d9f7ced58084bb91af07bac",
+  "last_updated": "2026-10-10T13:47:31.216Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T12:00:17.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T12:01:07.000Z"
     },
     {
@@ -51,21 +51,21 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T15:53:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-10T13:42:57.000Z"
     },
     {
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-10T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T12:00:00.000Z"
     },
     {
@@ -79,15 +79,15 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T12:00:13.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T16:18:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-10T13:34:58.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T12:31:51.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "10:10: Celebrating World Watch Day 2026",
+      "url": "https://www.atimelyperspective.com/1010-celebrating-world-watch-day-2026/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/6ac1b249-f4f5-cfe1-b2e0-9e9ce2f1d507-864x1024.jpg",
+      "peek_preview": "On October 10, the global watch community comes together to celebrate the artistry, craftsmanship and heritage of watchmaking. Why 10:10? For those of us who have spent decades photographing watches, those four little d...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-10T13:42:57.000Z",
+      "score_quality": 62,
+      "score_notif": 52,
+      "cluster": "20261010-bfc3e6758afb",
+      "cluster_main": false
+    },
+    {
+      "title": "Weekend Reads: F.P. Journe, Pierre Jacques, and Chanel Give EBEL a Second Act, Lange at Audrain Newport Concours, and Armin Strom Goes Full Gold",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-10-10",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-10T13:34:58.000Z",
+      "score_quality": 29,
+      "score_notif": 22,
+      "cluster": "20261010-7429788e4bdc",
+      "cluster_main": true
+    },
+    {
+      "title": "Omega Seamaster Diver 300M James Bond And Spectre: Six Watches, Two Sides",
+      "url": "https://deployant.com/omega-seamaster-diver-300m-james-bond-spectre/?utm_source=rss&utm_medium=rss&utm_campaign=omega-seamaster-diver-300m-james-bond-spectre",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/omega-seamaster-bond-spectre-both-editions-deployant-1200x675.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Omega has built six Seamaster Diver 300M references on one 42mm case and the Co-Axial Master Chronometer 8806, then split them between James Bond and Spectre....",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-10T13:30:00.000Z",
+      "score_quality": 68,
+      "score_notif": 34,
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
+    },
     {
       "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
       "url": "https://www.uhrenkosmos.com/ebel-verkauf-f-p-journe-und-chanel-uebernehmen/",
@@ -411,7 +453,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -549,7 +591,7 @@
       "featured": false,
       "published_at": "2026-10-09T13:00:00.000Z",
       "score_quality": 61,
-      "score_notif": 40,
+      "score_notif": 34,
       "cluster": "20261009-12bf0e8475e2",
       "cluster_main": true
     },
@@ -957,7 +999,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1013,7 +1055,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -1139,7 +1181,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Eco-Drive PHOTON : la lumière fête ses 50 ans en version futuriste",
@@ -1809,48 +1851,6 @@
       "featured": false,
       "published_at": "2026-10-05T10:00:00.000Z",
       "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
-    },
-    {
-      "title": "Rolex Perpetual Padellone im Video: Die große Pfanne ist zurück",
-      "url": "https://www.uhrenkosmos.com/rolex-perpetual-padellone-im-video-vorstellung/",
-      "image": "https://www.youtube.com/embed/p-yZeZkFR10",
-      "peek_preview": "Mit der Perpetual Padellone macht Rolex einen Sammler-Spitznamen zur offiziellen Uhrenlinie – und packt einen Jahreskalender mit springenden Anzeigen, Dynapulse-Hemmung und Meteoriten-Mond hinein. Gisbert Brunner und Pe...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-05T09:01:23.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261005-caefc0209bce",
-      "cluster_main": true
-    },
-    {
-      "title": "The new Omega Seamaster Diver 300m James Bond & Spectre editions offer watches for both the hero and villain",
-      "url": "https://timeandtidewatches.com/omega-seamaster-diver-300m-james-bond-spectre-editions-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Omega-Seamaster-Diver-300m-James-Bond-Spectre-Editions-26.jpg",
-      "peek_preview": "The new Omega Seamaster Diver 300m James Bond & Spectre Editions will make you question whether you align with the hero or vilain. The post The new Omega Seamaster Diver 300m James Bond & Spectre editions offer watches...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-05T09:01:14.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
-    },
-    {
-      "title": "OMEGA Seamaster Diver 300M James Bond e Spectre: i due volti di 007",
-      "url": "https://www.perpetualpassion.com/2026/10/05/omega-seamaster-diver-300m-james-bond-spectre/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/210.30.42.20.01.023_BondSpectre_ADV_SE_Wristshot_4_5_RVB-scaled.jpg",
-      "peek_preview": "Sei orologi, due identità e una base tecnica comune. OMEGA presenta la collezione Seamaster Diver 300M James Bond [...] L'articolo OMEGA Seamaster Diver 300M James Bond e Spectre: i due volti di 007 proviene da PERPETUA...",
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-05T08:20:16.000Z",
-      "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
