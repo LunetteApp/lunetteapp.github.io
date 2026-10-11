@@ -1,6 +1,6 @@
 {
-  "content_hash": "30388215240a4f44a5c71fee8d25437222184e053e1cadae95acefb77e24d045",
-  "last_updated": "2026-10-11T05:47:33.067Z",
+  "content_hash": "e30794ef84200424f2c176f6cfc5f5420ea65dc3845f8a8cd00d51e709b4a9ec",
+  "last_updated": "2026-10-11T07:47:09.389Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-11T05:00:09.000Z"
     },
     {
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
+      "estimated_articles_per_day": 3.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T14:00:43.000Z"
     },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-10T07:01:19.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-11T07:01:41.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-10T14:30:34.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-11T07:00:51.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The Limited-Edition Citizen Promaster Air Skyhawk A-T Watch In Gold Tone Is Big, Loud Fun",
+      "url": "https://www.ablogtowatch.com/hands-on-the-limited-edition-citizen-promaster-air-skyhawk-a-t-watch-in-gold-tone-is-big-loud-fun/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Citizen-Promaster-Air-Skyhawk-AT-LOR-Crop-768x346.jpg",
+      "peek_preview": "Like so many enthusiasts of my generation, many of my earliest memories of watches come from the deluge of advertising for the Citizen Promaster family in the ‘90s and 2000s. Long before I ever was consciously into the...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-11T07:01:41.000Z",
+      "score_quality": 81,
+      "score_notif": 47,
+      "cluster": "20261011-bf0e9b9ac2f0",
+      "cluster_main": true
+    },
+    {
+      "title": "Cutting the Clutter with BA111OD’s new Chapter 4 Onyx and Infinity Flying Tourbillon",
+      "url": "https://timeandtidewatches.com/ba111ods-chapter-4-onyx-infinity-flying-tourbillon-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/BA111OD-Chapter-4-Flying-Tourbillon-featured-image.jpg",
+      "peek_preview": "BA111OD expands its Chapter 4 collection with the Onyx and Infinity Flying Tourbillons, combining distinctive dials with stunning tourbillons The post Cutting the Clutter with BA111OD’s new Chapter 4 Onyx and Infinity F...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-11T07:00:51.000Z",
+      "score_quality": 63,
+      "score_notif": 62,
+      "cluster": "20261011-c48b4cea9e52",
+      "cluster_main": true
+    },
     {
       "title": "Sunday Morning Showdown: Omega Seamaster Diver 300M James Bond Vs. Spectre Edition",
       "url": "https://www.fratellowatches.com/sunday-morning-showdown-omega-seamaster-diver-300m-james-bond-vs-spectre-edition/",
@@ -313,7 +341,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
@@ -341,7 +369,7 @@
       "score_quality": 80,
       "score_notif": 64,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -383,7 +411,7 @@
       "score_quality": 78,
       "score_notif": 64,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -409,9 +437,9 @@
       "featured": false,
       "published_at": "2026-10-10T10:47:46.000Z",
       "score_quality": 66,
-      "score_notif": 33,
-      "cluster": "20261010-a032e69b569a",
-      "cluster_main": true
+      "score_notif": 34,
+      "cluster": "20261006-0f4d4e9b5feb",
+      "cluster_main": false
     },
     {
       "title": "World Watch Day 2026: Time as Living Heritage",
@@ -537,7 +565,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -775,7 +803,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Angelus Puts a Tachymeter on Its Vintage-Inspired Monopusher Chronograph",
@@ -943,7 +971,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1097,7 +1125,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -1125,7 +1153,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -1265,7 +1293,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1823,34 +1851,6 @@
       "featured": false,
       "published_at": "2026-10-05T10:00:26.000Z",
       "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
-    },
-    {
-      "title": "Omega Plays Double Agent With New Seamaster Diver 300M James Bond and Spectre Editions",
-      "url": "https://teddybaldassarre.com/blogs/watches/omega-seamaster-bond-spectre",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Omega_NEW_Seamaster_Bond_Blue_Dial_Mesh_Bracelet_FL4.jpg?v=1790971599",
-      "peek_preview": "Omega has been the official watch of James Bond, cinema’s most famous spy, since 1995 and the Swiss watchmaker has provided wristwear for Agent 007 in every Bond movie over those three thrilling decades, from Pierce Bro...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-05T10:00:03.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
-    },
-    {
-      "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
-      "url": "https://www.watchinsanity.it/omega-seamaster-diver-300m-james-bond-spectre/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Omega_Seamaster_Diver_300M_007_Watch_Insanity_07-732x1024.jpg",
-      "peek_preview": "Omega presenta 6 nuovi Seamaster Diver 300M dedicati a James Bond e Spectre, tra modelli in acciaio e cofanetti in edizione limitata. The post Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre appeared f...",
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-05T10:00:00.000Z",
-      "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
