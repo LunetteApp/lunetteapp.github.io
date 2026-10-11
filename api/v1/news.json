@@ -1,6 +1,6 @@
 {
-  "content_hash": "253a30cc714ff8c3c0d87e90a3155b37ad55681aeb098177d60dda80897216fc",
-  "last_updated": "2026-10-11T01:47:29.233Z",
+  "content_hash": "944ecf8242c533348570e4c40de7770d06f08605e3284595dd8c6616ef4f889f",
+  "last_updated": "2026-10-11T03:46:51.560Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-11T00:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-11T03:00:11.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
+      "url": "https://www.webchronos.net/news/175342/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/B_1.webp",
+      "peek_preview": "ボール ウォッチは、アメリカの鉄道時計の伝統を受け継ぐ文字盤デザインに、自発光マイクロ・ガスライトを組み合わせた「トレインマスター スタンダードタイム 2」を発表した。ホワイトの文字盤は特殊な合成樹脂を常温で硬化させるコ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-11T03:00:11.000Z",
+      "score_quality": 69,
+      "score_notif": 61,
+      "cluster": "20261011-4765122af9a7",
+      "cluster_main": true
+    },
     {
       "title": "カルティエが若き才能を育む「カルティエ タレンツ オブ トゥモロー」賞を創設",
       "url": "https://www.webchronos.net/news/175585/",
@@ -1041,7 +1055,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1223,7 +1237,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Eco-Drive PHOTON : la lumière fête ses 50 ans en version futuriste",
@@ -1840,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
-    },
-    {
-      "title": "Rolex Perpetual Padellone im Video: Die große Pfanne ist zurück",
-      "url": "https://www.uhrenkosmos.com/rolex-perpetual-padellone-im-video-vorstellung/",
-      "image": "https://www.youtube.com/embed/p-yZeZkFR10",
-      "peek_preview": "Mit der Perpetual Padellone macht Rolex einen Sammler-Spitznamen zur offiziellen Uhrenlinie – und packt einen Jahreskalender mit springenden Anzeigen, Dynapulse-Hemmung und Meteoriten-Mond hinein. Gisbert Brunner und Pe...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-05T09:01:23.000Z",
-      "score_quality": 66,
-      "score_notif": 34,
-      "cluster": "20261005-caefc0209bce",
-      "cluster_main": true
     }
   ]
 }
