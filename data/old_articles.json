@@ -21425,7 +21425,8 @@
       "event_cluster_id": "20261010-95f50d21cbe1",
       "event_first_published_at": "2026-10-10T03:00:53.000Z",
       "scoring_pending": false,
-      "clustering_pending": false
+      "clustering_pending": false,
+      "marketing": true
     },
     "https://www.webchronos.net/news/173757/": {
       "url": "https://www.webchronos.net/news/173757/",
@@ -21602,7 +21603,8 @@
       "event_cluster_id": "20261006-7b00425c619c",
       "event_first_published_at": "2026-10-06T03:00:55.000Z",
       "scoring_pending": false,
-      "clustering_pending": false
+      "clustering_pending": false,
+      "marketing": true
     },
     "https://www.webchronos.net/news/174646/": {
       "url": "https://www.webchronos.net/news/174646/",
@@ -21734,6 +21736,17 @@
       "first_seen_at": "2026-10-08T03:45:46.000Z",
       "event_cluster_id": "20261008-70a81f3d290d",
       "event_first_published_at": "2026-10-08T03:00:08.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false
+    },
+    "https://www.webchronos.net/news/175585/": {
+      "url": "https://www.webchronos.net/news/175585/",
+      "title": "カルティエが若き才能を育む「カルティエ タレンツ オブ トゥモロー」賞を創設",
+      "lang": "ja",
+      "published_at": "2026-10-11T00:00:39.000Z",
+      "first_seen_at": "2026-10-11T00:45:48.000Z",
+      "event_cluster_id": "20261011-d21866928b12",
+      "event_first_published_at": "2026-10-11T00:00:39.000Z",
       "scoring_pending": false,
       "clustering_pending": false
     },

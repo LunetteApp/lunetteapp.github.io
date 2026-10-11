@@ -1,6 +1,6 @@
 {
-  "content_hash": "b5a3b54c8a146e4930abc62926b428b97d40eeb28adaad4c558ebd30ef04b46d",
-  "last_updated": "2026-10-10T16:45:43.805Z",
+  "content_hash": "b5edf89ddee7ff500505aa89f4b8a9d7998d01fe17e729f42acafc57e8642609",
+  "last_updated": "2026-10-11T00:47:43.612Z",
   "premium": {
     "links": []
   },
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-10T12:00:00.000Z"
     },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-10T03:00:53.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-11T00:00:39.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "カルティエが若き才能を育む「カルティエ タレンツ オブ トゥモロー」賞を創設",
+      "url": "https://www.webchronos.net/news/175585/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/cartier_award_1.webp",
+      "peek_preview": "カルティエは、1995年から続く「カルティエ ウォッチメイカーズ オブ トゥモロー」賞にジュエリー部門を新設して拡充し、時計製造とジュエリーの2分野で若い才能を表彰する「カルティエ タレンツ オブ トゥモロー」賞を創設し […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-11T00:00:39.000Z",
+      "score_quality": 62,
+      "score_notif": 47,
+      "cluster": "20261011-d21866928b12",
+      "cluster_main": true
+    },
     {
       "title": "New releases from Unimatic, Angelus, Ralph Lauren and more",
       "url": "https://timeandtidewatches.com/unimatic-angelus-ralph-lauren-last-week-in-watches/",
@@ -442,20 +456,6 @@
       "cluster_main": false
     },
     {
-      "title": "ゼニスが百貨店初となるコンセプトブティック「ゼニス ブティック そごう横浜店」をオープン",
-      "url": "https://www.webchronos.net/news/173721/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/09/YOKOHAMA-SOGO-002.webp",
-      "peek_preview": "ゼニスが新たに「ゼニス ブティック そごう横浜店」をオープンした。星空が目を引きつける設えや、歴史とウォッチメイキングをひもとく「ストーリーバー」を完備した、百貨店における初のコンセプトブティックである。 ブランドの世界 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-10T03:00:53.000Z",
-      "score_quality": 52,
-      "score_notif": 24,
-      "cluster": "20261010-95f50d21cbe1",
-      "cluster_main": true
-    },
-    {
       "title": "アーミン・シュトロームが3種類のギヨシェを取り入れた18Kローズゴールド製の「トリビュート³ Au750」を発表",
       "url": "https://www.webchronos.net/news/174950/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/10/1.webp",
@@ -509,7 +509,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -593,7 +593,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora",
@@ -677,7 +677,7 @@
       "score_quality": 76,
       "score_notif": 29,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The CIGA Design Hunter Tourbillon In Blue",
@@ -747,7 +747,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Angelus Puts a Tachymeter on Its Vintage-Inspired Monopusher Chronograph",
@@ -1041,7 +1041,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1097,7 +1097,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -1223,7 +1223,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Eco-Drive PHOTON : la lumière fête ses 50 ans en version futuriste",
@@ -1237,7 +1237,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1405,7 +1405,7 @@
       "score_quality": 59,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Cars, Chronographs And A. Lange & Söhne At Audrain Concours",
@@ -1419,7 +1419,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1503,7 +1503,7 @@
       "score_quality": 81,
       "score_notif": 29,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Review: Chopard Happy Sport 36mm In Lucent Steel",
@@ -1758,34 +1758,6 @@
       "cluster_main": true
     },
     {
-      "title": "ジェラルド・チャールズが髙島屋大阪店に直営ブティックをオープン",
-      "url": "https://www.webchronos.net/news/174633/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/%E5%A4%A7%E9%98%AA%E3%83%96%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8_02-1.webp",
-      "peek_preview": "ジェラルド・チャールズが、日本国内で2店舗目となる直営店「ジェラルド・チャールズ／インディペンデントウォッチ」を髙島屋大阪店にオープンした。グローバルでも最大規模を誇るこの新店舗では、定番から稀少な限定モデルまで多彩なコ […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-06T03:00:55.000Z",
-      "score_quality": 64,
-      "score_notif": 27,
-      "cluster": "20261006-7b00425c619c",
-      "cluster_main": true
-    },
-    {
-      "title": "ブレゲ「マリーン 5517」に、ケ・ド・ロルロージュのギヨシェ装飾を採用した新作が登場",
-      "url": "https://www.webchronos.net/news/174977/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/BG_1.webp",
-      "peek_preview": "ブレゲより「マリーン 5517」の新作が発表された。ブランド創業250周年を記念して誕生したケ・ド・ロルロージュモチーフのギヨシェ装飾をダイアルに採用し、日付表示を6時位置に配している。18Kホワイトゴールドケース、18 […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-06T00:00:47.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261006-183f6fdeb629",
-      "cluster_main": true
-    },
-    {
       "title": "Insider: David Candaux DC6 Wildfire—The Inclined Tourbillon and Movement Set Ablaze",
       "url": "https://www.watchcollectinglifestyle.com/home/david-candaux-dc6-wildfire-tourbillon-review-price",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791229099793-5OUNFEE7NB3IN6SMH86H/David+Candaux+DC6+Wildfire-1.jpg?format=1500w",
@@ -1853,7 +1825,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     }
   ]
 }
