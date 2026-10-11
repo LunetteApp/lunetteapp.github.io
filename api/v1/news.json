@@ -1,6 +1,6 @@
 {
-  "content_hash": "014a1f3678fde26d6a8e0e0b62e5b0674d3166e45f5c113be5a41dcc7eb30150",
-  "last_updated": "2026-10-11T10:45:38.831Z",
+  "content_hash": "434666493946a084829473f4eba9241ec160b90fe00584e8889ef588985a9f16",
+  "last_updated": "2026-10-11T11:47:32.429Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-11T09:00:06.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-11T11:00:00.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
+      "estimated_articles_per_day": 3.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-11T09:35:41.000Z"
     },
@@ -113,7 +113,7 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T08:41:24.000Z"
     },
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Not A Carbon Copy: Introducing The Apiar Carbon1.0 OG Sports Watch",
+      "url": "https://www.fratellowatches.com/introducing-the-apiar-carbon1-0-og-sports-watch/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Apiar-Carbon1.0-OG-on-wrist.jpg",
+      "peek_preview": "Apiar launches its first sports watch, the Carbon1.0 OG. Utilizing a novel construction process known as Composite-Based Additive Manufacturing (CBAM), the UK-based brand introduces a fresh approach to carbon-composite...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-11T11:00:00.000Z",
+      "score_quality": 74,
+      "score_notif": 61,
+      "cluster": "20261011-48d2e56af740",
+      "cluster_main": true
+    },
     {
       "title": "Buying Guide – Six Watches With Unconventional Functions, Displays And Complications",
       "url": "https://monochrome-watches.com/buying-guide-unconventional-functions-complications-ming-voxel-artya-minerva-longines-louis-vuitton-specs-price-review/",
@@ -242,8 +256,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261011-b6ccae64013a",
+      "cluster_main": true
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -451,7 +465,7 @@
       "featured": false,
       "published_at": "2026-10-10T11:01:00.000Z",
       "score_quality": 80,
-      "score_notif": 52,
+      "score_notif": 34,
       "cluster": "20261010-73c0bc36a8ae",
       "cluster_main": true
     },
@@ -466,8 +480,8 @@
       "published_at": "2026-10-10T10:47:46.000Z",
       "score_quality": 66,
       "score_notif": 34,
-      "cluster": "20261006-0f4d4e9b5feb",
-      "cluster_main": false
+      "cluster": "20261010-a032e69b569a",
+      "cluster_main": true
     },
     {
       "title": "World Watch Day 2026: Time as Living Heritage",
@@ -999,7 +1013,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1195,7 +1209,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "BREAKING NEWS: F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1252,20 +1266,6 @@
       "score_notif": 34,
       "cluster": "20261008-5064d26da7f5",
       "cluster_main": true
-    },
-    {
-      "title": "Red Hot And Ready To Chime: The Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
-      "url": "https://www.fratellowatches.com/red-hot-and-ready-to-chime-the-jacob-co-palatial-flying-tourbillon-minute-repeater/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Jacob-co-palatial-minute-repeater-tourbillon-2-scaled.jpeg",
-      "peek_preview": "I got a sneak preview of the new Jacob & Co. Palatial Flying Tourbillon Minute Repeater during Geneva Watch Days last month. Now, anyone who knows me also knows I’m not generally a fan of red. As a Tottenham Hotspur sup...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T11:03:21.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261007-0cc6d8e35199",
-      "cluster_main": false
     },
     {
       "title": "Longines Spirit Pilot 2026: la nuova collezione si veste di blu!",
@@ -1475,7 +1475,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261007-0cc6d8e35199",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1489,7 +1489,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261007-0cc6d8e35199",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Limited Edition Gerald Charles Maestro GC Sport Tennis Turquoise In Attractive Sporting Color",
