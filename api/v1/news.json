@@ -1,6 +1,6 @@
 {
-  "content_hash": "b5edf89ddee7ff500505aa89f4b8a9d7998d01fe17e729f42acafc57e8642609",
-  "last_updated": "2026-10-11T00:47:43.612Z",
+  "content_hash": "253a30cc714ff8c3c0d87e90a3155b37ad55681aeb098177d60dda80897216fc",
+  "last_updated": "2026-10-11T01:47:29.233Z",
   "premium": {
     "links": []
   },
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-11T00:00:39.000Z"
     },
     {
@@ -509,7 +509,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1097,7 +1097,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
@@ -1825,6 +1825,34 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": true
+    },
+    {
+      "title": "Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre",
+      "url": "https://www.watchinsanity.it/omega-seamaster-diver-300m-james-bond-spectre/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Omega_Seamaster_Diver_300M_007_Watch_Insanity_07-732x1024.jpg",
+      "peek_preview": "Omega presenta 6 nuovi Seamaster Diver 300M dedicati a James Bond e Spectre, tra modelli in acciaio e cofanetti in edizione limitata. The post Omega Seamaster Diver 300M, doppio tributo a James Bond e Spectre appeared f...",
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-05T10:00:00.000Z",
+      "score_quality": 58,
+      "score_notif": 34,
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
+    },
+    {
+      "title": "Rolex Perpetual Padellone im Video: Die große Pfanne ist zurück",
+      "url": "https://www.uhrenkosmos.com/rolex-perpetual-padellone-im-video-vorstellung/",
+      "image": "https://www.youtube.com/embed/p-yZeZkFR10",
+      "peek_preview": "Mit der Perpetual Padellone macht Rolex einen Sammler-Spitznamen zur offiziellen Uhrenlinie – und packt einen Jahreskalender mit springenden Anzeigen, Dynapulse-Hemmung und Meteoriten-Mond hinein. Gisbert Brunner und Pe...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-05T09:01:23.000Z",
+      "score_quality": 66,
+      "score_notif": 34,
+      "cluster": "20261005-caefc0209bce",
       "cluster_main": true
     }
   ]
