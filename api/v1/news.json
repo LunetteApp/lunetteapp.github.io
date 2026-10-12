@@ -1,6 +1,6 @@
 {
-  "content_hash": "4cb01a802897042a2f7dbf9ffbd3c0ec866626657eff4376e1fd635d0cd70ef8",
-  "last_updated": "2026-10-12T14:47:15.234Z",
+  "content_hash": "6b164a561220bda8910c28172c0fc793dc01a402fadd351aaf5d5d300d750359",
+  "last_updated": "2026-10-12T15:47:46.529Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T13:47:05.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Photo Report: Watch Spotting At Bangkok Watch Week 2026",
+      "url": "https://www.hodinkee.com/articles/watch-spotting-at-bangkok-watch-week-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/2cd541e5-ed69-4221-8b75-c576e54c9c34/tan2h-bangkokwatchweek-apac-gtg-2026-03216-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "More than a hundred wristshots from an incredible gathering of watch collectors in Thailand, and the most double-wristing I've ever seen in one place.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T15:00:00.000Z",
+      "score_quality": 73,
+      "score_notif": 29,
+      "cluster": "20261012-34c8f97280d5",
+      "cluster_main": true
+    },
+    {
       "title": "Toledano & Chan Dazzles with their Latest Release",
       "url": "https://wornandwound.com/toledano-chan-dazzles-with-their-latest-release/",
       "image": "https://wornandwound.com/library/uploads/2026/10/2026_10_ToledanoChan_Razzle_001_WR.jpg",
@@ -256,8 +270,8 @@
       "published_at": "2026-10-12T11:00:16.000Z",
       "score_quality": 59,
       "score_notif": 34,
-      "cluster": "20261012-23fbb1b17174",
-      "cluster_main": true
+      "cluster": "20261006-0f4d4e9b5feb",
+      "cluster_main": false
     },
     {
       "title": "Hamilton American Classic Cushion : un voyage d’un siècle dans le temps",
@@ -536,8 +550,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261011-b6ccae64013a",
-      "cluster_main": true
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -746,8 +760,8 @@
       "published_at": "2026-10-10T10:47:46.000Z",
       "score_quality": 66,
       "score_notif": 34,
-      "cluster": "20261010-a032e69b569a",
-      "cluster_main": true
+      "cluster": "20261006-0f4d4e9b5feb",
+      "cluster_main": false
     },
     {
       "title": "World Watch Day 2026: Time as Living Heritage",
@@ -1083,7 +1097,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -1223,7 +1237,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1335,7 +1349,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1363,7 +1377,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -1461,7 +1475,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Eco-Drive PHOTON : la lumière fête ses 50 ans en version futuriste",
@@ -1475,7 +1489,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1840,20 +1854,6 @@
       "score_notif": 29,
       "cluster": "20261006-2822e51b1fba",
       "cluster_main": false
-    },
-    {
-      "title": "Intervista a Thierry Stern: Patek Philippe tra tradizione e futuro alla Watch Art Milano 2026",
-      "url": "https://www.perpetualpassion.com/2026/10/06/thierry-stern-intervista-patek-philippe-milano-2026/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/5_33A9398_-%C2%A9Meschina.jpg",
-      "peek_preview": "In occasione della Watch Art Grand Exhibition Milano 2026, abbiamo incontrato Thierry Stern, presidente di Patek Philippe, per una conversazione [...] L'articolo Intervista a Thierry Stern: Patek Philippe tra tradizione...",
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-06T10:20:23.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261006-a08cd7231dd1",
-      "cluster_main": true
     }
   ]
 }
