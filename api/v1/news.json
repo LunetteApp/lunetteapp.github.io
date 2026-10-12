@@ -1,6 +1,6 @@
 {
-  "content_hash": "a772cc552665513880a6bbfd946e852ad6b14c311d747e676899a040edb80c4a",
-  "last_updated": "2026-10-12T21:47:14.664Z",
+  "content_hash": "6b9448ce439da661471b948ba20747a42e5bbfb30969f0f42e88e30847c2deae",
+  "last_updated": "2026-10-12T22:47:27.641Z",
   "premium": {
     "links": []
   },
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T21:35:34.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-10T13:34:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T22:14:39.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
+      "url": "https://www.watchcollectinglifestyle.com/home/daniel-roth-extra-plat-rose-gold-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791843048099-4WM8M5O7YPRD4H420JAH/Daniel+Roth+Extra+Plat+Rose+Gold-1.jpg?format=1500w",
+      "peek_preview": "Daniel Roth’s post-revival strategy has largely been about proving that the founder’s design language—the double-ellipse case, the guilloché dials, the montre objet d’art ethos—can be executed with contemporary rigor wi...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T22:14:39.000Z",
+      "score_quality": 77,
+      "score_notif": 66,
+      "cluster": "20261012-58a06256a781",
+      "cluster_main": true
+    },
     {
       "title": "Hands On: Frederique Constant Classics Moneta Moonphase Watch",
       "url": "https://www.atimelyperspective.com/hands-on-frederique-constant-classics-moneta-moonphase-watch/",
@@ -493,7 +507,7 @@
       "featured": false,
       "published_at": "2026-10-11T22:30:29.000Z",
       "score_quality": 74,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261011-2d13dfbba663",
       "cluster_main": true
     },
@@ -620,8 +634,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261011-b6ccae64013a",
+      "cluster_main": true
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -761,7 +775,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -803,7 +817,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -1391,7 +1405,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1517,7 +1531,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Eco-Drive PHOTON : la lumière fête ses 50 ans en version futuriste",
@@ -1839,20 +1853,6 @@
       "score_quality": 61,
       "score_notif": 24,
       "cluster": "20261006-104889918eae",
-      "cluster_main": true
-    },
-    {
-      "title": "The Limited-Edition Diatom Inner Worlds Watch Collection Brings Space-Flown Pieces Of The Solar System To The Wrist",
-      "url": "https://www.ablogtowatch.com/the-limited-edition-diatom-inner-worlds-watch-collection-brings-space-flown-pieces-of-the-solar-system-to-the-wrist/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Diatom-Inner-Worlds-SP-FI-768x346.jpg",
-      "peek_preview": "Even in a watchmaking world filled with rare, exotic materials, nothing is as rare or exotic as elements sourced from outer space. The young, scientifically-minded watch brand Diatom goes even further, not only crafting...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-06T14:00:16.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261006-b899877f65f5",
       "cluster_main": true
     }
   ]
