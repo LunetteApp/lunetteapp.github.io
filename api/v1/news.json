@@ -1,6 +1,6 @@
 {
-  "content_hash": "979f963aff1a7907cbe0e0e737027dcc6f7c37e6793c47a0f1438031eabed59e",
-  "last_updated": "2026-10-12T00:47:06.926Z",
+  "content_hash": "48626377c4acf8aaa15ad719777840ff0cfdcb5ae4e1e35668e72c7a3ded1ee0",
+  "last_updated": "2026-10-12T01:47:13.725Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-10T10:47:46.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T01:00:56.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T00:00:24.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "The Art of Cloisonné at Patek Philippe",
+      "url": "https://watchesbysjx.com/2026/10/patek-philippe-cloisonne.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2022/05/patek-philippe-dome-clock-20145M-001-Singapore-Skyline-cortina-50th-15-300x200.jpg",
+      "peek_preview": "For some eight decades, Patek Philippe has been an important patron of cloisonné enamel, commissioning work that helped sustain the craft when demand for it had all but disappeared. From the enamel maps of Louis Cottier...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T01:00:56.000Z",
+      "score_quality": 86,
+      "score_notif": 24,
+      "cluster": "20261012-7dae4dc13952",
+      "cluster_main": true
+    },
     {
       "title": "カルティエ「ロードスター」が復活！ 個性的なデザインを継承しつつ現代的にアップデート",
       "url": "https://www.webchronos.net/news/175589/",
@@ -312,8 +326,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261011-b6ccae64013a",
-      "cluster_main": true
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -467,7 +481,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -509,7 +523,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -915,7 +929,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -929,7 +943,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -1643,20 +1657,6 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261007-6beba177db12",
-      "cluster_main": true
-    },
-    {
-      "title": "A. Lange & Söhne’s Singapore Pop-Up Explores Chronographs and Cars",
-      "url": "https://watchesbysjx.com/2026/10/lange-singapore-challenging-chronographs.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2025/05/Lange-1815-Chronograph-Concorso-2-300x200.jpg",
-      "peek_preview": "This month Singapore will play host to A. Lange & Söhne’s Challenging Chronographs, a pop-up exhibition exploring Lange’s iconic chronograph movements and the brand’s perennial presence at the automotive world’s most el...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T01:00:29.000Z",
-      "score_quality": 74,
-      "score_notif": 27,
-      "cluster": "20261007-149820d75a1c",
       "cluster_main": true
     },
     {
