@@ -1,6 +1,6 @@
 {
-  "content_hash": "583e6ebe9a4db674ee0ca0ff569c3b19824000e86dedf42b6852c5b244207c18",
-  "last_updated": "2026-10-12T05:47:39.006Z",
+  "content_hash": "5aee4cb46515170f833990a338d534f6c71f07dc2ac174f44861ac9671bb3d94",
+  "last_updated": "2026-10-12T07:47:33.551Z",
   "premium": {
     "links": []
   },
@@ -8,8 +8,8 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T05:00:18.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-11T09:35:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T07:00:32.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-11T07:01:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T07:01:26.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Actually Affordable: Mondaine Doppio Solar Skeleton Watch",
+      "url": "https://www.ablogtowatch.com/actually-affordable-mondaine-doppio-solar-skeleton-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Mondaine-Doppio-Solar-Skeleton-Watch-FEATURE-768x346.jpg",
+      "peek_preview": "Solar-powered watches are easily among the most practical kinds of timepieces, as they offer the advantages of a quartz movement without the need for routine battery replacements. That said, rarely do watches showcase s...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T07:01:26.000Z",
+      "score_quality": 57,
+      "score_notif": 48,
+      "cluster": "20261012-e33201cda422",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The Vulcain Skindiver Nautique GMT Gets Three Fresh New Colours",
+      "url": "https://monochrome-watches.com/vulcain-skindiver-nautique-gmt-new-colours-green-pink-turquoise-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Vulcain-Skindiver-GMT-green-pink-ice-blue-2026-editions-8-600x237.jpg",
+      "peek_preview": "For a while, the Vulcain Skindiver Nautique GMT kept things simple with black, white, and blue dials. Nothing wrong with that, of course. These are colours that work on just about any watch, especially one with vintage...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T07:00:32.000Z",
+      "score_quality": 78,
+      "score_notif": 62,
+      "cluster": "20261012-42685c1fd03b",
+      "cluster_main": true
+    },
+    {
       "title": "The Toledano & Chan B/1 Dazzle Confuses The Eye And Steals The Show",
       "url": "https://www.fratellowatches.com/the-toledano-chan-b-1-dazzle-confuses-the-eye-and-steals-the-show/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Toledano-Chan-B-1.3-Dazzle.jpg",
@@ -311,7 +339,7 @@
       "featured": false,
       "published_at": "2026-10-11T07:01:41.000Z",
       "score_quality": 81,
-      "score_notif": 47,
+      "score_notif": 34,
       "cluster": "20261011-bf0e9b9ac2f0",
       "cluster_main": true
     },
@@ -325,7 +353,7 @@
       "featured": false,
       "published_at": "2026-10-11T07:00:51.000Z",
       "score_quality": 63,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261011-c48b4cea9e52",
       "cluster_main": true
     },
@@ -340,8 +368,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261011-b6ccae64013a",
-      "cluster_main": true
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -481,7 +509,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -523,7 +551,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -915,7 +943,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -929,7 +957,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -969,20 +997,6 @@
       "featured": false,
       "published_at": "2026-10-09T06:01:29.000Z",
       "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261008-c67ec841554e",
-      "cluster_main": false
-    },
-    {
-      "title": "Industry News – F.P. Journe and Chanel Acquire 95% of EBEL from Movado Group",
-      "url": "https://monochrome-watches.com/fp-journe-chanel-pierre-jacques-acquire-95-percent-of-ebel-from-movado-group/",
-      "image": "https://monochrome-watches.com/app/uploads/2025/10/2025-Ebel-1911-Chronograph-Ice-Blue-Featured-600x237.jpg",
-      "peek_preview": "In a recent announcement by the Movado Group, Ebel is set to be acquired by a strategic buyer group led by Montres Journe SA, with the participation of Chanel (partial owner of F.P. Journe) and industry veteran and ex-C...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T05:48:39.000Z",
-      "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c67ec841554e",
       "cluster_main": false
@@ -1069,7 +1083,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1209,7 +1223,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -1837,20 +1851,6 @@
       "featured": false,
       "published_at": "2026-10-05T11:00:00.000Z",
       "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
-    },
-    {
-      "title": "Omega Seamaster Diver 300M: arrivano James Bond e Spectre",
-      "url": "https://www.orologidiclasse.com/omega-seamaster-diver-300m-james-bond-spectre/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/omega-seamaster-diver-300m-james-bond-spectre.jpg",
-      "peek_preview": "Spectre torna nel nome di un Seamaster, ma questa volta cambia parte. Omega dedica all’organizzazione nemica di 007 una linea propria, affiancandola ai nuovi Seamaster Diver 300M James Bond. Le nuove collezioni Omega Se...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-05T10:00:26.000Z",
-      "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
       "cluster_main": false
