@@ -1,6 +1,6 @@
 {
-  "content_hash": "6b164a561220bda8910c28172c0fc793dc01a402fadd351aaf5d5d300d750359",
-  "last_updated": "2026-10-12T15:47:46.529Z",
+  "content_hash": "3f353f3cf1394cf39d9f3dcf36d77394012f3017fa27971263a9cf77ba6c908e",
+  "last_updated": "2026-10-12T16:47:19.226Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T13:00:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T16:33:51.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T15:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Industry News – Modest Organic Growth for LVMH over the Third Quarter 2026",
+      "url": "https://monochrome-watches.com/modest-organic-growth-for-lvmh-over-the-third-quarter-2026/",
+      "image": "https://monochrome-watches.com/app/uploads/2018/07/lvmh-2018-half-year-report-watch-division-600x237.jpg",
+      "peek_preview": "French luxury group LVMH has just released its third-quarter 2026 results. Organic revenue growth came in at +1% in Q3 2026 and +2% over the first nine months of the year with revenues of EUR 57,148 millions. While thes...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T16:33:51.000Z",
+      "score_quality": 81,
+      "score_notif": 66,
+      "cluster": "20261012-58e475ba5636",
+      "cluster_main": true
+    },
     {
       "title": "Photo Report: Watch Spotting At Bangkok Watch Week 2026",
       "url": "https://www.hodinkee.com/articles/watch-spotting-at-bangkok-watch-week-2026",
@@ -691,7 +705,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -733,7 +747,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -760,8 +774,8 @@
       "published_at": "2026-10-10T10:47:46.000Z",
       "score_quality": 66,
       "score_notif": 34,
-      "cluster": "20261006-0f4d4e9b5feb",
-      "cluster_main": false
+      "cluster": "20261010-a032e69b569a",
+      "cluster_main": true
     },
     {
       "title": "World Watch Day 2026: Time as Living Heritage",
@@ -887,7 +901,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1016,20 +1030,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – Baltic Takes its Hermétique to Iceland with The Rift, And Adds a 34mm Version",
-      "url": "https://monochrome-watches.com/baltic-takes-its-hermetique-to-iceland-with-the-rift-and-adds-a-34mm-version/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Baltic-Hermetique-The-Rift-Edition-Cycling-34mm-37mm-4-600x237.jpg",
-      "peek_preview": "Baltic is marking its role as Official Timekeeper of The Rift with a new version of its sporty, rugged Hermétique, inspired by the colours of southern Iceland’s dramatic landscape. Held at the junction of the North Amer...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T12:00:29.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
-    },
-    {
       "title": "New Release: Seiko Power Design Project Collection 2 HHK001 And HHK002 ‘Panda Dial’ Watches",
       "url": "https://www.ablogtowatch.com/new-release-seiko-power-design-project-collection-2-hhk001-and-hhk002-panda-dial-watches/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Seiko-Power-Design-Project-Collection-2-Panda-Dial-Chronograph-Watches-HHK001-HHK002-768x346.jpg",
@@ -1097,7 +1097,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -1335,7 +1335,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Nomos Metro Gets an Ice Blue Color Scheme and a Brand-New Mechanical Caliber",
@@ -1349,7 +1349,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1405,7 +1405,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "BREAKING NEWS: F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1475,7 +1475,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Eco-Drive PHOTON : la lumière fête ses 50 ans en version futuriste",
@@ -1489,7 +1489,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1629,7 +1629,7 @@
       "score_quality": 59,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Cars, Chronographs And A. Lange & Söhne At Audrain Concours",
@@ -1643,7 +1643,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands On: Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
