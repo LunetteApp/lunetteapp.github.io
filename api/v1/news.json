@@ -1,6 +1,6 @@
 {
-  "content_hash": "008aa2223b8b4572f48ffdc055dccc2806540535cff43bd7498bcb6079f6943f",
-  "last_updated": "2026-10-12T18:47:13.664Z",
+  "content_hash": "45def3601edec6ed4ef52ffe92a68684c19e7ec99c2b22799c5c46837d1b8c2e",
+  "last_updated": "2026-10-12T19:47:00.835Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T18:00:45.000Z"
     },
     {
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T18:21:54.000Z"
     },
     {
@@ -747,7 +747,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -789,7 +789,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -1125,7 +1125,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -1265,7 +1265,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1405,7 +1405,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -1517,7 +1517,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1656,7 +1656,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-1aaf20d22ad7",
+      "cluster": "20261007-8d700be94eb6",
       "cluster_main": true
     },
     {
@@ -1671,7 +1671,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands On: Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1840,6 +1840,20 @@
       "score_notif": 34,
       "cluster": "20261006-b899877f65f5",
       "cluster_main": true
+    },
+    {
+      "title": "Seiko Power Design Project: Panda Chronograph",
+      "url": "https://deployant.com/seiko-power-design-project-panda-chronograph/?utm_source=rss&utm_medium=rss&utm_campaign=seiko-power-design-project-panda-chronograph",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/Main_Visual_SASAMETER_for-deployant.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Seiko releases a new chronograph which actually look like a panda, complete with droopy eyes for the black sub-dials, and black ears acting as pushers. This l...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T13:30:00.000Z",
+      "score_quality": 54,
+      "score_notif": 29,
+      "cluster": "20261006-2822e51b1fba",
+      "cluster_main": false
     }
   ]
 }
