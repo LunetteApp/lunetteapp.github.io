@@ -1,6 +1,6 @@
 {
-  "content_hash": "e848e05bc8bf3de4352b1bea9f05ea9597f035be84c9a3a61fed331afd72522b",
-  "last_updated": "2026-10-12T17:47:46.581Z",
+  "content_hash": "008aa2223b8b4572f48ffdc055dccc2806540535cff43bd7498bcb6079f6943f",
+  "last_updated": "2026-10-12T18:47:13.664Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T13:47:05.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T18:00:45.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T17:30:31.000Z"
     },
     {
@@ -37,8 +37,8 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-08T22:40:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T18:21:54.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T13:01:15.000Z"
     },
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T17:00:37.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Forget Ebel. Zenith did the 90s El Primero best",
+      "url": "https://www.unpolishedwatches.com/p/forget-ebel-zenith-did-the-90s-el",
+      "image": "https://substackcdn.com/image/fetch/$s_!NTDc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67e50c7d-9219-44f2-9ea2-fef54d89f87d_2048x2048.jpeg",
+      "peek_preview": "The De Luca, Rainbow Flyback, and the Chronomaster I’d buy, plus six for sale right now, all under $7k.",
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T18:21:54.000Z",
+      "score_quality": 37,
+      "score_notif": 22,
+      "cluster": "20261012-e2df9b15caed",
+      "cluster_main": true
+    },
+    {
+      "title": "Knicks In Five, But Movados In ’99",
+      "url": "https://wornandwound.com/knicks-in-five-but-movados-in-99/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/2026_09_DC_99-Knicks-Movado_009_WR.jpg",
+      "peek_preview": "By all accounts, the city of New York is still abuzz from its first NBA Championship in five decades. I’m not a local, but friends and basketball media alike recount stories of New Yorkers in Knicks gear fist-bumping on...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T18:00:45.000Z",
+      "score_quality": 41,
+      "score_notif": 18,
+      "cluster": "20261012-4951c543691b",
+      "cluster_main": true
+    },
     {
       "title": "Hands-on – The Updated Breguet Marine 5517, Navigating a More Classical Course",
       "url": "https://monochrome-watches.com/2026-updated-breguet-marine-5517-new-guilloche-dial-review-price/",
@@ -312,8 +340,8 @@
       "published_at": "2026-10-12T11:00:16.000Z",
       "score_quality": 59,
       "score_notif": 34,
-      "cluster": "20261006-0f4d4e9b5feb",
-      "cluster_main": false
+      "cluster": "20261012-23fbb1b17174",
+      "cluster_main": true
     },
     {
       "title": "Hamilton American Classic Cushion : un voyage d’un siècle dans le temps",
@@ -369,20 +397,6 @@
       "score_quality": 68,
       "score_notif": 70,
       "cluster": "20261012-05b56b9ed799",
-      "cluster_main": true
-    },
-    {
-      "title": "Saison-Start mit hohen Erwartungen: Monaco Legend Auctions im Herbst 2026",
-      "url": "https://www.uhrenkosmos.com/monaco-legend-auctions-im-herbst-2026-preview/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/4-Rolex-Cosmograph-Daytona-Unicate-die-im-Rahmen-einer-Charity-Auktion-von-Phillips-Bacs-Russo-fuer-ueber-40-Mio-USD-versteigert-wurden.jpg",
-      "peek_preview": "Außerordentliche Ergebnisse der Frühlingsauktionen mit jeder Menge Preisrekorden wecken Hoffnungen für die Monaco Legend Auctions im Herbst 2026. Dazu gelang es zuletzt, 4 einzigartige Rolex Daytonas zu über 40 Millione...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-12T08:05:13.000Z",
-      "score_quality": 54,
-      "score_notif": 29,
-      "cluster": "20261012-446cccbd31a2",
       "cluster_main": true
     },
     {
@@ -592,8 +606,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261011-b6ccae64013a",
-      "cluster_main": true
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -929,7 +943,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1419,7 +1433,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1825,34 +1839,6 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261006-b899877f65f5",
-      "cluster_main": true
-    },
-    {
-      "title": "Seiko Power Design Project: Panda Chronograph",
-      "url": "https://deployant.com/seiko-power-design-project-panda-chronograph/?utm_source=rss&utm_medium=rss&utm_campaign=seiko-power-design-project-panda-chronograph",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/Main_Visual_SASAMETER_for-deployant.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Seiko releases a new chronograph which actually look like a panda, complete with droopy eyes for the black sub-dials, and black ears acting as pushers. This l...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-06T13:30:00.000Z",
-      "score_quality": 58,
-      "score_notif": 29,
-      "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
-    },
-    {
-      "title": "Patek Philippe Watch Art Grand Exhibition 2026: Ausflug in die Welt von Patek Philippe",
-      "url": "https://www.uhrenkosmos.com/patek-philippe-watch-art-grand-exhibition-2026/",
-      "image": "https://www.youtube.com/embed/P5YSw7iC4aM",
-      "peek_preview": "Archivschätze, historische Uhren, ganze Generationen von Kalibern und seltene Handwerkskünste: Die Watch Art Grand Exhibition 2026 in Mailand ist die bislang größte Wanderausstellung von Patek Philippe.",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-06T13:22:45.000Z",
-      "score_quality": 70,
-      "score_notif": 34,
-      "cluster": "20261006-0f4d4e9b5feb",
       "cluster_main": true
     }
   ]
