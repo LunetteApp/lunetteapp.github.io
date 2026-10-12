@@ -1,6 +1,6 @@
 {
-  "content_hash": "5aee4cb46515170f833990a338d534f6c71f07dc2ac174f44861ac9671bb3d94",
-  "last_updated": "2026-10-12T07:47:33.551Z",
+  "content_hash": "4371c43fa87c996275217b0693a24bdf070ec6ec1a6dbb0a80ce151041ce4d8f",
+  "last_updated": "2026-10-12T09:47:03.018Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T05:00:18.000Z"
+      "estimated_articles_per_day": 3.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T09:00:08.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -24,13 +24,13 @@
       "lang": "en",
       "estimated_articles_per_day": 3.6,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-12T07:00:32.000Z"
+      "latest_article_at": "2026-10-12T09:30:44.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-12T07:01:26.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-11T14:30:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-12T09:00:02.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The New and Stylish Pequignet Attitude Onyx",
+      "url": "https://monochrome-watches.com/pequignet-attitude-onyx-dial-calibre-initial-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Pequignet-Attitude-Onyx-Calibre-Initial-11-600x237.jpg",
+      "peek_preview": "After last year’s limited-edition Attitude with Tiger’s Eye dial, Pequignet continues to expand its collection with a version that once again puts the dial material centre stage. Called the Attitude Onyx, this new model...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T09:30:44.000Z",
+      "score_quality": 80,
+      "score_notif": 63,
+      "cluster": "20261012-8d015646858a",
+      "cluster_main": true
+    },
+    {
+      "title": "Does Finishing Make A Watch Movement Work Well, Or Is It Just A Beautifying Trick?",
+      "url": "https://www.fratellowatches.com/does-finishing-make-a-watch-movement-work-well/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Collage-Finishing.jpg",
+      "peek_preview": "These days, “finishing” is a buzzword. Talk to fans of high horology, and you will most likely hear terms like “anglage,” “black polish,” and “perlage.” It seems like everything is about finishing nowadays, which made a...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T09:00:08.000Z",
+      "score_quality": 74,
+      "score_notif": 24,
+      "cluster": "20261012-ada23c031398",
+      "cluster_main": true
+    },
+    {
+      "title": "The TAG Heuer Formula 1 Solargraph x Red Bull Racing celebrates a decade of going flat-out",
+      "url": "https://timeandtidewatches.com/tag-heuer-formula-1-red-bull-racing-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-tag-heuer-formula1-red-bull-racing-edition.jpg",
+      "peek_preview": "TAG Heuer celebrates 10 years with Red Bull Racing with a Formula 1 Solargraph featuring the team's iconic colours and solar-powered movement. The post The TAG Heuer Formula 1 Solargraph x Red Bull Racing celebrates a d...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-12T09:00:02.000Z",
+      "score_quality": 68,
+      "score_notif": 70,
+      "cluster": "20261012-05b56b9ed799",
+      "cluster_main": true
+    },
     {
       "title": "Actually Affordable: Mondaine Doppio Solar Skeleton Watch",
       "url": "https://www.ablogtowatch.com/actually-affordable-mondaine-doppio-solar-skeleton-watch/",
@@ -325,7 +367,7 @@
       "featured": false,
       "published_at": "2026-10-11T09:00:06.000Z",
       "score_quality": 67,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261011-e10fa8bdeb1a",
       "cluster_main": true
     },
@@ -481,7 +523,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
@@ -509,7 +551,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -551,7 +593,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -705,7 +747,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -789,7 +831,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora",
@@ -932,20 +974,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – Angelus Puts a Tachymeter on Its Vintage-Inspired Monopusher Chronograph",
-      "url": "https://monochrome-watches.com/angelus-chronographe-tachymetre-monopusher-collection-2026-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Angelus-Chronographe-Tachymetre-Monopusher-1-600x237.jpg",
-      "peek_preview": "Angelus continues to revive its historical stopwatch designs with the new Chronographe Tachymètre, a trio of compact monopusher watches that follows last year’s Chronographe Télémètre. The new watches share the same cas...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T08:01:23.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261009-7f20ac2978c7",
-      "cluster_main": false
-    },
-    {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
       "url": "https://www.hodinkee.com/articles/angelus-chronographe-tachymetre-live-pics",
       "image": "https://hodinkee.imgix.net/uploads/images/2fc449f0-e053-45bb-b3cc-05fa4fd07465/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1083,7 +1111,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1251,21 +1279,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
-    },
-    {
-      "title": "The Royal Marine-Approved Bremont Supermarine Full Ceramic Deep Blue Makes Its Debut",
-      "url": "https://www.fratellowatches.com/the-royal-marine-approved-bremont-supermarine-full-ceramic-deep-blue/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Bremont-Collage.jpg",
-      "peek_preview": "There were already Jungle Green, Tactical Black, and Polar White versions of this watch, and now there’s a fourth variation. The Royal Marine-approved Supermarine Full Ceramic Deep Blue is an aquatic-colored extension o...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T13:00:03.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The Wren Vessel",
@@ -1279,7 +1293,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "BREAKING NEWS: F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1840,20 +1854,6 @@
       "score_notif": 27,
       "cluster": "20261005-734f09fcc4b2",
       "cluster_main": true
-    },
-    {
-      "title": "OMEGA svela i nuovi Seamaster Diver 300M: Team James Bond o SPECTRE?",
-      "url": "https://italianwatchspotter.com/omega-seamaster-diver-300m-james-bond-e-spectre/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/SE-_BondSpectre_ADV_Family_Duo_4_5_RVB-819x1024.jpg",
-      "peek_preview": "James Bond e SPECTRE, per la prima volta, nella stessa collezione OMEGA. Dopo oltre trent’anni di presenza al polso di 007, il Seamaster Diver 300M riunisce i due avversari della saga attraverso sei nuove referenze, tre...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-05T11:00:00.000Z",
-      "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
     }
   ]
 }
