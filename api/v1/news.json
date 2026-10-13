@@ -1,6 +1,6 @@
 {
-  "content_hash": "24f663f28a8a1e6ddeabf46d0b156b56c1363762d5dd0b41a631ddb78e37253a",
-  "last_updated": "2026-10-13T10:47:38.202Z",
+  "content_hash": "b36a5c4b5ad79903313f78594d1ca18bf6bcfd88604d78b1a0c32715879e4d62",
+  "last_updated": "2026-10-13T11:47:57.703Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T10:00:36.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T10:01:00.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-13T10:29:08.000Z"
+      "latest_article_at": "2026-10-13T11:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Introducing: Garmin Marq 3 (Live Photos)",
+      "url": "https://www.hodinkee.com/articles/garmin-marq-3-live-photos",
+      "image": "https://hodinkee.imgix.net/uploads/images/bc6e23a0-08ab-4bd0-ad7b-addc3311597a/Untitled-4.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The third-generation Marq redesigns the case, adds satellite and LTE, and introduces a Dive-focused model.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T11:00:00.000Z",
+      "score_quality": 82,
+      "score_notif": 72,
+      "cluster": "20261013-d2ab254411d7",
+      "cluster_main": true
+    },
+    {
       "title": "Vacheron Constantin And Phillips Announce 34 Finalists For The Inaugural Concours D'Élégance Horlogère",
       "url": "https://www.hodinkee.com/articles/vacheron-constantin-and-phillips-announce-34-finalists-for-the-inaugural-concours-delegance-horloger",
       "image": "https://hodinkee.imgix.net/uploads/images/6ab63422-086f-4305-9994-9c4e59efafcf/VacheronHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -241,9 +255,9 @@
       "featured": false,
       "published_at": "2026-10-13T07:01:41.000Z",
       "score_quality": 83,
-      "score_notif": 70,
+      "score_notif": 72,
       "cluster": "20261013-d2ab254411d7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The MeisterSinger No03 and Perigraph Special Editions with Turquoise Dials",
@@ -271,7 +285,7 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Wren Vessel: A Surprisingly Wearable Integrated-Bracelet Watch For The Future",
@@ -774,8 +788,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261011-b6ccae64013a",
+      "cluster_main": true
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -915,7 +929,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -957,7 +971,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -1352,20 +1366,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: The Sexy, Secretive Toledano & Chan Oshinobi, With Commentary From Phil Toledano",
-      "url": "https://www.hodinkee.com/articles/the-sexy-secretive-toledano-and-chan-oshinobi-with-commentary-from-phil-toledano",
-      "image": "https://hodinkee.imgix.net/uploads/images/931a2fce-67fb-4807-bccb-1bd68d539774/Tchero.png?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Diamonds on the soles of her shoes.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T21:04:28.000Z",
-      "score_quality": 78,
-      "score_notif": 28,
-      "cluster": "20261008-708d072a16ad",
-      "cluster_main": true
-    },
-    {
       "title": "Wren Introduces the Vessel, a New Integrated Bracelet Sports Watch",
       "url": "https://wornandwound.com/wren-introduces-the-vessel-a-new-integrated-bracelet-sports-watch/",
       "image": "https://wornandwound.com/library/uploads/2026/10/Wren-Vessel-66.jpg",
@@ -1461,7 +1461,7 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Nomos Metro Gets an Ice Blue Color Scheme and a Brand-New Mechanical Caliber",
@@ -1475,7 +1475,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1601,7 +1601,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Eco-Drive PHOTON : la lumière fête ses 50 ans en version futuriste",
