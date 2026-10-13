@@ -1,6 +1,6 @@
 {
-  "content_hash": "5c2011c85fa5e2db17740c3c3842be885398457723a5d49415f5c865cfe2410c",
-  "last_updated": "2026-10-13T16:47:27.122Z",
+  "content_hash": "7ef4a2d420154481424172c36bfbbe8271075855f1149f8630596e42463bf65d",
+  "last_updated": "2026-10-13T17:47:20.385Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T17:33:16.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T16:05:27.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T16:10:07.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T12:01:47.000Z"
     },
@@ -121,14 +121,14 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T15:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T16:00:47.000Z"
     },
     {
@@ -509,7 +509,7 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Wren Vessel: A Surprisingly Wearable Integrated-Bracelet Watch For The Future",
@@ -619,7 +619,7 @@
       "featured": false,
       "published_at": "2026-10-12T17:30:31.000Z",
       "score_quality": 84,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261012-a1fdad819edb",
       "cluster_main": true
     },
@@ -746,8 +746,8 @@
       "published_at": "2026-10-12T11:00:16.000Z",
       "score_quality": 59,
       "score_notif": 34,
-      "cluster": "20261012-23fbb1b17174",
-      "cluster_main": true
+      "cluster": "20261010-a032e69b569a",
+      "cluster_main": false
     },
     {
       "title": "Hamilton American Classic Cushion : un voyage d’un siècle dans le temps",
@@ -1012,8 +1012,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261011-b6ccae64013a",
-      "cluster_main": true
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -1629,20 +1629,6 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
-    },
-    {
-      "title": "The Nomos Metro Gets an Ice Blue Color Scheme and a Brand-New Mechanical Caliber",
-      "url": "https://wornandwound.com/the-nomos-metro-gets-an-ice-blue-color-scheme-and-a-brand-new-mechanical-caliber/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Nomos-Metro-Blue-banner.jpg",
-      "peek_preview": "Earlier this year, I got a whole new appreciation for the Nomos Metro after sitting down with its creator, Mark Braun. The collection first came into the Nomos catalog back in 2014 and debuted the brand’s proprietary sw...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T14:00:18.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261008-1f90043def07",
       "cluster_main": false
     },
     {
@@ -1768,7 +1754,7 @@
       "published_at": "2026-10-08T10:25:31.000Z",
       "score_quality": 75,
       "score_notif": 34,
-      "cluster": "20261008-1f90043def07",
+      "cluster": "20261008-34a6f96f983b",
       "cluster_main": true
     },
     {
