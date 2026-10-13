@@ -1,6 +1,6 @@
 {
-  "content_hash": "815bd74eaefd475ddaa58e466041ccb846860cd16515d1ac484465910f829708",
-  "last_updated": "2026-10-13T07:47:26.546Z",
+  "content_hash": "5c7348d3152d0a258ec53a8d57294fbc2c7e7d7dca07d17a1b292291f42a14b9",
+  "last_updated": "2026-10-13T08:47:06.864Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T07:00:15.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T07:01:41.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T13:01:15.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T08:00:06.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Fortis gives its Novonaut a glow up",
+      "url": "https://timeandtidewatches.com/fortis-novonaut-n-42-halo-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/fortis-novonaut-n-42-halo-1.jpg",
+      "peek_preview": "A no-nonsense diving chronograph gets a glowing facelift with some extra power added under the hood as well. The post Fortis gives its Novonaut a glow up appeared first on Time+Tide Watches.",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T08:00:06.000Z",
+      "score_quality": 46,
+      "score_notif": 61,
+      "cluster": "20261013-34d7622c16c6",
+      "cluster_main": true
+    },
+    {
       "title": "Hands-On Debut: Garmin Launches Third Generation Premium-Positioned Titanium & Ceramic MARQ Smartwatches",
       "url": "https://www.ablogtowatch.com/garmin-launches-third-generation-premium-positioned-titanium-ceramic-marq-smartwatches/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Garmin-MARQ-Generation-3-smartwatch-launch-45-768x346.jpg",
@@ -215,12 +229,12 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Wren Vessel: A Surprisingly Wearable Integrated-Bracelet Watch For The Future",
       "url": "https://www.fratellowatches.com/hands-on-new-wren-vessel/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Wren-Vessel-5.jpg",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Wren-Vessel-4.jpg",
       "peek_preview": "After the 41mm Diver One and the fan-favorite Diver 38 Seafoam, New York-based Wrist Enthusiast founder Craig Karger is back with a new Wren watch. Karger felt there were already too many vintage-inspired integrated-bra...",
       "source_name": "Fratello Watches",
       "lang": "en",
@@ -718,8 +732,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261011-b6ccae64013a",
+      "cluster_main": true
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -1012,8 +1026,8 @@
       "published_at": "2026-10-10T00:00:46.000Z",
       "score_quality": 81,
       "score_notif": 32,
-      "cluster": "20261006-952225f74357",
-      "cluster_main": false
+      "cluster": "20261010-334edad1fb2c",
+      "cluster_main": true
     },
     {
       "title": "13 Of The Best Vintage-Inspired Watches Under $5,000",
@@ -1055,7 +1069,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1447,7 +1461,7 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Nomos Metro Gets an Ice Blue Color Scheme and a Brand-New Mechanical Caliber",
@@ -1517,7 +1531,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1840,20 +1854,6 @@
       "score_notif": 29,
       "cluster": "20261006-2822e51b1fba",
       "cluster_main": false
-    },
-    {
-      "title": "From the Editor: Armin Strom Tribute³ Au750—Eight Pieces, Solid Gold Bridges, and Three Different Guilloché Patterns",
-      "url": "https://www.watchcollectinglifestyle.com/home/armin-strom-tribute-3-au750-guilloche-watch",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791306900479-S8BG0K10ST23THKQHBS8/Armin+Strom+Tribute%C2%B3+Au750.jpg?format=1500w",
-      "peek_preview": "I have been collecting watches for over 36 years, and I rarely say this about a limited edition, but the new Armin Strom Tribute³ Au750 is one of the best releases the brand has ever made—of course, after my beloved WCL...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-06T18:06:44.000Z",
-      "score_quality": 57,
-      "score_notif": 32,
-      "cluster": "20261006-952225f74357",
-      "cluster_main": true
     }
   ]
 }
