@@ -1,6 +1,6 @@
 {
-  "content_hash": "7caa97b38bc4f6b680516959e7e3044a749308136677585cac8572fa67c3a4c6",
-  "last_updated": "2026-10-13T14:47:35.394Z",
+  "content_hash": "59e1f56230891b4f82b1567dd785b9f307dac12c30aa5eb5148efd5fae11c6f7",
+  "last_updated": "2026-10-13T15:47:09.487Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T14:00:00.000Z"
     },
     {
@@ -57,7 +57,7 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T13:30:00.000Z"
     },
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T22:14:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T15:30:17.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T13:55:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T15:45:13.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "MB&F LM1 EVO: il ritorno di un’icona",
+      "url": "https://www.watchinsanity.it/mbf-lm1-evo-2026/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/MBF_LM1_EVO_Watch_Insanity_05-1024x682.jpg",
+      "peek_preview": "MB&F presenta la LM1 EVO: cassa da 42 mm, doppio fuso orario, riserva di carica da 60 ore e due versioni in titanio e oro rosa. Tutte le novità e i prezzi. The post MB&F LM1 EVO: il ritorno di un’icona appeared first on...",
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-13T15:45:13.000Z",
+      "score_quality": 60,
+      "score_notif": 82,
+      "cluster": "20261013-add4892e047e",
+      "cluster_main": false
+    },
+    {
+      "title": "Insider: BLOCK RG Stealth Tourbillon Azure Blue Edition—Blue Accents and Only Eight Pieces",
+      "url": "https://www.watchcollectinglifestyle.com/home/block-rg-stealth-tourbillon-azure-blue-edition-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791904526097-YVJPJQUFAHU6GVIVAFEY/BLOCK+RG+Stealth+Azure+Blue+Edition-11.jpg?format=1500w",
+      "peek_preview": "Block RG was founded by Romas Gimbutis, drawing on decades of expertise in jewelry craftsmanship, precision engineering, and haute horlogerie. Now he channels that knowledge into materials and technologies from aerospac...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T15:30:17.000Z",
+      "score_quality": 66,
+      "score_notif": 53,
+      "cluster": "20261013-0779f09cbf1d",
+      "cluster_main": true
+    },
     {
       "title": "RGM Introduces the New 501-PC Perpetual Calendar",
       "url": "https://wornandwound.com/rgm-introduces-the-new-501-pc-perpetual-calendar/",
@@ -425,7 +453,7 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Wren Vessel: A Surprisingly Wearable Integrated-Bracelet Watch For The Future",
@@ -928,8 +956,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261011-b6ccae64013a",
-      "cluster_main": true
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -1237,7 +1265,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1559,7 +1587,7 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Nomos Metro Gets an Ice Blue Color Scheme and a Brand-New Mechanical Caliber",
@@ -1573,7 +1601,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1629,7 +1657,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1699,7 +1727,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen Eco-Drive PHOTON : la lumière fête ses 50 ans en version futuriste",
@@ -1826,34 +1854,6 @@
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
-      "url": "https://deployant.com/introducing-jacob-co-palatial-flying-tourbillon-minute-repeater/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-jacob-co-palatial-flying-tourbillon-minute-repeater",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/5-for-deployant.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Jacob & Co returns to a complication cocktail they introduced in 2014: the flying tourbillon with minute repeater. Today, they released a revisit, and present...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T13:00:00.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261007-0cc6d8e35199",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: Limited Edition Gerald Charles Maestro GC Sport Tennis Turquoise In Attractive Sporting Color",
-      "url": "https://www.ablogtowatch.com/new-release-the-limited-edition-gerald-charles-maestro-gc-sport-tennis-turquoise-offers-attractive-sporting-color/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Gerald-Charles-Maestro-GC-Sport-Tennis-Turquoise-LOR-Crop-1-768x346.jpg",
-      "peek_preview": "While it may not be the longest-running brand relationship in the sport, Gerald Charles has made a serious commitment to tennis over the years. Through a variety of different iterations and colorways, its unique, baroqu...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T12:00:36.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261007-e276601e2e8a",
-      "cluster_main": true
     }
   ]
 }
