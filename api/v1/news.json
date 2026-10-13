@@ -1,6 +1,6 @@
 {
-  "content_hash": "dc99adb441c0d44fd31fc175c83b0e6d8f3ccba3d572216f7b42afed9bdfc46b",
-  "last_updated": "2026-10-13T00:47:19.648Z",
+  "content_hash": "bed989dd07383b5d9062931b24dba636c81563927be5a4add7ca2100832483f2",
+  "last_updated": "2026-10-13T01:47:02.446Z",
   "premium": {
     "links": []
   },
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T00:00:36.000Z"
     },
     {
@@ -648,8 +648,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261011-b6ccae64013a",
-      "cluster_main": true
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -789,7 +789,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -831,7 +831,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -985,7 +985,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1167,7 +1167,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Angelus Chronographe Tachymètre (Live Pics)",
@@ -1475,7 +1475,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1559,7 +1559,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
@@ -1772,20 +1772,6 @@
       "cluster_main": true
     },
     {
-      "title": "Seiko’s Power Design Project “Panda” Comes to Life",
-      "url": "https://watchesbysjx.com/2026/10/seiko-power-design-project-panda-chronograph-hhk001-hhk002.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Seiko-power-design-project-panda-HHK001-HHK002-300x200.jpg",
-      "peek_preview": "Seiko takes a break from its usual fare of affordable dive watches and dress watches with the Power Design Project Collection 2 “Panda” in black (HHK001) and pink (HHK002). It’s a limited edition run of a concept watch...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T09:21:49.000Z",
-      "score_quality": 81,
-      "score_notif": 29,
-      "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
-    },
-    {
       "title": "Watch Review: Chopard Happy Sport 36mm In Lucent Steel",
       "url": "https://www.ablogtowatch.com/watch-review-chopard-happy-sport-36mm-in-lucent-steel/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Chopard-Happy-Sport-36mm-Lucent-Steel-278559-3002-20-768x346.jpg",
@@ -1853,6 +1839,20 @@
       "score_quality": 61,
       "score_notif": 24,
       "cluster": "20261006-104889918eae",
+      "cluster_main": true
+    },
+    {
+      "title": "The Limited-Edition Diatom Inner Worlds Watch Collection Brings Space-Flown Pieces Of The Solar System To The Wrist",
+      "url": "https://www.ablogtowatch.com/the-limited-edition-diatom-inner-worlds-watch-collection-brings-space-flown-pieces-of-the-solar-system-to-the-wrist/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Diatom-Inner-Worlds-SP-FI-768x346.jpg",
+      "peek_preview": "Even in a watchmaking world filled with rare, exotic materials, nothing is as rare or exotic as elements sourced from outer space. The young, scientifically-minded watch brand Diatom goes even further, not only crafting...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-06T14:00:16.000Z",
+      "score_quality": 52,
+      "score_notif": 22,
+      "cluster": "20261006-b899877f65f5",
       "cluster_main": true
     }
   ]
