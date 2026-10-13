@@ -1,6 +1,6 @@
 {
-  "content_hash": "7ef4a2d420154481424172c36bfbbe8271075855f1149f8630596e42463bf65d",
-  "last_updated": "2026-10-13T17:47:20.385Z",
+  "content_hash": "ce7e9e6c5d893bbeb9f76218989043f02ad0d17194d9e5fbd2ce9575d538ded3",
+  "last_updated": "2026-10-13T18:47:12.191Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
+      "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-13T17:33:16.000Z"
+      "latest_article_at": "2026-10-13T18:00:29.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T15:30:17.000Z"
+      "estimated_articles_per_day": 1.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T17:45:53.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Reconsidering A Smartwatch: The Garmin MARQ 3",
+      "url": "https://wornandwound.com/reconsidering-a-smartwatch-the-garmin-marq-3/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/GARMIN_MARQ3_INTRO_012_WR.jpg",
+      "peek_preview": "One side effect of working in the watch industry is becoming the default person to ask when there’s a watch-adjacent question. While I have a go-to answer for most questions, the occasional “What smartwatch should I buy...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T18:00:29.000Z",
+      "score_quality": 56,
+      "score_notif": 72,
+      "cluster": "20261013-d2ab254411d7",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
+      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-lm1-evo-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791913354304-SKVX5XC8IG667BN1Z253/MB%26F+LM1+EVO-21.jpg?format=1500w",
+      "peek_preview": "Fifteen years is a long time in independent watchmaking, and the MB&F LM1 has spent every one of them proving that a watch can build its identity on ideas rather than formulas. Now, the Legacy Machine story circles back...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T17:45:53.000Z",
+      "score_quality": 83,
+      "score_notif": 82,
+      "cluster": "20261013-add4892e047e",
+      "cluster_main": false
+    },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
       "url": "https://teddybaldassarre.com/blogs/watches/seiko-x-padi-dive-watches",
@@ -283,8 +311,8 @@
       "featured": false,
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
-      "score_notif": 63,
-      "cluster": "20261013-b78dfc76b202",
+      "score_notif": 34,
+      "cluster": "20261012-a1fdad819edb",
       "cluster_main": true
     },
     {
@@ -549,9 +577,9 @@
       "featured": false,
       "published_at": "2026-10-13T00:00:36.000Z",
       "score_quality": 69,
-      "score_notif": 63,
-      "cluster": "20261013-69cf912bc63d",
-      "cluster_main": true
+      "score_notif": 34,
+      "cluster": "20261012-a1fdad819edb",
+      "cluster_main": false
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -621,7 +649,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261012-a1fdad819edb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Time on Show 2026: quattro giorni tra i tesori più rari dell’orologeria vintage",
@@ -746,8 +774,8 @@
       "published_at": "2026-10-12T11:00:16.000Z",
       "score_quality": 59,
       "score_notif": 34,
-      "cluster": "20261010-a032e69b569a",
-      "cluster_main": false
+      "cluster": "20261012-23fbb1b17174",
+      "cluster_main": true
     },
     {
       "title": "Hamilton American Classic Cushion : un voyage d’un siècle dans le temps",
@@ -1111,7 +1139,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
@@ -1363,7 +1391,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora",
@@ -1825,20 +1853,6 @@
       "score_quality": 33,
       "score_notif": 29,
       "cluster": "20261008-0d7d36624f46",
-      "cluster_main": true
-    },
-    {
-      "title": "H. Moser & Cie. Pioneer, Streamliner, Endeavour: Secondi Retrogradi a Tutto Gas",
-      "url": "https://www.orologidiclasse.com/h-moser-cie-secondi-retrogradi-pioneer-streamliner-endeavour/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/h-moser-cie-pioneer-streamliner-endeavour-secondi-retrogradi.jpg",
-      "peek_preview": "Non è passata una settimana da quando ho scritto del rivoluzionario Off-Grid, e la mente ribelle e fantasiosa di Edouard Meylan fa ancora capolino, ma stavolta rimette un piede, anzi due, nell’Alta Orologeria più tradiz...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-07T18:00:25.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261007-8814bf3bc7e1",
       "cluster_main": true
     }
   ]
