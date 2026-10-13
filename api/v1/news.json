@@ -1,6 +1,6 @@
 {
-  "content_hash": "7349a61229b66c79fa4cd1605a78f537de16a34588f4ddef3c3b22067760b86c",
-  "last_updated": "2026-10-13T12:48:09.163Z",
+  "content_hash": "21ba8d4bf15f463ead85d352bf137f3cee42b952f6307ff510ead2686526d623",
+  "last_updated": "2026-10-13T13:47:55.719Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T10:00:36.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T13:00:00.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T12:01:58.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
+      "estimated_articles_per_day": 2.1,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-13T12:00:19.000Z"
+      "latest_article_at": "2026-10-13T13:00:45.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -57,29 +57,29 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T13:30:00.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-13T12:00:00.000Z"
+      "latest_article_at": "2026-10-13T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T12:00:11.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T12:01:47.000Z"
     },
     {
@@ -176,6 +176,62 @@
   ],
   "items": [
     {
+      "title": "The Breguet Marine 5517 and 5527: Now with even more Breguet",
+      "url": "https://deployant.com/breguet-marine-5517-5527/?utm_source=rss&utm_medium=rss&utm_campaign=breguet-marine-5517-5527",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/Embargo-24.09.26_10-AM-CET_Breguet-Marine_5517TIY9TZO_Deployant.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Breguet refreshes its Marine collection with the updated 5517 three-hander and 5527 flyback chronograph, introducing new guilloché dials, Breguet numerals and...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T13:30:00.000Z",
+      "score_quality": 61,
+      "score_notif": 63,
+      "cluster": "20261013-b78dfc76b202",
+      "cluster_main": true
+    },
+    {
+      "title": "MB&F LM1 Evo Hands-On: The Two-Time Hybrid Sport Heritage Watch",
+      "url": "https://www.ablogtowatch.com/mbf-lm1-evo-hands-on-the-two-time-hybrid-sport-heritage-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/MBF-LM1-Evo-Watch-17-768x346.jpg",
+      "peek_preview": "Geneva-based MB&F is a brand I’ve been covering since nearly the start of aBlogtoWatch. I started covering MB&F when it launched its second major model — the Horological Machine No. 2. — and I recall most of the brand’s...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T13:00:45.000Z",
+      "score_quality": 81,
+      "score_notif": 82,
+      "cluster": "20261013-add4892e047e",
+      "cluster_main": false
+    },
+    {
+      "title": "Inside The Swatch Sistem51 And Bioceramic Production Sites",
+      "url": "https://www.fratellowatches.com/inside-the-swatch-sistem51-and-bioceramic-production-sites/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Swatch_Boncourt_Visit_2026-24.jpg",
+      "peek_preview": "In September, I ended up spending more time in airport lounges than in my living room at home. Sometimes, that’s not so bad, especially when it means new opportunities! One highlight was visiting Switzerland to tour two...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T13:00:00.000Z",
+      "score_quality": 87,
+      "score_notif": 41,
+      "cluster": "20261013-925977134414",
+      "cluster_main": true
+    },
+    {
+      "title": "Talking Watches: With Eric Wind & Charlie Dunne, Where Every Watch Tells A Personal Story",
+      "url": "https://www.hodinkee.com/articles/with-eric-wind-and-charlie-dunne-where-every-watch-tells-a-personal-story",
+      "image": "https://hodinkee.imgix.net/uploads/images/2603d580-6aad-4f75-a4d0-1e37bdfac54d/option2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "They spend their lives finding watches for other people. This time, two of the vintage world's most respected voices show us the watches they've kept in their collections.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T13:00:00.000Z",
+      "score_quality": 89,
+      "score_notif": 47,
+      "cluster": "20261013-07c563393ef4",
+      "cluster_main": true
+    },
+    {
       "title": "First Look – The MB&F Legacy Machine 1 Is Back and Ready for Action as the LM1 EVO",
       "url": "https://monochrome-watches.com/the-mbf-legacy-machine-1-is-back-and-ready-for-action-as-the-lm1-evo/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/MBandF-LM1-EVO-Return-of-the-Legacy-Machine-1-Review-8-600x237.jpg",
@@ -187,7 +243,7 @@
       "score_quality": 88,
       "score_notif": 82,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F finally gives its original Legacy Machine design the sporty EVO treatment after 15 years",
@@ -229,7 +285,7 @@
       "score_quality": 89,
       "score_notif": 82,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Original MB&F Legacy Machine 1 Gets The EVO Treatment",
@@ -355,7 +411,7 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Wren Vessel: A Surprisingly Wearable Integrated-Bracelet Watch For The Future",
@@ -858,8 +914,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261011-b6ccae64013a",
+      "cluster_main": true
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -1167,7 +1223,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1279,20 +1335,6 @@
       "score_quality": 76,
       "score_notif": 29,
       "cluster": "20261006-2822e51b1fba",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The CIGA Design Hunter Tourbillon In Blue",
-      "url": "https://www.fratellowatches.com/hands-on-the-ciga-design-hunter-tourbillon-in-blue/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/CIGA-Design-Hunter-Tourbillon.jpg",
-      "peek_preview": "CIGA design is a Shenzhen-based watch brand that has been producing watches since 2016. I’d say the turning point came in 2021, when the brand’s Blue Planet won the Challenge Watch Prize at the Grand Prix d’Horlogerie d...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T11:00:26.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261009-189a2a4c6b0b",
       "cluster_main": true
     },
     {
@@ -1503,7 +1545,7 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Nomos Metro Gets an Ice Blue Color Scheme and a Brand-New Mechanical Caliber",
@@ -1573,7 +1615,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1768,7 +1810,7 @@
       "published_at": "2026-10-07T17:08:26.000Z",
       "score_quality": 59,
       "score_notif": 28,
-      "cluster": "20261007-8d700be94eb6",
+      "cluster": "20261007-1aaf20d22ad7",
       "cluster_main": true
     },
     {
@@ -1783,7 +1825,7 @@
       "score_quality": 54,
       "score_notif": 28,
       "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing Jacob & Co. Palatial Flying Tourbillon Minute Repeater",
@@ -1811,48 +1853,6 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261007-e276601e2e8a",
-      "cluster_main": true
-    },
-    {
-      "title": "The Tissot Supersport NBA turns the shot clock into a surprisingly sleek-looking chronograph",
-      "url": "https://timeandtidewatches.com/tissot-supersport-nba-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-tissot-supersport-nba.jpg",
-      "peek_preview": "Tissot brings basketball to the wrist with the Supersport NBA, featuring a 24-second bezel, court-inspired dial and grey sportswear styling. The post The Tissot Supersport NBA turns the shot clock into a surprisingly sl...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T11:42:15.000Z",
-      "score_quality": 66,
-      "score_notif": 34,
-      "cluster": "20261007-0caad4796a23",
-      "cluster_main": true
-    },
-    {
-      "title": "Ferragamo Entrelacé: un po’ orologio, un po’ bijou",
-      "url": "https://giornaleorologi.it/2026/10/07/ferragamo-entrelace-un-po-orologio-un-po-bijou/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/Apertura_FERRAGAMO-ENTRELACE-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Ferragamo Entrelacé: un po’ orologio, un po’ bijou Piccolo il quadrante, sottile la cassa, importante il bracciale. Il Ferragamo Entrelacé mette subito in chiaro le gerarchie fra i propri compo...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-07T10:49:39.000Z",
-      "score_quality": 46,
-      "score_notif": 30,
-      "cluster": "20261007-75196ff15a42",
-      "cluster_main": true
-    },
-    {
-      "title": "Watch Review: Chopard Happy Sport 36mm In Lucent Steel",
-      "url": "https://www.ablogtowatch.com/watch-review-chopard-happy-sport-36mm-in-lucent-steel/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Chopard-Happy-Sport-36mm-Lucent-Steel-278559-3002-20-768x346.jpg",
-      "peek_preview": "Chopard claims that it was the first to combine diamonds with steel in 1993 with its Happy Sport line of watches, based on the Happy Diamonds collection that it introduced in 1976. What the heck was going on in the ’70s...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T07:01:26.000Z",
-      "score_quality": 71,
-      "score_notif": 26,
-      "cluster": "20261007-0c6b4f957cd8",
       "cluster_main": true
     }
   ]
