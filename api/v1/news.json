@@ -1,6 +1,6 @@
 {
-  "content_hash": "27a88b560354197402fa82bcbee5cf9f8f70bab927b40343806a37560aa77dcc",
-  "last_updated": "2026-10-13T05:47:43.944Z",
+  "content_hash": "815bd74eaefd475ddaa58e466041ccb846860cd16515d1ac484465910f829708",
+  "last_updated": "2026-10-13T07:47:26.546Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T05:00:23.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T17:30:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T07:00:15.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T07:01:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T07:01:41.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T05:22:00.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On Debut: Garmin Launches Third Generation Premium-Positioned Titanium & Ceramic MARQ Smartwatches",
+      "url": "https://www.ablogtowatch.com/garmin-launches-third-generation-premium-positioned-titanium-ceramic-marq-smartwatches/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Garmin-MARQ-Generation-3-smartwatch-launch-45-768x346.jpg",
+      "peek_preview": "I recently joined Garmin for the launch of the MARQ… mark III in Mallorca, Spain. The Garmin MARQ “gen 3” begins an important product journey that Garmin started in 2019 when the first-generation Garmin MARQ luxury smar...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T07:01:41.000Z",
+      "score_quality": 83,
+      "score_notif": 70,
+      "cluster": "20261013-d2ab254411d7",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The MeisterSinger No03 and Perigraph Special Editions with Turquoise Dials",
+      "url": "https://monochrome-watches.com/meistersinger-no03-and-perigraph-special-editions-turquoise-dials-2026-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/MeisterSinger-No03-and-Perigraph-Special-Editions-with-Turquoise-Dials-1-600x237.jpg",
+      "peek_preview": "Watchmaking enthusiasts know MeisterSinger and the foundational idea behind its creations: time does not always need to be read to the nearest second. Two of the Münster-based brand’s long-standing models, the No03 and...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T07:00:15.000Z",
+      "score_quality": 79,
+      "score_notif": 61,
+      "cluster": "20261013-fd2d548d4d9a",
+      "cluster_main": true
+    },
     {
       "title": "Baltic Hermétique The Rift : la field watch parisienne part rouler en Islande, et passe à 34 mm",
       "url": "https://www.welovewatches.fr/baltic-hermetique-the-rift-la-field-watch-parisienne-part-rouler-en-islande-et-passe-a-34-mm.html",
@@ -493,7 +521,7 @@
       "featured": false,
       "published_at": "2026-10-12T07:01:26.000Z",
       "score_quality": 57,
-      "score_notif": 48,
+      "score_notif": 34,
       "cluster": "20261012-e33201cda422",
       "cluster_main": true
     },
@@ -507,7 +535,7 @@
       "featured": false,
       "published_at": "2026-10-12T07:00:32.000Z",
       "score_quality": 78,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261012-42685c1fd03b",
       "cluster_main": true
     },
@@ -831,7 +859,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Raymond Weil’s New Limited-Edition Freelancer World-Traveler Actually Makes You Feel Like One",
@@ -873,7 +901,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261010-c23a4600eefe",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Universal Genève Is Back: Inside the Relaunch With Gregory Bruttin | House of Brands Ep. 3",
@@ -985,7 +1013,7 @@
       "score_quality": 81,
       "score_notif": 32,
       "cluster": "20261006-952225f74357",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "13 Of The Best Vintage-Inspired Watches Under $5,000",
@@ -1027,7 +1055,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1055,20 +1083,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261009-373d9f857b16",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Atelier de Chronométrie Unveils its First Chronograph-Only Watch, the Superb AdC16",
-      "url": "https://monochrome-watches.com/atelier-de-chronometrie-unveils-its-first-chronograph-only-watch-the-superb-adc16/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Atelier-de-Chronometrie-AdC16-Chronograph-Two-Register-Valjoux-23-1-600x237.jpg",
-      "peek_preview": "I might have been running the editorial activities of this magazine for over 12 years now, and even after having written close to 4,000 articles, I’m glad that I can still be amazed by what the watch industry can produc...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T16:10:55.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261009-301164e4595e",
       "cluster_main": true
     },
     {
@@ -1335,7 +1349,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1475,7 +1489,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -1503,7 +1517,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1839,20 +1853,6 @@
       "score_quality": 57,
       "score_notif": 32,
       "cluster": "20261006-952225f74357",
-      "cluster_main": false
-    },
-    {
-      "title": "Favre-Leuba Watches: Reviewing the Historic Watchmaker's Current Collection",
-      "url": "https://teddybaldassarre.com/blogs/watches/favre-leuba-watches-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Favre-Leuba-Bathy-vintage-2.jpg?v=1791218911",
-      "peek_preview": "You may well have heard the brand name Favre-Leuba for the first time just a few years ago, but the company is actually the second-oldest watch brand in existence. It traces its origin to Abraham Favre’s registration as...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-06T15:45:11.000Z",
-      "score_quality": 61,
-      "score_notif": 24,
-      "cluster": "20261006-104889918eae",
       "cluster_main": true
     }
   ]
