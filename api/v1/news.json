@@ -1,6 +1,6 @@
 {
-  "content_hash": "21ba8d4bf15f463ead85d352bf137f3cee42b952f6307ff510ead2686526d623",
-  "last_updated": "2026-10-13T13:47:55.719Z",
+  "content_hash": "7caa97b38bc4f6b680516959e7e3044a749308136677585cac8572fa67c3a4c6",
+  "last_updated": "2026-10-13T14:47:35.394Z",
   "premium": {
     "links": []
   },
@@ -9,15 +9,15 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T13:00:00.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T18:00:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T14:00:00.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T13:00:45.000Z"
     },
     {
@@ -58,14 +58,14 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T13:00:00.000Z"
     },
     {
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "RGM Introduces the New 501-PC Perpetual Calendar",
+      "url": "https://wornandwound.com/rgm-introduces-the-new-501-pc-perpetual-calendar/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/RGM-Perpetual-62.jpg",
+      "peek_preview": "RGM has introduced a new perpetual calendar, their first since the Model 103-R Minute Repeater Perpetual which was introduced in the 1990s. The new watch, dubbed the 501-PC, has classic RGM aesthetics and incorporates a...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T14:00:00.000Z",
+      "score_quality": 78,
+      "score_notif": 72,
+      "cluster": "20261013-4c13f1c03610",
+      "cluster_main": true
+    },
+    {
       "title": "The Breguet Marine 5517 and 5527: Now with even more Breguet",
       "url": "https://deployant.com/breguet-marine-5517-5527/?utm_source=rss&utm_medium=rss&utm_campaign=breguet-marine-5517-5527",
       "image": "https://deployant.com/wp-content/uploads/2026/10/Embargo-24.09.26_10-AM-CET_Breguet-Marine_5517TIY9TZO_Deployant.jpg",
@@ -186,7 +200,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 63,
-      "cluster": "20261013-b78dfc76b202",
+      "cluster": "20261012-a1fdad819edb",
       "cluster_main": true
     },
     {
@@ -243,7 +257,7 @@
       "score_quality": 88,
       "score_notif": 82,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F finally gives its original Legacy Machine design the sporty EVO treatment after 15 years",
@@ -285,7 +299,7 @@
       "score_quality": 89,
       "score_notif": 82,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Original MB&F Legacy Machine 1 Gets The EVO Treatment",
@@ -451,9 +465,9 @@
       "featured": false,
       "published_at": "2026-10-13T00:00:36.000Z",
       "score_quality": 69,
-      "score_notif": 65,
-      "cluster": "20261013-69cf912bc63d",
-      "cluster_main": true
+      "score_notif": 63,
+      "cluster": "20261012-a1fdad819edb",
+      "cluster_main": false
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -521,9 +535,9 @@
       "featured": false,
       "published_at": "2026-10-12T17:30:31.000Z",
       "score_quality": 84,
-      "score_notif": 66,
+      "score_notif": 63,
       "cluster": "20261012-a1fdad819edb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Time on Show 2026: quattro giorni tra i tesori più rari dell’orologeria vintage",
@@ -998,8 +1012,8 @@
       "published_at": "2026-10-10T13:42:57.000Z",
       "score_quality": 62,
       "score_notif": 34,
-      "cluster": "20261010-7357fe0a787e",
-      "cluster_main": true
+      "cluster": "20261010-bfc3e6758afb",
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: F.P. Journe, Pierre Jacques, and Chanel Give EBEL a Second Act, Lange at Audrain Newport Concours, and Armin Strom Goes Full Gold",
@@ -1223,7 +1237,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1461,7 +1475,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1587,7 +1601,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -1615,7 +1629,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1755,20 +1769,6 @@
       "score_quality": 33,
       "score_notif": 29,
       "cluster": "20261008-0d7d36624f46",
-      "cluster_main": true
-    },
-    {
-      "title": "Zenith Presents Its Unique Piece for the TimeForArt Auction",
-      "url": "https://wornandwound.com/zenith-presents-its-unique-piece-for-the-timeforart-auction/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Zenith-x-USM-Unique-Piece-58.jpg",
-      "peek_preview": "In 2022, the inaugural TimeForArt auction took place in partnership with Phillips, marking the first and only benefit watch auction to support contemporary art and artists. In its opening year, it raised $1.2 million fo...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T19:00:52.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261007-4c99f292c96a",
       "cluster_main": true
     },
     {
