@@ -1,6 +1,6 @@
 {
-  "content_hash": "59e1f56230891b4f82b1567dd785b9f307dac12c30aa5eb5148efd5fae11c6f7",
-  "last_updated": "2026-10-13T15:47:09.487Z",
+  "content_hash": "5c2011c85fa5e2db17740c3c3842be885398457723a5d49415f5c865cfe2410c",
+  "last_updated": "2026-10-13T16:47:27.122Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T12:01:58.000Z"
+      "estimated_articles_per_day": 3.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T16:05:27.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T19:42:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T16:10:07.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T15:30:17.000Z"
     },
     {
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-13T15:45:13.000Z"
     },
     {
@@ -120,16 +120,16 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T17:00:37.000Z"
+      "estimated_articles_per_day": 0.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T15:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T05:22:00.000Z"
+      "estimated_articles_per_day": 0.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-13T16:00:47.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
+      "url": "https://teddybaldassarre.com/blogs/watches/seiko-x-padi-dive-watches",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-62MAS-dive-watch-vintage-2.jpg?v=1791207242",
+      "peek_preview": "If you’re interested in dive watches or have followed the watch market long enough, you’ve probably seen the Professional Association of Diving Instructors (PADI) logo on a Seiko dive watch. Over the past ten years, the...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T16:10:07.000Z",
+      "score_quality": 71,
+      "score_notif": 24,
+      "cluster": "20261013-fc76a99d1ce9",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – Fortis Updates its Space Chronograph with the Fully Luminous Novonaut N-42 Halo Editions",
+      "url": "https://monochrome-watches.com/fortis-updates-its-space-chronograph-with-the-fully-luminous-novonaut-n-42-halo-edition-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Fortis-Novonaut-N-42-Halo-Edition-review-luminous-dial-space-chronograph-3-600x237.jpg",
+      "peek_preview": "In recent years, Swiss brand Fortis has worked hard to update most of its collection and mechanical offerings, including a refreshed Flieger collection, the return of the Marinemaster, and the introduction of the Strato...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T16:05:27.000Z",
+      "score_quality": 82,
+      "score_notif": 66,
+      "cluster": "20261013-34d7622c16c6",
+      "cluster_main": true
+    },
+    {
+      "title": "Garmin MARQ Gen 3 : 6 nouvelles montres connectées d’exception en titane et céramique",
+      "url": "https://www.welovewatches.fr/garmin-marq-gen-3-6-nouvelles-montres-connectees-dexception-en-titane-et-ceramique.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-montres-connectees-garmin-marq-gen-3.jpg",
+      "peek_preview": "Plusieurs années après la deuxième génération, Garmin remet sa collection MARQ au goût du jour. La MARQ Gen 3 se décline en six montres connectées d'exception, chacune pensée pour un univers bien précis : la...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-13T16:00:47.000Z",
+      "score_quality": 63,
+      "score_notif": 72,
+      "cluster": "20261013-d2ab254411d7",
+      "cluster_main": false
+    },
+    {
       "title": "MB&F LM1 EVO: il ritorno di un’icona",
       "url": "https://www.watchinsanity.it/mbf-lm1-evo-2026/",
       "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/MBF_LM1_EVO_Watch_Insanity_05-1024x682.jpg",
@@ -204,6 +246,20 @@
       "cluster_main": true
     },
     {
+      "title": "PISA 1940 x FORTELA: una nuova anima denim per la Pochette 4",
+      "url": "https://italianwatchspotter.com/pisa-1940-x-fortela-pochette-4/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/Senza-titolo-1-1024x576.jpg",
+      "peek_preview": "“I vestiti sono fatti per essere vissuti, rammendati e tramandati, devono durare nel tempo”: ricordo questa frase di un’intervista ad Alessandro Squarzi che racchiude pienamente il suo modo di lavorare. Il suo approccio...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-13T15:00:00.000Z",
+      "score_quality": 35,
+      "score_notif": 9,
+      "cluster": "20261013-4749d2707425",
+      "cluster_main": true
+    },
+    {
       "title": "RGM Introduces the New 501-PC Perpetual Calendar",
       "url": "https://wornandwound.com/rgm-introduces-the-new-501-pc-perpetual-calendar/",
       "image": "https://wornandwound.com/library/uploads/2026/10/RGM-Perpetual-62.jpg",
@@ -228,7 +284,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 63,
-      "cluster": "20261012-a1fdad819edb",
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     },
     {
@@ -409,9 +465,9 @@
       "featured": false,
       "published_at": "2026-10-13T08:00:06.000Z",
       "score_quality": 46,
-      "score_notif": 61,
+      "score_notif": 66,
       "cluster": "20261013-34d7622c16c6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: Garmin Launches Third Generation Premium-Positioned Titanium & Ceramic MARQ Smartwatches",
@@ -494,8 +550,8 @@
       "published_at": "2026-10-13T00:00:36.000Z",
       "score_quality": 69,
       "score_notif": 63,
-      "cluster": "20261012-a1fdad819edb",
-      "cluster_main": false
+      "cluster": "20261013-69cf912bc63d",
+      "cluster_main": true
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -565,7 +621,7 @@
       "score_quality": 84,
       "score_notif": 63,
       "cluster": "20261012-a1fdad819edb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time on Show 2026: quattro giorni tra i tesori più rari dell’orologeria vintage",
@@ -591,7 +647,7 @@
       "featured": false,
       "published_at": "2026-10-12T16:33:51.000Z",
       "score_quality": 81,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261012-58e475ba5636",
       "cluster_main": true
     },
@@ -956,8 +1012,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261011-b6ccae64013a",
+      "cluster_main": true
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -999,20 +1055,6 @@
       "score_quality": 28,
       "score_notif": 24,
       "cluster": "20261010-13a0ea2775e6",
-      "cluster_main": true
-    },
-    {
-      "title": "Editorial – Unbroken Chains, or Why Pre-Owned Watches Need More Than “Box and Papers”",
-      "url": "https://monochrome-watches.com/editorial-worldwatch-trusted-watch-dealer-operating-system-safer-watch-market/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/worldwatch-trusted-watch-dealer-operating-system-1-600x237.jpg",
-      "peek_preview": "Picture a steel Rolex Submariner, sold in the summer of 1968 by a family jeweller in a small European town. The salesperson writes the shop’s name and the date on the papers, slips the receipt into the box, and hands it...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-10T14:00:43.000Z",
-      "score_quality": 84,
-      "score_notif": 25,
-      "cluster": "20261010-2e2fe6a223d2",
       "cluster_main": true
     },
     {
@@ -1265,7 +1307,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1601,7 +1643,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1657,7 +1699,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1727,7 +1769,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261008-1f90043def07",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen Eco-Drive PHOTON : la lumière fête ses 50 ans en version futuriste",
@@ -1812,48 +1854,6 @@
       "score_notif": 34,
       "cluster": "20261007-8814bf3bc7e1",
       "cluster_main": true
-    },
-    {
-      "title": "Nodus Watches Review: Enthusiast-Driven, Purpose-Built",
-      "url": "https://teddybaldassarre.com/blogs/watches/nodus-watches-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/imgi_274_Nodus-Sector-II-GMT-Refresh-WEB-3.jpg?v=1791393004",
-      "peek_preview": "Though still in its youth, since 2017, Nodus has quickly established itself as one of the leaders in the independent, microbrand space, honing its focus on producing hard-working, purpose-forward watches assembled in Lo...",
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T17:56:12.000Z",
-      "score_quality": 63,
-      "score_notif": 24,
-      "cluster": "20261007-2cb8252e747c",
-      "cluster_main": true
-    },
-    {
-      "title": "Experience: A. Lange & Söhne at the 2026 Audrain Newport Concours d'Elegance—Where the Chronograph Meets the Cars",
-      "url": "https://www.watchcollectinglifestyle.com/home/a-lange-and-sohne-at-2026-audrain-newport-concours-d-elegance",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791391754572-Z59RX201RFCZBREY6N01/A.+Lange+%26+So%CC%88hne+Audrian+Concours+2026-10.jpg?format=1500w",
-      "peek_preview": "The 2026 Audrain Newport Concours d'Elegance, held October 4, 2026, at Fort Adams in Newport, Rhode Island, set a record for cars on the field. 185 automobiles competed in the first edition staged at the fort, America's...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T17:08:26.000Z",
-      "score_quality": 59,
-      "score_notif": 28,
-      "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": true
-    },
-    {
-      "title": "Cars, Chronographs And A. Lange & Söhne At Audrain Concours",
-      "url": "https://www.atimelyperspective.com/cars-chronographs-and-a-lange-sohne-at-audrain-concours/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/ALS_CdE_Audrain-Concours_2026_6.jpg",
-      "peek_preview": "There are certain pairings that simply make sense, and exceptional watches and extraordinary automobiles have long been among them. A. Lange & Söhne underscored that connection this past weekend as presenting sponsor of...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-07T16:59:53.000Z",
-      "score_quality": 54,
-      "score_notif": 28,
-      "cluster": "20261007-1aaf20d22ad7",
-      "cluster_main": false
     }
   ]
 }
