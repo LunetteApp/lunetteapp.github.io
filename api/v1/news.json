@@ -1,6 +1,6 @@
 {
-  "content_hash": "50a3890dce0e9942ad6ce7eb0eb924575e0c7015f86b979df9b0a4084d7c7767",
-  "last_updated": "2026-10-14T07:47:58.486Z",
+  "content_hash": "34984f003fc9a019ba95df3e652f4c9f4d7c7ac1e5241e23b06941d7b78e64e3",
+  "last_updated": "2026-10-14T08:47:46.567Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T07:00:30.000Z"
     },
     {
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T07:00:10.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T07:01:52.000Z"
     },
     {
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T12:01:47.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T08:00:38.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T07:42:58.000Z"
     },
     {
@@ -107,15 +107,15 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-11T22:30:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T08:00:02.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T11:00:16.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T08:40:43.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -176,6 +176,48 @@
   ],
   "items": [
     {
+      "title": "Libri di orologeria, il passato da leggere",
+      "url": "https://giornaleorologi.it/2026/10/14/libri-di-orologeria/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/doppia-Preloved-Watches-1024x684.jpg",
+      "peek_preview": "Per l'articolo completo - Libri di orologeria, il passato da leggere Il passato continua a fornire ottime letture agli appassionati: lo confermano i libri di orologeria scelti per questa rassegna. Fra novità e riedizion...",
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-14T08:40:43.000Z",
+      "score_quality": 54,
+      "score_notif": 23,
+      "cluster": "20261014-1f5187f881e4",
+      "cluster_main": true
+    },
+    {
+      "title": "Mido brings COSC certification to the Multifort TV Big Date with its new Multifort TV Big Date Chronometer",
+      "url": "https://timeandtidewatches.com/mido-multifort-tv-chronometer-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Mido-Multifort-TV-Big-Date-COSC-feature.jpg",
+      "peek_preview": "The Mido Multifort TV Big Date Chronometer gets a new blue checkerboard dial and COSC-certified Calibre 80 movement The post Mido brings COSC certification to the Multifort TV Big Date with its new Multifort TV Big Date...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T08:00:38.000Z",
+      "score_quality": 72,
+      "score_notif": 68,
+      "cluster": "20261014-5d0626ae1e95",
+      "cluster_main": true
+    },
+    {
+      "title": "Finalmente un Mido Multifort TV Big Date Chronometer COSC: foto live, prova al polso e tutto quello che devi sapere",
+      "url": "https://www.orologidiclasse.com/mido-multifort-tv-big-date-chronometer/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/mido-multifort-tv-big-date-chronometer.jpg",
+      "peek_preview": "Il Mido Multifort TV Big Date Chronometer è il nuovo modello della collezione più riconoscibile del brand svizzero, e porta con sé una novità concreta: per la prima volta la cassa TV monta un movimento cronometro certif...",
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-14T08:00:02.000Z",
+      "score_quality": 84,
+      "score_notif": 68,
+      "cluster": "20261014-5d0626ae1e95",
+      "cluster_main": false
+    },
+    {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
       "url": "https://www.perpetualpassion.com/2026/10/14/vacheron-constantin-concours-elegance-2026-finalisti/",
       "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/Mercator_Ref-43050_2002.avif",
@@ -206,7 +248,7 @@
     {
       "title": "Is The Tudor Pelagos 39 Better Than A Rolex Submariner?",
       "url": "https://www.fratellowatches.com/is-the-tudor-pelagos-39-better-than-a-rolex-submariner/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Henry-Tudor-Pelagos-Black-Bay-Ranger-16.jpg",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/07/Rolex-Submariner-126610LN-14.jpg",
       "peek_preview": "Put the spec sheets for the Tudor Pelagos 39 and the Rolex Submariner side by side, and the two watches look almost suspiciously similar. Both are roughly 40mm steel or titanium dive watches with in-house automatic move...",
       "source_name": "Fratello Watches",
       "lang": "en",
@@ -242,8 +284,8 @@
       "published_at": "2026-10-14T05:00:01.000Z",
       "score_quality": 78,
       "score_notif": 34,
-      "cluster": "20261008-d52938a243f0",
-      "cluster_main": false
+      "cluster": "20261014-94851676f109",
+      "cluster_main": true
     },
     {
       "title": "ロジェ・デュブイが「ナイツ オブ ザ ラウンドテーブル」より魔術師マーリン3部作の最終章となる新作を発表",
@@ -339,7 +381,7 @@
       "featured": false,
       "published_at": "2026-10-13T16:05:27.000Z",
       "score_quality": 82,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261013-34d7622c16c6",
       "cluster_main": true
     },
@@ -410,7 +452,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261012-a1fdad819edb",
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     },
     {
@@ -591,7 +633,7 @@
       "featured": false,
       "published_at": "2026-10-13T08:00:06.000Z",
       "score_quality": 46,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261013-34d7622c16c6",
       "cluster_main": false
     },
@@ -676,8 +718,8 @@
       "published_at": "2026-10-13T00:00:36.000Z",
       "score_quality": 69,
       "score_notif": 34,
-      "cluster": "20261012-a1fdad819edb",
-      "cluster_main": false
+      "cluster": "20261013-69cf912bc63d",
+      "cluster_main": true
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -747,7 +789,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261012-a1fdad819edb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time on Show 2026: quattro giorni tra i tesori più rari dell’orologeria vintage",
@@ -1391,7 +1433,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1531,7 +1573,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -1601,7 +1643,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1713,7 +1755,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -1741,7 +1783,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1811,34 +1853,6 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261008-7b7a7a144f65",
-      "cluster_main": false
-    },
-    {
-      "title": "Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici",
-      "url": "https://www.perpetualpassion.com/2026/10/08/cartier-ginevra-mostra-orologi-storici-2026/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/btq-cartier-expo-geneve.webp",
-      "peek_preview": "Dal rarissimo Tank del 1920 al Crash, passando per il Santos e il Tortue: Cartier apre le porte [...] L'articolo Cartier celebra l’arte delle forme: a Ginevra una mostra con 22 orologi storici proviene da PERPETUAL PASS...",
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-08T10:13:51.000Z",
-      "score_quality": 67,
-      "score_notif": 34,
-      "cluster": "20261008-bcafbe274457",
-      "cluster_main": true
-    },
-    {
-      "title": "Quando la porcellana di Meissen fiorisce sul quadrante: ecco il nuovo Glashütte Original Senator Meissen Cherry Blossom",
-      "url": "https://www.orologidiclasse.com/glashutte-original-senator-meissen-cherry-blossom/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/glashutte-original-senator-meissen-cherry-blossom-ciliegio-fioritura.jpg",
-      "peek_preview": "Solo qualche giorno fa, nell’ultimo episodio di Original Time – la rubrica mensile che segue la visione orologiera di Glashütte Original – ti ho raccontato come nascono i quadranti della manifattura sassone: l’argentatu...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-08T10:00:11.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261008-d52938a243f0",
       "cluster_main": true
     }
   ]
