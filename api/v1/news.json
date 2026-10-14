@@ -1,6 +1,6 @@
 {
-  "content_hash": "317bc7b8d8cc811b78184f202a16a0e62fe288cb0f3964088ab19599f156d739",
-  "last_updated": "2026-10-14T00:47:04.424Z",
+  "content_hash": "8501e187d9b5518f14b2b5a2e7b0a8b6f03ea8512d0cc3fe00a17918243f0e7c",
+  "last_updated": "2026-10-14T01:47:07.573Z",
   "premium": {
     "links": []
   },
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T12:00:11.000Z"
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T01:00:24.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T00:00:48.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Jaquet Droz Unveils Pièce Unique for TimeForArt",
+      "url": "https://watchesbysjx.com/2026/10/jaquet-droz-petite-heure-minute-les-volumes-du-temps-timeforart.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Jaquet-Droz-Petite-Heure-Minutes-Les-Volumes-Du-Temps-timeforart-2026-3x2-centred-header-300x200.jpg",
+      "peek_preview": "The Jaquet Droz Petite Heure Minute Les Volumes du Temps is a unique watch created for the upcoming TimeForArt charity auction, penned by a student artist at the Académie de Meuron. Its dragging hour and minute discs de...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T01:00:24.000Z",
+      "score_quality": 76,
+      "score_notif": 34,
+      "cluster": "20261009-373d9f857b16",
+      "cluster_main": false
+    },
     {
       "title": "グランドセイコーが「フラッグシップブティック 銀座」のラウンジに着想を得た和光限定モデルを発表",
       "url": "https://www.webchronos.net/news/175784/",
@@ -383,7 +397,7 @@
       "score_quality": 88,
       "score_notif": 82,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F finally gives its original Legacy Machine design the sporty EVO treatment after 15 years",
@@ -425,7 +439,7 @@
       "score_quality": 89,
       "score_notif": 82,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Original MB&F Legacy Machine 1 Gets The EVO Treatment",
@@ -551,7 +565,7 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Wren Vessel: A Surprisingly Wearable Integrated-Bracelet Watch For The Future",
@@ -1349,7 +1363,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1573,7 +1587,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
@@ -1629,7 +1643,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c67ec841554e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Bulova A-11 Jimmy Field Watch Honors An American Hero With A Thinner Case And Premium Features",
@@ -1657,7 +1671,7 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
@@ -1685,7 +1699,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Wren’s futuristic Vessel proves the Diver One was only the beginning",
@@ -1713,7 +1727,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
@@ -1728,20 +1742,6 @@
       "score_notif": 34,
       "cluster": "20261008-c67ec841554e",
       "cluster_main": false
-    },
-    {
-      "title": "Breaking News: F.P. Journe, Chanel Acquire 95% of Ebel for US$66.5 Million",
-      "url": "https://watchesbysjx.com/2026/10/fp-journe-chanel-ebel.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/FP-Journe-Chanel-Acquire-Ebel-3x2-header-300x200.jpg",
-      "peek_preview": "In a surprise move, a consortium led by Montres Journe and comprising Chanel and Pierre Jacques, the former chief executive of De Bethune, has acquired Ebel from its longtime American owners, the Movado Group. According...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T12:02:47.000Z",
-      "score_quality": 89,
-      "score_notif": 34,
-      "cluster": "20261008-c67ec841554e",
-      "cluster_main": true
     },
     {
       "title": "Introducing: Bell & Ross BR-03 Green Radar Ceramic—Three French Aircraft Indicate the Time",
