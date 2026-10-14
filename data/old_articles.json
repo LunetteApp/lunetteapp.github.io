@@ -7183,8 +7183,8 @@
       "lang": "en",
       "published_at": "2026-10-10T12:00:13.000Z",
       "first_seen_at": "2026-10-10T12:45:44.000Z",
-      "event_cluster_id": "20261010-c23a4600eefe",
-      "event_first_published_at": "2026-10-10T12:00:00.000Z",
+      "event_cluster_id": "20261010-440d97c0cb98",
+      "event_first_published_at": "2026-10-10T12:00:13.000Z",
       "scoring_pending": false,
       "clustering_pending": false
     },
@@ -7374,8 +7374,8 @@
       "lang": "en",
       "published_at": "2026-10-12T09:00:02.000Z",
       "first_seen_at": "2026-10-12T09:45:41.000Z",
-      "event_cluster_id": "20261012-05b56b9ed799",
-      "event_first_published_at": "2026-10-12T09:00:02.000Z",
+      "event_cluster_id": "20261005-91dfd8dfde5a",
+      "event_first_published_at": "2026-10-05T08:20:16.000Z",
       "scoring_pending": false,
       "clustering_pending": false
     },
@@ -16956,6 +16956,18 @@
       "event_first_published_at": "2026-10-01T09:04:00.000Z",
       "scoring_pending": false,
       "clustering_pending": false
+    },
+    "https://www.hodinkee.com/articles/paulin-hodinkee": {
+      "url": "https://www.hodinkee.com/articles/paulin-hodinkee",
+      "title": "Coming Soon: Paulin × Hodinkee",
+      "lang": "en",
+      "published_at": "2026-10-14T15:00:00.000Z",
+      "first_seen_at": "2026-10-14T15:45:47.000Z",
+      "event_cluster_id": "20261014-e45572233b2f",
+      "event_first_published_at": "2026-10-14T15:00:00.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "marketing": true
     },
     "https://www.hodinkee.com/articles/porsche-design-hodinkee-2": {
       "url": "https://www.hodinkee.com/articles/porsche-design-hodinkee-2",
