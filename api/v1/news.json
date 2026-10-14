@@ -1,6 +1,6 @@
 {
-  "content_hash": "24c673b9e6b8946660cdd7310afd917ae2b939b5e8f6e106e4bf4734bb7d2731",
-  "last_updated": "2026-10-14T13:47:30.197Z",
+  "content_hash": "f982773d47a6a72437e6c27cbbcea34a2d00771961949b3758b01130e005d233",
+  "last_updated": "2026-10-14T14:47:41.134Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T13:30:17.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T13:00:14.000Z"
     },
     {
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T13:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 2,
-      "latest_article_at": "2026-10-14T13:11:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T08:00:38.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T14:30:10.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "The Louis Vuitton Monterey gets a sleek ceramic upgrade",
+      "url": "https://timeandtidewatches.com/louis-vuitton-monterey-hands-on-2/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Louis-Vuitton-Monterey-Ceramic-Featured-Image.jpg",
+      "peek_preview": "Louis Vuitton revives the cult Monterey in ceramic, with 37mm black and green cases, lacquered dials and an in-house automatic movement. The post The Louis Vuitton Monterey gets a sleek ceramic upgrade appeared first on...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T14:30:10.000Z",
+      "score_quality": 74,
+      "score_notif": 68,
+      "cluster": "20261014-dbbcddded1e2",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Hermès H08 Bleu de Malte And Blanc Chantilly",
+      "url": "https://www.hodinkee.com/articles/hermes-h08-bleu-de-malte-and-blanc-chantilly",
+      "image": "https://hodinkee.imgix.net/uploads/images/cda4f3a5-1991-45d6-b1a9-d61c763f859c/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Hermès brings two new colorways to the H08, alongside a brighter glass fibre case than we've seen before.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T14:00:00.000Z",
+      "score_quality": 81,
+      "score_notif": 61,
+      "cluster": "20261014-358fe6d88475",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Ming x Massena LAB 57.09 Secret Honey, with Honeycomb Dial in Constant Motion",
       "url": "https://monochrome-watches.com/ming-x-massena-lab-57-09-secret-honey-moving-honeycomb-dial-tri-tone-lugs-introducing-price/",
@@ -299,7 +327,7 @@
       "score_quality": 72,
       "score_notif": 68,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Finalmente un Mido Multifort TV Big Date Chronometer COSC: foto live, prova al polso e tutto quello che devi sapere",
@@ -313,7 +341,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -535,7 +563,7 @@
       "featured": false,
       "published_at": "2026-10-13T14:00:00.000Z",
       "score_quality": 78,
-      "score_notif": 72,
+      "score_notif": 34,
       "cluster": "20261013-4c13f1c03610",
       "cluster_main": true
     },
@@ -677,7 +705,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261013-d2ab254411d7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin And Phillips Announce 34 Finalists For The Inaugural Concours D'Élégance Horlogère",
@@ -747,7 +775,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-d2ab254411d7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The MeisterSinger No03 and Perigraph Special Editions with Turquoise Dials",
@@ -1236,8 +1264,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261011-b6ccae64013a",
+      "cluster_main": true
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -1476,20 +1504,6 @@
       "score_notif": 22,
       "cluster": "20261009-355815657b10",
       "cluster_main": true
-    },
-    {
-      "title": "Business News: Movado Selling Ebel To F.P. Journe And Chanel In Deal Heralding Comeback Of Once Mighty Swiss Brand",
-      "url": "https://www.hodinkee.com/articles/movado-strikes-deal-to-sell-ebel-to-fp-journe-and-chanel-in-deal-heralding-comeback-of-once-mighty-s",
-      "image": "https://hodinkee.imgix.net/uploads/images/4046b900-de1d-4de0-88de-71088924154e/Ebelhero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Consortium of buyers, including François-Paul Journe and French luxury group Chanel, buys 95% stake in Ebel for $66.5 million.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T19:00:00.000Z",
-      "score_quality": 83,
-      "score_notif": 34,
-      "cluster": "20261008-c67ec841554e",
-      "cluster_main": false
     },
     {
       "title": "Hanhart Celebrates A Hollywood Legend’s Off-Screen Life With 417 ES Steve McQueen Limited Edition No. 1 Watch",
@@ -1840,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
       "cluster_main": true
-    },
-    {
-      "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
-      "url": "https://italianwatchspotter.com/f-p-journe-e-chanel-acquisiscono-ebel/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-12-683x1024.png",
-      "peek_preview": "Una delle notizie più clamorose dell’anno scuote il mondo dell’orologeria svizzera: François-Paul Journe e Chanel si preparano a prendere il controllo di Ebel. Un’operazione da 66,5 milioni di dollari che riunisce due n...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-08T12:03:47.000Z",
-      "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261008-c67ec841554e",
-      "cluster_main": false
     }
   ]
 }
