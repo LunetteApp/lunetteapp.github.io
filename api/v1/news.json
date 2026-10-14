@@ -1,6 +1,6 @@
 {
-  "content_hash": "836d6a1249bfc01ae3424fac967cc9d084607d649dd1f29ae48d11a31520a518",
-  "last_updated": "2026-10-14T15:47:18.376Z",
+  "content_hash": "83d369053e4ce3427a955d7874787f31dd33698826e16324c40af12b4d698fae",
+  "last_updated": "2026-10-14T16:47:53.671Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T18:00:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T16:00:56.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T13:30:17.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T16:15:08.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T16:10:07.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T16:01:28.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T15:00:00.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T17:45:53.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T15:48:48.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Portrait – Miyota, The Engine Behind the Watch, And The Rise of the Japanese Movement Maker",
+      "url": "https://monochrome-watches.com/portrait-miyota-the-engine-behind-the-watch-and-the-rise-of-the-japanese-movement-maker-interview-yoshio-miura-miyota-brand-manager/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/portrait-miyota-the-engine-behind-the-watch-and-the-rise-of-the-japanese-movement-maker-interview-yoshio-miura-miyota-brand-manager-1-600x237.jpg",
+      "peek_preview": "For more than four decades, Miyota has been quietly powering watches from brands around the world. As the watch industry evolves, however, the movement manufacturer is increasingly stepping into the spotlight – highligh...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T16:15:08.000Z",
+      "score_quality": 86,
+      "score_notif": 29,
+      "cluster": "20261014-44d81f8812be",
+      "cluster_main": true
+    },
+    {
+      "title": "Citizen Photon Review: Why It's The Ultimate Eco-Drive Watch",
+      "url": "https://teddybaldassarre.com/blogs/watches/citizen-eco-drive-photon-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Eco-Drive-Photon-watch-2_66c9c743-17f8-4b59-a155-4b0bf6faa441.jpg?v=1791915237",
+      "peek_preview": "Citizen Watch Co. has been in business since 1930, and has been responsible for several watch-industry milestones, including Japan’s first waterproof watch and the first watch with a titanium case. But here in the 21st...",
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T16:01:28.000Z",
+      "score_quality": 60,
+      "score_notif": 34,
+      "cluster": "20261009-b91043760205",
+      "cluster_main": false
+    },
+    {
+      "title": "Ming and Massena LAB Launch a Sequel to a Landmark LE: the 57.09 “Secret Honey”",
+      "url": "https://wornandwound.com/ming-and-massena-lab-launch-a-sequel-to-a-landmark-le-the-57-09-secret-honey/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/57.09-Secret-Honey_12.jpg",
+      "peek_preview": "If you were around the micro/indie watch world in 2021, you almost certainly remember the release of the first Ming collaboration with Massena LAB. It was a limited edition that sold out incredibly fast (as most Ming re...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T16:00:56.000Z",
+      "score_quality": 81,
+      "score_notif": 68,
+      "cluster": "20261014-95c1d0e41789",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: Hermès H08 in Blanc and Bleu de Malte—The Fiberglass Watch Steps Out of the Shadows",
+      "url": "https://www.watchcollectinglifestyle.com/home/hermes-h08-blanc-and-bleu-de-malte",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791992410740-SYDME152KCXLCINJ26U6/Hermes+H08+Bleu+de+Malte+and+Blanc+de+Chantilly.jpg?format=1500w",
+      "peek_preview": "Hermès has introduced two new versions of the H08, the house’s cushion-cased sports watch since 2021, and they take its signature glass fiber composite case from dark to luminous. Until now, the fiberglass H08 has had a...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T15:48:48.000Z",
+      "score_quality": 76,
+      "score_notif": 61,
+      "cluster": "20261014-358fe6d88475",
+      "cluster_main": false
+    },
     {
       "title": "The Louis Vuitton Monterey gets a sleek ceramic upgrade",
       "url": "https://timeandtidewatches.com/louis-vuitton-monterey-hands-on-2/",
@@ -327,7 +383,7 @@
       "score_quality": 72,
       "score_notif": 68,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Finalmente un Mido Multifort TV Big Date Chronometer COSC: foto live, prova al polso e tutto quello che devi sapere",
@@ -341,7 +397,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -578,7 +634,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261013-b78dfc76b202",
+      "cluster": "20261012-a1fdad819edb",
       "cluster_main": true
     },
     {
@@ -635,7 +691,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F finally gives its original Legacy Machine design the sporty EVO treatment after 15 years",
@@ -677,7 +733,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Original MB&F Legacy Machine 1 Gets The EVO Treatment",
@@ -844,8 +900,8 @@
       "published_at": "2026-10-13T00:00:36.000Z",
       "score_quality": 69,
       "score_notif": 34,
-      "cluster": "20261013-69cf912bc63d",
-      "cluster_main": true
+      "cluster": "20261012-a1fdad819edb",
+      "cluster_main": false
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -915,7 +971,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261012-a1fdad819edb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Time on Show 2026: quattro giorni tra i tesori più rari dell’orologeria vintage",
@@ -1002,20 +1058,6 @@
       "cluster_main": true
     },
     {
-      "title": "Just Because – Konstantin Chaykin Turns Cufflinks into a Mechanical Calendar",
-      "url": "https://monochrome-watches.com/konstantin-chaykin-master-of-days-mechanical-cufflinks-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Konstantin-Chaykin-Master-of-Days-Mechanical-Cufflinks-1-600x237.jpg",
-      "peek_preview": "For most people, cufflinks keep a shirt cuff in place and often add a little personality to an otherwise formal outfit. Jewellers offer cufflinks with genuine watch movements, and watchmakers have also been known to man...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-12T13:00:32.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261012-8bb378f5b0fb",
-      "cluster_main": true
-    },
-    {
       "title": "Cartoline dall’Italia: i mestieri d’arte Patek Philippe alla WAGE",
       "url": "https://giornaleorologi.it/2026/10/12/mestieri-darte-patek-philippe-wage-milano/",
       "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/apertura_Roma_di_notte-1024x683.jpg",
@@ -1068,8 +1110,8 @@
       "published_at": "2026-10-12T09:00:02.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261012-05b56b9ed799",
+      "cluster_main": true
     },
     {
       "title": "Actually Affordable: Mondaine Doppio Solar Skeleton Watch",
@@ -1250,8 +1292,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261011-b6ccae64013a",
-      "cluster_main": true
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -1688,20 +1730,6 @@
       "cluster_main": false
     },
     {
-      "title": "Can AMT Bridge the Gap Between Off-the-Shelf and In-House?",
-      "url": "https://wornandwound.com/can-amt-bridge-the-gap-between-off-the-shelf-and-in-house/",
-      "image": "https://wornandwound.com/library/uploads/2026/09/AMT_header.jpg",
-      "peek_preview": "As a watch enthusiast, one should be a movement enthusiast too, right? Sure, everyone loves a handmade, ornately finished, über-high-end independent movement labored over for hundreds of hours, but I’m talking about som...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T17:00:43.000Z",
-      "score_quality": 72,
-      "score_notif": 24,
-      "cluster": "20261008-998554d7989f",
-      "cluster_main": true
-    },
-    {
       "title": "Seiko Group Transforms Pace Gallery Into A Japanese Retreat",
       "url": "https://www.atimelyperspective.com/seiko-group-transforms-pace-gallery-into-a-japanese-retreat/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_1322-768x1024.jpeg",
@@ -1826,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20261008-c06fab00cb30",
       "cluster_main": true
-    },
-    {
-      "title": "F.P. Journe e Chanel acquisiscono Ebel per 66,5 milioni di dollari!",
-      "url": "https://italianwatchspotter.com/f-p-journe-e-chanel-acquisiscono-ebel/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-12-683x1024.png",
-      "peek_preview": "Una delle notizie più clamorose dell’anno scuote il mondo dell’orologeria svizzera: François-Paul Journe e Chanel si preparano a prendere il controllo di Ebel. Un’operazione da 66,5 milioni di dollari che riunisce due n...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-08T12:03:47.000Z",
-      "score_quality": 55,
-      "score_notif": 34,
-      "cluster": "20261008-c67ec841554e",
-      "cluster_main": false
     }
   ]
 }
