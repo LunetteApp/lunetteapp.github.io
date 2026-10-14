@@ -1,6 +1,6 @@
 {
-  "content_hash": "e5b87f8dbe7d1914c325d1126cee7630ca3bec7d4b3814fa86da6ea794fd0ffd",
-  "last_updated": "2026-10-14T17:47:31.129Z",
+  "content_hash": "3d3291d53b145063e9dbe6f55dcd43aae298462e3382acd9ab2b3cf050a477c9",
+  "last_updated": "2026-10-14T19:48:00.970Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T16:00:56.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T19:00:13.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -51,8 +51,8 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-12T21:35:34.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T19:07:55.000Z"
     },
     {
       "source_name": "Deployant",
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-14T17:00:00.000Z"
+      "latest_article_at": "2026-10-14T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin And The MET Take Craftsmanship Beyond Watches",
+      "url": "https://www.atimelyperspective.com/vacheron-constantin-and-the-met-take-craftsmanship-beyond-watches/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/METxVAC_ArtisanResidencyProgram_Aspen_CLOSEUP_1-1024x575.png",
+      "peek_preview": "What happens when a furniture maker, a ceramic artist and a goldsmith are granted an 18-month-long artisan residency that gives them access to centuries of artistic treasures at The Metropolitan Museum of Art and the sp...",
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T19:07:55.000Z",
+      "score_quality": 68,
+      "score_notif": 38,
+      "cluster": "20261014-296251b73172",
+      "cluster_main": true
+    },
+    {
+      "title": "Owner’s Review: the Straum Jan Mayen Stormy Seas",
+      "url": "https://wornandwound.com/review/owners-review-the-straum-jan-mayen-stormy-seas/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Straum-Owners-Review-72.jpg",
+      "peek_preview": "Spirit Halloween stores are popping up around the city, pumpkin beer has hit the shelves, and 80-plus-degree highs in Brooklyn are in the rearview mirror (please remain true). I’ve returned my most worn summer watch to...",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T19:00:13.000Z",
+      "score_quality": 76,
+      "score_notif": 23,
+      "cluster": "20261014-619aa38913f6",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Jaeger-LeCoultre 101 Chain",
+      "url": "https://www.hodinkee.com/articles/jaeger-lecoultre-101-chain",
+      "image": "https://hodinkee.imgix.net/uploads/images/80176a25-7846-403c-bb0e-55123eb75c55/JLCCalibre101ChainHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "It might look like a piece of jewelry, but inside Jaeger-LeCoultre's new 101 Chain watch is the world's smallest mechanical movement.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T19:00:00.000Z",
+      "score_quality": 83,
+      "score_notif": 62,
+      "cluster": "20261014-c5a5a59f432e",
+      "cluster_main": true
+    },
     {
       "title": "Photo Report: The 2026 Audrain Newport Concours d'Elegance With A. Lange & Söhne",
       "url": "https://www.hodinkee.com/articles/the-2026-audrain-newport-concours-delegance-with-a-lange-and-sohne",
@@ -285,7 +327,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261014-95c1d0e41789",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Ming x Massena Lab 57.09 'Secret Honey'",
@@ -299,7 +341,7 @@
       "score_quality": 79,
       "score_notif": 68,
       "cluster": "20261014-95c1d0e41789",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Ralph Lauren Western Cushion Is Back With A 38mm Case",
@@ -424,8 +466,8 @@
       "published_at": "2026-10-14T07:42:58.000Z",
       "score_quality": 63,
       "score_notif": 34,
-      "cluster": "20261013-14c07ef2efd8",
-      "cluster_main": false
+      "cluster": "20261014-4f233e3c69dd",
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The Revised Glashütte Original 70s Watch Is An Understated, Excellent Dark Horse",
@@ -509,7 +551,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261009-373d9f857b16",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "グランドセイコーが「フラッグシップブティック 銀座」のラウンジに着想を得た和光限定モデルを発表",
@@ -705,7 +747,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F finally gives its original Legacy Machine design the sporty EVO treatment after 15 years",
@@ -747,7 +789,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Original MB&F Legacy Machine 1 Gets The EVO Treatment",
@@ -776,20 +818,6 @@
       "score_notif": 34,
       "cluster": "20261013-d2ab254411d7",
       "cluster_main": false
-    },
-    {
-      "title": "Vacheron Constantin And Phillips Announce 34 Finalists For The Inaugural Concours D'Élégance Horlogère",
-      "url": "https://www.hodinkee.com/articles/vacheron-constantin-and-phillips-announce-34-finalists-for-the-inaugural-concours-delegance-horloger",
-      "image": "https://hodinkee.imgix.net/uploads/images/6ab63422-086f-4305-9994-9c4e59efafcf/VacheronHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A celebration of vintage Vacheron and its passionate collectors, the 34 shortlisted watches will compete in seven categories for final awards presented November 10.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T10:29:08.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261013-14c07ef2efd8",
-      "cluster_main": true
     },
     {
       "title": "Introducing – The new Bianchet UltraFino Tonneau Black Ceramic and Gold",
@@ -1292,8 +1320,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261011-b6ccae64013a",
-      "cluster_main": true
+      "cluster": "20261005-91dfd8dfde5a",
+      "cluster_main": false
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -1474,8 +1502,8 @@
       "published_at": "2026-10-10T07:00:07.000Z",
       "score_quality": 64,
       "score_notif": 34,
-      "cluster": "20261008-c06fab00cb30",
-      "cluster_main": false
+      "cluster": "20261010-8c107f1a2014",
+      "cluster_main": true
     },
     {
       "title": "Ebel : un accord de rachat avec F.P. Journe, Chanel et Pierre Jacques",
@@ -1545,7 +1573,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261009-373d9f857b16",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TimeForArt 2026: gli incredibili capolavori che cancellano il confine tra arte e orologeria",
@@ -1716,20 +1744,6 @@
       "cluster_main": true
     },
     {
-      "title": "Wren Introduces the Vessel, a New Integrated Bracelet Sports Watch",
-      "url": "https://wornandwound.com/wren-introduces-the-vessel-a-new-integrated-bracelet-sports-watch/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Wren-Vessel-66.jpg",
-      "peek_preview": "Wren, the microbrand founded by Wrist Enthusiast’s Craig Karger, has just unveiled the Vessel, a sharp left turn from the brand’s well received dive watches, and easily their most ambitious watch to date. Craig has been...",
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T20:00:18.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261008-01c532f1fa71",
-      "cluster_main": false
-    },
-    {
       "title": "Seiko Group Transforms Pace Gallery Into A Japanese Retreat",
       "url": "https://www.atimelyperspective.com/seiko-group-transforms-pace-gallery-into-a-japanese-retreat/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_1322-768x1024.jpeg",
@@ -1840,20 +1854,6 @@
       "score_notif": 34,
       "cluster": "20261008-01c532f1fa71",
       "cluster_main": false
-    },
-    {
-      "title": "Hands On: Bremont Supermarine Full Ceramic Deep Blue",
-      "url": "https://watchesbysjx.com/2026/10/bremont-supermarine-full-ceramic-deep-blue.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Bremont-Supermarine-Full-Ceramic-Deep-Blue-3x2-centred-header-300x200.jpg",
-      "peek_preview": "The Bremont Supermarine Full Ceramic Deep Blue adds a dark blue ceramic case to the brand’s 500 m dive watch collection. It’s a more casual take on the Supermarine, with a restrained colour and carefully finished case t...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T13:00:16.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261008-c06fab00cb30",
-      "cluster_main": true
     }
   ]
 }
