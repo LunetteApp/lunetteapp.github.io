@@ -1,6 +1,6 @@
 {
-  "content_hash": "a629c7eeb076f24b7f9f21d8d0fabc159823c9a49a56092d08bfdf9d1ef17dea",
-  "last_updated": "2026-10-13T22:45:41.878Z",
+  "content_hash": "317bc7b8d8cc811b78184f202a16a0e62fe288cb0f3964088ab19599f156d739",
+  "last_updated": "2026-10-14T00:47:04.424Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T03:00:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T00:00:48.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "グランドセイコーが「フラッグシップブティック 銀座」のラウンジに着想を得た和光限定モデルを発表",
+      "url": "https://www.webchronos.net/news/175784/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/GS_wako_2.webp",
+      "peek_preview": "グランドセイコーが、「ヘリテージコレクション 和光限定モデル」Ref.SBGA531を発売した。本作は銀座・和光に位置するグランドセイコーフラッグシップブティック銀座で使用されている柱の質感を、繊細な型打ちパターンのダイ […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-14T00:00:48.000Z",
+      "score_quality": 74,
+      "score_notif": 61,
+      "cluster": "20261014-466dfad1dc21",
+      "cluster_main": true
+    },
     {
       "title": "Reconsidering A Smartwatch: The Garmin MARQ 3",
       "url": "https://wornandwound.com/reconsidering-a-smartwatch-the-garmin-marq-3/",
@@ -312,7 +326,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261012-a1fdad819edb",
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     },
     {
@@ -537,7 +551,7 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Wren Vessel: A Surprisingly Wearable Integrated-Bracelet Watch For The Future",
@@ -578,8 +592,8 @@
       "published_at": "2026-10-13T00:00:36.000Z",
       "score_quality": 69,
       "score_notif": 34,
-      "cluster": "20261012-a1fdad819edb",
-      "cluster_main": false
+      "cluster": "20261013-69cf912bc63d",
+      "cluster_main": true
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -649,7 +663,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261012-a1fdad819edb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time on Show 2026: quattro giorni tra i tesori più rari dell’orologeria vintage",
@@ -1139,7 +1153,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
@@ -1391,7 +1405,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora",
@@ -1534,20 +1548,6 @@
       "cluster_main": true
     },
     {
-      "title": "ノルケインがグレード5チタン製トッププレートを初採用した「ワイルド ワン」3モデルを発表",
-      "url": "https://www.webchronos.net/news/175224/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/NQ_1.webp",
-      "peek_preview": "ノルケインは、「ワイルド ワン」独自の衝撃吸収ケース構造を受け継ぎながら、文字盤側の外装にグレード5チタン製トッププレートを初採用した新作3モデルを発表した。ラインナップは「ワイルド ワン スケルトン チタニウム 42m […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-09T00:00:39.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261009-3ca3da2d87e3",
-      "cluster_main": true
-    },
-    {
       "title": "10 things I just learned about Lange & Söhne",
       "url": "https://www.unpolishedwatches.com/p/10-things-i-just-learned-about-lange",
       "image": "https://substackcdn.com/image/fetch/$s_!98g5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0c3db3b-abec-4bf2-bb5a-15543a95dc37_2048x2048.jpeg",
@@ -1657,7 +1657,7 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
