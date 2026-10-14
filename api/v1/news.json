@@ -1,6 +1,6 @@
 {
-  "content_hash": "83d369053e4ce3427a955d7874787f31dd33698826e16324c40af12b4d698fae",
-  "last_updated": "2026-10-14T16:47:53.671Z",
+  "content_hash": "e5b87f8dbe7d1914c325d1126cee7630ca3bec7d4b3814fa86da6ea794fd0ffd",
+  "last_updated": "2026-10-14T17:47:31.129Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T16:00:56.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T16:15:08.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T16:01:28.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-14T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T15:48:48.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Photo Report: The 2026 Audrain Newport Concours d'Elegance With A. Lange & Söhne",
+      "url": "https://www.hodinkee.com/articles/the-2026-audrain-newport-concours-delegance-with-a-lange-and-sohne",
+      "image": "https://hodinkee.imgix.net/uploads/images/e2502bbf-ecf4-4f80-941e-04f194402398/apr-h1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Four days of cars, watches, and fun in Newport.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T17:00:00.000Z",
+      "score_quality": 76,
+      "score_notif": 34,
+      "cluster": "20261014-989a6681ad41",
+      "cluster_main": true
+    },
     {
       "title": "Portrait – Miyota, The Engine Behind the Watch, And The Rise of the Japanese Movement Maker",
       "url": "https://monochrome-watches.com/portrait-miyota-the-engine-behind-the-watch-and-the-rise-of-the-japanese-movement-maker-interview-yoshio-miura-miyota-brand-manager/",
@@ -383,7 +397,7 @@
       "score_quality": 72,
       "score_notif": 68,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Finalmente un Mido Multifort TV Big Date Chronometer COSC: foto live, prova al polso e tutto quello che devi sapere",
@@ -397,7 +411,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -495,7 +509,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261009-373d9f857b16",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "グランドセイコーが「フラッグシップブティック 銀座」のラウンジに着想を得た和光限定モデルを発表",
@@ -634,7 +648,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261012-a1fdad819edb",
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     },
     {
@@ -691,7 +705,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F finally gives its original Legacy Machine design the sporty EVO treatment after 15 years",
@@ -733,7 +747,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Original MB&F Legacy Machine 1 Gets The EVO Treatment",
@@ -900,8 +914,8 @@
       "published_at": "2026-10-13T00:00:36.000Z",
       "score_quality": 69,
       "score_notif": 34,
-      "cluster": "20261012-a1fdad819edb",
-      "cluster_main": false
+      "cluster": "20261013-69cf912bc63d",
+      "cluster_main": true
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -971,7 +985,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261012-a1fdad819edb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Time on Show 2026: quattro giorni tra i tesori più rari dell’orologeria vintage",
@@ -999,20 +1013,6 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261012-58e475ba5636",
-      "cluster_main": true
-    },
-    {
-      "title": "Photo Report: Watch Spotting At Bangkok Watch Week 2026",
-      "url": "https://www.hodinkee.com/articles/watch-spotting-at-bangkok-watch-week-2026",
-      "image": "https://hodinkee.imgix.net/uploads/images/2cd541e5-ed69-4221-8b75-c576e54c9c34/tan2h-bangkokwatchweek-apac-gtg-2026-03216-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "More than a hundred wristshots from an incredible gathering of watch collectors in Thailand, and the most double-wristing I've ever seen in one place.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-12T15:00:00.000Z",
-      "score_quality": 73,
-      "score_notif": 29,
-      "cluster": "20261012-34c8f97280d5",
       "cluster_main": true
     },
     {
@@ -1292,8 +1292,8 @@
       "published_at": "2026-10-11T05:00:09.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster": "20261011-b6ccae64013a",
+      "cluster_main": true
     },
     {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
@@ -1545,7 +1545,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261009-373d9f857b16",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TimeForArt 2026: gli incredibili capolavori che cancellano il confine tra arte e orologeria",
