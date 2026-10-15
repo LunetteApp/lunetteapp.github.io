@@ -1,6 +1,6 @@
 {
-  "content_hash": "634d0d78e9544e6fa447b08e8cf529cfad0f786ef2478fa98586514266d80584",
-  "last_updated": "2026-10-15T07:47:26.065Z",
+  "content_hash": "4cbbcf2aa4c45d26ed8ad6a707eaf3de883418e2cdffff4dcf099fc842db6e8c",
+  "last_updated": "2026-10-15T08:47:04.644Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T07:00:10.000Z"
     },
     {
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.9,
-      "new_articles_since_last_update": 2,
-      "latest_article_at": "2026-10-15T07:30:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-15T08:01:58.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T07:01:15.000Z"
     },
     {
@@ -58,22 +58,22 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-15T08:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T19:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-15T08:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T01:00:24.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-15T08:00:23.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-13T15:45:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-15T08:00:00.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -175,6 +175,76 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – Urwerk Reconfigures its Time Display with the UR-300 Time Quantum",
+      "url": "https://monochrome-watches.com/urwerk-ur-300-time-quantum-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Urwerk-UR-300-Time-Quantum-4-600x237.jpg",
+      "peek_preview": "Since its foundation in 1997, Urwerk has looked at mechanical watchmaking from a very unconventional perspective. Co-founders Felix Baumgartner and Martin Frei have developed an unmistakable style, with satellite hours,...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T08:01:58.000Z",
+      "score_quality": 88,
+      "score_notif": 76,
+      "cluster": "20261015-095e182f5295",
+      "cluster_main": true
+    },
+    {
+      "title": "Urwerk Takes a Quantum Leap with the UR-300",
+      "url": "https://watchesbysjx.com/2026/10/urwerk-ur-300-time-quantum.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Urwerk-UR-300-Time-Quantum-hero-300x200.jpg",
+      "peek_preview": "Urwerk’s latest interpretation of the wandering hours complication ventures beyond classical physics with the UR-300 Time Quantum, which debuts a cleverly constructed jumping display inspired by quantum mechanics. House...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T08:00:23.000Z",
+      "score_quality": 89,
+      "score_notif": 76,
+      "cluster": "20261015-095e182f5295",
+      "cluster_main": false
+    },
+    {
+      "title": "New: Urwerk UR-300 Time Quantum",
+      "url": "https://deployant.com/new-urwerk-ur-300-time-quantum/?utm_source=rss&utm_medium=rss&utm_campaign=new-urwerk-ur-300-time-quantum",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/ur-300_lifestyle_07-for-deployant.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Urwerk releases a new collection with a fresh new case and movement and an interesting story accompanying the UR-300 Time Quantum. The story leverages on quan...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T08:00:00.000Z",
+      "score_quality": 72,
+      "score_notif": 76,
+      "cluster": "20261015-095e182f5295",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: The Urwerk UR-300 Time Quantum",
+      "url": "https://www.hodinkee.com/articles/introducing-urwerk-ur-300-time-quantum",
+      "image": "https://hodinkee.imgix.net/uploads/images/131bb9ad-8ded-47a2-a3ef-5d625b58884b/S00345_Urwerk_UR-300_Iron_VL_V1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A recognizable display from the satellite kings, with a new second twist and a jump so fast it'll knock your socks off.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T08:00:00.000Z",
+      "score_quality": 80,
+      "score_notif": 76,
+      "cluster": "20261015-095e182f5295",
+      "cluster_main": false
+    },
+    {
+      "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
+      "url": "https://www.watchinsanity.it/urwerk-ur-300-time-quantum/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Urwerk_UR_300_Time_Quantum_Watch_Insanity_08-1024x682.jpg",
+      "peek_preview": "Urwerk presenta l’UR-300 Time Quantum: un nuovo sistema di ore vagabonde, calibro automatico e 50 esemplari in titanio. The post Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma appeared first on WATCH INSANI...",
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-15T08:00:00.000Z",
+      "score_quality": 67,
+      "score_notif": 76,
+      "cluster": "20261015-095e182f5295",
+      "cluster_main": false
+    },
     {
       "title": "First Look – Hermès Brightens the Glass Fibre H08 with White and Blue Editions",
       "url": "https://monochrome-watches.com/hermes-h08-bleu-de-malte-and-blanc-chantilly-glass-fibre-case-editions-2026-review-price/",
@@ -369,7 +439,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261009-b91043760205",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ming and Massena LAB Launch a Sequel to a Landmark LE: the 57.09 “Secret Honey”",
@@ -549,7 +619,7 @@
       "featured": false,
       "published_at": "2026-10-14T08:00:38.000Z",
       "score_quality": 72,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
       "cluster_main": false
     },
@@ -563,7 +633,7 @@
       "featured": false,
       "published_at": "2026-10-14T08:00:02.000Z",
       "score_quality": 84,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
       "cluster_main": true
     },
@@ -918,20 +988,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: Garmin Marq 3 (Live Photos)",
-      "url": "https://www.hodinkee.com/articles/garmin-marq-3-live-photos",
-      "image": "https://hodinkee.imgix.net/uploads/images/bc6e23a0-08ab-4bd0-ad7b-addc3311597a/Untitled-4.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The third-generation Marq redesigns the case, adds satellite and LTE, and introduces a Dive-focused model.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T11:00:00.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261013-d2ab254411d7",
-      "cluster_main": false
-    },
-    {
       "title": "Introducing – The new Bianchet UltraFino Tonneau Black Ceramic and Gold",
       "url": "https://monochrome-watches.com/bianchet-ultrafino-tonneau-black-ceramic-and-gold-openworked-ultra-thin-tourbillon-integrated-bracelet-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/Bianchet-UltraFino-Tonneau-Black-Ceramic-and-Gold-1-600x237.jpg",
@@ -988,20 +1044,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The MeisterSinger No03 and Perigraph Special Editions with Turquoise Dials",
-      "url": "https://monochrome-watches.com/meistersinger-no03-and-perigraph-special-editions-turquoise-dials-2026-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/MeisterSinger-No03-and-Perigraph-Special-Editions-with-Turquoise-Dials-1-600x237.jpg",
-      "peek_preview": "Watchmaking enthusiasts know MeisterSinger and the foundational idea behind its creations: time does not always need to be read to the nearest second. Two of the Münster-based brand’s long-standing models, the No03 and...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T07:00:15.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261013-fd2d548d4d9a",
-      "cluster_main": true
-    },
-    {
       "title": "Baltic Hermétique The Rift : la field watch parisienne part rouler en Islande, et passe à 34 mm",
       "url": "https://www.welovewatches.fr/baltic-hermetique-the-rift-la-field-watch-parisienne-part-rouler-en-islande-et-passe-a-34-mm.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/hermetique-the-rift-collection-item-une.jpg",
@@ -1012,7 +1054,7 @@
       "published_at": "2026-10-13T05:22:00.000Z",
       "score_quality": 73,
       "score_notif": 27,
-      "cluster": "20261008-623aaa6de54a",
+      "cluster": "20261013-853b3e709eb7",
       "cluster_main": true
     },
     {
@@ -1447,7 +1489,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
@@ -1629,7 +1671,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora",
@@ -1713,7 +1755,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261009-b91043760205",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Trematic T-Five Beguia Maris Watch Review: A Compact Skindiver In Grade 5 Titanium",
@@ -1811,48 +1853,6 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261008-c67ec841554e",
-      "cluster_main": true
-    },
-    {
-      "title": "The Bulova A-11 Jimmy Field Watch Honors An American Hero With A Thinner Case And Premium Features",
-      "url": "https://www.ablogtowatch.com/the-bulova-a-11-jimmy-field-watch-honors-an-american-hero-with-a-thinner-case-and-premium-features/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/Bulova-A-11-Jimmy-Field-Watch-768x346.jpg",
-      "peek_preview": "The Bulova A-11 “Hack Watch” holds a special place in the American brand’s history, as it was one of the original military-issued timepieces that were supplied to the United States Armed Forces during WWII. Designed wit...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T14:00:48.000Z",
-      "score_quality": 48,
-      "score_notif": 34,
-      "cluster": "20261008-29bbf0d571c8",
-      "cluster_main": true
-    },
-    {
-      "title": "Baltic tackles The Rift with a new limited-edition 34mm Hermétique",
-      "url": "https://timeandtidewatches.com/baltic-hermetique-the-rift-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Baltic-Hermetique-The-Rift-Featured-Image.jpg",
-      "peek_preview": "Baltic marks its role as Official Timekeeper of The Rift with a 400-piece Hermétique limited edition, now available in 34mm and 37mm sizes. The post Baltic tackles The Rift with a new limited-edition 34mm Hermétique app...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T14:00:37.000Z",
-      "score_quality": 60,
-      "score_notif": 27,
-      "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
-      "url": "https://deployant.com/introducing-the-sinn-103-st-sa-lufthansa-for-100-years-of-lufthansa/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-the-sinn-103-st-sa-lufthansa-for-100-years-of-lufthansa",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/103_St_Sa_Lufthana_001_hoch_highres.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors To celebrate the 100th Anniversry of German flag carrier Lufthansa, Sinn launches the Sinn 103 St Sa Lufthansa. This is a minimalist pilot’s chronograph model...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-08T13:30:00.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20261008-a4ac946b6cf1",
       "cluster_main": true
     }
   ]
