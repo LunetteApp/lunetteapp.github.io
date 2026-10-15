@@ -1,6 +1,6 @@
 {
-  "content_hash": "0651c7b730479025b69745b3cc238caafaf91137769061f3a06825c7be147e71",
-  "last_updated": "2026-10-15T15:47:22.763Z",
+  "content_hash": "4a6bdfd2f3b5c97a36360069211c00a14b5012fff7040a2b182a2a176b0051fd",
+  "last_updated": "2026-10-15T16:47:02.757Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-15T14:30:44.000Z"
+      "estimated_articles_per_day": 1.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-15T16:00:41.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T15:00:27.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T15:00:00.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T15:08:25.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T15:17:55.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Papar Puts a Twist on the All-Black Watch with Its Slimmest Watch Yet Featuring a Wandering-Hour",
+      "url": "https://wornandwound.com/papar-puts-a-twist-on-the-all-black-watch-with-its-slimmest-watch-yet-featuring-a-wandering-hour/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Papar-Vuelte-5-1.jpg",
+      "peek_preview": "You probably know I’ve been a fan of Papar from the brand’s launch in 2024 with its initial model, the Anillo. Since this inaugural GMT collection, the brand has expanded with the addition of a diver called the Cenote....",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T16:00:41.000Z",
+      "score_quality": 61,
+      "score_notif": 62,
+      "cluster": "20261015-0922bb7299c5",
+      "cluster_main": true
+    },
     {
       "title": "We Love Watches 2026 : retour sur une édition réussie à la Maison de la Mutualité",
       "url": "https://www.welovewatches.fr/we-love-watches-2026-retour-sur-une-edition-reussie-a-la-maison-de-la-mutualite.html",
@@ -341,7 +355,7 @@
       "score_quality": 85,
       "score_notif": 68,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new Hublot Classic Fusion Tributo looks to the past and future with serious upgrades",
@@ -369,7 +383,7 @@
       "score_quality": 89,
       "score_notif": 68,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -425,7 +439,7 @@
       "score_quality": 88,
       "score_notif": 76,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Urwerk Takes a Quantum Leap with the UR-300",
@@ -467,7 +481,7 @@
       "score_quality": 80,
       "score_notif": 76,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
@@ -509,7 +523,7 @@
       "score_quality": 82,
       "score_notif": 63,
       "cluster": "20261015-a7d06e5cbb3e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: AETHER + Bamford D-300 Remixes The London Brand’s Ceramic Dive Watch",
@@ -537,7 +551,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261015-a7d06e5cbb3e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On With Two Cônillons: Trying Out The ArtyA Complexity Métiers d’Art",
@@ -1838,21 +1852,7 @@
       "published_at": "2026-10-09T13:06:11.000Z",
       "score_quality": 65,
       "score_notif": 29,
-      "cluster": "20261006-2822e51b1fba",
-      "cluster_main": false
-    },
-    {
-      "title": "New Release: Seiko Power Design Project Collection 2 HHK001 And HHK002 ‘Panda Dial’ Watches",
-      "url": "https://www.ablogtowatch.com/new-release-seiko-power-design-project-collection-2-hhk001-and-hhk002-panda-dial-watches/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Seiko-Power-Design-Project-Collection-2-Panda-Dial-Chronograph-Watches-HHK001-HHK002-768x346.jpg",
-      "peek_preview": "Originally introduced in 2001, the Seiko Power Design Project is a unique initiative that encourages the Japanese brand’s designers to approach watches in a more whimsical manner. Among the creations featured in its Inc...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T12:00:09.000Z",
-      "score_quality": 76,
-      "score_notif": 29,
-      "cluster": "20261006-2822e51b1fba",
+      "cluster": "20261009-c75230db9237",
       "cluster_main": true
     }
   ]
