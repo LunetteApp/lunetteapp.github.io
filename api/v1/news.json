@@ -1,6 +1,6 @@
 {
-  "content_hash": "3d3291d53b145063e9dbe6f55dcd43aae298462e3382acd9ab2b3cf050a477c9",
-  "last_updated": "2026-10-14T19:48:00.970Z",
+  "content_hash": "551a2fa4e5fb0e5c66e9bab12233bd8a39f1360a7778940c4e4a21bca873669d",
+  "last_updated": "2026-10-15T00:46:55.022Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T19:00:13.000Z"
     },
     {
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T19:07:55.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T19:00:00.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T03:00:09.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-15T00:00:42.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "セイコー アストロン「Nexter」に、大谷翔平とのコラボレーションモデル最新作が登場",
+      "url": "https://www.webchronos.net/news/175638/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/main.webp",
+      "peek_preview": "セイコー アストロン「Nexter」に、大谷翔平選手とのコラボレーションモデル「Nexter 大谷翔平 2026 限定モデル」が登場する。大谷選手が所属するロサンゼルス・ドジャースのユニフォームカラーや、彼の背番号「17 […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-15T00:00:42.000Z",
+      "score_quality": 74,
+      "score_notif": 68,
+      "cluster": "20261015-e14aed707579",
+      "cluster_main": true
+    },
     {
       "title": "Vacheron Constantin And The MET Take Craftsmanship Beyond Watches",
       "url": "https://www.atimelyperspective.com/vacheron-constantin-and-the-met-take-craftsmanship-beyond-watches/",
@@ -327,7 +341,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261014-95c1d0e41789",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Ming x Massena Lab 57.09 'Secret Honey'",
@@ -341,7 +355,7 @@
       "score_quality": 79,
       "score_notif": 68,
       "cluster": "20261014-95c1d0e41789",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Ralph Lauren Western Cushion Is Back With A 38mm Case",
@@ -563,7 +577,7 @@
       "featured": false,
       "published_at": "2026-10-14T00:00:48.000Z",
       "score_quality": 74,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261014-466dfad1dc21",
       "cluster_main": true
     },
@@ -747,7 +761,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F finally gives its original Legacy Machine design the sporty EVO treatment after 15 years",
@@ -789,7 +803,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Original MB&F Legacy Machine 1 Gets The EVO Treatment",
@@ -901,7 +915,7 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Wren Vessel: A Surprisingly Wearable Integrated-Bracelet Watch For The Future",
@@ -1083,7 +1097,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261012-f289960607a8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Cartoline dall’Italia: i mestieri d’arte Patek Philippe alla WAGE",
@@ -1167,7 +1181,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261012-f289960607a8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Art of Cloisonné at Patek Philippe",
@@ -1520,20 +1534,6 @@
       "cluster_main": false
     },
     {
-      "title": "アーミン・シュトロームが3種類のギヨシェを取り入れた18Kローズゴールド製の「トリビュート³ Au750」を発表",
-      "url": "https://www.webchronos.net/news/174950/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/1.webp",
-      "peek_preview": "アーミン・シュトロームが、18Kローズゴールドと3種類のギヨシェ装飾を組み合わせた世界限定8本の新作「トリビュート³ Au750」を発表した。本作はケースや文字盤のみならず、ムーブメントのパーツにも18Kローズゴールドを […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-10T00:00:46.000Z",
-      "score_quality": 81,
-      "score_notif": 32,
-      "cluster": "20261010-334edad1fb2c",
-      "cluster_main": true
-    },
-    {
       "title": "13 Of The Best Vintage-Inspired Watches Under $5,000",
       "url": "https://teddybaldassarre.com/blogs/watches/vintage-inspired-watches-under-5-000",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Vario-Trench-2.jpg?v=1791570906",
@@ -1811,7 +1811,7 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
