@@ -1,6 +1,6 @@
 {
-  "content_hash": "4cbbcf2aa4c45d26ed8ad6a707eaf3de883418e2cdffff4dcf099fc842db6e8c",
-  "last_updated": "2026-10-15T08:47:04.644Z",
+  "content_hash": "b65d907d49e2f4895e4a39f471c0d032c3e445d716c6cdc59f8588e5762a36da",
+  "last_updated": "2026-10-15T09:46:59.959Z",
   "premium": {
     "links": []
   },
@@ -24,7 +24,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.9,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-15T08:01:58.000Z"
+      "latest_article_at": "2026-10-15T09:00:15.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,21 +58,21 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T08:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T08:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T08:00:23.000Z"
     },
     {
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T08:00:00.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – Time Set to the Second on the New Arnold & Son DSTB Stop-Seconds",
+      "url": "https://monochrome-watches.com/new-arnold-son-dstb-stop-seconds-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Arnold-and-Son-DSTB-Stop-Seconds-review-1-600x237.jpg",
+      "peek_preview": "Arnold & Son has forged its identity around the legacy of the 18th-century English chronometer maker John Arnold. Its collections are grouped into three categories (astronomy, chronometry and world time), each reflectin...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T09:00:15.000Z",
+      "score_quality": 84,
+      "score_notif": 66,
+      "cluster": "20261015-786067e0e2c0",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Urwerk Reconfigures its Time Display with the UR-300 Time Quantum",
       "url": "https://monochrome-watches.com/urwerk-ur-300-time-quantum-introducing-price/",
@@ -988,20 +1002,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – The new Bianchet UltraFino Tonneau Black Ceramic and Gold",
-      "url": "https://monochrome-watches.com/bianchet-ultrafino-tonneau-black-ceramic-and-gold-openworked-ultra-thin-tourbillon-integrated-bracelet-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Bianchet-UltraFino-Tonneau-Black-Ceramic-and-Gold-1-600x237.jpg",
-      "peek_preview": "Launched in 2025, the Bianchet UltraFino Tonneau marked several firsts for the young independent: its first ultra-thin watch, first automatic movement, and first integrated-bracelet model. Initially presented in Grade 5...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T10:01:00.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261013-f0fdf2b95fb2",
-      "cluster_main": true
-    },
-    {
       "title": "The New Sternglas Zirkel X Proves The Circle’s Significance",
       "url": "https://www.fratellowatches.com/the-new-sternglas-zirkel-x-proves-the-circles-significance/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Sternglas-Zirkel-X-16.jpg",
@@ -1209,7 +1209,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261012-f289960607a8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Cartoline dall’Italia: i mestieri d’arte Patek Philippe alla WAGE",
@@ -1293,7 +1293,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261012-f289960607a8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Art of Cloisonné at Patek Philippe",
@@ -1489,7 +1489,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
@@ -1671,7 +1671,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora",
