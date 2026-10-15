@@ -1,6 +1,6 @@
 {
-  "content_hash": "e5b832e32206a8393171c811a51ccb23b42bc58b20731ba81e31ad2ff6a9d391",
-  "last_updated": "2026-10-15T20:47:01.089Z",
+  "content_hash": "d7c599ec81a295fa89d6373cfb76bf9ee28280ca4a839b0a9f72f1b2531231a4",
+  "last_updated": "2026-10-15T21:46:55.452Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T20:00:08.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T20:01:00.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T19:47:17.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-15T14:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-15T21:00:30.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -134,7 +134,7 @@
     {
       "source_name": "Le Calibre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.2,
+      "estimated_articles_per_day": 0.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T06:05:16.000Z"
     },
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "The new Papar Vuelte combines its thinnest case yet with a wandering hour complication",
+      "url": "https://timeandtidewatches.com/papar-vuelte-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Papar-Vuelte-Feature-3.jpg",
+      "peek_preview": "The Papar Vuelte combines a wandering hour complication, striking brutalist design and an ultra-thin 8.8mm case, limited to 100 pieces The post The new Papar Vuelte combines its thinnest case yet with a wandering hour c...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T21:00:30.000Z",
+      "score_quality": 74,
+      "score_notif": 64,
+      "cluster": "20261015-0922bb7299c5",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – The Capri By De Rijke & Co Welcomes New Permanent Editions",
       "url": "https://monochrome-watches.com/introducing-de-rijke-and-co-capri-silver-champagne-salmon-la-joux-perret-d100-specs-price-pics/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/De-Rijke-Co-Capri-Silver-Champagne-Salmon-Featured-600x237.jpg",
@@ -187,7 +201,7 @@
       "score_quality": 77,
       "score_notif": 61,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "De Rijke & Co. Makes the Capri Collection a Permanent Fixture of Its Catalog with Three Staple Colorways",
@@ -201,7 +215,7 @@
       "score_quality": 79,
       "score_notif": 61,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The 40 Best Chronograph Watches For 2026",
@@ -243,7 +257,7 @@
       "score_quality": 82,
       "score_notif": 64,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Papar Puts a Twist on the All-Black Watch with Its Slimmest Watch Yet Featuring a Wandering-Hour",
@@ -255,9 +269,9 @@
       "featured": false,
       "published_at": "2026-10-15T16:00:41.000Z",
       "score_quality": 61,
-      "score_notif": 62,
+      "score_notif": 64,
       "cluster": "20261015-0922bb7299c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "We Love Watches 2026 : retour sur une édition réussie à la Maison de la Mutualité",
@@ -299,7 +313,7 @@
       "score_quality": 57,
       "score_notif": 64,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Noah x Timex Boatswain (Live Pics)",
@@ -593,7 +607,7 @@
       "score_quality": 82,
       "score_notif": 63,
       "cluster": "20261015-a7d06e5cbb3e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: AETHER + Bamford D-300 Remixes The London Brand’s Ceramic Dive Watch",
@@ -621,7 +635,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261015-a7d06e5cbb3e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On With Two Cônillons: Trying Out The ArtyA Complexity Métiers d’Art",
@@ -1055,7 +1069,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -1209,7 +1223,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The New Sternglas Zirkel X Proves The Circle’s Significance",
@@ -1839,20 +1853,6 @@
       "score_quality": 56,
       "score_notif": 34,
       "cluster": "20261009-3ac5717f277c",
-      "cluster_main": true
-    },
-    {
-      "title": "The Sept 26 Files: Best Champagnes and Luxury Wine Experiences",
-      "url": "https://deployant.com/the-sept-26-files-best-champagnes-and-luxury-wine-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=the-sept-26-files-best-champagnes-and-luxury-wine-experiences",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/vendemaire-sacre-glass-1080x1920.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Welcome to our September sharing of the month’s most exceptional bottles tasted. For this episode, we travelled in Switzerland, France and Germany before retu...",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T13:30:00.000Z",
-      "score_quality": 6,
-      "score_notif": 0,
-      "cluster": "20261009-3213a2ff277f",
       "cluster_main": true
     }
   ]
