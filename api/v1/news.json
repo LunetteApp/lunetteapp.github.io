@@ -1,6 +1,6 @@
 {
-  "content_hash": "354953a73407f7eca1d8aea13394fe5d8b0a818141985a8756b2b7cbd26ecd08",
-  "last_updated": "2026-10-15T17:47:30.354Z",
+  "content_hash": "aa0b482844ba0cb27739f90ff03ff9d23b0d314b38974b1227e8178af86d898f",
+  "last_updated": "2026-10-15T18:47:10.560Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
+      "estimated_articles_per_day": 3.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T14:00:58.000Z"
     },
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.6,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-15T17:00:00.000Z"
+      "latest_article_at": "2026-10-15T18:34:49.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T14:00:10.000Z"
     },
@@ -176,6 +176,20 @@
   ],
   "items": [
     {
+      "title": "Business News: Former AP CEO François-Henri Bennahmias Brought In As Consultant To Hublot",
+      "url": "https://www.hodinkee.com/articles/former-ap-ceo-francois-henri-bennahmias-brought-in-as-consultant-to-hublot",
+      "image": "https://hodinkee.imgix.net/uploads/images/c092a86f-7b1c-4fdf-81c8-7473fbd4face/DSCF2452-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "In a surprise move, Bennahmias will serve as a consultant at the LVMH watch brand, with Julien Tornare remaining CEO.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T18:34:49.000Z",
+      "score_quality": 84,
+      "score_notif": 61,
+      "cluster": "20261015-e04d7d6078fc",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: Monta 10th Anniversary Neuchâtel X Collection in Opalin Silver",
       "url": "https://www.hodinkee.com/articles/monta-10th-anniversary-neuchatel-x-collection-in-opalin-silver",
       "image": "https://hodinkee.imgix.net/uploads/images/2825451d-0912-4008-bf1a-4bd8faffc57b/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -229,7 +243,7 @@
       "score_quality": 62,
       "score_notif": 61,
       "cluster": "20261015-e04d7d6078fc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MONTA Celebrates 10 Years Of Refinement With Two Neuchâtel X Limited Editions",
@@ -453,7 +467,7 @@
       "score_quality": 88,
       "score_notif": 76,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Urwerk Takes a Quantum Leap with the UR-300",
@@ -495,7 +509,7 @@
       "score_quality": 80,
       "score_notif": 76,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
@@ -523,7 +537,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261014-358fe6d88475",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The IWC Pilot Watch Performance Chronograph Turns Gold for the Year of the Goat",
@@ -747,20 +761,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261014-dbbcddded1e2",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Hermès H08 Bleu de Malte And Blanc Chantilly",
-      "url": "https://www.hodinkee.com/articles/hermes-h08-bleu-de-malte-and-blanc-chantilly",
-      "image": "https://hodinkee.imgix.net/uploads/images/cda4f3a5-1991-45d6-b1a9-d61c763f859c/HeaderImage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Hermès brings two new colorways to the H08, alongside a brighter glass fibre case than we've seen before.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-14T14:00:00.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261014-358fe6d88475",
       "cluster_main": true
     },
     {
@@ -1013,7 +1013,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -1110,7 +1110,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261013-69cf912bc63d",
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     },
     {
@@ -1181,7 +1181,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The New Sternglas Zirkel X Proves The Circle’s Significance",
@@ -1279,7 +1279,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261013-69cf912bc63d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
