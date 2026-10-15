@@ -1,6 +1,6 @@
 {
-  "content_hash": "087d25a2c66085d0d5b9a33f1ad0c6f20cf31583f275eb2eb6f9abff769c7aa3",
-  "last_updated": "2026-10-15T03:47:31.935Z",
+  "content_hash": "3ad085c9238f8811eef162f2fdf047f949304f0bfabe9504ee0b2e177ee78efd",
+  "last_updated": "2026-10-15T04:46:50.656Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T07:00:30.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-15T04:00:59.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T03:00:44.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Fratello Talks: The Omega Speedmaster Reduced",
+      "url": "https://www.fratellowatches.com/fratello-talks-the-omega-speedmaster-reduced/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Omega-Speedmaster-Reduced-324.30.38.50.01.002-324.30.38.50.04.001-324.30.38.50.02.003-15.jpg",
+      "peek_preview": "For many watch enthusiasts, the Omega Speedmaster Professional Moonwatch is untouchable. But there’s another model that has earned its rightful place in the collection — the Speedmaster Reduced. Smaller, automatic, and...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T04:00:59.000Z",
+      "score_quality": 63,
+      "score_notif": 24,
+      "cluster": "20261015-cd344c27e48a",
+      "cluster_main": true
+    },
     {
       "title": "グランドセイコー、手巻きムーブメントCal.9S54の誕生25周年を記念したブティック限定モデルを発表",
       "url": "https://www.webchronos.net/news/175821/",
@@ -355,7 +369,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261014-95c1d0e41789",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Ming x Massena Lab 57.09 'Secret Honey'",
@@ -369,7 +383,7 @@
       "score_quality": 79,
       "score_notif": 68,
       "cluster": "20261014-95c1d0e41789",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Ralph Lauren Western Cushion Is Back With A 38mm Case",
@@ -845,7 +859,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261013-d2ab254411d7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The new Bianchet UltraFino Tonneau Black Ceramic and Gold",
@@ -901,7 +915,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-d2ab254411d7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The MeisterSinger No03 and Perigraph Special Editions with Turquoise Dials",
@@ -929,7 +943,7 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Wren Vessel: A Surprisingly Wearable Integrated-Bracelet Watch For The Future",
@@ -1338,20 +1352,6 @@
       "cluster_main": true
     },
     {
-      "title": "Sunday Morning Showdown: Omega Seamaster Diver 300M James Bond Vs. Spectre Edition",
-      "url": "https://www.fratellowatches.com/sunday-morning-showdown-omega-seamaster-diver-300m-james-bond-vs-spectre-edition/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Omega-Seamaster-300m-Bond-Divers-HEADER_2.jpg",
-      "peek_preview": "It’s Sunday morning, so it’s time for a vodka martini, shaken, not stirred. In this week’s Sunday Morning Showdown, we end a busy Bond week with a battle between good and evil. On Monday, Omega released a duo of new Sea...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-11T05:00:09.000Z",
-      "score_quality": 48,
-      "score_notif": 34,
-      "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
-    },
-    {
       "title": "ボール ウォッチが、アメリカの鉄道時計の伝統を受け継ぐ「トレインマスター スタンダードタイム 2」を発表",
       "url": "https://www.webchronos.net/news/175342/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/10/B_1.webp",
@@ -1433,7 +1433,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
@@ -1615,7 +1615,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261005-91dfd8dfde5a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bell&Ross BR-03 Green Radar Ceramic: tre aerei per leggere l’ora",
@@ -1825,7 +1825,7 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261008-623aaa6de54a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
