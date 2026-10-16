@@ -1,6 +1,6 @@
 {
-  "content_hash": "51a89e3b42b0e117ebb36c92ef3d5e16bf227fbb986d39ac7db3c80b346562cb",
-  "last_updated": "2026-10-16T03:48:15.742Z",
+  "content_hash": "7bac8897b4a52000239d3e5bae4aabcc8735aeb1ae388d440660433f5179011e",
+  "last_updated": "2026-10-16T05:46:52.869Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-16T02:00:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T05:00:05.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-15T18:34:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T05:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T03:00:02.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "The Biver AB Debuts As The Brand’s First Stainless Steel Watch With A New Manually Wound Movement",
+      "url": "https://www.fratellowatches.com/introducing-the-biver-ab/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/5-Biver-AB.jpg",
+      "peek_preview": "Biver introduces its first stainless steel watch, the new AB, short for Acier Biver. Developed in response to customer demand, the AB combines a 38mm steel case with a remarkably slim 9.8mm profile and a brand-new manua...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-16T05:00:05.000Z",
+      "score_quality": 84,
+      "score_notif": 70,
+      "cluster": "20261016-34e72cea1f6d",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
+      "url": "https://www.hodinkee.com/articles/introducing-biver-ab-manual",
+      "image": "https://hodinkee.imgix.net/uploads/images/25910868-5892-4591-b63b-cbe1ce081259/11-BiverAB.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Biver's first stainless steel watch also comes with a new manually wound movement.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-16T05:00:00.000Z",
+      "score_quality": 82,
+      "score_notif": 70,
+      "cluster": "20261016-34e72cea1f6d",
+      "cluster_main": false
+    },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
       "url": "https://www.webchronos.net/news/175912/",
@@ -411,7 +439,7 @@
       "score_quality": 79,
       "score_notif": 68,
       "cluster": "20261015-399ad46544ae",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The New Christopher Ward C1 Loco Classic Continues The Loco Series In Style",
@@ -425,7 +453,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261015-399ad46544ae",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Nuncier Evokes The Moon’s Surface With The Limited-Edition Lunar Mission Watch",
@@ -509,7 +537,7 @@
       "score_quality": 85,
       "score_notif": 68,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new Hublot Classic Fusion Tributo looks to the past and future with serious upgrades",
@@ -537,7 +565,7 @@
       "score_quality": 89,
       "score_notif": 68,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -717,7 +745,7 @@
       "featured": false,
       "published_at": "2026-10-15T05:00:49.000Z",
       "score_quality": 82,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261015-8f051523fc55",
       "cluster_main": true
     },
@@ -1222,7 +1250,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261013-b78dfc76b202",
+      "cluster": "20261013-69cf912bc63d",
       "cluster_main": true
     },
     {
@@ -1296,20 +1324,6 @@
       "cluster_main": true
     },
     {
-      "title": "The New Sternglas Zirkel X Proves The Circle’s Significance",
-      "url": "https://www.fratellowatches.com/the-new-sternglas-zirkel-x-proves-the-circles-significance/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Sternglas-Zirkel-X-16.jpg",
-      "peek_preview": "It’s impressive to realize that Sternglas has been around for a decade. I first reviewed a Sternglas watch seven years ago, so I have followed the company for most of those years. Putting aside the realization that I am...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T10:00:36.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261013-7bed9c15f195",
-      "cluster_main": true
-    },
-    {
       "title": "Fortis gives its Novonaut a glow up",
       "url": "https://timeandtidewatches.com/fortis-novonaut-n-42-halo-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/fortis-novonaut-n-42-halo-1.jpg",
@@ -1377,7 +1391,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261013-69cf912bc63d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -1839,20 +1853,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261009-373d9f857b16",
-      "cluster_main": true
-    },
-    {
-      "title": "TimeForArt 2026: gli incredibili capolavori che cancellano il confine tra arte e orologeria",
-      "url": "https://italianwatchspotter.com/timeforart-2026/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-15-768x1024.png",
-      "peek_preview": "Esiste un confine, nell’orologeria, oltre il quale la misurazione del tempo smette di essere l’unica ragione d’essere di un segnatempo. È il momento in cui un quadrante diventa una superficie pittorica, una cassa assume...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-09T15:00:00.000Z",
-      "score_quality": 56,
-      "score_notif": 34,
-      "cluster": "20261009-ae16e456c5cb",
       "cluster_main": true
     }
   ]
