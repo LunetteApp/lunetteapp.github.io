@@ -1,6 +1,6 @@
 {
-  "content_hash": "155c4c9897d1a137385ed8d31d2c80da9ac186122ca918ae1177edcc0082ebee",
-  "last_updated": "2026-10-16T09:47:30.016Z",
+  "content_hash": "be986f586727b3ec784b09b6522000077076d06c103b22914175e818f2f97be2",
+  "last_updated": "2026-10-16T10:47:27.971Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T09:00:14.000Z"
     },
     {
@@ -106,7 +106,7 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.6,
+      "estimated_articles_per_day": 0.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T08:00:02.000Z"
     },
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T09:21:26.000Z"
     },
     {
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-15T15:17:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T10:17:53.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "François-Henry Bennahmias : l’ex-patron d’Audemars Piguet appelé en renfort chez Hublot",
+      "url": "https://www.welovewatches.fr/francois-henry-bennahmias-lex-patron-daudemars-piguet-appele-en-renfort-chez-hublot.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/hublot_bennahmias_une_1940x1280.jpg",
+      "peek_preview": "François-Henry Bennahmias aurait rejoint Hublot comme consultant, selon les informations de Glitz et de Hodinkee. L’ancien dirigeant d’Audemars Piguet apporterait son expérience à la maison de Nyon, toujours dirigée par...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-16T10:17:53.000Z",
+      "score_quality": 57,
+      "score_notif": 61,
+      "cluster": "20261015-e04d7d6078fc",
+      "cluster_main": false
+    },
     {
       "title": "Watches of Italy 2026, boom di marchi a Milano",
       "url": "https://giornaleorologi.it/2026/10/16/watches-of-italy-2026-boom-di-marchi-a-milano/",
@@ -257,7 +271,7 @@
       "score_quality": 84,
       "score_notif": 70,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
@@ -271,7 +285,7 @@
       "score_quality": 82,
       "score_notif": 70,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -1152,8 +1166,8 @@
       "published_at": "2026-10-14T01:00:24.000Z",
       "score_quality": 76,
       "score_notif": 28,
-      "cluster": "20261009-373d9f857b16",
-      "cluster_main": false
+      "cluster": "20261014-17c309287266",
+      "cluster_main": true
     },
     {
       "title": "グランドセイコーが「フラッグシップブティック 銀座」のラウンジに着想を得た和光限定モデルを発表",
@@ -1278,7 +1292,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261013-69cf912bc63d",
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     },
     {
@@ -1405,7 +1419,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261013-69cf912bc63d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -1516,8 +1530,8 @@
       "published_at": "2026-10-12T11:00:16.000Z",
       "score_quality": 59,
       "score_notif": 34,
-      "cluster": "20261010-a032e69b569a",
-      "cluster_main": false
+      "cluster": "20261012-23fbb1b17174",
+      "cluster_main": true
     },
     {
       "title": "Hamilton American Classic Cushion : un voyage d’un siècle dans le temps",
@@ -1839,20 +1853,6 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261009-2b4a1a487e45",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Jaquet Droz Petite Heure Minute Les Volumes du Temps—A Unique Enamel Sculpture for TimeForArt 2026",
-      "url": "https://www.watchcollectinglifestyle.com/home/jaquet-droz-petite-heure-minute-les-volumes-du-temps-timeforart-2026",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791560754477-OUA8W2DY59LFCHAE18DW/Jaquet+Droz+Petite+Heure+Minute+Les+Volumes+du+Temps-3.jpg?format=1500w",
-      "peek_preview": "Jaquet Droz has unveiled Les Volumes du Temps, a unique Petite Heure Minute in 18K white gold that reads hours and minutes in three dimensions, without a single hand. Conceived at the Atelier in La Chaux-de-Fonds around...",
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T16:18:08.000Z",
-      "score_quality": 76,
-      "score_notif": 28,
-      "cluster": "20261009-373d9f857b16",
       "cluster_main": true
     }
   ]
