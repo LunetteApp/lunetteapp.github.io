@@ -1,6 +1,6 @@
 {
-  "content_hash": "9ab63a5f40e9ffa2f7fdb6af0a917dcae0ffe78b54572264a02759ebdce7c9a7",
-  "last_updated": "2026-10-16T18:47:34.249Z",
+  "content_hash": "6b60f07badc6fc08ee39bc4c1bd1de02f7d9789f875df874689e146d82a5b9ce",
+  "last_updated": "2026-10-16T20:47:46.685Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-16T17:00:18.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T20:00:42.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -43,7 +43,7 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
+      "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T19:47:17.000Z"
     },
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T17:47:54.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
+      "url": "https://wornandwound.com/enthusiast-spotlight-mountaineer-piotr-ma-takes-on-marathons-new-titanium-gsar/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/GSAR_Ti-16.jpg",
+      "peek_preview": "The post Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR appeared first on Worn & Wound.",
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-16T20:00:42.000Z",
+      "score_quality": 49,
+      "score_notif": 28,
+      "cluster": "20261016-ac5940629d92",
+      "cluster_main": true
+    },
     {
       "title": "From the Editor: How Swiss Is Your 'Swiss Made' Watch?—The Designation Guarantees Less Than You Think",
       "url": "https://www.watchcollectinglifestyle.com/home/how-swiss-is-your-swiss-made-watch-per-swissness-law",
@@ -383,7 +397,7 @@
       "score_quality": 84,
       "score_notif": 66,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Oris ProPilot Calibre 111 Returns More Than A Decade After Its Introduction",
@@ -425,7 +439,7 @@
       "score_quality": 80,
       "score_notif": 66,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -647,9 +661,9 @@
       "featured": false,
       "published_at": "2026-10-15T20:01:00.000Z",
       "score_quality": 77,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "De Rijke & Co. Makes the Capri Collection a Permanent Fixture of Its Catalog with Three Staple Colorways",
@@ -661,9 +675,9 @@
       "featured": false,
       "published_at": "2026-10-15T20:00:08.000Z",
       "score_quality": 79,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Former AP CEO François-Henri Bennahmias Brought In As Consultant To Hublot",
@@ -1334,8 +1348,8 @@
       "published_at": "2026-10-13T18:00:29.000Z",
       "score_quality": 56,
       "score_notif": 34,
-      "cluster": "20261013-d0c75b5a7cd9",
-      "cluster_main": true
+      "cluster": "20261013-d2ab254411d7",
+      "cluster_main": false
     },
     {
       "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
@@ -1418,7 +1432,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261013-69cf912bc63d",
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     },
     {
@@ -1545,7 +1559,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261013-69cf912bc63d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -1839,20 +1853,6 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261010-2dd33ceb325e",
-      "cluster_main": true
-    },
-    {
-      "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
-      "url": "https://www.uhrenkosmos.com/ebel-verkauf-f-p-journe-und-chanel-uebernehmen/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/EBEL-Verkauf-der-Movado-Group-an-Chanel-und-F.P.-Journe.jpg",
-      "peek_preview": "Ebel bekommt neue Eigentümer. Ein Konsortium um François-Paul Journe, Chanel und Pierre Jacques übernimmt die Marke für 66,5 Millionen USD von der Movado Group. Der Ebel Verkauf macht Hoffnung, lässt jedoch auch etliche...",
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-10T12:31:51.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261010-aa20e30cea22",
       "cluster_main": true
     }
   ]
