@@ -1,6 +1,6 @@
 {
-  "content_hash": "5c220c6afb8fe646853830bbcd58c7db6a8e2612bda293814909c8962fd1f7b3",
-  "last_updated": "2026-10-16T17:47:18.910Z",
+  "content_hash": "9ab63a5f40e9ffa2f7fdb6af0a917dcae0ffe78b54572264a02759ebdce7c9a7",
+  "last_updated": "2026-10-16T18:47:34.249Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T17:00:18.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-15T15:08:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T17:47:54.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "From the Editor: How Swiss Is Your 'Swiss Made' Watch?—The Designation Guarantees Less Than You Think",
+      "url": "https://www.watchcollectinglifestyle.com/home/how-swiss-is-your-swiss-made-watch-per-swissness-law",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1792169240912-42NELKV2OI44VFM7TNQ3/P1280067.jpg?format=1500w",
+      "peek_preview": "I've written about this topic on WCL before, and it deserves another look this week. Fossil, the Texas-based group best known for accessibly priced fashion watches, has returned to 'Swiss Made' with its new Signature CS...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-16T17:47:54.000Z",
+      "score_quality": 68,
+      "score_notif": 27,
+      "cluster": "20261016-ddeee298b98d",
+      "cluster_main": true
+    },
     {
       "title": "Oris Gives Its ProPilot Caliber 111 Simple but Significant Updates",
       "url": "https://wornandwound.com/oris-gives-its-propilot-caliber-111-simple-but-significant-updates/",
@@ -327,7 +341,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Formex gives its Essence Ceramica a bold look with new Essence Ceramica Dark Matter RedShift",
@@ -523,7 +537,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
@@ -537,7 +551,7 @@
       "score_quality": 82,
       "score_notif": 68,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -635,7 +649,7 @@
       "score_quality": 77,
       "score_notif": 61,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "De Rijke & Co. Makes the Capri Collection a Permanent Fixture of Its Catalog with Three Staple Colorways",
@@ -649,7 +663,7 @@
       "score_quality": 79,
       "score_notif": 61,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Business News: Former AP CEO François-Henri Bennahmias Brought In As Consultant To Hublot",
@@ -677,7 +691,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Papar Puts a Twist on the All-Black Watch with Its Slimmest Watch Yet Featuring a Wandering-Hour",
@@ -1320,8 +1334,8 @@
       "published_at": "2026-10-13T18:00:29.000Z",
       "score_quality": 56,
       "score_notif": 34,
-      "cluster": "20261013-d2ab254411d7",
-      "cluster_main": false
+      "cluster": "20261013-d0c75b5a7cd9",
+      "cluster_main": true
     },
     {
       "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
@@ -1839,20 +1853,6 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261010-aa20e30cea22",
-      "cluster_main": true
-    },
-    {
-      "title": "Five Watches to See at Patek Philippe Watch Art Grand Exhibition Milano 2026",
-      "url": "https://watchesbysjx.com/2026/10/highlights-patek-philippe-watch-art-grand-exhibition-milano-2026.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/patek-philippe-watch-art-grand-exhibition-milano-2026-highlights-story-300x200.jpg",
-      "peek_preview": "The Watch Art Grand Exhibition Milano 2026 is a Patek Philippe extravaganza that’s on show until October 18 at CityOval, a restored 1920s sporting complex. Hundreds of timepieces populate the over-30,000 sq ft space, in...",
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-10T10:47:46.000Z",
-      "score_quality": 66,
-      "score_notif": 34,
-      "cluster": "20261010-a032e69b569a",
       "cluster_main": true
     }
   ]
