@@ -1,6 +1,6 @@
 {
-  "content_hash": "e7194c23bb2dc61570b9e0428f38cfba6e022d8487db09e02bc5c31821471164",
-  "last_updated": "2026-10-16T15:47:57.564Z",
+  "content_hash": "f879aa8e14fc6e75b3e9bb4621ecafcfe965c69ef3020130217c3f61a519b10b",
+  "last_updated": "2026-10-16T16:47:09.213Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-16T14:01:06.000Z"
+      "estimated_articles_per_day": 3.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T16:05:14.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,14 +65,14 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T14:59:44.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – Frederique Constant Dresses Its Attainable Perpetual Calendar in Burgundy",
+      "url": "https://monochrome-watches.com/frederique-constant-classic-perpetual-calendar-manufacture-burgundy-steel-limited-edition-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Frederique-Constant-Classic-Perpetual-Calendar-Manufacture-Burgundy-Limited-Edition-review-8-600x237.jpg",
+      "peek_preview": "Frederique Constant is known to make traditionally expensive watchmaking complications more accessible. Its Manufacture Perpetual Calendar, first introduced in 2016, was a QP priced well below that of many established c...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-16T16:05:14.000Z",
+      "score_quality": 79,
+      "score_notif": 64,
+      "cluster": "20261016-87083efc6fc7",
+      "cluster_main": true
+    },
     {
       "title": "Bring a Loupe: A Breguet's Breguet, A LIP Chronograph, An IWC Aquatimer, And A Boucheron Carree",
       "url": "https://www.hodinkee.com/articles/a-breguets-breguet-a-lip-chronograph-an-iwc-aquatimer-and-a-boucheron-carree",
@@ -591,7 +605,7 @@
       "featured": false,
       "published_at": "2026-10-15T21:00:30.000Z",
       "score_quality": 74,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261015-0922bb7299c5",
       "cluster_main": true
     },
@@ -607,7 +621,7 @@
       "score_quality": 77,
       "score_notif": 61,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "De Rijke & Co. Makes the Capri Collection a Permanent Fixture of Its Catalog with Three Staple Colorways",
@@ -621,7 +635,7 @@
       "score_quality": 79,
       "score_notif": 61,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Business News: Former AP CEO François-Henri Bennahmias Brought In As Consultant To Hublot",
@@ -661,7 +675,7 @@
       "featured": false,
       "published_at": "2026-10-15T16:00:41.000Z",
       "score_quality": 61,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261015-0922bb7299c5",
       "cluster_main": false
     },
@@ -974,20 +988,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – The IWC Pilot Watch Performance Chronograph Turns Gold for the Year of the Goat",
-      "url": "https://monochrome-watches.com/iwc-pilot-watch-performance-chronograph-41-year-of-the-goat-2027-titanium-gold-dial-iw388310-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/IWC-Pilot-Watch-Performance-Chronograph-41-Year-of-the-Goat-IW388310-review-1-600x237.jpg",
-      "peek_preview": "IWC Schaffhausen has marked the Chinese New Year with some interesting special editions in recent years, most of them featuring burgundy dials, from the burgundy-and-gold Portugieser for the Year of the Rabbit to the dr...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T07:01:39.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261015-a7d06e5cbb3e",
-      "cluster_main": true
-    },
-    {
       "title": "Hands-On Debut: AETHER + Bamford D-300 Remixes The London Brand’s Ceramic Dive Watch",
       "url": "https://www.ablogtowatch.com/hands-on-debut-aether-bamford-d-300-remixes-the-london-brands-ceramic-dive-watch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Aether-x-Bamford-D-300-Dive-Watch-768x346.jpg",
@@ -1013,7 +1013,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-a7d06e5cbb3e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On With Two Cônillons: Trying Out The ArtyA Complexity Métiers d’Art",
@@ -1404,7 +1404,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261013-69cf912bc63d",
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     },
     {
@@ -1531,7 +1531,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261013-69cf912bc63d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
