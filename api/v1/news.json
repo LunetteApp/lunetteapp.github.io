@@ -1,6 +1,6 @@
 {
-  "content_hash": "c7ed55f7a68f771faa2a048d9c5f3a67c0c3e3c83bfe87cb14ec02aebf9511ee",
-  "last_updated": "2026-10-16T07:47:38.410Z",
+  "content_hash": "1d7a91c6d8eeb395a6d041f5e5a7de18804b78b5f2dd902d0a02452253072432",
+  "last_updated": "2026-10-16T08:47:14.426Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T07:30:55.000Z"
     },
     {
@@ -22,15 +22,15 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.9,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.8,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T07:00:30.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T07:07:34.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T23:01:18.000Z"
     },
@@ -185,7 +185,7 @@
       "featured": false,
       "published_at": "2026-10-16T07:30:55.000Z",
       "score_quality": 81,
-      "score_notif": 76,
+      "score_notif": 34,
       "cluster": "20261015-095e182f5295",
       "cluster_main": false
     },
@@ -220,7 +220,7 @@
     {
       "title": "The Biver AB Debuts As The Brand’s First Stainless Steel Watch With A New Manually Wound Movement",
       "url": "https://www.fratellowatches.com/introducing-the-biver-ab/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/5-Biver-AB.jpg",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/9-Biver-AB.jpg",
       "peek_preview": "Biver introduces its first stainless steel watch, the new AB, short for Acier Biver. Developed in response to customer demand, the AB combines a 38mm steel case with a remarkably slim 9.8mm profile and a brand-new manua...",
       "source_name": "Fratello Watches",
       "lang": "en",
@@ -647,9 +647,9 @@
       "featured": false,
       "published_at": "2026-10-15T08:01:58.000Z",
       "score_quality": 88,
-      "score_notif": 76,
+      "score_notif": 34,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Urwerk Takes a Quantum Leap with the UR-300",
@@ -661,7 +661,7 @@
       "featured": false,
       "published_at": "2026-10-15T08:00:23.000Z",
       "score_quality": 89,
-      "score_notif": 76,
+      "score_notif": 34,
       "cluster": "20261015-095e182f5295",
       "cluster_main": false
     },
@@ -675,7 +675,7 @@
       "featured": false,
       "published_at": "2026-10-15T08:00:00.000Z",
       "score_quality": 72,
-      "score_notif": 76,
+      "score_notif": 34,
       "cluster": "20261015-095e182f5295",
       "cluster_main": false
     },
@@ -689,9 +689,9 @@
       "featured": false,
       "published_at": "2026-10-15T08:00:00.000Z",
       "score_quality": 80,
-      "score_notif": 76,
+      "score_notif": 34,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
@@ -703,7 +703,7 @@
       "featured": false,
       "published_at": "2026-10-15T08:00:00.000Z",
       "score_quality": 67,
-      "score_notif": 76,
+      "score_notif": 34,
       "cluster": "20261015-095e182f5295",
       "cluster_main": false
     },
@@ -1137,9 +1137,9 @@
       "featured": false,
       "published_at": "2026-10-14T01:00:24.000Z",
       "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261014-17c309287266",
-      "cluster_main": true
+      "score_notif": 28,
+      "cluster": "20261009-373d9f857b16",
+      "cluster_main": false
     },
     {
       "title": "グランドセイコーが「フラッグシップブティック 銀座」のラウンジに着想を得た和光限定モデルを発表",
@@ -1825,6 +1825,34 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261009-2b4a1a487e45",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Jaquet Droz Petite Heure Minute Les Volumes du Temps—A Unique Enamel Sculpture for TimeForArt 2026",
+      "url": "https://www.watchcollectinglifestyle.com/home/jaquet-droz-petite-heure-minute-les-volumes-du-temps-timeforart-2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791560754477-OUA8W2DY59LFCHAE18DW/Jaquet+Droz+Petite+Heure+Minute+Les+Volumes+du+Temps-3.jpg?format=1500w",
+      "peek_preview": "Jaquet Droz has unveiled Les Volumes du Temps, a unique Petite Heure Minute in 18K white gold that reads hours and minutes in three dimensions, without a single hand. Conceived at the Atelier in La Chaux-de-Fonds around...",
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-09T16:18:08.000Z",
+      "score_quality": 76,
+      "score_notif": 28,
+      "cluster": "20261009-373d9f857b16",
+      "cluster_main": true
+    },
+    {
+      "title": "TimeForArt 2026: gli incredibili capolavori che cancellano il confine tra arte e orologeria",
+      "url": "https://italianwatchspotter.com/timeforart-2026/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-15-768x1024.png",
+      "peek_preview": "Esiste un confine, nell’orologeria, oltre il quale la misurazione del tempo smette di essere l’unica ragione d’essere di un segnatempo. È il momento in cui un quadrante diventa una superficie pittorica, una cassa assume...",
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-09T15:00:00.000Z",
+      "score_quality": 46,
+      "score_notif": 16,
+      "cluster": "20261009-ae16e456c5cb",
       "cluster_main": true
     }
   ]
