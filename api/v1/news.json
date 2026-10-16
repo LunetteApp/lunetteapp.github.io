@@ -1,6 +1,6 @@
 {
-  "content_hash": "eb33397917f5820a80cb4a96cb79c91c37441d324ddc5bac0546378ee2a05165",
-  "last_updated": "2026-10-15T23:47:03.361Z",
+  "content_hash": "9a327866eef0d2441071dc8ef980616bf5d9774c6a85750a7b4f984e0e7ef4e8",
+  "last_updated": "2026-10-16T00:47:14.547Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T15:00:27.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-15T23:01:18.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-15T03:00:44.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T00:00:09.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "モリッツ・グロスマンが生誕200周年を記念した日本限定8本の「テフヌート36 ブラックエナメル」を発表",
+      "url": "https://www.webchronos.net/news/175670/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/Instagram_1.webp",
+      "peek_preview": "モリッツ・グロスマンがブランド名の由来となった時計職人の生誕200周年を記念し、「テフヌート36 ブラックエナメル ジャパンリミテッド」を発表した。本作は18Kローズゴールド製ケースに、ゴールドグリッターでインデックスな […]",
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-16T00:00:09.000Z",
+      "score_quality": 78,
+      "score_notif": 57,
+      "cluster": "20261016-eaaa4f6db170",
+      "cluster_main": true
+    },
     {
       "title": "Fears dials in the dress code with the Arnos Opera Black",
       "url": "https://timeandtidewatches.com/fears-arnos-opera-black-introducing/",
@@ -425,7 +439,7 @@
       "score_quality": 81,
       "score_notif": 68,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The New Hublot Classic Fusion Tributo Takes Us Back To 1980",
@@ -453,7 +467,7 @@
       "score_quality": 85,
       "score_notif": 68,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The new Hublot Classic Fusion Tributo looks to the past and future with serious upgrades",
@@ -537,7 +551,7 @@
       "score_quality": 88,
       "score_notif": 76,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Urwerk Takes a Quantum Leap with the UR-300",
@@ -579,7 +593,7 @@
       "score_quality": 80,
       "score_notif": 76,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
@@ -621,7 +635,7 @@
       "score_quality": 82,
       "score_notif": 63,
       "cluster": "20261015-a7d06e5cbb3e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: AETHER + Bamford D-300 Remixes The London Brand’s Ceramic Dive Watch",
@@ -649,7 +663,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261015-a7d06e5cbb3e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On With Two Cônillons: Trying Out The ArtyA Complexity Métiers d’Art",
@@ -703,7 +717,7 @@
       "featured": false,
       "published_at": "2026-10-15T00:00:42.000Z",
       "score_quality": 74,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261015-e14aed707579",
       "cluster_main": true
     },
@@ -929,7 +943,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Finalmente un Mido Multifort TV Big Date Chronometer COSC: foto live, prova al polso e tutto quello che devi sapere",
@@ -943,7 +957,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -1083,7 +1097,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -1166,7 +1180,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261013-b78dfc76b202",
+      "cluster": "20261013-69cf912bc63d",
       "cluster_main": true
     },
     {
@@ -1237,7 +1251,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The New Sternglas Zirkel X Proves The Circle’s Significance",
@@ -1335,7 +1349,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261013-69cf912bc63d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fossil Unveils The Swiss-Made Signature CS-1 Watch Collection Inspired By Mid-Century Architecture",
@@ -1629,20 +1643,6 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261011-4765122af9a7",
-      "cluster_main": true
-    },
-    {
-      "title": "カルティエが若き才能を育む「カルティエ タレンツ オブ トゥモロー」賞を創設",
-      "url": "https://www.webchronos.net/news/175585/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/cartier_award_1.webp",
-      "peek_preview": "カルティエは、1995年から続く「カルティエ ウォッチメイカーズ オブ トゥモロー」賞にジュエリー部門を新設して拡充し、時計製造とジュエリーの2分野で若い才能を表彰する「カルティエ タレンツ オブ トゥモロー」賞を創設し […]",
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-11T00:00:39.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261011-d21866928b12",
       "cluster_main": true
     },
     {
