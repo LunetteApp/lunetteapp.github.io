@@ -1,6 +1,6 @@
 {
-  "content_hash": "c9f75d5a2163723d9a73a20fa681b73796101146747a123e1ac2acab1d6357d1",
-  "last_updated": "2026-10-16T21:45:49.297Z",
+  "content_hash": "0783cff45e2346debc569d9e015ae80b933bebcb77ba73db518d5c3995d47e5e",
+  "last_updated": "2026-10-16T22:47:15.581Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-16T16:05:14.000Z"
+      "estimated_articles_per_day": 3.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T22:01:54.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-15T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T21:59:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The Bell & Ross BR-03 Space Mission Brings the Earth and Mars to the Wrist",
+      "url": "https://monochrome-watches.com/bell-and-ross-br-03-space-mission-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Bell-and-Ross-BR-03-Space-Mission-6-600x237.jpg",
+      "peek_preview": "Earth, the Moon, Mars, and a spacecraft… Sounds like Christopher Nolan is cooking up another mind-bending film, but it is actually the new Bell & Ross BR-03 Space Mission. Following the BR-03 Astro from 2025, this new e...",
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-16T22:01:54.000Z",
+      "score_quality": 84,
+      "score_notif": 65,
+      "cluster": "20261016-e1910e4eb072",
+      "cluster_main": true
+    },
+    {
+      "title": "New: Bell & Ross BR-03 Space Mission",
+      "url": "https://deployant.com/new-bell-ross-br-03-space-mission/?utm_source=rss&utm_medium=rss&utm_campaign=new-bell-ross-br-03-space-mission",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/R23-001-BR03-SPACE-MISSION-NM1-V2_1-for-deployant.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Bell & Ross continues on its space story by announcing the BR-03 Space Mission. This is a followup to the highly popular BR-03 Astro released in 2025. Enclose...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-16T21:59:00.000Z",
+      "score_quality": 74,
+      "score_notif": 65,
+      "cluster": "20261016-e1910e4eb072",
+      "cluster_main": false
+    },
     {
       "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
       "url": "https://wornandwound.com/enthusiast-spotlight-mountaineer-piotr-ma-takes-on-marathons-new-titanium-gsar/",
@@ -397,7 +425,7 @@
       "score_quality": 84,
       "score_notif": 66,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Oris ProPilot Calibre 111 Returns More Than A Decade After Its Introduction",
@@ -439,7 +467,7 @@
       "score_quality": 80,
       "score_notif": 66,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -551,7 +579,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
@@ -565,7 +593,7 @@
       "score_quality": 82,
       "score_notif": 68,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -789,7 +817,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-399ad46544ae",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The New Christopher Ward C1 Loco Classic Continues The Loco Series In Style",
@@ -803,7 +831,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261015-399ad46544ae",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Nuncier Evokes The Moon’s Surface With The Limited-Edition Lunar Mission Watch",
@@ -1016,20 +1044,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – Hermès Brightens the Glass Fibre H08 with White and Blue Editions",
-      "url": "https://monochrome-watches.com/hermes-h08-bleu-de-malte-and-blanc-chantilly-glass-fibre-case-editions-2026-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-Hermes-H08-Watch-Braided-glass-fibre-composite-case-review-1-600x237.jpg",
-      "peek_preview": "Hermès introduced the H08 collection in 2021 as a different take on the sporty-chic watch, first launched as a time-and-date series, then updated with a monopusher chronograph and, more recently, a skeleton model. The H...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T07:30:32.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261014-358fe6d88475",
-      "cluster_main": true
-    },
-    {
       "title": "Hands-On Debut: AETHER + Bamford D-300 Remixes The London Brand’s Ceramic Dive Watch",
       "url": "https://www.ablogtowatch.com/hands-on-debut-aether-bamford-d-300-remixes-the-london-brands-ceramic-dive-watch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Aether-x-Bamford-D-300-Dive-Watch-768x346.jpg",
@@ -1166,8 +1180,8 @@
       "published_at": "2026-10-14T15:48:48.000Z",
       "score_quality": 76,
       "score_notif": 34,
-      "cluster": "20261014-358fe6d88475",
-      "cluster_main": false
+      "cluster": "20261014-00142600c9a0",
+      "cluster_main": true
     },
     {
       "title": "The Louis Vuitton Monterey gets a sleek ceramic upgrade",
@@ -1363,7 +1377,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -1489,7 +1503,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fortis gives its Novonaut a glow up",
@@ -1839,20 +1853,6 @@
       "score_quality": 29,
       "score_notif": 22,
       "cluster": "20261010-7429788e4bdc",
-      "cluster_main": true
-    },
-    {
-      "title": "Omega Seamaster Diver 300M James Bond And Spectre: Six Watches, Two Sides",
-      "url": "https://deployant.com/omega-seamaster-diver-300m-james-bond-spectre/?utm_source=rss&utm_medium=rss&utm_campaign=omega-seamaster-diver-300m-james-bond-spectre",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/omega-seamaster-bond-spectre-both-editions-deployant-1200x675.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Omega has built six Seamaster Diver 300M references on one 42mm case and the Co-Axial Master Chronometer 8806, then split them between James Bond and Spectre....",
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-10T13:30:00.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261010-2dd33ceb325e",
       "cluster_main": true
     }
   ]
