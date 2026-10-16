@@ -1,6 +1,6 @@
 {
-  "content_hash": "8ca0c3a41fba000acff5f90e08d190cb91059f3a8af65755e3c2de21c278c54b",
-  "last_updated": "2026-10-16T14:47:22.840Z",
+  "content_hash": "e7194c23bb2dc61570b9e0428f38cfba6e022d8487db09e02bc5c31821471164",
+  "last_updated": "2026-10-16T15:47:57.564Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T14:00:08.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T14:01:06.000Z"
     },
     {
@@ -65,21 +65,21 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 2,
-      "latest_article_at": "2026-10-16T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-16T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-16T14:00:16.000Z"
+      "latest_article_at": "2026-10-16T14:59:44.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T14:30:50.000Z"
     },
     {
@@ -176,6 +176,34 @@
   ],
   "items": [
     {
+      "title": "Bring a Loupe: A Breguet's Breguet, A LIP Chronograph, An IWC Aquatimer, And A Boucheron Carree",
+      "url": "https://www.hodinkee.com/articles/a-breguets-breguet-a-lip-chronograph-an-iwc-aquatimer-and-a-boucheron-carree",
+      "image": "https://hodinkee.imgix.net/uploads/images/2de817b3-bbdc-4d26-98a3-8158f21dd95a/BALHERO1015.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-16T15:00:00.000Z",
+      "score_quality": 24,
+      "score_notif": 8,
+      "cluster": "20261016-131980216d38",
+      "cluster_main": true
+    },
+    {
+      "title": "The Biver AB is Time Only and All Quality",
+      "url": "https://watchesbysjx.com/2026/10/biver-ab.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/biver-AB-300x200.jpg",
+      "peek_preview": "Having found critical and commercial success with the Automatique, Biver is continuing with the time-only format, but (slightly) more accessibly. The Biver AB is a manual-wind, three-hand watch, but keeping to the high-...",
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-16T14:59:44.000Z",
+      "score_quality": 85,
+      "score_notif": 68,
+      "cluster": "20261016-34e72cea1f6d",
+      "cluster_main": true
+    },
+    {
       "title": "Doxa dive watches, from retro skin divers to serious deep-sea tools",
       "url": "https://timeandtidewatches.com/doxa-dive-watches-buying-guide/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-doxa-buying-guide.webp",
@@ -269,7 +297,7 @@
       "featured": false,
       "published_at": "2026-10-16T13:00:44.000Z",
       "score_quality": 78,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
       "cluster_main": false
     },
@@ -313,7 +341,7 @@
       "score_quality": 84,
       "score_notif": 66,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Oris ProPilot Calibre 111 Returns More Than A Decade After Its Introduction",
@@ -355,7 +383,7 @@
       "score_quality": 80,
       "score_notif": 66,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -381,7 +409,7 @@
       "featured": false,
       "published_at": "2026-10-16T10:17:53.000Z",
       "score_quality": 57,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
       "cluster_main": false
     },
@@ -465,7 +493,7 @@
       "featured": false,
       "published_at": "2026-10-16T05:00:05.000Z",
       "score_quality": 84,
-      "score_notif": 70,
+      "score_notif": 68,
       "cluster": "20261016-34e72cea1f6d",
       "cluster_main": false
     },
@@ -479,9 +507,9 @@
       "featured": false,
       "published_at": "2026-10-16T05:00:00.000Z",
       "score_quality": 82,
-      "score_notif": 70,
+      "score_notif": 68,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -579,7 +607,7 @@
       "score_quality": 77,
       "score_notif": 61,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "De Rijke & Co. Makes the Capri Collection a Permanent Fixture of Its Catalog with Three Staple Colorways",
@@ -593,7 +621,7 @@
       "score_quality": 79,
       "score_notif": 61,
       "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Business News: Former AP CEO François-Henri Bennahmias Brought In As Consultant To Hublot",
@@ -605,7 +633,7 @@
       "featured": false,
       "published_at": "2026-10-15T18:34:49.000Z",
       "score_quality": 84,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
       "cluster_main": true
     },
@@ -619,7 +647,7 @@
       "featured": false,
       "published_at": "2026-10-15T17:00:00.000Z",
       "score_quality": 82,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
       "cluster_main": true
     },
@@ -661,7 +689,7 @@
       "featured": false,
       "published_at": "2026-10-15T15:08:25.000Z",
       "score_quality": 62,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
       "cluster_main": false
     },
@@ -675,7 +703,7 @@
       "featured": false,
       "published_at": "2026-10-15T15:00:27.000Z",
       "score_quality": 57,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
       "cluster_main": false
     },
@@ -689,7 +717,7 @@
       "featured": false,
       "published_at": "2026-10-15T15:00:00.000Z",
       "score_quality": 74,
-      "score_notif": 58,
+      "score_notif": 34,
       "cluster": "20261015-3cd23d1b5549",
       "cluster_main": true
     },
@@ -887,7 +915,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Urwerk Takes a Quantum Leap with the UR-300",
@@ -916,20 +944,6 @@
       "score_notif": 34,
       "cluster": "20261015-095e182f5295",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing: The Urwerk UR-300 Time Quantum",
-      "url": "https://www.hodinkee.com/articles/introducing-urwerk-ur-300-time-quantum",
-      "image": "https://hodinkee.imgix.net/uploads/images/131bb9ad-8ded-47a2-a3ef-5d625b58884b/S00345_Urwerk_UR-300_Iron_VL_V1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A recognizable display from the satellite kings, with a new second twist and a jump so fast it'll knock your socks off.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T08:00:00.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261015-095e182f5295",
-      "cluster_main": true
     },
     {
       "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
@@ -1307,7 +1321,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -1390,7 +1404,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261013-b78dfc76b202",
+      "cluster": "20261013-69cf912bc63d",
       "cluster_main": true
     },
     {
@@ -1447,7 +1461,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fortis gives its Novonaut a glow up",
@@ -1517,7 +1531,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261013-69cf912bc63d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
