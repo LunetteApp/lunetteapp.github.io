@@ -1,6 +1,6 @@
 {
-  "content_hash": "f8fbe925c1903ef4aa067d4bac3807964254534c0549fbf6240a57188c4ac881",
-  "last_updated": "2026-10-17T03:47:22.920Z",
+  "content_hash": "e0ade03661dee1d94abee789c764fd119330039a79f1ea4dd7345dca46fe80fa",
+  "last_updated": "2026-10-17T05:47:01.361Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-16T14:00:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-17T05:00:38.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-16T10:17:53.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-17T05:42:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-17T03:00:44.000Z"
     },
     {
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Mido Multifort TV Big Date Chronometer : la montre télé passe au COSC",
+      "url": "https://www.welovewatches.fr/mido-multifort-tv-big-date-chronometer-la-montre-tele-passe-au-cosc.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/mido_multifort_tv_chronometer_une_1940x1280.jpg",
+      "peek_preview": "La Multifort TV Big Date décroche sa certification de chronomètre. Mido accompagne cette évolution de deux cadrans à damier, bleu ou noir, et d’une décoration plus soignée du mouvement. Le boîtier conserve ses proportio...",
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-17T05:42:00.000Z",
+      "score_quality": 64,
+      "score_notif": 32,
+      "cluster": "20261014-5d0626ae1e95",
+      "cluster_main": false
+    },
+    {
+      "title": "Should You Take One Watch Or Several When You Travel?",
+      "url": "https://www.fratellowatches.com/should-you-take-one-watch-or-several-when-you-travel/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Travelling-with-your-watches-3.jpg",
+      "peek_preview": "I was halfway through packing for a few weeks in Europe when the question stopped me: how many watches does a trip like this actually require? Not how many I own or how many I could justify bringing. How many would I ho...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-17T05:00:38.000Z",
+      "score_quality": 68,
+      "score_notif": 22,
+      "cluster": "20261017-02d166c8025d",
+      "cluster_main": true
+    },
     {
       "title": "オメガと映画『007』のコラボモデル「シーマスター ダイバー300M ジェームズ・ボンド＆スペクター」2型が発表",
       "url": "https://www.webchronos.net/news/175982/",
@@ -288,20 +316,6 @@
       "cluster_main": true
     },
     {
-      "title": "Bring a Loupe: A Breguet's Breguet, A LIP Chronograph, An IWC Aquatimer, And A Boucheron Carree",
-      "url": "https://www.hodinkee.com/articles/a-breguets-breguet-a-lip-chronograph-an-iwc-aquatimer-and-a-boucheron-carree",
-      "image": "https://hodinkee.imgix.net/uploads/images/2de817b3-bbdc-4d26-98a3-8158f21dd95a/BALHERO1015.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T15:00:00.000Z",
-      "score_quality": 24,
-      "score_notif": 8,
-      "cluster": "20261016-131980216d38",
-      "cluster_main": true
-    },
-    {
       "title": "The Biver AB is Time Only and All Quality",
       "url": "https://watchesbysjx.com/2026/10/biver-ab.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/biver-AB-300x200.jpg",
@@ -311,7 +325,7 @@
       "featured": false,
       "published_at": "2026-10-16T14:59:44.000Z",
       "score_quality": 85,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
       "cluster_main": false
     },
@@ -341,7 +355,7 @@
       "score_quality": 87,
       "score_notif": 69,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -383,7 +397,7 @@
       "score_quality": 78,
       "score_notif": 69,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The new Formex Essence Ceramica Dark Matter Redshift",
@@ -526,20 +540,6 @@
       "cluster_main": false
     },
     {
-      "title": "Watches of Italy 2026, boom di marchi a Milano",
-      "url": "https://giornaleorologi.it/2026/10/16/watches-of-italy-2026-boom-di-marchi-a-milano/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/WOI6_MILANO_photo-credit_Giorgio-Cigna-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Watches of Italy 2026, boom di marchi a Milano Watches of Italy 2026 riunirà a Milano 51 espositori. La settima edizione del Salone dell’orologeria indipendente ha già esaurito tutti gli spazi...",
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-16T09:21:26.000Z",
-      "score_quality": 50,
-      "score_notif": 46,
-      "cluster": "20261016-cbf6f580ab46",
-      "cluster_main": true
-    },
-    {
       "title": "The Top 5 Recent Field Watches",
       "url": "https://www.fratellowatches.com/the-top-5-recent-field-watches/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Straum-Expedition-collection-11.jpg",
@@ -605,9 +605,9 @@
       "featured": false,
       "published_at": "2026-10-16T05:00:05.000Z",
       "score_quality": 84,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
@@ -619,9 +619,9 @@
       "featured": false,
       "published_at": "2026-10-16T05:00:00.000Z",
       "score_quality": 82,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -761,7 +761,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Papar Puts a Twist on the All-Black Watch with Its Slimmest Watch Yet Featuring a Wandering-Hour",
@@ -817,7 +817,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Noah x Timex Boatswain (Live Pics)",
@@ -845,7 +845,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-399ad46544ae",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The New Christopher Ward C1 Loco Classic Continues The Loco Series In Style",
@@ -859,7 +859,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261015-399ad46544ae",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Nuncier Evokes The Moon’s Surface With The Limited-Edition Lunar Mission Watch",
@@ -1097,20 +1097,6 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-a7d06e5cbb3e",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On With Two Cônillons: Trying Out The ArtyA Complexity Métiers d’Art",
-      "url": "https://www.fratellowatches.com/trying-out-the-artya-complexity-metiers-dart/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/ArtyA-Complexity-Metiers-dArt-16.jpg",
-      "peek_preview": "This is not the first time you’ve read about cônillons. Do you still remember what a cônillon is? Let me jog your memory. It is a tilted tourbillon regulator with a tilted balance that follows a conical path rather than...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T05:00:49.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261015-8f051523fc55",
       "cluster_main": true
     },
     {
@@ -1390,8 +1376,8 @@
       "published_at": "2026-10-13T18:00:29.000Z",
       "score_quality": 56,
       "score_notif": 34,
-      "cluster": "20261013-d2ab254411d7",
-      "cluster_main": false
+      "cluster": "20261013-d0c75b5a7cd9",
+      "cluster_main": true
     },
     {
       "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
@@ -1646,20 +1632,6 @@
       "cluster_main": true
     },
     {
-      "title": "Time on Show 2026: quattro giorni tra i tesori più rari dell’orologeria vintage",
-      "url": "https://italianwatchspotter.com/time-on-show-2026-bologna-orologi-vintage/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-alle-19.02.32-907x1024.png",
-      "peek_preview": "Esistono orologi che raccontano molto più dell’ora che segnano. Alcuni custodiscono storie affascinanti, altri rappresentano capitoli fondamentali dell’evoluzione tecnica ed estetica dell’orologeria. Altri ancora sono d...",
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-12T17:00:37.000Z",
-      "score_quality": 52,
-      "score_notif": 27,
-      "cluster": "20261012-cde57cc740ec",
-      "cluster_main": true
-    },
-    {
       "title": "The Collector’s View or ‘OMG what have I done?’ or even ‘How to devastate your savings’",
       "url": "https://deployant.com/the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings",
       "image": "https://deployant.com/wp-content/uploads/2026/10/daryll-lotec-case.jpg",
@@ -1839,20 +1811,6 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261011-c48b4cea9e52",
-      "cluster_main": true
-    },
-    {
-      "title": "10:10: Celebrating World Watch Day 2026",
-      "url": "https://www.atimelyperspective.com/1010-celebrating-world-watch-day-2026/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/6ac1b249-f4f5-cfe1-b2e0-9e9ce2f1d507-864x1024.jpg",
-      "peek_preview": "On October 10, the global watch community comes together to celebrate the artistry, craftsmanship and heritage of watchmaking. Why 10:10? For those of us who have spent decades photographing watches, those four little d...",
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-10T13:42:57.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261010-7357fe0a787e",
       "cluster_main": true
     }
   ]
