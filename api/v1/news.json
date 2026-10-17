@@ -1,6 +1,6 @@
 {
-  "content_hash": "5e4a5c3c81435c46df7bae76542a9f93808a93f94bd8b09adbf483ecd200f374",
-  "last_updated": "2026-10-17T11:47:53.940Z",
+  "content_hash": "2578aa1296e791560e9690d83acf54e87833bfbfadbdb3341b6527294a844b8b",
+  "last_updated": "2026-10-17T12:47:11.300Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-17T11:00:08.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-17T07:01:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-17T12:00:39.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,14 +79,14 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-17T11:01:28.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-17T11:00:00.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-17T10:54:16.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Better Than Before? Hublot Big Bang Original Watch Review",
+      "url": "https://www.ablogtowatch.com/better-than-before-hublot-big-bang-original-watch-review/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Hublot-Big-Bang-Original-Black-Magic-Ceramic-watch-3-768x346.jpg",
+      "peek_preview": "As watches like the Hublot Big Bang celebrate 20+ years on the market, I am reminded of my overall time following the watch industry — because I distinctly remember the era when Hublot first introduced the Big Bang fami...",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-17T12:00:39.000Z",
+      "score_quality": 70,
+      "score_notif": 27,
+      "cluster": "20261017-520ec3c26ba8",
+      "cluster_main": true
+    },
     {
       "title": "Yema, Depancel and Reservoir: three French automotive watch brands doing things differently",
       "url": "https://timeandtidewatches.com/3-of-the-beat-french-racing-watches-yema-depancel-reservoir-video/",
@@ -395,7 +409,7 @@
       "featured": false,
       "published_at": "2026-10-16T17:00:18.000Z",
       "score_quality": 78,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
       "cluster_main": false
     },
@@ -425,7 +439,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa dive watches, from retro skin divers to serious deep-sea tools",
@@ -453,7 +467,7 @@
       "score_quality": 87,
       "score_notif": 69,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -495,7 +509,7 @@
       "score_quality": 78,
       "score_notif": 69,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The new Formex Essence Ceramica Dark Matter Redshift",
@@ -563,9 +577,9 @@
       "featured": false,
       "published_at": "2026-10-16T12:01:06.000Z",
       "score_quality": 84,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Oris ProPilot Calibre 111 Returns More Than A Decade After Its Introduction",
@@ -577,7 +591,7 @@
       "featured": false,
       "published_at": "2026-10-16T12:00:49.000Z",
       "score_quality": 76,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
       "cluster_main": false
     },
@@ -591,7 +605,7 @@
       "featured": false,
       "published_at": "2026-10-16T12:00:48.000Z",
       "score_quality": 77,
-      "score_notif": 46,
+      "score_notif": 34,
       "cluster": "20261016-669429a3ee2f",
       "cluster_main": true
     },
@@ -605,9 +619,9 @@
       "featured": false,
       "published_at": "2026-10-16T12:00:00.000Z",
       "score_quality": 80,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -619,7 +633,7 @@
       "featured": false,
       "published_at": "2026-10-16T11:47:01.000Z",
       "score_quality": 64,
-      "score_notif": 52,
+      "score_notif": 34,
       "cluster": "20261016-961f520e8f86",
       "cluster_main": true
     },
@@ -705,7 +719,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
@@ -1447,7 +1461,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -1516,7 +1530,7 @@
       "published_at": "2026-10-13T13:30:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261013-69cf912bc63d",
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     },
     {
@@ -1573,7 +1587,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fortis gives its Novonaut a glow up",
@@ -1643,7 +1657,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261013-69cf912bc63d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Daniel Roth Extra Plat Rose Gold—A Two-Tone Guilloché Dial in Solid White Gold",
@@ -1839,20 +1853,6 @@
       "score_quality": 67,
       "score_notif": 12,
       "cluster": "20261011-eedd127bc6df",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Limited-Edition Citizen Promaster Air Skyhawk A-T Watch In Gold Tone Is Big, Loud Fun",
-      "url": "https://www.ablogtowatch.com/hands-on-the-limited-edition-citizen-promaster-air-skyhawk-a-t-watch-in-gold-tone-is-big-loud-fun/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Citizen-Promaster-Air-Skyhawk-AT-LOR-Crop-768x346.jpg",
-      "peek_preview": "Like so many enthusiasts of my generation, many of my earliest memories of watches come from the deluge of advertising for the Citizen Promaster family in the ‘90s and 2000s. Long before I ever was consciously into the...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-11T07:01:41.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261011-bf0e9b9ac2f0",
       "cluster_main": true
     }
   ]
