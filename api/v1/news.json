@@ -1,6 +1,6 @@
 {
-  "content_hash": "d6d07fd54c3836f91598dae1698bb730e25836c8c3d65843cb0940c3f2c58b77",
-  "last_updated": "2026-10-17T14:46:43.275Z",
+  "content_hash": "b35e29651538aaef5f7d8a81a6d0d7f1ef0e8b1af06e45f243dc4e08964c8de1",
+  "last_updated": "2026-10-17T16:45:47.716Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-17T14:00:28.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-17T14:00:59.000Z"
     },
     {
@@ -78,8 +78,8 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-17T14:30:34.000Z"
     },
     {
@@ -493,7 +493,7 @@
       "featured": false,
       "published_at": "2026-10-16T16:05:14.000Z",
       "score_quality": 79,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261016-87083efc6fc7",
       "cluster_main": true
     },
