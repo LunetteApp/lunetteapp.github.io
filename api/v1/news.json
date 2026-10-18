@@ -1,6 +1,6 @@
 {
-  "content_hash": "5c2ea48e11babb87964268e55ecd665b2175b940f947dd75cc9c1d291e968745",
-  "last_updated": "2026-10-18T03:47:03.969Z",
+  "content_hash": "6e81936e6c8e81b9aa18188172c1b7acb9ba83df85976f85b4811d71f3a8fe12",
+  "last_updated": "2026-10-18T05:46:43.251Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-17T11:00:08.000Z"
+      "estimated_articles_per_day": 3.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-18T05:00:36.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-18T03:00:40.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Sunday Morning Showdown: Tudor Royal Vs. Rolex Oysterquartz Datejust",
+      "url": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-royal-vs-rolex-oysterquartz-datejust/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Tudor-Royal_VS-Rolex_Oysterquartz-HEADER.jpg",
+      "peek_preview": "It’s Sunday morning, so it’s time for a hot cup of coffee, some breakfast, and another installment in our ongoing Sunday Morning Showdown series. This week, the question is whether you’ll go modern or vintage. Daan pick...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-18T05:00:36.000Z",
+      "score_quality": 54,
+      "score_notif": 23,
+      "cluster": "20261018-281899de1614",
+      "cluster_main": true
+    },
     {
       "title": "ファーブル・ルーバが「ハープーン リバイバル」にブラックとブルーの2モデルを追加",
       "url": "https://www.webchronos.net/news/176184/",
@@ -565,7 +579,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -607,7 +621,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The new Formex Essence Ceramica Dark Matter Redshift",
@@ -817,7 +831,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
@@ -831,7 +845,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -1058,20 +1072,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: The New Christopher Ward C1 Loco Classic Continues The Loco Series In Style",
-      "url": "https://www.fratellowatches.com/hands-on-new-christopher-ward-c1-loco-classic/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Christopher-Ward-C1-Loco-Classic.jpg",
-      "peek_preview": "Contrary to what many watch enthusiasts think, a watch’s design usually starts with the caliber, not the case or the dial. Most of the time, the movement is the limiting factor that a creative team needs to build a desi...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T14:00:58.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261015-399ad46544ae",
-      "cluster_main": false
-    },
-    {
       "title": "New Release: Nuncier Evokes The Moon’s Surface With The Limited-Edition Lunar Mission Watch",
       "url": "https://www.ablogtowatch.com/new-release-nuncier-evokes-the-moons-surface-with-the-limited-edition-lunar-mission-watch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Nuncier-Lunar-Mission-LOR-Crop-768x346.jpg",
@@ -1209,7 +1209,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Urwerk UR-300 Time Quantum",
@@ -1223,7 +1223,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
@@ -1531,7 +1531,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -1657,7 +1657,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fortis gives its Novonaut a glow up",
