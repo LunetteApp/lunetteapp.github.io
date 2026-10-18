@@ -1,6 +1,6 @@
 {
-  "content_hash": "6e81936e6c8e81b9aa18188172c1b7acb9ba83df85976f85b4811d71f3a8fe12",
-  "last_updated": "2026-10-18T05:46:43.251Z",
+  "content_hash": "0baaa7c50a6be57709d22ad560e65794d00d11cca37592305ec1a748cbb477fe",
+  "last_updated": "2026-10-18T07:46:45.422Z",
   "premium": {
     "links": []
   },
@@ -8,8 +8,8 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-18T05:00:36.000Z"
     },
     {
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.8,
+      "estimated_articles_per_day": 3.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-17T14:00:59.000Z"
     },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-17T12:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-18T07:01:02.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -71,16 +71,16 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
+      "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-16T14:59:44.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-17T14:30:34.000Z"
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-18T07:00:16.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "The First Istanbul Watch Festival And Celebrating 30 Years of Quantum Watches",
+      "url": "https://www.ablogtowatch.com/the-first-istanbul-watch-festival-and-celebrating-30-years-of-quantum-watches/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Istanbul-Watch-Festival-2026-Quantum-Watches-30th-Anniversary-768x346.jpg",
+      "peek_preview": "The inaugural edition of Istanbul Watch Festival took place on October 10-11, 2026 — and I was thrilled to have the opportunity to attend the event and celebrate the 30th anniversary of the Turkish watch brand, Quantum....",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-18T07:01:02.000Z",
+      "score_quality": 72,
+      "score_notif": 24,
+      "cluster": "20261018-6559075df6c5",
+      "cluster_main": true
+    },
+    {
+      "title": "Hublot Founder Carlo Crocco on the birth of fusion, royal customers and the return of his original design",
+      "url": "https://timeandtidewatches.com/hublot-founder-carlo-crocco-on-the-birth-of-fusion-royal-customers-and-the-return-of-his-original-design/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/hublot-pietro-carlo-featured-image.webp",
+      "peek_preview": "From rubber straps to royal approval, Carlo Crocco reflects on the risks that shaped Hublot and why its first watch still matters 46 years on The post Hublot Founder Carlo Crocco on the birth of fusion, royal customers...",
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-18T07:00:16.000Z",
+      "score_quality": 82,
+      "score_notif": 29,
+      "cluster": "20261018-282d410b194c",
+      "cluster_main": true
+    },
     {
       "title": "Sunday Morning Showdown: Tudor Royal Vs. Rolex Oysterquartz Datejust",
       "url": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-royal-vs-rolex-oysterquartz-datejust/",
@@ -551,7 +579,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Doxa dive watches, from retro skin divers to serious deep-sea tools",
@@ -579,7 +607,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -621,7 +649,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The new Formex Essence Ceramica Dark Matter Redshift",
@@ -691,7 +719,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Oris ProPilot Calibre 111 Returns More Than A Decade After Its Introduction",
@@ -733,7 +761,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -845,7 +873,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -985,7 +1013,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Papar Puts a Twist on the All-Black Watch with Its Slimmest Watch Yet Featuring a Wandering-Hour",
@@ -1041,7 +1069,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Noah x Timex Boatswain (Live Pics)",
@@ -1797,34 +1825,6 @@
       "score_quality": 58,
       "score_notif": 33,
       "cluster": "20261012-a041fd6372e5",
-      "cluster_main": true
-    },
-    {
-      "title": "The TAG Heuer Formula 1 Solargraph x Red Bull Racing celebrates a decade of going flat-out",
-      "url": "https://timeandtidewatches.com/tag-heuer-formula-1-red-bull-racing-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-tag-heuer-formula1-red-bull-racing-edition.jpg",
-      "peek_preview": "TAG Heuer celebrates 10 years with Red Bull Racing with a Formula 1 Solargraph featuring the team's iconic colours and solar-powered movement. The post The TAG Heuer Formula 1 Solargraph x Red Bull Racing celebrates a d...",
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-12T09:00:02.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261012-05b56b9ed799",
-      "cluster_main": true
-    },
-    {
-      "title": "Actually Affordable: Mondaine Doppio Solar Skeleton Watch",
-      "url": "https://www.ablogtowatch.com/actually-affordable-mondaine-doppio-solar-skeleton-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Mondaine-Doppio-Solar-Skeleton-Watch-FEATURE-768x346.jpg",
-      "peek_preview": "Solar-powered watches are easily among the most practical kinds of timepieces, as they offer the advantages of a quartz movement without the need for routine battery replacements. That said, rarely do watches showcase s...",
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-12T07:01:26.000Z",
-      "score_quality": 57,
-      "score_notif": 34,
-      "cluster": "20261012-e33201cda422",
       "cluster_main": true
     },
     {
