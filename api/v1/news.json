@@ -1,6 +1,6 @@
 {
-  "content_hash": "8df7e5aadbdc755319111cf3747e0a94eda05984c384a842c42f9d2abfdfb5fb",
-  "last_updated": "2026-10-18T12:46:44.305Z",
+  "content_hash": "f84f95a47ad0bc10ee849c0d6fc5f4b02204197a7d3750491f22d16cf083987d",
+  "last_updated": "2026-10-18T13:46:48.846Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-18T12:01:19.000Z"
     },
     {
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-17T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-18T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Suzuki e-Vitara Review: Electric SUV Lifestyle Test with Video",
+      "url": "https://deployant.com/suzuki-e-vitara-review-electric-suv-lifestyle-test-with-video/?utm_source=rss&utm_medium=rss&utm_campaign=suzuki-e-vitara-review-electric-suv-lifestyle-test-with-video",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/suzuki-evitara-front-oblique-right.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The Suzuki e Vitara brings the familiar Vitara name into the electric era. In Singapore, the all-electric SUV is offered with a 106kW motor and a 49kWh batter...",
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-18T13:30:00.000Z",
+      "score_quality": 0,
+      "score_notif": 0,
+      "cluster": "20261018-c03d459d36c9",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: IWC Ingenieur 50th Anniversary Watches In 40mm & 35mm",
       "url": "https://www.ablogtowatch.com/hands-on-iwc-ingenieur-50th-anniversary-watches-in-40mm-35mm/",
@@ -339,7 +353,7 @@
       "featured": false,
       "published_at": "2026-10-17T13:16:39.000Z",
       "score_quality": 62,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261017-cbfa12720c4d",
       "cluster_main": true
     },
@@ -607,7 +621,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa dive watches, from retro skin divers to serious deep-sea tools",
@@ -887,7 +901,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
@@ -1839,20 +1853,6 @@
       "score_quality": 86,
       "score_notif": 24,
       "cluster": "20261012-7dae4dc13952",
-      "cluster_main": true
-    },
-    {
-      "title": "Voutilainen 28MPR: l’addio al Vingt-8 diventa un capolavoro con fase lunare – in anteprima al WatchTime New York 2026",
-      "url": "https://www.orologidiclasse.com/voutilainen-28mpr-2026/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/voutilainen-28mpr-2026-acciaio-tre-quarti.jpg",
-      "peek_preview": "Dal 16 al 18 ottobre, al WatchTime New York, Voutilainen esporrà quello che probabilmente è l’orologio più significativo che abbia mai realizzato. Non perché sia il più complicato, né il più costoso. Ma perché il Voutil...",
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-11T22:30:29.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261011-2d13dfbba663",
       "cluster_main": true
     }
   ]
