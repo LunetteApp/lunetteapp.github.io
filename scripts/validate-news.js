@@ -68,7 +68,7 @@ function validateNews(news, history) {
   const URLs = new Set();
   const clusters = new Map();
   const allowedArticleKeys = new Set([
-    "title", "url", "image", "peek_preview", "source_name", "lang",
+    "title", "url", "image", "peek_preview", "categories", "source_name", "lang",
     "featured", "published_at", "score_quality", "score_notif",
     "cluster", "cluster_main"
   ]);
@@ -80,6 +80,11 @@ function validateNews(news, history) {
     }
     if (!article?.title || !article?.url || !article?.source_name || !article?.lang) {
       throw new Error(`${label} is missing title, URL, source, or language`);
+    }
+    if (Object.hasOwn(article, "categories")
+        && (!Array.isArray(article.categories)
+          || article.categories.some((category) => typeof category !== "string" || !category.trim()))) {
+      throw new Error(`${label} categories must be an array of nonempty strings`);
     }
     const canonicalURL = canonicalNewsURL(article.url);
     if (!canonicalURL || URLs.has(canonicalURL)) {
@@ -102,6 +107,12 @@ function validateNews(news, history) {
     if (!record) throw new Error(`${label} is missing from old_articles.json`);
     if (record.marketing === true) {
       throw new Error(`${label} is flagged as marketing and must not be in the feed`);
+    }
+    if (record.off_topic === true) {
+      throw new Error(`${label} is flagged as off-topic and must not be in the feed`);
+    }
+    if (record.topic_reviewed !== true) {
+      throw new Error(`${label} has not passed watch-topic review and must not be in the feed`);
     }
     if ((article.score_quality === -1 || article.score_notif === -1)
         && record.scoring_pending !== true) {

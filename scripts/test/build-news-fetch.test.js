@@ -34,7 +34,7 @@ test("a feed build replaces a removed cluster main before inference", () => {
     sources: [],
     items
   };
-  const history = { articles: Object.fromEntries(items.map((article) => [article.url, {}])) };
+  const history = { articles: Object.fromEntries(items.map((article) => [article.url, { topic_reviewed: true }])) };
   news.content_hash = contentHashForNews(news);
   assert.throws(() => validateNews(news, history), /exactly one cluster_main=true/);
 

@@ -23,7 +23,7 @@ function fixture(clusterMains) {
   };
   news.content_hash = contentHashForNews(news);
   const history = {
-    articles: Object.fromEntries(items.map((item) => [item.url, {}]))
+    articles: Object.fromEntries(items.map((item) => [item.url, { topic_reviewed: true }]))
   };
   return { news, history };
 }
@@ -57,4 +57,28 @@ test("validation rejects changes to the news article JSON structure", () => {
   news.content_hash = contentHashForNews(news);
 
   assert.throws(() => validateNews(news, history), /unexpected fields/);
+});
+
+test("validation rejects an off-topic article even when its notification score is zero", () => {
+  const { news, history } = fixture([true]);
+  news.items[0].score_notif = 0;
+  history.articles[news.items[0].url].off_topic = true;
+  news.content_hash = contentHashForNews(news);
+  assert.throws(() => validateNews(news, history), /off-topic/);
+});
+
+test("publisher categories are optional for legacy articles and validated when supplied", () => {
+  const { news, history } = fixture([true]);
+  news.items[0].categories = ["Watches", "Review"];
+  news.content_hash = contentHashForNews(news);
+  assert.doesNotThrow(() => validateNews(news, history));
+  news.items[0].categories = [42];
+  news.content_hash = contentHashForNews(news);
+  assert.throws(() => validateNews(news, history), /categories/);
+});
+
+test("unreviewed articles cannot be published even if they have valid scores", () => {
+  const { news, history } = fixture([true]);
+  delete history.articles[news.items[0].url].topic_reviewed;
+  assert.throws(() => validateNews(news, history), /has not passed watch-topic review/);
 });

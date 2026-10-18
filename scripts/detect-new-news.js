@@ -1,16 +1,12 @@
 #!/usr/bin/env node
 
-const fs = require("fs");
-const path = require("path");
+const { readAnalysisNews } = require("./news-publication");
 const {
   historyRecord,
   readArticleHistory
 } = require("./news-history");
 
-const ROOT = path.resolve(__dirname, "..");
-const NEWS_PATH = path.join(ROOT, "api", "v1", "news.json");
-
-const news = JSON.parse(fs.readFileSync(NEWS_PATH, "utf8"));
+const news = readAnalysisNews();
 const { history } = readArticleHistory();
 const articles = Array.isArray(news.items) ? news.items : [];
 const forceRescoring = process.env.NEWS_FORCE_RESCORING === "true";
@@ -23,6 +19,7 @@ const scoringPending = articles.filter((article) => {
 });
 const clusteringPending = articles.filter((article) =>
   historyRecord(history, article.url)?.clustering_pending === true
+    || historyRecord(history, article.url)?.topic_reviewed !== true
 );
 
 console.log(`scoring_pending=${scoringPending.length}`);

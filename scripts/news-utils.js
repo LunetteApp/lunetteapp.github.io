@@ -58,6 +58,26 @@ function isScore(value) {
     || (Number.isInteger(value) && value >= 0 && value <= 100);
 }
 
+// Filtering a feed can remove a cluster's lead. Preserve a surviving lead or
+// choose the strongest remaining member so every published story has one main.
+function normalizeClusterMains(articles) {
+  const clusters = new Map();
+  for (const article of articles) {
+    const members = clusters.get(article.cluster) ?? [];
+    members.push(article);
+    clusters.set(article.cluster, members);
+  }
+  for (const members of clusters.values()) {
+    const existingMains = members.filter((article) => article.cluster_main === true);
+    const candidates = existingMains.length > 0 ? existingMains : members;
+    const main = [...candidates].sort((left, right) =>
+      right.score_quality - left.score_quality
+        || canonicalNewsURL(left.url).localeCompare(canonicalNewsURL(right.url))
+    )[0];
+    for (const article of members) article.cluster_main = article === main;
+  }
+}
+
 // Keep event age in article history, not news.json. A later write-up cannot
 // create another notification window for the same event.
 function normalizeEventNotifications(articles, now, history, maxAgeHours = 24) {
@@ -116,6 +136,7 @@ module.exports = {
   canonicalNewsURL,
   compactArticleID,
   isScore,
+  normalizeClusterMains,
   normalizeEventNotifications,
   singletonClusterID,
   writeFileAtomically

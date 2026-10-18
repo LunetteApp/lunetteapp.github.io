@@ -21,9 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # Kill switch for the inference step: set the NEWS_SKIP_INFERENCE
-      # repository variable to 'true' to build and commit the feed with
-      # singleton clusters and unscored articles, which stay pending for a
-      # later run.
+      # repository variable to 'true' to publish only previously reviewed watch
+      # stories. New candidates stay outside the public feed until a later review.
       NEWS_SKIP_INFERENCE: ${{ vars.NEWS_SKIP_INFERENCE || 'false' }}
       NEWS_FORCE_RESCORING: ${{ inputs.force_rescoring && 'true' || 'false' }}
       LLM_MODEL: ${{ vars.NEWS_LLM_MODEL || 'gpt-5.4' }}

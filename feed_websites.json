@@ -22,6 +22,8 @@
     {
       "source_name": "Monochrome Watches",
       "feed_url": "https://monochrome-watches.com/feed/",
+      "exclude_categories": ["The Petrolhead Corner"],
+      "exclude_keywords": ["The Petrolhead Corner"],
       "lang": "en",
       "enabled": true
     },
@@ -53,6 +55,7 @@
       "source_name": "Deployant",
       "feed_url": "https://deployant.com/feed/",
       "exclude_keywords": ["Suzuki e-Vitara Review: Electric SUV Lifestyle Test with Video"],
+      "exclude_categories": ["Automotive"],
       "lang": "en",
       "enabled": true
     },

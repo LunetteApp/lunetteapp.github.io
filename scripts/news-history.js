@@ -67,6 +67,8 @@ function validateArticleHistory(history) {
     }
     for (const flag of [
       "marketing",
+      "off_topic",
+      "topic_reviewed",
       "scoring_pending",
       "clustering_pending",
       "skip_image_lookup",
@@ -104,6 +106,7 @@ function upsertHistoryRecord(
     published_at: publishedAt ?? existing.published_at ?? null,
     first_seen_at: firstSeenAt
   };
+  if (Array.isArray(article.categories)) record.categories = article.categories;
   history.articles[key] = record;
   return record;
 }

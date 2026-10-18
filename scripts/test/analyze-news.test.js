@@ -118,7 +118,7 @@ test("one analysis call scores, clusters, and chooses the main title without inf
       message: {
         content: JSON.stringify({
           scores: [[90, 70], [80, 65], [75, 20]],
-          marketing: [],
+          marketing: [], off_topic: [],
           clusters: [{ story: "Acme Diver Ref. 123", lines: [1, 0] }]
         })
       }
@@ -168,7 +168,7 @@ test("a clustering-only run retains scores and accepts an empty score response",
       message: {
         content: JSON.stringify({
           scores: [],
-          marketing: [],
+          marketing: [], off_topic: [],
           clusters: [{ story: "Moser Cosmic Rain", lines: [1, 0] }]
         })
       }
@@ -203,7 +203,7 @@ test("an incremental run requests and maps scores only for unscored lines", asyn
     requests.push(payload);
     return {
       message: {
-        content: JSON.stringify({ scores: [[81, 62]], marketing: [], clusters: [] })
+        content: JSON.stringify({ scores: [[81, 62]], marketing: [], off_topic: [], clusters: [] })
       }
     };
   });
@@ -238,7 +238,7 @@ test("forced rescoring replaces retained scores for every article", async () => 
     requests.push(payload);
     return {
       message: {
-        content: JSON.stringify({ scores: [[70, 64], [72, 68]], marketing: [], clusters: [] })
+        content: JSON.stringify({ scores: [[70, 64], [72, 68]], marketing: [], off_topic: [], clusters: [] })
       }
     };
   }, { forceRescoring: true });
@@ -265,7 +265,7 @@ test("the same call names the marketing lines it wants removed", async () => {
     message: {
       content: JSON.stringify({
         scores: [[75, 55], [10, 5]],
-        marketing: [1],
+        marketing: [1], off_topic: [],
         clusters: []
       })
     }

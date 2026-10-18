@@ -4,6 +4,7 @@ const fs = require("fs/promises");
 const path = require("path");
 const Parser = require("rss-parser");
 const { serializedNews } = require("./news-hash");
+const { CANDIDATES_PATH, publishableNews } = require("./news-publication");
 const {
   closeHeadlessBrowsers,
   fetchTextWithBrowser
@@ -20,6 +21,7 @@ const {
 const {
   canonicalNewsURL,
   isScore,
+  normalizeClusterMains,
   normalizeEventNotifications,
   singletonClusterID,
   writeFileAtomically
@@ -36,6 +38,7 @@ const feedParser = new Parser({
   customFields: {
     item: [
       ["content:encoded", "contentEncoded"],
+      ["category", "feedCategories", { keepArray: true }],
       ["dc:date", "dcDate"],
       ["media:content", "mediaContent", { keepArray: true }],
       ["media:thumbnail", "mediaThumbnail", { keepArray: true }],
@@ -95,6 +98,7 @@ async function main() {
       };
     } else {
       const fallbackItems = existingItemsForSource(existingNews, sources[index])
+        .filter((item) => matchesSourceFilters(item, sources[index], globalExcludeKeywords))
         .slice(0, maxItemsPerSource);
       sourceFetches[index] = {
         succeeded: false,
@@ -120,7 +124,10 @@ async function main() {
   }
 
   const rankedItems = dedupeByUrl(items)
-    .filter((item) => historyRecord(history, item.url)?.marketing !== true)
+    .filter((item) => {
+      const record = historyRecord(history, item.url);
+      return record?.marketing !== true && record?.off_topic !== true;
+    })
     .sort(compareNewsPriority)
     .slice(0, maxItems);
 
@@ -136,6 +143,7 @@ async function main() {
       url: item.url,
       image: item.image,
       peek_preview: item.peek_preview,
+      categories: item.categories ?? [],
       source_name: item.source_name,
       lang: item.lang,
       featured: item.featured,
@@ -159,6 +167,7 @@ async function main() {
     record.scoring_pending = article.score_quality === -1
       || article.score_notif === -1;
     record.clustering_pending = !knownBefore.has(key)
+      || record.topic_reviewed !== true
       || record.clustering_pending === true
       || typeof previousItem?.cluster !== "string"
       || !previousItem.cluster.trim()
@@ -178,7 +187,16 @@ async function main() {
   const stableSources = sourceCatalog.map(({ source_name, lang }) => ({ source_name, lang }));
   const previousStableSources = (Array.isArray(existingNews?.sources) ? existingNews.sources : [])
     .map(({ source_name, lang }) => ({ source_name, lang }));
-  const meaningfulChange = JSON.stringify(newsItems) !== JSON.stringify(existingNews?.items ?? [])
+  const news = {
+    last_updated: checkedAt.toISOString(),
+    premium,
+    sources: sourceCatalog,
+    items: newsItems
+  };
+  const publicNews = publishableNews(news, history);
+  writeFileAtomically(CANDIDATES_PATH, serializedNews(news));
+
+  const meaningfulChange = JSON.stringify(publicNews.items) !== JSON.stringify(existingNews?.items ?? [])
     || JSON.stringify(premium) !== JSON.stringify(existingNews?.premium ?? { links: [] })
     || JSON.stringify(stableSources) !== JSON.stringify(previousStableSources)
     || JSON.stringify(history) !== historyBefore;
@@ -188,16 +206,9 @@ async function main() {
     return;
   }
 
-  const news = {
-    last_updated: checkedAt.toISOString(),
-    premium,
-    sources: sourceCatalog,
-    items: newsItems
-  };
-
-  writeFileAtomically(OUTPUT_PATH, serializedNews(news));
+  writeFileAtomically(OUTPUT_PATH, serializedNews(publicNews));
   writeArticleHistory(history, HISTORY_PATH);
-  console.log(`Wrote ${news.items.length} news item(s) to ${path.relative(ROOT, OUTPUT_PATH)}`);
+  console.log(`Wrote ${publicNews.items.length} reviewed watch news item(s) to ${path.relative(ROOT, OUTPUT_PATH)}; staged ${news.items.length} candidate(s) for analysis`);
 }
 
 async function mapWithConcurrency(values, concurrency, operation) {
@@ -459,27 +470,6 @@ function preserveEvaluationMetadata(item, previousItem) {
   return item;
 }
 
-// Feed limits and source filters can remove an established cluster's main.
-// Keep a surviving main, or choose the best remaining article, so the build
-// stays valid even when inference is skipped or fails.
-function normalizeClusterMains(articles) {
-  const clusters = new Map();
-  for (const article of articles) {
-    const members = clusters.get(article.cluster) ?? [];
-    members.push(article);
-    clusters.set(article.cluster, members);
-  }
-  for (const members of clusters.values()) {
-    const existingMains = members.filter((article) => article.cluster_main === true);
-    const candidates = existingMains.length > 0 ? existingMains : members;
-    const main = [...candidates].sort((left, right) =>
-      right.score_quality - left.score_quality
-        || canonicalNewsURL(left.url).localeCompare(canonicalNewsURL(right.url))
-    )[0];
-    for (const article of members) article.cluster_main = article === main;
-  }
-}
-
 function logSourceResult(source, { parsedCount, acceptedCount, keptCount }) {
   console.log(`${sourceLabel(source)} - parsed ${parsedCount}, accepted ${acceptedCount}, kept ${keptCount}`);
 }
@@ -500,6 +490,7 @@ function parseJsonFeed(text, source) {
     url: item.url ?? item.external_url,
     image: item.image ?? item.banner_image,
     previewHtml: item.summary ?? item.content_text ?? item.content_html,
+    categories: item.tags,
     publishedAt: item.date_published ?? item.date_modified,
     source
   })).filter(Boolean);
@@ -521,6 +512,7 @@ function normalizeParsedFeedItem(item, source) {
     url: item.link ?? item.guid ?? item.id,
     image: parsedFeedImage(item, content),
     previewHtml: preview,
+    categories: item.categories ?? item.feedCategories,
     publishedAt: item.isoDate
       ?? item.pubDate
       ?? item.published
@@ -562,7 +554,7 @@ function parsedSourceName(value) {
   return "";
 }
 
-function normalizeItem({ title, url, image, previewHtml, publishedAt, itemSourceName, source }) {
+function normalizeItem({ title, url, image, previewHtml, categories, publishedAt, itemSourceName, source }) {
   const resolvedSourceName = source.use_item_source_name && itemSourceName
     ? cleanText(itemSourceName)
     : source.source_name || new URL(source.feed_url).hostname;
@@ -581,11 +573,19 @@ function normalizeItem({ title, url, image, previewHtml, publishedAt, itemSource
     url: absoluteUrl,
     image: absolutize(image, absoluteUrl),
     peek_preview: preview,
+    categories: normalizeCategories(categories),
     source_name: resolvedSourceName,
     lang: normalizeLang(source.lang),
     featured,
     published_at: published
   };
+}
+
+function normalizeCategories(value) {
+  const values = Array.isArray(value) ? value : [];
+  return [...new Set(values.map((category) => cleanText(
+    typeof category === "string" ? category : category?._ ?? category?.$?.term ?? category?.term ?? ""
+  )).filter(Boolean))];
 }
 
 function firstImageFromHtml(html) {
@@ -793,6 +793,13 @@ function normalizePremiumLinks(links) {
 }
 
 function matchesSourceFilters(item, source, globalExcludeKeywords = []) {
+  const excludedCategories = new Set(
+    (Array.isArray(source.exclude_categories) ? source.exclude_categories : [])
+      .map(normalizeForSearch)
+  );
+  if ((item.categories ?? []).some((category) => excludedCategories.has(normalizeForSearch(category)))) {
+    return false;
+  }
   const haystack = normalizeForSearch([
     item.title,
     item.peek_preview,
@@ -838,6 +845,8 @@ module.exports = {
   buildSourceMetadata,
   extractPageImage,
   fetchText,
+  matchesSourceFilters,
   normalizeClusterMains,
+  parseFeed,
   preserveEvaluationMetadata
 };
