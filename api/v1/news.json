@@ -1,6 +1,6 @@
 {
-  "content_hash": "0baaa7c50a6be57709d22ad560e65794d00d11cca37592305ec1a748cbb477fe",
-  "last_updated": "2026-10-18T07:46:45.422Z",
+  "content_hash": "0a392e6efcd31a7ac1ead0752ecfc267c06c6e97c3208fc54840bd4b2dcb8bac",
+  "last_updated": "2026-10-18T09:46:48.997Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-18T05:00:36.000Z"
+      "estimated_articles_per_day": 3.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-18T09:00:51.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -24,13 +24,13 @@
       "lang": "en",
       "estimated_articles_per_day": 3.7,
       "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-17T14:00:59.000Z"
+      "latest_article_at": "2026-10-18T09:35:36.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-18T07:01:02.000Z"
     },
     {
@@ -78,8 +78,8 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.4,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-18T07:00:16.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-10-17T13:16:39.000Z"
     },
     {
@@ -175,6 +175,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Getting Some Hands-On Time With The New Orient Flusso",
+      "url": "https://www.fratellowatches.com/hands-on-orient-flusso/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Orient-Flusso-2.jpg",
+      "peek_preview": "Last month, Orient launched the new Flusso, an integrated-bracelet sports watch inspired by the brand’s historic Super King (“SK”) models. The watch combines vintage influences with a contemporary design language, signa...",
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-18T09:00:51.000Z",
+      "score_quality": 81,
+      "score_notif": 29,
+      "cluster": "20261018-b6d8410ca32d",
+      "cluster_main": true
+    },
     {
       "title": "The First Istanbul Watch Festival And Celebrating 30 Years of Quantum Watches",
       "url": "https://www.ablogtowatch.com/the-first-istanbul-watch-festival-and-celebrating-30-years-of-quantum-watches/",
@@ -395,7 +409,7 @@
       "featured": false,
       "published_at": "2026-10-17T09:16:18.000Z",
       "score_quality": 72,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261017-7dd8a77eb31e",
       "cluster_main": true
     },
@@ -579,7 +593,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Doxa dive watches, from retro skin divers to serious deep-sea tools",
@@ -873,7 +887,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -887,20 +901,6 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261016-9fb273452c71",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing The Fears Arnos Opera Black: The Ultimate Black Tie Watch",
-      "url": "https://www.fratellowatches.com/new-fears-arnos-opera-black/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Fears-Arnos-Opera-Black-on-a-grossgrain-silk-strap-lying-on-side.jpg",
-      "peek_preview": "Mozart’s Don Giovanni is regarded as one of the greatest operas of all time. The Commendatore’s story forms its moral and supernatural core. Don Giovanni, a serial libertine, kills the Commendatore in a duel. Later, aft...",
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T02:00:57.000Z",
-      "score_quality": 83,
-      "score_notif": 34,
-      "cluster": "20261015-8bb57d604890",
       "cluster_main": true
     },
     {
@@ -929,7 +929,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261015-8bb57d604890",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fossil Unveils The Swiss-Made Signature CS-1 Watch Collection Inspired By Mid-Century Architecture",
@@ -957,7 +957,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261015-0922bb7299c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Capri By De Rijke & Co Welcomes New Permanent Editions",
@@ -1013,7 +1013,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Papar Puts a Twist on the All-Black Watch with Its Slimmest Watch Yet Featuring a Wandering-Hour",
@@ -1027,7 +1027,7 @@
       "score_quality": 61,
       "score_notif": 34,
       "cluster": "20261015-0922bb7299c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "We Love Watches 2026 : retour sur une édition réussie à la Maison de la Mutualité",
@@ -1069,7 +1069,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Noah x Timex Boatswain (Live Pics)",
@@ -1156,20 +1156,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – Hublot Returns to Its Roots with the Classic Fusion Tributo (Incl. Video)",
-      "url": "https://monochrome-watches.com/hublot-returns-to-its-roots-with-the-classic-fusion-tributo-video-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Review-Hublot-Classic-Fusion-Tributo-Re-Edition-first-MDM-Hublot-1980-6-600x237.jpg",
-      "peek_preview": "Before the Big Bang exploded on the watch scene in 2005, Carlo Crocco had already set the wheels of Hublot’s universe in motion. His 1980 watch, with its unorthodox mix of gold and rubber, introduced the Art of Fusion t...",
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T12:07:44.000Z",
-      "score_quality": 85,
-      "score_notif": 34,
-      "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
-    },
-    {
       "title": "The new Hublot Classic Fusion Tributo looks to the past and future with serious upgrades",
       "url": "https://timeandtidewatches.com/hublot-classic-fusion-tributo-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Hublot-Classic-Fusion-Tributo-21.jpg",
@@ -1195,7 +1181,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -1769,6 +1755,20 @@
       "score_quality": 37,
       "score_notif": 22,
       "cluster": "20261012-e2df9b15caed",
+      "cluster_main": true
+    },
+    {
+      "title": "Zenith und Cohiba: Wie Jean-Claude Biver die ungewöhnliche Partnerschaft einfädelte",
+      "url": "https://www.uhrenkosmos.com/javier-terrez-von-cohiba-ueber-die-zusammenarbeit-mit-zenith-uhrenmarke/",
+      "image": null,
+      "peek_preview": "Was verbindet Schweizer Chronographen mit kubanischen Premiumzigarren? Im Jahr 2016 feierten Zenith und Cohiba den 50. Geburtstag der Zigarrenmarke mit einer limitierten El Primero Edition. Doch die Idee dazu entstand s...",
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-12T14:50:00.000Z",
+      "score_quality": 63,
+      "score_notif": 21,
+      "cluster": "20261012-5a8f7e1f5732",
       "cluster_main": true
     },
     {
