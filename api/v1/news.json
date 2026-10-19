@@ -1,6 +1,6 @@
 {
-  "content_hash": "ade6f7aac95413ed4cfd153c0eddddd54ece5b402f92f64167383176b587aaeb",
-  "last_updated": "2026-10-19T01:47:03.841Z",
+  "content_hash": "44570d582494bc751272c73d0540baf157f89caf4e7b17bcf2f55f864bd6ae38",
+  "last_updated": "2026-10-19T03:46:59.207Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T01:00:11.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T00:00:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-19T03:00:48.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -311,7 +311,7 @@
       "featured": false,
       "published_at": "2026-10-18T03:00:40.000Z",
       "score_quality": 76,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261018-fac4fdb9e8b0",
       "cluster_main": true
     },
@@ -749,26 +749,6 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
-    },
-    {
-      "title": "Doxa dive watches, from retro skin divers to serious deep-sea tools",
-      "url": "https://timeandtidewatches.com/doxa-dive-watches-buying-guide/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-doxa-buying-guide.webp",
-      "peek_preview": "We've assembled a comprehensive list of the Top 6 best Doxa dive watches, and we hope you like colourful dials The post Doxa dive watches, from retro skin divers to serious deep-sea tools appeared first on Time+Tide Wat...",
-      "categories": [
-        "Buying Guides",
-        "Doxa",
-        "meta:buying-guide",
-        "meta:evergreen"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T14:30:50.000Z",
-      "score_quality": 23,
-      "score_notif": 14,
-      "cluster": "20261016-6319f2e0b885",
       "cluster_main": true
     },
     {
@@ -1330,7 +1310,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-399ad46544ae",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Christopher Ward C1 Loco Classic proves a change of clothes can make all the difference",
@@ -1350,7 +1330,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261015-399ad46544ae",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Brew Metric Chrono Taxi",
@@ -1830,21 +1810,6 @@
       "cluster_main": true
     },
     {
-      "title": "ロジェ・デュブイが「ナイツ オブ ザ ラウンドテーブル」より魔術師マーリン3部作の最終章となる新作を発表",
-      "url": "https://www.webchronos.net/news/175799/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/RD_a_1.webp",
-      "peek_preview": "ロジェ・デュブイが「ナイツ オブ ザ ラウンドテーブル」の新作タイムピース「ザ メタモーフ マーリン」を発表した。本作は、『アーサー王伝説』に登場する魔術師“マーリン”をデザインテーマとしており、その変身の力や神話の白鹿 […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-14T03:00:09.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261014-1ab42f673369",
-      "cluster_main": true
-    },
-    {
       "title": "Jaquet Droz Unveils Pièce Unique for TimeForArt",
       "url": "https://watchesbysjx.com/2026/10/jaquet-droz-petite-heure-minute-les-volumes-du-temps-timeforart.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Jaquet-Droz-Petite-Heure-Minutes-Les-Volumes-Du-Temps-timeforart-2026-3x2-centred-header-300x200.jpg",
@@ -1878,7 +1843,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -2027,7 +1992,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fortis gives its Novonaut a glow up",
