@@ -1,6 +1,6 @@
 {
-  "content_hash": "7d47813574851d026503bbaa6e892236fafaa673cf324e41169ea6bf11792223",
-  "last_updated": "2026-10-19T04:47:08.897Z",
+  "content_hash": "5a607f80c6fdb6d25999cad710aa603fdd7ce7af87cb052e391204ea34913ca1",
+  "last_updated": "2026-10-19T05:47:07.230Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-18T09:00:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-19T05:00:45.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The New Louis Vuitton Monterey In Green And Black Ceramic",
+      "url": "https://www.fratellowatches.com/hands-on-the-new-louis-vuitton-monterey/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Louis-Vuitton-Monterrey.jpg",
+      "peek_preview": "Names of Swiss watch brands and models can be tricky to pronounce, especially the French ones. Does the name Jay-Jay Le Coot ring a bell? I will let you figure it out and bring up another name. It’s now an official name...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-19T05:00:45.000Z",
+      "score_quality": 74,
+      "score_notif": 29,
+      "cluster": "20261014-dbbcddded1e2",
+      "cluster_main": true
+    },
     {
       "title": "Insight: The Triumph of the Maltese Cross",
       "url": "https://watchesbysjx.com/2026/10/insight-maltese-cross.html",
@@ -596,7 +615,7 @@
       "score_quality": 80,
       "score_notif": 32,
       "cluster": "20261010-2dd33ceb325e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ロンジンがマットブルー文字盤の「ロンジン スピリット パイロット」2モデルを発売",
@@ -1074,24 +1093,6 @@
       "score_notif": 32,
       "cluster": "20261014-5d0626ae1e95",
       "cluster_main": true
-    },
-    {
-      "title": "The Biver AB Debuts As The Brand’s First Stainless Steel Watch With A New Manually Wound Movement",
-      "url": "https://www.fratellowatches.com/introducing-the-biver-ab/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/9-Biver-AB.jpg",
-      "peek_preview": "Biver introduces its first stainless steel watch, the new AB, short for Acier Biver. Developed in response to customer demand, the AB combines a 38mm steel case with a remarkably slim 9.8mm profile and a brand-new manua...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T05:00:05.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
     },
     {
       "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
@@ -1637,9 +1638,9 @@
       "featured": false,
       "published_at": "2026-10-14T14:30:10.000Z",
       "score_quality": 74,
-      "score_notif": 34,
+      "score_notif": 29,
       "cluster": "20261014-dbbcddded1e2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Jack Mason Strat-O-Timer 42 Dr Pepper 2026 Limited-Edition Watch Refreshes The Original Flavor",
@@ -2338,7 +2339,7 @@
       "score_quality": 60,
       "score_notif": 32,
       "cluster": "20261010-2dd33ceb325e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
