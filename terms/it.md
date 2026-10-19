@@ -1,10 +1,12 @@
 # Condizioni d'Uso
 
-**Ultimo aggiornamento:** 29 settembre 2026
+**Ultimo aggiornamento:** 19 ottobre 2026
 
 Usando Lunette accetti queste condizioni. Si applicano in aggiunta al [Contratto di licenza standard](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) di Apple. Apple non è parte di queste condizioni.
 
 La tua collezione è salvata sul dispositivo per impostazione predefinita. Puoi farne un backup nel tuo account iCloud o esportarla come file ZIP. Non conserviamo la tua collezione sui nostri server.
+
+Lunette può inviare statistiche di utilizzo proprietarie come descritto nell’[Informativa sulla Privacy](https://lunetteapp.com/privacy/). Contengono nomi di azioni, orari, codici di sessione casuali e informazioni tecniche sull’app, non contenuti della collezione o identificativi permanenti dell’utente o del dispositivo. Puoi disattivare la raccolta con “Disattiva il monitoraggio di utilizzo” in fondo alle Impostazioni senza perdere funzionalità. La preferenza è inclusa nei backup. Queste condizioni non limitano i tuoi diritti sulla privacy.
 
 Lunette Pro e Timegrapher Pro sono acquisti facoltativi una tantum gestiti da Apple. Per chiedere un rimborso, [rivolgiti ad Apple](https://reportaproblem.apple.com/). Restano validi i tuoi diritti di legge.
 

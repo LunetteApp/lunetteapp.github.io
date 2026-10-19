@@ -1,12 +1,12 @@
 # Lunette
 
-> Lunette is an iOS app for documenting a watch collection, checking timekeeping and keeping a wear journal. Collection and journal features work offline. No account or subscription is required. The app does not use analytics or ad tracking. Up to five watches are free.
+> Lunette is an iOS app for documenting a watch collection, checking timekeeping and keeping a wear journal. Collection and journal features work offline. No account or subscription is required. The app does not use ad tracking. Up to five watches are free.
 
 ## Key facts
 
 - **Platform:** iOS 17+ (iPhone). Native UIKit app.
 - **Price:** Free up to five watches. Lunette Pro and Timegrapher Pro are separate one-time purchases.
-- **Privacy:** Collection data is stored on the device. Optional iCloud backup stores a copy in the user's Apple account. The app uses no analytics or ad tracking.
+- **Privacy:** Collection data is stored on the device. Optional iCloud backup stores a copy in the user's Apple account. The app uses no ad tracking. First-party usage statistics contain fixed action names, UTC timestamps and random session codes plus app/OS versions and the app environment. They exclude collection content and persistent user/device identifiers. Users can opt out at the end of Settings. The preference is backed up, while temporary usage files are excluded from backups.
 - **App Store:** https://apps.apple.com/app/lunette/id6773048433
 - **Website:** https://lunetteapp.com
 - **Developer:** Michael Siddi, independent developer based in Italy.
@@ -24,7 +24,7 @@
 ## Pages
 
 - [Home](https://lunetteapp.com/): Product overview and features.
-- [Privacy Policy](https://lunetteapp.com/privacy/en.md): How Lunette handles local data, optional backup and network requests (Markdown).
+- [Privacy Policy](https://lunetteapp.com/privacy/en.md): How Lunette handles local data, optional backup, session usage statistics and network requests (Markdown).
 - [Terms of Use](https://lunetteapp.com/terms/en.md): Terms of service (Markdown).
 - [Contact](https://lunetteapp.com/contact/): Get in touch with the developer.
 - [Open Source & Data Attribution](https://lunetteapp.com/opensource.html): Third-party libraries and watch data sources.

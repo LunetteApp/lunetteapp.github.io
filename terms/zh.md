@@ -1,10 +1,12 @@
 # 使用条款
 
-**最后更新：** 2026年9月29日
+**最后更新：** 2026年10月19日
 
 使用 Lunette 即表示你同意本条款。本条款是对 Apple [标准许可协议](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)的补充，Apple 不是本条款的当事方。
 
 你的收藏默认保存在你的设备上。你可以将其备份到自己的 iCloud 账户，或导出为 ZIP 文件。我们不会将你的收藏存储在我们的服务器上。
+
+Lunette可能按照[隐私政策](https://lunetteapp.com/privacy/)发送自有使用统计。内容包括操作名称、时间、随机会话代码和应用技术信息，不包含收藏内容或永久的用户或设备标识符。您可以在设置最底部开启“停用使用情况跟踪”，停止收集且不影响应用功能。此偏好包含在备份中。本条款不限制您的隐私权利。
 
 Lunette Pro 和 Timegrapher Pro 是由 Apple 处理的可选一次性购买。如需申请退款，请[联系 Apple](https://reportaproblem.apple.com/)。你的法定权利仍然适用。
 
