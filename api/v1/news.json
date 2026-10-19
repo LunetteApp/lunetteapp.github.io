@@ -1,6 +1,6 @@
 {
-  "content_hash": "49bc49efe669f74e19301813bc7a9a7214a0ffe4a842df1112cb376c4da10ac5",
-  "last_updated": "2026-10-19T11:36:23.623Z",
+  "content_hash": "6f418b81b2fd0d042c52516731f9b1a8f36ab62adb07681d648e53596f3b2374",
+  "last_updated": "2026-10-19T11:47:16.950Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T10:00:22.000Z"
     },
     {
@@ -869,7 +869,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Meet the TYPE 10 DN, Ressence’s First Oil-Filled Watch with the Proprietary Movement",
@@ -981,7 +981,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot’s next big move, Grand Seiko’s design secrets, and Serica’s unexpected partnership",
@@ -1169,7 +1169,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -1266,7 +1266,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Papar Puts a Twist on the All-Black Watch with Its Slimmest Watch Yet Featuring a Wandering-Hour",
@@ -1439,7 +1439,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -1458,7 +1458,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2423,6 +2423,25 @@
       "score_quality": 71,
       "score_notif": 24,
       "cluster": "20261009-373d9f857b16",
+      "cluster_main": true
+    },
+    {
+      "title": "TimeForArt 2026: gli incredibili capolavori che cancellano il confine tra arte e orologeria",
+      "url": "https://italianwatchspotter.com/timeforart-2026/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-15-768x1024.png",
+      "peek_preview": "Esiste un confine, nell’orologeria, oltre il quale la misurazione del tempo smette di essere l’unica ragione d’essere di un segnatempo. È il momento in cui un quadrante diventa una superficie pittorica, una cassa assume...",
+      "categories": [
+        "Fiere ed Eventi",
+        "TimeForArt",
+        "TimeForArt 2026"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-09T15:00:00.000Z",
+      "score_quality": 47,
+      "score_notif": 24,
+      "cluster": "20261009-ae16e456c5cb",
       "cluster_main": true
     }
   ]
