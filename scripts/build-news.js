@@ -21,6 +21,7 @@ const {
 const {
   canonicalNewsURL,
   isScore,
+  marketingReason,
   normalizeClusterMains,
   normalizeEventNotifications,
   singletonClusterID,
@@ -793,6 +794,7 @@ function normalizePremiumLinks(links) {
 }
 
 function matchesSourceFilters(item, source, globalExcludeKeywords = []) {
+  if (marketingReason(item)) return false;
   const excludedCategories = new Set(
     (Array.isArray(source.exclude_categories) ? source.exclude_categories : [])
       .map(normalizeForSearch)

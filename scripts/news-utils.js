@@ -58,6 +58,25 @@ function isScore(value) {
     || (Number.isInteger(value) && value >= 0 && value <= 100);
 }
 
+// Explicit publisher labels and crowdfunding sales calls must not depend on
+// editorial inference. A watch launch can still be advertising.
+function marketingReason(article) {
+  const title = String(article?.title || "").replace(/\s+/g, " ").trim();
+  const adLabels = new Set([
+    "adv", "advertisement", "advertorial", "sponsored", "sponsored content",
+    "paid content", "paid partnership", "partner content"
+  ]);
+  if ((article?.categories ?? []).some((category) =>
+    adLabels.has(String(category).trim().toLowerCase())
+  ) || /^(?:\[\s*(?:adv|advertisement|advertorial|sponsored(?: content)?)\s*\]|(?:adv|advertisement|advertorial|sponsored(?: content)?)\s*[:|–—-])/i.test(title)) {
+    return "publisher-labelled advertising";
+  }
+  if (/\bnow(?:\s+live)?\s+on\s+(?:kickstarter|indiegogo)\b/i.test(title)) {
+    return "crowdfunding campaign promotion";
+  }
+  return null;
+}
+
 // Filtering a feed can remove a cluster's lead. Preserve a surviving lead or
 // choose the strongest remaining member so every published story has one main.
 function normalizeClusterMains(articles) {
@@ -136,6 +155,7 @@ module.exports = {
   canonicalNewsURL,
   compactArticleID,
   isScore,
+  marketingReason,
   normalizeClusterMains,
   normalizeEventNotifications,
   singletonClusterID,

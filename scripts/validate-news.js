@@ -9,6 +9,7 @@ const {
 } = require("./news-history");
 const {
   canonicalNewsURL,
+  marketingReason,
   isScore
 } = require("./news-utils");
 
@@ -80,6 +81,9 @@ function validateNews(news, history) {
     }
     if (!article?.title || !article?.url || !article?.source_name || !article?.lang) {
       throw new Error(`${label} is missing title, URL, source, or language`);
+    }
+    if (marketingReason(article)) {
+      throw new Error(`${label} is explicit marketing and must not be in the feed`);
     }
     if (Object.hasOwn(article, "categories")
         && (!Array.isArray(article.categories)

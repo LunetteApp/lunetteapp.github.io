@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { canonicalNewsURL, normalizeClusterMains } = require("./news-utils");
+const { canonicalNewsURL, marketingReason, normalizeClusterMains } = require("./news-utils");
 
 const ROOT = path.resolve(__dirname, "..");
 const NEWS_PATH = path.join(ROOT, "api", "v1", "news.json");
@@ -17,6 +17,7 @@ function publishableNews(news, history) {
   const items = (news.items ?? []).filter((article) => {
     const record = history.articles[canonicalNewsURL(article.url)];
     return record?.topic_reviewed === true
+      && !marketingReason(article)
       && record.off_topic !== true && record.marketing !== true;
   }).map((article) => ({ ...article }));
   normalizeClusterMains(items);

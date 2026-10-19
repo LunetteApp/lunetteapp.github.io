@@ -14,6 +14,7 @@ const {
 const {
   compactArticleID,
   isScore,
+  marketingReason,
   normalizeEventNotifications,
   singletonClusterID,
   writeFileAtomically
@@ -100,6 +101,13 @@ discount, a sale, a giveaway, a sweepstake, a competition, an auction or retaile
 promotion, sponsored or partner content, an affiliate shopping or gift guide, a
 subscription or membership pitch, a brand's own marketing copy reprinted as a
 story, or an advertisement for an event, course, or product the publisher sells.
+Crowdfunding campaign pitches are marketing: "now on Kickstarter", "now live on
+Indiegogo", early-bird pledges, backing invitations, and campaign purchase offers.
+For example, "Introducing – The Semi-Openworked Version Watches V0201-TH, now on
+Kickstarter" is marketing even though it announces a new watch. Explicit sponsored,
+advertorial, or paid-partner labels and sales purpose override the watch-release
+exception below. Independent reporting about crowdfunding failures, investigations,
+or industry developments is journalism; mentioning Kickstarter alone is not an ad.
 A report about a new watch, a hands-on, a review, an interview, or company news is
 journalism even when the brand benefits from it and even when the headline is
 enthusiastic, so do not name it here. Judge purpose, not tone. These lines are
@@ -385,7 +393,10 @@ function oneLineLanguage(value) {
 }
 
 function normalizeAnalysis(result, ids, articles = [], scoreIndices = ids.map((_, index) => index)) {
-  const marketing = resolveMarketing(result?.marketing, ids);
+  const marketing = [...new Set([
+    ...resolveMarketing(result?.marketing, ids),
+    ...articles.flatMap((article, index) => marketingReason(article) ? [ids[index]] : [])
+  ])];
   const offTopic = resolveExcludedLines(result?.off_topic, ids, "off_topic");
   const analysis = {
     scores: normalizeScores(result?.scores, ids, articles, scoreIndices),
