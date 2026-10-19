@@ -1,6 +1,6 @@
 {
-  "content_hash": "8a10fab5a88e3c3b40bb44afc43244f0417c41ddbf534d29b80df8bac4f88090",
-  "last_updated": "2026-10-19T19:46:47.760Z",
+  "content_hash": "b342384dd6906de89944003bfb4c01c4de42914ad8b0ec4d7013b228ea6b93e4",
+  "last_updated": "2026-10-19T20:47:03.727Z",
   "premium": {
     "links": []
   },
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T19:32:37.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T19:00:00.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-17T13:16:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-19T20:35:11.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -176,6 +176,27 @@
   ],
   "items": [
     {
+      "title": "Bell & Ross BR-03 Space Mission: Houston, wir haben eine Uhr",
+      "url": "https://www.uhrenkosmos.com/bell-ross-br-03-space-mission-limited-edition/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Fuer-Raumfahrer-und-solche-die-es-werden-wollen-Bell-Ross-BR-03-Space-Mission-Limited-Edition-im-All.jpg",
+      "peek_preview": "Bei der Bell & Ross BR-03 Space Mission übernehmen der Mond und ein Raumgleiter die Arbeit der Zeiger. Darunter funkelt ein Zifferblatt aus schwarzem Aventurin, gefasst in einem mattschwarzen Keramikgehäuse. Das kostet...",
+      "categories": [
+        "Aktuell",
+        "Bell & Ross",
+        "Bell & Ross BR-03 Space Mission",
+        "BR-03",
+        "Limited Edition"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-19T20:35:11.000Z",
+      "score_quality": 64,
+      "score_notif": 34,
+      "cluster": "20261016-e1910e4eb072",
+      "cluster_main": false
+    },
+    {
       "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
       "url": "https://teddybaldassarre.com/blogs/watches/most-accurate-watches-1",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/escapement_GIF.gif?v=1653501499",
@@ -203,7 +224,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261016-87083efc6fc7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Debuts a Fully Blued-Out Version with Its New Type 10 Dark Night",
@@ -286,7 +307,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ode to a Legend with the Hublot Classic Fusion Tributo",
@@ -361,7 +382,7 @@
       "score_quality": 88,
       "score_notif": 68,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Jaeger-LeCoultre Duometre Grande Complication à Grande Sonnerie—A Pièce Unique Rewrites Calibre 182",
@@ -1111,7 +1132,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261016-87083efc6fc7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Biver AB is Time Only and All Quality",
@@ -1131,7 +1152,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Meet the TYPE 10 DN, Ressence’s First Oil-Filled Watch with the Proprietary Movement",
@@ -1391,7 +1412,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -1616,7 +1637,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -1635,7 +1656,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2008,7 +2029,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -2119,7 +2140,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Baltic Hermétique The Rift : la field watch parisienne part rouler en Islande, et passe à 34 mm",
@@ -2430,31 +2451,6 @@
       "score_quality": 60,
       "score_notif": 32,
       "cluster": "20261010-2dd33ceb325e",
-      "cluster_main": true
-    },
-    {
-      "title": "Ebel Verkauf: Chanel und F.P. Journe übernehmen Schweizer Uhrenmarke",
-      "url": "https://www.uhrenkosmos.com/ebel-verkauf-f-p-journe-und-chanel-uebernehmen/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/EBEL-Verkauf-der-Movado-Group-an-Chanel-und-F.P.-Journe.jpg",
-      "peek_preview": "Ebel bekommt neue Eigentümer. Ein Konsortium um François-Paul Journe, Chanel und Pierre Jacques übernimmt die Marke für 66,5 Millionen USD von der Movado Group. Der Ebel Verkauf macht Hoffnung, lässt jedoch auch etliche...",
-      "categories": [
-        "Aktuell",
-        "Handel & Auktionen",
-        "Vintage & Stil",
-        "Chanel",
-        "Ebel",
-        "Ebel Verkauf",
-        "F.P. Journe",
-        "Movado Group",
-        "Pierre Jacques"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-10T12:31:51.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261010-aa20e30cea22",
       "cluster_main": true
     }
   ]
