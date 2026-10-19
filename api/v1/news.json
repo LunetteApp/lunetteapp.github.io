@@ -1,6 +1,6 @@
 {
-  "content_hash": "64ba8b9845253101f4894c501d583012c6eb0cbc721801ac417607dab8a4ebda",
-  "last_updated": "2026-10-19T14:47:14.376Z",
+  "content_hash": "19c09ddf183caa6c323a81112548d8482c60c50d112bcd35a38b512d17f65ad2",
+  "last_updated": "2026-10-19T15:46:53.412Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T14:00:48.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T14:01:07.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-19T14:00:00.000Z"
+      "latest_article_at": "2026-10-19T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,14 +79,14 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T14:00:21.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T13:57:38.000Z"
     },
     {
@@ -234,8 +234,8 @@
       "published_at": "2026-10-19T14:00:21.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261015-9d51a9d88e08",
-      "cluster_main": false
+      "cluster": "20261019-c8f164f2922d",
+      "cluster_main": true
     },
     {
       "title": "H. Moser & Cie. debuts its first limited edition with NFL superstar Saquon Barkley",
@@ -1039,7 +1039,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Meet the TYPE 10 DN, Ressence’s First Oil-Filled Watch with the Proprietary Movement",
@@ -1060,7 +1060,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -1113,7 +1113,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The new Formex Essence Ceramica Dark Matter Redshift",
@@ -1319,7 +1319,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -1368,7 +1368,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261015-0922bb7299c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "De Rijke & Co. Makes the Capri Collection a Permanent Fixture of Its Catalog with Three Staple Colorways",
@@ -1434,7 +1434,7 @@
       "score_quality": 61,
       "score_notif": 34,
       "cluster": "20261015-0922bb7299c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "We Love Watches 2026 : retour sur une édition réussie à la Maison de la Mutualité",
@@ -1523,21 +1523,6 @@
       "score_notif": 34,
       "cluster": "20261015-399ad46544ae",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing: The Brew Metric Chrono Taxi",
-      "url": "https://www.hodinkee.com/articles/the-brew-metric-chrono-taxi",
-      "image": "https://hodinkee.imgix.net/uploads/images/77fa557f-f882-4507-a5b3-ea619be37c1c/breahder2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "I'm walkin' here!",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T14:00:00.000Z",
-      "score_quality": 66,
-      "score_notif": 34,
-      "cluster": "20261015-9d51a9d88e08",
-      "cluster_main": true
     },
     {
       "title": "The new Hublot Classic Fusion Tributo looks to the past and future with serious upgrades",
