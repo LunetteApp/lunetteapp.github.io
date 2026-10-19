@@ -1,6 +1,6 @@
 {
-  "content_hash": "234193c16e9554d0dc724c22a6d5330600fabc72b86d0fab07ce5a7be4c543a8",
-  "last_updated": "2026-10-19T12:47:05.244Z",
+  "content_hash": "8908f261f4727a0622fd7b0f17f039405365324d88f5a0c7db9eea9279ca9c66",
+  "last_updated": "2026-10-19T13:47:09.414Z",
   "premium": {
     "links": []
   },
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-18T13:30:00.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-19T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T12:00:09.000Z"
     },
     {
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T08:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-19T12:48:20.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,45 @@
     }
   ],
   "items": [
+    {
+      "title": "New: Biver AB – their first steel time only watch",
+      "url": "https://deployant.com/new-biver-ab-their-first-steel-time-only-watch/?utm_source=rss&utm_medium=rss&utm_campaign=new-biver-ab-their-first-steel-time-only-watch",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/11-Biver-AB-for-deployant.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors For the first time in its short history, Biver releases a three hand watch in stainless steel with a steel bracelet. The idea of the steel watch came from col...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "biver"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-19T13:30:00.000Z",
+      "score_quality": 64,
+      "score_notif": 34,
+      "cluster": "20261016-34e72cea1f6d",
+      "cluster_main": false
+    },
+    {
+      "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
+      "url": "https://www.orologidiclasse.com/jaeger-lecoultre-master-ultra-thin-moon-oro-rosa-36mm/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/jaeger-lecoultre-master-ultra-thin-moon-oro-rosa-36mm.jpg",
+      "peek_preview": "La Manifattura di Le Sentier aggiorna la sua linea di orologi da sera più celebrata: il Master Ultra Thin Moon arriva in una nuova versione in oro rosa 18 carati con cassa da 36 mm, tre millimetri in meno rispetto al mo...",
+      "categories": [
+        "Novità Orologi",
+        "Alta Orologeria",
+        "Jaeger-LeCoultre"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-19T12:48:20.000Z",
+      "score_quality": 71,
+      "score_notif": 64,
+      "cluster": "20261019-a6a167341db8",
+      "cluster_main": true
+    },
     {
       "title": "Milano Watch Week 2026 proves Milan is becoming a watch capital",
       "url": "https://timeandtidewatches.com/milano-watch-week-2026-events/",
@@ -1036,7 +1075,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Oris ProPilot Calibre 111 Returns More Than A Decade After Its Introduction",
@@ -1092,7 +1131,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -1419,7 +1458,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The new Hublot Classic Fusion Tributo looks to the past and future with serious upgrades",
@@ -1456,7 +1495,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -1884,8 +1923,8 @@
       "published_at": "2026-10-14T01:00:24.000Z",
       "score_quality": 76,
       "score_notif": 24,
-      "cluster": "20261009-373d9f857b16",
-      "cluster_main": false
+      "cluster": "20261014-17c309287266",
+      "cluster_main": true
     },
     {
       "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
@@ -2367,7 +2406,7 @@
       "published_at": "2026-10-10T12:31:51.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261010-1c90f13ad6cc",
+      "cluster": "20261010-aa20e30cea22",
       "cluster_main": true
     },
     {
@@ -2405,42 +2444,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261010-1c90f13ad6cc",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: Jaquet Droz Petite Heure Minute Les Volumes du Temps—A Unique Enamel Sculpture for TimeForArt 2026",
-      "url": "https://www.watchcollectinglifestyle.com/home/jaquet-droz-petite-heure-minute-les-volumes-du-temps-timeforart-2026",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791560754477-OUA8W2DY59LFCHAE18DW/Jaquet+Droz+Petite+Heure+Minute+Les+Volumes+du+Temps-3.jpg?format=1500w",
-      "peek_preview": "Jaquet Droz has unveiled Les Volumes du Temps, a unique Petite Heure Minute in 18K white gold that reads hours and minutes in three dimensions, without a single hand. Conceived at the Atelier in La Chaux-de-Fonds around...",
-      "categories": [
-        "Jaquet Droz"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-09T16:18:08.000Z",
-      "score_quality": 71,
-      "score_notif": 24,
-      "cluster": "20261009-373d9f857b16",
-      "cluster_main": true
-    },
-    {
-      "title": "TimeForArt 2026: gli incredibili capolavori che cancellano il confine tra arte e orologeria",
-      "url": "https://italianwatchspotter.com/timeforart-2026/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-15-768x1024.png",
-      "peek_preview": "Esiste un confine, nell’orologeria, oltre il quale la misurazione del tempo smette di essere l’unica ragione d’essere di un segnatempo. È il momento in cui un quadrante diventa una superficie pittorica, una cassa assume...",
-      "categories": [
-        "Fiere ed Eventi",
-        "TimeForArt",
-        "TimeForArt 2026"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-09T15:00:00.000Z",
-      "score_quality": 47,
-      "score_notif": 24,
-      "cluster": "20261009-ae16e456c5cb",
       "cluster_main": true
     }
   ]
