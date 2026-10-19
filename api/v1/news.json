@@ -1,6 +1,6 @@
 {
-  "content_hash": "5b826580b14e0bf1731431676903a6e09e30b9fce7fa7ddf9bceae9ba59c7684",
-  "last_updated": "2026-10-19T09:46:55.379Z",
+  "content_hash": "e9799593da2863ef9c1494e24760c381eeb45a09ee797f5686d815965945edc2",
+  "last_updated": "2026-10-19T10:47:57.451Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T07:00:12.000Z"
+      "estimated_articles_per_day": 3.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-19T10:00:22.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T09:30:00.000Z"
     },
     {
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The Semi-Openworked Version Watches V0201-TH, now on Kickstarter",
+      "url": "https://monochrome-watches.com/the-semi-openworked-version-watches-v0201-th-now-on-kickstarter/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Semi-Openworked-Version-Watches-V0201-TH-Kickstarter-1-600x237.jpg",
+      "peek_preview": "Version Watches is a young independent brand founded in 2024 founded by a feminine duo, Cybèle Vigneron and Carla Lafranchini. Version creates Swiss-made watches that are classic with a twist, exploring the idea of tran...",
+      "categories": [
+        "Version Watches",
+        "2026",
+        "Novelty",
+        "Value Proposition"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-19T10:00:22.000Z",
+      "score_quality": 68,
+      "score_notif": 62,
+      "cluster": "20261019-20a7ee105d3d",
+      "cluster_main": true
+    },
     {
       "title": "News orologi: fatti, volti, ed eventi – 19/10/2026",
       "url": "https://giornaleorologi.it/2026/10/19/news-orologi-fatti-volti-ed-eventi-19-10-2026/",
@@ -256,7 +276,7 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – Union Glashütte brings the More Compact Belisar Chronograph Speedster 2026",
+      "title": "Introducing – Union Glashütte Introduces the More Compact Belisar Chronograph Speedster 2026",
       "url": "https://monochrome-watches.com/union-glashutte-brings-the-more-compact-belisar-chronograph-speedster-2026/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/Union-Glashutte-Belisar-Chronograph-Speedster-2026-Limited-Edition-1-600x237.jpg",
       "peek_preview": "Founded in 1893 by Johannes Dürrstein in the Saxon town of Glashütte, Union Glashütte set out to make high-quality German watchmaking accessible to a wider audience. Today, part of the Swatch Group, the brand combines t...",
@@ -869,7 +889,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Meet the TYPE 10 DN, Ressence’s First Oil-Filled Watch with the Proprietary Movement",
@@ -981,7 +1001,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot’s next big move, Grand Seiko’s design secrets, and Serica’s unexpected partnership",
@@ -1157,27 +1177,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The New Mido Multifort TV Big Date Chronometer",
-      "url": "https://monochrome-watches.com/mido-multifort-tv-big-date-chronometer-cosc-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Mido-Multifort-TV-Big-Date-Chronometer-COSC-1-600x237.jpg",
-      "peek_preview": "Mido revived the distinctive Multifort TV case in 2023, building a collection of rectangular watches with an (almost) integrated bracelet, including fun editions with the retro TV test card dials. The Multifort TV Big D...",
-      "categories": [
-        "Mido",
-        "2026",
-        "Novelty",
-        "Sports watch",
-        "Value Proposition"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T07:00:30.000Z",
-      "score_quality": 80,
-      "score_notif": 32,
-      "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: The Biver 'AB' — A New Manually-Wound Release In Steel",
       "url": "https://www.hodinkee.com/articles/introducing-biver-ab-manual",
       "image": "https://hodinkee.imgix.net/uploads/images/25910868-5892-4591-b63b-cbe1ce081259/11-BiverAB.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1190,7 +1189,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -1287,7 +1286,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261015-0ab817e0f45a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Papar Puts a Twist on the All-Black Watch with Its Slimmest Watch Yet Featuring a Wandering-Hour",
@@ -1812,7 +1811,7 @@
       "score_quality": 72,
       "score_notif": 32,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ho indossato il Mido Multifort TV Big Date Chronometer",
