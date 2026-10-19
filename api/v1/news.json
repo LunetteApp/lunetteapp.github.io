@@ -1,6 +1,6 @@
 {
-  "content_hash": "e582d06c87d1f77ca6c64bec6701f7bb64ec04a33bc688c0161f3d116db9cc52",
-  "last_updated": "2026-10-19T16:47:35.104Z",
+  "content_hash": "2b1252ba518ca0828f2b7319ede920eeacf7842ad89bf78055c8be5c39c6aaa2",
+  "last_updated": "2026-10-19T18:47:10.803Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T14:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-19T18:00:37.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T16:05:07.000Z"
     },
     {
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T15:57:32.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Ressence Debuts a Fully Blued-Out Version with Its New Type 10 Dark Night",
+      "url": "https://wornandwound.com/ressence-debuts-a-fully-blued-out-version-with-its-new-type-10-dark-night/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Ressence-Type-10-SD-57.jpg",
+      "peek_preview": "We know the trend of all black watches well – what was once a novelty has now become a regular part of most catalogs, so perhaps we can no longer call this a trend but an industry staple. I think the monochromatic conce...",
+      "categories": [
+        "News & Releases",
+        "Ressence"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-19T18:00:37.000Z",
+      "score_quality": 67,
+      "score_notif": 34,
+      "cluster": "20261016-bc3ca8dd6c13",
+      "cluster_main": false
+    },
     {
       "title": "Introducing – A new Gold Tone for the Armin Strom Mirrored Force Resonance Zeitgeist 1665 3N",
       "url": "https://monochrome-watches.com/a-new-gold-tone-for-the-armin-strom-mirrored-force-resonance-zeitgeist-1665-3n/",
@@ -1104,7 +1122,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -1157,7 +1175,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Monta Introduces a Pair of Limited Editions to Celebrate their Tenth Anniversary",
@@ -1741,23 +1759,6 @@
       "cluster_main": true
     },
     {
-      "title": "Owner’s Review: the Straum Jan Mayen Stormy Seas",
-      "url": "https://wornandwound.com/review/owners-review-the-straum-jan-mayen-stormy-seas/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Straum-Owners-Review-72.jpg",
-      "peek_preview": "Spirit Halloween stores are popping up around the city, pumpkin beer has hit the shelves, and 80-plus-degree highs in Brooklyn are in the rearview mirror (please remain true). I’ve returned my most worn summer watch to...",
-      "categories": [
-        "Featured"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-14T19:00:13.000Z",
-      "score_quality": 76,
-      "score_notif": 23,
-      "cluster": "20261014-619aa38913f6",
-      "cluster_main": true
-    },
-    {
       "title": "Citizen Photon Review: Why It's The Ultimate Eco-Drive Watch",
       "url": "https://teddybaldassarre.com/blogs/watches/citizen-eco-drive-photon-review",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Eco-Drive-Photon-watch-2_66c9c743-17f8-4b59-a155-4b0bf6faa441.jpg?v=1791915237",
@@ -1901,7 +1902,7 @@
       "cluster_main": true
     },
     {
-      "title": "Ho indossato il Mido Multifort TV Big Date Chronometer",
+      "title": "Mido Multifort TV Big Date Chronometer: la mia recensione al polso",
       "url": "https://www.orologidiclasse.com/mido-multifort-tv-big-date-chronometer/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/mido-multifort-tv-big-date-chronometer.jpg",
       "peek_preview": "L’ho avuto al polso qualche giorno e la prima cosa che ho notato è stata quella scacchiera rettangolare sul quadrante blu: cambia aspetto ogni volta che inclini il polso, e nelle foto non lo capisci. Il Mido Multifort T...",
