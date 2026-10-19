@@ -1,6 +1,6 @@
 {
-  "content_hash": "60b17305bac64bce445edd8df4721c3e40e58356af81f9bc79616b0a5ca14c83",
-  "last_updated": "2026-10-19T07:47:42.962Z",
+  "content_hash": "5b826580b14e0bf1731431676903a6e09e30b9fce7fa7ddf9bceae9ba59c7684",
+  "last_updated": "2026-10-19T09:46:55.379Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T07:00:55.000Z"
     },
     {
@@ -22,15 +22,15 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T07:00:12.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T07:01:35.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-19T07:00:54.000Z"
     },
     {
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-16T09:21:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-19T09:30:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,28 @@
     }
   ],
   "items": [
+    {
+      "title": "News orologi: fatti, volti, ed eventi – 19/10/2026",
+      "url": "https://giornaleorologi.it/2026/10/19/news-orologi-fatti-volti-ed-eventi-19-10-2026/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/Watches_for_ELA_21_1200x800-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - News orologi: fatti, volti, ed eventi – 19/10/2026 Nuovo appuntamento con le News orologi. Che come sempre raccontano quanto lavoro ci sia, per i marchi, anche fuori dalle manifatture. Le attiv...",
+      "categories": [
+        "Attualità",
+        "Eberhard & Co. & Co.",
+        "Jaeger-LeCoultre",
+        "Montblanc",
+        "Oris",
+        "Watches for ELA"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-19T09:30:00.000Z",
+      "score_quality": 27,
+      "score_notif": 22,
+      "cluster": "20261019-07f7269cd67f",
+      "cluster_main": true
+    },
     {
       "title": "Apple Watch Series 12 Ceramic Smartwatch Is The Future Tech We Were All Promised: Review",
       "url": "https://www.ablogtowatch.com/apple-watch-series-12-ceramic-smartwatch-is-the-future-tech-we-were-all-promised-review/",
@@ -997,7 +1019,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Oris ProPilot Calibre 111 Returns More Than A Decade After Its Introduction",
@@ -1053,7 +1075,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261016-f1174674efc3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -2422,25 +2444,6 @@
       "score_quality": 71,
       "score_notif": 24,
       "cluster": "20261009-373d9f857b16",
-      "cluster_main": true
-    },
-    {
-      "title": "TimeForArt 2026: gli incredibili capolavori che cancellano il confine tra arte e orologeria",
-      "url": "https://italianwatchspotter.com/timeforart-2026/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-15-768x1024.png",
-      "peek_preview": "Esiste un confine, nell’orologeria, oltre il quale la misurazione del tempo smette di essere l’unica ragione d’essere di un segnatempo. È il momento in cui un quadrante diventa una superficie pittorica, una cassa assume...",
-      "categories": [
-        "Fiere ed Eventi",
-        "TimeForArt",
-        "TimeForArt 2026"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-09T15:00:00.000Z",
-      "score_quality": 47,
-      "score_notif": 21,
-      "cluster": "20261009-ae16e456c5cb",
       "cluster_main": true
     }
   ]
