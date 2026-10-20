@@ -1,6 +1,6 @@
 {
-  "content_hash": "2d922ac133222cf6a308639847a41a11d93c05d8dbfe0a505193bac42fc97c89",
-  "last_updated": "2026-10-20T11:46:56.403Z",
+  "content_hash": "363499894959efa2acf2c894794739131903c3037a0adb626a1c396ab8841350",
+  "last_updated": "2026-10-20T12:47:09.329Z",
   "premium": {
     "links": []
   },
@@ -22,14 +22,14 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-20T09:01:47.000Z"
+      "estimated_articles_per_day": 3.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-20T12:00:59.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
+      "estimated_articles_per_day": 1.9,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T07:01:10.000Z"
     },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T11:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T11:00:30.000Z"
     },
     {
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Portrait – Tested Beyond Endurance – A Conversation with Aldo Kane about Bremont Watches",
+      "url": "https://monochrome-watches.com/tested-beyond-endurance-a-conversation-with-aldo-kane-about-bremont-watches/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Tested-Beyond-Endurance-A-Conversation-with-Aldo-Kane-about-Bremont-Watches-1-600x237.jpg",
+      "peek_preview": "Aldo Kane, an expedition leader, former Royal Marines sniper, and television adventurer, has spent the better part of a decade as a Bremont ambassador, putting the brand’s watches through volcanoes, jungles, oceans and...",
+      "categories": [
+        "Bremont",
+        "2026",
+        "Interviews",
+        "Portrait"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-20T12:00:59.000Z",
+      "score_quality": 76,
+      "score_notif": 29,
+      "cluster": "20261020-52a1615fbbac",
+      "cluster_main": true
+    },
     {
       "title": "Lights Out: Introducing the 36mm Timex Intrepid x Dimepiece ‘Blackout’ Edition",
       "url": "https://timeandtidewatches.com/timex-intrepid-x-dimepiece-blackout-edition-introducing/",
@@ -284,7 +304,7 @@
       "score_quality": 85,
       "score_notif": 67,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -324,7 +344,7 @@
       "score_quality": 82,
       "score_notif": 67,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -706,7 +726,7 @@
       "featured": false,
       "published_at": "2026-10-19T12:00:09.000Z",
       "score_quality": 62,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261019-a993b681f18d",
       "cluster_main": true
     },
@@ -1236,27 +1256,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The Bell & Ross BR-03 Space Mission Brings the Earth and Mars to the Wrist",
-      "url": "https://monochrome-watches.com/bell-and-ross-br-03-space-mission-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Bell-and-Ross-BR-03-Space-Mission-6-600x237.jpg",
-      "peek_preview": "Earth, the Moon, Mars, and a spacecraft… Sounds like Christopher Nolan is cooking up another mind-bending film, but it is actually the new Bell & Ross BR-03 Space Mission. Following the BR-03 Astro from 2025, this new e...",
-      "categories": [
-        "Bell & Ross",
-        "2026",
-        "Novelty",
-        "Other Display",
-        "Pilot Watches"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T22:01:54.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
-    },
-    {
       "title": "New: Bell & Ross BR-03 Space Mission",
       "url": "https://deployant.com/new-bell-ross-br-03-space-mission/?utm_source=rss&utm_medium=rss&utm_campaign=new-bell-ross-br-03-space-mission",
       "image": "https://deployant.com/wp-content/uploads/2026/10/R23-001-BR03-SPACE-MISSION-NM1-V2_1-for-deployant.jpeg",
@@ -1275,7 +1274,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
