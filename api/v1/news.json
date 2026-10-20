@@ -1,6 +1,6 @@
 {
-  "content_hash": "363499894959efa2acf2c894794739131903c3037a0adb626a1c396ab8841350",
-  "last_updated": "2026-10-20T12:47:09.329Z",
+  "content_hash": "3fad1c10e9729ec3eeea10aceded8f1864348198c0911b685479836b80cd683d",
+  "last_updated": "2026-10-20T13:47:06.459Z",
   "premium": {
     "links": []
   },
@@ -15,15 +15,15 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T18:00:37.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-20T12:59:48.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T12:00:59.000Z"
     },
     {
@@ -57,7 +57,7 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T07:00:00.000Z"
     },
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T13:57:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-20T13:18:41.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Chopard L.U.C Full Strike ‘Día de los Muertos’ Edition 13—Eggshell, Straw, and Gold",
+      "url": "https://www.watchcollectinglifestyle.com/home/chopard-luc-full-strike-da-de-los-muertos-edition-13",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1792502009448-304UXR3201XWUEGX343T/Chopard%2BL.U.C%2BFull%2BStrike%2B%E2%80%98Di%CC%81a%2Bde%2Blos%2BMuertos%E2%80%99%2BEdition%2B13-2.webp?format=1500w",
+      "peek_preview": "Chopard has unveiled the thirteenth chapter in its annual tribute to Mexico’s Day of the Dead, and it is the most ambitious yet. The L.U.C Full Strike ‘Día de los Muertos’ Edition 13 is a one-of-a-kind piece that pairs...",
+      "categories": [
+        "Chopard"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-20T13:18:41.000Z",
+      "score_quality": 76,
+      "score_notif": 65,
+      "cluster": "20261019-94fd4e0182f9",
+      "cluster_main": true
+    },
     {
       "title": "Portrait – Tested Beyond Endurance – A Conversation with Aldo Kane about Bremont Watches",
       "url": "https://monochrome-watches.com/tested-beyond-endurance-a-conversation-with-aldo-kane-about-bremont-watches/",
@@ -467,7 +484,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
@@ -556,9 +573,9 @@
       "featured": false,
       "published_at": "2026-10-19T15:57:32.000Z",
       "score_quality": 76,
-      "score_notif": 56,
+      "score_notif": 65,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Brew brings a NYC icon to the wrist with new Brew Metric Chrono Taxi",
@@ -709,7 +726,7 @@
       "featured": false,
       "published_at": "2026-10-19T12:48:20.000Z",
       "score_quality": 71,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261019-a6a167341db8",
       "cluster_main": true
     },
@@ -1223,7 +1240,7 @@
       "score_quality": 64,
       "score_notif": 32,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "オメガと映画『007』のコラボモデル「シーマスター ダイバー300M ジェームズ・ボンド＆スペクター」2型が発表",
@@ -1274,7 +1291,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
@@ -2010,7 +2027,7 @@
       "score_quality": 84,
       "score_notif": 32,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -2396,57 +2413,6 @@
       "score_quality": 34,
       "score_notif": 18,
       "cluster": "20261011-9994d21b66af",
-      "cluster_main": true
-    },
-    {
-      "title": "JPH: la firma del maestro Jean-Pierre Hagmann che trasformò la cassa in arte",
-      "url": "https://italianwatchspotter.com/jph-la-firma-di-jean-pierre-hagmann/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/Revolution-Watch_Jean-Pierre-Hagmann-watchmaker-1024x683.jpg",
-      "peek_preview": "Ci sono storie in orologeria che semplicemente vanno oltre al nome riportato sul quadrante. Non si tratta solo di grandi nomi, brand altisonanti o loghi blasonati; a volte, per fare impazzire i collezionisti bastano pic...",
-      "categories": [
-        "Guide ed Approfondimenti",
-        "audemars piguet",
-        "Blancpain",
-        "Breguet",
-        "franck muller",
-        "Gerald Genta",
-        "Hagmann",
-        "JPH",
-        "Patek Philippe",
-        "rolex",
-        "Vacheron Constantin"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-11T10:00:00.000Z",
-      "score_quality": 74,
-      "score_notif": 22,
-      "cluster": "20261011-eedd127bc6df",
-      "cluster_main": true
-    },
-    {
-      "title": "10:10: Celebrating World Watch Day 2026",
-      "url": "https://www.atimelyperspective.com/1010-celebrating-world-watch-day-2026/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/6ac1b249-f4f5-cfe1-b2e0-9e9ce2f1d507-864x1024.jpg",
-      "peek_preview": "On October 10, the global watch community comes together to celebrate the artistry, craftsmanship and heritage of watchmaking. Why 10:10? For those of us who have spent decades photographing watches, those four little d...",
-      "categories": [
-        "2026 Watch Shows, Events",
-        "Smart Watches",
-        "Sport Watches",
-        "Timepieces News, Reviews and Articles",
-        "Watch Shows, Exhibitions, Events",
-        "Watch Week",
-        "Women's watches",
-        "World Watch Day 2026"
-      ],
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-10T13:42:57.000Z",
-      "score_quality": 54,
-      "score_notif": 28,
-      "cluster": "20261010-7357fe0a787e",
       "cluster_main": true
     }
   ]
