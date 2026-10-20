@@ -1,6 +1,6 @@
 {
-  "content_hash": "d7c2504bdd3c996b623ceabd5f37b2cfa0f34ebc3039ba492102fcd790856e38",
-  "last_updated": "2026-10-20T03:46:53.812Z",
+  "content_hash": "616b11ab47a8706e31fcfbf553cd926fd6e20f996ae554eae65f8c0c39527e6f",
+  "last_updated": "2026-10-20T05:46:50.751Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T07:00:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-20T05:00:06.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T14:00:21.000Z"
+      "latest_article_at": "2026-10-19T14:01:21.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T03:00:48.000Z"
     },
     {
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "The New Hermès Cape Cod In Titanium — A Dressy, Feminine Watch Turned Sporty And Masculine",
+      "url": "https://www.fratellowatches.com/hands-on-hermes-cape-cod-titanium/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Hermes-Cape-Cod-Ti-W408196WW00-8.jpg",
+      "peek_preview": "This March, I helped organize and attended a Watch Discovery at the Hermès boutique in Amsterdam. Of course, the sporty H08 and the Arceau in various configurations were there. I was also pleasantly surprised by the ske...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases 2026",
+        "Watches and Wonders 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-20T05:00:06.000Z",
+      "score_quality": 78,
+      "score_notif": 64,
+      "cluster": "20261020-b147256beff5",
+      "cluster_main": true
+    },
     {
       "title": "ルイ・エラールが「カエル」をモチーフとしたコンスタンチン・チャイキンとのコラボウォッチに新色を追加",
       "url": "https://www.webchronos.net/news/176198/",
@@ -203,7 +222,7 @@
       "score_quality": 65,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "‘Uncomplicated’ Americans: Notes from New York Watch Week",
@@ -269,7 +288,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261016-87083efc6fc7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Debuts a Fully Blued-Out Version with Its New Type 10 Dark Night",
@@ -333,6 +352,27 @@
       "cluster_main": true
     },
     {
+      "title": "Brew brings a NYC icon to the wrist with new Brew Metric Chrono Taxi",
+      "url": "https://timeandtidewatches.com/brew-metric-chrono-taxi-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Brew-Metric-Chrono-Taxi-Feature.jpg",
+      "peek_preview": "Brew gives its Metric Chrono a New York twist with taxi-yellow accents, a checkerboard dial and a 1,000-piece limited run for US$495 The post Brew brings a NYC icon to the wrist with new Brew Metric Chrono Taxi appeared...",
+      "categories": [
+        "Introducing",
+        "chronograph",
+        "meta:short",
+        "quartz",
+        "Time+Tide Shop"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-19T14:01:21.000Z",
+      "score_quality": 58,
+      "score_notif": 34,
+      "cluster": "20261019-c8f164f2922d",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – H. Moser & Cie. Pioneer Cylindrical Tourbillon Skeleton Aventurine Saquon Barkley Edition",
       "url": "https://monochrome-watches.com/h-moser-cie-pioneer-cylindrical-tourbillon-skeleton-aventurine-saquon-barkley-edition-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/H-Moser-Cie-Pioneer-Cylindrical-Tourbillon-Skeleton-Aventurine-Saquon-Barkley-Edition-1-600x237.jpg",
@@ -372,27 +412,6 @@
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
       "cluster_main": false
-    },
-    {
-      "title": "Brew brings a NYC icon to the wrist with new Brew Metric Chrono Taxi",
-      "url": "https://timeandtidewatches.com/brew-metric-chrono-taxi-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Brew-Metric-Chrono-Taxi-Feature.jpg",
-      "peek_preview": "Brew gives its Metric Chrono a New York twist with taxi-yellow accents, a checkerboard dial and a 1,000-piece limited run for US$495 The post Brew brings a NYC icon to the wrist with new Brew Metric Chrono Taxi appeared...",
-      "categories": [
-        "Introducing",
-        "chronograph",
-        "meta:short",
-        "quartz",
-        "Time+Tide Shop"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-19T14:00:21.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261019-c8f164f2922d",
-      "cluster_main": true
     },
     {
       "title": "H. Moser & Cie. debuts its first limited edition with NFL superstar Saquon Barkley",
@@ -1177,7 +1196,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261016-87083efc6fc7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Biver AB is Time Only and All Quality",
@@ -1218,7 +1237,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -1271,7 +1290,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Monta Introduces a Pair of Limited Editions to Celebrate their Tenth Anniversary",
@@ -1405,23 +1424,6 @@
       "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
       "cluster_main": false
-    },
-    {
-      "title": "The Top 5 Recent Field Watches",
-      "url": "https://www.fratellowatches.com/the-top-5-recent-field-watches/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Straum-Expedition-collection-11.jpg",
-      "peek_preview": "Another Friday, another list. This week, we pick five of our favorite recent field watches. The category always sparks debate. What began with World War I “trench watches” has evolved into a versatile range of functiona...",
-      "categories": [
-        "Watch Talk"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T09:00:14.000Z",
-      "score_quality": 33,
-      "score_notif": 24,
-      "cluster": "20261016-036e3c177d07",
-      "cluster_main": true
     },
     {
       "title": "Pequignet Royale Paris Moon Phase Watch Review: 39.5mm Of Hot And Cold From France",
@@ -1682,7 +1684,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -1701,7 +1703,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2027,7 +2029,7 @@
       "score_quality": 76,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
