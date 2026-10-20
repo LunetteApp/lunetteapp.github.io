@@ -1,6 +1,6 @@
 {
-  "content_hash": "3e45e7ad5bf2c4e6b6fddf814a5a850e46b1480254f5ade59045c9609cbe0b81",
-  "last_updated": "2026-10-20T15:47:21.569Z",
+  "content_hash": "92b181a8fa6027530693a3afdcfcf516a6c2e2d7676b0df6700155683e173d91",
+  "last_updated": "2026-10-20T16:47:14.930Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T15:00:51.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T15:00:00.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T15:00:00.000Z"
     },
     {
@@ -265,7 +265,7 @@
       "featured": false,
       "published_at": "2026-10-20T13:18:41.000Z",
       "score_quality": 76,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261019-94fd4e0182f9",
       "cluster_main": true
     },
@@ -525,7 +525,7 @@
       "score_quality": 65,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "‘Uncomplicated’ Americans: Notes from New York Watch Week",
@@ -628,7 +628,7 @@
       "featured": false,
       "published_at": "2026-10-19T16:05:07.000Z",
       "score_quality": 84,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261019-17c90cbfcf14",
       "cluster_main": true
     },
@@ -650,7 +650,7 @@
       "featured": false,
       "published_at": "2026-10-19T15:57:32.000Z",
       "score_quality": 76,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261019-94fd4e0182f9",
       "cluster_main": false
     },
@@ -1682,7 +1682,7 @@
     {
       "title": "De Rijke & Co. Makes the Capri Collection a Permanent Fixture of Its Catalog with Three Staple Colorways",
       "url": "https://wornandwound.com/de-rijke-co-makes-the-capri-collection-a-permanent-fixture-of-its-catalog-with-three-staple-colorways/",
-      "image": null,
+      "image": "https://wornandwound.com/library/uploads/2026/10/Capri-Trio-Navy-v3.jpg",
       "peek_preview": "At Windup last fall, De Rijke & Co. made a surprise unveiling of the Capri collection, marked by its distinctive ultra-thin rectangular case, unique curved sapphire crystal, integrated shrouded lugs, and stone dials. As...",
       "categories": [
         "News & Releases",
@@ -2110,7 +2110,7 @@
       "score_quality": 76,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
@@ -2412,6 +2412,32 @@
       "score_quality": 77,
       "score_notif": 28,
       "cluster": "20261011-2d13dfbba663",
+      "cluster_main": true
+    },
+    {
+      "title": "Beyond the shadow: Six underrated watches from popular watch brands",
+      "url": "https://deployant.com/beyond-the-shadow-six-underrated-watches-from-popular-watch-brands/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-shadow-six-underrated-watches-from-popular-watch-brands",
+      "image": "https://deployant.com/wp-content/uploads/2015/04/patek-pilot-dial.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors When it comes to certain brands, there are always the flagship models that they are mostly known for. For example, the sports watches from Rolex, or the likes...",
+      "categories": [
+        "Opinion",
+        "Reviews",
+        "Watches",
+        "Audemars Piguet",
+        "lange",
+        "moser",
+        "patek philippe",
+        "rolex",
+        "throwback sunday",
+        "vacheron constantin"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-11T13:30:00.000Z",
+      "score_quality": 32,
+      "score_notif": 10,
+      "cluster": "20261011-9994d21b66af",
       "cluster_main": true
     }
   ]
