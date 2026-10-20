@@ -1,6 +1,6 @@
 {
-  "content_hash": "3fad1c10e9729ec3eeea10aceded8f1864348198c0911b685479836b80cd683d",
-  "last_updated": "2026-10-20T13:47:06.459Z",
+  "content_hash": "f78cdc72c5eb5f0577b2daf360cd4281dd942e9dff59a7b56257adbf915df901",
+  "last_updated": "2026-10-20T14:47:26.325Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T12:59:48.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-20T07:01:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-20T14:00:47.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,14 +79,14 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-20T11:00:30.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-20T14:00:40.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T13:18:41.000Z"
     },
     {
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-15T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-20T14:15:31.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -175,6 +175,46 @@
     }
   ],
   "items": [
+    {
+      "title": "La storia del Chronomètre à Résonance, il capolavoro di François-Paul Journe",
+      "url": "https://www.watchinsanity.it/fp-journe-chronometre-a-resonance-history/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Christiaan_Huygen-1024x682.jpg",
+      "peek_preview": "La storia del Chronomètre à Résonance di F.P. Journe: dalle origini del principio della risonanza alle evoluzioni di un capolavoro dell'alta orologeria. The post La storia del Chronomètre à Résonance, il capolavoro di F...",
+      "categories": [
+        "Stories",
+        "Timepieces",
+        "Weekly Snippets",
+        "F.P.Journe",
+        "Resonance"
+      ],
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-20T14:15:31.000Z",
+      "score_quality": 67,
+      "score_notif": 24,
+      "cluster": "20261020-4a84bdf6516f",
+      "cluster_main": true
+    },
+    {
+      "title": "Zenith’s Chronomaster Solo Sport gets a five-course introduction in Sydney",
+      "url": "https://timeandtidewatches.com/zenith-chronomaster-solo-sport-sydney-events/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-zenith-sydney-alex-1.webp",
+      "peek_preview": "We join Zenith and acclaimed chef Josh Niland at Sydney’s Saint Peter for an exclusive introduction to the new Chronomaster Solo Sport The post Zenith’s Chronomaster Solo Sport gets a five-course introduction in Sydney...",
+      "categories": [
+        "Events",
+        "meta:short",
+        "zenith"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-20T14:00:40.000Z",
+      "score_quality": 39,
+      "score_notif": 29,
+      "cluster": "20261020-b66e52a8df68",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Chopard L.U.C Full Strike ‘Día de los Muertos’ Edition 13—Eggshell, Straw, and Gold",
       "url": "https://www.watchcollectinglifestyle.com/home/chopard-luc-full-strike-da-de-los-muertos-edition-13",
@@ -484,7 +524,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
@@ -616,9 +656,9 @@
       "featured": false,
       "published_at": "2026-10-19T14:01:07.000Z",
       "score_quality": 84,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ode to a Legend with the Hublot Classic Fusion Tributo",
@@ -655,7 +695,7 @@
       "featured": false,
       "published_at": "2026-10-19T14:00:21.000Z",
       "score_quality": 66,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
       "cluster_main": false
     },
@@ -670,9 +710,9 @@
       "featured": false,
       "published_at": "2026-10-19T14:00:00.000Z",
       "score_quality": 88,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Jaeger-LeCoultre Duometre Grande Complication à Grande Sonnerie—A Pièce Unique Rewrites Calibre 182",
@@ -687,7 +727,7 @@
       "featured": false,
       "published_at": "2026-10-19T13:57:38.000Z",
       "score_quality": 74,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261019-bdaba37bfa07",
       "cluster_main": true
     },
@@ -1240,7 +1280,7 @@
       "score_quality": 64,
       "score_notif": 32,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "オメガと映画『007』のコラボモデル「シーマスター ダイバー300M ジェームズ・ボンド＆スペクター」2型が発表",
@@ -1291,7 +1331,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
@@ -1366,7 +1406,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -1551,7 +1591,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
@@ -1724,23 +1764,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261015-399ad46544ae",
-      "cluster_main": false
-    },
-    {
-      "title": "The new Hublot Classic Fusion Tributo looks to the past and future with serious upgrades",
-      "url": "https://timeandtidewatches.com/hublot-classic-fusion-tributo-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Hublot-Classic-Fusion-Tributo-21.jpg",
-      "peek_preview": "The new Hublot Classic Fusion Tributo takes inspiration from Carlo Crocco's original MDM designs that launched the brand. The post The new Hublot Classic Fusion Tributo looks to the past and future with serious upgrades...",
-      "categories": [
-        "Introducing"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T12:01:46.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20261015-5b89066bd3ad",
       "cluster_main": false
     },
     {
@@ -2027,7 +2050,7 @@
       "score_quality": 84,
       "score_notif": 32,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -2046,26 +2069,6 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261014-4f233e3c69dd",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Revised Glashütte Original 70s Watch Is An Understated, Excellent Dark Horse",
-      "url": "https://www.ablogtowatch.com/hands-on-the-revised-glashutte-original-70s-watch-is-an-understated-excellent-dark-horse/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Glashutte-Original-70s-LOR-Crop-768x346.jpg",
-      "peek_preview": "It’s not something that enthusiasts bring up very often, but the Glashütte Original 70s collection is technically Swatch Group’s flagship contender in the industry-spanning integrated bracelet sports watch arms race. Ce...",
-      "categories": [
-        "Hands-On",
-        "Integrated Bracelet Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-14T07:01:52.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261014-c547b681b418",
       "cluster_main": true
     },
     {
