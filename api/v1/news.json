@@ -1,6 +1,6 @@
 {
-  "content_hash": "616b11ab47a8706e31fcfbf553cd926fd6e20f996ae554eae65f8c0c39527e6f",
-  "last_updated": "2026-10-20T05:46:50.751Z",
+  "content_hash": "e2bcd824c1f31b4024f73ecf8ed7c5de43a0c030aed852780e30ba0e413eea0a",
+  "last_updated": "2026-10-20T06:47:14.820Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-20T05:00:06.000Z"
     },
     {
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-17T05:42:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-20T06:19:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -288,7 +288,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261016-87083efc6fc7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Debuts a Fully Blued-Out Version with Its New Type 10 Dark Night",
@@ -392,7 +392,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ode to a Legend with the Hublot Classic Fusion Tributo",
@@ -446,7 +446,7 @@
       "score_quality": 88,
       "score_notif": 68,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Jaeger-LeCoultre Duometre Grande Complication à Grande Sonnerie—A Pièce Unique Rewrites Calibre 182",
@@ -1196,7 +1196,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261016-87083efc6fc7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Biver AB is Time Only and All Quality",
@@ -1684,7 +1684,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -1703,7 +1703,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2425,23 +2425,6 @@
       "score_quality": 56,
       "score_notif": 24,
       "cluster": "20261010-7357fe0a787e",
-      "cluster_main": true
-    },
-    {
-      "title": "Weekend Reads: F.P. Journe, Pierre Jacques, and Chanel Give EBEL a Second Act, Lange at Audrain Newport Concours, and Armin Strom Goes Full Gold",
-      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-10-10",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
-      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
-      "categories": [
-        "Weekend Reads"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-10T13:34:58.000Z",
-      "score_quality": 24,
-      "score_notif": 12,
-      "cluster": "20261010-7429788e4bdc",
       "cluster_main": true
     }
   ]
