@@ -1,6 +1,6 @@
 {
-  "content_hash": "913e339ff822b71426eda2ef370b457ebe42c85454e4fc124232e9967a4903db",
-  "last_updated": "2026-10-21T07:46:56.932Z",
+  "content_hash": "034a36f1fe4ae08099813f3512a645c6988e4dd1cd16da1de4805b02439bcd5e",
+  "last_updated": "2026-10-21T08:47:17.661Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T07:00:52.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T07:01:25.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T07:00:59.000Z"
     },
     {
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-14T07:42:58.000Z"
     },
     {
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-20T06:19:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T08:25:15.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T20:35:11.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T08:34:05.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,44 @@
     }
   ],
   "items": [
+    {
+      "title": "Maurice Lacroix AIKON Chronograph 2026: Weniger Millimeter, mehr Profil",
+      "url": "https://www.uhrenkosmos.com/maurice-lacroix-aikon-chronograph-2026/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Graue-Zifferblattvariante-des-AIKON-Chronographen-Referenz-AI6218-SS002-630-1.jpg",
+      "peek_preview": "Zum zehnjährigen Jubiläum überarbeitet Maurice Lacroix seinen wichtigen Automatikchronographen. Das bieten die 5 Varianten des Maurice Lacroix AIKON Chronograph 2026 mit seinem ebenfalls überarbeiteten Kaliber ML112.",
+      "categories": [
+        "Aktuelle Uhren",
+        "Marken & Macher",
+        "Maurice Lacroix",
+        "Aikon",
+        "Chronograph"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-21T08:34:05.000Z",
+      "score_quality": 78,
+      "score_notif": 68,
+      "cluster": "20261021-ff110ad74eb0",
+      "cluster_main": true
+    },
+    {
+      "title": "Orient Mako GMT : la plongeuse japonaise culte passe en mode voyage",
+      "url": "https://www.welovewatches.fr/orient-mako-gmt-la-plongeuse-japonaise-culte-passe-en-mode-voyage.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-montres-orient-mako-gmt.jpg",
+      "peek_preview": "Depuis des années, l'Orient Mako fait figure de valeur sûre pour qui cherche une vraie montre de plongée automatique sans se ruiner. La légendaire plongeuse japonaise s'offre aujourd'hui une nouvelle corde à son arc :...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-21T08:25:15.000Z",
+      "score_quality": 72,
+      "score_notif": 70,
+      "cluster": "20261021-6cc6f311d413",
+      "cluster_main": true
+    },
     {
       "title": "Citizen The Citizen Japanese High-End Quartz Super Titanium Eco-Drive Watch Review",
       "url": "https://www.ablogtowatch.com/citizen-the-citizen-japanese-high-end-quartz-super-titanium-eco-drive-watch-review/",
@@ -591,7 +629,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -631,7 +669,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -718,7 +756,7 @@
       "score_quality": 65,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "‘Uncomplicated’ Americans: Notes from New York Watch Week",
@@ -1017,26 +1055,6 @@
       "score_quality": 27,
       "score_notif": 22,
       "cluster": "20261019-07f7269cd67f",
-      "cluster_main": true
-    },
-    {
-      "title": "Apple Watch Series 12 Ceramic Smartwatch Is The Future Tech We Were All Promised: Review",
-      "url": "https://www.ablogtowatch.com/apple-watch-series-12-ceramic-smartwatch-is-the-future-tech-we-were-all-promised-review/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Apple-Watch-Series-12-white-Ceramic-46mm-smartwatch-17-768x346.jpg",
-      "peek_preview": "I’ve been reviewing Apple Watches since the debut of Apple’s first smartwatch in 2014. Since then, a lot has changed, and a lot has stayed the same, as Apple diligently pursued its focused goals and achieved the status...",
-      "categories": [
-        "Wrist Time Reviews",
-        "Apple Watch",
-        "Smartwatches",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-19T07:01:35.000Z",
-      "score_quality": 70,
-      "score_notif": 34,
-      "cluster": "20261019-9f3d6d47c631",
       "cluster_main": true
     },
     {
@@ -2100,7 +2118,7 @@
       "score_quality": 76,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
@@ -2383,32 +2401,6 @@
       "score_quality": 77,
       "score_notif": 28,
       "cluster": "20261011-2d13dfbba663",
-      "cluster_main": true
-    },
-    {
-      "title": "Beyond the shadow: Six underrated watches from popular watch brands",
-      "url": "https://deployant.com/beyond-the-shadow-six-underrated-watches-from-popular-watch-brands/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-shadow-six-underrated-watches-from-popular-watch-brands",
-      "image": "https://deployant.com/wp-content/uploads/2015/04/patek-pilot-dial.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors When it comes to certain brands, there are always the flagship models that they are mostly known for. For example, the sports watches from Rolex, or the likes...",
-      "categories": [
-        "Opinion",
-        "Reviews",
-        "Watches",
-        "Audemars Piguet",
-        "lange",
-        "moser",
-        "patek philippe",
-        "rolex",
-        "throwback sunday",
-        "vacheron constantin"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-11T13:30:00.000Z",
-      "score_quality": 32,
-      "score_notif": 10,
-      "cluster": "20261011-9994d21b66af",
       "cluster_main": true
     }
   ]
