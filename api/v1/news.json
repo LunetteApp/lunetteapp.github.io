@@ -1,6 +1,6 @@
 {
-  "content_hash": "2832440701185cef5ac5328633b3ade7ccd75cf1acfc5318619ade249c63834a",
-  "last_updated": "2026-10-21T12:45:46.221Z",
+  "content_hash": "7548d93aee075e48d3464619e009bff63107a5a3fc79ed25fd722be7d3cd2beb",
+  "last_updated": "2026-10-21T13:47:40.166Z",
   "premium": {
     "links": []
   },
@@ -57,9 +57,9 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-20T07:00:00.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -106,14 +106,14 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.6,
+      "estimated_articles_per_day": 0.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T10:36:48.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T09:00:00.000Z"
     },
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T08:25:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T13:34:22.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,43 @@
     }
   ],
   "items": [
+    {
+      "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
+      "url": "https://www.welovewatches.fr/cpo-audemars-piguet-preparerait-le-lancement-de-son-programme-doccasion-certifiee.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/audemars_piguet_occasion_certifiee_une_1940x1280.jpg",
+      "peek_preview": "Selon WatchPro, Audemars Piguet devrait présenter son programme Certified Pre-Owned avant la fin du mois. Le projet donnerait une nouvelle ampleur à une activité que la manufacture teste depuis plusieurs années. Mais la...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-21T13:34:22.000Z",
+      "score_quality": 48,
+      "score_notif": 66,
+      "cluster": "20261021-1961db4430b7",
+      "cluster_main": true
+    },
+    {
+      "title": "New Oct 26: Citizen Attesa Ever Since Eco-Drive Radio Controlled",
+      "url": "https://deployant.com/new-oct-26-citizen-attesa-ever-since-eco-drive-radio-controlled/?utm_source=rss&utm_medium=rss&utm_campaign=new-oct-26-citizen-attesa-ever-since-eco-drive-radio-controlled",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/BY1000-69L_42_WEARING3.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Citizen continues to leverage on their leadership in the radio contolled watch space with the release of the Ever Since Limited Edition, with a dial which evo...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "attesa"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-21T13:30:00.000Z",
+      "score_quality": 42,
+      "score_notif": 63,
+      "cluster": "20261021-6a7aa90d24b8",
+      "cluster_main": true
+    },
     {
       "title": "Panerai shrinks its Luminor without compromising one bit",
       "url": "https://timeandtidewatches.com/panerai-luminor-42mm-pam01710-pam01711-pam01714-hands-on/",
@@ -710,7 +747,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -750,7 +787,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -986,7 +1023,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ode to a Legend with the Hublot Classic Fusion Tributo",
@@ -1040,7 +1077,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Jaeger-LeCoultre Duometre Grande Complication à Grande Sonnerie—A Pièce Unique Rewrites Calibre 182",
@@ -1077,7 +1114,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -1639,7 +1676,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -1788,7 +1825,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Pequignet Royale Paris Moon Phase Watch Review: 39.5mm Of Hot And Cold From France",
@@ -1880,7 +1917,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: Hublot Classic Fusion Tributo",
@@ -2385,43 +2422,6 @@
       "score_quality": 31,
       "score_notif": 18,
       "cluster": "20261012-37e730d146e9",
-      "cluster_main": true
-    },
-    {
-      "title": "Cartoline dall’Italia: i mestieri d’arte Patek Philippe alla WAGE",
-      "url": "https://giornaleorologi.it/2026/10/12/mestieri-darte-patek-philippe-wage-milano/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/apertura_Roma_di_notte-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Cartoline dall’Italia: i mestieri d’arte Patek Philippe alla WAGE C’è ancora quasi una settimana di tempo per visitare la Watch Art Grand Exhibition di Patek Philippe, allestita al CityOval di...",
-      "categories": [
-        "Eventi",
-        "mestieri rari",
-        "Patek Philippe",
-        "Watch Art Grand Exhibition Patek Philippe Milano 2026"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-12T11:00:16.000Z",
-      "score_quality": 59,
-      "score_notif": 34,
-      "cluster": "20261012-23fbb1b17174",
-      "cluster_main": true
-    },
-    {
-      "title": "Hamilton American Classic Cushion : un voyage d’un siècle dans le temps",
-      "url": "https://www.welovewatches.fr/hamilton-american-classic-cushion-un-voyage-dun-siecle-dans-le-temps.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-montres-hamilton-american-classic-cushion.jpg",
-      "peek_preview": "Il y a des montres qui se contentent de rendre hommage au passé, et d'autres qui semblent tout droit sorties d'un tiroir oublié depuis un siècle. La nouvelle Hamilton American Classic Cushion appartient clairement à...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-12T10:34:19.000Z",
-      "score_quality": 58,
-      "score_notif": 33,
-      "cluster": "20261012-a041fd6372e5",
       "cluster_main": true
     }
   ]
