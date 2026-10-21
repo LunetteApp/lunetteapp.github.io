@@ -1,6 +1,6 @@
 {
-  "content_hash": "4a150f6dcd3d2f762d54d4782e96cb9ea52cd02dcb3493e6af4937f56adc903c",
-  "last_updated": "2026-10-21T02:47:21.032Z",
+  "content_hash": "8b398162e1e08f2166cbeb3ee80f99f9af136551544e1e0d975a3f01a147b52d",
+  "last_updated": "2026-10-21T03:46:42.931Z",
   "premium": {
     "links": []
   },
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T00:00:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T03:00:13.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "G-SHOCKがブラックアイパッチとのコラボレーションモデル第3弾として「DW-5600」を発表！",
+      "url": "https://www.webchronos.net/news/176341/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/CS_bg_1.webp",
+      "peek_preview": "カシオが「G-SHOCK」より、東京のストリートブランドであるBlackEyePatch（ブラックアイパッチ）とのコラボレーションモデルを発表した。G-SHOCKの初号機「DW-5000C」のDNAを受け継ぐ「DW-56 […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-21T03:00:13.000Z",
+      "score_quality": 64,
+      "score_notif": 64,
+      "cluster": "20261021-408fb5753590",
+      "cluster_main": true
+    },
     {
       "title": "Industrial Artisanship and the Paradox of Independence",
       "url": "https://watchesbysjx.com/2026/10/industrial-artisanship-paradox-independence-editorial.html",
@@ -610,7 +625,7 @@
       "featured": false,
       "published_at": "2026-10-20T03:00:48.000Z",
       "score_quality": 78,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261020-2570a8deae6b",
       "cluster_main": true
     },
@@ -797,7 +812,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ode to a Legend with the Hublot Classic Fusion Tributo",
@@ -851,7 +866,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Jaeger-LeCoultre Duometre Grande Complication à Grande Sonnerie—A Pièce Unique Rewrites Calibre 182",
@@ -1681,21 +1696,6 @@
       "cluster_main": true
     },
     {
-      "title": "モリッツ・グロスマンが新作「ベヌー パワーリザーブ ブラック」を発表！アンスラサイトカラーで統一した２種の限定モデル",
-      "url": "https://www.webchronos.net/news/175912/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/MG_13_1.webp",
-      "peek_preview": "モリッツ・グロスマンは、ブランド名の由来となった時計師の生誕200周年を記念し、新作「ベヌー パワーリザーブ ブラック」を発表した。アンスラサイトカラーのダイアルに、サテン仕上げのステンレススティールケース、またはDLC […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-16T03:00:02.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20261016-9fb273452c71",
-      "cluster_main": true
-    },
-    {
       "title": "The new Papar Vuelte combines its thinnest case yet with a wandering hour complication",
       "url": "https://timeandtidewatches.com/papar-vuelte-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Papar-Vuelte-Feature-3.jpg",
@@ -1884,7 +1884,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Urwerk UR-300 Time Quantum",
@@ -1904,7 +1904,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
