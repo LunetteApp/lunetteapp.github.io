@@ -1,6 +1,6 @@
 {
-  "content_hash": "2380dea2595d6a0e2c3c33aa2b8bbcf649ad9c822d2e9b0043264cdf95957e28",
-  "last_updated": "2026-10-21T00:46:48.670Z",
+  "content_hash": "fdc46f97e55ae1301d237bd5fbd09b49f2312127ed9afe02b44ce1021048e7c5",
+  "last_updated": "2026-10-21T01:47:01.789Z",
   "premium": {
     "links": []
   },
@@ -29,9 +29,9 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-20T14:00:47.000Z"
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T01:30:37.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-20T07:00:59.000Z"
+      "estimated_articles_per_day": 1.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T01:00:25.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T00:00:16.000Z"
     },
     {
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Industrial Artisanship and the Paradox of Independence",
+      "url": "https://watchesbysjx.com/2026/10/industrial-artisanship-paradox-independence-editorial.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2025/01/greubel-forsey-hand-made-1-tourbillon-cage-300x200.jpg",
+      "peek_preview": "Independent watchmaking is often discussed as a world apart from the work of major brands. But the distinction becomes less clear when we look at how specific watches are made and who makes them, especially when it come...",
+      "categories": [
+        "Opinions",
+        "Editorials",
+        "Independent watchmaking"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-21T01:00:25.000Z",
+      "score_quality": 84,
+      "score_notif": 24,
+      "cluster": "20261021-e9efd8e94436",
+      "cluster_main": true
+    },
     {
       "title": "カシオがオシアナス「カシャロ」の新作「OCW-P3000」を発表。各都市の時刻を即座に把握できるワールドタイム機構「タイムゾーンナビゲーター」を搭載",
       "url": "https://www.webchronos.net/news/176354/",
@@ -350,7 +369,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Portrait – Tested Beyond Endurance – A Conversation with Aldo Kane about Bremont Watches",
@@ -481,7 +500,7 @@
       "score_quality": 85,
       "score_notif": 67,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -521,7 +540,7 @@
       "score_quality": 82,
       "score_notif": 67,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -608,7 +627,7 @@
       "score_quality": 65,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "‘Uncomplicated’ Americans: Notes from New York Watch Week",
@@ -735,7 +754,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Brew brings a NYC icon to the wrist with new Brew Metric Chrono Taxi",
@@ -1638,7 +1657,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Pequignet Royale Paris Moon Phase Watch Review: 39.5mm Of Hot And Cold From France",
@@ -1764,7 +1783,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Christopher Ward C1 Loco Classic proves a change of clothes can make all the difference",
@@ -1964,27 +1983,6 @@
       "cluster_main": true
     },
     {
-      "title": "New Release: Jack Mason Strat-O-Timer 42 Dr Pepper 2026 Limited-Edition Watch Refreshes The Original Flavor",
-      "url": "https://www.ablogtowatch.com/new-release-jack-mason-strat-o-timer-42-dr-pepper-2026-limited-edition-watch-refreshes-the-original-flavor/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Jack-Mason-Strat-O-Timer-42-Dr-Pepper-2026-Limited-Edition-Watch-768x346.jpg",
-      "peek_preview": "Just like Jack Mason, the famous soda company Dr Pepper originates from the state of Texas, and since 2023, the two American brands have been teaming up to create limited-edition versions of Jack Mason’s flagship Strat-...",
-      "categories": [
-        "Watch Releases",
-        "Collaborations",
-        "GMT Watches",
-        "Limited Edition Watches",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-14T13:00:14.000Z",
-      "score_quality": 66,
-      "score_notif": 34,
-      "cluster": "20261014-82a6e463060a",
-      "cluster_main": true
-    },
-    {
       "title": "New: Czapek Antarctique Tourbillon – Victory Green",
       "url": "https://deployant.com/new-czapek-antarctique-tourbillon-victory-green/?utm_source=rss&utm_medium=rss&utm_campaign=new-czapek-antarctique-tourbillon-victory-green",
       "image": "https://deployant.com/wp-content/uploads/2026/10/DSC05183-for-deployant.jpeg",
@@ -2108,7 +2106,7 @@
       "score_quality": 76,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
@@ -2371,25 +2369,6 @@
       "score_quality": 58,
       "score_notif": 33,
       "cluster": "20261012-a041fd6372e5",
-      "cluster_main": true
-    },
-    {
-      "title": "The Art of Cloisonné at Patek Philippe",
-      "url": "https://watchesbysjx.com/2026/10/patek-philippe-cloisonne.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2022/05/patek-philippe-dome-clock-20145M-001-Singapore-Skyline-cortina-50th-15-300x200.jpg",
-      "peek_preview": "For some eight decades, Patek Philippe has been an important patron of cloisonné enamel, commissioning work that helped sustain the craft when demand for it had all but disappeared. From the enamel maps of Louis Cottier...",
-      "categories": [
-        "Knowledge",
-        "Cloisonné",
-        "Patek Philippe"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-12T01:00:56.000Z",
-      "score_quality": 86,
-      "score_notif": 24,
-      "cluster": "20261012-7dae4dc13952",
       "cluster_main": true
     },
     {
