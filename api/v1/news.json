@@ -1,6 +1,6 @@
 {
-  "content_hash": "034a36f1fe4ae08099813f3512a645c6988e4dd1cd16da1de4805b02439bcd5e",
-  "last_updated": "2026-10-21T08:47:17.661Z",
+  "content_hash": "a998596289ad82473fba6539aa5d340723e66659c8f4c15a53357da31c28ee73",
+  "last_updated": "2026-10-21T09:47:03.466Z",
   "premium": {
     "links": []
   },
@@ -113,9 +113,9 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T09:30:00.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T09:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T08:25:15.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T08:34:05.000Z"
     },
     {
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Citizen, viaggio nell’Eco-Drive: intervista a Shinnosuke Sakata",
+      "url": "https://giornaleorologi.it/2026/10/21/citizen-eco-drive-intervista-shinnosuke-sakata/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/20151112_HIW_vertical_blight-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Citizen, viaggio nell’Eco-Drive: intervista a Shinnosuke Sakata Come avete già avuto modo di leggere in questo articolo, nel 2026 Citizen festeggia i 50 anni della tecnologia Eco-Drive. Ha scel...",
+      "categories": [
+        "Protagonisti",
+        "Citizen",
+        "Citizen Eco-Drive",
+        "Intervista"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-21T09:00:00.000Z",
+      "score_quality": 72,
+      "score_notif": 45,
+      "cluster": "20261021-a12de6f5cfdd",
+      "cluster_main": true
+    },
     {
       "title": "Maurice Lacroix AIKON Chronograph 2026: Weniger Millimeter, mehr Profil",
       "url": "https://www.uhrenkosmos.com/maurice-lacroix-aikon-chronograph-2026/",
@@ -587,7 +607,7 @@
       "featured": false,
       "published_at": "2026-10-20T09:01:47.000Z",
       "score_quality": 82,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261020-6ee87e5481cc",
       "cluster_main": false
     },
@@ -605,7 +625,7 @@
       "featured": false,
       "published_at": "2026-10-20T09:00:23.000Z",
       "score_quality": 74,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261020-6ee87e5481cc",
       "cluster_main": true
     },
@@ -905,7 +925,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ode to a Legend with the Hublot Classic Fusion Tributo",
@@ -959,7 +979,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Jaeger-LeCoultre Duometre Grande Complication à Grande Sonnerie—A Pièce Unique Rewrites Calibre 182",
@@ -1859,7 +1879,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -1878,7 +1898,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
