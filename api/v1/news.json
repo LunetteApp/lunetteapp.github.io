@@ -1,6 +1,6 @@
 {
-  "content_hash": "7548d93aee075e48d3464619e009bff63107a5a3fc79ed25fd722be7d3cd2beb",
-  "last_updated": "2026-10-21T13:47:40.166Z",
+  "content_hash": "0899685e44a0942870e4ccd635de59171ec6863a318a12a7cf7e305c29c6c841",
+  "last_updated": "2026-10-21T14:47:36.638Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T05:00:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T14:00:10.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T10:00:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T13:00:02.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T07:01:25.000Z"
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-10-21T14:01:59.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -57,8 +57,8 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T13:30:00.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T13:34:22.000Z"
     },
     {
@@ -176,6 +176,24 @@
   ],
   "items": [
     {
+      "title": "The New Unimatic Modello Quattro U4S-NPB Reflects The Moods Of Piedmont’s Langhe Region",
+      "url": "https://www.fratellowatches.com/hands-on-new-unimatic-modello-quattro-u4s-npb/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Unimatic-Piedmonte-Langhe-Collection-4.jpg",
+      "peek_preview": "Autumn is a season of moods, as we see in everything from the famous colors of Indian summers in New England to the striking landscapes of Central Europe during “old women’s summers.” Italy’s regions also offer distinct...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-21T14:00:10.000Z",
+      "score_quality": 76,
+      "score_notif": 64,
+      "cluster": "20261021-ddbe87302978",
+      "cluster_main": true
+    },
+    {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
       "url": "https://www.welovewatches.fr/cpo-audemars-piguet-preparerait-le-lancement-de-son-programme-doccasion-certifiee.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/audemars_piguet_occasion_certifiee_une_1940x1280.jpg",
@@ -213,6 +231,28 @@
       "cluster_main": true
     },
     {
+      "title": "First Look – The Goddess Returns to Villeret on the Minerva Exo Tourbillon Skeleton Limited Edition",
+      "url": "https://monochrome-watches.com/minerva-goddess-returns-to-villeret-on-the-minerva-exo-tourbillon-skeleton-limited-edition-18-ref-137551-review/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-Minerva-Exo-Tourbillon-Skeleton-Limited-Edition-18-Minerva-Goddess-face-review-11-600x237.jpg",
+      "peek_preview": "The Minerva Exo Tourbillon Skeleton marks the manufacture’s transition to a standalone brand structure, dropping the previous dual Montblanc branding to focus entirely on its own heritage. Limited to just 18 pieces in r...",
+      "categories": [
+        "Minerva",
+        "2026",
+        "High-end Watches",
+        "Novelty",
+        "Skeleton Watches",
+        "Tourbillon"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-21T13:00:02.000Z",
+      "score_quality": 84,
+      "score_notif": 71,
+      "cluster": "20261021-87947148ce53",
+      "cluster_main": true
+    },
+    {
       "title": "Panerai shrinks its Luminor without compromising one bit",
       "url": "https://timeandtidewatches.com/panerai-luminor-42mm-pam01710-pam01711-pam01714-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/panerai-luminor-42-12.jpg",
@@ -237,7 +277,7 @@
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
       "url": "https://www.orologidiclasse.com/fossil-signature-cs-1-automatico-svizzero-anteprima/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/fossil-signature-cs-1-automatico.jpg",
-      "peek_preview": "Ci sono notizie che arrivano in sordina, senza comunicati stampa, senza eventi di lancio, senza il clamore che ormai accompagna ogni nuova referenza nell’industria orologiera. Basta essere sempre in guardia. Questa è un...",
+      "peek_preview": "Ci sono notizie che arrivano in sordina, senza comunicati stampa, senza eventi di lancio, senza il clamore che ormai accompagna ogni nuova referenza nell’industria orologiera. Basta stare sempre in guardia. Questa è una...",
       "categories": [
         "Hot News",
         "Cronografo"
@@ -747,7 +787,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -787,7 +827,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -1023,7 +1063,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ode to a Legend with the Hublot Classic Fusion Tributo",
@@ -1077,7 +1117,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261019-f0abfe23aa0e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Jaeger-LeCoultre Duometre Grande Complication à Grande Sonnerie—A Pièce Unique Rewrites Calibre 182",
@@ -1114,7 +1154,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -1281,24 +1321,6 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261018-19e6c80b1b1e",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On With The Orient Flusso — A New Affordable Integrated-Bracelet Contender",
-      "url": "https://www.fratellowatches.com/hands-on-orient-flusso/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Orient-Flusso-2.jpg",
-      "peek_preview": "Last month, Orient launched the new Flusso, an integrated-bracelet sports watch inspired by the brand’s historic Super King (“SK”) models. The watch combines vintage influences with a contemporary design language, signa...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-18T09:00:51.000Z",
-      "score_quality": 81,
-      "score_notif": 29,
-      "cluster": "20261018-b6d8410ca32d",
       "cluster_main": true
     },
     {
@@ -1676,7 +1698,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -1825,7 +1847,7 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Pequignet Royale Paris Moon Phase Watch Review: 39.5mm Of Hot And Cold From France",
@@ -1917,7 +1939,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261015-e04d7d6078fc",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands On: Hublot Classic Fusion Tributo",
@@ -1938,25 +1960,6 @@
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
       "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
-      "url": "https://www.ablogtowatch.com/hands-on-hublot-classic-fusion-tributo-watches-with-manufacture-movement/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Hublot-Classic-Fusion-Tributo-Gold-Rubber-Luxury-Watches-8-768x346.jpg",
-      "peek_preview": "When I say “manufacture” I mean that of Zenith, not Hublot. Gosh, almost exactly five years after I wrote about them, I am still haunted by The Inconsistencies & Current State Of “In-House” Watch Movements. Something I...",
-      "categories": [
-        "Hands-On",
-        "Hublot Classic Fusion",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T12:00:07.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2213,7 +2216,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -2307,7 +2310,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Baltic Hermétique The Rift : la field watch parisienne part rouler en Islande, et passe à 34 mm",
@@ -2379,49 +2382,6 @@
       "score_quality": 37,
       "score_notif": 22,
       "cluster": "20261012-e2df9b15caed",
-      "cluster_main": true
-    },
-    {
-      "title": "Zenith und Cohiba: Wie Jean-Claude Biver die ungewöhnliche Partnerschaft einfädelte",
-      "url": "https://www.uhrenkosmos.com/javier-terrez-von-cohiba-ueber-die-zusammenarbeit-mit-zenith-uhrenmarke/",
-      "image": null,
-      "peek_preview": "Was verbindet Schweizer Chronographen mit kubanischen Premiumzigarren? Im Jahr 2016 feierten Zenith und Cohiba den 50. Geburtstag der Zigarrenmarke mit einer limitierten El Primero Edition. Doch die Idee dazu entstand s...",
-      "categories": [
-        "Zenith",
-        "Chrono Sapiens",
-        "Im Interview",
-        "Armbanduhr",
-        "Cohiba",
-        "Luxusuhr",
-        "mechanische Uhr",
-        "uhrenblog"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-12T14:50:00.000Z",
-      "score_quality": 63,
-      "score_notif": 21,
-      "cluster": "20261012-5a8f7e1f5732",
-      "cluster_main": true
-    },
-    {
-      "title": "The Collector’s View or ‘OMG what have I done?’ or even ‘How to devastate your savings’",
-      "url": "https://deployant.com/the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/daryll-lotec-case.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Audemars Piguet, Patek Philippe, A. Lange & Sohne. All excellent, but they started a journey towards independent watchmaking. We invite you to read this cauti...",
-      "categories": [
-        "Opinion",
-        "People",
-        "Watches"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-12T13:30:00.000Z",
-      "score_quality": 31,
-      "score_notif": 18,
-      "cluster": "20261012-37e730d146e9",
       "cluster_main": true
     }
   ]
