@@ -1,6 +1,6 @@
 {
-  "content_hash": "fdc46f97e55ae1301d237bd5fbd09b49f2312127ed9afe02b44ce1021048e7c5",
-  "last_updated": "2026-10-21T01:47:01.789Z",
+  "content_hash": "4a150f6dcd3d2f762d54d4782e96cb9ea52cd02dcb3493e6af4937f56adc903c",
+  "last_updated": "2026-10-21T02:47:21.032Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T01:30:37.000Z"
     },
     {
@@ -71,8 +71,8 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.3,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T01:00:25.000Z"
     },
     {
@@ -500,7 +500,7 @@
       "score_quality": 85,
       "score_notif": 67,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -540,7 +540,7 @@
       "score_quality": 82,
       "score_notif": 67,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -1884,7 +1884,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Urwerk UR-300 Time Quantum",
@@ -1904,7 +1904,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
@@ -2415,6 +2415,33 @@
       "score_quality": 32,
       "score_notif": 10,
       "cluster": "20261011-9994d21b66af",
+      "cluster_main": true
+    },
+    {
+      "title": "JPH: la firma del maestro Jean-Pierre Hagmann che trasformò la cassa in arte",
+      "url": "https://italianwatchspotter.com/jph-la-firma-di-jean-pierre-hagmann/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/09/Revolution-Watch_Jean-Pierre-Hagmann-watchmaker-1024x683.jpg",
+      "peek_preview": "Ci sono storie in orologeria che semplicemente vanno oltre al nome riportato sul quadrante. Non si tratta solo di grandi nomi, brand altisonanti o loghi blasonati; a volte, per fare impazzire i collezionisti bastano pic...",
+      "categories": [
+        "Guide ed Approfondimenti",
+        "audemars piguet",
+        "Blancpain",
+        "Breguet",
+        "franck muller",
+        "Gerald Genta",
+        "Hagmann",
+        "JPH",
+        "Patek Philippe",
+        "rolex",
+        "Vacheron Constantin"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-11T10:00:00.000Z",
+      "score_quality": 78,
+      "score_notif": 22,
+      "cluster": "20261011-eedd127bc6df",
       "cluster_main": true
     }
   ]
