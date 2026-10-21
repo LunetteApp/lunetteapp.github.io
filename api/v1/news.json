@@ -1,6 +1,6 @@
 {
-  "content_hash": "a998596289ad82473fba6539aa5d340723e66659c8f4c15a53357da31c28ee73",
-  "last_updated": "2026-10-21T09:47:03.466Z",
+  "content_hash": "6ea88aa4bb5496461f2b7193632ae259c52bedf3fe7328e876eab5ef2f15995b",
+  "last_updated": "2026-10-21T10:47:29.908Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T07:00:52.000Z"
+      "estimated_articles_per_day": 3.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T10:00:28.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -106,15 +106,15 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-19T12:48:20.000Z"
+      "estimated_articles_per_day": 0.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T10:36:48.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T09:00:00.000Z"
     },
     {
@@ -175,6 +175,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
+      "url": "https://www.orologidiclasse.com/fossil-signature-cs-1-automatico-svizzero-anteprima/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/fossil-signature-cs-1-automatico.jpg",
+      "peek_preview": "Ci sono notizie che arrivano in sordina, senza comunicati stampa, senza eventi di lancio, senza il clamore che ormai accompagna ogni nuova referenza nell’industria orologiera. Basta essere sempre in guardia. Questa è un...",
+      "categories": [
+        "Hot News",
+        "Cronografo"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-21T10:36:48.000Z",
+      "score_quality": 38,
+      "score_notif": 63,
+      "cluster": "20261021-4b6afacc2908",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The Mexican-Themed Chopard L.U.C Full Strike Día de los Muertos Edition 13",
+      "url": "https://monochrome-watches.com/2026-chopard-l-u-c-full-strike-dia-de-los-muertos-edition-13-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-Chopard-L.U.C-Full-Strike-Dia-de-los-Muertos-Edition-13-1-600x237.jpg",
+      "peek_preview": "Chopard continues its tribute to Mexican culture with the thirteenth interpretation of its L.U.C Full Strike. This latest one-of-a-kind “Día de los Muertos” creation pairs one of the manufacture’s most technically accom...",
+      "categories": [
+        "Chopard",
+        "2026",
+        "High-end Watches",
+        "Metiers d'Arts",
+        "Novelty",
+        "Repeater"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-21T10:00:28.000Z",
+      "score_quality": 85,
+      "score_notif": 32,
+      "cluster": "20261019-94fd4e0182f9",
+      "cluster_main": true
+    },
     {
       "title": "Citizen, viaggio nell’Eco-Drive: intervista a Shinnosuke Sakata",
       "url": "https://giornaleorologi.it/2026/10/21/citizen-eco-drive-intervista-shinnosuke-sakata/",
@@ -516,9 +556,9 @@
       "featured": false,
       "published_at": "2026-10-20T13:18:41.000Z",
       "score_quality": 76,
-      "score_notif": 34,
+      "score_notif": 32,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Portrait – Tested Beyond Endurance – A Conversation with Aldo Kane about Bremont Watches",
@@ -649,7 +689,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -689,7 +729,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -812,7 +852,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
@@ -901,7 +941,7 @@
       "featured": false,
       "published_at": "2026-10-19T15:57:32.000Z",
       "score_quality": 76,
-      "score_notif": 34,
+      "score_notif": 32,
       "cluster": "20261019-94fd4e0182f9",
       "cluster_main": false
     },
@@ -1113,27 +1153,6 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261019-2a8a2c0b9c9a",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Union Glashütte Introduces the More Compact Belisar Chronograph Speedster 2026",
-      "url": "https://monochrome-watches.com/union-glashutte-brings-the-more-compact-belisar-chronograph-speedster-2026/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Union-Glashutte-Belisar-Chronograph-Speedster-2026-Limited-Edition-1-600x237.jpg",
-      "peek_preview": "Founded in 1893 by Johannes Dürrstein in the Saxon town of Glashütte, Union Glashütte set out to make high-quality German watchmaking accessible to a wider audience. Today, part of the Swatch Group, the brand combines t...",
-      "categories": [
-        "Union Glashütte",
-        "2026",
-        "Cars and Watches",
-        "Chronographs",
-        "Sports watch"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-19T07:00:12.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261019-747206043390",
       "cluster_main": true
     },
     {
@@ -1524,7 +1543,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
@@ -1879,7 +1898,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -1898,7 +1917,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2401,26 +2420,6 @@
       "score_quality": 58,
       "score_notif": 33,
       "cluster": "20261012-a041fd6372e5",
-      "cluster_main": true
-    },
-    {
-      "title": "Voutilainen 28MPR: l’addio al Vingt-8 diventa un capolavoro con fase lunare – in anteprima al WatchTime New York 2026",
-      "url": "https://www.orologidiclasse.com/voutilainen-28mpr-2026/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/voutilainen-28mpr-2026-acciaio-tre-quarti.jpg",
-      "peek_preview": "Dal 16 al 18 ottobre, al WatchTime New York, Voutilainen esporrà quello che probabilmente è l’orologio più significativo che abbia mai realizzato. Non perché sia il più complicato, né il più costoso. Ma perché il Voutil...",
-      "categories": [
-        "Novità Orologi",
-        "Alta Orologeria",
-        "Fasi Lunari",
-        "Orologiai Indipendenti"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-11T22:30:29.000Z",
-      "score_quality": 77,
-      "score_notif": 28,
-      "cluster": "20261011-2d13dfbba663",
       "cluster_main": true
     }
   ]
