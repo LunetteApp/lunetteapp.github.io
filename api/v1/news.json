@@ -1,6 +1,6 @@
 {
-  "content_hash": "20eb439680176b8bfafde7f5e21bc96c0d77b66536f6b3e08454a7c098cc0fd1",
-  "last_updated": "2026-10-21T18:45:54.152Z",
+  "content_hash": "ca99545c64bff4ae8f4b27d4143f42be935a0a993dada129d339ce7ba3a1c8fc",
+  "last_updated": "2026-10-21T19:48:09.443Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T16:00:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T19:00:12.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -176,6 +176,24 @@
   ],
   "items": [
     {
+      "title": "To Carry and To Keep: The Tudor Watches of Warriors",
+      "url": "https://wornandwound.com/to-carry-and-to-keep-the-tudor-watches-of-warriors/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Tudor-San-Diego-17.jpg",
+      "peek_preview": "“In times of war or uncertainty there is a special breed of warrior ready to answer our nation’s call. A common man with uncommon desire to succeed… I am that man.” –U.S. Navy SEAL Code A Note Writing about the military...",
+      "categories": [
+        "Featured",
+        "Tudor"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-21T19:00:12.000Z",
+      "score_quality": 60,
+      "score_notif": 26,
+      "cluster": "20261021-4c3a9ec54057",
+      "cluster_main": true
+    },
+    {
       "title": "Just Because: Nine Incredible Watches I Saw Inside The Archives At A. Lange & Söhne HQ",
       "url": "https://www.hodinkee.com/articles/nine-incredible-watches-i-saw-inside-the-archives-at-a-lange-and-sohne-hq",
       "image": "https://hodinkee.imgix.net/uploads/articles/a2feabe2-c34b-43d8-ad33-6254961e8e97/tan2h-lange-archives-visit-04190.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -317,7 +335,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -435,8 +453,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster": "20261021-1cc9b16f5c8e",
+      "cluster_main": true
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -952,7 +970,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -992,7 +1010,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -1079,7 +1097,7 @@
       "score_quality": 65,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "‘Uncomplicated’ Americans: Notes from New York Watch Week",
@@ -1297,7 +1315,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -1554,7 +1572,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -1696,7 +1714,7 @@
       "score_quality": 64,
       "score_notif": 32,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "オメガと映画『007』のコラボモデル「シーマスター ダイバー300M ジェームズ・ボンド＆スペクター」2型が発表",
@@ -1822,7 +1840,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -1842,7 +1860,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Monta Introduces a Pair of Limited Editions to Celebrate their Tenth Anniversary",
@@ -1965,24 +1983,6 @@
       "cluster_main": true
     },
     {
-      "title": "De Rijke & Co. Makes the Capri Collection a Permanent Fixture of Its Catalog with Three Staple Colorways",
-      "url": "https://wornandwound.com/de-rijke-co-makes-the-capri-collection-a-permanent-fixture-of-its-catalog-with-three-staple-colorways/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Capri-Trio-Navy-v3.jpg",
-      "peek_preview": "At Windup last fall, De Rijke & Co. made a surprise unveiling of the Capri collection, marked by its distinctive ultra-thin rectangular case, unique curved sapphire crystal, integrated shrouded lugs, and stone dials. As...",
-      "categories": [
-        "News & Releases",
-        "De Rijke & Co."
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T20:00:08.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261015-aa8fa19f63ac",
-      "cluster_main": true
-    },
-    {
       "title": "We Love Watches 2026 : retour sur une édition réussie à la Maison de la Mutualité",
       "url": "https://www.welovewatches.fr/we-love-watches-2026-retour-sur-une-edition-reussie-a-la-maison-de-la-mutualite.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/retour-salon-horloger-we-love-watches-2026-maison-de-la-mutualite.jpg",
@@ -2035,7 +2035,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2237,7 +2237,7 @@
       "score_quality": 84,
       "score_notif": 32,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -2275,7 +2275,7 @@
       "score_quality": 76,
       "score_notif": 24,
       "cluster": "20261014-17c309287266",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
@@ -2292,7 +2292,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
@@ -2386,7 +2386,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261013-add4892e047e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Baltic Hermétique The Rift : la field watch parisienne part rouler en Islande, et passe à 34 mm",
