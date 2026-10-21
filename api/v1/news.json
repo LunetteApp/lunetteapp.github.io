@@ -1,6 +1,6 @@
 {
-  "content_hash": "8b398162e1e08f2166cbeb3ee80f99f9af136551544e1e0d975a3f01a147b52d",
-  "last_updated": "2026-10-21T03:46:42.931Z",
+  "content_hash": "69e35cb058aecc9398151d4330ddfcdb38ba2cbb10bccc486a51d5d4efbf486f",
+  "last_updated": "2026-10-21T05:46:49.698Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-20T18:00:13.000Z"
+      "estimated_articles_per_day": 3.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-21T05:00:15.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-21T03:00:13.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Four New Blacked-Out Certina DS Action Watches: Two 38mm Divers And Two Quartz Chronos",
+      "url": "https://www.fratellowatches.com/introducing-four-blacked-out-certina-ds-action-watches/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Certina-collage.jpg",
+      "peek_preview": "Certina introduces us to four blacked-out DS Action watches. The black-coated steel DS Action Diver 38mm comes in two colorways, with orange or green details. The quartz-powered DS Action Chrono pairs an all-black exter...",
+      "categories": [
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-21T05:00:15.000Z",
+      "score_quality": 76,
+      "score_notif": 66,
+      "cluster": "20261021-4404688bad18",
+      "cluster_main": true
+    },
     {
       "title": "G-SHOCKがブラックアイパッチとのコラボレーションモデル第3弾として「DW-5600」を発表！",
       "url": "https://www.webchronos.net/news/176341/",
@@ -422,7 +440,7 @@
       "score_quality": 64,
       "score_notif": 65,
       "cluster": "20261020-4974d2d9854b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Timex Intrepid x Dimepiece ‘Blackout’ Edition",
@@ -437,7 +455,7 @@
       "score_quality": 74,
       "score_notif": 65,
       "cluster": "20261020-4974d2d9854b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fratello On Air: What Will It Take To Turn The Vintage Speedmaster Market Around?",
@@ -515,7 +533,7 @@
       "score_quality": 85,
       "score_notif": 67,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -555,7 +573,7 @@
       "score_quality": 82,
       "score_notif": 67,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -610,7 +628,7 @@
       "featured": false,
       "published_at": "2026-10-20T05:00:06.000Z",
       "score_quality": 78,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261020-b147256beff5",
       "cluster_main": true
     },
@@ -1168,23 +1186,6 @@
       "score_quality": 82,
       "score_notif": 29,
       "cluster": "20261018-282d410b194c",
-      "cluster_main": true
-    },
-    {
-      "title": "Sunday Morning Showdown: Tudor Royal Vs. Rolex Oysterquartz Datejust",
-      "url": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-royal-vs-rolex-oysterquartz-datejust/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Tudor-Royal_VS-Rolex_Oysterquartz-HEADER.jpg",
-      "peek_preview": "It’s Sunday morning, so it’s time for a hot cup of coffee, some breakfast, and another installment in our ongoing Sunday Morning Showdown series. This week, the question is whether you’ll go modern or vintage. Daan pick...",
-      "categories": [
-        "Sunday Morning Showdown"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-18T05:00:36.000Z",
-      "score_quality": 54,
-      "score_notif": 23,
-      "cluster": "20261018-281899de1614",
       "cluster_main": true
     },
     {
@@ -1823,7 +1824,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Hublot Classic Fusion Tributo Watches With Manufacture Movement",
@@ -1842,7 +1843,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
