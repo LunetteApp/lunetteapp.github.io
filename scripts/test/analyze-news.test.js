@@ -43,7 +43,7 @@ function historyFor(articles) {
   };
 }
 
-test("the batch contains short previews, titles, sources, languages, and no article URLs", () => {
+test("CSV input retains short previews, titles, sources and languages without article URLs", () => {
   const articles = [article({
     title: "  A precise\nwatch headline  ",
     url: "https://example.com/never-send-this-url",
@@ -54,12 +54,46 @@ test("the batch contains short previews, titles, sources, languages, and no arti
 
   const prompt = analysisPrompt(articles, new Date("2026-08-02T12:34:00.000Z"));
 
-  assert.match(prompt, /source: Trusted Watch Source/);
-  assert.match(prompt, /language: it/);
-  assert.match(prompt, /A precise watch headline/);
-  assert.match(prompt, /preview: First-hand photos and specifications\. \[link\]/);
+  assert.match(prompt, /Sources: \{"0":"Trusted Watch Source"\}/);
+  assert.match(prompt, /^id,published_utc,source_id,language,categories,title,preview$/m);
+  assert.match(prompt, /^0,2026-08-02 10:00,0,it,none,A precise watch headline,First-hand photos and specifications\. \[link\]$/m);
   assert.doesNotMatch(prompt, /never-send-this-url/);
   assert.doesNotMatch(prompt, /example\.com\/tracking/);
+});
+
+test("CSV escapes punctuation, preserves topic evidence and reuses source IDs", () => {
+  const first = {
+    ...article({
+      title: 'New "Diver", Édition',
+      url: "https://example.com/first",
+      source: 'Watch, "Journal"',
+      lang: "FR",
+      published: "2026-08-02T12:30:45+02:00",
+      preview: 'A "first-hand" report, with photos.\nMovement specs.'
+    }),
+    categories: ["Sponsored content", "Dive watches, reviews"]
+  };
+  const second = article({
+    title: "Another watch story",
+    url: "https://example.com/second",
+    source: first.source_name,
+    lang: "DE",
+    published: "invalid"
+  });
+  const third = article({
+    title: "Independent interview",
+    url: "https://example.com/third",
+    source: "  ",
+    lang: ""
+  });
+  const prompt = analysisPrompt([first, second, third], new Date("2026-08-02T12:34:00Z"), [1]);
+
+  const dictionary = JSON.parse(prompt.split("\n").find(line => line.startsWith("Sources: ")).slice(9));
+  assert.deepEqual(dictionary, { 0: 'Watch, "Journal"', 1: "unknown" });
+  assert.ok(prompt.includes('0,2026-08-02 10:30,0,fr,"Sponsored content, Dive watches, reviews","New ""Diver"", Édition","A ""first-hand"" report, with photos. Movement specs."'));
+  assert.ok(prompt.includes("1,unknown,0,de,none,Another watch story,none"));
+  assert.ok(prompt.includes("2,2026-08-02 10:00,1,unknown,none,Independent interview,none"));
+  assert.match(prompt, /Score lines: 1\./);
 });
 
 test("the prompt ranks fresh stories without a minimum notification score", () => {
@@ -138,7 +172,7 @@ test("one analysis call scores, clusters, and chooses the main title without inf
     requests[0].outputSchema.properties.clusters.items.properties.cluster_main,
     undefined
   );
-  assert.match(requests[0].messages[1].content, /source: Specialist Watches/);
+  assert.match(requests[0].messages[1].content, /"1":"Specialist Watches"/);
   assert.doesNotMatch(requests[0].messages[1].content, /specialist\.example/);
   assert.equal(result.clusters[0].mainArticleID, mainID);
   assert.deepEqual(result.clusters[0].articleIDs, [mainID, teaserID]);

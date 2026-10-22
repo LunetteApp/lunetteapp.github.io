@@ -27,7 +27,7 @@ test("RSS categories survive ingestion and exclude the Suzuki review before infe
 
   assert.deepEqual(article.categories, ["Automotive", "Horological Lifestyle", "suzuki"]);
   assert.equal(matchesSourceFilters(article, deployant), false);
-  assert.match(analysisPrompt([article], new Date()), /categories: Automotive, Horological Lifestyle, suzuki/);
+  assert.match(analysisPrompt([article], new Date()), /"Automotive, Horological Lifestyle, suzuki"/);
   const history = emptyHistory();
   assert.deepEqual(upsertHistoryRecord(history, article, new Date()).categories, article.categories);
 });
