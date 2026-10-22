@@ -1,6 +1,6 @@
 {
-  "content_hash": "477c93ea2772fbe96a59a9c8aabd0a10748421f51ef714f365e86f68ea9185b9",
-  "last_updated": "2026-10-22T03:47:21.246Z",
+  "content_hash": "4e677bfabb28bd1a7c5ad0edcd595c4fbdeed9c7a048ced363b5e25c9fbc7050",
+  "last_updated": "2026-10-22T04:47:06.290Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T16:00:06.000Z"
+      "estimated_articles_per_day": 3.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T04:00:43.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T03:00:32.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Fratello Talks: Picking Watches For James Bond Villains",
+      "url": "https://www.fratellowatches.com/fratello-talks-picking-watches-for-james-bond-villains/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Omega-Seamaster-300m-Bond-Divers-210.30.42.20.01.023-210.30.42.20.03.004-11.jpg",
+      "peek_preview": "James Bond has worn some memorable watches over the years, but what about the people standing in his way? A villain’s watch needs to do more than tell the time. It can hint at character, signal status, or offer a subtle...",
+      "categories": [
+        "Podcast"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T04:00:43.000Z",
+      "score_quality": 56,
+      "score_notif": 24,
+      "cluster": "20261022-a2966b0552a9",
+      "cluster_main": true
+    },
     {
       "title": "ウォッチギャラリーのART IN TIMEが独立系時計ブランドを集めた初号店を銀座にオープン",
       "url": "https://www.webchronos.net/news/176521/",
@@ -405,7 +422,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 74,
       "score_notif": 63,
-      "cluster": "20261021-476eba5f82c7",
+      "cluster": "20261021-ddbe87302978",
       "cluster_main": true
     },
     {
@@ -424,7 +441,7 @@
       "score_quality": 76,
       "score_notif": 63,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -1183,7 +1200,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
@@ -1424,23 +1441,6 @@
       "score_quality": 27,
       "score_notif": 22,
       "cluster": "20261019-07f7269cd67f",
-      "cluster_main": true
-    },
-    {
-      "title": "The Best Watch I’ve Ever Owned: The Omega Speedmaster Professional Apollo 11 50th Anniversary",
-      "url": "https://www.fratellowatches.com/the-best-watch-ive-ever-owned-the-omega-speedmaster-professional-apollo-11-50th-anniversary/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/07/Speedmaster-Apollo-11-310.60.42.50.99.001-14.jpg",
-      "peek_preview": "A few months ago, we asked our team members to write about the best watch they’ve ever owned. Thomas wrote a love story about his Rolex Explorer II 16570, Jorg was (and still is) talking about the Tudor Black Bay Pro, a...",
-      "categories": [
-        "Watch Talk"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-19T07:00:55.000Z",
-      "score_quality": 58,
-      "score_notif": 24,
-      "cluster": "20261019-d3ff857fda19",
       "cluster_main": true
     },
     {
@@ -1785,7 +1785,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
