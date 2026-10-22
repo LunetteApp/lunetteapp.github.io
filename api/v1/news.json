@@ -1,6 +1,6 @@
 {
-  "content_hash": "db2ec54607f737b1a612e156dfe4cff2dfa11ddf6b35bd4cff1e6aeb612794b8",
-  "last_updated": "2026-10-22T21:47:20.473Z",
+  "content_hash": "a1938bd66dc831da93ce75e8b46332c06d0856e270d1ebbedce586e193c7bb00",
+  "last_updated": "2026-10-22T22:47:45.062Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T12:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T22:01:48.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T10:00:09.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T22:21:05.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,45 @@
     }
   ],
   "items": [
+    {
+      "title": "Design-led Swedish watch brand, Svea Atelier, unviels its debut dress watch, the Monolith",
+      "url": "https://timeandtidewatches.com/svea-atelier-monolith-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Svea-Atelier-Monolith-1.jpg",
+      "peek_preview": "Former Longines designer Francis Jacquerye launches Svea Atelier with the angular, quartz-powered Monolith, priced from €680. The post Design-led Swedish watch brand, Svea Atelier, unviels its debut dress watch, the Mon...",
+      "categories": [
+        "Introducing",
+        "dress watch",
+        "quartz"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T22:21:05.000Z",
+      "score_quality": 64,
+      "score_notif": 56,
+      "cluster": "20261022-88e86d6c8e14",
+      "cluster_main": true
+    },
+    {
+      "title": "The Montblanc Geosphere 0 Oxygen Mount Elbrouz LE 829 — A Hands-On Look At This Volcanic Watch",
+      "url": "https://www.fratellowatches.com/hands-on-with-the-montblanc-geosphere-0-oxygen-mount-elbrouz-le-829/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Montblanc-Geosphere-0-Oxygen-Mount-Elbrouz-LE829.jpg",
+      "peek_preview": "Its latest recorded eruption was around 50 AD, and it might be dormant, but Mount Elbrus in the Greater Caucasus of southwestern Russia is still a volcano, so you never know. And its ashes made their way into the case c...",
+      "categories": [
+        "Brand of the Week",
+        "Hands-On",
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T22:01:48.000Z",
+      "score_quality": 82,
+      "score_notif": 63,
+      "cluster": "20261022-81a22eb1cad0",
+      "cluster_main": true
+    },
     {
       "title": "Rolex Day-Date 40 Jubilee Gold Review: A Softer Take on the President",
       "url": "https://teddybaldassarre.com/blogs/watches/rolex-day-date-40-jubilee-gold-review",
@@ -409,9 +448,9 @@
       "featured": false,
       "published_at": "2026-10-22T11:24:53.000Z",
       "score_quality": 52,
-      "score_notif": 50,
+      "score_notif": 56,
       "cluster": "20261022-88e86d6c8e14",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Jaeger-LeCoultre Master Ultra Thin Moon 36mm Returns In A Classy Pink Gold Case",
@@ -429,7 +468,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261019-a6a167341db8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Doxa SUB 200T Afterglow Brings Us Sunset in Naples",
@@ -779,7 +818,7 @@
       "score_quality": 70,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -799,7 +838,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-ddbe87302978",
+      "cluster": "20261021-476eba5f82c7",
       "cluster_main": true
     },
     {
@@ -818,7 +857,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -1156,7 +1195,7 @@
       "score_quality": 74,
       "score_notif": 33,
       "cluster": "20261020-704d95768886",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Introduces The Aquis Date Kelp Forest Limited Edition",
@@ -1189,7 +1228,7 @@
       "score_quality": 63,
       "score_notif": 33,
       "cluster": "20261020-704d95768886",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Jaeger-LeCoultre Master Ultra Thin Moon, now in an Elegant 36mm Pink Gold Case",
@@ -1211,7 +1250,7 @@
       "score_quality": 74,
       "score_notif": 30,
       "cluster": "20261019-a6a167341db8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Happenings: \"George Daniels 100\" Exhibition To Celebrate The Legendary Watchmaker With Some Of His Rarest Pieces In Singapore",
@@ -1316,23 +1355,6 @@
       "score_quality": 66,
       "score_notif": 28,
       "cluster": "20261020-4974d2d9854b",
-      "cluster_main": true
-    },
-    {
-      "title": "Fratello On Air: What Will It Take To Turn The Vintage Speedmaster Market Around?",
-      "url": "https://www.fratellowatches.com/fratello-on-air-what-will-it-take-to-turn-the-vintage-speedmaster-market-around/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/08/Speedmaster-105.003-65-4.jpg",
-      "peek_preview": "Welcome back to another episode of Fratello On Air! This week, we have an open chat about what it might take to turn the vintage Speedmaster market around. Let’s face it: it has been quiet for a long time. We’d love not...",
-      "categories": [
-        "Podcast"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-20T09:33:58.000Z",
-      "score_quality": 58,
-      "score_notif": 22,
-      "cluster": "20261020-339cd55790c7",
       "cluster_main": true
     },
     {
@@ -1846,7 +1868,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -2066,7 +2088,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -2162,7 +2184,7 @@
       "score_quality": 76,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2402,23 +2424,6 @@
       "score_quality": 75,
       "score_notif": 23,
       "cluster": "20261014-17c309287266",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
-      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-lm1-evo-review",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791913354304-SKVX5XC8IG667BN1Z253/MB%26F+LM1+EVO-21.jpg?format=1500w",
-      "peek_preview": "Fifteen years is a long time in independent watchmaking, and the MB&F LM1 has spent every one of them proving that a watch can build its identity on ideas rather than formulas. Now, the Legacy Machine story circles back...",
-      "categories": [
-        "MB&F"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T17:45:53.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261013-055fe602f468",
       "cluster_main": true
     }
   ]
