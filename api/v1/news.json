@@ -1,6 +1,6 @@
 {
-  "content_hash": "25ab896cfc53fb7c8e94348f0d79a3af5d7e86b98b1ea13c6f72aa65288e2973",
-  "last_updated": "2026-10-22T16:49:05.954Z",
+  "content_hash": "ebe2c5399e6cae9f30101ff445fe97cd88156d01caf983813777dba7af053b92",
+  "last_updated": "2026-10-22T17:47:48.795Z",
   "premium": {
     "links": []
   },
@@ -16,21 +16,21 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T14:00:40.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T17:00:19.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T17:00:13.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T16:00:21.000Z"
     },
     {
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T16:43:16.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T17:16:01.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T16:00:01.000Z"
     },
     {
@@ -175,6 +175,59 @@
     }
   ],
   "items": [
+    {
+      "title": "New Breitling Navitimer B02 Cosmonaute And B09 41mm Chronographs Enter The Core Collection",
+      "url": "https://teddybaldassarre.com/blogs/watches/breitling-navitimer-cosmonaute",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Breitling-Navitimer-B09-pair-2.jpg?v=1792678160",
+      "peek_preview": "The Breitling Navitimer, long hailed as the quintessential pilot’s chronograph and distinguished by its signature slide-rule bezel, made its debut in 1952, with its built-in stopwatch powered by a manually wound Valjoux...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T17:16:01.000Z",
+      "score_quality": 76,
+      "score_notif": 72,
+      "cluster": "20261022-a35ee2a11e82",
+      "cluster_main": false
+    },
+    {
+      "title": "Review: the Gagà Laboratorio Aqualab",
+      "url": "https://wornandwound.com/review/review-the-gaga-laboratorio-aqualab/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Gaga-Dive-Watch-1.jpg",
+      "peek_preview": "Writing about the Gagà Laboratorio Aqualab has proved a difficult task. A tutor once told me to keep the structure of any article, report, or document simple: tell them what you’re about to tell them, tell them, then te...",
+      "categories": [
+        "Featured",
+        "Gagà Laboratorio"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T17:00:19.000Z",
+      "score_quality": 77,
+      "score_notif": 32,
+      "cluster": "20261022-049c5f28850e",
+      "cluster_main": true
+    },
+    {
+      "title": "Interview – Jiro Katayama, Founder of Otsuka Lotec, on the Creation and Future of Japan’s Coolest Indie Watch Brand",
+      "url": "https://monochrome-watches.com/interview-jiro-katayama-founder-of-otsuka-lotec-on-the-creation-and-future-of-japans-coolest-indie-watch-brand/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/interview-jiro-katayama-founder-of-otsuka-lotec-on-the-creation-and-future-of-japans-coolest-indie-watch-brand_1-600x237.jpg",
+      "peek_preview": "If you’ve been reading MONOCHROME regularly or have been following the evolution of indie watchmaking in recent years, the name Otsuka Lotec should be familiar to you. In only a few years, the steampunk-inspired, indust...",
+      "categories": [
+        "Otsuka Lotec",
+        "2026",
+        "Independent Watchmaking",
+        "Interviews"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T17:00:13.000Z",
+      "score_quality": 89,
+      "score_notif": 44,
+      "cluster": "20261022-1a633c97c5b3",
+      "cluster_main": true
+    },
     {
       "title": "New Release: Yema Spacegraf Heure Sidérale Tourbillon Volant Limited-Edition Watch",
       "url": "https://www.ablogtowatch.com/new-release-yema-spacegraf-heure-siderale-tourbillon-volant-limited-edition-watch/",
@@ -716,7 +769,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-ddbe87302978",
+      "cluster": "20261021-476eba5f82c7",
       "cluster_main": true
     },
     {
@@ -735,7 +788,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -855,7 +908,7 @@
       "score_quality": 79,
       "score_notif": 32,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen, viaggio nell’Eco-Drive: intervista a Shinnosuke Sakata",
@@ -912,7 +965,7 @@
       "published_at": "2026-10-21T08:25:15.000Z",
       "score_quality": 63,
       "score_notif": 34,
-      "cluster": "20261021-6cc6f311d413",
+      "cluster": "20261014-5d0626ae1e95",
       "cluster_main": true
     },
     {
@@ -1073,7 +1126,7 @@
       "score_quality": 74,
       "score_notif": 33,
       "cluster": "20261020-704d95768886",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Introduces The Aquis Date Kelp Forest Limited Edition",
@@ -1106,7 +1159,7 @@
       "score_quality": 63,
       "score_notif": 33,
       "cluster": "20261020-704d95768886",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Jaeger-LeCoultre Master Ultra Thin Moon, now in an Elegant 36mm Pink Gold Case",
@@ -1200,27 +1253,7 @@
       "score_quality": 71,
       "score_notif": 32,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": true
-    },
-    {
-      "title": "Portrait – Tested Beyond Endurance – A Conversation with Aldo Kane about Bremont Watches",
-      "url": "https://monochrome-watches.com/tested-beyond-endurance-a-conversation-with-aldo-kane-about-bremont-watches/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Tested-Beyond-Endurance-A-Conversation-with-Aldo-Kane-about-Bremont-Watches-1-600x237.jpg",
-      "peek_preview": "Aldo Kane, an expedition leader, former Royal Marines sniper, and television adventurer, has spent the better part of a decade as a Bremont ambassador, putting the brand’s watches through volcanoes, jungles, oceans and...",
-      "categories": [
-        "Bremont",
-        "2026",
-        "Interviews",
-        "Portrait"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-20T12:00:59.000Z",
-      "score_quality": 72,
-      "score_notif": 29,
-      "cluster": "20261020-52a1615fbbac",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lights Out: Introducing the 36mm Timex Intrepid x Dimepiece ‘Blackout’ Edition",
@@ -1445,7 +1478,7 @@
       "score_quality": 68,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chopard Brings Día de los Muertos To Life With One-Of-A-Kind L.U.C Full Strike Watch",
@@ -1923,9 +1956,9 @@
       "featured": false,
       "published_at": "2026-10-17T05:42:00.000Z",
       "score_quality": 61,
-      "score_notif": 25,
+      "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Bell & Ross BR-03 Space Mission",
@@ -1983,27 +2016,6 @@
       "cluster_main": true
     },
     {
-      "title": "Oris Gives Its ProPilot Caliber 111 Simple but Significant Updates",
-      "url": "https://wornandwound.com/oris-gives-its-propilot-caliber-111-simple-but-significant-updates/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Oris-Pro-Pilot-Oct-2026-60.jpg",
-      "peek_preview": "Our story starts back in 2014 on the year of Oris’ milestone 110th anniversary. For the occasion, the brand unveiled its first proprietary in-house movement in 35 years, featuring a manual-wind 10-day power reserve and...",
-      "categories": [
-        "News & Releases",
-        "caliber 111",
-        "Oris",
-        "Oris Propilot",
-        "ProPilot"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T17:00:18.000Z",
-      "score_quality": 67,
-      "score_notif": 27,
-      "cluster": "20261016-71cad5077429",
-      "cluster_main": true
-    },
-    {
       "title": "The Biver AB is Time Only and All Quality",
       "url": "https://watchesbysjx.com/2026/10/biver-ab.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/biver-AB-300x200.jpg",
@@ -2041,7 +2053,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -2081,8 +2093,8 @@
       "published_at": "2026-10-16T10:17:53.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261015-e04d7d6078fc",
-      "cluster_main": false
+      "cluster": "20261016-354b8fc562b2",
+      "cluster_main": true
     },
     {
       "title": "We Love Watches 2026 : retour sur une édition réussie à la Maison de la Mutualité",
@@ -2337,7 +2349,7 @@
       "featured": false,
       "published_at": "2026-10-14T08:00:02.000Z",
       "score_quality": 70,
-      "score_notif": 25,
+      "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
       "cluster_main": false
     },
