@@ -1,28 +1,41 @@
+const { execFile } = require("node:child_process");
 const { priceForModel } = require("./llm-prices");
 
 const DEFAULT_MODEL = "gpt-5.4";
-const DEFAULT_URL = "https://api.openai.com/v1/chat/completions";
+const DEFAULT_BASE_URL = "https://api.openai.com/v1";
 const MAX_ATTEMPTS = 3;
 const MAX_STRUCTURED_ATTEMPTS = 2;
 const HEARTBEAT_INTERVAL_MS = 15_000;
 const REQUEST_TIMEOUT_MS = 5 * 60_000;
 
 function resolveLLMConfig(env = process.env) {
-  const apiKey = env.LLM_API_KEY?.trim() || null;
+  const apiKey = env.LLM_API_KEY?.trim() || env.OPENAI_API_KEY?.trim() || null;
   if (!apiKey) {
-    throw new Error("LLM_API_KEY is required to reach the OpenAI API");
+    throw new Error("LLM_API_KEY or OPENAI_API_KEY is required to reach the OpenAI API");
   }
 
   const model = env.LLM_MODEL?.trim() || DEFAULT_MODEL;
   return {
     model,
-    endpoint: env.LLM_URL?.trim() || DEFAULT_URL,
+    baseURL: resolveBaseURL(env.LLM_URL?.trim() || env.OPENAI_BASE_URL?.trim()),
+    cliPath: env.LLM_CLI_PATH?.trim() || "openai",
     apiKey,
     // Clustering and ranking 120 multilingual titles in one response benefits
     // from the model's balanced reasoning setting.
     reasoningEffort: env.LLM_REASONING_EFFORT?.trim().toLowerCase() || "medium",
     prices: resolvePrices(env, model)
   };
+}
+
+// LLM_URL historically names the complete Chat Completions endpoint. The CLI
+// takes a base URL and adds /chat/completions itself; accept both forms.
+function resolveBaseURL(value = DEFAULT_BASE_URL) {
+  const url = new URL(value);
+  if (url.username || url.password || url.search || url.hash) {
+    throw new Error("The OpenAI base URL must not contain credentials, query parameters or fragments");
+  }
+  url.pathname = url.pathname.replace(/\/chat\/completions\/?$/, "").replace(/\/$/, "");
+  return url.toString().replace(/\/$/, "");
 }
 
 // The API reports tokens, never money, so cost is computed here. Rates come from
@@ -48,15 +61,12 @@ function resolvePrices(env, model) {
 
 function createLLMProvider({
   env = process.env,
-  fetchFunction = globalThis.fetch,
+  runCLIFunction = runOpenAICLI,
   sleepFunction = (milliseconds) =>
     new Promise((resolve) => setTimeout(resolve, milliseconds)),
   logger = () => {}
 } = {}) {
   const config = resolveLLMConfig(env);
-  if (typeof fetchFunction !== "function") {
-    throw new Error("The LLM provider requires a fetch implementation");
-  }
 
   // Retries and correction attempts each bill separately, so a run's real cost
   // is the total of every call rather than the one that finally succeeded.
@@ -66,12 +76,12 @@ function createLLMProvider({
   // provider's fields, and a spread would put it one console.log away.
   return {
     model: config.model,
-    endpoint: config.endpoint,
+    baseURL: config.baseURL,
     reasoningEffort: config.reasoningEffort,
     request: (request) => requestWithRetry(
       { ...request, reasoningEffort: config.reasoningEffort },
       config,
-      { fetchFunction, sleepFunction, logger, spend }
+      { runCLIFunction, env, sleepFunction, logger, spend }
     ),
     totalSpend: () => ({
       ...spend,
@@ -120,7 +130,7 @@ async function requestStructuredOutput(
   throw lastError;
 }
 
-function buildRequest(request, config) {
+function buildRequest(request) {
   const body = {
     model: request.model,
     messages: request.messages,
@@ -144,20 +154,39 @@ function buildRequest(request, config) {
     body.reasoning_effort = request.reasoningEffort;
   }
 
-  return {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${config.apiKey}`
-    },
-    body: JSON.stringify(body)
-  };
+  return body;
+}
+
+// JSON goes through stdin, never a shell. Keep credentials in the child's
+// environment and bound both its runtime and captured output.
+function runOpenAICLI({ binary, args, env, input, timeoutMs }) {
+  return new Promise((resolve, reject) => {
+    const child = execFile(binary, args, {
+      env, timeout: timeoutMs, killSignal: "SIGKILL",
+      maxBuffer: 4 * 1024 * 1024, encoding: "utf8", shell: false
+    }, (error, stdout, stderr) => {
+      if (!error) return resolve({ stdout, stderr });
+      let message;
+      if (error.code === "ENOENT") {
+        message = "OpenAI CLI not found; install openai or set LLM_CLI_PATH";
+      } else if (error.killed) {
+        message = `OpenAI CLI exceeded its ${formatDuration(timeoutMs)} timeout`;
+      } else {
+        message = `OpenAI CLI failed (${error.code ?? error.signal ?? "unknown"}): ${errorMessage(parseErrorBody(stderr))}`;
+      }
+      reject(new Error(redactKeys(message, env.OPENAI_API_KEY)));
+    });
+    // A CLI argument/auth error can close stdin before the body is written.
+    // The execFile callback reports the process failure without an uncaught EPIPE.
+    child.stdin.on("error", () => {});
+    child.stdin.end(input);
+  });
 }
 
 async function requestWithRetry(
   request,
   config,
-  { fetchFunction, sleepFunction, logger, spend }
+  { runCLIFunction, env, sleepFunction, logger, spend }
 ) {
   let lastError;
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt += 1) {
@@ -172,31 +201,30 @@ async function requestWithRetry(
     heartbeat.unref?.();
 
     try {
-      const response = await fetchFunction(config.endpoint, {
-        ...buildRequest(request, config),
-        signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS)
+      const response = await runCLIFunction({
+        binary: config.cliPath,
+        args: ["chat:completions", "create", "--format", "json", "--format-error", "json"],
+        env: {
+          ...env,
+          OPENAI_API_KEY: config.apiKey,
+          OPENAI_BASE_URL: config.baseURL,
+          OPENAI_UNTRUSTED_STDIN: "1",
+          OPENAI_CLI_NO_UPDATE_CHECK: "1"
+        },
+        input: `${JSON.stringify(buildRequest(request))}\n`,
+        timeoutMs: REQUEST_TIMEOUT_MS
       });
-
-      if (!response.ok) {
-        const responseText = await response.text();
-        const error = new Error(
-          `OpenAI returned HTTP ${response.status}: ${errorMessage(parseErrorBody(responseText))}`
-        );
-        error.status = response.status;
-        throw error;
-      }
-
-      const result = await readResponse(response, config.prices, spend);
+      const result = readResponse(response.stdout, config.prices, spend);
       logger(
         "openai",
         `Attempt ${attempt}/${MAX_ATTEMPTS} completed in ${formatDuration(Date.now() - attemptStartedAt)}; ${result.usage}`
       );
       return result;
     } catch (error) {
-      lastError = error;
+      lastError = new Error(describeError(error, config.apiKey));
       logger(
         "openai",
-        `Attempt ${attempt}/${MAX_ATTEMPTS} failed after ${formatDuration(Date.now() - attemptStartedAt)}: ${describeError(error)}`
+        `Attempt ${attempt}/${MAX_ATTEMPTS} failed after ${formatDuration(Date.now() - attemptStartedAt)}: ${describeError(error, config.apiKey)}`
       );
       if (!isRetryableError(error)) {
         logger("openai", "Failure is not retryable");
@@ -206,9 +234,7 @@ async function requestWithRetry(
         logger("openai", "Retry limit reached");
         break;
       }
-      // 429 is the common case on a shared daily quota, so back off further
-      // than a transient network blip would need.
-      const retryDelay = error?.status === 429 ? attempt * 15_000 : attempt * 2_000;
+      const retryDelay = attempt * 2_000;
       logger("openai", `Retrying in ${formatDuration(retryDelay)}`);
       await sleepFunction(retryDelay);
     } finally {
@@ -218,18 +244,13 @@ async function requestWithRetry(
   throw lastError;
 }
 
+// The CLI's SDK owns HTTP/network retries. Only retry a successful invocation
+// with an unusable model response here, avoiding multiplied transport attempts.
 function isRetryableError(error) {
-  return error?.name === "TimeoutError"
-    || error?.name === "AbortError"
-    || (error?.name === "TypeError"
-      && (error?.cause
-        || /fetch|network|socket|connection/i.test(String(error?.message || ""))))
-    || error?.status === 429
-    || error?.status >= 500;
+  return error?.retryable === true;
 }
 
-async function readResponse(response, prices, spend) {
-  const responseText = await response.text();
+function readResponse(responseText, prices, spend) {
   let payload;
   try {
     payload = JSON.parse(responseText);
@@ -317,12 +338,13 @@ function errorMessage(body) {
 
 // An upstream error can quote the request it rejected, and these logs are
 // public on a workflow run.
-function redactKeys(text) {
-  return String(text).replace(/sk-[A-Za-z0-9_-]{8,}/g, "sk-***");
+function redactKeys(text, apiKey) {
+  const redacted = String(text).replace(/sk-[A-Za-z0-9_-]{8,}/g, "sk-***");
+  return apiKey ? redacted.split(apiKey).join("[redacted]") : redacted;
 }
 
-function describeError(error) {
-  return redactKeys(`${error?.name ?? "Error"}: ${error?.message ?? error}`);
+function describeError(error, apiKey) {
+  return redactKeys(`${error?.name ?? "Error"}: ${error?.message ?? error}`, apiKey);
 }
 
 function retryableError(message) {
@@ -341,5 +363,6 @@ function formatDuration(milliseconds) {
 module.exports = {
   createLLMProvider,
   requestStructuredOutput,
+  runOpenAICLI,
   resolveLLMConfig
 };

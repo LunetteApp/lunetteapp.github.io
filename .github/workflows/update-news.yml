@@ -98,7 +98,28 @@ jobs:
           fi
           node scripts/detect-new-news.js >> "$GITHUB_OUTPUT"
 
-      - name: Analyse pending news
+      - name: Install OpenAI CLI
+        if: ${{ steps.news_delta.outputs.needs_inference == 'true' }}
+        shell: bash
+        run: |
+          cli_version="1.40.0"
+          cli_dir="$RUNNER_TEMP/openai-cli"
+          mkdir -p "$cli_dir"
+          curl --fail --silent --show-error --location \
+            "https://github.com/openai/openai-cli/releases/download/v${cli_version}/openai_${cli_version}_linux_amd64.tar.gz" \
+            --output "$cli_dir/openai.tar.gz"
+          echo "7c3e79d0a4254d4ae9039384fb2fb8920cddf53017541fe5463d9a61c50cfd4c  $cli_dir/openai.tar.gz" | sha256sum --check
+          tar -xzf "$cli_dir/openai.tar.gz" -C "$cli_dir" openai
+          echo "$cli_dir" >> "$GITHUB_PATH"
+          "$cli_dir/openai" --version
+
+      - name: Verify news pipeline with OpenAI CLI
+        if: ${{ steps.news_delta.outputs.needs_inference == 'true' }}
+        env:
+          OPENAI_CLI_TEST_PATH: ${{ runner.temp }}/openai-cli/openai
+        run: node --test scripts/test/*.test.js
+
+      - name: Analyse pending news with OpenAI CLI
         id: analyse_news
         if: ${{ steps.news_delta.outputs.needs_inference == 'true' }}
         continue-on-error: true
