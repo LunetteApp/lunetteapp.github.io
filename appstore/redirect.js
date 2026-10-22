@@ -38,7 +38,7 @@ const GOOGLE_PLAY_URL = 'GOOGLE_PLAY_URL_PLACEHOLDER';
         } catch {
             status.textContent = googlePlayAvailable
                 ? 'Choose your store to get Lunette.'
-                : 'Get Lunette for iPhone and iPad.';
+                : 'Get Lunette for iPhone.';
         }
     }
 })();
