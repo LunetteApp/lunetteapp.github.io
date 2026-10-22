@@ -1,0 +1,104 @@
+.download-page {
+    min-height: 100vh;
+    min-height: 100svh;
+    display: grid;
+    place-items: center;
+    padding: 40px 20px;
+    background:
+        radial-gradient(ellipse at 15% 10%, rgba(82, 115, 166, 0.45), transparent 60%),
+        radial-gradient(ellipse at 90% 90%, rgba(27, 57, 114, 0.8), transparent 65%),
+        var(--bg);
+}
+
+.download-card {
+    width: 100%;
+    max-width: 540px;
+    padding: 48px 32px 36px;
+    text-align: center;
+    background: rgba(16, 39, 91, 0.6);
+    border: 1px solid var(--border);
+    border-radius: 32px;
+    box-shadow: 0 24px 80px rgba(5, 16, 46, 0.3);
+}
+
+.download-icon {
+    display: block;
+    width: 112px;
+    height: 112px;
+    margin: 0 auto 24px;
+    border-radius: 26px;
+    box-shadow: 0 12px 32px rgba(5, 16, 46, 0.35);
+}
+
+.download-card h1 {
+    font-family: var(--display);
+    font-size: clamp(36px, 8vw, 48px);
+    line-height: 1.15;
+    letter-spacing: -0.04em;
+}
+
+.download-tagline {
+    margin-top: 12px;
+    color: var(--text-2);
+    font-size: 17px;
+}
+
+.download-status {
+    margin: 32px 0 20px;
+    color: var(--text-3);
+    font-size: 14px;
+}
+
+.store-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.store-link {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+    min-width: 192px;
+    min-height: 64px;
+    padding: 10px 18px;
+    border: 1px solid rgba(255, 255, 255, 0.45);
+    border-radius: 12px;
+    background: #05080f;
+    color: #fff;
+    text-align: left;
+    text-decoration: none;
+    transition: background 0.2s, border-color 0.2s;
+}
+
+.store-link[hidden] { display: none; }
+.store-link:hover { background: #101722; border-color: #fff; }
+.store-link:focus-visible, .download-home:focus-visible {
+    outline: 3px solid var(--text);
+    outline-offset: 5px;
+}
+
+.store-logo { flex: 0 0 30px; width: 30px; height: 34px; }
+.apple-logo { flex-basis: 35px; width: 35px; height: 38px; }
+.store-eyebrow { display: block; font-size: 11px; line-height: 1.2; }
+.store-name { display: block; font-size: 23px; line-height: 1.15; letter-spacing: -0.025em; }
+
+.download-home {
+    display: inline-block;
+    margin-top: 32px;
+    color: var(--text-3);
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.download-home:hover { color: var(--text); }
+
+@media (max-width: 400px) {
+    .download-card { padding: 36px 20px 28px; border-radius: 24px; }
+    .download-tagline { font-size: 15px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .store-link { transition: none; }
+}
