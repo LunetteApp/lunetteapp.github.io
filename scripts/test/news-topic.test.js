@@ -145,10 +145,13 @@ function analysisFixture(t, fail) {
       totalSpend: () => ({ formatted: '$0', calls: 0, input: 0, output: 0 })
     });
   `);
-  const result = spawnSync(process.execPath, ["--require", "./provider-stub.js", "scripts/analyze-news.js"], { cwd: root, encoding: "utf8" });
+  // These fixtures exercise incremental runs, independent of the workflow's
+  // manual force-rescoring setting.
+  const fixtureEnv = { ...process.env, NEWS_FORCE_RESCORING: "false" };
+  const result = spawnSync(process.execPath, ["--require", "./provider-stub.js", "scripts/analyze-news.js"], { cwd: root, encoding: "utf8", env: fixtureEnv });
   assert.equal(result.status, 0, result.stdout + result.stderr);
   return {
-    root, articles,
+    root, articles, env: fixtureEnv,
     news: JSON.parse(fs.readFileSync(path.join(root, "api/v1/news.json"), "utf8")),
     history: JSON.parse(fs.readFileSync(path.join(root, "data/old_articles.json"), "utf8"))
   };
@@ -158,7 +161,7 @@ test("a failed analysis keeps new candidates private and pending for retry", (t)
   const fixture = analysisFixture(t, true);
   assert.deepEqual(fixture.news.items.map((article) => article.title), ["Reviewed watch"]);
   assert.doesNotThrow(() => validateNews(fixture.news, fixture.history));
-  const pending = spawnSync(process.execPath, ["scripts/detect-new-news.js"], { cwd: fixture.root, encoding: "utf8" });
+  const pending = spawnSync(process.execPath, ["scripts/detect-new-news.js"], { cwd: fixture.root, encoding: "utf8", env: fixture.env });
   assert.equal(pending.status, 0, pending.stderr);
   assert.match(pending.stdout, /needs_inference=true/);
   assert.equal(fixture.history.articles[url].scoring_pending, true);
@@ -170,7 +173,7 @@ test("a successful analysis publishes watches and persists the car's exclusion",
   assert.equal(fixture.history.articles[url].off_topic, true);
   assert.equal(fixture.history.articles[url].topic_reviewed, true);
   assert.doesNotThrow(() => validateNews(fixture.news, fixture.history));
-  const pending = spawnSync(process.execPath, ["scripts/detect-new-news.js"], { cwd: fixture.root, encoding: "utf8" });
+  const pending = spawnSync(process.execPath, ["scripts/detect-new-news.js"], { cwd: fixture.root, encoding: "utf8", env: fixture.env });
   assert.equal(pending.status, 0, pending.stderr);
   assert.match(pending.stdout, /needs_inference=false/);
 });
