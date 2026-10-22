@@ -64,7 +64,8 @@ function createLLMProvider({
   runCLIFunction = runOpenAICLI,
   sleepFunction = (milliseconds) =>
     new Promise((resolve) => setTimeout(resolve, milliseconds)),
-  logger = () => {}
+  logger = () => {},
+  onSpend = () => {}
 } = {}) {
   const config = resolveLLMConfig(env);
 
@@ -74,6 +75,13 @@ function createLLMProvider({
 
   // The key is deliberately not part of the returned object: callers log the
   // provider's fields, and a spread would put it one console.log away.
+  const totalSpend = () => ({
+    ...spend,
+    priced: config.prices !== null,
+    formatted: config.prices === null
+      ? "cost unpriced"
+      : `~$${formatUSD(spend.cost)}`
+  });
   return {
     model: config.model,
     baseURL: config.baseURL,
@@ -81,15 +89,9 @@ function createLLMProvider({
     request: (request) => requestWithRetry(
       { ...request, reasoningEffort: config.reasoningEffort },
       config,
-      { runCLIFunction, env, sleepFunction, logger, spend }
+      { runCLIFunction, env, sleepFunction, logger, spend, onSpend: () => onSpend(totalSpend()) }
     ),
-    totalSpend: () => ({
-      ...spend,
-      priced: config.prices !== null,
-      formatted: config.prices === null
-        ? "cost unpriced"
-        : `~$${formatUSD(spend.cost)}`
-    })
+    totalSpend
   };
 }
 
@@ -186,11 +188,12 @@ function runOpenAICLI({ binary, args, env, input, timeoutMs }) {
 async function requestWithRetry(
   request,
   config,
-  { runCLIFunction, env, sleepFunction, logger, spend }
+  { runCLIFunction, env, sleepFunction, logger, spend, onSpend }
 ) {
   let lastError;
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt += 1) {
     const attemptStartedAt = Date.now();
+    const reportedCallsBeforeAttempt = spend.calls;
     logger("openai", `Attempt ${attempt}/${MAX_ATTEMPTS} started`);
     const heartbeat = setInterval(() => {
       logger(
@@ -221,6 +224,7 @@ async function requestWithRetry(
       );
       return result;
     } catch (error) {
+      if (spend.calls === reportedCallsBeforeAttempt) spend.usageUnknown = true;
       lastError = new Error(describeError(error, config.apiKey));
       logger(
         "openai",
@@ -239,6 +243,7 @@ async function requestWithRetry(
       await sleepFunction(retryDelay);
     } finally {
       clearInterval(heartbeat);
+      onSpend();
     }
   }
   throw lastError;
@@ -301,6 +306,7 @@ function recordSpend(spend, usage, prices) {
   if (!spend) return;
   const counts = tokenCounts(usage);
   spend.calls += 1;
+  if (!Number.isFinite(counts.input) || !Number.isFinite(counts.output)) spend.usageUnknown = true;
   if (Number.isFinite(counts.input)) spend.input += counts.input;
   if (Number.isFinite(counts.output)) spend.output += counts.output;
   const cost = estimateCost(counts, prices);

@@ -27,6 +27,7 @@ jobs:
       NEWS_FORCE_RESCORING: ${{ inputs.force_rescoring && 'true' || 'false' }}
       LLM_MODEL: ${{ vars.NEWS_LLM_MODEL || 'gpt-5.4' }}
       LLM_REASONING_EFFORT: ${{ vars.NEWS_LLM_REASONING_EFFORT || 'medium' }}
+      NEWS_USAGE_PATH: ${{ runner.temp }}/news-api-usage.json
       # Rates come from scripts/llm-prices.js by model name. Set these variables
       # only to override the table, in USD per million tokens.
       LLM_PRICE_INPUT: ${{ vars.NEWS_LLM_PRICE_INPUT }}
@@ -150,3 +151,9 @@ jobs:
           git add api/v1/news.json data/old_articles.json
           git commit -m "Update news feed"
           git push
+
+      - name: Report news API tokens and estimated price
+        if: ${{ always() }}
+        env:
+          NEWS_ANALYSIS_OUTCOME: ${{ steps.analyse_news.outcome }}
+        run: node scripts/news-run-usage.js

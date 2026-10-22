@@ -147,11 +147,12 @@ function analysisFixture(t, fail) {
   `);
   // These fixtures exercise incremental runs, independent of the workflow's
   // manual force-rescoring setting.
-  const fixtureEnv = { ...process.env, NEWS_FORCE_RESCORING: "false" };
+  const fixtureEnv = { ...process.env, NEWS_FORCE_RESCORING: "false", NEWS_USAGE_PATH: path.join(root, "usage.json") };
   const result = spawnSync(process.execPath, ["--require", "./provider-stub.js", "scripts/analyze-news.js"], { cwd: root, encoding: "utf8", env: fixtureEnv });
   assert.equal(result.status, 0, result.stdout + result.stderr);
   return {
-    root, articles, env: fixtureEnv,
+    root, articles, env: fixtureEnv, output: result.stdout,
+    usage: JSON.parse(fs.readFileSync(fixtureEnv.NEWS_USAGE_PATH, "utf8")),
     news: JSON.parse(fs.readFileSync(path.join(root, "api/v1/news.json"), "utf8")),
     history: JSON.parse(fs.readFileSync(path.join(root, "data/old_articles.json"), "utf8"))
   };
@@ -159,6 +160,8 @@ function analysisFixture(t, fail) {
 
 test("a failed analysis keeps new candidates private and pending for retry", (t) => {
   const fixture = analysisFixture(t, true);
+  assert.equal(fixture.usage.status, "failed");
+  assert.match(fixture.output, /NEWS_USAGE model=test-model status=failed/);
   assert.deepEqual(fixture.news.items.map((article) => article.title), ["Reviewed watch"]);
   assert.doesNotThrow(() => validateNews(fixture.news, fixture.history));
   const pending = spawnSync(process.execPath, ["scripts/detect-new-news.js"], { cwd: fixture.root, encoding: "utf8", env: fixture.env });
@@ -169,6 +172,8 @@ test("a failed analysis keeps new candidates private and pending for retry", (t)
 
 test("a successful analysis publishes watches and persists the car's exclusion", (t) => {
   const fixture = analysisFixture(t, false);
+  assert.equal(fixture.usage.status, "success");
+  assert.match(fixture.output, /NEWS_USAGE model=test-model status=success/);
   assert.deepEqual(fixture.news.items.map((article) => article.title), ["Reviewed watch", "New racing watch"]);
   assert.equal(fixture.history.articles[url].off_topic, true);
   assert.equal(fixture.history.articles[url].topic_reviewed, true);
@@ -176,4 +181,15 @@ test("a successful analysis publishes watches and persists the car's exclusion",
   const pending = spawnSync(process.execPath, ["scripts/detect-new-news.js"], { cwd: fixture.root, encoding: "utf8", env: fixture.env });
   assert.equal(pending.status, 0, pending.stderr);
   assert.match(pending.stdout, /needs_inference=false/);
+});
+
+test("a production run with no pending articles reports zero usage without API credentials", t => {
+  const fixture = analysisFixture(t, false);
+  const result = spawnSync(process.execPath, ["scripts/analyze-news.js"], {
+    cwd: fixture.root, encoding: "utf8",
+    env: { ...fixture.env, LLM_API_KEY: "", OPENAI_API_KEY: "" }
+  });
+  assert.equal(result.status, 0, result.stdout + result.stderr);
+  assert.match(result.stdout, /NEWS_USAGE model=.*status=skipped calls=0 reported_tokens_in=0 reported_tokens_out=0 reported_tokens_total=0 estimated_cost_usd=0\.000000/);
+  assert.equal(JSON.parse(fs.readFileSync(fixture.env.NEWS_USAGE_PATH, "utf8")).calls, 0);
 });

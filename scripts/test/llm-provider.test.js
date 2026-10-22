@@ -58,12 +58,14 @@ test("CLI transport failures are not retried again and secrets are redacted", as
     return /rate limit/.test(error.message);
   });
   assert.equal(calls, 1);
+  assert.equal(provider.totalSpend().usageUnknown, true);
   assert.ok(!JSON.stringify(logs).includes(env.LLM_API_KEY));
 });
 
 test("unusable successful responses are bounded and billed responses are counted", async () => {
   let calls = 0;
-  const provider = createLLMProvider({ env, sleepFunction: async () => {}, runCLIFunction: async () => {
+  const checkpoints = [];
+  const provider = createLLMProvider({ env, onSpend: spend => checkpoints.push(spend), sleepFunction: async () => {}, runCLIFunction: async () => {
     calls++;
     return calls === 1 ? response("") : response();
   } });
@@ -71,6 +73,9 @@ test("unusable successful responses are bounded and billed responses are counted
   assert.equal(calls, 2);
   assert.equal(provider.totalSpend().input, 200);
   assert.equal(provider.totalSpend().calls, 2);
+  assert.deepEqual(checkpoints.map(spend => spend.calls), [1, 2]);
+  assert.equal(checkpoints[0].input, 100);
+  assert.equal(checkpoints[1].cost, 0.00092);
   let invalidCalls = 0;
   const invalid = createLLMProvider({ env, sleepFunction: async () => {}, runCLIFunction: async () => {
     invalidCalls++;

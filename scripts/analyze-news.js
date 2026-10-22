@@ -3,6 +3,7 @@
 const path = require("path");
 const { execFileSync } = require("node:child_process");
 const { createLLMProvider, requestStructuredOutput } = require("./llm-provider");
+const { emptyRunUsage, saveRunUsage, formatRunUsage } = require("./news-run-usage");
 const { serializedNews } = require("./news-hash");
 const { CANDIDATES_PATH, publishableNews, readAnalysisNews } = require("./news-publication");
 const {
@@ -205,6 +206,24 @@ with its main title first. Do not add explanations.
 `.trim();
 
 async function main() {
+  const usage = emptyRunUsage();
+  const recordUsage = (spend = {}) => {
+    Object.assign(usage, spend);
+    saveRunUsage(process.env.NEWS_USAGE_PATH, usage);
+  };
+  try {
+    recordUsage();
+    await analyzePendingNews(usage, recordUsage);
+  } catch (error) {
+    usage.status = "failed";
+    throw error;
+  } finally {
+    recordUsage();
+    log(formatRunUsage(usage));
+  }
+}
+
+async function analyzePendingNews(usage, recordUsage) {
   const news = readAnalysisNews();
   const { history } = readArticleHistory();
   const articles = Array.isArray(news.items) ? news.items : [];
@@ -219,13 +238,18 @@ async function main() {
   });
   const pending = forceRescoring ? articles : regularPending;
   if (pending.length === 0) {
+    usage.status = "skipped";
     log("No articles require analysis");
     return;
   }
 
   const provider = createLLMProvider({
-    logger: (stage, message) => log(`[${stage}] ${message}`)
+    logger: (stage, message) => log(`[${stage}] ${message}`),
+    onSpend: recordUsage
   });
+  usage.model = provider.model;
+  usage.status = "running";
+  recordUsage(provider.totalSpend());
   // Scores, marketing, and clusters are one request over one list: the model
   // reads each headline once, and every answer comes back from that reading.
   log(`${pending.length} pending; analysing all ${articles.length} article(s) with ${provider.model}${forceRescoring ? " (forced rescoring)" : ""}`);
@@ -265,8 +289,10 @@ async function main() {
       log(`Dropped ${offTopic.has(id) ? "off-topic" : "marketing"} article: ${oneLineTitle(article.title)}`);
     }
     news.items = retained;
+    usage.status = "success";
     log(`Scored ${retained.length} article(s), dropped ${marketing.size} marketing and ${offTopic.size} off-topic article(s), and applied ${analysis.clusters.length} cluster(s)`);
   } catch (error) {
+    usage.status = "failed";
     log(`Analysis failed; pending state retained: ${error.message}`);
     // A failed manual rescore keeps previously evaluated articles as they were.
     // Only articles that were already pending need retry flags.
@@ -291,6 +317,7 @@ async function main() {
     historyRecord(history, article.url)?.scoring_pending === true
   ).length;
   const spend = provider.totalSpend();
+  recordUsage(spend);
   log(`Analysis complete; ${remaining} article(s) remain pending`);
   log(`Run cost ${spend.formatted} over ${spend.calls} call(s); tokens in=${spend.input} out=${spend.output}`);
 }
