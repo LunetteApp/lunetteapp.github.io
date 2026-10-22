@@ -1,6 +1,6 @@
 {
-  "content_hash": "ab5986630529105e9680e6bc903a5cc48a79d781fb9614778c38b2a9c7087b7c",
-  "last_updated": "2026-10-22T09:47:16.115Z",
+  "content_hash": "261d41785693c92fafc0eb5a86d254672ff38ccfc4e9c3280e796acd9d9bf87c",
+  "last_updated": "2026-10-22T10:47:58.613Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T09:00:59.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T07:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T10:00:41.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T16:00:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T10:00:09.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T06:11:39.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T09:11:39.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,50 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The New Doxa SUB 200T Afterglow Brings Us Sunset in Naples",
+      "url": "https://monochrome-watches.com/introducing-doxa-sub-200t-afterglow-exquisite-timepieces-napels-florida-sellita-sw200-pink-limited-edition-specs-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Doxa-SUB-200T-After-Glow-Exclusive-Timepieces-Featured-600x237.jpg",
+      "peek_preview": "Doxa has long used colour to distinguish its dive watches, with bright orange, turquoise, yellow and deep blue among the signature shades of its SUB collection. The new SUB 200T Afterglow adds a new one: a pink sunray d...",
+      "categories": [
+        "Doxa",
+        "2026",
+        "Dive Watches",
+        "Novelty",
+        "Sports watch"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T10:00:41.000Z",
+      "score_quality": 78,
+      "score_notif": 62,
+      "cluster": "20261022-cb3bb8e85054",
+      "cluster_main": true
+    },
+    {
+      "title": "Thierry Stern im Interview: „Ich sehe mich als Hüter von Patek Philippe“",
+      "url": "https://www.uhrenkosmos.com/thierry-stern-im-interview-patek-philippe-2026/",
+      "image": "https://www.youtube.com/embed/7kYNXVy405k",
+      "peek_preview": "Der Patek-Philippe-Präsident Thierry Stern spricht über Tradition, Wachstum und die Zukunft der Manufaktur.",
+      "categories": [
+        "Chrono Sapiens",
+        "Im Interview",
+        "Patek Philippe",
+        "Interview Thierry Stern",
+        "Patek Philippe Watch Art Grand Exhibition",
+        "Thierry Stern",
+        "Thierry Stern Interview"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-22T09:11:39.000Z",
+      "score_quality": 73,
+      "score_notif": 48,
+      "cluster": "20261022-4090a9348b1e",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Refreshingly Different Briston Clubmaster Legend Compressor",
       "url": "https://www.fratellowatches.com/hands-on-the-refreshingly-different-briston-clubmaster-legend-compressor/",
@@ -233,29 +277,6 @@
       "score_quality": 78,
       "score_notif": 64,
       "cluster": "20261022-7614e143ab4d",
-      "cluster_main": true
-    },
-    {
-      "title": "Thierry Stern im Interview: „Ich sehe mich als Hüter von Patek Philippe“",
-      "url": "https://www.uhrenkosmos.com/thierry-stern-im-interview-patek-philippe-2026/",
-      "image": "https://www.youtube.com/embed/7kYNXVy405k",
-      "peek_preview": "Der Patek-Philippe-Präsident spricht über Tradition, Wachstum und die Zukunft der Manufaktur",
-      "categories": [
-        "Chrono Sapiens",
-        "Im Interview",
-        "Patek Philippe",
-        "Interview Thierry Stern",
-        "Patek Philippe Watch Art Grand Exhibition",
-        "Thierry Stern",
-        "Thierry Stern Interview"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-22T06:11:39.000Z",
-      "score_quality": 73,
-      "score_notif": 48,
-      "cluster": "20261022-4090a9348b1e",
       "cluster_main": true
     },
     {
@@ -502,7 +523,7 @@
       "score_quality": 70,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -637,7 +658,7 @@
       "featured": false,
       "published_at": "2026-10-21T10:36:48.000Z",
       "score_quality": 64,
-      "score_notif": 56,
+      "score_notif": 34,
       "cluster": "20261021-4b6afacc2908",
       "cluster_main": true
     },
@@ -1044,7 +1065,7 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261020-4974d2d9854b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Timex Intrepid x Dimepiece ‘Blackout’ Edition",
@@ -1059,7 +1080,7 @@
       "score_quality": 66,
       "score_notif": 28,
       "cluster": "20261020-4974d2d9854b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fratello On Air: What Will It Take To Turn The Vintage Speedmaster Market Around?",
@@ -1118,28 +1139,6 @@
       "cluster_main": false
     },
     {
-      "title": "First Look – The new Renaud Tixier Monday Skeleton",
-      "url": "https://monochrome-watches.com/renaud-tixiers-monday-skeleton-micro-rotor-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Renaud-Tixier-Monday-Skeleton-review-7-600x237.jpg",
-      "peek_preview": "Renaud Tixier is an independent brand born from a partnership between Dominique Renaud, the veteran inventor and co-founder of movement developer Renaud & Papi, and Julien Tixier, a talented young master watchmaker. Wor...",
-      "categories": [
-        "Renaud Tixier",
-        "2026",
-        "High-end Watches",
-        "Independent Watchmaking",
-        "Novelty",
-        "Skeleton Watches"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-20T07:01:54.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
-    },
-    {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
       "url": "https://www.ablogtowatch.com/mid-century-manliness-movado-heritage-kingmatic-automatic-watch-review/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Movado-Heritage-Kingmatic-35mm-Automatic-watch-15-768x346.jpg",
@@ -1177,7 +1176,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
@@ -1442,7 +1441,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -1682,7 +1681,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -1920,7 +1919,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -1940,7 +1939,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Monta Introduces a Pair of Limited Editions to Celebrate their Tenth Anniversary",
@@ -1958,24 +1957,6 @@
       "score_quality": 64,
       "score_notif": 29,
       "cluster": "20261016-549f0674c7f5",
-      "cluster_main": true
-    },
-    {
-      "title": "Hublot’s next big move, Grand Seiko’s design secrets, and Serica’s unexpected partnership",
-      "url": "https://timeandtidewatches.com/serica-peugeot-partnership-friday-wind-down/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-fwd-grand-seiko-hublot-serica-16-oct.webp",
-      "peek_preview": "Hublot’s next chapter, Grand Seiko’s design philosophy, and Serica’s unexpected Peugeot collaboration headline this week’s watch news. The post Hublot’s next big move, Grand Seiko’s design secrets, and Serica’s unexpect...",
-      "categories": [
-        "Friday Wind Down",
-        "friday wind down"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T12:06:47.000Z",
-      "score_quality": 30,
-      "score_notif": 11,
-      "cluster": "20261016-7e91e8ff782b",
       "cluster_main": true
     },
     {
@@ -2094,7 +2075,7 @@
       "score_quality": 76,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2404,27 +2385,6 @@
       "score_quality": 63,
       "score_notif": 21,
       "cluster": "20261013-0779f09cbf1d",
-      "cluster_main": true
-    },
-    {
-      "title": "The Breguet Marine 5517 and 5527: Now with even more Breguet",
-      "url": "https://deployant.com/breguet-marine-5517-5527/?utm_source=rss&utm_medium=rss&utm_campaign=breguet-marine-5517-5527",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/Embargo-24.09.26_10-AM-CET_Breguet-Marine_5517TIY9TZO_Deployant.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Breguet refreshes its Marine collection with the updated 5517 three-hander and 5527 flyback chronograph, introducing new guilloché dials, Breguet numerals and...",
-      "categories": [
-        "Announcements",
-        "Watches",
-        "Breguet Marine",
-        "flyback chronograph",
-        "sports watch"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T13:30:00.000Z",
-      "score_quality": 61,
-      "score_notif": 29,
-      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     }
   ]
