@@ -358,7 +358,7 @@ async function analyseArticles(articles, model, requestFunction, { forceRescorin
     outputSchema: schema,
     // Reasoning tokens count toward this limit, so leave room for them on top of
     // the score pairs and the cluster list.
-    maxOutputTokens: 16_000,
+    maxOutputTokens: 32_000,
     messages: [
       {
         role: "system",

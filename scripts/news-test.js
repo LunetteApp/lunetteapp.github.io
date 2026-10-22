@@ -135,7 +135,7 @@ function compareResults(results) {
 function renderReport(summary, articles) {
   const text = value => String(value).replaceAll('|', '/').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replace(/[\r\n]/g, ' ');
   const lines = ['# News model comparison', '',
-    summary.real_articles + ' current articles and ' + summary.fixture_count + ' controlled edge cases. Both models receive the same production prompt with medium reasoning and a 16,000-token output limit.', '',
+    summary.real_articles + ' current articles and ' + summary.fixture_count + ' controlled edge cases. Both models receive the same production prompt with medium reasoning and a 32,000-token output limit.', '',
     'One model invocation per model. No feed is published. Prices below are standard-rate estimates, not confirmed charges after free-sharing allowances.', '',
     '| Model | Valid output | Seconds | Input tokens | Output tokens | Estimated USD |',
     '| --- | --- | ---: | ---: | ---: | ---: |'];

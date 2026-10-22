@@ -39,7 +39,7 @@ test('comparison uses identical prompts, the production CLI and fixed per-model 
   assert.deepEqual(bodies.map(body => body.model), ['gpt-5.4', 'gpt-5.4-mini']);
   assert.deepEqual(bodies[0].messages, bodies[1].messages);
   assert.deepEqual(bodies[0].response_format, bodies[1].response_format);
-  assert.ok(bodies.every(body => body.reasoning_effort === 'medium' && body.max_completion_tokens === 16000));
+  assert.ok(bodies.every(body => body.reasoning_effort === 'medium' && body.max_completion_tokens === 32000));
   assert.equal(JSON.stringify(options.feed), original);
   for (const item of result.results) {
     assert.equal(item.ok, true);
@@ -77,11 +77,11 @@ test('an output-limit failure does not trigger another model invocation', async 
   const result = await runComparison({ ...options, runCLIFunction: async invocation => {
     const model = JSON.parse(invocation.input).model; calls.push(model);
     if (model === 'gpt-5.4') return { stdout: JSON.stringify({ choices: [{ message: { content: '' }, finish_reason: 'length' }],
-      usage: { prompt_tokens: 1000, completion_tokens: 16000 } }) };
+      usage: { prompt_tokens: 1000, completion_tokens: 32000 } }) };
     return response(invocation);
   } });
   assert.deepEqual(calls, ['gpt-5.4', 'gpt-5.4-mini']);
   assert.equal(result.results[0].ok, false); assert.equal(result.results[1].ok, true);
-  assert.equal(result.results[0].usage.completion_tokens, 16000);
+  assert.equal(result.results[0].usage.completion_tokens, 32000);
   assert.ok(fs.existsSync(path.join(options.output, 'gpt-5.4.response.json')));
 });
