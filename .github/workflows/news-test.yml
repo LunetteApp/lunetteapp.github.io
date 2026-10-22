@@ -1,0 +1,60 @@
+name: news-test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: news-test
+  cancel-in-progress: false
+
+jobs:
+  compare-models:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check out the selected revision
+        uses: actions/checkout@v5
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check the comparison runner without API calls
+        run: node --test scripts/test/news-test.test.js
+
+      - name: Install OpenAI CLI
+        shell: bash
+        run: |
+          cli_version="1.40.0"
+          cli_dir="$RUNNER_TEMP/openai-cli"
+          mkdir -p "$cli_dir"
+          curl --fail --silent --show-error --location \
+            "https://github.com/openai/openai-cli/releases/download/v${cli_version}/openai_${cli_version}_linux_amd64.tar.gz" \
+            --output "$cli_dir/openai.tar.gz"
+          echo "7c3e79d0a4254d4ae9039384fb2fb8920cddf53017541fe5463d9a61c50cfd4c  $cli_dir/openai.tar.gz" | sha256sum --check
+          tar -xzf "$cli_dir/openai.tar.gz" -C "$cli_dir" openai
+          echo "$cli_dir" >> "$GITHUB_PATH"
+
+      - name: Compare GPT-5.4 and GPT-5.4-mini
+        env:
+          LLM_API_KEY: ${{ secrets.NEWS_LLM_API_KEY }}
+          LLM_URL: ${{ vars.NEWS_LLM_URL }}
+          NEWS_TEST_OUTPUT_DIR: ${{ runner.temp }}/news-test
+        run: node scripts/news-test.js
+
+      - name: Upload model outputs and comparison
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-test
+          path: ${{ runner.temp }}/news-test/
+          if-no-files-found: ignore
+          retention-days: 7
