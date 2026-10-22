@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 const path = require("path");
+const { execFileSync } = require("node:child_process");
 const { createLLMProvider, requestStructuredOutput } = require("./llm-provider");
 const { serializedNews } = require("./news-hash");
 const { CANDIDATES_PATH, publishableNews, readAnalysisNews } = require("./news-publication");
@@ -35,6 +36,7 @@ You do not have full article
 content or page visuals, so judge only the
 evidence in these fields and never invent reporting they do not support. A preview
 may contain site boilerplate rather than substantive reporting.
+Previews ending in an ellipsis may be truncated; missing details are unknown.
 
 Do five things with the same list. First identify off-topic and marketing lines,
 then group the remaining lines by event, then choose each main title and score
@@ -383,6 +385,10 @@ function analysisPrompt(
   now,
   scoreIndices = articles.map((_, index) => index)
 ) {
+  // One local Python invocation prepares the entire batch, never one per row.
+  const previews = articles.length ? JSON.parse(execFileSync("python3", [
+    path.join(__dirname, "news-preview.py")
+  ], { input: JSON.stringify(articles.map(article => article.peek_preview)), encoding: "utf8" })) : [];
   const sources = new Map();
   const rows = articles.map((article, index) => {
     const source = oneLineSource(article.source_name);
@@ -394,7 +400,7 @@ function analysisPrompt(
       oneLineLanguage(article.lang),
       (article.categories ?? []).map(oneLineTitle).join(", ") || "none",
       oneLineTitle(article.title),
-      oneLinePreview(article.peek_preview)
+      previews[index]
     ]);
   });
   const sourceNames = Object.fromEntries([...sources].map(([name, id]) => [id, name]));
@@ -425,10 +431,6 @@ function publicationStamp(date) {
 
 function oneLineTitle(value) {
   return String(value || "").replace(/\s+/g, " ").trim();
-}
-
-function oneLinePreview(value) {
-  return oneLineTitle(value).replace(/https?:\/\/\S+/gi, "[link]").slice(0, 240) || "none";
 }
 
 function oneLineSource(value) {

@@ -11,7 +11,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  compare-models:
+  evaluate-news:
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
@@ -43,7 +43,7 @@ jobs:
           tar -xzf "$cli_dir/openai.tar.gz" -C "$cli_dir" openai
           echo "$cli_dir" >> "$GITHUB_PATH"
 
-      - name: Compare GPT-5.4 and GPT-5.4-mini
+      - name: Evaluate GPT-5.4
         env:
           LLM_API_KEY: ${{ secrets.NEWS_LLM_API_KEY }}
           LLM_URL: ${{ vars.NEWS_LLM_URL }}

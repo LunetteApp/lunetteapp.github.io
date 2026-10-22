@@ -7,7 +7,7 @@ const { createLLMProvider, runOpenAICLI } = require('./llm-provider');
 
 async function runComparison({ env = process.env, runCLIFunction = runOpenAICLI,
   feed = JSON.parse(fs.readFileSync(path.join(__dirname, '../api/v1/news.json'), 'utf8')),
-  output = env.NEWS_TEST_OUTPUT_DIR, now = new Date() } = {}) {
+  output = env.NEWS_TEST_OUTPUT_DIR, now = new Date(), models = ['gpt-5.4'] } = {}) {
   const key = env.LLM_API_KEY || env.OPENAI_API_KEY;
   if (!key) throw new Error('The existing news-job API secret is unavailable.');
   if (!output) throw new Error('Set NEWS_TEST_OUTPUT_DIR to a separate evaluation output directory.');
@@ -49,7 +49,7 @@ async function runComparison({ env = process.env, runCLIFunction = runOpenAICLI,
   const input = { generated_at: now.toISOString(), feed_updated_at: feed.last_updated, real_articles: live.length,
     fixture_offset: fixtureOffset, fixture_count: fixtures.length, expected, articles, messages: captured.messages };
   fs.writeFileSync(path.join(output, 'input.json'), JSON.stringify(input, null, 2));
-  const results = await Promise.all(['gpt-5.4', 'gpt-5.4-mini'].map(async model => {
+  const results = await Promise.all(models.map(async model => {
     const started = Date.now();
     let payload, calls = 0;
     const provider = createLLMProvider({
@@ -119,7 +119,7 @@ async function runComparison({ env = process.env, runCLIFunction = runOpenAICLI,
 }
 
 function compareResults(results) {
-  if (results.some(result => !result.ok)) return null;
+  if (results.length !== 2 || results.some(result => !result.ok)) return null;
   const [full, mini] = results;
   const disagreement = key => [...new Set([...full[key], ...mini[key]])].filter(index => full[key].includes(index) !== mini[key].includes(index));
   const pairs = clusters => new Set(clusters.flatMap(group => group.flatMap((a, i) => group.slice(i + 1).map(b => [a, b].sort((x, y) => x - y).join(':')))));
@@ -134,8 +134,8 @@ function compareResults(results) {
 
 function renderReport(summary, articles) {
   const text = value => String(value).replaceAll('|', '/').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replace(/[\r\n]/g, ' ');
-  const lines = ['# News model comparison', '',
-    summary.real_articles + ' current articles and ' + summary.fixture_count + ' controlled edge cases. Both models receive the same production prompt with medium reasoning and a 32,000-token output limit.', '',
+  const lines = ['# News evaluation', '',
+    summary.real_articles + ' current articles and ' + summary.fixture_count + ' controlled edge cases. The selected models use the production prompt with medium reasoning and a 32,000-token output limit.', '',
     'One model invocation per model. No feed is published. Prices below are standard-rate estimates, not confirmed charges after free-sharing allowances.', '',
     '| Model | Valid output | Seconds | Input tokens | Output tokens | Estimated USD |',
     '| --- | --- | ---: | ---: | ---: | ---: |'];
@@ -162,16 +162,16 @@ function renderReport(summary, articles) {
       lines.push('', '### ' + title);
       lines.push(...(indices.length ? indices.map(index => '- [' + index + '] ' + text(articles[index].title)) : ['None.']));
     }
-    for (const result of summary.results) {
-      lines.push('', '### ' + result.model + ' live clusters');
-      for (const group of result.real_clusters) lines.push('- ' + group.map(index => '[' + index + '] ' + text(articles[index].title)).join(' / '));
-      if (!result.real_clusters.length) lines.push('No multi-article clusters.');
-      lines.push('', '### ' + result.model + ' highest notification priorities', '',
-        '| Article | Notification | Quality |', '| --- | ---: | ---: |');
-      const ranked = result.real_scores.filter(score => !result.real_marketing.includes(score.index) && !result.real_off_topic.includes(score.index))
-        .toSorted((a, b) => b.notification - a.notification || b.quality - a.quality).slice(0, 10);
-      for (const score of ranked) lines.push('| [' + score.index + '] ' + text(articles[score.index].title) + ' | ' + score.notification + ' | ' + score.quality + ' |');
-    }
+  }
+  for (const result of summary.results.filter(result => result.ok)) {
+    lines.push('', '### ' + result.model + ' live clusters');
+    for (const group of result.real_clusters) lines.push('- ' + group.map(index => '[' + index + '] ' + text(articles[index].title)).join(' / '));
+    if (!result.real_clusters.length) lines.push('No multi-article clusters.');
+    lines.push('', '### ' + result.model + ' highest notification priorities', '',
+      '| Article | Notification | Quality |', '| --- | ---: | ---: |');
+    const ranked = result.real_scores.filter(score => !result.real_marketing.includes(score.index) && !result.real_off_topic.includes(score.index))
+      .toSorted((a, b) => b.notification - a.notification || b.quality - a.quality).slice(0, 10);
+    for (const score of ranked) lines.push('| [' + score.index + '] ' + text(articles[score.index].title) + ' | ' + score.notification + ' | ' + score.quality + ' |');
   }
   lines.push('', 'Download the news-test artifact for the frozen input, raw API responses, normalized analyses and summary.json.', '');
   return lines.join('\n');

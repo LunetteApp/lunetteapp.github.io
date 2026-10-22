@@ -8,7 +8,7 @@ const { runComparison } = require('../news-test');
 function environment(t) {
   const directory = fs.mkdtempSync(path.join(os.tmpdir(), 'news-model-test-'));
   t.after(() => fs.rmSync(directory, { recursive: true, force: true }));
-  return { output: directory, env: { LLM_API_KEY: 'test-secret', GITHUB_STEP_SUMMARY: path.join(directory, 'step-summary.md') },
+  return { output: directory, models: ['gpt-5.4', 'gpt-5.4-mini'], env: { LLM_API_KEY: 'test-secret', GITHUB_STEP_SUMMARY: path.join(directory, 'step-summary.md') },
     now: new Date('2026-10-22T10:00:00.000Z'), feed: { last_updated: '2026-10-22T09:00:00.000Z', items: [
       { title: 'First-hand watch review', url: 'https://example.test/review', categories: ['Watches'],
         published_at: '2026-10-22T09:00:00.000Z', source_name: 'Watch Journal', lang: 'en', score_quality: 80, score_notif: 50 },
@@ -84,4 +84,18 @@ test('an output-limit failure does not trigger another model invocation', async 
   assert.equal(result.results[0].ok, false); assert.equal(result.results[1].ok, true);
   assert.equal(result.results[0].usage.completion_tokens, 32000);
   assert.ok(fs.existsSync(path.join(options.output, 'gpt-5.4.response.json')));
+});
+
+test('the manual job defaults to one GPT-5.4 invocation and includes its live results', async t => {
+  const options = environment(t), calls = [];
+  delete options.models;
+  const result = await runComparison({ ...options, runCLIFunction: async invocation => {
+    calls.push(JSON.parse(invocation.input).model);
+    return response(invocation);
+  } });
+  assert.deepEqual(calls, ['gpt-5.4']);
+  assert.equal(result.results[0].ok, true);
+  assert.equal(result.comparison, null);
+  assert.match(fs.readFileSync(path.join(options.output, 'report.md'), 'utf8'), /gpt-5.4 highest notification priorities/);
+  assert.ok(!fs.existsSync(path.join(options.output, 'gpt-5.4-mini.response.json')));
 });
