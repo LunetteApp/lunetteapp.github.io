@@ -41,18 +41,15 @@ OFF TOPIC — the lines whose main subject is not watches or watchmaking.
 
 Name these lines in off_topic so they are removed from the feed and cannot cause
 notifications, even on a quiet day. A score of zero alone does not prevent a
-notification. Include car reviews, automotive launches, travel, general lifestyle,
-and unrelated technology. Publisher categories such as Automotive or Cars are
-useful evidence; a watch publisher or a Horological Lifestyle category alone does
-not make a story about watches. For example, "Suzuki e-Vitara Review: Electric SUV
-Lifestyle Test with Video" is off topic. Watch releases, reviews, collecting,
-watchmaking, and watch-industry reporting remain relevant, including automotive
-watch collaborations such as a Porsche Design chronograph or TAG Heuer racing
-watch. A watch or clock designed for a car's dashboard is also relevant when the
-story focuses on that timepiece or the watchmaker's collaboration. A car model
-in the headline does not by itself make a story off topic. Conversely, an
-incidental mention of the dashboard clock does not make a car road test relevant.
-Use the title AND preview to identify the main subject before excluding a line.
+notification. Judge the main subject using BOTH the title and preview. Watch
+releases, reviews, collecting, watchmaking and watch-industry reporting remain
+relevant, including collaborations with other industries when the reporting
+focuses on the timepiece or its creation. Exclude stories principally about
+another subject, such as transport, travel or unrelated technology. An incidental
+watch mention does not make such a story relevant. Conversely, a non-watch brand
+or subject mentioned in a watch story does not make it off topic. Categories and
+publisher identity are supporting evidence, not sufficient grounds for inclusion
+or exclusion. Apply the same main-subject test to every line.
 
 SCORES — return one [quality, notification] pair for each line named in the
 "Score lines" field, in that exact order. A first or forced run can name every
@@ -142,9 +139,9 @@ require every headline to repeat the full brand and reference. Compare distincti
 proper nouns and product terms across rewritten headlines: a shortened brand name,
 possessive brand, omitted collection name, or descriptive wording can still report
 the same launch when several specific clues align. Match facts across BOTH titles
-and previews. Expand common watch terms such as QP = perpetual calendar, and
-recognize paraphrases such as "without indices" = "no dial markers". An omitted
-reference is not a conflicting reference. Brand + collection + complication +
+and previews. Normalize common abbreviations, translations and descriptive
+paraphrases before comparing the product facts. An omitted reference is not a
+conflicting reference. Brand + collection + complication +
 distinctive version or design change can identify one event without identical
 wording. For example, "H. Moser Endeavour
 Minute Repeater Tourbillon Skeleton Cosmic Rain" and "Moser's Repeater is Cosmic,
@@ -189,10 +186,9 @@ clusters:
 
 Lines 0 and 2 are each their own story and appear in no group.
 
-Before returning, check that no off_topic line was excluded merely for being a
-watch collaboration involving a car, no same-event paraphrase was left ungrouped
-and no launch older
-than 24 hours has notification above 34. Do not merge distinct references to
+Before returning, recheck each off_topic line against its main subject using both
+title and preview. Check that no same-event paraphrase was left ungrouped and no
+launch older than 24 hours has notification above 34. Do not merge distinct references to
 satisfy the duplicate check. Every scored member of a cluster must have the same
 notification score after applying the age limit.
 
