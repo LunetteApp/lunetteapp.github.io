@@ -1,6 +1,6 @@
 {
-  "content_hash": "86a610846ab30c1976de0e4983b5311e35929943917505df3403dabb821e313c",
-  "last_updated": "2026-10-22T13:18:13.720Z",
+  "content_hash": "51a7536b31bcb001e070db8c06e0cbe70738f094adfcb71294b56110b5b50997",
+  "last_updated": "2026-10-22T13:47:39.018Z",
   "premium": {
     "links": []
   },
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T17:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T13:30:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,42 @@
   ],
   "items": [
     {
+      "title": "Tissot PRX Skeleton Damian Lillard Special Edition",
+      "url": "https://deployant.com/new-oct-26-tissot-prx-skeleton-damian-lillard-special-edition/?utm_source=rss&utm_medium=rss&utm_campaign=new-oct-26-tissot-prx-skeleton-damian-lillard-special-edition",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/JPG-ADV-PRXDamianLillard-2026-OtherVisuals-2-for-deployant.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The Tissot PRX Skeleton Damian Lillard Special takes the familiar PRX design in a bold new direction. This the first skeletonised PRX, pairing a hand-wound me...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "prx",
+        "tissot"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T13:30:00.000Z",
+      "score_quality": 58,
+      "score_notif": 67,
+      "cluster": "20261021-e48a577e43cf",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: Breitling Navitimer B09 And B02 Cosmonaute 41mm Chronographs",
+      "url": "https://www.hodinkee.com/articles/breitling-navitimer-b09-and-b02-cosmonaute-41mm-chronographs",
+      "image": "https://hodinkee.imgix.net/uploads/images/44a5755a-1695-415b-943a-340a2af4546a/b11.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Two flagship models for the brand join the mainline.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T13:30:00.000Z",
+      "score_quality": 82,
+      "score_notif": 72,
+      "cluster": "20261022-a35ee2a11e82",
+      "cluster_main": true
+    },
+    {
       "title": "Breitling Adds Two New Manual-Wind Navitimers To The Core Collection",
       "url": "https://www.fratellowatches.com/breitling-adds-two-new-manual-wind-navitimers-to-the-core-collection/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Breitling-Navitimer-B09-Chronograph-41_Black-Dial_Steel-and-Leather_RGB.jpg",
@@ -189,9 +225,9 @@
       "featured": false,
       "published_at": "2026-10-22T12:00:10.000Z",
       "score_quality": 78,
-      "score_notif": 66,
+      "score_notif": 72,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
@@ -584,7 +620,7 @@
       "score_quality": 70,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -604,7 +640,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 62,
-      "cluster": "20261021-ddbe87302978",
+      "cluster": "20261021-476eba5f82c7",
       "cluster_main": true
     },
     {
@@ -623,7 +659,7 @@
       "score_quality": 65,
       "score_notif": 62,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -638,7 +674,7 @@
       "featured": false,
       "published_at": "2026-10-21T13:34:22.000Z",
       "score_quality": 58,
-      "score_notif": 59,
+      "score_notif": 34,
       "cluster": "20261021-1961db4430b7",
       "cluster_main": true
     },
@@ -658,7 +694,7 @@
       "featured": false,
       "published_at": "2026-10-21T13:30:00.000Z",
       "score_quality": 56,
-      "score_notif": 51,
+      "score_notif": 34,
       "cluster": "20261021-6a7aa90d24b8",
       "cluster_main": true
     },
@@ -1306,7 +1342,7 @@
       "score_quality": 65,
       "score_notif": 28,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
@@ -1870,7 +1906,7 @@
       "score_quality": 56,
       "score_notif": 28,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
@@ -2101,7 +2137,7 @@
       "score_quality": 76,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2394,45 +2430,6 @@
       "score_notif": 33,
       "cluster": "20261013-add4892e047e",
       "cluster_main": false
-    },
-    {
-      "title": "Insider: BLOCK RG Stealth Tourbillon Azure Blue Edition—Blue Accents and Only Eight Pieces",
-      "url": "https://www.watchcollectinglifestyle.com/home/block-rg-stealth-tourbillon-azure-blue-edition-review",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791904526097-YVJPJQUFAHU6GVIVAFEY/BLOCK+RG+Stealth+Azure+Blue+Edition-11.jpg?format=1500w",
-      "peek_preview": "Block RG was founded by Romas Gimbutis, drawing on decades of expertise in jewelry craftsmanship, precision engineering, and haute horlogerie. Now he channels that knowledge into materials and technologies from aerospac...",
-      "categories": [
-        "Block RG",
-        "Other Brands"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T15:30:17.000Z",
-      "score_quality": 63,
-      "score_notif": 21,
-      "cluster": "20261013-0779f09cbf1d",
-      "cluster_main": true
-    },
-    {
-      "title": "The Breguet Marine 5517 and 5527: Now with even more Breguet",
-      "url": "https://deployant.com/breguet-marine-5517-5527/?utm_source=rss&utm_medium=rss&utm_campaign=breguet-marine-5517-5527",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/PXL_20261007_043058165_BreguetMarine5527_Deployant.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Breguet refreshes its Marine collection with the updated 5517 three-hander and 5527 flyback chronograph, introducing new guilloché dials, Breguet numerals and...",
-      "categories": [
-        "Announcements",
-        "Watches",
-        "Breguet Marine",
-        "flyback chronograph",
-        "sports watch"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T13:30:00.000Z",
-      "score_quality": 47,
-      "score_notif": 27,
-      "cluster": "20261013-b78dfc76b202",
-      "cluster_main": true
     }
   ]
 }
