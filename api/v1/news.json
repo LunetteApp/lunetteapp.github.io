@@ -1,6 +1,6 @@
 {
-  "content_hash": "5e02610843e2b473301005731035977dc57a4d2ea5db76486f02bc9f3ea7776f",
-  "last_updated": "2026-10-22T19:48:04.351Z",
+  "content_hash": "3df910b94fb1ce83aee5bdd6e6bac496339e76d631594a4e3919ca731bd175d0",
+  "last_updated": "2026-10-22T20:47:15.037Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T17:00:19.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T20:00:58.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T17:16:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T20:00:04.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T19:00:00.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Rolex Day-Date 40 Jubilee Gold Review: A Softer Take on the President",
+      "url": "https://teddybaldassarre.com/blogs/watches/rolex-day-date-40-jubilee-gold-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Rolex-Day-Date-original-1956-2.jpg?v=1675876073",
+      "peek_preview": "Rolex introduced a new shade of gold this past April, with the launch of the Day-Date 40 in Jubilee Gold. Developed and produced in-house, the 18k alloy gives the case and President bracelet a pale, warm appearance. The...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T20:00:04.000Z",
+      "score_quality": 78,
+      "score_notif": 38,
+      "cluster": "20261022-167c0e5c56a2",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: We Put The Casio G-Shock 2500 Series \"CasioNaut\" Through Its Paces",
       "url": "https://www.hodinkee.com/articles/we-put-the-casio-g-shock-2500-series-casionaut-through-its-paces",
@@ -784,7 +799,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-ddbe87302978",
+      "cluster": "20261021-476eba5f82c7",
       "cluster_main": true
     },
     {
@@ -803,7 +818,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -1831,7 +1846,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -1973,7 +1988,7 @@
       "score_quality": 61,
       "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New: Bell & Ross BR-03 Space Mission",
@@ -1994,23 +2009,6 @@
       "score_quality": 56,
       "score_notif": 28,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
-    },
-    {
-      "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
-      "url": "https://wornandwound.com/enthusiast-spotlight-mountaineer-piotr-ma-takes-on-marathons-new-titanium-gsar/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/GSAR_Ti-16.jpg",
-      "peek_preview": "The post Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR appeared first on Worn & Wound.",
-      "categories": [
-        "Featured"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T20:00:42.000Z",
-      "score_quality": 58,
-      "score_notif": 28,
-      "cluster": "20261016-ac5940629d92",
       "cluster_main": true
     },
     {
@@ -2068,7 +2066,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -2366,7 +2364,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -2404,23 +2402,6 @@
       "score_quality": 75,
       "score_notif": 23,
       "cluster": "20261014-17c309287266",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
-      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-lm1-evo-review",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791913354304-SKVX5XC8IG667BN1Z253/MB%26F+LM1+EVO-21.jpg?format=1500w",
-      "peek_preview": "Fifteen years is a long time in independent watchmaking, and the MB&F LM1 has spent every one of them proving that a watch can build its identity on ideas rather than formulas. Now, the Legacy Machine story circles back...",
-      "categories": [
-        "MB&F"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T17:45:53.000Z",
-      "score_quality": 74,
-      "score_notif": 33,
-      "cluster": "20261013-055fe602f468",
       "cluster_main": true
     }
   ]
