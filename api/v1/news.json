@@ -1,6 +1,6 @@
 {
-  "content_hash": "3df910b94fb1ce83aee5bdd6e6bac496339e76d631594a4e3919ca731bd175d0",
-  "last_updated": "2026-10-22T20:47:15.037Z",
+  "content_hash": "db2ec54607f737b1a612e156dfe4cff2dfa11ddf6b35bd4cff1e6aeb612794b8",
+  "last_updated": "2026-10-22T21:47:20.473Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T20:00:58.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T20:00:04.000Z"
     },
     {
@@ -779,7 +779,7 @@
       "score_quality": 70,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -799,7 +799,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-476eba5f82c7",
+      "cluster": "20261021-ddbe87302978",
       "cluster_main": true
     },
     {
@@ -818,7 +818,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -938,7 +938,7 @@
       "score_quality": 79,
       "score_notif": 32,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Citizen, viaggio nell’Eco-Drive: intervista a Shinnosuke Sakata",
@@ -1283,7 +1283,7 @@
       "score_quality": 71,
       "score_notif": 32,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lights Out: Introducing the 36mm Timex Intrepid x Dimepiece ‘Blackout’ Edition",
@@ -1846,7 +1846,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -1988,7 +1988,7 @@
       "score_quality": 61,
       "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Bell & Ross BR-03 Space Mission",
@@ -2066,7 +2066,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -2162,7 +2162,7 @@
       "score_quality": 76,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2364,7 +2364,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -2402,6 +2402,23 @@
       "score_quality": 75,
       "score_notif": 23,
       "cluster": "20261014-17c309287266",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: MB&F LM1 EVO—The First Legacy Machine Returns, Evolved",
+      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-lm1-evo-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791913354304-SKVX5XC8IG667BN1Z253/MB%26F+LM1+EVO-21.jpg?format=1500w",
+      "peek_preview": "Fifteen years is a long time in independent watchmaking, and the MB&F LM1 has spent every one of them proving that a watch can build its identity on ideas rather than formulas. Now, the Legacy Machine story circles back...",
+      "categories": [
+        "MB&F"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T17:45:53.000Z",
+      "score_quality": 80,
+      "score_notif": 34,
+      "cluster": "20261013-055fe602f468",
       "cluster_main": true
     }
   ]
