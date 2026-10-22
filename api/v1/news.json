@@ -1,6 +1,6 @@
 {
-  "content_hash": "eeb9b3c9e29fd928edc736d5ba5d5d14af84a1474f6f11b6b44065e97a1dbb67",
-  "last_updated": "2026-10-22T11:47:51.020Z",
+  "content_hash": "d965b63fe6fe69b80dcb3f88feabc8426673cef11f69ff773e8ae88b19c90b9e",
+  "last_updated": "2026-10-22T12:48:04.934Z",
   "premium": {
     "links": []
   },
@@ -10,7 +10,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-22T11:00:48.000Z"
+      "latest_article_at": "2026-10-22T12:00:10.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T11:24:53.000Z"
     },
     {
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T09:11:39.000Z"
     },
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Breitling Adds Two New Manual-Wind Navitimers To The Core Collection",
+      "url": "https://www.fratellowatches.com/breitling-adds-two-new-manual-wind-navitimers-to-the-core-collection/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Breitling-Navitimer-B09-Chronograph-41_Black-Dial_Steel-and-Leather_RGB.jpg",
+      "peek_preview": "Breitling has just added two new chronographs to its permanent collection: the Navitimer B09 Chronograph 41 and the Navitimer B02 Chronograph 41 Cosmonaute. But this isn’t just any old release. Both new models draw insp...",
+      "categories": [
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T12:00:10.000Z",
+      "score_quality": 78,
+      "score_notif": 66,
+      "cluster": "20261022-a35ee2a11e82",
+      "cluster_main": true
+    },
     {
       "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
       "url": "https://italianwatchspotter.com/svea-atelier-monolith-rolex-king-midas/",
@@ -684,8 +702,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster": "20261021-1cc9b16f5c8e",
+      "cluster_main": true
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1160,25 +1178,7 @@
       "published_at": "2026-10-20T09:01:47.000Z",
       "score_quality": 73,
       "score_notif": 27,
-      "cluster": "20261020-6ee87e5481cc",
-      "cluster_main": false
-    },
-    {
-      "title": "Harnessing Heritage: The Lebois & Co Numeral, Baton, And Script Small Seconds",
-      "url": "https://www.fratellowatches.com/lebois-co-heritage-numeral-baton-script-small-seconds/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/LeBois-Chronometer.jpg",
-      "peek_preview": "As we’ve come to expect, Lebois & Co revives mid-century designs with care. The brand now offers its Heritage Small Seconds models in three new interpretations. Each draws from a different moment in the company’s past....",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-20T09:00:23.000Z",
-      "score_quality": 65,
-      "score_notif": 27,
-      "cluster": "20261020-6ee87e5481cc",
+      "cluster": "20261020-f0c101e448d7",
       "cluster_main": true
     },
     {
@@ -1306,7 +1306,7 @@
       "score_quality": 65,
       "score_notif": 28,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
@@ -1467,7 +1467,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -1870,7 +1870,7 @@
       "score_quality": 56,
       "score_notif": 28,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Enthusiast Spotlight: Mountaineer Piotr Ma Takes on Marathon’s New Titanium GSAR",
@@ -1945,7 +1945,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
