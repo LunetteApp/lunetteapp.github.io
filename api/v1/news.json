@@ -1,6 +1,6 @@
 {
-  "content_hash": "ebe2c5399e6cae9f30101ff445fe97cd88156d01caf983813777dba7af053b92",
-  "last_updated": "2026-10-22T18:45:51.970Z",
+  "content_hash": "5e02610843e2b473301005731035977dc57a4d2ea5db76486f02bc9f3ea7776f",
+  "last_updated": "2026-10-22T19:48:04.351Z",
   "premium": {
     "links": []
   },
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T16:00:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: We Put The Casio G-Shock 2500 Series \"CasioNaut\" Through Its Paces",
+      "url": "https://www.hodinkee.com/articles/we-put-the-casio-g-shock-2500-series-casionaut-through-its-paces",
+      "image": "https://hodinkee.imgix.net/uploads/images/240d1b97-a18d-43af-b1df-3fd19c756448/GSHOCK_HODINKEE_181026_PRINTRES-8-16_9.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The watch internet has already given it a hypey nickname, but there’s a lot more to this new G-Shock than meets the eye.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T19:00:00.000Z",
+      "score_quality": 84,
+      "score_notif": 66,
+      "cluster": "20261022-e9668b3f753f",
+      "cluster_main": true
+    },
     {
       "title": "New Breitling Navitimer B02 Cosmonaute And B09 41mm Chronographs Enter The Core Collection",
       "url": "https://teddybaldassarre.com/blogs/watches/breitling-navitimer-cosmonaute",
@@ -769,7 +784,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-476eba5f82c7",
+      "cluster": "20261021-ddbe87302978",
       "cluster_main": true
     },
     {
@@ -788,7 +803,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -908,7 +923,7 @@
       "score_quality": 79,
       "score_notif": 32,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Citizen, viaggio nell’Eco-Drive: intervista a Shinnosuke Sakata",
@@ -965,7 +980,7 @@
       "published_at": "2026-10-21T08:25:15.000Z",
       "score_quality": 63,
       "score_notif": 34,
-      "cluster": "20261014-5d0626ae1e95",
+      "cluster": "20261021-6cc6f311d413",
       "cluster_main": true
     },
     {
@@ -1253,7 +1268,7 @@
       "score_quality": 71,
       "score_notif": 32,
       "cluster": "20261019-94fd4e0182f9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lights Out: Introducing the 36mm Timex Intrepid x Dimepiece ‘Blackout’ Edition",
@@ -1478,7 +1493,7 @@
       "score_quality": 68,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Chopard Brings Día de los Muertos To Life With One-Of-A-Kind L.U.C Full Strike Watch",
@@ -1958,7 +1973,7 @@
       "score_quality": 61,
       "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Bell & Ross BR-03 Space Mission",
@@ -2053,7 +2068,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -2093,8 +2108,8 @@
       "published_at": "2026-10-16T10:17:53.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261016-354b8fc562b2",
-      "cluster_main": true
+      "cluster": "20261015-e04d7d6078fc",
+      "cluster_main": false
     },
     {
       "title": "We Love Watches 2026 : retour sur une édition réussie à la Maison de la Mutualité",
@@ -2406,21 +2421,6 @@
       "score_quality": 74,
       "score_notif": 33,
       "cluster": "20261013-055fe602f468",
-      "cluster_main": true
-    },
-    {
-      "title": "Seiko x PADI: A Decade Of Dive Watches And Ocean Conservation",
-      "url": "https://teddybaldassarre.com/blogs/watches/seiko-x-padi-dive-watches",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-62MAS-dive-watch-vintage-2.jpg?v=1791207242",
-      "peek_preview": "If you’re interested in dive watches or have followed the watch market long enough, you’ve probably seen the Professional Association of Diving Instructors (PADI) logo on a Seiko dive watch. Over the past ten years, the...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-13T16:10:07.000Z",
-      "score_quality": 50,
-      "score_notif": 23,
-      "cluster": "20261013-fc76a99d1ce9",
       "cluster_main": true
     }
   ]
