@@ -1,6 +1,6 @@
 {
-  "content_hash": "261d41785693c92fafc0eb5a86d254672ff38ccfc4e9c3280e796acd9d9bf87c",
-  "last_updated": "2026-10-22T10:47:58.613Z",
+  "content_hash": "eeb9b3c9e29fd928edc736d5ba5d5d14af84a1474f6f11b6b44065e97a1dbb67",
+  "last_updated": "2026-10-22T11:47:51.020Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T09:00:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T11:00:48.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T10:00:41.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T10:00:09.000Z"
     },
     {
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-20T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-22T11:24:53.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T09:11:39.000Z"
     },
     {
@@ -175,6 +175,49 @@
     }
   ],
   "items": [
+    {
+      "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
+      "url": "https://italianwatchspotter.com/svea-atelier-monolith-rolex-king-midas/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-91-1024x682.png",
+      "peek_preview": "Pare che il fascino del Rolex King Midas non conosca età. E nemmeno confini geografici, visto che dalla Svezia è appena arrivato qualcuno deciso a renderlo un po’ più democratico. Certo, l’oro è rimasto a Ginevra, ma pe...",
+      "categories": [
+        "Starting Watches",
+        "Gérald Genta",
+        "Orologi accessibili",
+        "Orologi al quarzo",
+        "Orologi vintage",
+        "rolex",
+        "rolex king midas",
+        "Svea Atelier",
+        "Svea Atelier Monolith"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-22T11:24:53.000Z",
+      "score_quality": 52,
+      "score_notif": 50,
+      "cluster": "20261022-88e86d6c8e14",
+      "cluster_main": true
+    },
+    {
+      "title": "The Jaeger-LeCoultre Master Ultra Thin Moon 36mm Returns In A Classy Pink Gold Case",
+      "url": "https://www.fratellowatches.com/jaeger-lecoultre-master-ultra-thin-moon-36mm-pink-gold/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Jaeger-LeCoultre-Master-Ultra-Thin-Moon-36mm-pink-gold-5.jpg",
+      "peek_preview": "There are watchmakers, and then there is the “Watchmaker of Watchmakers,” a heavy title that Jaeger-LeCoultre earned the hard way by supplying high-end calibers to the holy trinity of horology for decades. Since 1833, t...",
+      "categories": [
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-22T11:00:48.000Z",
+      "score_quality": 76,
+      "score_notif": 30,
+      "cluster": "20261019-a6a167341db8",
+      "cluster_main": false
+    },
     {
       "title": "Introducing – The New Doxa SUB 200T Afterglow Brings Us Sunset in Naples",
       "url": "https://monochrome-watches.com/introducing-doxa-sub-200t-afterglow-exquisite-timepieces-napels-florida-sellita-sw200-pink-limited-edition-specs-price/",
@@ -543,7 +586,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 62,
-      "cluster": "20261021-476eba5f82c7",
+      "cluster": "20261021-ddbe87302978",
       "cluster_main": true
     },
     {
@@ -562,7 +605,7 @@
       "score_quality": 65,
       "score_notif": 62,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -641,8 +684,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261021-1cc9b16f5c8e",
-      "cluster_main": true
+      "cluster": "20261017-3ea8afcef210",
+      "cluster_main": false
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1065,7 +1108,7 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261020-4974d2d9854b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Timex Intrepid x Dimepiece ‘Blackout’ Edition",
@@ -1080,7 +1123,7 @@
       "score_quality": 66,
       "score_notif": 28,
       "cluster": "20261020-4974d2d9854b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fratello On Air: What Will It Take To Turn The Vintage Speedmaster Market Around?",
@@ -1118,7 +1161,7 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261020-6ee87e5481cc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Harnessing Heritage: The Lebois & Co Numeral, Baton, And Script Small Seconds",
@@ -1136,7 +1179,7 @@
       "score_quality": 65,
       "score_notif": 27,
       "cluster": "20261020-6ee87e5481cc",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -1177,23 +1220,6 @@
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
       "cluster_main": true
-    },
-    {
-      "title": "Innovation On Display: Renaud Tixier Introduces The Monday Skeleton",
-      "url": "https://www.fratellowatches.com/innovation-on-display-renaud-tixier-introduces-the-monday-skeleton/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Renaud-Tixier-Monday-Skeleton-2.jpg",
-      "peek_preview": "Renaud Tixier continues its Monday collection with the new Monday Skeleton, a fully openworked version of the watch that launched the young maison in 2024. Available in green and blue, the two editions each have a 40.8m...",
-      "categories": [
-        "Watch Releases"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-20T07:00:44.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
     },
     {
       "title": "New Release Oct 26: Renaud Tixier Monday Skeleton | CHF 129,000",
@@ -1441,7 +1467,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -1919,7 +1945,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -2385,6 +2411,27 @@
       "score_quality": 63,
       "score_notif": 21,
       "cluster": "20261013-0779f09cbf1d",
+      "cluster_main": true
+    },
+    {
+      "title": "The Breguet Marine 5517 and 5527: Now with even more Breguet",
+      "url": "https://deployant.com/breguet-marine-5517-5527/?utm_source=rss&utm_medium=rss&utm_campaign=breguet-marine-5517-5527",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/PXL_20261007_043058165_BreguetMarine5527_Deployant.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Breguet refreshes its Marine collection with the updated 5517 three-hander and 5527 flyback chronograph, introducing new guilloché dials, Breguet numerals and...",
+      "categories": [
+        "Announcements",
+        "Watches",
+        "Breguet Marine",
+        "flyback chronograph",
+        "sports watch"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-13T13:30:00.000Z",
+      "score_quality": 47,
+      "score_notif": 27,
+      "cluster": "20261013-b78dfc76b202",
       "cluster_main": true
     }
   ]
