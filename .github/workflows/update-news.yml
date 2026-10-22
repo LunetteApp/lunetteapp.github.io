@@ -27,7 +27,6 @@ jobs:
       NEWS_FORCE_RESCORING: ${{ inputs.force_rescoring && 'true' || 'false' }}
       LLM_MODEL: ${{ vars.NEWS_LLM_MODEL || 'gpt-5.4' }}
       LLM_REASONING_EFFORT: ${{ vars.NEWS_LLM_REASONING_EFFORT || 'medium' }}
-      NEWS_USAGE_PATH: ${{ runner.temp }}/news-api-usage.json
       # Rates come from scripts/llm-prices.js by model name. Set these variables
       # only to override the table, in USD per million tokens.
       LLM_PRICE_INPUT: ${{ vars.NEWS_LLM_PRICE_INPUT }}
@@ -125,6 +124,7 @@ jobs:
         if: ${{ steps.news_delta.outputs.needs_inference == 'true' }}
         continue-on-error: true
         env:
+          NEWS_USAGE_PATH: ${{ runner.temp }}/news-api-usage.json
           LLM_URL: ${{ vars.NEWS_LLM_URL }}
           LLM_API_KEY: ${{ secrets.NEWS_LLM_API_KEY }}
         run: node scripts/analyze-news.js
@@ -155,5 +155,6 @@ jobs:
       - name: Report news API tokens and estimated price
         if: ${{ always() }}
         env:
+          NEWS_USAGE_PATH: ${{ runner.temp }}/news-api-usage.json
           NEWS_ANALYSIS_OUTCOME: ${{ steps.analyse_news.outcome }}
         run: node scripts/news-run-usage.js
