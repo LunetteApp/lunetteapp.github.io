@@ -1,6 +1,6 @@
 {
-  "content_hash": "a1938bd66dc831da93ce75e8b46332c06d0856e270d1ebbedce586e193c7bb00",
-  "last_updated": "2026-10-22T22:47:45.062Z",
+  "content_hash": "fb98f86aaace56801634e758c7f0bffd2f4b916886efe3263670eda2055cd948",
+  "last_updated": "2026-10-23T00:48:56.147Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T22:01:48.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T22:21:05.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T03:00:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T00:00:55.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "ウブロの原点に立ち返った「クラシック・フュージョン トリビュート」2モデルが登場",
+      "url": "https://www.webchronos.net/news/176557/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/HB_c_1.webp",
+      "peek_preview": "ウブロは、ブランドの礎を築いたタイムピースにオマージュを捧げる「クラシック・フュージョン トリビュート」を発表した。ゴールドケースとブラックラバーストラップの組み合わせや、12本のビスを配した舷窓を思わせるベゼル、装飾を […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-23T00:00:55.000Z",
+      "score_quality": 60,
+      "score_notif": 23,
+      "cluster": "20261015-5b89066bd3ad",
+      "cluster_main": false
+    },
     {
       "title": "Design-led Swedish watch brand, Svea Atelier, unviels its debut dress watch, the Monolith",
       "url": "https://timeandtidewatches.com/svea-atelier-monolith-introducing/",
@@ -468,7 +483,7 @@
       "score_quality": 76,
       "score_notif": 30,
       "cluster": "20261019-a6a167341db8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Doxa SUB 200T Afterglow Brings Us Sunset in Naples",
@@ -654,7 +669,7 @@
       "featured": false,
       "published_at": "2026-10-22T00:00:29.000Z",
       "score_quality": 63,
-      "score_notif": 57,
+      "score_notif": 34,
       "cluster": "20261022-c876e8e0f4bb",
       "cluster_main": true
     },
@@ -818,7 +833,7 @@
       "score_quality": 70,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -838,7 +853,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-476eba5f82c7",
+      "cluster": "20261021-ddbe87302978",
       "cluster_main": true
     },
     {
@@ -857,7 +872,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -1195,7 +1210,7 @@
       "score_quality": 74,
       "score_notif": 33,
       "cluster": "20261020-704d95768886",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Introduces The Aquis Date Kelp Forest Limited Edition",
@@ -1228,7 +1243,7 @@
       "score_quality": 63,
       "score_notif": 33,
       "cluster": "20261020-704d95768886",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Jaeger-LeCoultre Master Ultra Thin Moon, now in an Elegant 36mm Pink Gold Case",
@@ -1250,7 +1265,7 @@
       "score_quality": 74,
       "score_notif": 30,
       "cluster": "20261019-a6a167341db8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Happenings: \"George Daniels 100\" Exhibition To Celebrate The Legendary Watchmaker With Some Of His Rarest Pieces In Singapore",
@@ -1628,7 +1643,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -1813,21 +1828,6 @@
       "score_quality": 62,
       "score_notif": 28,
       "cluster": "20261018-fac4fdb9e8b0",
-      "cluster_main": true
-    },
-    {
-      "title": "クロノスイスが針を持たない「ネオ デジター」コレクションに、パステルカラーの新作3モデルを追加",
-      "url": "https://www.webchronos.net/news/176012/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/Cs_1-1.webp",
-      "peek_preview": "クロノスイスが、針を持たない機械式腕時計「ネオ デジター」コレクションに、ローズ、ミント、スカイの柔らかい色彩を取り入れた「ネオ デジター パステル」を追加した。2005年に誕生した初代「デジター」の機械式デジタル表示を […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-18T00:00:16.000Z",
-      "score_quality": 61,
-      "score_notif": 28,
-      "cluster": "20261018-976e64514e03",
       "cluster_main": true
     },
     {
@@ -2068,7 +2068,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -2184,7 +2184,7 @@
       "score_quality": 76,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
