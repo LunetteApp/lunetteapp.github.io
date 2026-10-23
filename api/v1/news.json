@@ -1,6 +1,6 @@
 {
-  "content_hash": "4694c22ec68ec48f617a9b71b1cc3bc5fd126f041770ee1f607e2ac9aff1a058",
-  "last_updated": "2026-10-23T17:47:37.825Z",
+  "content_hash": "bdc303895f4cafeb8c6eb6eaa61e7455dcdd82ff289f8b0908566bf4731fe11e",
+  "last_updated": "2026-10-23T18:47:09.984Z",
   "premium": {
     "links": []
   },
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T17:00:52.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T17:00:00.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T16:54:36.000Z"
     },
     {
@@ -1197,7 +1197,7 @@
       "score_quality": 70,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -1217,7 +1217,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-ddbe87302978",
+      "cluster": "20261021-476eba5f82c7",
       "cluster_main": true
     },
     {
@@ -1236,7 +1236,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -1315,8 +1315,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster": "20261021-1cc9b16f5c8e",
+      "cluster_main": true
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1728,7 +1728,7 @@
       "score_quality": 68,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Chopard Brings Día de los Muertos To Life With One-Of-A-Kind L.U.C Full Strike Watch",
@@ -1826,7 +1826,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -2036,7 +2036,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -2197,7 +2197,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -2313,7 +2313,7 @@
       "score_quality": 76,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2396,6 +2396,21 @@
       "score_notif": 32,
       "cluster": "20261015-095e182f5295",
       "cluster_main": false
+    },
+    {
+      "title": "Citizen Photon Review: Why It's The Ultimate Eco-Drive Watch",
+      "url": "https://teddybaldassarre.com/blogs/watches/citizen-eco-drive-photon-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Eco-Drive-Photon-watch-2_66c9c743-17f8-4b59-a155-4b0bf6faa441.jpg?v=1791915237",
+      "peek_preview": "Citizen Watch Co. has been in business since 1930, and has been responsible for several watch-industry milestones, including Japan’s first waterproof watch and the first watch with a titanium case. But here in the 21st...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T16:01:28.000Z",
+      "score_quality": 64,
+      "score_notif": 23,
+      "cluster": "20261014-29245649c5b3",
+      "cluster_main": true
     }
   ]
 }
