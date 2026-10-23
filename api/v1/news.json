@@ -1,6 +1,6 @@
 {
-  "content_hash": "6a2d8ce071dff93aca363aa615417cfd9329ff00062aecf1a88a60a8c24bdd50",
-  "last_updated": "2026-10-23T07:47:26.525Z",
+  "content_hash": "7fbe3179e8bf97b10dfbb456e0e1fd6d70a8f04f5e427b6b2ff1a139218f6327",
+  "last_updated": "2026-10-23T08:48:08.748Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T07:01:58.000Z"
     },
     {
@@ -113,9 +113,9 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T09:00:00.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T08:06:58.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Tissot Supersport NBA, il tempo del possesso",
+      "url": "https://giornaleorologi.it/2026/10/23/tissot-supersport-nba-il-tempo-del-possesso/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/JPG-ADV-NBA-2026-MainVisual-US-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Tissot Supersport NBA, il tempo del possesso Ventiquattro secondi. Nel basket bastano per costruire un’azione, cercare un varco nella difesa, trovare il momento del tiro. Sul Tissot Supersport...",
+      "categories": [
+        "Attualità",
+        "Tissot",
+        "Tissot Supersport"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-23T08:06:58.000Z",
+      "score_quality": 56,
+      "score_notif": 63,
+      "cluster": "20261023-6cb810e87e18",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Chinese Brand Atelier Mephalie Launches its Minute Repeater Collection, Priced to a Tenth of What Europe Does…",
       "url": "https://monochrome-watches.com/introducing-chinese-brand-atelier-mephalie-launches-its-minute-repeater-collection-priced-to-a-tenth-of-what-europe-does/",
@@ -474,7 +493,7 @@
       "score_quality": 82,
       "score_notif": 72,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Maurice Lacroix Refines the Aikon Automatic Chronograph for its Tenth Anniversary",
@@ -532,7 +551,7 @@
       "score_quality": 82,
       "score_notif": 72,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Adds Two New Manual-Wind Navitimers To The Core Collection",
@@ -963,7 +982,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-476eba5f82c7",
+      "cluster": "20261021-ddbe87302978",
       "cluster_main": true
     },
     {
@@ -982,7 +1001,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -1061,8 +1080,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster": "20261021-1cc9b16f5c8e",
+      "cluster_main": true
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1731,7 +1750,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -2123,7 +2142,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -2404,24 +2423,6 @@
       "score_quality": 61,
       "score_notif": 24,
       "cluster": "20261014-219ce61dc0c5",
-      "cluster_main": true
-    },
-    {
-      "title": "Libri di orologeria, il passato da leggere",
-      "url": "https://giornaleorologi.it/2026/10/14/libri-di-orologeria/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/cover_-copia-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Libri di orologeria, il passato da leggere Il passato continua a fornire ottime letture agli appassionati: lo confermano i libri di orologeria scelti per questa rassegna. Fra novità e riedizion...",
-      "categories": [
-        "Attualità",
-        "Libri di orologi"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-14T08:40:43.000Z",
-      "score_quality": 52,
-      "score_notif": 15,
-      "cluster": "20261014-1f5187f881e4",
       "cluster_main": true
     }
   ]
