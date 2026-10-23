@@ -1,6 +1,6 @@
 {
-  "content_hash": "fb7b815eea929db0a571701150b4ef3ba5b44c9e92a91b8db1b33e752f744ef0",
-  "last_updated": "2026-10-23T14:49:03.549Z",
+  "content_hash": "f21b1fe77986227793b2fe2a68e3b50507a8d2ad298337c7f88f8112fe7c73f2",
+  "last_updated": "2026-10-23T15:47:53.757Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T14:00:24.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T13:00:48.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T13:00:00.000Z"
     },
     {
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.6,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-23T13:00:00.000Z"
+      "latest_article_at": "2026-10-23T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -569,7 +569,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: the Gagà Laboratorio Aqualab",
@@ -719,7 +719,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Breitling Adds Two New Manual-Wind Navitimers To The Core Collection",
@@ -1054,7 +1054,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "It’s Dame Time: The New Manual-Wind Tissot PRX Skeleton Special Edition",
@@ -1095,7 +1095,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tissot’s Boldest PRX Yet: The Damian Lillard Skeleton Transforms Into A Pocket Watch",
@@ -1150,7 +1150,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-476eba5f82c7",
+      "cluster": "20261021-ddbe87302978",
       "cluster_main": true
     },
     {
@@ -1169,7 +1169,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -1248,8 +1248,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261021-1cc9b16f5c8e",
-      "cluster_main": true
+      "cluster": "20261017-3ea8afcef210",
+      "cluster_main": false
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1552,22 +1552,7 @@
       "published_at": "2026-10-20T11:00:30.000Z",
       "score_quality": 64,
       "score_notif": 28,
-      "cluster": "20261020-4974d2d9854b",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: The Timex Intrepid x Dimepiece ‘Blackout’ Edition",
-      "url": "https://www.hodinkee.com/articles/the-timex-intrepid-x-dimepiece-blackout-edition",
-      "image": "https://hodinkee.imgix.net/uploads/images/a1bdf622-00aa-4399-95f2-df49fcd95f91/dimepiecetimexheaderblackoutr.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A slight twist on last year's successful collaboration offers another chance at a downsized take on Timex's Intrepid.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-20T11:00:00.000Z",
-      "score_quality": 66,
-      "score_notif": 28,
-      "cluster": "20261020-4974d2d9854b",
+      "cluster": "20261020-0b886d08c690",
       "cluster_main": true
     },
     {
@@ -2036,7 +2021,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -2217,7 +2202,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -2396,6 +2381,21 @@
       "score_notif": 32,
       "cluster": "20261015-095e182f5295",
       "cluster_main": false
+    },
+    {
+      "title": "Citizen Photon Review: Why It's The Ultimate Eco-Drive Watch",
+      "url": "https://teddybaldassarre.com/blogs/watches/citizen-eco-drive-photon-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Eco-Drive-Photon-watch-2_66c9c743-17f8-4b59-a155-4b0bf6faa441.jpg?v=1791915237",
+      "peek_preview": "Citizen Watch Co. has been in business since 1930, and has been responsible for several watch-industry milestones, including Japan’s first waterproof watch and the first watch with a titanium case. But here in the 21st...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-14T16:01:28.000Z",
+      "score_quality": 74,
+      "score_notif": 27,
+      "cluster": "20261014-29245649c5b3",
+      "cluster_main": true
     }
   ]
 }
