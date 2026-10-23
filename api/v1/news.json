@@ -1,6 +1,6 @@
 {
-  "content_hash": "45cee84c4a8b0a7e9841acc0667ffcfb54e4d375c696ece1e711306531bb8dc6",
-  "last_updated": "2026-10-23T03:47:33.065Z",
+  "content_hash": "e67fe3a0b5f1b8cfa93fe796915d1988a2828c02753e4c8fc3b59aa34ed248e6",
+  "last_updated": "2026-10-23T05:47:21.441Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T22:01:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T05:00:07.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T03:00:50.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Video: Hands-On With The Breguet Classique Tourbillon 7357 In Platinum And Gold",
+      "url": "https://www.fratellowatches.com/video-breguet-classique-tourbillon-7357-in-platinum-and-gold/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Breguet-Classique-Tourbillon-7357.jpg",
+      "peek_preview": "On June 26th, 2026, the 225th anniversary of Abraham-Louis Breguet’s tourbillon patent, the Breguet brand introduced several new watches with this mechanism. Today, we focus on two of them — the Classique Tourbillon 735...",
+      "categories": [
+        "Hands-On"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-23T05:00:07.000Z",
+      "score_quality": 82,
+      "score_notif": 28,
+      "cluster": "20261023-3a9f583d2b99",
+      "cluster_main": true
+    },
     {
       "title": "「カシオ クラシック」のレトロなデジアナウォッチに、グリーン×ゴールドカラーの新作2モデルが登場",
       "url": "https://www.webchronos.net/news/176317/",
@@ -363,7 +380,7 @@
       "score_quality": 61,
       "score_notif": 33,
       "cluster": "20261021-a7e66e9b4bb9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Piaget Polo Minute Repeater—Seen in the Metal, the Blue Dial Steals the Show",
@@ -1142,7 +1159,7 @@
       "score_quality": 77,
       "score_notif": 33,
       "cluster": "20261021-a7e66e9b4bb9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Four New Blacked-Out Certina DS Action Watches: Two 38mm Divers And Two Quartz Chronos",
@@ -2406,25 +2423,6 @@
       "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
       "cluster_main": false
-    },
-    {
-      "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
-      "url": "https://www.perpetualpassion.com/2026/10/14/vacheron-constantin-concours-elegance-2026-finalisti/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/Mercator_Ref-43050_2002.avif",
-      "peek_preview": "Oltre 550 candidature da tutto il mondo, 34 orologi finalisti e sette categorie in gara. Vacheron Constantin e [...] L'articolo Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti proviene da PE...",
-      "categories": [
-        "Just In",
-        "Vacheron Constantin",
-        "home"
-      ],
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-14T07:42:58.000Z",
-      "score_quality": 63,
-      "score_notif": 23,
-      "cluster": "20261014-4f233e3c69dd",
-      "cluster_main": true
     }
   ]
 }
