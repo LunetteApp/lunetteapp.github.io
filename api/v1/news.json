@@ -1,6 +1,6 @@
 {
-  "content_hash": "01ff7bdad7838f27912411bd52391448264035a5a3ef7965836f060a486ba690",
-  "last_updated": "2026-10-23T16:47:33.267Z",
+  "content_hash": "4694c22ec68ec48f617a9b71b1cc3bc5fd126f041770ee1f607e2ac9aff1a058",
+  "last_updated": "2026-10-23T17:47:37.825Z",
   "premium": {
     "links": []
   },
@@ -15,7 +15,7 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
+      "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T14:00:24.000Z"
     },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T16:10:33.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T20:00:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T17:00:52.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-23T16:27:44.000Z"
+      "latest_article_at": "2026-10-23T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T14:44:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T16:54:36.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -120,7 +120,7 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.7,
+      "estimated_articles_per_day": 0.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-22T11:24:53.000Z"
     },
@@ -176,6 +176,39 @@
   ],
   "items": [
     {
+      "title": "Junghans Brand Review: Getting To Know The Bauhaus Watchmaker",
+      "url": "https://teddybaldassarre.com/blogs/watches/junghans-brand-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Junghans-Max-Bill-Handwound-2_505be302-5155-4bba-9362-fa05ab1318c6.jpg?v=1670516917",
+      "peek_preview": "[toc-section heading=\"The Soul of Schramberg\"] Holding a Junghans watch in real life for the first time can be an unusual experience, especially if you’ve spent many years wearing hefty steel sports watches. These Germa...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-23T17:00:52.000Z",
+      "score_quality": 58,
+      "score_notif": 24,
+      "cluster": "20261023-7b38dcae9afc",
+      "cluster_main": true
+    },
+    {
+      "title": "Insider: Singer Reimagined Caballero Titanium Avio Blue—The Brand's First Three-Hand Watch Delivers Six Days of Power Reserve",
+      "url": "https://www.watchcollectinglifestyle.com/home/singer-reimagined-caballero-titanium-avio-blue-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1792772247214-8XS7ZNG3CR58IG5KPPVQ/Singer+Caballero+Titanium+Avio+Blue-7.jpg?format=1500w",
+      "peek_preview": "Singer Reimagined has never whispered, so the Caballero Titanium Avio Blue deserves a closer look. Singer built its name on chronographs and timers that wear their engineering openly; the Caballero collection is the bra...",
+      "categories": [
+        "Singer Reimagined",
+        "Other Brands"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-23T16:54:36.000Z",
+      "score_quality": 79,
+      "score_notif": 68,
+      "cluster": "20261023-b0fa5a359681",
+      "cluster_main": true
+    },
+    {
       "title": "Business News: LVMH-Owned Zenith Is Restructuring In Major Reset As Brand Plans Job Cuts And Production Drop In Shift To High-End Market",
       "url": "https://www.hodinkee.com/articles/lvmh-owned-zenith-brand-to-restructure-in-major-shift-expected-to-cut-jobs-and-production-volumes-in",
       "image": "https://hodinkee.imgix.net/uploads/images/ebfc8044-bb4a-4aca-a810-d49e2f7dd082/DSCF1860.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -224,8 +257,8 @@
       "published_at": "2026-10-23T14:00:24.000Z",
       "score_quality": 57,
       "score_notif": 33,
-      "cluster": "20261020-704d95768886",
-      "cluster_main": false
+      "cluster": "20261023-e8a5cd0ddfc8",
+      "cluster_main": true
     },
     {
       "title": "First Look – Certina Brings Fresh Coloured Accents to the DS Action Diver 38mm Black",
@@ -639,7 +672,7 @@
       "featured": false,
       "published_at": "2026-10-22T17:00:13.000Z",
       "score_quality": 89,
-      "score_notif": 44,
+      "score_notif": 34,
       "cluster": "20261022-1a633c97c5b3",
       "cluster_main": true
     },
@@ -1184,7 +1217,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-476eba5f82c7",
+      "cluster": "20261021-ddbe87302978",
       "cluster_main": true
     },
     {
@@ -1203,7 +1236,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -1460,21 +1493,6 @@
       "score_quality": 34,
       "score_notif": 12,
       "cluster": "20261020-c09f8ef907c6",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Oris Kelp Forest Limited Edition",
-      "url": "https://www.hodinkee.com/articles/the-oris-kelp-forest-limited-edition",
-      "image": "https://hodinkee.imgix.net/uploads/images/4b853364-95d3-4307-bf19-62da859d14a8/oriskelpheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A new Aquis dive watch inspired by and centered on kelp forests.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-20T18:00:00.000Z",
-      "score_quality": 63,
-      "score_notif": 33,
-      "cluster": "20261020-704d95768886",
       "cluster_main": true
     },
     {
@@ -1808,7 +1826,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -2179,7 +2197,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -2378,38 +2396,6 @@
       "score_notif": 32,
       "cluster": "20261015-095e182f5295",
       "cluster_main": false
-    },
-    {
-      "title": "Citizen Photon Review: Why It's The Ultimate Eco-Drive Watch",
-      "url": "https://teddybaldassarre.com/blogs/watches/citizen-eco-drive-photon-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Eco-Drive-Photon-watch-2_66c9c743-17f8-4b59-a155-4b0bf6faa441.jpg?v=1791915237",
-      "peek_preview": "Citizen Watch Co. has been in business since 1930, and has been responsible for several watch-industry milestones, including Japan’s first waterproof watch and the first watch with a titanium case. But here in the 21st...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-14T16:01:28.000Z",
-      "score_quality": 74,
-      "score_notif": 27,
-      "cluster": "20261014-29245649c5b3",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Hermès H08 in Blanc and Bleu de Malte—The Fiberglass Watch Steps Out of the Shadows",
-      "url": "https://www.watchcollectinglifestyle.com/home/hermes-h08-blanc-and-bleu-de-malte",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791992410740-SYDME152KCXLCINJ26U6/Hermes+H08+Bleu+de+Malte+and+Blanc+de+Chantilly.jpg?format=1500w",
-      "peek_preview": "Hermès has introduced two new versions of the H08, the house’s cushion-cased sports watch since 2021, and they take its signature glass fiber composite case from dark to luminous. Until now, the fiberglass H08 has had a...",
-      "categories": [
-        "Hermès"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-14T15:48:48.000Z",
-      "score_quality": 74,
-      "score_notif": 29,
-      "cluster": "20261014-00142600c9a0",
-      "cluster_main": true
     }
   ]
 }
