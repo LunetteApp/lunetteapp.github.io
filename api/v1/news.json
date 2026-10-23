@@ -1,6 +1,6 @@
 {
-  "content_hash": "fb98f86aaace56801634e758c7f0bffd2f4b916886efe3263670eda2055cd948",
-  "last_updated": "2026-10-23T00:48:56.147Z",
+  "content_hash": "7667612cca3aff81e7afa1ad5f37835e384c9b5a429df3fbe28f78380f518c52",
+  "last_updated": "2026-10-23T01:47:31.860Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T01:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T01:00:36.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T00:00:55.000Z"
     },
     {
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: Louis Vuitton Monterey Ceramic",
+      "url": "https://watchesbysjx.com/2026/10/louis-vuitton-monterey-ceramic-review.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Louis-Vuitton-Monterey-ceramic-black-1-300x200.jpg",
+      "peek_preview": "Louis Vuitton’s second instalment of its 1980s revival model is the Monterey Ceramic. Styled like its predecessor – both share a similar inspiration – the new Monterey is simpler in execution and consequently more acces...",
+      "categories": [
+        "Reviews",
+        "Louis Vuitton",
+        "New Watches 2026"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-23T01:00:36.000Z",
+      "score_quality": 85,
+      "score_notif": 52,
+      "cluster": "20261023-6b6849b71c5c",
+      "cluster_main": true
+    },
     {
       "title": "ウブロの原点に立ち返った「クラシック・フュージョン トリビュート」2モデルが登場",
       "url": "https://www.webchronos.net/news/176557/",
@@ -654,7 +673,7 @@
       "featured": false,
       "published_at": "2026-10-22T01:00:39.000Z",
       "score_quality": 81,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261022-0b6ab5bf4364",
       "cluster_main": true
     },
@@ -853,7 +872,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-ddbe87302978",
+      "cluster": "20261021-476eba5f82c7",
       "cluster_main": true
     },
     {
@@ -872,7 +891,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -951,8 +970,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster": "20261021-1cc9b16f5c8e",
+      "cluster_main": true
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1355,7 +1374,7 @@
       "score_quality": 64,
       "score_notif": 28,
       "cluster": "20261020-4974d2d9854b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Timex Intrepid x Dimepiece ‘Blackout’ Edition",
@@ -1370,7 +1389,7 @@
       "score_quality": 66,
       "score_notif": 28,
       "cluster": "20261020-4974d2d9854b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mid-Century Manliness: Movado Heritage Kingmatic Automatic Watch Review",
@@ -1460,8 +1479,8 @@
       "published_at": "2026-10-20T00:00:11.000Z",
       "score_quality": 60,
       "score_notif": 23,
-      "cluster": "20261014-17c309287266",
-      "cluster_main": false
+      "cluster": "20261020-0fe6bdbe9e77",
+      "cluster_main": true
     },
     {
       "title": "‘Uncomplicated’ Americans: Notes from New York Watch Week",
@@ -1643,7 +1662,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -1868,7 +1887,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -2009,7 +2028,7 @@
       "published_at": "2026-10-17T05:42:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261014-5d0626ae1e95",
+      "cluster": "20261017-7fb653d4aae7",
       "cluster_main": true
     },
     {
@@ -2068,7 +2087,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -2088,7 +2107,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -2386,7 +2405,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance 2026: svelati i 34 orologi finalisti",
@@ -2405,25 +2424,6 @@
       "score_quality": 63,
       "score_notif": 23,
       "cluster": "20261014-4f233e3c69dd",
-      "cluster_main": true
-    },
-    {
-      "title": "Jaquet Droz Unveils Pièce Unique for TimeForArt",
-      "url": "https://watchesbysjx.com/2026/10/jaquet-droz-petite-heure-minute-les-volumes-du-temps-timeforart.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Jaquet-Droz-Petite-Heure-Minutes-Les-Volumes-Du-Temps-timeforart-2026-3x2-centred-header-300x200.jpg",
-      "peek_preview": "The Jaquet Droz Petite Heure Minute Les Volumes du Temps is a unique watch created for the upcoming TimeForArt charity auction, penned by a student artist at the Académie de Meuron. Its dragging hour and minute discs de...",
-      "categories": [
-        "News",
-        "Jaquet Droz",
-        "New Watches 2026"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-14T01:00:24.000Z",
-      "score_quality": 75,
-      "score_notif": 23,
-      "cluster": "20261014-17c309287266",
       "cluster_main": true
     }
   ]
