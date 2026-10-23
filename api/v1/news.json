@@ -1,6 +1,6 @@
 {
-  "content_hash": "be489fd2fe37cea9e6a3324e7add6cd950d4127f0f1d670cb7d38ad8077972f4",
-  "last_updated": "2026-10-23T12:46:07.217Z",
+  "content_hash": "fb7b815eea929db0a571701150b4ef3ba5b44c9e92a91b8db1b33e752f744ef0",
+  "last_updated": "2026-10-23T14:49:03.549Z",
   "premium": {
     "links": []
   },
@@ -8,23 +8,23 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
+      "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T11:00:27.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T20:00:58.000Z"
+      "estimated_articles_per_day": 1.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T14:00:24.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-23T10:00:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T13:00:48.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T13:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T19:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,81 @@
   ],
   "items": [
     {
+      "title": "Oris Introduces the Kelp Forest Limited Edition",
+      "url": "https://wornandwound.com/oris-introduces-the-kelp-forest-limited-edition/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Oris-Kelp-3.jpg",
+      "peek_preview": "At my rather hippie-dippie public elementary school, the entire student body performed an ocean conservation-themed musical number every year in a school-wide assembly. We decorated hats for different ocean ecosystems,...",
+      "categories": [
+        "News & Releases",
+        "Oris"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-23T14:00:24.000Z",
+      "score_quality": 57,
+      "score_notif": 33,
+      "cluster": "20261020-704d95768886",
+      "cluster_main": false
+    },
+    {
+      "title": "First Look – Certina Brings Fresh Coloured Accents to the DS Action Diver 38mm Black",
+      "url": "https://monochrome-watches.com/certina-ds-action-diver-38mm-black-pvd-orange-teal-2026-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-Certina-DS-Action-Diver-38mm-Black-PVD-Coloured-Accents-Padel-review-1-600x237.jpg",
+      "peek_preview": "Certina’s DS Action Diver is an accessible, practical dive watch, available in several sizes, materials and colours. The collection was updated in 2025, receiving enhanced shock resistance and new material combinations....",
+      "categories": [
+        "Certina",
+        "2026",
+        "Dive Watches",
+        "Novelty",
+        "Value Proposition"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-23T13:00:48.000Z",
+      "score_quality": 80,
+      "score_notif": 61,
+      "cluster": "20261023-4958925e7e49",
+      "cluster_main": true
+    },
+    {
+      "title": "New: Favre Leuba Chief Tourbillon Guilloché",
+      "url": "https://deployant.com/new-favre-leuba-chief-tourbillon-guilloche/?utm_source=rss&utm_medium=rss&utm_campaign=new-favre-leuba-chief-tourbillon-guilloche",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/Chief-Tourbillon-Guilloche1-for-deployant.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Favre Leuba follows its 2025 Chief Tourbillon with a second limited edition, the Chief Tourbillon Guilloché. This new version retains the 41mm cushion shaped...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "favre lauba",
+        "tourbillion"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-23T13:00:00.000Z",
+      "score_quality": 58,
+      "score_notif": 55,
+      "cluster": "20261023-1f5fe0b39b30",
+      "cluster_main": true
+    },
+    {
+      "title": "Interview: Eivind “Edthezilla” Németh And The Journey To A Rexhep Rexhepi",
+      "url": "https://www.hodinkee.com/articles/edzilla-collector-interview",
+      "image": "https://hodinkee.imgix.net/uploads/articles/a327c748-11bf-47e2-81ea-f84a82132750/edthezillaheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "How \"just a simple guy from Norway\" landed a dream watch.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-23T13:00:00.000Z",
+      "score_quality": 76,
+      "score_notif": 30,
+      "cluster": "20261023-6f6d242d770a",
+      "cluster_main": true
+    },
+    {
       "title": "Making ‘Chasing Time,’ the First Real Watch Documentary (w/ Adam Golden and Chris Gary)",
       "url": "https://www.unpolishedwatches.com/p/making-chasing-time-the-first-real",
       "image": "https://substackcdn.com/image/fetch/$s_!DQ6l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa770c594-e8c8-4084-b31f-393f9be8db0d_1080x1600.jpeg",
@@ -266,23 +341,6 @@
       "score_quality": 78,
       "score_notif": 64,
       "cluster": "20261023-fdd328eb6ad1",
-      "cluster_main": true
-    },
-    {
-      "title": "The Top 5 Sinn Watches That Fly Under The Radar",
-      "url": "https://www.fratellowatches.com/the-top-5-sinn-watches-that-fly-under-the-radar/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Sinn-857-S-1739-St-I-S-6096-206-St-Ar-EZM-12-5.jpg",
-      "peek_preview": "Another Friday, another list. This week’s Top 5 is a collaboration with German watchmaker Sinn. As many of you know, we’re fans of the brand, and some of us own several of its timepieces. Sinn’s focus on functionality h...",
-      "categories": [
-        "Watch Talk"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-23T09:00:30.000Z",
-      "score_quality": 18,
-      "score_notif": 10,
-      "cluster": "20261023-366ba2aabfc6",
       "cluster_main": true
     },
     {
@@ -511,7 +569,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: the Gagà Laboratorio Aqualab",
@@ -567,8 +625,8 @@
       "published_at": "2026-10-22T16:00:21.000Z",
       "score_quality": 61,
       "score_notif": 33,
-      "cluster": "20261021-a7e66e9b4bb9",
-      "cluster_main": false
+      "cluster": "20261022-752ed7649112",
+      "cluster_main": true
     },
     {
       "title": "Insider: Piaget Polo Minute Repeater—Seen in the Metal, the Blue Dial Steals the Show",
@@ -583,7 +641,7 @@
       "featured": false,
       "published_at": "2026-10-22T14:44:22.000Z",
       "score_quality": 73,
-      "score_notif": 57,
+      "score_notif": 34,
       "cluster": "20261022-0fe1bde5585a",
       "cluster_main": true
     },
@@ -646,7 +704,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Breitling Navitimer B09 And B02 Cosmonaute 41mm Chronographs",
@@ -661,7 +719,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Breitling Adds Two New Manual-Wind Navitimers To The Core Collection",
@@ -721,7 +779,7 @@
       "published_at": "2026-10-22T11:00:48.000Z",
       "score_quality": 76,
       "score_notif": 30,
-      "cluster": "20261022-ed0056de7752",
+      "cluster": "20261019-a6a167341db8",
       "cluster_main": true
     },
     {
@@ -996,7 +1054,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "It’s Dame Time: The New Manual-Wind Tissot PRX Skeleton Special Edition",
@@ -1072,7 +1130,7 @@
       "score_quality": 70,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -1190,8 +1248,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster": "20261021-1cc9b16f5c8e",
+      "cluster_main": true
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1326,27 +1384,6 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261021-8498b504aa33",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Yema’s Ambitious New Spacegraf Heure Siderale Tourbillon Volant Limited Edition",
-      "url": "https://monochrome-watches.com/yema-spacegraf-heure-siderale-tourbillon-volant-millesime-2026-limited-edition-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Yema-Spacegraf-Heure-Siderale-Tourbillon-Volant-Limited-Edition-1-600x237.jpg",
-      "peek_preview": "Yema’s Millésime series represents the most elaborate expression of its watchmaking ambitions, offering French manufacturing and complications rarely seen at this price point, in limited-production series. Following las...",
-      "categories": [
-        "Yema",
-        "2026",
-        "Astronomical watches",
-        "Novelty",
-        "Tourbillon"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T07:00:52.000Z",
-      "score_quality": 77,
-      "score_notif": 33,
-      "cluster": "20261021-a7e66e9b4bb9",
       "cluster_main": true
     },
     {
@@ -1676,21 +1713,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Frederique Constant Manufacture Classic Perpetual Calendar Burgundy Limited Edition (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/fredrique-constant-manufacture-classic-perpetual-calendar-burgundy-limited-edition-live-pics",
-      "image": "https://hodinkee.imgix.net/uploads/images/caee6fe5-6bca-4332-9f67-35cda8e2cb07/fc-qp.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A burgundy dial and a second alligator strap come to the redesigned perpetual calendar, limited to 100 pieces.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-19T19:00:00.000Z",
-      "score_quality": 74,
-      "score_notif": 33,
-      "cluster": "20261019-800747b7c9c7",
-      "cluster_main": true
-    },
-    {
       "title": "Ressence Debuts a Fully Blued-Out Version with Its New Type 10 Dark Night",
       "url": "https://wornandwound.com/ressence-debuts-a-fully-blued-out-version-with-its-new-type-10-dark-night/",
       "image": "https://wornandwound.com/library/uploads/2026/10/Ressence-Type-10-SD-57.jpg",
@@ -1804,7 +1826,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -1823,7 +1845,7 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20261019-a6a167341db8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Milano Watch Week 2026 proves Milan is becoming a watch capital",
@@ -2014,7 +2036,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -2175,7 +2197,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -2195,7 +2217,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
@@ -2291,7 +2313,7 @@
       "score_quality": 76,
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot presenta il nuovo Classic Fusion Tributo: 12 viti e 46 anni nel segno di Carlo Crocco",
@@ -2333,7 +2355,7 @@
       "score_quality": 78,
       "score_notif": 32,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New: Urwerk UR-300 Time Quantum",
@@ -2353,7 +2375,7 @@
       "score_quality": 56,
       "score_notif": 32,
       "cluster": "20261015-095e182f5295",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Urwerk UR-300 Time Quantum: le ore vagabonde cambiano forma",
@@ -2374,38 +2396,6 @@
       "score_notif": 32,
       "cluster": "20261015-095e182f5295",
       "cluster_main": false
-    },
-    {
-      "title": "Citizen Photon Review: Why It's The Ultimate Eco-Drive Watch",
-      "url": "https://teddybaldassarre.com/blogs/watches/citizen-eco-drive-photon-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Eco-Drive-Photon-watch-2_66c9c743-17f8-4b59-a155-4b0bf6faa441.jpg?v=1791915237",
-      "peek_preview": "Citizen Watch Co. has been in business since 1930, and has been responsible for several watch-industry milestones, including Japan’s first waterproof watch and the first watch with a titanium case. But here in the 21st...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-14T16:01:28.000Z",
-      "score_quality": 65,
-      "score_notif": 27,
-      "cluster": "20261014-29245649c5b3",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Hermès H08 in Blanc and Bleu de Malte—The Fiberglass Watch Steps Out of the Shadows",
-      "url": "https://www.watchcollectinglifestyle.com/home/hermes-h08-blanc-and-bleu-de-malte",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1791992410740-SYDME152KCXLCINJ26U6/Hermes+H08+Bleu+de+Malte+and+Blanc+de+Chantilly.jpg?format=1500w",
-      "peek_preview": "Hermès has introduced two new versions of the H08, the house’s cushion-cased sports watch since 2021, and they take its signature glass fiber composite case from dark to luminous. Until now, the fiberglass H08 has had a...",
-      "categories": [
-        "Hermès"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-14T15:48:48.000Z",
-      "score_quality": 71,
-      "score_notif": 28,
-      "cluster": "20261014-00142600c9a0",
-      "cluster_main": true
     }
   ]
 }
