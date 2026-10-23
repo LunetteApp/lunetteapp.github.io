@@ -1,6 +1,6 @@
 {
-  "content_hash": "e67fe3a0b5f1b8cfa93fe796915d1988a2828c02753e4c8fc3b59aa34ed248e6",
-  "last_updated": "2026-10-23T05:47:21.441Z",
+  "content_hash": "7deffa451ae6ad4e076897af7a503da465887994711cc7541eadd4f0d08fc0d7",
+  "last_updated": "2026-10-23T06:49:56.809Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-23T05:00:07.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T22:21:05.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-23T06:01:15.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Born to rave: Tudor gets into techno, AP gets into CPO, and Eberhard & Co. opens its museum doors",
+      "url": "https://timeandtidewatches.com/tudor-gets-into-techno-ap-gets-into-cpo-and-eberhard-co-opens-its-museum-doors-friday-wind-down/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/TUDOR_CharlotteDeWitte-6.jpg",
+      "peek_preview": "These days it seems like the watch industry never really goes into rest mode. There are so many announcements and novelties each week. We’ll save the new releases for our upcoming Last Week in Watches, so right now I wa...",
+      "categories": [
+        "Friday Wind Down"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-23T06:01:15.000Z",
+      "score_quality": 34,
+      "score_notif": 24,
+      "cluster": "20261023-b88f01a6c3af",
+      "cluster_main": true
+    },
     {
       "title": "Video: Hands-On With The Breguet Classique Tourbillon 7357 In Platinum And Gold",
       "url": "https://www.fratellowatches.com/video-breguet-classique-tourbillon-7357-in-platinum-and-gold/",
@@ -380,7 +397,7 @@
       "score_quality": 61,
       "score_notif": 33,
       "cluster": "20261021-a7e66e9b4bb9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Piaget Polo Minute Repeater—Seen in the Metal, the Blue Dial Steals the Show",
@@ -576,7 +593,7 @@
       "featured": false,
       "published_at": "2026-10-22T09:11:39.000Z",
       "score_quality": 73,
-      "score_notif": 48,
+      "score_notif": 34,
       "cluster": "20261022-4090a9348b1e",
       "cluster_main": true
     },
@@ -653,7 +670,7 @@
       "featured": false,
       "published_at": "2026-10-22T05:48:00.000Z",
       "score_quality": 60,
-      "score_notif": 55,
+      "score_notif": 34,
       "cluster": "20261022-ae9475bc1bcf",
       "cluster_main": true
     },
@@ -904,7 +921,7 @@
       "published_at": "2026-10-21T15:00:47.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261021-476eba5f82c7",
+      "cluster": "20261021-ddbe87302978",
       "cluster_main": true
     },
     {
@@ -923,7 +940,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261021-ddbe87302978",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
@@ -1002,8 +1019,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster": "20261021-1cc9b16f5c8e",
+      "cluster_main": true
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1159,7 +1176,7 @@
       "score_quality": 77,
       "score_notif": 33,
       "cluster": "20261021-a7e66e9b4bb9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Four New Blacked-Out Certina DS Action Watches: Two 38mm Divers And Two Quartz Chronos",
@@ -1261,7 +1278,7 @@
       "score_quality": 74,
       "score_notif": 33,
       "cluster": "20261020-704d95768886",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Introduces The Aquis Date Kelp Forest Limited Edition",
@@ -1294,7 +1311,7 @@
       "score_quality": 63,
       "score_notif": 33,
       "cluster": "20261020-704d95768886",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Jaeger-LeCoultre Master Ultra Thin Moon, now in an Elegant 36mm Pink Gold Case",
@@ -2045,7 +2062,7 @@
       "published_at": "2026-10-17T05:42:00.000Z",
       "score_quality": 61,
       "score_notif": 34,
-      "cluster": "20261014-5d0626ae1e95",
+      "cluster": "20261017-7fb653d4aae7",
       "cluster_main": true
     },
     {
@@ -2404,25 +2421,6 @@
       "score_notif": 15,
       "cluster": "20261014-1f5187f881e4",
       "cluster_main": true
-    },
-    {
-      "title": "Mido Multifort TV Big Date Chronometer: la mia recensione al polso",
-      "url": "https://www.orologidiclasse.com/mido-multifort-tv-big-date-chronometer/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/mido-multifort-tv-big-date-chronometer.jpg",
-      "peek_preview": "L’ho avuto al polso qualche giorno e la prima cosa che ho notato è stata quella scacchiera rettangolare sul quadrante blu: cambia aspetto ogni volta che inclini il polso, e nelle foto non lo capisci. Il Mido Multifort T...",
-      "categories": [
-        "Recensioni Orologi",
-        "Cronometro",
-        "MIDO"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-14T08:00:02.000Z",
-      "score_quality": 70,
-      "score_notif": 34,
-      "cluster": "20261014-5d0626ae1e95",
-      "cluster_main": false
     }
   ]
 }
