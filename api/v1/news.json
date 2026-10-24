@@ -1,6 +1,6 @@
 {
-  "content_hash": "a643ac2b07275c3e11024c510a1458b5c1b2b2db42041655a4e3f7943798756a",
-  "last_updated": "2026-10-24T02:46:03.868Z",
+  "content_hash": "74c630624f1aeb7dabd2d9507a1df5ea144795a4a2380748b64abc3330726335",
+  "last_updated": "2026-10-24T03:46:00.328Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-24T02:33:43.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-24T00:00:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-24T03:00:00.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -516,7 +516,7 @@
       "featured": false,
       "published_at": "2026-10-23T03:00:50.000Z",
       "score_quality": 61,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261023-c430f4d9222f",
       "cluster_main": true
     },
@@ -2322,26 +2322,6 @@
       "score_notif": 32,
       "cluster": "20261015-095e182f5295",
       "cluster_main": true
-    },
-    {
-      "title": "New: Urwerk UR-300 Time Quantum",
-      "url": "https://deployant.com/new-urwerk-ur-300-time-quantum/?utm_source=rss&utm_medium=rss&utm_campaign=new-urwerk-ur-300-time-quantum",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/ur-300_lifestyle_07-for-deployant.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Urwerk releases a new collection with a fresh new case and movement and an interesting story accompanying the UR-300 Time Quantum. The story leverages on quan...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "urwerk"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-15T08:00:00.000Z",
-      "score_quality": 56,
-      "score_notif": 32,
-      "cluster": "20261015-095e182f5295",
-      "cluster_main": false
     }
   ]
 }
