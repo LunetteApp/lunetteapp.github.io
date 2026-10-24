@@ -149,7 +149,7 @@ function analysisFixture(t, fail) {
   // manual force-rescoring setting.
   const fixtureEnv = { ...process.env, NEWS_FORCE_RESCORING: "false", NEWS_USAGE_PATH: path.join(root, "usage.json") };
   const result = spawnSync(process.execPath, ["--require", "./provider-stub.js", "scripts/analyze-news.js"], { cwd: root, encoding: "utf8", env: fixtureEnv });
-  assert.equal(result.status, 0, result.stdout + result.stderr);
+  assert.equal(result.status, fail ? 1 : 0, result.stdout + result.stderr);
   return {
     root, articles, env: fixtureEnv, output: result.stdout,
     usage: JSON.parse(fs.readFileSync(fixtureEnv.NEWS_USAGE_PATH, "utf8")),

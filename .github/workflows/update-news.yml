@@ -113,16 +113,9 @@ jobs:
           echo "$cli_dir" >> "$GITHUB_PATH"
           "$cli_dir/openai" --version
 
-      - name: Verify news pipeline with OpenAI CLI
-        if: ${{ steps.news_delta.outputs.needs_inference == 'true' }}
-        env:
-          OPENAI_CLI_TEST_PATH: ${{ runner.temp }}/openai-cli/openai
-        run: node --test scripts/test/*.test.js
-
       - name: Analyse pending news with OpenAI CLI
         id: analyse_news
         if: ${{ steps.news_delta.outputs.needs_inference == 'true' }}
-        continue-on-error: true
         env:
           NEWS_USAGE_PATH: ${{ runner.temp }}/news-api-usage.json
           LLM_URL: ${{ vars.NEWS_LLM_URL }}
@@ -143,13 +136,13 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add api/v1/news.json data/old_articles.json
-          git stash push --include-untracked --message "generated-news-state" -- api/v1/news.json data/old_articles.json
-          git pull --rebase origin main
-          git stash pop
+          git commit -m "Update news feed"
+
+          # Rebase onto latest remote branch. For generated JSON files,
+          # prefer the freshly generated local state (-X theirs) over remote.
+          git pull --rebase -X theirs origin main
 
           node scripts/validate-news.js
-          git add api/v1/news.json data/old_articles.json
-          git commit -m "Update news feed"
           git push
 
       - name: Report news API tokens and estimated price

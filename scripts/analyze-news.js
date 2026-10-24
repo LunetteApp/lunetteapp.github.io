@@ -307,19 +307,20 @@ async function analyzePendingNews(usage, recordUsage) {
       record.scoring_pending = true;
       record.clustering_pending = true;
     }
+    throw error;
+  } finally {
+    news.last_updated = new Date().toISOString();
+    writeFileAtomically(CANDIDATES_PATH, serializedNews(news));
+    writeFileAtomically(NEWS_PATH, serializedNews(publishableNews(news, history)));
+    writeArticleHistory(history, HISTORY_PATH);
+    const remaining = news.items.filter((article) =>
+      historyRecord(history, article.url)?.scoring_pending === true
+    ).length;
+    const spend = provider.totalSpend();
+    recordUsage(spend);
+    log(`Analysis complete; ${remaining} article(s) remain pending`);
+    log(`Run cost ${spend.formatted} over ${spend.calls} call(s); tokens in=${spend.input} out=${spend.output}`);
   }
-
-  news.last_updated = new Date().toISOString();
-  writeFileAtomically(CANDIDATES_PATH, serializedNews(news));
-  writeFileAtomically(NEWS_PATH, serializedNews(publishableNews(news, history)));
-  writeArticleHistory(history, HISTORY_PATH);
-  const remaining = news.items.filter((article) =>
-    historyRecord(history, article.url)?.scoring_pending === true
-  ).length;
-  const spend = provider.totalSpend();
-  recordUsage(spend);
-  log(`Analysis complete; ${remaining} article(s) remain pending`);
-  log(`Run cost ${spend.formatted} over ${spend.calls} call(s); tokens in=${spend.input} out=${spend.output}`);
 }
 
 async function analyseArticles(articles, model, requestFunction, { forceRescoring = false } = {}) {
