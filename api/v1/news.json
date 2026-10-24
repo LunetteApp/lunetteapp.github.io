@@ -1,6 +1,6 @@
 {
-  "content_hash": "a8b496103e8a92fb1f45855da73a2e924fadedf2957029faa801c44f3fcbf7d3",
-  "last_updated": "2026-10-24T07:46:18.021Z",
+  "content_hash": "406afc380f6b71cc8643c9414281229b7eb2c831feee43aa72699e9c3a3f62aa",
+  "last_updated": "2026-10-24T08:45:59.639Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-24T07:01:53.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-24T07:00:34.000Z"
     },
     {
@@ -425,7 +425,7 @@
       "featured": false,
       "published_at": "2026-10-23T08:06:58.000Z",
       "score_quality": 45,
-      "score_notif": 56,
+      "score_notif": 34,
       "cluster": "20261023-6b9a28f15d5d",
       "cluster_main": true
     },
@@ -1255,28 +1255,6 @@
       "score_quality": 56,
       "score_notif": 34,
       "cluster": "20261021-6a7aa90d24b8",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – The Goddess Returns to Villeret on the Minerva Exo Tourbillon Skeleton Limited Edition",
-      "url": "https://monochrome-watches.com/minerva-goddess-returns-to-villeret-on-the-minerva-exo-tourbillon-skeleton-limited-edition-18-ref-137551-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-Minerva-Exo-Tourbillon-Skeleton-Limited-Edition-18-Minerva-Goddess-face-review-11-600x237.jpg",
-      "peek_preview": "The Minerva Exo Tourbillon Skeleton marks the manufacture’s transition to a standalone brand structure, dropping the previous dual Montblanc branding to focus entirely on its own heritage. Limited to just 18 pieces in r...",
-      "categories": [
-        "Minerva",
-        "2026",
-        "High-end Watches",
-        "Novelty",
-        "Skeleton Watches",
-        "Tourbillon"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T13:00:02.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261021-87947148ce53",
       "cluster_main": true
     },
     {
@@ -2246,6 +2224,26 @@
       "score_notif": 23,
       "cluster": "20261015-5b89066bd3ad",
       "cluster_main": false
+    },
+    {
+      "title": "Urwerk Takes a Quantum Leap with the UR-300",
+      "url": "https://watchesbysjx.com/2026/10/urwerk-ur-300-time-quantum.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Urwerk-UR-300-Time-Quantum-hero-300x200.jpg",
+      "peek_preview": "Urwerk’s latest interpretation of the wandering hours complication ventures beyond classical physics with the UR-300 Time Quantum, which debuts a cleverly constructed jumping display inspired by quantum mechanics. House...",
+      "categories": [
+        "News",
+        "Independent watchmaking",
+        "New Watches 2026",
+        "Urwerk"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-15T08:00:23.000Z",
+      "score_quality": -1,
+      "score_notif": -1,
+      "cluster": "20261015-491dc5b64d6e",
+      "cluster_main": true
     }
   ]
 }
