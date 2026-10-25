@@ -1,6 +1,6 @@
 {
-  "content_hash": "d97d948823ae06075f4f776ebdb70299e1169879efa1280660a0c0b96d15e7d1",
-  "last_updated": "2026-10-25T05:45:51.742Z",
+  "content_hash": "36eb78588f181990afe8003c6f1da15cee4a854091688e270f12a1e9acbbe2e1",
+  "last_updated": "2026-10-25T06:46:58.520Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-24T11:00:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-25T06:00:24.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-24T14:30:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-25T06:00:00.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-24T05:30:00.000Z"
     },
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Sunday Morning Showdown: Orient Flusso Vs. Tissot PRX",
+      "url": "https://www.fratellowatches.com/sunday-morning-showdown-orient-flusso-vs-tissot-prx/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Showdown-Tissot-PRX-Powermatic-vs-Orient-Flusso-01.jpg",
+      "peek_preview": "Howdy, folks! And welcome back to another Sunday Morning Showdown. This week, we’re putting up two watches that are similar in many ways, despite being produced in countries separated by just under 10,000 kilometers of...",
+      "categories": [
+        "Sunday Morning Showdown"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-25T06:00:24.000Z",
+      "score_quality": 54,
+      "score_notif": 22,
+      "cluster": "20261025-a31a33a6b69f",
+      "cluster_main": true
+    },
     {
       "title": "フランク ミュラーがファッションドール「Barbie®」とのコラボレーションモデル「ヴァンガード レディ バービー」を発表",
       "url": "https://www.webchronos.net/news/176807/",
@@ -328,7 +345,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261023-a1f2ebe3d2d8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A. Lange & Söhne Unveils Datograph Perpetual With Platinum Bracelet",
@@ -860,7 +877,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261023-a1f2ebe3d2d8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MING Tackles Worldtimer Complication With 57.05 ‘Comet’ Watch: Hands-On",
@@ -1305,25 +1322,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: The Refreshingly Different Briston Clubmaster Legend Compressor",
-      "url": "https://www.fratellowatches.com/hands-on-the-refreshingly-different-briston-clubmaster-legend-compressor/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Briston-Clubmaster-Legend-Compressor-2.jpg",
-      "peek_preview": "It’s not every day that I walk into the Fratello photo studio and come out genuinely surprised. That’s what happened when our photographer, Max, was shooting a set of cushion-shaped Briston dive watches, including one w...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-22T09:00:59.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261022-e8adfc9d58e1",
-      "cluster_main": true
-    },
-    {
       "title": "Victorinox Maverick Automatic 39mm Is A Surprisingly Social Sports Watch: Review",
       "url": "https://www.ablogtowatch.com/victorinox-maverick-automatic-39mm-is-a-surprisingly-social-sports-watch-review/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Victorinox-Maverick-Automatic-39-watch-1-768x346.jpg",
@@ -1595,8 +1593,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster": "20261021-1cc9b16f5c8e",
+      "cluster_main": true
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -2039,7 +2037,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -2098,27 +2096,6 @@
       "score_quality": 28,
       "score_notif": 10,
       "cluster": "20261019-07f7269cd67f",
-      "cluster_main": true
-    },
-    {
-      "title": "Aussie brand EXOFI launches debut dive watch, the Wolf Rock 42",
-      "url": "https://timeandtidewatches.com/exofi-wolf-rock-42-micro-mondays/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/EXOFI-Wolf-Rock-42-Hero.jpg",
-      "peek_preview": "Australia's microbrand scene has a new contender. We take a closer look at the EXOFI Wolf Rock 42, a dive watch inspired by Queensland's coast The post Aussie brand EXOFI launches debut dive watch, the Wolf Rock 42 appe...",
-      "categories": [
-        "Micro Mondays",
-        "dive watch",
-        "meta:micro-mondays",
-        "micro mondays",
-        "microbrand"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-19T07:00:54.000Z",
-      "score_quality": 61,
-      "score_notif": 27,
-      "cluster": "20261019-2a8a2c0b9c9a",
       "cluster_main": true
     },
     {
@@ -2337,7 +2314,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
