@@ -1,6 +1,6 @@
 {
-  "content_hash": "8f8363ee5e114f72a00e5a49304e8218342274f55bcaccd55964b6fd9e361a3a",
-  "last_updated": "2026-10-25T08:47:05.776Z",
+  "content_hash": "03e07cc67343420b602a6480bc2b2f795dbcc4f3e25493cddc12a174f4b505ea",
+  "last_updated": "2026-10-25T09:46:50.003Z",
   "premium": {
     "links": []
   },
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-21T10:36:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-25T09:00:49.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-25T08:10:33.000Z"
     },
     {
@@ -176,10 +176,30 @@
   ],
   "items": [
     {
-      "title": "Originelle Uhren: 5 Zeitmesser für viel Spaß für wenig Budget",
+      "title": "Il Citizen Eco-Drive Photon e il quadrante che lascia filtrare la luce",
+      "url": "https://www.orologidiclasse.com/citizen-eco-drive-photon/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/citizen-eco-drive-photon-cover.jpg",
+      "peek_preview": "Lanciato lo scorso 5 ottobre alla Fondazione Bisazza con un evento su scala mondiale, il Citizen Eco-Drive Photon è l’edizione limitata che il brand nipponico ha realizzato per i 50 anni di Eco-Drive: due versioni da 5....",
+      "categories": [
+        "Novità Orologi",
+        "CITIZEN",
+        "Edizione Limitata",
+        "Tecnica"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-25T09:00:49.000Z",
+      "score_quality": 62,
+      "score_notif": 28,
+      "cluster": "20261025-38ad941bbd52",
+      "cluster_main": true
+    },
+    {
+      "title": "Originelle Uhren: 5 Zeitmesser – viel Spaß für wenig Budget",
       "url": "https://www.uhrenkosmos.com/originelle-uhren-5-zeitmesser-mit-spassfaktor/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Originelle-Uhren-im-kreativen-Look.jpg",
-      "peek_preview": "Um Spaß an einer Uhr zu haben, braucht es kein großes Budget oder komplizierte Komplikationen. Warum originelle Uhren auch ohne funktionieren, das zeigen unsere 5 Modelle von Mr Jones Watches, Akteo, Fossil, Seiko und Q...",
+      "peek_preview": "Um Spaß an einer Uhr zu haben, braucht es kein großes Budget oder aufwendige Komplikationen. Warum originelle Uhren auch ohne funktionieren, das zeigen unsere 5 Modelle von Mr Jones Watches, Akteo, Fossil, Seiko und Qlo...",
       "categories": [
         "Aktuell",
         "Aktuelle Uhren",
@@ -2382,23 +2402,6 @@
       "score_quality": 65,
       "score_notif": 27,
       "cluster": "20261016-961f520e8f86",
-      "cluster_main": true
-    },
-    {
-      "title": "François-Henry Bennahmias : l’ex-patron d’Audemars Piguet appelé en renfort chez Hublot",
-      "url": "https://www.welovewatches.fr/francois-henry-bennahmias-lex-patron-daudemars-piguet-appele-en-renfort-chez-hublot.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/hublot_bennahmias_une_1940x1280.jpg",
-      "peek_preview": "François-Henry Bennahmias aurait rejoint Hublot comme consultant, selon les informations de Glitz et de Hodinkee. L’ancien dirigeant d’Audemars Piguet apporterait son expérience à la maison de Nyon, toujours dirigée par...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-16T10:17:53.000Z",
-      "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261016-354b8fc562b2",
       "cluster_main": true
     }
   ]
