@@ -1,6 +1,6 @@
 {
-  "content_hash": "2642950e7bb0ffc0e30d209c79ea24f7bebb61e0e3d2332f8db3a54d053afb29",
-  "last_updated": "2026-10-26T10:47:31.749Z",
+  "content_hash": "0873a3f3c8910a5fc0a16067f97bb95fbbb56755e0505840908788685243a9f7",
+  "last_updated": "2026-10-26T11:47:47.381Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T10:00:07.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T08:45:30.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T11:30:57.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -176,6 +176,27 @@
   ],
   "items": [
     {
+      "title": "Introducing – Warm Autumnal Colours for the Rado DiaStar Original Skeleton",
+      "url": "https://monochrome-watches.com/rado-diastar-original-skeleton-autumn-collection-pdv-gold-r12166159-r12159309-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Rado-DiaStar-Original-Skeleton-Autumn-Colours-8-600x237.jpg",
+      "peek_preview": "Although Rado is synonymous today with high-tech ceramic watches, it got a head start in innovative materials with the launch of its DiaStar model in 1962. Made from brightly polished tungsten carbide sintered under int...",
+      "categories": [
+        "Rado",
+        "2026",
+        "Novelty",
+        "Skeleton Watches",
+        "Sports watch"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T11:30:57.000Z",
+      "score_quality": 76,
+      "score_notif": 61,
+      "cluster": "20261026-4e9049acbaf6",
+      "cluster_main": true
+    },
+    {
       "title": "The New Louis Moinet 1816 Tourbillon Chronograph — Sleek Looks, Edgy Mechanics",
       "url": "https://www.fratellowatches.com/hands-on-with-the-louis-moinet-1816-tourbillon-chronograph/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Louis-Moinet-1816-Tourbillon-Chrono-3.jpg",
@@ -209,15 +230,15 @@
       "featured": false,
       "published_at": "2026-10-26T08:45:30.000Z",
       "score_quality": 82,
-      "score_notif": 73,
+      "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
-      "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, The Vintage Racing Hanhart That Never Was",
+      "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
       "url": "https://monochrome-watches.com/hanhart-417-es-x-0260-x-bait-chronograph-39mm-vintage-racing-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/Hanhart-417-ES-x-0260-x-BAIT-chronograph-39mm-vintage-racing-1-600x237.jpg",
-      "peek_preview": "The 417 ES Chronograph by Hanhart is one of the defining models in the German brand’s history, introduced in 1954 as a pilot’s chronograph for the German armed forces: robust, reliable and legible. The stainless-steel v...",
+      "peek_preview": "The 417 ES Chronograph by Hanhart is one of the defining models in the German brand’s history, introduced in 1954 as a pilot’s chronograph for the German armed forces: robust, reliable and legible. The stainless steel v...",
       "categories": [
         "Hanhart",
         "2026",
@@ -307,9 +328,9 @@
       "featured": false,
       "published_at": "2026-10-26T07:00:00.000Z",
       "score_quality": 83,
-      "score_notif": 73,
+      "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -340,7 +361,7 @@
       "published_at": "2026-10-26T03:00:08.000Z",
       "score_quality": 57,
       "score_notif": 28,
-      "cluster": "20261026-caa3ead26dab",
+      "cluster": "20261020-eac261a0671e",
       "cluster_main": true
     },
     {
@@ -672,8 +693,8 @@
       "published_at": "2026-10-24T11:00:51.000Z",
       "score_quality": 70,
       "score_notif": 34,
-      "cluster": "20261023-a1f2ebe3d2d8",
-      "cluster_main": false
+      "cluster": "20261024-5d53cb0f7a72",
+      "cluster_main": true
     },
     {
       "title": "A. Lange & Söhne Unveils Datograph Perpetual With Platinum Bracelet",
@@ -1183,28 +1204,6 @@
       "score_quality": 45,
       "score_notif": 34,
       "cluster": "20261023-6b9a28f15d5d",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Chinese Brand Atelier Mephalie Launches its Minute Repeater Collection, Priced to a Tenth of What Europe Does…",
-      "url": "https://monochrome-watches.com/introducing-chinese-brand-atelier-mephalie-launches-its-minute-repeater-collection-priced-to-a-tenth-of-what-europe-does/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Chinese-Brand-Atelier-Mephalie-Minute-Repeater-Collection-Accessible-5-600x237.jpg",
-      "peek_preview": "Let’s have a quick overview of minute repeaters recently launched. Gérald Genta Geneva Minute Repeater: about CHF 320,000. Piaget Polo Minute Repeater: about EUR 400,000. Bulgari Octo Finissimo Minute Repeater 37mm: EUR...",
-      "categories": [
-        "Atelier Mephalie",
-        "2026",
-        "Chiming Watches",
-        "Industry news",
-        "Novelty",
-        "Repeater"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-23T07:01:58.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261023-a1f2ebe3d2d8",
       "cluster_main": true
     },
     {
@@ -1746,8 +1745,8 @@
       "published_at": "2026-10-21T13:34:22.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261021-1961db4430b7",
-      "cluster_main": true
+      "cluster": "20261026-e174cbabb64a",
+      "cluster_main": false
     },
     {
       "title": "New Oct 26: Citizen Attesa Ever Since Eco-Drive Radio Controlled",
@@ -2013,7 +2012,7 @@
       "score_quality": 71,
       "score_notif": 28,
       "cluster": "20261020-eac261a0671e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Renaud Tixier’s Monday Skeleton Makes Depth a Virtue",
@@ -2090,7 +2089,7 @@
       "score_quality": 65,
       "score_notif": 28,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
@@ -2164,7 +2163,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -2245,7 +2244,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -2349,7 +2348,7 @@
       "score_quality": 56,
       "score_notif": 28,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "From the Editor: How Swiss Is Your 'Swiss Made' Watch?—The Designation Guarantees Less Than You Think",
@@ -2386,7 +2385,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
@@ -2406,7 +2405,7 @@
       "score_quality": 75,
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster_main": true
     }
   ]
 }
