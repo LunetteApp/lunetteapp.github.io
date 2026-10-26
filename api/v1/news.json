@@ -1,6 +1,6 @@
 {
-  "content_hash": "ccae3382dc42d3282e81ff97d47c9228c17853b32929e888634ba6b95d36c0d3",
-  "last_updated": "2026-10-26T15:47:15.006Z",
+  "content_hash": "e141e46926d69ec528b107a40945b08ebe624a9436ba6e1bf98a15ad6b348f18",
+  "last_updated": "2026-10-26T16:47:33.478Z",
   "premium": {
     "links": []
   },
@@ -65,14 +65,14 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T15:22:17.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T14:15:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T16:14:33.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,23 @@
   ],
   "items": [
     {
+      "title": "From the Editor: Audemars Piguet's The Watch Keepers—Eight Years After Its 2018 Test, AP Goes After the Grey Market with a Consignment Model",
+      "url": "https://www.watchcollectinglifestyle.com/home/audemars-piguet-the-watch-keepers-cpo-program",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793025951466-XC5KGBZYW4CMTUDLPM7H/Audemars+Piguet+Royal+Oak+Jumbo+5402SA.jpg?format=1500w",
+      "peek_preview": "Audemars Piguet launched its certified pre-owned program today, and the first thing worth saying is that it’s long overdue for a proper postmortem. When WCL covered MB&F's certified pre-owned chapter in July 2018, AP wa...",
+      "categories": [
+        "Audemars Piguet"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T16:14:33.000Z",
+      "score_quality": 79,
+      "score_notif": 34,
+      "cluster": "20261026-e174cbabb64a",
+      "cluster_main": false
+    },
+    {
       "title": "Audemars Piguet Launches CPO Platform",
       "url": "https://watchesbysjx.com/2026/10/audemars-piguet-the-watch-keepers-cpo.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Audemars-Piguet-CPO-The-Watch-Keeprs-1-300x200.jpg",
@@ -255,7 +272,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "featured": false,
-      "published_at": "2026-10-26T14:15:25.000Z",
+      "published_at": "2026-10-26T14:15:00.000Z",
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
@@ -446,7 +463,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -466,7 +483,7 @@
       "score_quality": 78,
       "score_notif": 32,
       "cluster": "20261023-14c4f2346f54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Closer Look: Renaud Tixier Monday Skeleton Watch And Why It Matters",
@@ -544,7 +561,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -1356,7 +1373,7 @@
       "score_quality": 73,
       "score_notif": 32,
       "cluster": "20261023-14c4f2346f54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Saquon Barkley Tells His Life Story Through A $99,600 H. Moser & Cie. Watch",
@@ -1865,7 +1882,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Tissot PRX Skeleton Damian Lillard Special-Edition Watch Is A Bold, Handwound Take On A Modern Classic",
@@ -1885,7 +1902,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Hublot Classic Fusion Tributo—The 1980 MDM Original Gets an In-House Mechanical Heart",
@@ -1939,8 +1956,8 @@
       "published_at": "2026-10-21T13:34:22.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261021-1961db4430b7",
-      "cluster_main": true
+      "cluster": "20261026-e174cbabb64a",
+      "cluster_main": false
     },
     {
       "title": "New Oct 26: Citizen Attesa Ever Since Eco-Drive Radio Controlled",
@@ -2378,28 +2395,6 @@
       "score_quality": 84,
       "score_notif": 24,
       "cluster": "20261019-f216bb3e02a5",
-      "cluster_main": true
-    },
-    {
-      "title": "Ressence TYPE 10 DN: First In-House Calibre In An Oil-Filled Case",
-      "url": "https://deployant.com/ressence-type-10-dn-first-in-house-calibre-oil-filled-case/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-10-dn-first-in-house-calibre-oil-filled-case",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/ressence-type-10-dn-hero-front-angle-deployant.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The new Ressence TYPE 10 DN pairs the brand’s first in-house calibre with an oil-filled chamber, housing the assembly in Grade 5 titanium. Production is limit...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "independent watchmaking",
-        "Ressence",
-        "super titanium"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-17T13:30:00.000Z",
-      "score_quality": 59,
-      "score_notif": 30,
-      "cluster": "20261017-f1841c117a51",
       "cluster_main": true
     }
   ]
