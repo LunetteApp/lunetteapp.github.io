@@ -1,6 +1,6 @@
 {
-  "content_hash": "b1fe726026e10f0a9539bc9f5d7147dc7ebb6d2b94d38a5bfeb682232572d58a",
-  "last_updated": "2026-10-26T07:47:44.491Z",
+  "content_hash": "b1d42d0622c0e2c95447d3d5a277b1743c88f30f3e8557b07708eb56c95c1bf0",
+  "last_updated": "2026-10-26T08:47:47.318Z",
   "premium": {
     "links": []
   },
@@ -22,15 +22,15 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-25T10:35:37.000Z"
+      "estimated_articles_per_day": 3.7,
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-10-26T08:45:30.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T07:01:49.000Z"
     },
     {
@@ -51,8 +51,8 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-24T10:01:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T07:50:53.000Z"
     },
     {
       "source_name": "Deployant",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T07:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T07:00:53.000Z"
     },
     {
@@ -176,6 +176,68 @@
   ],
   "items": [
     {
+      "title": "Industry News – Audemars Piguet Launches The Watch Keepers, Its Online Platform for Certified Pre-Owned Watches",
+      "url": "https://monochrome-watches.com/audemars-piguet-launches-the-watch-keepers-its-online-platform-for-certified-pre-owned-watches/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/The-Watch-Keepers-Audemars-Piguet-Online-Platform-for-Certified-Pre-Owned-Watches-1-600x237.jpg",
+      "peek_preview": "The concept of Certified Pre-Owned (CPO) isn’t new to the watch industry, but it has gained quite some momentum in recent years, in particular when Rolex launched its own service, now known to be a significant revenue g...",
+      "categories": [
+        "Audemars Piguet",
+        "2026",
+        "Industry news"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T08:45:30.000Z",
+      "score_quality": 82,
+      "score_notif": 73,
+      "cluster": "20261026-e174cbabb64a",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, The Vintage Racing Hanhart That Never Was",
+      "url": "https://monochrome-watches.com/hanhart-417-es-x-0260-x-bait-chronograph-39mm-vintage-racing-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Hanhart-417-ES-x-0260-x-BAIT-chronograph-39mm-vintage-racing-1-600x237.jpg",
+      "peek_preview": "The 417 ES Chronograph by Hanhart is one of the defining models in the German brand’s history, introduced in 1954 as a pilot’s chronograph for the German armed forces: robust, reliable and legible. The stainless-steel v...",
+      "categories": [
+        "Hanhart",
+        "2026",
+        "Chronographs",
+        "Novelty"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T08:00:41.000Z",
+      "score_quality": 78,
+      "score_notif": 32,
+      "cluster": "20261023-14c4f2346f54",
+      "cluster_main": true
+    },
+    {
+      "title": "A Closer Look: Renaud Tixier Monday Skeleton Watch And Why It Matters",
+      "url": "https://www.atimelyperspective.com/a-closer-look-renaud-tixier-monday-skeleton-watch-and-why-it-matters/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/Renaud-Tixier_Monday-Skeleton-Blue_Lifestyle-768x1024.jpg",
+      "peek_preview": "There is something special about watching two exceptionally talented watchmakers, each with very different backgrounds and areas of expertise, come together to create something new. I have known Dominique Renaud for dec...",
+      "categories": [
+        "Auction, Vintage",
+        "Complicated Watches",
+        "Skeleton Watches",
+        "Timepieces News, Reviews and Articles",
+        "Dominique Renaud",
+        "Julien Tixier",
+        "Renaud Tixier Monday Skeleton"
+      ],
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T07:50:53.000Z",
+      "score_quality": 70,
+      "score_notif": 34,
+      "cluster": "20261020-c41149d0d412",
+      "cluster_main": false
+    },
+    {
       "title": "Nobody Asked: Picking Team Watches For The NFL, Part II",
       "url": "https://www.ablogtowatch.com/nobody-asked-picking-team-watches-for-the-nfl-part-ii/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/ABTW-Nobody-Asked-2-768x346.jpg",
@@ -226,9 +288,9 @@
       "featured": false,
       "published_at": "2026-10-26T07:00:00.000Z",
       "score_quality": 83,
-      "score_notif": 78,
+      "score_notif": 73,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -592,7 +654,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261023-a1f2ebe3d2d8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A. Lange & Söhne Unveils Datograph Perpetual With Platinum Bracelet",
@@ -1038,9 +1100,9 @@
       "featured": false,
       "published_at": "2026-10-23T11:00:27.000Z",
       "score_quality": 73,
-      "score_notif": 34,
+      "score_notif": 32,
       "cluster": "20261023-14c4f2346f54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Saquon Barkley Tells His Life Story Through A $99,600 H. Moser & Cie. Watch",
@@ -1124,7 +1186,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261023-a1f2ebe3d2d8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MING Tackles Worldtimer Complication With 57.05 ‘Comet’ Watch: Hands-On",
@@ -1332,26 +1394,6 @@
       "cluster_main": true
     },
     {
-      "title": "Interview – Jiro Katayama, Founder of Otsuka Lotec, on the Creation and Future of Japan’s Coolest Indie Watch Brand",
-      "url": "https://monochrome-watches.com/interview-jiro-katayama-founder-of-otsuka-lotec-on-the-creation-and-future-of-japans-coolest-indie-watch-brand/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/interview-jiro-katayama-founder-of-otsuka-lotec-on-the-creation-and-future-of-japans-coolest-indie-watch-brand_1-600x237.jpg",
-      "peek_preview": "If you’ve been reading MONOCHROME regularly or have been following the evolution of indie watchmaking in recent years, the name Otsuka Lotec should be familiar to you. In only a few years, the steampunk-inspired, indust...",
-      "categories": [
-        "Otsuka Lotec",
-        "2026",
-        "Independent Watchmaking",
-        "Interviews"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-22T17:00:13.000Z",
-      "score_quality": 89,
-      "score_notif": 34,
-      "cluster": "20261022-1a633c97c5b3",
-      "cluster_main": true
-    },
-    {
       "title": "New Release: Yema Spacegraf Heure Sidérale Tourbillon Volant Limited-Edition Watch",
       "url": "https://www.ablogtowatch.com/new-release-yema-spacegraf-heure-siderale-tourbillon-volant-limited-edition-watch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Yema-Spacegraf-Heure-Siderale-Tourbillon-Volant-Limited-Edition-8-768x346.jpg",
@@ -1404,28 +1446,6 @@
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing – Maurice Lacroix Refines the Aikon Automatic Chronograph for its Tenth Anniversary",
-      "url": "https://monochrome-watches.com/2026-maurice-lacroix-aikon-automatic-chronograph-updated-smaller-case-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-Maurice-Lacroix-Aikon-Automatic-Chronograph-Updated-Smaller-1-600x237.jpg",
-      "peek_preview": "Introduced in 2016, the Aikon collection has become a cornerstone of Maurice Lacroix’s catalogue, combining an integrated design with sporty details and accessible Swiss mechanics. Initially available with quartz moveme...",
-      "categories": [
-        "Maurice Lacroix",
-        "2026",
-        "Chronographs",
-        "Luxury watch",
-        "Novelty",
-        "Sports watch"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-22T14:00:00.000Z",
-      "score_quality": 76,
-      "score_notif": 32,
-      "cluster": "20261021-ff110ad74eb0",
-      "cluster_main": true
     },
     {
       "title": "Tissot PRX Skeleton Damian Lillard Special Edition",
@@ -1769,7 +1789,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261017-3ea8afcef210",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1828,7 +1848,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261021-ff110ad74eb0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Orient Mako GMT : la plongeuse japonaise culte passe en mode voyage",
@@ -2071,7 +2091,7 @@
       "score_quality": 65,
       "score_notif": 28,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
@@ -2292,7 +2312,7 @@
       "score_quality": 68,
       "score_notif": 30,
       "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mido Multifort TV Big Date Chronometer : la montre télé passe au COSC",
@@ -2330,7 +2350,7 @@
       "score_quality": 56,
       "score_notif": 28,
       "cluster": "20261016-e1910e4eb072",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "From the Editor: How Swiss Is Your 'Swiss Made' Watch?—The Designation Guarantees Less Than You Think",
@@ -2388,30 +2408,6 @@
       "score_notif": 30,
       "cluster": "20261016-bc3ca8dd6c13",
       "cluster_main": false
-    },
-    {
-      "title": "Junghans Meister Chronoscope 27/7620.02: Ein goldener Auftritt auf Schwarzwälder Art",
-      "url": "https://www.uhrenkosmos.com/junghans-meister-chronoscope-27-7620-02-pvd/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/goldfarbener-Junghans-Meister-Chronoscope-27-7620.02-PVD-beschichtet.jpg",
-      "peek_preview": "Gold muss ja nicht immer gleich massiv sein. Die neue Junghans Meister Chronoscope 27/7620.02 setzt vielmehr auf ein matt versilbertes Zifferblatt und eine goldfarbene PVD-Beschichtung des Gehäuses und knüpft damit an d...",
-      "categories": [
-        "Aktuell",
-        "Aktuelle Uhren",
-        "Junghans",
-        "Marken & Macher",
-        "Junghans Meister",
-        "Junghans Meister Chronoscope",
-        "Junghans Referenz 27/7620.02",
-        "PVD Beschichtung"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-16T11:47:01.000Z",
-      "score_quality": 60,
-      "score_notif": 25,
-      "cluster": "20261016-961f520e8f86",
-      "cluster_main": true
     }
   ]
 }
