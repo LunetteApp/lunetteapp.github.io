@@ -1,6 +1,6 @@
 {
-  "content_hash": "e3b71fdf5abc47b97495af63af3c28dc555ae8259189aafb78419db7c875b564",
-  "last_updated": "2026-10-26T00:47:44.425Z",
+  "content_hash": "aac7d8f8b727ec508e6eb2e2deeff4efd8a66bfee21a46ba03cb8e2b22997cf0",
+  "last_updated": "2026-10-26T03:47:22.582Z",
   "premium": {
     "links": []
   },
@@ -164,7 +164,7 @@
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-26T00:00:02.000Z"
+      "latest_article_at": "2026-10-26T03:00:08.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "モバードが創業145周年を祝うクッションケースの新作「ヘリテージ キングマティック」を発表",
+      "url": "https://www.webchronos.net/news/176787/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/MV_1.webp",
+      "peek_preview": "モバードが創業145周年を祝うクッションケースの「ヘリテージ キングマティック」を発表した。本作は、1956年に誕生した自動巻きドレスウォッチ「キングマティック」の70周年を祝うモデルでもある。1962年に発表されたモデ […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-26T03:00:08.000Z",
+      "score_quality": 57,
+      "score_notif": 28,
+      "cluster": "20261020-eac261a0671e",
+      "cluster_main": true
+    },
     {
       "title": "パネライが独自の水平トゥールビヨンを備えたスケルトンウォッチ「ルミノール トゥールビヨン」を発表",
       "url": "https://www.webchronos.net/news/176830/",
@@ -363,7 +378,7 @@
       "featured": false,
       "published_at": "2026-10-25T03:00:05.000Z",
       "score_quality": 68,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261025-5acad8732ec0",
       "cluster_main": true
     },
@@ -1599,7 +1614,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Tissot PRX Skeleton Damian Lillard Special-Edition Watch Is A Bold, Handwound Take On A Modern Classic",
@@ -1619,7 +1634,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Hublot Classic Fusion Tributo—The 1980 MDM Original Gets an In-House Mechanical Heart",
@@ -1714,8 +1729,8 @@
       "published_at": "2026-10-21T11:01:35.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261021-1cc9b16f5c8e",
-      "cluster_main": true
+      "cluster": "20261017-3ea8afcef210",
+      "cluster_main": false
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -1811,21 +1826,6 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261021-8e811797acac",
-      "cluster_main": true
-    },
-    {
-      "title": "G-SHOCKがブラックアイパッチとのコラボレーションモデル第3弾として「DW-5600」を発表！",
-      "url": "https://www.webchronos.net/news/176341/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/CS_bg_1.webp",
-      "peek_preview": "カシオが「G-SHOCK」より、東京のストリートブランドであるBlackEyePatch（ブラックアイパッチ）とのコラボレーションモデルを発表した。G-SHOCKの初号機「DW-5000C」のDNAを受け継ぐ「DW-56 […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-21T03:00:13.000Z",
-      "score_quality": 62,
-      "score_notif": 31,
-      "cluster": "20261021-408fb5753590",
       "cluster_main": true
     },
     {
@@ -1953,9 +1953,9 @@
       "featured": false,
       "published_at": "2026-10-20T07:01:10.000Z",
       "score_quality": 71,
-      "score_notif": 26,
+      "score_notif": 28,
       "cluster": "20261020-eac261a0671e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Renaud Tixier’s Monday Skeleton Makes Depth a Virtue",
@@ -2106,7 +2106,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -2347,7 +2347,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
