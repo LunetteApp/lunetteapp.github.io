@@ -1,6 +1,6 @@
 {
-  "content_hash": "0873a3f3c8910a5fc0a16067f97bb95fbbb56755e0505840908788685243a9f7",
-  "last_updated": "2026-10-26T11:47:47.381Z",
+  "content_hash": "f0404fd5e48243979b5ab1e977781f8347bc2db5a32e2ad559228947df17502b",
+  "last_updated": "2026-10-26T12:47:20.851Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T11:30:57.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T07:01:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T12:00:48.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T07:00:53.000Z"
     },
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-23T08:06:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T11:50:46.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -176,6 +176,50 @@
   ],
   "items": [
     {
+      "title": "Hands-On: The Baume & Mercier Riviera Chronograph GPSI Limited Edition Watch Is A Thinking Man’s Racing Chronograph",
+      "url": "https://www.ablogtowatch.com/hands-on-the-baume-mercier-riviera-chronograph-gpsi-limited-edition-watch-is-a-thinking-mans-racing-chronograph/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Baume-Et-Mercier-Riviera-Gran-Premio-Storico-DItalia-LOR-Crop-768x346.jpg",
+      "peek_preview": "Those who know me shouldn’t really be surprised by the fact that racing chronographs are my favorite genre of watches. After all, motorsports are my first love in life, and in fact my involvement in watches came about a...",
+      "categories": [
+        "Hands-On",
+        "Chronograph Watches",
+        "Integrated Bracelet Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500",
+        "Watches & Cars"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T12:00:48.000Z",
+      "score_quality": 82,
+      "score_notif": 63,
+      "cluster": "20261026-e43c15bf3fe4",
+      "cluster_main": true
+    },
+    {
+      "title": "Orologi scheletrati: cosa è cambiato e perché costano meno",
+      "url": "https://giornaleorologi.it/2026/10/26/orologi-scheletrati-cosa-e-cambiato-e-perche-costano-meno/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/97A206_Prestige_AW26_detail-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Orologi scheletrati: cosa è cambiato e perché costano meno Un movimento a vista, qualche centinaio di euro sul cartellino e una domanda che sorge spontanea: com’è possibile? Gli orologi schelet...",
+      "categories": [
+        "Attualità",
+        "Bulova",
+        "D1Milano",
+        "Orologi scheletrati",
+        "Tissot",
+        "Versace"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-26T11:50:46.000Z",
+      "score_quality": 54,
+      "score_notif": 22,
+      "cluster": "20261026-c49bbeaac8df",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – Warm Autumnal Colours for the Rado DiaStar Original Skeleton",
       "url": "https://monochrome-watches.com/rado-diastar-original-skeleton-autumn-collection-pdv-gold-r12166159-r12159309-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/Rado-DiaStar-Original-Skeleton-Autumn-Colours-8-600x237.jpg",
@@ -232,7 +276,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -275,7 +319,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nobody Asked: Picking Team Watches For The NFL, Part II",
@@ -330,7 +374,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -362,7 +406,7 @@
       "score_quality": 57,
       "score_notif": 28,
       "cluster": "20261020-eac261a0671e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "パネライが独自の水平トゥールビヨンを備えたスケルトンウォッチ「ルミノール トゥールビヨン」を発表",
@@ -941,7 +985,7 @@
       "title": "Introducing: Clemence Photic MKII Swiss Edition (Live Pics)",
       "url": "https://www.hodinkee.com/articles/clemence-photic-diver-swiss-edition",
       "image": "https://hodinkee.imgix.net/uploads/articles/c5f69167-4d65-4b28-a4aa-08113950a5a9/P1022295.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The English microbrand goes Swiss for the first time with a new limited edition.",
+      "peek_preview": "The British microbrand goes Swiss for the first time with a new limited edition.",
       "categories": [],
       "source_name": "HODINKEE",
       "lang": "en",
@@ -1745,8 +1789,8 @@
       "published_at": "2026-10-21T13:34:22.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster": "20261021-1961db4430b7",
+      "cluster_main": true
     },
     {
       "title": "New Oct 26: Citizen Attesa Ever Since Eco-Drive Radio Controlled",
@@ -2012,7 +2056,7 @@
       "score_quality": 71,
       "score_notif": 28,
       "cluster": "20261020-eac261a0671e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Renaud Tixier’s Monday Skeleton Makes Depth a Virtue",
@@ -2032,7 +2076,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release Oct 26: Renaud Tixier Monday Skeleton | CHF 129,000",
@@ -2162,8 +2206,8 @@
       "published_at": "2026-10-19T13:30:00.000Z",
       "score_quality": 58,
       "score_notif": 29,
-      "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster": "20261019-20339b5cb5c4",
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -2243,8 +2287,8 @@
       "published_at": "2026-10-17T13:30:00.000Z",
       "score_quality": 59,
       "score_notif": 30,
-      "cluster": "20261016-bc3ca8dd6c13",
-      "cluster_main": false
+      "cluster": "20261017-f1841c117a51",
+      "cluster_main": true
     },
     {
       "title": "Seiko Prospex Marinemaster 1968 Heritage Save the Ocean: Mangrovengrün mit Tiefgang",
@@ -2365,46 +2409,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261016-ddeee298b98d",
-      "cluster_main": true
-    },
-    {
-      "title": "The Biver AB is Time Only and All Quality",
-      "url": "https://watchesbysjx.com/2026/10/biver-ab.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/biver-AB-300x200.jpg",
-      "peek_preview": "Having found critical and commercial success with the Automatique, Biver is continuing with the time-only format, but (slightly) more accessibly. The Biver AB is a manual-wind, three-hand watch, but keeping to the high-...",
-      "categories": [
-        "Independent watchmaking",
-        "Biver",
-        "New Watches 2026",
-        "News"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T14:59:44.000Z",
-      "score_quality": 78,
-      "score_notif": 29,
-      "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
-    },
-    {
-      "title": "Ressence Unveils Oil-Filled Type 10",
-      "url": "https://watchesbysjx.com/2026/10/ressence-type-10.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Ressence-Type-10-3x2-centred-header-300x200.jpg",
-      "peek_preview": "The Ressence Type 10 DN pairs the brand’s proprietary base calibre with its oil-filled display module for the first time. The organically shaped case is a natural evolution of Ressence’s minimalist style, finished in da...",
-      "categories": [
-        "News",
-        "Independent watchmaking",
-        "New Watches 2026",
-        "Ressence"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-16T14:00:16.000Z",
-      "score_quality": 75,
-      "score_notif": 30,
-      "cluster": "20261016-bc3ca8dd6c13",
       "cluster_main": true
     }
   ]
