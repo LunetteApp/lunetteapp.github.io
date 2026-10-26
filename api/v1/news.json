@@ -1,6 +1,6 @@
 {
-  "content_hash": "e8822834cc5b5df596cf61c233cd289874015424d52e310fb34f5f253fc0b624",
-  "last_updated": "2026-10-26T06:47:09.564Z",
+  "content_hash": "b1fe726026e10f0a9539bc9f5d7147dc7ebb6d2b94d38a5bfeb682232572d58a",
+  "last_updated": "2026-10-26T07:47:44.491Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T06:00:03.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-25T07:01:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T07:01:49.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-24T10:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T07:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-25T14:30:13.000Z"
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T07:00:53.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,61 @@
   ],
   "items": [
     {
+      "title": "Nobody Asked: Picking Team Watches For The NFL, Part II",
+      "url": "https://www.ablogtowatch.com/nobody-asked-picking-team-watches-for-the-nfl-part-ii/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/ABTW-Nobody-Asked-2-768x346.jpg",
+      "peek_preview": "It’s time for round two of the greatest column ever written, Nobody Asked. In Part I, I gave 16 NFL teams their own team watches, and in Part II, I’ll finish out the league. If you enjoyed the first set, you’ll love the...",
+      "categories": [
+        "Featured Articles",
+        "Nobody Asked",
+        "Watches & Sports"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T07:01:49.000Z",
+      "score_quality": 37,
+      "score_notif": 24,
+      "cluster": "20261026-a0df566d9856",
+      "cluster_main": true
+    },
+    {
+      "title": "The best TAG Heuer Aquaracers of the modern era",
+      "url": "https://timeandtidewatches.com/best-tag-heuer-aquaracers-lists/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/best-tage-heuer-aquaracers-of-the-modern-era-featured-image..webp",
+      "peek_preview": "We've put together a list of 6 of the best TAG Heuer Aquaracers, from the ultra-deep diving Professional 1000, to the Time+Tide Sundowner The post The best TAG Heuer Aquaracers of the modern era appeared first on Time+T...",
+      "categories": [
+        "Lists",
+        "aquaracer",
+        "LIST",
+        "tag heuer",
+        "TAG HEUER AQUARACER"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T07:00:53.000Z",
+      "score_quality": 34,
+      "score_notif": 21,
+      "cluster": "20261026-be0cfb7e1505",
+      "cluster_main": true
+    },
+    {
+      "title": "Business News: Audemars Piguet Unveils 'The Watch Keepers' - A Digital Platform Offering Certified Pre-Owned Watches",
+      "url": "https://www.hodinkee.com/articles/audemars-piguet-unveils-the-watch-keepers-a-digital-platform-offering-certified-pre-owned-watches",
+      "image": "https://hodinkee.imgix.net/uploads/images/6e4490ef-be24-4879-bfcc-f05780554f82/TheWatchKeepers_Library.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The Le Brassus watchmaker will facilitate sales and auctions of brand-certified timepieces on a digital platform launching in Switzerland and Europe, with plans for expansion to other markets, including the U.S.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T07:00:00.000Z",
+      "score_quality": 83,
+      "score_notif": 78,
+      "cluster": "20261026-e174cbabb64a",
+      "cluster_main": true
+    },
+    {
       "title": "Why I Bought The Hermès Cape Cod",
       "url": "https://www.fratellowatches.com/why-i-bought-the-hermes-cape-cod/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Hermes-cape-cod-CC1.710-18.jpg",
@@ -205,7 +260,7 @@
       "score_quality": 57,
       "score_notif": 28,
       "cluster": "20261020-eac261a0671e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "パネライが独自の水平トゥールビヨンを備えたスケルトンウォッチ「ルミノール トゥールビヨン」を発表",
@@ -346,7 +401,7 @@
       "featured": false,
       "published_at": "2026-10-25T07:01:39.000Z",
       "score_quality": 78,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261025-8e3d43f33deb",
       "cluster_main": true
     },
@@ -1394,21 +1449,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: Breitling Navitimer B09 And B02 Cosmonaute 41mm Chronographs",
-      "url": "https://www.hodinkee.com/articles/breitling-navitimer-b09-and-b02-cosmonaute-41mm-chronographs",
-      "image": "https://hodinkee.imgix.net/uploads/images/44a5755a-1695-415b-943a-340a2af4546a/b11.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Two flagship models for the brand join the mainline.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-22T13:30:00.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": false
-    },
-    {
       "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
       "url": "https://italianwatchspotter.com/svea-atelier-monolith-rolex-king-midas/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-91-1024x682.png",
@@ -1954,7 +1994,7 @@
       "score_quality": 71,
       "score_notif": 28,
       "cluster": "20261020-eac261a0671e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Renaud Tixier’s Monday Skeleton Makes Depth a Virtue",
@@ -2167,25 +2207,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: IWC Ingenieur 50th Anniversary Watches In 40mm & 35mm",
-      "url": "https://www.ablogtowatch.com/hands-on-iwc-ingenieur-50th-anniversary-watches-in-40mm-35mm/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/IWC-Ingenieur-50th-Anniversary-His-Her-Watches-10-768x346.jpg",
-      "peek_preview": "“Wait, what? A relaxed anniversary edition?” That is a rough recollection of my reaction to this pair of IWC Ingenieur 50th Anniversary watches in the Ingenieur Automatic 40 and Ingenieur Automatic 35 guises. No shouty...",
-      "categories": [
-        "Hands-On",
-        "IWC Ingenieur",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-18T12:01:19.000Z",
-      "score_quality": 69,
-      "score_notif": 31,
-      "cluster": "20261018-19e6c80b1b1e",
-      "cluster_main": true
-    },
-    {
       "title": "Ressence TYPE 10 DN: First In-House Calibre In An Oil-Filled Case",
       "url": "https://deployant.com/ressence-type-10-dn-first-in-house-calibre-oil-filled-case/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-10-dn-first-in-house-calibre-oil-filled-case",
       "image": "https://deployant.com/wp-content/uploads/2026/10/ressence-type-10-dn-hero-front-angle-deployant.jpg",
@@ -2390,23 +2411,6 @@
       "score_quality": 60,
       "score_notif": 25,
       "cluster": "20261016-961f520e8f86",
-      "cluster_main": true
-    },
-    {
-      "title": "François-Henry Bennahmias : l’ex-patron d’Audemars Piguet appelé en renfort chez Hublot",
-      "url": "https://www.welovewatches.fr/francois-henry-bennahmias-lex-patron-daudemars-piguet-appele-en-renfort-chez-hublot.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/hublot_bennahmias_une_1940x1280.jpg",
-      "peek_preview": "François-Henry Bennahmias aurait rejoint Hublot comme consultant, selon les informations de Glitz et de Hodinkee. L’ancien dirigeant d’Audemars Piguet apporterait son expérience à la maison de Nyon, toujours dirigée par...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-16T10:17:53.000Z",
-      "score_quality": 57,
-      "score_notif": 31,
-      "cluster": "20261016-354b8fc562b2",
       "cluster_main": true
     }
   ]
