@@ -1,6 +1,6 @@
 {
-  "content_hash": "ab4a72e8d0b1dae0c37b7c3d496aee7c0cfd3cfca81fd5a66dc4413da48338fd",
-  "last_updated": "2026-10-26T17:47:04.771Z",
+  "content_hash": "a90e211d34c1e7fd3a726afef9976731785ce7bc30e692403418488075ca933c",
+  "last_updated": "2026-10-26T19:48:04.922Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T13:00:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T19:00:19.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T17:00:02.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T17:44:10.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
+      "url": "https://wornandwound.com/ralph-lauren-launches-new-western-cushions-in-a-smaller-size-and-the-new-nautical-collection/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/RL-Western-Banner.jpg",
+      "peek_preview": "Every so often, I find that I need to talk about the watches of Ralph Lauren. It’s possible, I think, that the Ralph Lauren brand is one of the most underrated, misunderstood corners of watchmaking. Most casual and even...",
+      "categories": [
+        "Featured",
+        "Ralph Lauren"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T19:00:19.000Z",
+      "score_quality": 66,
+      "score_notif": 61,
+      "cluster": "20261026-5759e16d9654",
+      "cluster_main": true
+    },
     {
       "title": "11 Of The Best Open-Heart Watches",
       "url": "https://teddybaldassarre.com/blogs/watches/best-open-heart-watches",
@@ -499,7 +517,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -597,7 +615,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -2370,29 +2388,6 @@
       "score_quality": 63,
       "score_notif": 30,
       "cluster": "20261019-a6a167341db8",
-      "cluster_main": true
-    },
-    {
-      "title": "News orologi: fatti, volti, ed eventi – 19/10/2026",
-      "url": "https://giornaleorologi.it/2026/10/19/news-orologi-fatti-volti-ed-eventi-19-10-2026/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/foto-apertura-1024x683.png",
-      "peek_preview": "Per l'articolo completo - News orologi: fatti, volti, ed eventi – 19/10/2026 Nuovo appuntamento con le News orologi. Che come sempre raccontano quanto lavoro ci sia, per i marchi, anche fuori dalle manifatture. Le attiv...",
-      "categories": [
-        "Attualità",
-        "Eberhard & Co. & Co.",
-        "Jaeger-LeCoultre",
-        "Montblanc",
-        "Oris",
-        "Tudor",
-        "Watches for ELA"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-19T09:30:00.000Z",
-      "score_quality": 28,
-      "score_notif": 10,
-      "cluster": "20261019-07f7269cd67f",
       "cluster_main": true
     }
   ]
