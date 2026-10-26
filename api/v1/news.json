@@ -1,6 +1,6 @@
 {
-  "content_hash": "aac7d8f8b727ec508e6eb2e2deeff4efd8a66bfee21a46ba03cb8e2b22997cf0",
-  "last_updated": "2026-10-26T03:47:22.582Z",
+  "content_hash": "e8822834cc5b5df596cf61c233cd289874015424d52e310fb34f5f253fc0b624",
+  "last_updated": "2026-10-26T06:47:09.564Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-25T10:00:07.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-26T06:00:03.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-26T03:00:08.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Why I Bought The Hermès Cape Cod",
+      "url": "https://www.fratellowatches.com/why-i-bought-the-hermes-cape-cod/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Hermes-cape-cod-CC1.710-18.jpg",
+      "peek_preview": "Last week, I reviewed the new titanium Hermès Cape Cod. It’s a great, more masculine, sportier version of a typically more feminine, dressier watch, but it maintains its quirky, Chaîne d’Ancre-bracelet-inspired design....",
+      "categories": [
+        "Watch Talk"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T06:00:03.000Z",
+      "score_quality": 63,
+      "score_notif": 27,
+      "cluster": "20261026-8812ebda3ea8",
+      "cluster_main": true
+    },
     {
       "title": "モバードが創業145周年を祝うクッションケースの新作「ヘリテージ キングマティック」を発表",
       "url": "https://www.webchronos.net/news/176787/",
@@ -1239,7 +1256,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: the Gagà Laboratorio Aqualab",
@@ -1387,24 +1404,6 @@
       "featured": false,
       "published_at": "2026-10-22T13:30:00.000Z",
       "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": true
-    },
-    {
-      "title": "Breitling Adds Two New Manual-Wind Navitimers To The Core Collection",
-      "url": "https://www.fratellowatches.com/breitling-adds-two-new-manual-wind-navitimers-to-the-core-collection/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Breitling-Navitimer-B09-Chronograph-41_Black-Dial_Steel-and-Leather_RGB.jpg",
-      "peek_preview": "Breitling has just added two new chronographs to its regular collection — the Navitimer B09 Chronograph 41 and the Navitimer B02 Chronograph 41 Cosmonaute. But this isn’t just any old release. Both new models draw inspi...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-22T12:00:10.000Z",
-      "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
       "cluster_main": false
@@ -1614,7 +1613,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Tissot PRX Skeleton Damian Lillard Special-Edition Watch Is A Bold, Handwound Take On A Modern Classic",
@@ -1634,7 +1633,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Hublot Classic Fusion Tributo—The 1980 MDM Original Gets an In-House Mechanical Heart",
@@ -1730,7 +1729,7 @@
       "score_quality": 59,
       "score_notif": 30,
       "cluster": "20261017-3ea8afcef210",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Fossil si reinventa con un automatico svizzero: e in Italia non lo sa ancora nessuno",
@@ -2106,7 +2105,7 @@
       "score_quality": 58,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Jaeger-LeCoultre Porta il Master Ultra Thin Moon Oro Rosa a 36 mm",
@@ -2272,7 +2271,7 @@
       "score_quality": 68,
       "score_notif": 30,
       "cluster": "20261017-3ea8afcef210",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mido Multifort TV Big Date Chronometer : la montre télé passe au COSC",
@@ -2347,7 +2346,7 @@
       "score_quality": 78,
       "score_notif": 29,
       "cluster": "20261016-34e72cea1f6d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ressence Unveils Oil-Filled Type 10",
