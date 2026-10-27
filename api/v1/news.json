@@ -1,6 +1,6 @@
 {
-  "content_hash": "ff3ab81f13ea9eca05affb9c1f7e727b3eaefa80cb756f5f2f288148c679ab8f",
-  "last_updated": "2026-10-27T14:48:02.438Z",
+  "content_hash": "326032937796a5b2f4640829a5e666d1a5304b577b3bb4d082e928ff88a58109",
+  "last_updated": "2026-10-27T15:48:40.514Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T14:00:49.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T14:00:04.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T15:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T13:28:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T14:55:50.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T11:15:18.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T15:20:18.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Citizen Eco-Drive Photon: la luce protagonista dei 50 anni di Eco-Drive",
+      "url": "https://www.watchinsanity.it/citizen-eco-drive-photon-50-anniversary/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Citizen_Watch_Insanity_01-1024x682.jpg",
+      "peek_preview": "Citi​zen celebra i 50 anni di Eco-Drive con Photon: quadrante tridimensionale, Super Titanio e calibro E036 con 365 giorni di autonomia. The post Citizen Eco-Drive Photon: la luce protagonista dei 50 anni di Eco-Drive a...",
+      "categories": [
+        "News",
+        "Smart Ones",
+        "Timepieces",
+        "Citizen",
+        "Quartz"
+      ],
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-27T14:55:50.000Z",
+      "score_quality": 56,
+      "score_notif": 30,
+      "cluster": "20261025-38ad941bbd52",
+      "cluster_main": true
+    },
     {
       "title": "Seiko Introduces A New 5 Sports SKX GMT U.S. Limited Edition HDB016",
       "url": "https://teddybaldassarre.com/blogs/watches/seiko-skx-hdb016-dr-pepper",
@@ -1134,9 +1155,9 @@
       "featured": false,
       "published_at": "2026-10-25T09:00:49.000Z",
       "score_quality": 62,
-      "score_notif": 28,
+      "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Originelle Uhren: 5 Zeitmesser mit viel Spaß für wenig Budget",
@@ -1906,21 +1927,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: We Put The Casio G-Shock 2500 Series \"CasioNaut\" Through Its Paces",
-      "url": "https://www.hodinkee.com/articles/we-put-the-casio-g-shock-2500-series-casionaut-through-its-paces",
-      "image": "https://hodinkee.imgix.net/uploads/images/240d1b97-a18d-43af-b1df-3fd19c756448/GSHOCK_HODINKEE_181026_PRINTRES-8-16_9.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The watch internet has already given it a hypey nickname, but there’s a lot more to this new G-Shock than meets the eye.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-22T19:00:00.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261022-e9668b3f753f",
-      "cluster_main": true
-    },
-    {
       "title": "New Breitling Navitimer B02 Cosmonaute And B09 41mm Chronographs Enter The Core Collection",
       "url": "https://teddybaldassarre.com/blogs/watches/breitling-navitimer-cosmonaute",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Breitling-Navitimer-B09-pair-2.jpg?v=1792678160",
@@ -2026,7 +2032,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
@@ -2205,7 +2211,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Hublot Classic Fusion Tributo—The 1980 MDM Original Gets an In-House Mechanical Heart",
@@ -2377,26 +2383,6 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261021-6cc6f311d413",
-      "cluster_main": true
-    },
-    {
-      "title": "Citizen The Citizen Japanese High-End Quartz Super Titanium Eco-Drive Watch Review",
-      "url": "https://www.ablogtowatch.com/citizen-the-citizen-japanese-high-end-quartz-super-titanium-eco-drive-watch-review/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Citizen-The-Citizen-AQ4094-58L-watch-3-768x346.jpg",
-      "peek_preview": "I was intimidated to write this Citizen watch review because there is simply so much to say. Not only about this specific product, but also about models like it that Citizen makes or will make in the future, as well as...",
-      "categories": [
-        "Wrist Time Reviews",
-        "Citizen Eco-Drive",
-        "Quartz Watches",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T07:01:25.000Z",
-      "score_quality": 72,
-      "score_notif": 31,
-      "cluster": "20261021-8e811797acac",
       "cluster_main": true
     }
   ]
