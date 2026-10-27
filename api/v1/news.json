@@ -1,6 +1,6 @@
 {
-  "content_hash": "45323faadad8eb6a928fda20d8b3e8b69c17f05d0abb55a61067ae6adc8f98a2",
-  "last_updated": "2026-10-27T08:47:31.335Z",
+  "content_hash": "1c355adf10074d89fc89e588c0c95c0c886edba27adf91b8135cd79726ab9564",
+  "last_updated": "2026-10-27T09:47:56.103Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T08:00:14.000Z"
     },
     {
@@ -120,9 +120,9 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-22T11:24:53.000Z"
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T09:10:07.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,31 @@
     }
   ],
   "items": [
+    {
+      "title": "Girard-Perregaux Laureato Fifty Three Gold Bridges: 159 anni dopo, i Tre Ponti d’Oro cambiano volto",
+      "url": "https://italianwatchspotter.com/girard-perregaux-laureato-fifty-three-gold/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/JPEG-BD-press-99112-58-3619-1CM_Laureato-Fifty-Three-Gold-Bridges_Lifestyle-5-683x1024.jpg",
+      "peek_preview": "Nel 1867 Constant Girard ebbe un’intuizione destinata a diventare una delle firme più riconoscibili dell’Alta Orologeria: trasformare tre ponti del movimento in elementi protagonisti anche dal punto di vista estetico. C...",
+      "categories": [
+        "Nuovi Orologi 2026",
+        "Alta Orologeria",
+        "Girard-Perregaux",
+        "GP9620",
+        "Laureato",
+        "Laureato Fifty",
+        "Three Gold Bridges",
+        "Tourbillon",
+        "Tre Ponti d'Oro"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-27T09:10:07.000Z",
+      "score_quality": 73,
+      "score_notif": 68,
+      "cluster": "20261027-f71f10287806",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Moritz Grossmann Hamatic, now with Black Enamel Dial",
       "url": "https://monochrome-watches.com/moritz-grossmann-hamatic-enamel-black-dial-limited-edition-introducing-price/",
@@ -284,7 +309,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 71,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -339,7 +364,7 @@
       "score_quality": 79,
       "score_notif": 71,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -1745,7 +1770,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: the Gagà Laboratorio Aqualab",
@@ -1817,7 +1842,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tissot PRX Skeleton Damian Lillard Special Edition",
@@ -2374,27 +2399,6 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261019-e50ffe10f78b",
-      "cluster_main": true
-    },
-    {
-      "title": "Bell & Ross BR-03 Space Mission: Houston, wir haben eine Uhr",
-      "url": "https://www.uhrenkosmos.com/bell-ross-br-03-space-mission-limited-edition/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Fuer-Raumfahrer-und-solche-die-es-werden-wollen-Bell-Ross-BR-03-Space-Mission-Limited-Edition-im-All.jpg",
-      "peek_preview": "Bei der Bell & Ross BR-03 Space Mission übernehmen der Mond und ein Raumgleiter die Arbeit der Zeiger. Darunter funkelt ein Zifferblatt aus schwarzem Aventurin, gefasst in einem mattschwarzen Keramikgehäuse. Das kostet...",
-      "categories": [
-        "Aktuell",
-        "Bell & Ross",
-        "Bell & Ross BR-03 Space Mission",
-        "BR-03",
-        "Limited Edition"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-19T20:35:11.000Z",
-      "score_quality": 65,
-      "score_notif": 28,
-      "cluster": "20261019-2a98e308d8e4",
       "cluster_main": true
     }
   ]
