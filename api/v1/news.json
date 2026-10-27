@@ -1,6 +1,6 @@
 {
-  "content_hash": "d6c88454c30bbe28797aebfd35541f6f276a398433b5415fd353d9abe832983d",
-  "last_updated": "2026-10-27T12:48:33.096Z",
+  "content_hash": "09f887fe1add217148a0779d26b6d2668bf3e95d3a95f263888c3ba953def471",
+  "last_updated": "2026-10-27T13:47:34.754Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T12:00:35.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T12:00:38.000Z"
     },
     {
@@ -57,16 +57,16 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T13:30:00.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T15:00:00.000Z"
+      "estimated_articles_per_day": 2.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T12:00:09.000Z"
     },
     {
@@ -99,9 +99,9 @@
     {
       "source_name": "Watch Insanity",
       "lang": "it",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-24T20:23:50.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T13:28:04.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -175,6 +175,65 @@
     }
   ],
   "items": [
+    {
+      "title": "Philippe Dufour: A Visit to His Workshop and the LeCoultre Compass Camera",
+      "url": "https://deployant.com/philippe-dufour-a-visit-to-his-workshop-and-the-lecoultre-compass-camera/?utm_source=rss&utm_medium=rss&utm_campaign=philippe-dufour-a-visit-to-his-workshop-and-the-lecoultre-compass-camera",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/dufour-camera.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors A visit to Philippe Dufour’s workshop in Le Solliat is always a pleasure. Philippe and I have known each other for decades. On this visit, he was particularly...",
+      "categories": [
+        "Horological Lifestyle",
+        "In Conversation",
+        "People",
+        "Photography",
+        "compass",
+        "lecoultre",
+        "philippe dufour"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-27T13:30:00.000Z",
+      "score_quality": 82,
+      "score_notif": 46,
+      "cluster": "20261027-d257d9c4c8cf",
+      "cluster_main": true
+    },
+    {
+      "title": "Classic Fusion Tributo: il ritorno alle origini di Hublot",
+      "url": "https://www.watchinsanity.it/hublot-classic-fusion-tributo-carlo-crocco/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Hublot_Classic_Fusion_Tributo_Carlo_Crocco_Watch_Insanity_06-1024x682.jpg",
+      "peek_preview": "Hublot presenta il Classic Fusion Tributo: oro, caucciù e design del 1980. Carlo Crocco racconta le origini del marchio e la nascita di un'icona. The post Classic Fusion Tributo: il ritorno alle origini di Hublot appear...",
+      "categories": [
+        "Hands-On",
+        "Timepieces",
+        "Weekly Snippets",
+        "Hublot",
+        "Time Only"
+      ],
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-27T13:28:04.000Z",
+      "score_quality": 63,
+      "score_notif": 32,
+      "cluster": "20261015-5b89066bd3ad",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: WM Brown x Timex",
+      "url": "https://www.hodinkee.com/articles/wm-brown-x-timex",
+      "image": "https://hodinkee.imgix.net/uploads/images/b0ac45aa-2efd-4b6b-a677-08c417803d01/wmb4h.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Matt Hranek's WM Brown teams up with Timex on a tank-style dress watch in steel, sold as a set with a bracelet and a leather strap for $349.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-27T13:00:00.000Z",
+      "score_quality": 78,
+      "score_notif": 67,
+      "cluster": "20261027-bcd6dd809ae7",
+      "cluster_main": true
+    },
     {
       "title": "First Look – Elka Watch Co. Launches a Vintage-Looking Series with the “Tour des Chavannes”",
       "url": "https://monochrome-watches.com/elka-watch-co-launches-a-vintage-looking-series-with-the-tour-des-chavannes/",
@@ -683,7 +742,7 @@
       "featured": false,
       "published_at": "2026-10-26T13:30:00.000Z",
       "score_quality": 75,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261026-201d62c62b34",
       "cluster_main": true
     },
@@ -726,7 +785,7 @@
       "featured": false,
       "published_at": "2026-10-26T12:58:21.000Z",
       "score_quality": 84,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261026-ae18846be998",
       "cluster_main": true
     },
@@ -832,7 +891,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -930,7 +989,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -2129,7 +2188,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Tissot PRX Skeleton Damian Lillard Special-Edition Watch Is A Bold, Handwound Take On A Modern Classic",
@@ -2149,7 +2208,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Hublot Classic Fusion Tributo—The 1980 MDM Original Gets an In-House Mechanical Heart",
@@ -2360,59 +2419,6 @@
       "score_quality": 78,
       "score_notif": 27,
       "cluster": "20261021-e9efd8e94436",
-      "cluster_main": true
-    },
-    {
-      "title": "16 Best Purple-Dial Watches From Affordable To Luxury",
-      "url": "https://teddybaldassarre.com/blogs/watches/best-purple-dial-watches",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Tsuyosa-Purple-2.jpg?v=1758645044",
-      "peek_preview": "Purple is the color of royalty, and it appears that a Purple Reign has started to quietly take over the watch world in recent years, with violet hues finding their way to an increasing number of dials, from a somewhat s...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-20T18:55:00.000Z",
-      "score_quality": 34,
-      "score_notif": 12,
-      "cluster": "20261020-c09f8ef907c6",
-      "cluster_main": true
-    },
-    {
-      "title": "La storia del Chronomètre à Résonance, il capolavoro di François-Paul Journe",
-      "url": "https://www.watchinsanity.it/fp-journe-chronometre-a-resonance-history/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Christiaan_Huygen-1024x682.jpg",
-      "peek_preview": "La storia del Chronomètre à Résonance di F.P. Journe: dalle origini del principio della risonanza alle evoluzioni di un capolavoro dell'alta orologeria. The post La storia del Chronomètre à Résonance, il capolavoro di F...",
-      "categories": [
-        "Stories",
-        "Timepieces",
-        "Weekly Snippets",
-        "F.P.Journe",
-        "Resonance"
-      ],
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-20T14:15:31.000Z",
-      "score_quality": 60,
-      "score_notif": 20,
-      "cluster": "20261020-4a84bdf6516f",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Chopard L.U.C Full Strike ‘Día de los Muertos’ Edition 13—Eggshell, Straw, and Gold",
-      "url": "https://www.watchcollectinglifestyle.com/home/chopard-luc-full-strike-da-de-los-muertos-edition-13",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1792502009448-304UXR3201XWUEGX343T/Chopard%2BL.U.C%2BFull%2BStrike%2B%E2%80%98Di%CC%81a%2Bde%2Blos%2BMuertos%E2%80%99%2BEdition%2B13-2.webp?format=1500w",
-      "peek_preview": "Chopard has unveiled the thirteenth chapter in its annual tribute to Mexico’s Day of the Dead, and it is the most ambitious yet. The L.U.C Full Strike ‘Día de los Muertos’ Edition 13 is a one-of-a-kind piece that pairs...",
-      "categories": [
-        "Chopard"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-20T13:18:41.000Z",
-      "score_quality": 71,
-      "score_notif": 32,
-      "cluster": "20261020-3f7763a3caf0",
       "cluster_main": true
     }
   ]
