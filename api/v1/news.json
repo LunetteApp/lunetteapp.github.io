@@ -1,6 +1,6 @@
 {
-  "content_hash": "326032937796a5b2f4640829a5e666d1a5304b577b3bb4d082e928ff88a58109",
-  "last_updated": "2026-10-27T15:48:40.514Z",
+  "content_hash": "50dc7a90cbf06af3ec842ee4af702d2be0646193afc536f6c0708e126616c219",
+  "last_updated": "2026-10-27T16:47:46.878Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T15:00:00.000Z"
     },
     {
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T14:55:50.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T15:20:18.000Z"
     },
     {
@@ -927,7 +927,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -1025,7 +1025,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -2032,7 +2032,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
@@ -2211,7 +2211,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Hublot Classic Fusion Tributo—The 1980 MDM Original Gets an In-House Mechanical Heart",
@@ -2383,6 +2383,45 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261021-6cc6f311d413",
+      "cluster_main": true
+    },
+    {
+      "title": "Citizen The Citizen Japanese High-End Quartz Super Titanium Eco-Drive Watch Review",
+      "url": "https://www.ablogtowatch.com/citizen-the-citizen-japanese-high-end-quartz-super-titanium-eco-drive-watch-review/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Citizen-The-Citizen-AQ4094-58L-watch-3-768x346.jpg",
+      "peek_preview": "I was intimidated to write this Citizen watch review because there is simply so much to say. Not only about this specific product, but also about models like it that Citizen makes or will make in the future, as well as...",
+      "categories": [
+        "Wrist Time Reviews",
+        "Citizen Eco-Drive",
+        "Quartz Watches",
+        "Watch Reviews Over $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-21T07:01:25.000Z",
+      "score_quality": 62,
+      "score_notif": 28,
+      "cluster": "20261021-8e811797acac",
+      "cluster_main": true
+    },
+    {
+      "title": "Artisanal “Indies” Hidden in Plain Sight",
+      "url": "https://watchesbysjx.com/2026/10/industrial-artisanship-paradox-independence-editorial.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2025/01/greubel-forsey-hand-made-1-tourbillon-cage-300x200.jpg",
+      "peek_preview": "Independent watchmaking is often discussed as a world apart from the work of major brands. But the distinction becomes less clear when we look at how specific watches are made and who makes them, especially when it come...",
+      "categories": [
+        "Opinions",
+        "Editorials",
+        "Independent watchmaking"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-21T01:00:25.000Z",
+      "score_quality": 70,
+      "score_notif": 22,
+      "cluster": "20261021-e9efd8e94436",
       "cluster_main": true
     }
   ]
