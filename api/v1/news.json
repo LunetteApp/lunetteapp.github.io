@@ -1,6 +1,6 @@
 {
-  "content_hash": "3d6a7cd44a18f1af1a2c8718c3bc81d4003d8ef0bf0752f400673cf350f196c5",
-  "last_updated": "2026-10-27T17:48:12.313Z",
+  "content_hash": "96049de547a17e5bfe6701fb26d9f6df28896a1188a07f7eee2ead1691b34497",
+  "last_updated": "2026-10-27T18:47:30.801Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T14:00:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T18:00:21.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T17:00:30.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T17:00:00.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T00:28:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T13:42:51.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -170,11 +170,29 @@
       "source_name": "GMT Korea",
       "lang": "ko",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T17:29:41.000Z"
     }
   ],
   "items": [
+    {
+      "title": "Sinn Announces their Autumn Novelties",
+      "url": "https://wornandwound.com/sinn-announces-their-autumn-novelties/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Sinn-Autumn-11.jpg",
+      "peek_preview": "It’s finally autumn (even here in California), which means changing leaves, tasty hot beverages, and a smattering of new Sinn novelties. Like the coziest cafe array of apple ciders, hot chocolates, and pumpkin spice lat...",
+      "categories": [
+        "News & Releases",
+        "Sinn"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-27T18:00:21.000Z",
+      "score_quality": 44,
+      "score_notif": 60,
+      "cluster": "20261027-27e5f4054941",
+      "cluster_main": true
+    },
     {
       "title": "[인터뷰] 라비 다르 예일대학교 경영대학원 교수",
       "url": "https://www.gmtkoreaseoul.com/post/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%9D%BC%EB%B9%84-%EB%8B%A4%EB%A5%B4-%EC%98%88%EC%9D%BC%EB%8C%80%ED%95%99%EA%B5%90-%EA%B2%BD%EC%98%81%EB%8C%80%ED%95%99%EC%9B%90-%EA%B5%90%EC%88%98",
@@ -261,6 +279,37 @@
       "score_quality": 66,
       "score_notif": 64,
       "cluster": "20261027-e848dc7e0bc3",
+      "cluster_main": true
+    },
+    {
+      "title": "F.P. Journe Hype: Trick or Treat? Countdown der Herbstauktionen 2026",
+      "url": "https://www.uhrenkosmos.com/f-p-journe-hype-trick-or-treat/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/1.-Aufmacher-Teaser-Auktionen-Christies-Sothebys-Antiquorum1.jpg",
+      "peek_preview": "Eine Woche vor dem Saisonstart in Monaco sind auch die Kataloge zu den Genfer Auktionen von Christie’s, Antiquorum und Sotheby’s im November 2026 online. Der F.P. Journe Hype hält an, es gibt aber auch viele interessant...",
+      "categories": [
+        "A. Lange & Söhne",
+        "Aktuell",
+        "Audemars Piguet",
+        "Cartier",
+        "Handel & Auktionen",
+        "Patek Philippe",
+        "Rolex",
+        "Vacheron Constantin",
+        "Vintage & Stil",
+        "Antiquorum",
+        "Auktionen",
+        "Christie's",
+        "Herbstauktionen 2026",
+        "im Herbst 2026",
+        "Sotheby's"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-27T13:42:51.000Z",
+      "score_quality": 65,
+      "score_notif": 50,
+      "cluster": "20261027-77951a900bbd",
       "cluster_main": true
     },
     {
@@ -602,7 +651,7 @@
       "score_quality": 63,
       "score_notif": 32,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ブルガリが天然の大理石をダイアルに用いた「セルペンティ セドゥットーリ」のユニークピースを発表",
@@ -791,7 +840,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Full-White Hautlence Sphere Series 5",
@@ -1706,7 +1755,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Introduces the Kelp Forest Limited Edition",
@@ -1954,7 +2003,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Review: the Gagà Laboratorio Aqualab",
@@ -2026,7 +2075,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tissot PRX Skeleton Damian Lillard Special Edition",
@@ -2155,24 +2204,6 @@
       "cluster_main": true
     },
     {
-      "title": "To Carry and To Keep: The Tudor Watches of Warriors",
-      "url": "https://wornandwound.com/to-carry-and-to-keep-the-tudor-watches-of-warriors/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Tudor-San-Diego-17.jpg",
-      "peek_preview": "“In times of war or uncertainty there is a special breed of warrior ready to answer our nation’s call. A common man with uncommon desire to succeed… I am that man.” –U.S. Navy SEAL Code A Note Writing about the military...",
-      "categories": [
-        "Featured",
-        "Tudor"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T19:00:12.000Z",
-      "score_quality": 64,
-      "score_notif": 24,
-      "cluster": "20261021-4c3a9ec54057",
-      "cluster_main": true
-    },
-    {
       "title": "Tissot PRX Watches: The Ultimate Guide to the Collection",
       "url": "https://teddybaldassarre.com/blogs/watches/tissot-prx-watch",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Tissot-PRX-Powermatic-Black-Wrist-2.jpg?v=1694535992",
@@ -2243,7 +2274,7 @@
       "score_quality": 70,
       "score_notif": 32,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -2398,26 +2429,6 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261021-6cc6f311d413",
-      "cluster_main": true
-    },
-    {
-      "title": "Citizen The Citizen Japanese High-End Quartz Super Titanium Eco-Drive Watch Review",
-      "url": "https://www.ablogtowatch.com/citizen-the-citizen-japanese-high-end-quartz-super-titanium-eco-drive-watch-review/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Citizen-The-Citizen-AQ4094-58L-watch-3-768x346.jpg",
-      "peek_preview": "I was intimidated to write this Citizen watch review because there is simply so much to say. Not only about this specific product, but also about models like it that Citizen makes or will make in the future, as well as...",
-      "categories": [
-        "Wrist Time Reviews",
-        "Citizen Eco-Drive",
-        "Quartz Watches",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T07:01:25.000Z",
-      "score_quality": 62,
-      "score_notif": 28,
-      "cluster": "20261021-8e811797acac",
       "cluster_main": true
     }
   ]
