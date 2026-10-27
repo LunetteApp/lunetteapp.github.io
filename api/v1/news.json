@@ -1,6 +1,6 @@
 {
-  "content_hash": "50dc7a90cbf06af3ec842ee4af702d2be0646193afc536f6c0708e126616c219",
-  "last_updated": "2026-10-27T16:47:46.878Z",
+  "content_hash": "3d6a7cd44a18f1af1a2c8718c3bc81d4003d8ef0bf0752f400673cf350f196c5",
+  "last_updated": "2026-10-27T17:48:12.313Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T12:00:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T17:00:30.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T15:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T17:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -170,11 +170,63 @@
       "source_name": "GMT Korea",
       "lang": "ko",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T00:55:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T17:29:41.000Z"
     }
   ],
   "items": [
+    {
+      "title": "[인터뷰] 라비 다르 예일대학교 경영대학원 교수",
+      "url": "https://www.gmtkoreaseoul.com/post/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%9D%BC%EB%B9%84-%EB%8B%A4%EB%A5%B4-%EC%98%88%EC%9D%BC%EB%8C%80%ED%95%99%EA%B5%90-%EA%B2%BD%EC%98%81%EB%8C%80%ED%95%99%EC%9B%90-%EA%B5%90%EC%88%98",
+      "image": "https://static.wixstatic.com/media/bd93d4_9c0a7f6b89314987a8de6d19a6e024ca~mv2.jpeg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "peek_preview": "시계를 예술 작품으로 바라보는 사람은 그 안에 담긴 가치를 누구보다 진지하게 탐구한다. 어린 시절부터 수집을 시작해 파텍 필립 퍼페추얼 캘린더 Ref. 3448, F.P.Journe의 옥타 칼랑드리에 ‘브라스 무브먼트’ 등 이른바 성배 중의 성배로 꼽히는 타임피스를 소유한 예일대학교 경영대학원 교수 라비 다르(Ravi Dhar)가 바로 그런 인물이다.",
+      "categories": [
+        "COLUMN"
+      ],
+      "source_name": "GMT Korea",
+      "lang": "ko",
+      "featured": false,
+      "published_at": "2026-10-27T17:29:41.000Z",
+      "score_quality": 68,
+      "score_notif": 31,
+      "cluster": "20261027-19c9687e4d92",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – The New Nomos Club 38, a Fan’s Favourite Gets a Larger Variant",
+      "url": "https://monochrome-watches.com/2026-nomos-club-38-collection-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Nomos-Club-38-new-larger-size-review-1-600x237.jpg",
+      "peek_preview": "While the Tangente hand-wound undoubtedly remains the most emblematic watch you can get from Nomos, and one of the most accessible models too, there’s another fairly priced option from the brand that has long been a fan...",
+      "categories": [
+        "NOMOS",
+        "2026",
+        "Novelty",
+        "Value Proposition"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-27T17:00:30.000Z",
+      "score_quality": 84,
+      "score_notif": 67,
+      "cluster": "20261027-448a2bab29cf",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: The Alto ART 02",
+      "url": "https://www.hodinkee.com/articles/the-alto-art-02",
+      "image": "https://hodinkee.imgix.net/uploads/images/4bc83c99-16d9-432f-aeae-c870112a3bac/L1020575.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Alto sculpts, refines, and adds a titanium bracelet for the first watch to be part of a permanent collection for the Franco-Swiss brand.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-27T17:00:00.000Z",
+      "score_quality": 81,
+      "score_notif": 63,
+      "cluster": "20261027-7a7eed8453a5",
+      "cluster_main": true
+    },
     {
       "title": "Citizen Eco-Drive Photon: la luce protagonista dei 50 anni di Eco-Drive",
       "url": "https://www.watchinsanity.it/citizen-eco-drive-photon-50-anniversary/",
@@ -634,7 +686,7 @@
       "featured": false,
       "published_at": "2026-10-26T17:00:02.000Z",
       "score_quality": 80,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261026-01c28ca1a29a",
       "cluster_main": true
     },
@@ -1414,28 +1466,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing – The Return of the Full-Platinum Bracelet on a Limited A. Lange & Söhne Datograph Perpetual",
-      "url": "https://monochrome-watches.com/2026-a-lange-sohne-datograph-perpetual-black-diamond-dial-platinum-bracelet-limited-410-136e-introducing/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/A-Lange-Sohne-Datograph-Perpetual-Black-Diamond-Dial-Platinum-Bracelet-Limited-2026-410.136E-1-600x237.jpg",
-      "peek_preview": "Like a few other high-end watch brands (AP, VC, PP…), A. Lange & Söhne has its fair share of ultra-collectable watches. The elusive steel Lange 1 is one of them. The Grand Complicatio,is anothern ultra-rare, ultra-compl...",
-      "categories": [
-        "A. Lange & Söhne",
-        "2026",
-        "Chronographs",
-        "High-end Watches",
-        "Novelty",
-        "Perpetual Calendar"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-24T10:01:38.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": false
-    },
-    {
       "title": "Hands-On: A. Lange & Söhne Reinvents The Datograph Perpetual With A New Platinum Bracelet",
       "url": "https://www.fratellowatches.com/hands-on-with-the-a-lange-sohne-datograph-perpetual-on-a-platinum-bracelet/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/A.-Lange-Sohne-Saxonia-Datograph-Perpetual-Platinum-Hands.jpg",
@@ -1718,21 +1748,6 @@
       "cluster_main": true
     },
     {
-      "title": "Interview: Eivind “Edthezilla” Németh And The Journey To A Rexhep Rexhepi",
-      "url": "https://www.hodinkee.com/articles/edzilla-collector-interview",
-      "image": "https://hodinkee.imgix.net/uploads/articles/a327c748-11bf-47e2-81ea-f84a82132750/edthezillaheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "How \"just a simple guy from Norway\" landed a dream watch.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-23T13:00:00.000Z",
-      "score_quality": 76,
-      "score_notif": 30,
-      "cluster": "20261023-6f6d242d770a",
-      "cluster_main": true
-    },
-    {
       "title": "Making ‘Chasing Time,’ the First Real Watch Documentary (w/ Adam Golden and Chris Gary)",
       "url": "https://www.unpolishedwatches.com/p/making-chasing-time-the-first-real",
       "image": "https://substackcdn.com/image/fetch/$s_!DQ6l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa770c594-e8c8-4084-b31f-393f9be8db0d_1080x1600.jpeg",
@@ -1939,7 +1954,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: the Gagà Laboratorio Aqualab",
@@ -2011,7 +2026,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tissot PRX Skeleton Damian Lillard Special Edition",
@@ -2032,7 +2047,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
@@ -2211,7 +2226,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Hublot Classic Fusion Tributo—The 1980 MDM Original Gets an In-House Mechanical Heart",
@@ -2403,25 +2418,6 @@
       "score_quality": 62,
       "score_notif": 28,
       "cluster": "20261021-8e811797acac",
-      "cluster_main": true
-    },
-    {
-      "title": "Artisanal “Indies” Hidden in Plain Sight",
-      "url": "https://watchesbysjx.com/2026/10/industrial-artisanship-paradox-independence-editorial.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2025/01/greubel-forsey-hand-made-1-tourbillon-cage-300x200.jpg",
-      "peek_preview": "Independent watchmaking is often discussed as a world apart from the work of major brands. But the distinction becomes less clear when we look at how specific watches are made and who makes them, especially when it come...",
-      "categories": [
-        "Opinions",
-        "Editorials",
-        "Independent watchmaking"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T01:00:25.000Z",
-      "score_quality": 70,
-      "score_notif": 22,
-      "cluster": "20261021-e9efd8e94436",
       "cluster_main": true
     }
   ]
