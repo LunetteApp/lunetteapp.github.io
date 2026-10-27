@@ -1,6 +1,6 @@
 {
-  "content_hash": "6ad22e1840860aef6b8eb02ba6d1606f837fec135f1550857fb68ce7393a9a4d",
-  "last_updated": "2026-10-27T01:47:27.459Z",
+  "content_hash": "9a04f65b6d3c081029188d8e8221d7e6d83a0b302388fb3c82afcd8eb6590b56",
+  "last_updated": "2026-10-27T03:47:32.529Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T01:00:55.000Z"
     },
     {
@@ -163,18 +163,33 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T00:00:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T03:00:15.000Z"
     },
     {
       "source_name": "GMT Korea",
       "lang": "ko",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T00:55:58.000Z"
     }
   ],
   "items": [
+    {
+      "title": "懐中時計にもなる！ ティソがNBA選手デイミアン・リラードとの特別な「ティソ PRX スケルトン」を発表",
+      "url": "https://www.webchronos.net/news/177029/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/ts_prx.webp",
+      "peek_preview": "ティソがNBA選手デイミアン・リラードとのコラボレーションモデル「ティソ PRX スケルトン デイミアン・リラード スペシャルエディション」を発表した。彼は2024年のNBAオールスターゲームでMVPに輝いた経歴持つ。ま […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-10-27T03:00:15.000Z",
+      "score_quality": 64,
+      "score_notif": 34,
+      "cluster": "20261021-e48a577e43cf",
+      "cluster_main": false
+    },
     {
       "title": "Hands On: Rolex Ref. 6062 Triple Calendar Moon Phase in Steel",
       "url": "https://watchesbysjx.com/2026/10/rolex-6062-triple-calendar-moon-phase-steel.html",
@@ -209,8 +224,8 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 71,
-      "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster": "20261027-0b356a9ca2c6",
+      "cluster_main": true
     },
     {
       "title": "Hublot Classic Fusion Tributo: Zurück zu den Wurzeln. Und dann?",
@@ -651,7 +666,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nobody Asked: Picking Team Watches For The NFL, Part II",
@@ -1887,21 +1902,6 @@
       "cluster_main": true
     },
     {
-      "title": "ウォッチギャラリーのART IN TIMEが独立系時計ブランドを集めた初号店を銀座にオープン",
-      "url": "https://www.webchronos.net/news/176521/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/DSC05337.webp",
-      "peek_preview": "ART IN TIMEが、独立系時計ブランドを中心に独創的なタイムピースを紹介する時計ギャラリー「ART IN TIME TOKYO」を東京・銀座にグランドオープンした。2019年にモナコ・モンテカルロで誕生したART […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-22T03:00:32.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261022-78fe18de467c",
-      "cluster_main": true
-    },
-    {
       "title": "Atelier de Chronométrie’s ADC16 Elevates a Classic",
       "url": "https://watchesbysjx.com/2026/10/atelier-de-chronometrie-adc16.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Atelier-de-Chronometrie-ADC16-iso-300x200.jpg",
@@ -2314,7 +2314,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release Oct 26: Renaud Tixier Monday Skeleton | CHF 129,000",
