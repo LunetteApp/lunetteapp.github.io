@@ -1,6 +1,6 @@
 {
-  "content_hash": "1c355adf10074d89fc89e588c0c95c0c886edba27adf91b8135cd79726ab9564",
-  "last_updated": "2026-10-27T09:47:56.103Z",
+  "content_hash": "a3fd82e97faef4d8c9926645006a809034757a8200200a44a51234492d1fd70b",
+  "last_updated": "2026-10-27T10:48:19.393Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T06:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T10:00:05.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.8,
+      "estimated_articles_per_day": 3.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T08:00:14.000Z"
     },
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T09:10:07.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "This Rolex Submariner 1680 Belonged To An Oscar-Winning Hollywood Sound Engineer",
+      "url": "https://www.fratellowatches.com/elliot-tyson-rolex-submariner-1680/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Rolex-1680-Disney-Sub-10.jpg",
+      "peek_preview": "A few weeks ago, this vintage Rolex Submariner Date ref. 1680 landed on my desk. The owner, a low-profile but dedicated Rolex collector, came across it several years ago during one of his hunts. A prime example of prove...",
+      "categories": [
+        "Vintage Watches",
+        "Watch Talk"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-27T10:00:05.000Z",
+      "score_quality": 76,
+      "score_notif": 27,
+      "cluster": "20261027-6e2cdb45a164",
+      "cluster_main": true
+    },
     {
       "title": "Girard-Perregaux Laureato Fifty Three Gold Bridges: 159 anni dopo, i Tre Ponti d’Oro cambiano volto",
       "url": "https://italianwatchspotter.com/girard-perregaux-laureato-fifty-three-gold/",
@@ -249,6 +267,7 @@
       "peek_preview": "Citizen is arguably the biggest name in affordable timepieces. Time and again, the Japanese brand proves that a great everyday watch doesn’t have to break the bank. The latest example is the Eco-Drive AW1900 series, a r...",
       "categories": [
         "Hands-On",
+        "Topic of the Week",
         "Watch Releases 2026"
       ],
       "source_name": "Fratello Watches",
@@ -309,7 +328,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 71,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -364,7 +383,7 @@
       "score_quality": 79,
       "score_notif": 71,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -521,7 +540,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Full-White Hautlence Sphere Series 5",
@@ -687,7 +706,7 @@
       "featured": false,
       "published_at": "2026-10-26T10:00:07.000Z",
       "score_quality": 78,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261026-29a13ae8f631",
       "cluster_main": true
     },
@@ -708,7 +727,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -806,7 +825,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -1474,7 +1493,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Introduces the Kelp Forest Limited Edition",
@@ -2385,21 +2404,6 @@
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
       "cluster_main": false
-    },
-    {
-      "title": "‘Uncomplicated’ Americans: Notes from New York Watch Week",
-      "url": "https://www.unpolishedwatches.com/p/uncomplicated-americans-notes-from",
-      "image": "https://substackcdn.com/image/fetch/$s_!FgRO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5cb7649-88b4-444f-90f9-d0550f234da8_2200x1440.png",
-      "peek_preview": "Everything I saw and heard this weekend, from a quiet firing at LVMH to Bradley Taylor’s full order book.",
-      "categories": [],
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-19T21:20:40.000Z",
-      "score_quality": 66,
-      "score_notif": 34,
-      "cluster": "20261019-e50ffe10f78b",
-      "cluster_main": true
     }
   ]
 }
