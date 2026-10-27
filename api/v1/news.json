@@ -1,6 +1,6 @@
 {
-  "content_hash": "0ffb44f7e1407908e223a51c203e33e58aea3c9b695acd025aecd87a9f4f4c2e",
-  "last_updated": "2026-10-27T06:48:12.540Z",
+  "content_hash": "aa08f3ef22bf28a44de641e5166b7544c74862ec8b115a250863e7f289faee57",
+  "last_updated": "2026-10-27T07:48:19.438Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T06:00:00.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T14:00:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T07:01:09.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -176,6 +176,27 @@
   ],
   "items": [
     {
+      "title": "My First Doxa Review: The Sub 300 Beta ‘Frogger’ Collab Watch",
+      "url": "https://www.ablogtowatch.com/my-first-doxa-review-the-sub-300-beta-frogger-collab-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Doxa-Sub-300-Beta-Frogger-RAZ-Crop-15-768x346.jpg",
+      "peek_preview": "I’ve been reviewing watches for eight years now, including the last four at aBlogtoWatch. While I’ve handled my fair share of Doxa watches at events and meetups, and I’ve long had my eye on the Doxa Army, I’ve never spe...",
+      "categories": [
+        "Wrist Time Reviews",
+        "Collaborations",
+        "Dive Watches",
+        "Limited Edition Watches",
+        "Watch Releases 2026"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-27T07:01:09.000Z",
+      "score_quality": 72,
+      "score_notif": 61,
+      "cluster": "20261027-0abfe0c44bed",
+      "cluster_main": true
+    },
+    {
       "title": "The Citizen Eco-Drive AW1900 Series Pushes The Boundaries Of Affordability",
       "url": "https://www.fratellowatches.com/the-citizen-eco-drive-aw1900-series-pushes-the-boundaries-of-affordability/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Citizen-Eco-Drive-AW19001.jpeg",
@@ -243,7 +264,7 @@
       "score_quality": 58,
       "score_notif": 71,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot Classic Fusion Tributo: Zurück zu den Wurzeln. Und dann?",
@@ -297,7 +318,7 @@
       "score_quality": 79,
       "score_notif": 71,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -387,7 +408,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: A. Lange & Söhne Datograph Perpetual Calendar—With Diamonds And A Bracelet",
@@ -684,7 +705,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nobody Asked: Picking Team Watches For The NFL, Part II",
@@ -739,7 +760,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -1815,7 +1836,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
@@ -2012,7 +2033,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: Hublot Classic Fusion Tributo—The 1980 MDM Original Gets an In-House Mechanical Heart",
@@ -2066,8 +2087,8 @@
       "published_at": "2026-10-21T13:34:22.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster": "20261021-1961db4430b7",
+      "cluster_main": true
     },
     {
       "title": "New Oct 26: Citizen Attesa Ever Since Eco-Drive Radio Controlled",
@@ -2315,7 +2336,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261020-c41149d0d412",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release Oct 26: Renaud Tixier Monday Skeleton | CHF 129,000",
@@ -2372,21 +2393,6 @@
       "score_quality": 65,
       "score_notif": 28,
       "cluster": "20261019-2a98e308d8e4",
-      "cluster_main": true
-    },
-    {
-      "title": "The 10 Most Accurate Watches For The Precision-Obsessed",
-      "url": "https://teddybaldassarre.com/blogs/watches/most-accurate-watches-1",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/escapement_GIF.gif?v=1653501499",
-      "peek_preview": "Fundamentally, mechanical and quartz movements do the same thing: they both tell the time. But the ways in which they both do it couldn’t be more different. Not to get into a comparison guide here, but in a nutshell: a...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-19T19:32:37.000Z",
-      "score_quality": 49,
-      "score_notif": 15,
-      "cluster": "20261019-c2fa2f68dc5a",
       "cluster_main": true
     }
   ]
