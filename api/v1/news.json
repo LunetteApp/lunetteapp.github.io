@@ -1,6 +1,6 @@
 {
-  "content_hash": "09f887fe1add217148a0779d26b6d2668bf3e95d3a95f263888c3ba953def471",
-  "last_updated": "2026-10-27T13:47:34.754Z",
+  "content_hash": "ff3ab81f13ea9eca05affb9c1f7e727b3eaefa80cb756f5f2f288148c679ab8f",
+  "last_updated": "2026-10-27T14:48:02.438Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T19:00:19.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T14:00:49.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T17:44:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T14:00:04.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -57,15 +57,15 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T13:00:00.000Z"
     },
     {
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T13:28:04.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Seiko Introduces A New 5 Sports SKX GMT U.S. Limited Edition HDB016",
+      "url": "https://teddybaldassarre.com/blogs/watches/seiko-skx-hdb016-dr-pepper",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko_5_Sports_Dr.Pepper_HDB016_FL2-2.jpg?v=1793047765",
+      "peek_preview": "Seiko has long offered enthusiasts an affordable way into mechanical watches, and for many, that route has been through the Seiko 5 Sports. First introduced in 1968, the collection was relaunched in 2019 with models dra...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-27T14:00:04.000Z",
+      "score_quality": 66,
+      "score_notif": 64,
+      "cluster": "20261027-e848dc7e0bc3",
+      "cluster_main": true
+    },
     {
       "title": "Philippe Dufour: A Visit to His Workshop and the LeCoultre Compass Camera",
       "url": "https://deployant.com/philippe-dufour-a-visit-to-his-workshop-and-the-lecoultre-compass-camera/?utm_source=rss&utm_medium=rss&utm_campaign=philippe-dufour-a-visit-to-his-workshop-and-the-lecoultre-compass-camera",
@@ -683,7 +698,7 @@
       "featured": false,
       "published_at": "2026-10-26T14:30:00.000Z",
       "score_quality": 52,
-      "score_notif": 48,
+      "score_notif": 34,
       "cluster": "20261026-28c9d6aa0129",
       "cluster_main": true
     },
@@ -703,7 +718,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Full-White Hautlence Sphere Series 5",
@@ -723,7 +738,7 @@
       "featured": false,
       "published_at": "2026-10-26T14:05:55.000Z",
       "score_quality": 76,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261026-f4fc52ccc3bb",
       "cluster_main": true
     },
@@ -1640,7 +1655,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Introduces the Kelp Forest Limited Edition",
@@ -2011,7 +2026,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
@@ -2152,24 +2167,6 @@
       "cluster_main": true
     },
     {
-      "title": "Louis Erard Introduces the Dia De Los Muertos Black",
-      "url": "https://wornandwound.com/louis-erard-introduces-the-dia-de-los-muertos-black/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Louis-Erard-Skull-Banner.jpg",
-      "peek_preview": "We’ve arrived at the time of year where we can finally highlight my favorite seasonal watch niche. Skull watches, most often created to underscore the philosophy of memento mori (an acknowledgement of our mortality) ten...",
-      "categories": [
-        "News & Releases",
-        "Louis Erard"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T16:00:57.000Z",
-      "score_quality": 69,
-      "score_notif": 34,
-      "cluster": "20261021-fdc149f1502e",
-      "cluster_main": true
-    },
-    {
       "title": "It’s Dame Time: The New Manual-Wind Tissot PRX Skeleton Special Edition",
       "url": "https://timeandtidewatches.com/its-dame-time-the-new-manual-wind-tissot-prx-skeleton-special-edition/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-tissot-prx-skeleton-special-edition.jpg",
@@ -2188,7 +2185,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Tissot PRX Skeleton Damian Lillard Special-Edition Watch Is A Bold, Handwound Take On A Modern Classic",
@@ -2400,25 +2397,6 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261021-8e811797acac",
-      "cluster_main": true
-    },
-    {
-      "title": "Artisanal “Indies” Hidden in Plain Sight",
-      "url": "https://watchesbysjx.com/2026/10/industrial-artisanship-paradox-independence-editorial.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2025/01/greubel-forsey-hand-made-1-tourbillon-cage-300x200.jpg",
-      "peek_preview": "Independent watchmaking is often discussed as a world apart from the work of major brands. But the distinction becomes less clear when we look at how specific watches are made and who makes them, especially when it come...",
-      "categories": [
-        "Opinions",
-        "Editorials",
-        "Independent watchmaking"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T01:00:25.000Z",
-      "score_quality": 78,
-      "score_notif": 27,
-      "cluster": "20261021-e9efd8e94436",
       "cluster_main": true
     }
   ]
