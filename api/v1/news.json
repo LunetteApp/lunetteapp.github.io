@@ -1,6 +1,6 @@
 {
-  "content_hash": "96049de547a17e5bfe6701fb26d9f6df28896a1188a07f7eee2ead1691b34497",
-  "last_updated": "2026-10-27T18:47:30.801Z",
+  "content_hash": "e3eca2cb64eefc024e89e995f71688fa0d2195acd4157ed4446115bdc3e2d842",
+  "last_updated": "2026-10-27T19:47:09.516Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T18:00:21.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T17:00:00.000Z"
+      "estimated_articles_per_day": 2.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-27T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -134,7 +134,7 @@
     {
       "source_name": "Le Calibre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.1,
+      "estimated_articles_per_day": 0,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-09T06:05:16.000Z"
     },
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T13:42:51.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Photo Report: A. Lange & Söhne Brings A Glimpse Of History to New York City",
+      "url": "https://www.hodinkee.com/articles/a-lange-and-sohne-celebrates-32-years-of-german-watchmaking-in-new-york-city",
+      "image": "https://hodinkee.imgix.net/uploads/articles/462af331-813e-4070-92a2-d15f044fbb54/P1022711.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "In a special exhibition, A. Lange & Söhne marked the 32nd anniversary of their re-founding by bringing together watches from across their history in a retrospective showcase of the brand's evolution.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-27T19:00:00.000Z",
+      "score_quality": 73,
+      "score_notif": 45,
+      "cluster": "20261027-8873fcdf9bbd",
+      "cluster_main": true
+    },
     {
       "title": "Sinn Announces their Autumn Novelties",
       "url": "https://wornandwound.com/sinn-announces-their-autumn-novelties/",
@@ -651,7 +666,7 @@
       "score_quality": 63,
       "score_notif": 32,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ブルガリが天然の大理石をダイアルに用いた「セルペンティ セドゥットーリ」のユニークピースを発表",
@@ -699,7 +714,7 @@
       "featured": false,
       "published_at": "2026-10-26T19:00:19.000Z",
       "score_quality": 66,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261026-5759e16d9654",
       "cluster_main": true
     },
@@ -1028,7 +1043,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -1126,7 +1141,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -2003,7 +2018,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: the Gagà Laboratorio Aqualab",
@@ -2075,7 +2090,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261022-a35ee2a11e82",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tissot PRX Skeleton Damian Lillard Special Edition",
@@ -2274,7 +2289,7 @@
       "score_quality": 70,
       "score_notif": 32,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "UNIMATIC Langhe Collection Brings Fall ‘Truffle Hunting’ Colors To Its Most Popular Swiss-Made Watches",
@@ -2412,23 +2427,6 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261021-ff110ad74eb0",
-      "cluster_main": true
-    },
-    {
-      "title": "Orient Mako GMT : la plongeuse japonaise culte passe en mode voyage",
-      "url": "https://www.welovewatches.fr/orient-mako-gmt-la-plongeuse-japonaise-culte-passe-en-mode-voyage.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-montres-orient-mako-gmt.jpg",
-      "peek_preview": "Depuis des années, l'Orient Mako fait figure de valeur sûre pour qui cherche une vraie montre de plongée automatique sans se ruiner. La légendaire plongeuse japonaise s'offre aujourd'hui une nouvelle corde à son arc :...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-21T08:25:15.000Z",
-      "score_quality": 63,
-      "score_notif": 34,
-      "cluster": "20261021-6cc6f311d413",
       "cluster_main": true
     }
   ]
