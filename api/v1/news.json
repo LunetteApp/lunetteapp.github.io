@@ -1,6 +1,6 @@
 {
-  "content_hash": "9f8d5c984e9ce8d2dda5dfa22b611c1927f5aa9d67de9646695b48a9d2127673",
-  "last_updated": "2026-10-28T10:48:18.727Z",
+  "content_hash": "84683707d060841e179cbbe428a1bdd4338ac199574ed13622fc582269bfda5a",
+  "last_updated": "2026-10-28T11:47:05.477Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T10:00:25.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T07:01:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T11:00:37.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T10:00:04.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T10:05:06.000Z"
     },
     {
@@ -176,6 +176,29 @@
   ],
   "items": [
     {
+      "title": "Introducing – The New Vacheron Constantin The Legend of the Chinese Zodiac “Year of the Goat”",
+      "url": "https://monochrome-watches.com/vacheron-constantin-metiers-dart-the-legend-of-the-chinese-zodiac-year-of-the-goat-2027-introducing/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Vacheron-Constantin-Legend-of-the-Chinese-Zodiac-Year-of-the-Goat-2027-9-600x237.jpg",
+      "peek_preview": "According to the Chinese zodiac, the Lunar New Year in February 2027 will usher in the Year of the Goat, the eighth animal of the twelve-year cycle. To mark the occasion, Vacheron Constantin pays tribute to the Year of...",
+      "categories": [
+        "Vacheron Constantin",
+        "2026",
+        "Calendar Watches",
+        "High-end Watches",
+        "Metiers d'Arts",
+        "Novelty",
+        "Other Display"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-28T11:00:37.000Z",
+      "score_quality": 76,
+      "score_notif": 64,
+      "cluster": "20261028-ceedb548e599",
+      "cluster_main": true
+    },
+    {
       "title": "CHANEL PREMIÈRE GALON 2026: un secolo di couture racchiuso in un intreccio d’oro",
       "url": "https://italianwatchspotter.com/chanel-premiere-galon-2026-oro-bianco/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-124-1024x683.png",
@@ -198,7 +221,7 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261024-921a7c6313e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Lebond Norman Foster Shows What True Integration Of Elements Means",
@@ -753,7 +776,7 @@
       "featured": false,
       "published_at": "2026-10-27T11:01:32.000Z",
       "score_quality": 54,
-      "score_notif": 41,
+      "score_notif": 34,
       "cluster": "20261027-bb0d4fc31b8f",
       "cluster_main": true
     },
@@ -911,7 +934,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot Classic Fusion Tributo: Zurück zu den Wurzeln. Und dann?",
@@ -965,7 +988,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -1310,7 +1333,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -1408,7 +1431,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -1474,34 +1497,6 @@
       "score_quality": 46,
       "score_notif": 34,
       "cluster": "20261025-1ea662885d1c",
-      "cluster_main": true
-    },
-    {
-      "title": "Buying Guide – Softening the Square with Six Cushion-Shaped Watches",
-      "url": "https://monochrome-watches.com/buying-guide-cushion-shaped-watches-hamilton-panerai-tag-heuer-h-moser-and-cie-timex-gerald-genta-specs-price-review/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Hamilton-American-Classic-Cushion-Mechanical-Review-Upgraded-Peseux-7001-11-600x237.jpg",
-      "peek_preview": "With the vast majority of watches being perfectly round, and a good chunk of them being square or even rectangular, there’s an in-between way to stand out from the masses. Shaping the exterior helps you get noticed, and...",
-      "categories": [
-        "Gerald Genta",
-        "H. Moser & Cie",
-        "Hamilton",
-        "Panerai",
-        "TAG Heuer",
-        "Timex",
-        "2026",
-        "Buying Guide",
-        "Dress Watches",
-        "Independent Watchmaking",
-        "Sports watch",
-        "Value Proposition"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-25T10:35:37.000Z",
-      "score_quality": 71,
-      "score_notif": 24,
-      "cluster": "20261025-1aa3469f584a",
       "cluster_main": true
     },
     {
@@ -1867,7 +1862,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261024-921a7c6313e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Sets Sights on Higher Ground with Layoffs",
