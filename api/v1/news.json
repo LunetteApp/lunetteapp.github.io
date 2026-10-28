@@ -1,6 +1,6 @@
 {
-  "content_hash": "149576afafcc4bc78d0cc883d8d54c6eb85b68fa94901b63f9ada72f47eafc7f",
-  "last_updated": "2026-10-28T17:48:41.889Z",
+  "content_hash": "a25f52d3050427abb797c0b4b5db04d9018030606845da33b30a101d0886def9",
+  "last_updated": "2026-10-28T18:47:45.442Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T17:00:28.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T17:00:37.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T14:00:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T18:29:24.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T17:00:00.000Z"
     },
     {
@@ -79,14 +79,14 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T17:08:30.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T17:26:23.000Z"
     },
     {
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T17:08:59.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T16:50:27.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "TAG Heuer Carrera Chronograph: The Comprehensive Guide",
+      "url": "https://teddybaldassarre.com/blogs/watches/tag-heuer-carrera-guide",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Edouard-Heuer-2.jpg?v=1710794204",
+      "peek_preview": "The TAG Heuer Carrera is widely regarded as one of the OGs of racing-inspired chronograph wristwatches, and today — decades after both the model and the deadly road race that gave it its name appeared to have been perma...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-28T18:29:24.000Z",
+      "score_quality": 66,
+      "score_notif": 22,
+      "cluster": "20261028-627edf6542f8",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Bell & Ross BR-05 Chrono Snow Rocket—A 250-Piece Tribute to the World's Fastest Skier",
       "url": "https://www.watchcollectinglifestyle.com/home/bell-and-ross-br-05-chrono-snow-rocket-review",
@@ -386,7 +401,7 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261024-921a7c6313e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Lebond Norman Foster Shows What True Integration Of Elements Means",
@@ -659,7 +674,7 @@
       "featured": false,
       "published_at": "2026-10-27T18:00:21.000Z",
       "score_quality": 44,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261027-27e5f4054941",
       "cluster_main": true
     },
@@ -734,7 +749,7 @@
       "score_quality": 56,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko Introduces A New 5 Sports SKX GMT U.S. Limited Edition HDB016",
@@ -824,7 +839,7 @@
       "score_quality": 63,
       "score_notif": 32,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: WM Brown x Timex",
@@ -1121,7 +1136,7 @@
       "score_quality": 63,
       "score_notif": 32,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ブルガリが天然の大理石をダイアルに用いた「セルペンティ セドゥットーリ」のユニークピースを発表",
@@ -1498,7 +1513,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Closer Look: Renaud Tixier Monday Skeleton Watch And Why It Matters",
@@ -1576,7 +1591,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -1662,7 +1677,7 @@
       "score_quality": 62,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Originelle Uhren: 5 Zeitmesser mit viel Spaß für wenig Budget",
@@ -1989,7 +2004,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261024-921a7c6313e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith Sets Sights on Higher Ground with Layoffs",
