@@ -1,6 +1,6 @@
 {
-  "content_hash": "9d8d1cb1d10f0a9aba87c0a47fe6aa3686fd68bc832cb5dd762e363ec9c1e2f6",
-  "last_updated": "2026-10-28T08:47:42.255Z",
+  "content_hash": "32a6883770980eff00b116683b3c72a99c93a77d682ea735a2ec6c290d03f84a",
+  "last_updated": "2026-10-28T09:48:20.319Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T08:00:37.000Z"
     },
     {
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T11:50:46.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T09:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Gli smartwatch dell’autunno. Latest – 28/10/2026",
+      "url": "https://giornaleorologi.it/2026/10/28/gli-smartwatch-dellautunno-2026/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/Amazfit_TREX-Solar_2641-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Gli smartwatch dell’autunno. Latest – 28/10/2026 Questa è la stagione in cui il polso si rimette in riga. Dimenticate le vacanze, gli smartwatch dell’autunno 2026 portano al polso titanio, zaff...",
+      "categories": [
+        "Vetrine",
+        "Amazfit",
+        "Apple",
+        "Coros",
+        "Garmin",
+        "Huawei",
+        "Suunto",
+        "Xiaomi"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-28T09:00:00.000Z",
+      "score_quality": 32,
+      "score_notif": 25,
+      "cluster": "20261028-639354f15c93",
+      "cluster_main": true
+    },
     {
       "title": "Grand Seiko’s New SBGY045 Puts A Fresh Twist On The Beloved Omiwatari",
       "url": "https://www.fratellowatches.com/new-grand-seiko-sbgy045-gs9-club-limited-edition/",
@@ -461,7 +485,7 @@
       "score_quality": 56,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko Introduces A New 5 Sports SKX GMT U.S. Limited Edition HDB016",
@@ -711,12 +735,12 @@
       "featured": false,
       "published_at": "2026-10-27T09:10:07.000Z",
       "score_quality": 73,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261027-f71f10287806",
       "cluster_main": true
     },
     {
-      "title": "Introducing – The Moritz Grossmann Hamatic, now with Black Enamel Dial",
+      "title": "Introducing – The Moritz Grossmann Hamatic, Now with a Black Enamel Dial",
       "url": "https://monochrome-watches.com/moritz-grossmann-hamatic-enamel-black-dial-limited-edition-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/10/moritz-grossmann-hamatic-enamel-black-dial-limited-edition-1-600x237.jpg",
       "peek_preview": "Moritz Grossmann continues to celebrate the 200th anniversary of its founder, Carl Moritz Grossmann (1826-1885), a key figure in Glashütte’s rise as a powerhouse of German watchmaking. After releasing seven anniversary...",
@@ -1037,7 +1061,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Full-White Hautlence Sphere Series 5",
@@ -1225,7 +1249,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -1323,7 +1347,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -1455,7 +1479,7 @@
       "score_quality": 62,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Originelle Uhren: 5 Zeitmesser mit viel Spaß für wenig Budget",
@@ -1896,7 +1920,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Introduces the Kelp Forest Limited Edition",
@@ -2348,7 +2372,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Tissot PRX Skeleton Damian Lillard Special-Edition Watch Is A Bold, Handwound Take On A Modern Classic",
@@ -2368,7 +2392,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: Hublot Classic Fusion Tributo—The 1980 MDM Original Gets an In-House Mechanical Heart",
@@ -2406,23 +2430,6 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261021-476eba5f82c7",
-      "cluster_main": true
-    },
-    {
-      "title": "CPO : Audemars Piguet préparerait le lancement de son programme d’occasion certifiée",
-      "url": "https://www.welovewatches.fr/cpo-audemars-piguet-preparerait-le-lancement-de-son-programme-doccasion-certifiee.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/audemars_piguet_occasion_certifiee_une_1940x1280.jpg",
-      "peek_preview": "Selon WatchPro, Audemars Piguet devrait présenter son programme Certified Pre-Owned avant la fin du mois. Le projet donnerait une nouvelle ampleur à une activité que la manufacture teste depuis plusieurs années. Mais la...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-21T13:34:22.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261021-1961db4430b7",
       "cluster_main": true
     }
   ]
