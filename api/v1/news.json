@@ -1,6 +1,6 @@
 {
-  "content_hash": "a25f52d3050427abb797c0b4b5db04d9018030606845da33b30a101d0886def9",
-  "last_updated": "2026-10-28T18:47:45.442Z",
+  "content_hash": "35ce66f6de1dc24842b5bbca533f31753884b864b2c29422ed13398a8c1633ed",
+  "last_updated": "2026-10-28T19:47:58.269Z",
   "premium": {
     "links": []
   },
@@ -44,15 +44,15 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T18:29:24.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-26T07:50:53.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T18:53:20.000Z"
     },
     {
       "source_name": "Deployant",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T17:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T17:26:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T18:56:54.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,65 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The Hublot Classic Fusion Tributo",
+      "url": "https://www.hodinkee.com/articles/the-hublot-classic-fusion-tributo",
+      "image": "https://hodinkee.imgix.net/uploads/images/dd61b059-d114-4f82-87ac-e042fc38e01c/HublotClassicFusionHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Hublot is looking back in Tributo, while moving forward.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-28T19:00:00.000Z",
+      "score_quality": 82,
+      "score_notif": 34,
+      "cluster": "20261015-5b89066bd3ad",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Vacheron Constantin Métiers d’Art The Legend of the Chinese Zodiac Year of the Goat—Three Days of Engraving for an Animal That Stands Its Ground",
+      "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-metiers-d-art-chinese-zodiac-year-of-the-goat",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793212131071-74S3Y7D3YAH978PEURTH/Vacheron+Constantin+Metiers+d%27Art+Zodiac+Year+of+the+Goat-9.jpg?format=1500w",
+      "peek_preview": "Vacheron Constantin turns to the eighth sign of the Chinese zodiac with two 25-piece limited editions, cased in 950 platinum or 18K 5N pink gold. The goat succeeds the Horse at Lunar New Year in February 2027. It symbol...",
+      "categories": [
+        "Vacheron Constantin"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-28T18:56:54.000Z",
+      "score_quality": 76,
+      "score_notif": 64,
+      "cluster": "20261028-ceedb548e599",
+      "cluster_main": false
+    },
+    {
+      "title": "Why I’m Excited About The Watch World’s First Concours d’ Élégance Horlogère",
+      "url": "https://www.atimelyperspective.com/why-im-excited-about-the-watch-worlds-first-concours-d-elegance-horlogere/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/Screenshot-2026-10-28-at-12.54.50-PM-1024x499.jpg",
+      "peek_preview": "Having been a car lover since my young teens, I have always been fascinated by the great automotive concours d’élégance events, where extraordinary vintage cars are celebrated not simply for their beauty, but for their...",
+      "categories": [
+        "2026 Watch Shows, Events",
+        "Artistic watches",
+        "Complicated Watches",
+        "Vacheron Constantin",
+        "Watch Shows, Exhibitions, Events",
+        "Women's watches",
+        "Wristwatch Education",
+        "Phillips in Association with Bacs & Russo",
+        "Vacheron Constantin and Phillips",
+        "Vacheron Constantin Concours d' Elegance Horlogere",
+        "watch concours d' elegance"
+      ],
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-28T18:53:20.000Z",
+      "score_quality": 50,
+      "score_notif": 54,
+      "cluster": "20261028-a84a4d713168",
+      "cluster_main": true
+    },
     {
       "title": "TAG Heuer Carrera Chronograph: The Comprehensive Guide",
       "url": "https://teddybaldassarre.com/blogs/watches/tag-heuer-carrera-guide",
@@ -656,7 +715,7 @@
       "featured": false,
       "published_at": "2026-10-27T19:00:00.000Z",
       "score_quality": 73,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261027-8873fcdf9bbd",
       "cluster_main": true
     },
@@ -837,7 +896,7 @@
       "featured": false,
       "published_at": "2026-10-27T13:28:04.000Z",
       "score_quality": 63,
-      "score_notif": 32,
+      "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
       "cluster_main": false
     },
@@ -1113,7 +1172,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -1134,9 +1193,9 @@
       "featured": false,
       "published_at": "2026-10-27T00:28:37.000Z",
       "score_quality": 63,
-      "score_notif": 32,
+      "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ブルガリが天然の大理石をダイアルに用いた「セルペンティ セドゥットーリ」のユニークピースを発表",
@@ -1168,7 +1227,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -2041,21 +2100,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Clemence Photic MKII Swiss Edition (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/clemence-photic-diver-swiss-edition",
-      "image": "https://hodinkee.imgix.net/uploads/articles/c5f69167-4d65-4b28-a4aa-08113950a5a9/P1022295.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The British microbrand goes Swiss for the first time with a new limited edition.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-23T19:00:00.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261023-03515144577c",
-      "cluster_main": true
-    },
-    {
       "title": "Junghans Brand Review: Getting To Know The Bauhaus Watchmaker",
       "url": "https://teddybaldassarre.com/blogs/watches/junghans-brand-review",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Junghans-Max-Bill-Handwound-2_505be302-5155-4bba-9362-fa05ab1318c6.jpg?v=1670516917",
@@ -2273,7 +2317,7 @@
       "published_at": "2026-10-22T22:21:05.000Z",
       "score_quality": 64,
       "score_notif": 34,
-      "cluster": "20261022-88e86d6c8e14",
+      "cluster": "20261022-4d5923b8455b",
       "cluster_main": true
     },
     {
@@ -2379,54 +2423,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
-    },
-    {
-      "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
-      "url": "https://italianwatchspotter.com/svea-atelier-monolith-rolex-king-midas/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-91-1024x682.png",
-      "peek_preview": "Pare che il fascino del Rolex King Midas non conosca età. E nemmeno confini geografici, visto che dalla Svezia è appena arrivato qualcuno deciso a renderlo un po’ più democratico. Certo, l’oro è rimasto a Ginevra, ma pe...",
-      "categories": [
-        "Starting Watches",
-        "Gérald Genta",
-        "Orologi accessibili",
-        "Orologi al quarzo",
-        "Orologi vintage",
-        "rolex",
-        "rolex king midas",
-        "Svea Atelier",
-        "Svea Atelier Monolith"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-22T11:24:53.000Z",
-      "score_quality": 52,
-      "score_notif": 34,
-      "cluster": "20261022-88e86d6c8e14",
-      "cluster_main": false
-    },
-    {
-      "title": "Thierry Stern im Interview: „Ich sehe mich als Hüter von Patek Philippe“",
-      "url": "https://www.uhrenkosmos.com/thierry-stern-im-interview-patek-philippe-2026/",
-      "image": "https://www.youtube.com/embed/7kYNXVy405k",
-      "peek_preview": "Der Patek-Philippe-Präsident Thierry Stern spricht über Tradition, Wachstum und die Zukunft der Manufaktur.",
-      "categories": [
-        "Chrono Sapiens",
-        "Im Interview",
-        "Patek Philippe",
-        "Interview Thierry Stern",
-        "Patek Philippe Watch Art Grand Exhibition",
-        "Thierry Stern",
-        "Thierry Stern Interview"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-22T09:11:39.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20261022-4090a9348b1e",
       "cluster_main": true
     }
   ]
