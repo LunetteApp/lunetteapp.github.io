@@ -1,6 +1,6 @@
 {
-  "content_hash": "84683707d060841e179cbbe428a1bdd4338ac199574ed13622fc582269bfda5a",
-  "last_updated": "2026-10-28T11:47:05.477Z",
+  "content_hash": "c868539bca4b8ee0adb95b9171a01547941622a35f03face8945deb749c2c807",
+  "last_updated": "2026-10-28T12:47:44.937Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T10:00:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T12:00:13.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T11:00:37.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T10:00:04.000Z"
     },
@@ -120,7 +120,7 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T10:05:06.000Z"
     },
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "The New CIGA Design Time Cipher Gold Opts For A Classy Colorway",
+      "url": "https://www.fratellowatches.com/new-ciga-design-time-cipher-gold/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/CIGA-Time-Cypher-1.jpg",
+      "peek_preview": "At the start of this year, CIGA Design released the Time Cipher in two case variations — one in black and one in bare steel. Both have mirror-polished contours with capsule-shaped micro-sandblasted recesses. Also, both...",
+      "categories": [
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-28T12:00:13.000Z",
+      "score_quality": 62,
+      "score_notif": 60,
+      "cluster": "20261028-cfec177a7e92",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The New Vacheron Constantin The Legend of the Chinese Zodiac “Year of the Goat”",
       "url": "https://monochrome-watches.com/vacheron-constantin-metiers-dart-the-legend-of-the-chinese-zodiac-year-of-the-goat-2027-introducing/",
@@ -659,7 +677,7 @@
       "score_quality": 63,
       "score_notif": 32,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: WM Brown x Timex",
@@ -692,7 +710,7 @@
       "featured": false,
       "published_at": "2026-10-27T12:00:38.000Z",
       "score_quality": 74,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261027-abbd454d7c74",
       "cluster_main": true
     },
@@ -710,7 +728,7 @@
       "featured": false,
       "published_at": "2026-10-27T12:00:35.000Z",
       "score_quality": 79,
-      "score_notif": 72,
+      "score_notif": 34,
       "cluster": "20261027-9b4dea37f340",
       "cluster_main": true
     },
@@ -956,7 +974,7 @@
       "score_quality": 63,
       "score_notif": 32,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ブルガリが天然の大理石をダイアルに用いた「セルペンティ セドゥットーリ」のユニークピースを発表",
@@ -1145,7 +1163,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Full-White Hautlence Sphere Series 5",
@@ -1333,7 +1351,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -1431,7 +1449,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -1497,24 +1515,6 @@
       "score_quality": 46,
       "score_notif": 34,
       "cluster": "20261025-1ea662885d1c",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex GMT-Master Ref. 6542: The World’s Most Infamous Watch, 1959–1960",
-      "url": "https://www.fratellowatches.com/rolex-gmt-master-6542-worlds-most-infamous-watch-1959-1960/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Rolex-GMT-Master-6542-wrist-shot-%E2%80%94-Wind-Vintage.jpeg",
-      "peek_preview": "The 1950s ushered in the golden age of commercial aviation. Modern jetliners revolutionized international travel, connecting distant cities and continents faster than ever before, proving the Sherman Brothers and Walt D...",
-      "categories": [
-        "In-Depth",
-        "Watch Talk"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-25T10:00:07.000Z",
-      "score_quality": 83,
-      "score_notif": 33,
-      "cluster": "20261025-6407f8c5602b",
       "cluster_main": true
     },
     {
@@ -1959,7 +1959,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris Introduces the Kelp Forest Limited Edition",
@@ -2270,7 +2270,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Il Rolex King Midas ha un gemello svedese, ma non ditelo a Genta!",
@@ -2431,7 +2431,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
