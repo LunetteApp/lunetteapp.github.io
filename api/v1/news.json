@@ -1,6 +1,6 @@
 {
-  "content_hash": "55837b20bdee5cdd7fee41a6c87b645d5fdda3c9fa6a839ca3ce4e6375e66bf2",
-  "last_updated": "2026-10-28T13:48:29.036Z",
+  "content_hash": "667cee34822cfaf71be32eb25720029aef955b468e0c5ce662b782b5dde9202c",
+  "last_updated": "2026-10-28T14:46:01.580Z",
   "premium": {
     "links": []
   },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T13:30:00.000Z"
     },
     {
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T13:08:00.000Z"
     },
     {
@@ -639,7 +639,7 @@
       "featured": false,
       "published_at": "2026-10-27T14:00:04.000Z",
       "score_quality": 66,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261027-e848dc7e0bc3",
       "cluster_main": true
     },
