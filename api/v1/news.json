@@ -1,6 +1,6 @@
 {
-  "content_hash": "c868539bca4b8ee0adb95b9171a01547941622a35f03face8945deb749c2c807",
-  "last_updated": "2026-10-28T12:47:44.937Z",
+  "content_hash": "55837b20bdee5cdd7fee41a6c87b645d5fdda3c9fa6a839ca3ce4e6375e66bf2",
+  "last_updated": "2026-10-28T13:48:29.036Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T12:00:13.000Z"
     },
     {
@@ -58,13 +58,13 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.8,
+      "estimated_articles_per_day": 2.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-27T19:00:00.000Z"
     },
@@ -92,9 +92,9 @@
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-14T07:42:58.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T13:08:00.000Z"
     },
     {
       "source_name": "Watch Insanity",
@@ -176,6 +176,45 @@
   ],
   "items": [
     {
+      "title": "Watch Shows Worth Travelling to: Bangkok Watch Week and Istanbul Watch Festival",
+      "url": "https://deployant.com/watch-shows-worth-travelling-to-bangkok-watch-week-and-istanbul-watch-festival/?utm_source=rss&utm_medium=rss&utm_campaign=watch-shows-worth-travelling-to-bangkok-watch-week-and-istanbul-watch-festival",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/watch-shows-feature.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Watch shows are becoming an increasingly popular way for manufacturers to meet collectors, enthusiasts and potential customers in the markets where they live....",
+      "categories": [
+        "Opinion",
+        "Watches",
+        "bangkok watch week",
+        "istanbul watch festival",
+        "watch shows"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-28T13:30:00.000Z",
+      "score_quality": 54,
+      "score_notif": 27,
+      "cluster": "20261028-8009f8df75e0",
+      "cluster_main": true
+    },
+    {
+      "title": "Ebel, gli astri si sono allineati?",
+      "url": "https://www.perpetualpassion.com/2026/10/28/ebel-chanel-fp-journe-ritorno-futuro-orologeria/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/DSC07641.webp",
+      "peek_preview": "È stata una settimana importante per l’orologeria, con marchi che ritornano e altri che si eclissano.La notizia che [...] L'articolo Ebel, gli astri si sono allineati? proviene da PERPETUAL PASSION.",
+      "categories": [
+        "Just In",
+        "home"
+      ],
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-28T13:08:00.000Z",
+      "score_quality": 34,
+      "score_notif": 48,
+      "cluster": "20261028-3ecae8be1275",
+      "cluster_main": true
+    },
+    {
       "title": "The New CIGA Design Time Cipher Gold Opts For A Classy Colorway",
       "url": "https://www.fratellowatches.com/new-ciga-design-time-cipher-gold/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/CIGA-Time-Cypher-1.jpg",
@@ -239,7 +278,7 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261024-921a7c6313e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Lebond Norman Foster Shows What True Integration Of Elements Means",
@@ -631,7 +670,7 @@
       "featured": false,
       "published_at": "2026-10-27T13:42:51.000Z",
       "score_quality": 65,
-      "score_notif": 50,
+      "score_notif": 34,
       "cluster": "20261027-77951a900bbd",
       "cluster_main": true
     },
@@ -654,7 +693,7 @@
       "featured": false,
       "published_at": "2026-10-27T13:30:00.000Z",
       "score_quality": 82,
-      "score_notif": 46,
+      "score_notif": 34,
       "cluster": "20261027-d257d9c4c8cf",
       "cluster_main": true
     },
@@ -690,7 +729,7 @@
       "featured": false,
       "published_at": "2026-10-27T13:00:00.000Z",
       "score_quality": 78,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261027-bcd6dd809ae7",
       "cluster_main": true
     },
@@ -1163,7 +1202,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Full-White Hautlence Sphere Series 5",
@@ -1351,7 +1390,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The 417 ES x 0260 x BAIT Chronograph, the Vintage Racing Hanhart that Never Was",
@@ -1449,7 +1488,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I Bought The Hermès Cape Cod",
@@ -1778,7 +1817,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The A. Lange & Söhne Datograph Perpetual In Platinum With Bracelet (Live Pics)",
@@ -1793,7 +1832,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Review: Marvin Bathyscaphe Automatic Diver",
@@ -1862,7 +1901,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261024-921a7c6313e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Sets Sights on Higher Ground with Layoffs",
@@ -1959,7 +1998,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris Introduces the Kelp Forest Limited Edition",
@@ -2391,47 +2430,6 @@
       "score_notif": 18,
       "cluster": "20261021-0fcf2fbeb8ce",
       "cluster_main": true
-    },
-    {
-      "title": "It’s Dame Time: The New Manual-Wind Tissot PRX Skeleton Special Edition",
-      "url": "https://timeandtidewatches.com/its-dame-time-the-new-manual-wind-tissot-prx-skeleton-special-edition/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-tissot-prx-skeleton-special-edition.jpg",
-      "peek_preview": "Tissot joins Damian Lillard for a PRX Skeleton Special Edition, featuring a 44mm case, hand-wound movement and pocket-watch conversion kit The post It’s Dame Time: The New Manual-Wind Tissot PRX Skeleton Special Edition...",
-      "categories": [
-        "Introducing",
-        "PRX",
-        "skeleton",
-        "tissot",
-        "Tissot PRX"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T16:00:28.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
-    },
-    {
-      "title": "New Release: Tissot PRX Skeleton Damian Lillard Special-Edition Watch Is A Bold, Handwound Take On A Modern Classic",
-      "url": "https://www.ablogtowatch.com/new-release-tissot-prx-skeleton-damian-lillard-special-edition-watch-is-a-bold-handwound-take-on-a-modern-classic/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Tissot-PRX-Skeleton-Damian-Lillard-Special-Edition-LOR-Crop-1-768x345.jpg",
-      "peek_preview": "In the five years since its introduction, the modern Tissot PRX collection has grown to become an integrated sports watch solution for nearly every taste. Available in a bevy of sizes, materials, complications, dial fin...",
-      "categories": [
-        "Watch Releases",
-        "Integrated Bracelet Watches",
-        "Skeletonized Watches",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-21T16:00:08.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
     }
   ]
 }
