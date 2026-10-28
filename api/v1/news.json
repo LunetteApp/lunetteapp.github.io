@@ -1,6 +1,6 @@
 {
-  "content_hash": "35ce66f6de1dc24842b5bbca533f31753884b864b2c29422ed13398a8c1633ed",
-  "last_updated": "2026-10-28T19:47:58.269Z",
+  "content_hash": "fb0b788b1bdc4436cb47558ffad77dd8a4fd353851763df11128e1faa6184d2f",
+  "last_updated": "2026-10-28T20:48:00.352Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T17:00:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-28T20:00:17.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T18:53:20.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T19:00:00.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T18:56:54.000Z"
     },
     {
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "The Pulsar “Adventurer” 7T62-X084: A Tool Watch Taken to the Next Level",
+      "url": "https://wornandwound.com/the-pulsar-adventurer-7t62-x084-a-tool-watch-taken-to-the-next-level/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Pulsar-Adventurer-3.jpg",
+      "peek_preview": "I’ve never claimed to be much of an outdoorsman, but it never hurts to keep a few rugged and utilitarian watches in the watch box. Even a leisurely stroll in a local park can warrant the wear of a tool watch; it feels f...",
+      "categories": [
+        "Featured",
+        "Pulsar",
+        "vintage"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-28T20:00:17.000Z",
+      "score_quality": 72,
+      "score_notif": 28,
+      "cluster": "20261028-0b9baf560390",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Hublot Classic Fusion Tributo",
       "url": "https://www.hodinkee.com/articles/the-hublot-classic-fusion-tributo",
@@ -460,7 +479,7 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261024-921a7c6313e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Lebond Norman Foster Shows What True Integration Of Elements Means",
@@ -1172,7 +1191,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -1227,7 +1246,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -2063,7 +2082,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261024-921a7c6313e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith Sets Sights on Higher Ground with Layoffs",
@@ -2348,24 +2367,6 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261022-b469e2356060",
-      "cluster_main": true
-    },
-    {
-      "title": "Review: the Gagà Laboratorio Aqualab",
-      "url": "https://wornandwound.com/review/review-the-gaga-laboratorio-aqualab/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Gaga-Dive-Watch-1.jpg",
-      "peek_preview": "Writing about the Gagà Laboratorio Aqualab has proved a difficult task. A tutor once told me to keep the structure of any article, report, or document simple: tell them what you’re about to tell them, tell them, then te...",
-      "categories": [
-        "Featured",
-        "Gagà Laboratorio"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-22T17:00:19.000Z",
-      "score_quality": 77,
-      "score_notif": 32,
-      "cluster": "20261022-049c5f28850e",
       "cluster_main": true
     },
     {
