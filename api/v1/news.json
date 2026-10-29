@@ -1,6 +1,6 @@
 {
-  "content_hash": "718b5424dff51f083d10be746cec2d72c9c7d673fe7691664f0b427da05010d2",
-  "last_updated": "2026-10-29T03:47:32.670Z",
+  "content_hash": "489902919a572b7c37eef8e6a58badac47ba25cfb0a54a180f292958166d800b",
+  "last_updated": "2026-10-29T05:47:24.687Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T12:00:13.000Z"
+      "estimated_articles_per_day": 3.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-29T05:00:35.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T03:00:15.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Fratello Talks: With Daniela Pusch Live From WatchTime Düsseldorf",
+      "url": "https://www.fratellowatches.com/fratello-talks-with-daniela-pusch-live-from-watchtime-dusseldorf/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Watch-Time-Dusseldorf-2026-4.jpg",
+      "peek_preview": "Watch fairs offer something online releases and product announcements can’t replicate — the chance to see watches in person, handle them, and talk directly to the people behind the brands. For enthusiasts, they can also...",
+      "categories": [
+        "Podcast"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-29T05:00:35.000Z",
+      "score_quality": 46,
+      "score_notif": 24,
+      "cluster": "20261029-ba716510b97f",
+      "cluster_main": true
+    },
     {
       "title": "カシオが「G PRESENTS LOVER’S COLLECTION」の30周年記念モデルを発表",
       "url": "https://www.webchronos.net/news/177207/",
@@ -1222,7 +1239,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot Classic Fusion Tributo: Zurück zu den Wurzeln. Und dann?",
@@ -1276,7 +1293,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -1621,7 +1638,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Closer Look: Renaud Tixier Monday Skeleton Watch And Why It Matters",
@@ -1699,23 +1716,6 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
-    },
-    {
-      "title": "Why I Bought The Hermès Cape Cod",
-      "url": "https://www.fratellowatches.com/why-i-bought-the-hermes-cape-cod/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Hermes-cape-cod-CC1.710-18.jpg",
-      "peek_preview": "Last week, I reviewed the new titanium Hermès Cape Cod. It’s a great, more masculine, sportier version of a typically more feminine, dressier watch, but it maintains its quirky, Chaîne d’Ancre-bracelet-inspired design....",
-      "categories": [
-        "Watch Talk"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T06:00:03.000Z",
-      "score_quality": 63,
-      "score_notif": 27,
-      "cluster": "20261026-8812ebda3ea8",
       "cluster_main": true
     },
     {
