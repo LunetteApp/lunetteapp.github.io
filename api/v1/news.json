@@ -1,6 +1,6 @@
 {
-  "content_hash": "a5601042e3cf1768ee6426673666e750d064e179ab3eddcacec51461231857cf",
-  "last_updated": "2026-10-29T14:48:30.713Z",
+  "content_hash": "bb5eba668228d21d65a37b625acfec15b358726cf76b6038afea0177bf520658",
+  "last_updated": "2026-10-29T15:47:50.599Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T14:01:40.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T14:00:52.000Z"
     },
     {
@@ -65,14 +65,14 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T14:00:01.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T18:56:54.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-29T14:58:38.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T14:55:50.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-29T15:21:23.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -175,6 +175,44 @@
     }
   ],
   "items": [
+    {
+      "title": "Raymond Weil A.R.T.: il primo bracciale integrato per i 50 anni della Maison",
+      "url": "https://www.watchinsanity.it/raymond-weil-art-50th-anniversary-integrated-bracelet/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Senza-titolo-1-682x1024.jpg",
+      "peek_preview": "Raymond Weil A.R.T. celebra i 50 anni della Maison con il primo bracciale integrato: modelli automatici da 38 mm e versioni al quarzo da 30 mm. The post Raymond Weil A.R.T.: il primo bracciale integrato per i 50 anni de...",
+      "categories": [
+        "News",
+        "Smart Ones",
+        "Timepieces",
+        "Raymond Weil",
+        "Time Only"
+      ],
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-29T15:21:23.000Z",
+      "score_quality": 55,
+      "score_notif": 64,
+      "cluster": "20261029-91eb44bcadf9",
+      "cluster_main": true
+    },
+    {
+      "title": "Insider: Laurent Ferrier Grand Sport Tourbillon Iceberg—A Dial That Drifts From Pale Blue to White With the Light",
+      "url": "https://www.watchcollectinglifestyle.com/home/laurent-ferrier-grand-sport-tourbillon-iceberg-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793284851558-N3N62L56CTJ2QY9QRWMN/Laurent+Ferrier+Grand+Sport+Tourbillon+Iceberg-8.jpg?format=1500w",
+      "peek_preview": "The Laurent Ferrier Grand Sport Tourbillon now arrives with a new dial. Called Iceberg, it replaces the Pursuit Salmon-pink dial GST on the titanium version, which is no longer available. Everything else stays the same:...",
+      "categories": [
+        "Laurent Ferrier"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-29T14:58:38.000Z",
+      "score_quality": 83,
+      "score_notif": 34,
+      "cluster": "20261028-97bbca9dc459",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Habring² x SJX Chrono Felix Perpetual “Star”",
       "url": "https://monochrome-watches.com/habring2-x-sjx-chrono-felix-perpetual-star-introducing-price/",
@@ -471,7 +509,7 @@
       "score_quality": 82,
       "score_notif": 63,
       "cluster": "20261028-6c54df6373c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lesablier Temporis Sauterelle Watch Review: A Small Brand Enters The Jump Hour Segment",
@@ -606,7 +644,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261028-ceedb548e599",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I’m Excited About The Watch World’s First Concours d’ Élégance Horlogère",
@@ -665,7 +703,7 @@
       "score_quality": 65,
       "score_notif": 63,
       "cluster": "20261028-6c54df6373c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tissot PRX Skeleton Damian Lillard: l’orologio che racconta un percorso",
@@ -836,7 +874,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261028-ceedb548e599",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CHANEL PREMIÈRE GALON 2026: un secolo di couture racchiuso in un intreccio d’oro",
@@ -980,7 +1018,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "One Hundred Miles With The Garmin Fēnix 9 Pro Smartwatch",
@@ -1209,7 +1247,7 @@
       "score_quality": 56,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko Introduces A New 5 Sports SKX GMT U.S. Limited Edition HDB016",
@@ -1998,7 +2036,7 @@
       "score_quality": 62,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Originelle Uhren: 5 Zeitmesser mit viel Spaß für wenig Budget",
@@ -2406,25 +2444,6 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261023-8df4a4355938",
-      "cluster_main": true
-    },
-    {
-      "title": "Tissot Supersport NBA, il tempo del possesso",
-      "url": "https://giornaleorologi.it/2026/10/23/tissot-supersport-nba/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/JPG-ADV-NBA-2026-MainVisual-US-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Tissot Supersport NBA, il tempo del possesso Ventiquattro secondi. Nel basket bastano per costruire un’azione, cercare un varco nella difesa, trovare il momento del tiro. Sul Tissot Supersport...",
-      "categories": [
-        "Attualità",
-        "Tissot",
-        "Tissot Supersport"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-23T08:06:58.000Z",
-      "score_quality": 45,
-      "score_notif": 34,
-      "cluster": "20261023-6b9a28f15d5d",
       "cluster_main": true
     }
   ]
