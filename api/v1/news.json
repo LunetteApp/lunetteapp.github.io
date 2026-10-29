@@ -1,6 +1,6 @@
 {
-  "content_hash": "02320a9f94f75f73c3f3ad440602f54753964d7d8cb5d0242168c709f71c0013",
-  "last_updated": "2026-10-29T17:47:59.614Z",
+  "content_hash": "f9154ea1feedba92b10b19307e0385ec180e0108b1bcd01971f26e5fbeb071ce",
+  "last_updated": "2026-10-29T18:49:33.525Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T17:00:05.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T17:30:14.000Z"
     },
     {
@@ -43,8 +43,8 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T16:56:36.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-29T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-29T18:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -87,13 +87,13 @@
       "lang": "en",
       "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-29T17:41:33.000Z"
+      "latest_article_at": "2026-10-29T18:13:43.000Z"
     },
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T14:12:41.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Watch Shopping: Bucherer Opens a Rolex Boutique in Bellevue—A 4,700-Square-Foot Destination for the Pacific Northwest",
+      "url": "https://www.watchcollectinglifestyle.com/home/rolex-boutique-bellevue-bucherer",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793297756284-6Q0YDWEH5NDUIBGX2BWF/BuchererBoutique_Bellevue_RSWI_01-4.jpg?format=1500w",
+      "peek_preview": "Bucherer announced on October 26, 2026, that it has opened a new Rolex Boutique at The Shops at The Bravern in Bellevue, Washington. The 4,700-square-foot space brings a dedicated Rolex address to the Pacific Northwest.",
+      "categories": [
+        "Watch Shopping",
+        "Rolex"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-29T18:13:43.000Z",
+      "score_quality": 35,
+      "score_notif": 21,
+      "cluster": "20261029-f0819771e75a",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Girard-Perregaux Laureato Fifty Three Gold Bridges—Rose Gold Bridges, a Tourbillon, and a Hidden Micro-Rotor",
       "url": "https://www.watchcollectinglifestyle.com/home/girard-perregaux-laureato-fifty-three-gold-bridges",
@@ -325,7 +343,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -340,7 +358,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -1641,7 +1659,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -1696,7 +1714,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -1746,7 +1764,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -1765,7 +1783,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: A. Lange & Söhne Datograph Perpetual Calendar—With Diamonds And A Bracelet",
@@ -2002,21 +2020,6 @@
       "score_notif": 21,
       "cluster": "20261026-be0cfb7e1505",
       "cluster_main": true
-    },
-    {
-      "title": "Business News: Audemars Piguet Unveils 'The Watch Keepers' - A Digital Platform Offering Certified Pre-Owned Watches",
-      "url": "https://www.hodinkee.com/articles/audemars-piguet-unveils-the-watch-keepers-a-digital-platform-offering-certified-pre-owned-watches",
-      "image": "https://hodinkee.imgix.net/uploads/images/6e4490ef-be24-4879-bfcc-f05780554f82/TheWatchKeepers_Library.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The Le Brassus watchmaker will facilitate sales and auctions of brand-certified timepieces on a digital platform launching in Switzerland and Europe, with plans for expansion to other markets, including the U.S.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T07:00:00.000Z",
-      "score_quality": 83,
-      "score_notif": 34,
-      "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
     },
     {
       "title": "モバードが創業145周年を祝うクッションケースの新作「ヘリテージ キングマティック」を発表",
