@@ -1,6 +1,6 @@
 {
-  "content_hash": "7ef9435ae70815fb8fcb302a6bc09e28935c3579d6ad957610c3dbecdcd39077",
-  "last_updated": "2026-10-29T06:47:37.875Z",
+  "content_hash": "09492770635eba085574d99faf5be835ddc44d4ed25dda7e230572efe8bff678",
+  "last_updated": "2026-10-29T07:47:55.817Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T06:00:57.000Z"
     },
     {
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.8,
+      "estimated_articles_per_day": 3.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-28T17:00:37.000Z"
     },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T16:00:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-29T07:01:29.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Lesablier Temporis Sauterelle Watch Review: A Small Brand Enters The Jump Hour Segment",
+      "url": "https://www.ablogtowatch.com/lesablier-temporis-sauterelle-watch-review/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Lesablier-Temporis-Sauterelle-RAZ-Crop-8-768x346.jpg",
+      "peek_preview": "A few years ago, I was getting lunch with Akbar Sattah, founder of Lesablier, in Arlington, Virginia. He pulled his phone out and showed me a tidy render of a tonneau case watch with a malachite dial and told me it was...",
+      "categories": [
+        "Wrist Time Reviews",
+        "Jump Hour Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-29T07:01:29.000Z",
+      "score_quality": 72,
+      "score_notif": 46,
+      "cluster": "20261029-f5f2b18487df",
+      "cluster_main": true
+    },
     {
       "title": "A Long Overdue Encounter With The Impressive Sinn U50 Dive Watch",
       "url": "https://www.fratellowatches.com/a-long-overdue-encounter-with-the-impressive-sinn-u50-dive-watch/",
@@ -366,7 +386,7 @@
       "score_quality": 54,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Girard-Perragaux Laureato Fifty Three Gold Bridges, with New Gold Accents",
@@ -638,7 +658,7 @@
       "featured": false,
       "published_at": "2026-10-28T07:03:49.000Z",
       "score_quality": 72,
-      "score_notif": 47,
+      "score_notif": 34,
       "cluster": "20261028-bbbe83b5570b",
       "cluster_main": true
     },
@@ -660,7 +680,7 @@
       "featured": false,
       "published_at": "2026-10-28T07:01:51.000Z",
       "score_quality": 82,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
       "cluster_main": true
     },
@@ -699,7 +719,7 @@
       "featured": false,
       "published_at": "2026-10-28T07:00:42.000Z",
       "score_quality": 64,
-      "score_notif": 56,
+      "score_notif": 34,
       "cluster": "20261028-b94ff9dd8829",
       "cluster_main": true
     },
@@ -2400,27 +2420,6 @@
       "score_quality": 73,
       "score_notif": 34,
       "cluster": "20261022-0fe1bde5585a",
-      "cluster_main": true
-    },
-    {
-      "title": "Tissot PRX Skeleton Damian Lillard Special Edition",
-      "url": "https://deployant.com/new-oct-26-tissot-prx-skeleton-damian-lillard-special-edition/?utm_source=rss&utm_medium=rss&utm_campaign=new-oct-26-tissot-prx-skeleton-damian-lillard-special-edition",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/JPG-ADV-PRXDamianLillard-2026-OtherVisuals-2-for-deployant.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The Tissot PRX Skeleton Damian Lillard Special takes the familiar PRX design in a bold new direction. This the first skeletonised PRX, pairing a hand-wound me...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "prx",
-        "tissot"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-22T13:30:00.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261021-e48a577e43cf",
       "cluster_main": true
     }
   ]
