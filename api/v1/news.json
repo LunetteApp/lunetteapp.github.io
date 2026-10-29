@@ -1,6 +1,6 @@
 {
-  "content_hash": "accbc20e895cf068c464b88406e3aee7bf028b9fdb93364bb0a1180e720b9be8",
-  "last_updated": "2026-10-29T13:47:37.619Z",
+  "content_hash": "a5601042e3cf1768ee6426673666e750d064e179ab3eddcacec51461231857cf",
+  "last_updated": "2026-10-29T14:48:30.713Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T13:00:34.000Z"
     },
     {
@@ -24,14 +24,14 @@
       "lang": "en",
       "estimated_articles_per_day": 3.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-10-29T13:01:47.000Z"
+      "latest_article_at": "2026-10-29T14:01:40.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-29T07:01:29.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-29T14:00:52.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -57,7 +57,7 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T10:00:00.000Z"
     },
@@ -65,21 +65,21 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T19:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-29T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T04:00:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-29T14:00:01.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-29T13:00:26.000Z"
     },
     {
@@ -175,6 +175,65 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The Habring² x SJX Chrono Felix Perpetual “Star”",
+      "url": "https://monochrome-watches.com/habring2-x-sjx-chrono-felix-perpetual-star-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/10/Habring2-x-SJX-Chrono-Felix-Perpetual-Star-6-600x237.jpg",
+      "peek_preview": "Our friends at SJX, the Singapore-based watch magazine founded by journalist Su Jiaxian, are back at it with yet another collaboration watch with Habring², the Austrian independent watchmaker (and one of the best-kept s...",
+      "categories": [
+        "Habring²",
+        "2026",
+        "Chronographs",
+        "Independent Watchmaking",
+        "Novelty",
+        "Perpetual Calendar"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-29T14:01:40.000Z",
+      "score_quality": 84,
+      "score_notif": 68,
+      "cluster": "20261029-43a275a4df29",
+      "cluster_main": false
+    },
+    {
+      "title": "Habring² and SJX Reunite for a Finale with CFP “Star”",
+      "url": "https://watchesbysjx.com/2026/10/habring2-sjx-cfp-star.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/habring2-sjx-cfp-star-lifestyle-300x200.jpg",
+      "peek_preview": "Our third and final collaboration with Habring² brings together the stellar motif of the Erwin “Star” and the monopusher chronograph format of the Chrono-Felix “Medicus”, adding a perpetual calendar to create our most c...",
+      "categories": [
+        "Reviews",
+        "Habring2",
+        "Independent watchmaking",
+        "New Watches 2026",
+        "News",
+        "SJX Edition"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-29T14:00:01.000Z",
+      "score_quality": 92,
+      "score_notif": 68,
+      "cluster": "20261029-43a275a4df29",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
+      "url": "https://www.hodinkee.com/articles/introducing-sjx-habring-perpetual",
+      "image": "https://hodinkee.imgix.net/uploads/images/12543b7c-c298-4449-88ba-14f2683fd704/08SJXWatches0150.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "SJX takes to the stars a second time, with an attractive new limited edition.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-29T14:00:00.000Z",
+      "score_quality": 80,
+      "score_notif": 68,
+      "cluster": "20261029-43a275a4df29",
+      "cluster_main": false
+    },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
       "url": "https://monochrome-watches.com/introducing-norqain-wild-one-skeleton-x-lite-turquoise-limited-edition-sports-watch-specs-pics/",
@@ -418,7 +477,7 @@
       "title": "Lesablier Temporis Sauterelle Watch Review: A Small Brand Enters The Jump Hour Segment",
       "url": "https://www.ablogtowatch.com/lesablier-temporis-sauterelle-watch-review/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Lesablier-Temporis-Sauterelle-RAZ-Crop-8-768x346.jpg",
-      "peek_preview": "A few years ago, I was getting lunch with Akbar Sattah, founder of Lesablier, in Arlington, Virginia. He pulled his phone out and showed me a tidy render of a tonneau case watch with a malachite dial and told me it was...",
+      "peek_preview": "A few years ago, I was getting lunch with Akbar Sattar, founder of Lesablier, in Arlington, Virginia. He pulled his phone out and showed me a tidy render of a tonneau case watch with a malachite dial and told me it was...",
       "categories": [
         "Wrist Time Reviews",
         "Jump Hour Watches",
@@ -646,7 +705,7 @@
       "published_at": "2026-10-28T17:00:37.000Z",
       "score_quality": 79,
       "score_notif": 34,
-      "cluster": "20261028-b069ce7001f5",
+      "cluster": "20261027-f71f10287806",
       "cluster_main": true
     },
     {
@@ -1402,7 +1461,7 @@
       "score_quality": 73,
       "score_notif": 34,
       "cluster": "20261027-f71f10287806",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Moritz Grossmann Hamatic, Now with a Black Enamel Dial",
@@ -1495,7 +1554,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -1550,7 +1609,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -1583,27 +1642,6 @@
       "score_quality": 48,
       "score_notif": 22,
       "cluster": "20261026-2753fae793b4",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-on – Wren’s Unexpected Take on the Integrated Sports Watch, The Vessel",
-      "url": "https://monochrome-watches.com/wren-vessel-meteorite-integrated-steel-sports-watch-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Wren-Vessel-Meteorite-Integrated-Steel-Sports-Watch-Review-13-600x237.jpg",
-      "peek_preview": "If you’ve recently been following the buzzing micro-brand scene, you’ve probably heard about NYC-based brand Wren. Founded in 2024 by Craig Karger, who’s also behind Wrist Enthusiast, the brand has, for now, exclusively...",
-      "categories": [
-        "Wren",
-        "2026",
-        "Luxury watch",
-        "Novelty",
-        "Sports watch"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T17:00:02.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261026-01c28ca1a29a",
       "cluster_main": true
     },
     {
@@ -1640,7 +1678,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: A. Lange & Söhne Datograph Perpetual Calendar—With Diamonds And A Bracelet",
@@ -1891,7 +1929,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "モバードが創業145周年を祝うクッションケースの新作「ヘリテージ キングマティック」を発表",
@@ -2105,7 +2143,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New releases from G-Shock, Renaud Tixier, Armin Strom and more",
@@ -2204,21 +2242,6 @@
       "score_notif": 34,
       "cluster": "20261024-b17cb2f59bda",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing: The A. Lange & Söhne Datograph Perpetual In Platinum With Bracelet (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/lange-datograph-perpetual",
-      "image": "https://hodinkee.imgix.net/uploads/articles/5a11372d-f346-4209-aa14-e20f7becb754/tan2h-lange-datograph-perpetual-diamonds-05088-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A classic model gets a limited-edition twist from the German brand and pulls out all the stops.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-24T10:00:00.000Z",
-      "score_quality": 87,
-      "score_notif": 34,
-      "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": true
     },
     {
       "title": "Watch Review: Marvin Bathyscaphe Automatic Diver",
@@ -2402,45 +2425,6 @@
       "score_quality": 45,
       "score_notif": 34,
       "cluster": "20261023-6b9a28f15d5d",
-      "cluster_main": true
-    },
-    {
-      "title": "MING Tackles Worldtimer Complication With 57.05 ‘Comet’ Watch: Hands-On",
-      "url": "https://www.ablogtowatch.com/ming-tackles-worldtimer-complication-with-57-05-comet-watch-hands-on/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Ming-57.05-Comet-Wordtimer-watch-2-768x346.jpg",
-      "peek_preview": "A lot of the fun of MING watches is the brand taking a feature or timepiece archetype that is common in the wristwatch collecting world and putting its own spin on it. That isn’t just an aesthetic journey. MING also lik...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500",
-        "World Timer Watches"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-23T07:01:51.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261023-f33aeb8ac701",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Louis Vuitton Monterey Ceramic",
-      "url": "https://watchesbysjx.com/2026/10/louis-vuitton-monterey-ceramic-review.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Louis-Vuitton-Monterey-ceramic-black-1-300x200.jpg",
-      "peek_preview": "Louis Vuitton’s second instalment of its 1980s revival model is the Monterey Ceramic. Styled like its predecessor – both share a similar inspiration – the new Monterey is simpler in execution and consequently more acces...",
-      "categories": [
-        "Reviews",
-        "Louis Vuitton",
-        "New Watches 2026"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-23T01:00:36.000Z",
-      "score_quality": 85,
-      "score_notif": 34,
-      "cluster": "20261023-6b6849b71c5c",
       "cluster_main": true
     }
   ]
