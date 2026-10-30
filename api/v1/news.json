@@ -1,6 +1,6 @@
 {
-  "content_hash": "481a2a7f23a52a5684a948bf5655f97fedad47b8db71c4f0c90231a9851cd032",
-  "last_updated": "2026-10-30T00:47:40.326Z",
+  "content_hash": "1b8ae55c1487b2698cad94ddae7885af570709ef54885339e554ca3ba6ccef32",
+  "last_updated": "2026-10-30T01:47:27.424Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-29T14:00:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T01:00:29.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T00:00:42.000Z"
     },
     {
@@ -175,6 +175,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Stopping Time: Rare Rolex Chronos with Pucci Papaleo Provenance",
+      "url": "https://watchesbysjx.com/2026/10/phillips-geneva-pucci-papaleo-rolex-chronographs.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/00-Pucci-Papaleo-cover-300x200.jpg",
+      "peek_preview": "This November, Phillips will present Stopping Time, a selection of 16 Rolex chronographs owned by collector and publisher Pucci Papaleo, as part of The Geneva Watch Auction: XXIV, taking place on November 7 and 8 at the...",
+      "categories": [
+        "News",
+        "Auctions",
+        "Geneva",
+        "Phillips",
+        "Rolex"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T01:00:29.000Z",
+      "score_quality": 76,
+      "score_notif": 58,
+      "cluster": "20261030-672beaaf7c93",
+      "cluster_main": true
+    },
     {
       "title": "シチズンが緑の白蝶貝をあしらった「エコ・ドライブ ワン」限定モデルを発売",
       "url": "https://www.webchronos.net/news/177364/",
@@ -359,7 +380,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -374,7 +395,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -1657,7 +1678,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -1712,7 +1733,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -2420,27 +2441,6 @@
       "score_quality": 73,
       "score_notif": 28,
       "cluster": "20261023-b0fa5a359681",
-      "cluster_main": true
-    },
-    {
-      "title": "New: Favre Leuba Chief Tourbillon Guilloché",
-      "url": "https://deployant.com/new-favre-leuba-chief-tourbillon-guilloche/?utm_source=rss&utm_medium=rss&utm_campaign=new-favre-leuba-chief-tourbillon-guilloche",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/Chief-Tourbillon-Guilloche1-for-deployant.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Favre Leuba follows its 2025 Chief Tourbillon with a second limited edition, the Chief Tourbillon Guilloché. This new version retains the 41mm cushion shaped...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "favre lauba",
-        "tourbillion"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-23T13:00:00.000Z",
-      "score_quality": 47,
-      "score_notif": 29,
-      "cluster": "20261023-1f5fe0b39b30",
       "cluster_main": true
     }
   ]
