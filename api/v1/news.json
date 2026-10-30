@@ -1,6 +1,6 @@
 {
-  "content_hash": "74f88cec95eb57b6eb46687a037576a9109f59da10cc3b143faf14d0b8e94263",
-  "last_updated": "2026-10-30T13:48:03.171Z",
+  "content_hash": "b40bdf41534d99bbf446b6774d95fae3f0f7415ad5b186f2735437306df58f92",
+  "last_updated": "2026-10-30T14:47:20.717Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T13:00:50.000Z"
     },
     {
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T13:00:21.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T13:00:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T07:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T14:30:48.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Istanbul Watch Festival 2026 brings watchmaking and customisation to the Bosphorus",
+      "url": "https://timeandtidewatches.com/istanbul-watch-festival-events/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/istanbul-watch-festival-2026-featured-image.webp",
+      "peek_preview": "Inside the inaugural Istanbul Watch Festival, where 7,500 visitors gathered to explore brands including Quantum, NOMOS, Bremont and Doxa The post Istanbul Watch Festival 2026 brings watchmaking and customisation to the...",
+      "categories": [
+        "Events",
+        "Istanbul",
+        "meta:short",
+        "watch fairs"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T14:30:48.000Z",
+      "score_quality": 66,
+      "score_notif": 47,
+      "cluster": "20261030-38f729c93afe",
+      "cluster_main": true
+    },
     {
       "title": "The Third Louis Erard x Vianney Halter Collaboration is So Close, and Yet, So Far",
       "url": "https://wornandwound.com/the-third-louis-erard-x-vianney-halter-collaboration-is-so-close-and-yet-so-far/",
@@ -677,7 +697,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "OMEGA Seamaster Planet Ocean 600M: la prova al polso della quarta generazione",
@@ -716,7 +736,7 @@
       "featured": false,
       "published_at": "2026-10-29T14:01:40.000Z",
       "score_quality": 84,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
       "cluster_main": false
     },
@@ -731,7 +751,7 @@
       "featured": false,
       "published_at": "2026-10-29T14:00:00.000Z",
       "score_quality": 80,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
       "cluster_main": true
     },
@@ -851,7 +871,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -928,7 +948,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -1107,7 +1127,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261028-ceedb548e599",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why I’m Excited About The Watch World’s First Concours d’ Élégance Horlogère",
@@ -1337,7 +1357,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261028-ceedb548e599",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "CHANEL PREMIÈRE GALON 2026: un secolo di couture racchiuso in un intreccio d’oro",
@@ -1481,7 +1501,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "One Hundred Miles With The Garmin Fēnix 9 Pro Smartwatch",
@@ -1653,7 +1673,7 @@
       "score_quality": 56,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko Introduces A New 5 Sports SKX GMT U.S. Limited Edition HDB016",
@@ -2298,7 +2318,7 @@
       "score_quality": 62,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Originelle Uhren: 5 Zeitmesser mit viel Spaß für wenig Budget",
@@ -2341,23 +2361,6 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261025-8e3d43f33deb",
-      "cluster_main": true
-    },
-    {
-      "title": "Why does Tudor belong in F1?",
-      "url": "https://timeandtidewatches.com/why-does-tudor-belong-in-f1-opinion/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/tudor-vcarb-f1-tour-1.jpg",
-      "peek_preview": "It might not be an obvious pairing, but after a visit to VCARB, this partnership starts to make a lot more sense. The post Why does Tudor belong in F1? appeared first on Time+Tide Watches.",
-      "categories": [
-        "Opinion"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-25T07:00:52.000Z",
-      "score_quality": 64,
-      "score_notif": 32,
-      "cluster": "20261025-faeb2abae662",
       "cluster_main": true
     },
     {
