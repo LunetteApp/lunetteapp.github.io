@@ -1,6 +1,6 @@
 {
-  "content_hash": "68e7d67e44037710f76db4b0a0a03ab9569c9b8b9e944bbd4afc129a1f738c8f",
-  "last_updated": "2026-10-30T12:48:44.091Z",
+  "content_hash": "74f88cec95eb57b6eb46687a037576a9109f59da10cc3b143faf14d0b8e94263",
+  "last_updated": "2026-10-30T13:48:03.171Z",
   "premium": {
     "links": []
   },
@@ -9,36 +9,36 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T12:00:27.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-29T17:00:05.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T13:00:50.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T12:00:20.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T12:00:22.000Z"
     },
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-24T11:50:25.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T13:00:21.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -57,16 +57,16 @@
     {
       "source_name": "Deployant",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T08:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-29T18:00:00.000Z"
+      "estimated_articles_per_day": 2.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T13:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,54 @@
     }
   ],
   "items": [
+    {
+      "title": "The Third Louis Erard x Vianney Halter Collaboration is So Close, and Yet, So Far",
+      "url": "https://wornandwound.com/the-third-louis-erard-x-vianney-halter-collaboration-is-so-close-and-yet-so-far/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/22243AA07.BOA05_22243AA01.BOA02-2.jpg",
+      "peek_preview": "I’ll keep it simple: when someone says “Vianney Halter,” the first thing that comes to mind is the Antiqua. Okay, well, that assumes you are a watch nerd who knows who he is, but if you are, an image of this bizarre, vi...",
+      "categories": [
+        "News & Releases",
+        "Vianney Halter"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T13:00:50.000Z",
+      "score_quality": 58,
+      "score_notif": 72,
+      "cluster": "20261030-86e207fd6de7",
+      "cluster_main": false
+    },
+    {
+      "title": "Breguet’s best watch in years has one problem",
+      "url": "https://www.unpolishedwatches.com/p/breguets-best-watch-in-years-has",
+      "image": "https://substackcdn.com/image/fetch/$s_!9h_L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1b0dd0a-46a7-426e-b047-d30d58e49a64_2048x2048.jpeg",
+      "peek_preview": "A $185,000 tourbillon, when prototypes aren’t ready, and whether you can ever really see everything.",
+      "categories": [],
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T13:00:21.000Z",
+      "score_quality": 31,
+      "score_notif": 33,
+      "cluster": "20261030-293583183d27",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: The Louis Erard x Vianney Halter Futur Antérieur",
+      "url": "https://www.hodinkee.com/articles/the-louis-erard-x-vianney-halter-futur-anterior-2",
+      "image": "https://hodinkee.imgix.net/uploads/images/a0592078-b311-44de-991d-ea1b4fb985c7/L1020778.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "When you thought Vianney Halter collabs had run their course, Louis Erard drops an Antiqua-inspired dual-movement LE at an approachable price, and it's got our attention.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T13:00:00.000Z",
+      "score_quality": 85,
+      "score_notif": 72,
+      "cluster": "20261030-86e207fd6de7",
+      "cluster_main": true
+    },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
       "url": "https://www.fratellowatches.com/hermes-releases-blanc-chantilly-and-bleu-de-malte-versions-of-the-h08/",
@@ -358,7 +406,7 @@
       "score_quality": 86,
       "score_notif": 72,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -629,7 +677,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OMEGA Seamaster Planet Ocean 600M: la prova al polso della quarta generazione",
@@ -670,7 +718,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -685,7 +733,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -704,7 +752,7 @@
       "featured": false,
       "published_at": "2026-10-29T13:01:47.000Z",
       "score_quality": 82,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261029-195a3e59d324",
       "cluster_main": true
     },
@@ -722,7 +770,7 @@
       "featured": false,
       "published_at": "2026-10-29T13:00:34.000Z",
       "score_quality": 73,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261029-5a66adb41191",
       "cluster_main": true
     },
@@ -742,7 +790,7 @@
       "featured": false,
       "published_at": "2026-10-29T13:00:26.000Z",
       "score_quality": 69,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261029-195a3e59d324",
       "cluster_main": false
     },
@@ -1059,7 +1107,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261028-ceedb548e599",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why I’m Excited About The Watch World’s First Concours d’ Élégance Horlogère",
@@ -1289,7 +1337,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261028-ceedb548e599",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "CHANEL PREMIÈRE GALON 2026: un secolo di couture racchiuso in un intreccio d’oro",
@@ -1433,7 +1481,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "One Hundred Miles With The Garmin Fēnix 9 Pro Smartwatch",
@@ -1836,7 +1884,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -1891,7 +1939,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -1960,21 +2008,6 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
-    },
-    {
-      "title": "Hands-On: A. Lange & Söhne Datograph Perpetual Calendar—With Diamonds And A Bracelet",
-      "url": "https://www.hodinkee.com/articles/hands-on-lange-datograph-diamonds",
-      "image": "https://hodinkee.imgix.net/uploads/images/07366883-6c7d-45e9-8914-a5a276b45b03/20260723_LangeNovelties_075.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "By giving collectors exactly what they've asked for, the brand has created nearly a perfect, quintessential Lange.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T15:00:00.000Z",
-      "score_quality": 85,
-      "score_notif": 34,
-      "cluster": "20261024-b17cb2f59bda",
       "cluster_main": false
     },
     {
@@ -2415,49 +2448,6 @@
       "featured": false,
       "published_at": "2026-10-24T10:01:39.000Z",
       "score_quality": 63,
-      "score_notif": 34,
-      "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": false
-    },
-    {
-      "title": "A. Lange & Söhne Upgrades the Datograph Perpetual",
-      "url": "https://watchesbysjx.com/2026/10/lange-datograph-perpetual-diamonds-bracelet.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Lange-Datograph-Perpetual-diamonds-bracelet-300x200.jpg",
-      "peek_preview": "A. Lange & Söhne is closing the year in style with the Datograph Perpetual (ref. 410.136E), but now with baguette-cut diamonds for the hours and a five-link platinum bracelet in a style that will definitely please enthu...",
-      "categories": [
-        "News",
-        "A. Lange & Söhne",
-        "New Watches 2026"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-24T10:00:24.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": false
-    },
-    {
-      "title": "A. Lange & Söhne DATOGRAPH PERPETUAL Ref. 410.136E: Baguette Diamonds On A Full Platinum Bracelet",
-      "url": "https://deployant.com/new-release-a-lange-sohne-datograph-perpetual-ref-410136e-platinum/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-a-lange-sohne-datograph-perpetual-ref-410136e-platinum",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/als-datograph-perpetual-platinum-hero-front-angle-deployant-1200x1600.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Lange marks the twentieth anniversary of the DATOGRAPH PERPETUAL with Reference 410.136E, presented in 950 platinum. The fifty-piece limited edition pairs a s...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "chronograph",
-        "datograph",
-        "limited edition",
-        "perpetual calendar",
-        "platinum"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-24T10:00:00.000Z",
-      "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261024-b17cb2f59bda",
       "cluster_main": false
