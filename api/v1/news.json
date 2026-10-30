@@ -1,6 +1,6 @@
 {
-  "content_hash": "77f7f189b397d18cf6b68499f7060d4401ca798054f5fe115c510a683f05e56e",
-  "last_updated": "2026-10-30T15:48:02.694Z",
+  "content_hash": "53c526a792d865caafa2789ad6dd982eb93208cd1272bf41d8d0e188d0132359",
+  "last_updated": "2026-10-30T16:47:59.114Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T15:00:28.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T15:00:00.000Z"
     },
     {
@@ -114,15 +114,15 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T13:34:24.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T10:05:06.000Z"
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T16:00:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,34 @@
     }
   ],
   "items": [
+    {
+      "title": "EBEL: la storia dimenticata di un gigante dell’orologeria svizzera",
+      "url": "https://italianwatchspotter.com/ebel-storia-orologi-iconici/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/Eugene-Blum-e-Alice-Levy_exame-1-1024x576.jpg",
+      "peek_preview": "Alcune maison non smettono mai di essere sotto i riflettori, altre, pur avendo scritto pagine importanti dell’orologeria, attendono soltanto di essere riscoperte: Ebel è una di queste.L’annuncio dell’accordo per l’ingre...",
+      "categories": [
+        "Guide ed Approfondimenti",
+        "ebel",
+        "EBEL 1911",
+        "EBEL Chronograph",
+        "EBEL Sport Classic",
+        "ebel watches",
+        "El Primero",
+        "Orologeria Svizzera",
+        "Orologi vintage",
+        "rolex",
+        "Storia dell'Orologeria",
+        "Zenith El Primero"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-30T16:00:00.000Z",
+      "score_quality": 74,
+      "score_notif": 24,
+      "cluster": "20261030-3605bb62e03f",
+      "cluster_main": true
+    },
     {
       "title": "Interview – Giving Artisans and Young Watchmakers a Platform – In Conversation with Baudouin Van Es of Tad Kozh",
       "url": "https://monochrome-watches.com/giving-artisans-and-young-watchmakers-a-platform-in-conversation-with-baudouin-van-es-of-tad-kozh/",
@@ -795,7 +823,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -810,7 +838,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -1924,7 +1952,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -1979,7 +2007,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
@@ -2029,7 +2057,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2048,7 +2076,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A. Lange & Söhne brings back the platinum bracelet for a very special Datograph Perpetual",
@@ -2436,21 +2464,6 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": true
-    },
-    {
-      "title": "Attention is the easy part.",
-      "url": "https://www.unpolishedwatches.com/p/attention-is-the-easy-part",
-      "image": "https://substackcdn.com/image/fetch/$s_!4uMO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae8d35c6-c2f2-48ea-8e83-0366acc4ef27_2048x2048.jpeg",
-      "peek_preview": "A microbrand refunds every pre-order, Adam Golden on who’s propping up the indie market, and a familiar Vacheron that photographs better in Malibu.",
-      "categories": [],
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-24T11:50:25.000Z",
-      "score_quality": 23,
-      "score_notif": 18,
-      "cluster": "20261024-2e2996c3e491",
       "cluster_main": true
     }
   ]
