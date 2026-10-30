@@ -1,6 +1,6 @@
 {
-  "content_hash": "cd7e15a02a32dfd00b2ea658b4fce2242d8fd0801601cd3524912c4e6ceb8bda",
-  "last_updated": "2026-10-30T20:47:58.845Z",
+  "content_hash": "bcfd16032639ef46734d4fe73f63aa789bb46a512c2bac6ab1211f4574f15f6e",
+  "last_updated": "2026-10-30T22:47:19.438Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T20:00:16.000Z"
     },
     {
@@ -134,15 +134,15 @@
     {
       "source_name": "Le Calibre",
       "lang": "fr",
-      "estimated_articles_per_day": 0,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-09T06:05:16.000Z"
+      "estimated_articles_per_day": 0.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T21:00:44.000Z"
     },
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T20:18:09.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "La Nouvelle G-Shock “CasioNaut” Serie 2500 est juste dingue !",
+      "url": "https://www.lecalibre.com/g-shock-serie-2500/?utm_source=rss&utm_medium=rss&utm_campaign=g-shock-serie-2500",
+      "image": "https://www.lecalibre.com/wp-content/uploads/2026/10/g-shock-serie-2500-resine-noire-1024x575.png",
+      "peek_preview": "La Série 2500, c’est la version moderne et analogique de la toute première G-Shock : La DW-5000C (sortie en 1983), Au premier regard, une montre simple, presque sage. Au second, un guichet de date qui sert aussi de comp...",
+      "categories": [
+        "ToolWatch ou Adventure Watch"
+      ],
+      "source_name": "Le Calibre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-30T21:00:44.000Z",
+      "score_quality": 42,
+      "score_notif": 67,
+      "cluster": "20261030-cedc87541505",
+      "cluster_main": false
+    },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
       "url": "https://www.uhrenkosmos.com/louis-erard-x-vianney-halter-futur-anterieur/",
@@ -490,7 +507,7 @@
       "score_quality": 85,
       "score_notif": 72,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
@@ -675,7 +692,7 @@
       "score_quality": 86,
       "score_notif": 72,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -1876,8 +1893,8 @@
       "published_at": "2026-10-27T14:55:50.000Z",
       "score_quality": 56,
       "score_notif": 30,
-      "cluster": "20261025-38ad941bbd52",
-      "cluster_main": false
+      "cluster": "20261027-f1dd2c7a48a9",
+      "cluster_main": true
     },
     {
       "title": "Seiko Introduces A New 5 Sports SKX GMT U.S. Limited Edition HDB016",
@@ -2093,7 +2110,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -2148,7 +2165,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "11 Of The Best Open-Heart Watches",
@@ -2180,7 +2197,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2199,7 +2216,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A. Lange & Söhne brings back the platinum bracelet for a very special Datograph Perpetual",
@@ -2446,26 +2463,6 @@
       "score_quality": 46,
       "score_notif": 34,
       "cluster": "20261025-1ea662885d1c",
-      "cluster_main": true
-    },
-    {
-      "title": "Il Citizen Eco-Drive Photon e il quadrante che lascia filtrare la luce",
-      "url": "https://www.orologidiclasse.com/citizen-eco-drive-photon/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/citizen-eco-drive-photon-cover.jpg",
-      "peek_preview": "Lanciato lo scorso 5 ottobre alla Fondazione Bisazza con un evento su scala mondiale, il Citizen Eco-Drive Photon è l’edizione limitata che il brand nipponico ha realizzato per i 50 anni di Eco-Drive: due versioni da 5....",
-      "categories": [
-        "Novità Orologi",
-        "CITIZEN",
-        "Edizione Limitata",
-        "Tecnica"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-25T09:00:49.000Z",
-      "score_quality": 62,
-      "score_notif": 30,
-      "cluster": "20261025-38ad941bbd52",
       "cluster_main": true
     }
   ]
