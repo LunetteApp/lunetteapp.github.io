@@ -1,6 +1,6 @@
 {
-  "content_hash": "ea192bf600c0aab6a44323f22404f13f0ea2506808109300553fa37a34b95c5d",
-  "last_updated": "2026-10-30T19:48:24.100Z",
+  "content_hash": "cd7e15a02a32dfd00b2ea658b4fce2242d8fd0801601cd3524912c4e6ceb8bda",
+  "last_updated": "2026-10-30T20:47:58.845Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T17:00:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T20:00:16.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T19:40:45.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T19:17:00.000Z"
     },
     {
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T11:43:34.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T20:18:09.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
+      "url": "https://www.uhrenkosmos.com/louis-erard-x-vianney-halter-futur-anterieur/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Zifferblatt-in-Nahaufnahme.jpg",
+      "peek_preview": "Zwei Uhrwerke, zwei Zifferblätter und ein Design, das Jules Verne vermutlich begeistert hätte. Mit der Louis Erard x Vianney Halter Futur Antérieur in Silber und Gold setzen der Schweizer Uhrenhersteller und der eigenwi...",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Marken & Macher",
+        "Stilfrage",
+        "Independent Label",
+        "Limited Edition",
+        "Louis Erard",
+        "Uhrendesign",
+        "Vianney Halter"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-30T20:18:09.000Z",
+      "score_quality": 76,
+      "score_notif": 72,
+      "cluster": "20261030-86e207fd6de7",
+      "cluster_main": false
+    },
+    {
+      "title": "Recapping Fossil Signature’s Launch at Windup Watch Fair NYC 2026",
+      "url": "https://wornandwound.com/recapping-fossil-signatures-launch-at-windup-watch-fair-nyc-2026/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/Fossil_Signature_03.jpg",
+      "peek_preview": "Fossil’s new Signature Collection made its debut at Windup Watch Fair NYC 2026, with a behind-the-scenes film, a Q&A with Senior Creative Director Ryan White, and the first chance to get the watches on the wrist in the...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T20:00:16.000Z",
+      "score_quality": 54,
+      "score_notif": 46,
+      "cluster": "20261030-42ed009ccf02",
+      "cluster_main": true
+    },
     {
       "title": "Insider: CVSTOS Challenge Autodromo and Challenge Monaco—Carbon Racing Silhouettes for Race Weekend in Mexico",
       "url": "https://www.watchcollectinglifestyle.com/home/cvstos-challenge-autodromo-and-challenge-monaco-carbon-watches-f1",
@@ -1078,7 +1120,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -1155,7 +1197,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -2051,7 +2093,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -2106,24 +2148,6 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
-    },
-    {
-      "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
-      "url": "https://wornandwound.com/ralph-lauren-launches-new-western-cushions-in-a-smaller-size-and-the-new-nautical-collection/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/RL-Western-Banner.jpg",
-      "peek_preview": "Every so often, I find that I need to talk about the watches of Ralph Lauren. It’s possible, I think, that the Ralph Lauren brand is one of the most underrated, misunderstood corners of watchmaking. Most casual and even...",
-      "categories": [
-        "Featured",
-        "Ralph Lauren"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T19:00:19.000Z",
-      "score_quality": 66,
-      "score_notif": 34,
-      "cluster": "20261026-5759e16d9654",
       "cluster_main": true
     },
     {
