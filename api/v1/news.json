@@ -1,6 +1,6 @@
 {
-  "content_hash": "8c5f4cfe3574ca7a6db7b6bd38771b287cef8820721af625e40c24445af3677b",
-  "last_updated": "2026-10-30T04:47:45.477Z",
+  "content_hash": "3c555e586e6543cb61f6a72455f3cedcf7f5708014821d731186ceaff31781ff",
+  "last_updated": "2026-10-30T06:48:41.426Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-29T23:01:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T06:00:11.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -72,15 +72,15 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T04:00:57.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-29T13:00:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T06:00:09.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-28T16:50:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T06:30:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,57 @@
     }
   ],
   "items": [
+    {
+      "title": "G-Shock Elemental : la légendaire DW-5000 passe à l’analogique !",
+      "url": "https://www.welovewatches.fr/g-shock-elemental-la-legendaire-dw-5000-passe-a-lanalogique.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-montres-casio-g-shock-elemental-gac-2500-gmc-2500.jpg",
+      "peek_preview": "Depuis 1983, la Casio G-Shock s'est imposée comme la reine des montres tout-terrain. Pour rendre hommage à sa toute première création, la mythique DW-5000, Casio dévoile aujourd'hui une nouvelle famille baptisée Element...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-30T06:30:00.000Z",
+      "score_quality": 62,
+      "score_notif": 67,
+      "cluster": "20261030-cedc87541505",
+      "cluster_main": true
+    },
+    {
+      "title": "Could Quartz Save The Swiss Watch Industry?",
+      "url": "https://www.fratellowatches.com/could-quartz-save-the-swiss-watch-industry/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/08/Tissot-PRC100-Solar-34mm.jpg",
+      "peek_preview": "In case you haven’t noticed, the entry point to owning a mechanical watch has become significantly more expensive. The days when you could buy a nice mechanical Hamilton, for instance, or a microbrand watch that would e...",
+      "categories": [
+        "Watch Talk"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T06:00:11.000Z",
+      "score_quality": 74,
+      "score_notif": 34,
+      "cluster": "20261030-88341030b18b",
+      "cluster_main": true
+    },
+    {
+      "title": "AP launches its CPO with restrictions and Norman Foster designs a watch",
+      "url": "https://timeandtidewatches.com/ap-launches-its-cpo-with-restrictions-and-norman-foster-designs-a-watch-friday-wind-down/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/audeamrs-piguet-the-watch-keepers-1.jpg",
+      "peek_preview": "For the news you may have missed this week in the watch world, we have you covered from vintage news to under-the-radar releases. The post AP launches its CPO with restrictions and Norman Foster designs a watch appeared...",
+      "categories": [
+        "Friday Wind Down"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T06:00:09.000Z",
+      "score_quality": 29,
+      "score_notif": 23,
+      "cluster": "20261030-209862340886",
+      "cluster_main": true
+    },
     {
       "title": "The First Patek Philippe 3970 Resurfaces at Sotheby’s",
       "url": "https://watchesbysjx.com/2026/10/sothebys-geneva-patek-philippe-3970-fall-2026.html",
@@ -375,7 +426,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OMEGA Seamaster Planet Ocean 600M: la prova al polso della quarta generazione",
@@ -416,7 +467,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -431,7 +482,7 @@
       "score_quality": 80,
       "score_notif": 68,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -1179,7 +1230,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "One Hundred Miles With The Garmin Fēnix 9 Pro Smartwatch",
@@ -1408,7 +1459,7 @@
       "score_quality": 56,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko Introduces A New 5 Sports SKX GMT U.S. Limited Edition HDB016",
@@ -1601,23 +1652,6 @@
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
       "cluster_main": false
-    },
-    {
-      "title": "Fratello On Air: Sébastien Chaulmontet On Sellita, Albishorn, And Vintage Watches",
-      "url": "https://www.fratellowatches.com/fratello-on-air-sebastien-chaulmontet-on-sellita-albishorn-and-vintage-watches/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Albishorn-Type-10-19.jpg",
-      "peek_preview": "Welcome back to another episode of Fratello On Air! This week, I am alone in the driver’s seat while Mike enjoys his much-deserved birthday time off. Join us in wishing a happy (belated) birthday to “Mike Stockton from...",
-      "categories": [
-        "Podcast"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-27T11:01:32.000Z",
-      "score_quality": 54,
-      "score_notif": 34,
-      "cluster": "20261027-bb0d4fc31b8f",
-      "cluster_main": true
     },
     {
       "title": "Girard-Perregaux Laureato Fifty Three Gold Bridges: 159 anni dopo, i Tre Ponti d’Oro cambiano volto",
@@ -2143,7 +2177,7 @@
       "score_quality": 62,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Originelle Uhren: 5 Zeitmesser mit viel Spaß für wenig Budget",
@@ -2258,7 +2292,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New releases from G-Shock, Renaud Tixier, Armin Strom and more",
@@ -2356,7 +2390,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261024-b17cb2f59bda",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Review: Marvin Bathyscaphe Automatic Diver",
@@ -2375,24 +2409,6 @@
       "score_quality": 69,
       "score_notif": 33,
       "cluster": "20261024-2bda660d04e6",
-      "cluster_main": true
-    },
-    {
-      "title": "Inside the Minds of Seiko Designers Yu Ishihara and Yuya Suganuma at the Seiko Power Project Exhibition",
-      "url": "https://timeandtidewatches.com/seiko-power-design-project-events/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-seiko-power-project-incredibly-specialized.webp",
-      "peek_preview": "Inside Seiko’s Power Design Project, two designers push the boundaries of watchmaking with experimental watches The post Inside the Minds of Seiko Designers Yu Ishihara and Yuya Suganuma at the Seiko Power Project Exhib...",
-      "categories": [
-        "Events",
-        "Seiko"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-24T07:00:34.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261024-662fd35c7f79",
       "cluster_main": true
     },
     {
@@ -2430,21 +2446,6 @@
       "score_notif": 34,
       "cluster": "20261023-accb75e0de7d",
       "cluster_main": false
-    },
-    {
-      "title": "Junghans Brand Review: Getting To Know The Bauhaus Watchmaker",
-      "url": "https://teddybaldassarre.com/blogs/watches/junghans-brand-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Junghans-Max-Bill-Handwound-2_505be302-5155-4bba-9362-fa05ab1318c6.jpg?v=1670516917",
-      "peek_preview": "[toc-section heading=\"The Soul of Schramberg\"] Holding a Junghans watch in real life for the first time can be an unusual experience, especially if you’ve spent many years wearing hefty steel sports watches. These Germa...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-23T17:00:52.000Z",
-      "score_quality": 58,
-      "score_notif": 24,
-      "cluster": "20261023-7b38dcae9afc",
-      "cluster_main": true
     }
   ]
 }
