@@ -1,6 +1,6 @@
 {
-  "content_hash": "e1c16a707bf2c6b260faf40e26b9de70ba5fd93fe36b5a0e1814d8d1af089f96",
-  "last_updated": "2026-10-30T10:47:53.997Z",
+  "content_hash": "68e2e1d9c63bfcbf4fe2add1d62e773995de869b2f9d9662f629dcfe22ace544",
+  "last_updated": "2026-10-30T11:48:04.988Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T10:00:00.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T10:05:26.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T13:42:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-30T11:43:34.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,36 @@
     }
   ],
   "items": [
+    {
+      "title": "Inhorgenta 2027: Neue Uhrenmarken und starke Rückkehrer",
+      "url": "https://www.uhrenkosmos.com/inhorgenta-2027-neue-uhrenmarken-rueckkehrer/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Inhorgenta-2027-Rueckkehr-Frederique-Constant.jpg",
+      "peek_preview": "Bremont, U-Boat, Auguste Reymond und cauny kommen erstmals zur Inhorgenta 2027, Frederique Constant, Alpina und Garmin kehren zurück.",
+      "categories": [
+        "Messen",
+        "Handel & Auktionen",
+        "Alpina",
+        "Auguste Reymond",
+        "Bremont",
+        "Cauny",
+        "Frederique Constant",
+        "Garmin",
+        "Inhorgenta",
+        "Inhorgenta 2027",
+        "Markus Rettig",
+        "Münchner Uhrenmesse",
+        "Peers Hardy",
+        "U-Boat"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-30T11:43:34.000Z",
+      "score_quality": 71,
+      "score_notif": 53,
+      "cluster": "20261030-aac89829e3a1",
+      "cluster_main": true
+    },
     {
       "title": "Zenith : 200 emplois menacés, le pari risqué du très haut de gamme",
       "url": "https://www.welovewatches.fr/zenith-200-emplois-menaces-le-pari-risque-du-tres-haut-de-gamme.html",
@@ -247,7 +277,7 @@
       "score_quality": 81,
       "score_notif": 72,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: Louis Erard x Vianney Halter Futur Antérieur",
@@ -268,7 +298,7 @@
       "score_quality": 86,
       "score_notif": 72,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -539,7 +569,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "OMEGA Seamaster Planet Ocean 600M: la prova al polso della quarta generazione",
@@ -730,7 +760,7 @@
       "featured": false,
       "published_at": "2026-10-29T11:01:00.000Z",
       "score_quality": 52,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261029-52705c3f8bc5",
       "cluster_main": true
     },
@@ -1343,7 +1373,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261028-97bbca9dc459",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "One Hundred Miles With The Garmin Fēnix 9 Pro Smartwatch",
@@ -1552,7 +1582,7 @@
       "score_quality": 56,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko Introduces A New 5 Sports SKX GMT U.S. Limited Edition HDB016",
@@ -1888,7 +1918,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -1907,7 +1937,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: A. Lange & Söhne Datograph Perpetual Calendar—With Diamonds And A Bracelet",
@@ -2212,7 +2242,7 @@
       "score_quality": 62,
       "score_notif": 30,
       "cluster": "20261025-38ad941bbd52",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Originelle Uhren: 5 Zeitmesser mit viel Spaß für wenig Budget",
@@ -2426,23 +2456,6 @@
       "score_quality": 69,
       "score_notif": 33,
       "cluster": "20261024-2bda660d04e6",
-      "cluster_main": true
-    },
-    {
-      "title": "IFL Watches x Festina Freedom : quand le street art s’empare de la On The Square",
-      "url": "https://www.welovewatches.fr/ifl-watches-x-festina-freedom-quand-le-street-art-sempare-de-la-on-the-square.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-collaboration-ifl-watches-x-festina-on-the-square.jpg",
-      "peek_preview": "Et si le cadran d'une montre devenait une véritable toile ? C'est le pari un peu fou d'IFL Watches, une maison qui transforme des montres existantes en œuvres d'art à porter au poignet. Sa dernière...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-24T05:30:00.000Z",
-      "score_quality": 55,
-      "score_notif": 34,
-      "cluster": "20261024-2a0daff05255",
       "cluster_main": true
     }
   ]
