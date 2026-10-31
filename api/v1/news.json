@@ -1,6 +1,6 @@
 {
-  "content_hash": "5ecd006f9ce1a6c61f6d92b4595228836411beb61eb4576519ccb027deb6bd46",
-  "last_updated": "2026-10-31T10:47:34.907Z",
+  "content_hash": "101e61e3aeec7ca6edc169074a4f11db527d4cae737808d82e9e13bb5e4a3e8d",
+  "last_updated": "2026-10-31T11:47:38.712Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T10:00:08.000Z"
     },
     {
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-31T07:00:22.000Z"
+      "latest_article_at": "2026-10-31T11:00:22.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T20:18:09.000Z"
     },
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "The Studio Underd0g D0ghouse offers a glimpse of the future for British watchmaking",
+      "url": "https://timeandtidewatches.com/studio-underd0g-d0ghouse-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-studio-underd0g-d0ghouse-main.webp",
+      "peek_preview": "Perhaps the biggest opening in British watchmaking this year, we take a look inside the creative hub that is the D0ghouse. The post The Studio Underd0g D0ghouse offers a glimpse of the future for British watchmaking app...",
+      "categories": [
+        "Video",
+        "meta:short",
+        "Studio Underd0g"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-31T11:00:22.000Z",
+      "score_quality": 68,
+      "score_notif": 54,
+      "cluster": "20261031-2637c997c251",
+      "cluster_main": true
+    },
     {
       "title": "Roaring Through The Space Age With The Direnzo DRZ 08 Cosmonaire GMT",
       "url": "https://www.fratellowatches.com/direnzo-drz-08-cosmonaire-gmt/",
@@ -704,7 +723,7 @@
       "featured": false,
       "published_at": "2026-10-30T11:43:34.000Z",
       "score_quality": 71,
-      "score_notif": 53,
+      "score_notif": 34,
       "cluster": "20261030-aac89829e3a1",
       "cluster_main": true
     },
@@ -1113,7 +1132,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -1128,7 +1147,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -2247,7 +2266,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2266,7 +2285,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A. Lange & Söhne brings back the platinum bracelet for a very special Datograph Perpetual",
@@ -2443,27 +2462,6 @@
       "score_quality": 23,
       "score_notif": 11,
       "cluster": "20261026-a0df566d9856",
-      "cluster_main": true
-    },
-    {
-      "title": "The best TAG Heuer Aquaracers of the modern era",
-      "url": "https://timeandtidewatches.com/best-tag-heuer-aquaracers-lists/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/best-tage-heuer-aquaracers-of-the-modern-era-featured-image..webp",
-      "peek_preview": "We've put together a list of 6 of the best TAG Heuer Aquaracers, from the ultra-deep diving Professional 1000, to the Time+Tide Sundowner The post The best TAG Heuer Aquaracers of the modern era appeared first on Time+T...",
-      "categories": [
-        "Lists",
-        "aquaracer",
-        "LIST",
-        "tag heuer",
-        "TAG HEUER AQUARACER"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T07:00:53.000Z",
-      "score_quality": 30,
-      "score_notif": 14,
-      "cluster": "20261026-be0cfb7e1505",
       "cluster_main": true
     }
   ]
