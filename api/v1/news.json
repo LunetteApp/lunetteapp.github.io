@@ -1,6 +1,6 @@
 {
-  "content_hash": "5f526c78ae53f0fbee78e6fd38afed3eb9801155b0d5a8a269f9c2437ca37427",
-  "last_updated": "2026-10-31T14:47:56.371Z",
+  "content_hash": "bb7a1ea54097ac10dc82cc2a1ec1b33adbcc0c409c0a3d35d118e1d1b574feb4",
+  "last_updated": "2026-10-31T15:47:28.144Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T14:00:29.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T17:30:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-31T15:00:49.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T14:30:23.000Z"
     },
     {
@@ -93,8 +93,8 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-29T14:12:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-31T15:14:19.000Z"
     },
     {
       "source_name": "Watch Insanity",
@@ -175,6 +175,45 @@
     }
   ],
   "items": [
+    {
+      "title": "Louis Erard x Vianney Halter Futur Antérieur: l’Antiqua si fa più vicino",
+      "url": "https://www.perpetualpassion.com/2026/10/31/louis-erard-vianney-halter-futur-anterieur/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/P1010584-scaled.jpg",
+      "peek_preview": "Due quadranti a oblò, una cassa inedita e due movimenti automatici: Louis Erard torna nell’universo di Vianney Halter [...] L'articolo Louis Erard x Vianney Halter Futur Antérieur: l’Antiqua si fa più vicino proviene da...",
+      "categories": [
+        "Independent Watchmaking",
+        "Introducing",
+        "Just In",
+        "indipendenti"
+      ],
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-31T15:14:19.000Z",
+      "score_quality": 73,
+      "score_notif": 34,
+      "cluster": "20261030-86e207fd6de7",
+      "cluster_main": false
+    },
+    {
+      "title": "The ABCs of Time – The History of German Watchmaking",
+      "url": "https://monochrome-watches.com/abcs-of-time-history-of-german-watchmaking/",
+      "image": "https://monochrome-watches.com/app/uploads/2022/11/A-Lange-Sohne-Zeitwerk-Striking-Time-145-025-mood-600x237.jpg",
+      "peek_preview": "The miniaturisation of clock towers to portable time wasn’t a Swiss innovation – it all started in Germany thanks to locksmith and clockmaker Peter Henlein in Nuremberg at the start of the 16th century. These first “poc...",
+      "categories": [
+        "Watch Info",
+        "2026",
+        "The ABCs of Time"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-31T15:00:49.000Z",
+      "score_quality": 84,
+      "score_notif": 27,
+      "cluster": "20261031-b4a8ef2db7cb",
+      "cluster_main": true
+    },
     {
       "title": "New releases from Girard-Perregaux, Laurent Ferrier, Vacheron Constantin and more",
       "url": "https://timeandtidewatches.com/girard-perregaux-laurent-ferrier-vacheron-constantin-last-week-in-watches/",
@@ -626,7 +665,7 @@
       "featured": false,
       "published_at": "2026-10-30T15:00:28.000Z",
       "score_quality": 82,
-      "score_notif": 42,
+      "score_notif": 34,
       "cluster": "20261030-efc6bde79a3a",
       "cluster_main": true
     },
@@ -732,7 +771,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
@@ -917,7 +956,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -1214,7 +1253,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -1229,7 +1268,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -1347,7 +1386,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -1424,7 +1463,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -1448,27 +1487,6 @@
       "score_notif": 34,
       "cluster": "20261029-127f6bb9b4b4",
       "cluster_main": true
-    },
-    {
-      "title": "First Look – Bell & Ross Blazes a Red and White Trail with the BR-05 Chrono Snow Rocket",
-      "url": "https://monochrome-watches.com/bell-and-ross-br-05-chrono-snow-rocket-edition-ski-theme-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Bell-and-Ross-BR-05-Chrono-Snow-Rocket-review-3-600x237.jpg",
-      "peek_preview": "Since its introduction in 2020, the Bell & Ross BR-05 Chrono has appeared in quite a few different guises. The Green Steel brought a bright green dial into the mix, as well as mechanical updates. Then there was the A523...",
-      "categories": [
-        "Bell & Ross",
-        "2026",
-        "Chronographs",
-        "Novelty",
-        "Sports watch"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-29T08:00:30.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261028-6c54df6373c7",
-      "cluster_main": false
     },
     {
       "title": "Lesablier Temporis Sauterelle Watch Review: A Small Brand Enters The Jump Hour Segment",
@@ -2243,7 +2261,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -2298,7 +2316,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "11 Of The Best Open-Heart Watches",
@@ -2330,7 +2348,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2349,7 +2367,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A. Lange & Söhne brings back the platinum bracelet for a very special Datograph Perpetual",
