@@ -1,6 +1,6 @@
 {
-  "content_hash": "10799b4315de2a0f10291998edf92a217ff0bead73628e354073f3b1c2ce7eb3",
-  "last_updated": "2026-10-31T13:47:35.486Z",
+  "content_hash": "5f526c78ae53f0fbee78e6fd38afed3eb9801155b0d5a8a269f9c2437ca37427",
+  "last_updated": "2026-10-31T14:47:56.371Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T20:00:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-31T14:00:29.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -29,7 +29,7 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
+      "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T12:00:55.000Z"
     },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T13:30:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-31T11:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-31T14:30:23.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "New releases from Girard-Perregaux, Laurent Ferrier, Vacheron Constantin and more",
+      "url": "https://timeandtidewatches.com/girard-perregaux-laurent-ferrier-vacheron-constantin-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/vacheron-constantin-web.jpg",
+      "peek_preview": "A lot of variety last week, with everything from high-end métiers d'art to accessible luxury skeletonised pieces. The post New releases from Girard-Perregaux, Laurent Ferrier, Vacheron Constantin and more appeared first...",
+      "categories": [
+        "Last Week in Watches"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-31T14:30:23.000Z",
+      "score_quality": 36,
+      "score_notif": 25,
+      "cluster": "20261031-7f595d5517b6",
+      "cluster_main": true
+    },
     {
       "title": "Bell & Ross BR-05 Chrono Snow Rocket: Speed Skiing Tribute With 60-Hour Calibre",
       "url": "https://deployant.com/bell-ross-br-05-chrono-snow-rocket-speed-skiing-tribute-60-hour-calibre/?utm_source=rss&utm_medium=rss&utm_campaign=bell-ross-br-05-chrono-snow-rocket-speed-skiing-tribute-60-hour-calibre",
@@ -398,7 +415,7 @@
       "score_quality": 42,
       "score_notif": 34,
       "cluster": "20261030-cedc87541505",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
@@ -644,7 +661,7 @@
       "featured": false,
       "published_at": "2026-10-30T14:30:48.000Z",
       "score_quality": 66,
-      "score_notif": 47,
+      "score_notif": 34,
       "cluster": "20261030-38f729c93afe",
       "cluster_main": true
     },
@@ -715,7 +732,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
@@ -900,7 +917,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -977,7 +994,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261030-cedc87541505",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Could Quartz Save The Swiss Watch Industry?",
@@ -1330,7 +1347,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -1407,7 +1424,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -2226,7 +2243,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -2281,7 +2298,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "11 Of The Best Open-Heart Watches",
@@ -2313,7 +2330,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2332,7 +2349,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A. Lange & Söhne brings back the platinum bracelet for a very special Datograph Perpetual",
@@ -2423,50 +2440,6 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261026-ae18846be998",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Baume & Mercier Riviera Chronograph GPSI Limited Edition Watch Is A Thinking Man’s Racing Chronograph",
-      "url": "https://www.ablogtowatch.com/hands-on-the-baume-mercier-riviera-chronograph-gpsi-limited-edition-watch-is-a-thinking-mans-racing-chronograph/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Baume-Et-Mercier-Riviera-Gran-Premio-Storico-DItalia-LOR-Crop-768x346.jpg",
-      "peek_preview": "Those who know me shouldn’t really be surprised by the fact that racing chronographs are my favorite genre of watches. After all, motorsports are my first love in life, and in fact my involvement in watches came about a...",
-      "categories": [
-        "Hands-On",
-        "Chronograph Watches",
-        "Integrated Bracelet Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500",
-        "Watches & Cars"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T12:00:48.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261026-e43c15bf3fe4",
-      "cluster_main": true
-    },
-    {
-      "title": "Orologi scheletrati: cosa è cambiato e perché costano meno",
-      "url": "https://giornaleorologi.it/2026/10/26/orologi-scheletrati-cosa-e-cambiato-e-perche-costano-meno/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/97A206_Prestige_AW26_detail-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Orologi scheletrati: cosa è cambiato e perché costano meno Un movimento a vista, qualche centinaio di euro sul cartellino e una domanda che sorge spontanea: com’è possibile? Gli orologi schelet...",
-      "categories": [
-        "Attualità",
-        "Bulova",
-        "D1Milano",
-        "Orologi scheletrati",
-        "Tissot",
-        "Versace"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-26T11:50:46.000Z",
-      "score_quality": 54,
-      "score_notif": 22,
-      "cluster": "20261026-c49bbeaac8df",
       "cluster_main": true
     }
   ]
