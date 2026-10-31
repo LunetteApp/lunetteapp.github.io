@@ -1,6 +1,6 @@
 {
-  "content_hash": "e7ebde219ff9b456cc4d947ee7904baef9f33a3531cf46c6ceff2a7183fd9a3b",
-  "last_updated": "2026-10-31T06:47:01.928Z",
+  "content_hash": "7e19c0fdec4e0e73685a33f52b20a8421310398d0b304baefce9347f89a3b87a",
+  "last_updated": "2026-10-31T07:47:39.880Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T06:00:59.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T12:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-31T07:01:31.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T14:30:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-31T07:00:22.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,45 @@
     }
   ],
   "items": [
+    {
+      "title": "MIP, Solar Charging, And Bluetooth Raise The Standard For Entry-Level Casio G-Shock Watches With The GWBX5600: Review",
+      "url": "https://www.ablogtowatch.com/mip-solar-charging-and-bluetooth-raise-the-standard-for-entry-level-casio-g-shock-watches-with-the-gwbx5600-review/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Casio-G-Shock-GWBX5600-MIPS-watches-1-768x346.jpg",
+      "peek_preview": "Rarely do I get to say that Casio has meaningfully upgraded its entry-level G-Shock wristwatch models. That’s because the important Japanese watchmaker has a tendency to innovate and evolve its mid- to high-end timepiec...",
+      "categories": [
+        "Wrist Time Reviews",
+        "Casio G-Shock",
+        "Digital Watches",
+        "Solar-Powered Watches",
+        "Watch Reviews Under $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-31T07:01:31.000Z",
+      "score_quality": 79,
+      "score_notif": 51,
+      "cluster": "20261031-d30132ecd75a",
+      "cluster_main": true
+    },
+    {
+      "title": "The Studio Underd0g D0ghouse offers a glimpse of the future for British watchmaking",
+      "url": "https://timeandtidewatches.com/studio-underd0g-d0ghouse-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/stuido-underd0g-d0ghouse-1.jpg",
+      "peek_preview": "Perhaps the biggest opening in British watchmaking this year, we take a look inside the creative hub that is the D0ghouse. The post The Studio Underd0g D0ghouse offers a glimpse of the future for British watchmaking app...",
+      "categories": [
+        "Video",
+        "meta:short"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-31T07:00:22.000Z",
+      "score_quality": 60,
+      "score_notif": 45,
+      "cluster": "20261031-2637c997c251",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Raring-To-Race HTD Hesagraph RitmoCorsa",
       "url": "https://www.fratellowatches.com/hands-on-htd-hesagraph-ritmocorsa/",
@@ -511,10 +550,10 @@
       "cluster_main": true
     },
     {
-      "title": "Chopard Día de los Muertos: fra tecnica e mestieri d’arte",
+      "title": "Chopard Día de los Muertos, fra tecnica e mestieri d’arte",
       "url": "https://giornaleorologi.it/2026/10/30/chopard-dia-de-los-muertos-fra-tecnica-e-mestieri-darte/",
       "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/Chopard_Full_Strike_apertura-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Chopard Día de los Muertos: fra tecnica e mestieri d’arte La prima cosa che colpisce nel nuovo Chopard Día de los Muertos è il blu. O, almeno così è successo a me. Poi ho identificato il teschi...",
+      "peek_preview": "Per l'articolo completo - Chopard Día de los Muertos, fra tecnica e mestieri d’arte La prima cosa che colpisce nel nuovo Chopard Día de los Muertos è il blu. O, almeno così è successo a me. Poi ho identificato il teschi...",
       "categories": [
         "Approfondimenti",
         "Chopard",
@@ -820,7 +859,7 @@
       "featured": false,
       "published_at": "2026-10-30T07:01:29.000Z",
       "score_quality": 75,
-      "score_notif": 56,
+      "score_notif": 34,
       "cluster": "20261030-e17e6ac2f78c",
       "cluster_main": true
     },
@@ -1207,7 +1246,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -1247,7 +1286,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Sicura Hexa 400 Sea Green, A Vintage-Inspired Dive Watch With A Dial Like The Ocean",
@@ -1541,7 +1580,7 @@
       "score_quality": 54,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Girard-Perragaux Laureato Fifty Three Gold Bridges, with New Gold Accents",
@@ -1773,8 +1812,8 @@
       "published_at": "2026-10-28T07:03:49.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster": "20261028-bbbe83b5570b",
+      "cluster_main": true
     },
     {
       "title": "One Hundred Miles With The Garmin Fēnix 9 Pro Smartwatch",
@@ -2146,7 +2185,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[English] F.P.JOURNE Tourbillon Souverain Ref. TV",
@@ -2162,7 +2201,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -2217,7 +2256,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "11 Of The Best Open-Heart Watches",
@@ -2249,7 +2288,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2268,7 +2307,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A. Lange & Söhne brings back the platinum bracelet for a very special Datograph Perpetual",
@@ -2426,46 +2465,6 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261026-4343147a974e",
-      "cluster_main": true
-    },
-    {
-      "title": "Nobody Asked: Picking Team Watches For The NFL, Part II",
-      "url": "https://www.ablogtowatch.com/nobody-asked-picking-team-watches-for-the-nfl-part-ii/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/09/ABTW-Nobody-Asked-2-768x346.jpg",
-      "peek_preview": "It’s time for round two of the greatest column ever written, Nobody Asked. In Part I, I gave 16 NFL teams their own team watches, and in Part II, I’ll finish out the league. If you enjoyed the first set, you’ll love the...",
-      "categories": [
-        "Featured Articles",
-        "Nobody Asked",
-        "Watches & Sports"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T07:01:49.000Z",
-      "score_quality": 37,
-      "score_notif": 24,
-      "cluster": "20261026-a0df566d9856",
-      "cluster_main": true
-    },
-    {
-      "title": "The best TAG Heuer Aquaracers of the modern era",
-      "url": "https://timeandtidewatches.com/best-tag-heuer-aquaracers-lists/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/best-tage-heuer-aquaracers-of-the-modern-era-featured-image..webp",
-      "peek_preview": "We've put together a list of 6 of the best TAG Heuer Aquaracers, from the ultra-deep diving Professional 1000, to the Time+Tide Sundowner The post The best TAG Heuer Aquaracers of the modern era appeared first on Time+T...",
-      "categories": [
-        "Lists",
-        "aquaracer",
-        "LIST",
-        "tag heuer",
-        "TAG HEUER AQUARACER"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T07:00:53.000Z",
-      "score_quality": 34,
-      "score_notif": 21,
-      "cluster": "20261026-be0cfb7e1505",
       "cluster_main": true
     }
   ]
