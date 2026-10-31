@@ -1,6 +1,6 @@
 {
-  "content_hash": "83bd3f08a95634a42afec807efc80919bc5d043db1da1554cb7600309464dc55",
-  "last_updated": "2026-10-31T00:48:01.268Z",
+  "content_hash": "8a12b4a3cb52b8bab3792419abb779bda3989829710211f5b72ca00fa9198d54",
+  "last_updated": "2026-10-31T02:47:58.913Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T09:00:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-31T02:41:55.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -162,8 +162,8 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T00:00:47.000Z"
     },
     {
@@ -175,6 +175,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Highlights: Colour-Coordinated Watches in Marteau & Co’s “The Blueprint”",
+      "url": "https://watchesbysjx.com/2026/10/marteau-the-blueprint.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Marteau-the-blueprint-feat-300x200.jpg",
+      "peek_preview": "Independent-friendly auction house Marteau & Co returns today for its second themed auction of the fall. Every watch in The Blueprint is, to varying extents, blue, or at least a blue-ish purple, and its flagship lot is...",
+      "categories": [
+        "News",
+        "Auctions",
+        "Geneva",
+        "Independent watchmaking",
+        "Marteau & Co"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-31T02:41:55.000Z",
+      "score_quality": 73,
+      "score_notif": 42,
+      "cluster": "20261031-3053a23aa53f",
+      "cluster_main": true
+    },
     {
       "title": "レイモンド ウェイルからゴールドカラーのレディースウォッチ「トッカータ クラシック」新作2モデルが登場",
       "url": "https://www.webchronos.net/news/177149/",
@@ -522,7 +543,7 @@
       "score_quality": 85,
       "score_notif": 72,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
@@ -707,7 +728,7 @@
       "score_quality": 86,
       "score_notif": 72,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -1152,7 +1173,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -1192,7 +1213,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Sicura Hexa 400 Sea Green, A Vintage-Inspired Dive Watch With A Dial Like The Ocean",
@@ -1486,7 +1507,7 @@
       "score_quality": 54,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Girard-Perragaux Laureato Fifty Three Gold Bridges, with New Gold Accents",
@@ -2109,7 +2130,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261021-e48a577e43cf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[English] F.P.JOURNE Tourbillon Souverain Ref. TV",
@@ -2125,7 +2146,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -2180,7 +2201,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "11 Of The Best Open-Heart Watches",
@@ -2444,25 +2465,6 @@
       "score_quality": 57,
       "score_notif": 28,
       "cluster": "20261026-caa3ead26dab",
-      "cluster_main": true
-    },
-    {
-      "title": "Does TheHive from PANOM finally put Luxembourg on the watchmaking map?",
-      "url": "https://timeandtidewatches.com/panom-thehive-micro-mondays/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/PANOM-TheHive-Fearured-Image.jpg",
-      "peek_preview": "Luxembourg’s PANOM makes its watchmaking debut with TheHive, a 150-piece edition featuring a striking honeycomb dial and Swiss movement. The post Does TheHive from PANOM finally put Luxembourg on the watchmaking map? ap...",
-      "categories": [
-        "Micro Mondays",
-        "micro mondays",
-        "microbrand"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-25T14:30:13.000Z",
-      "score_quality": 46,
-      "score_notif": 34,
-      "cluster": "20261025-1ea662885d1c",
       "cluster_main": true
     }
   ]
