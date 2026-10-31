@@ -1,6 +1,6 @@
 {
-  "content_hash": "4d37711d44210224a8cdb1c3ea7f1124c0d7f14686c5a66232998efeefe986e7",
-  "last_updated": "2026-10-31T12:48:01.813Z",
+  "content_hash": "10799b4315de2a0f10291998edf92a217ff0bead73628e354073f3b1c2ce7eb3",
+  "last_updated": "2026-10-31T13:47:35.486Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T12:00:51.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T12:00:55.000Z"
     },
     {
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T08:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-10-31T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T12:00:00.000Z"
     },
     {
@@ -175,6 +175,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Bell & Ross BR-05 Chrono Snow Rocket: Speed Skiing Tribute With 60-Hour Calibre",
+      "url": "https://deployant.com/bell-ross-br-05-chrono-snow-rocket-speed-skiing-tribute-60-hour-calibre/?utm_source=rss&utm_medium=rss&utm_campaign=bell-ross-br-05-chrono-snow-rocket-speed-skiing-tribute-60-hour-calibre",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/br-05-chrono-snow-rocket-hero-front-angle-deployant.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Bell & Ross expands its urban sports collection with the BR-05 Chrono Snow Rocket, a 250-piece limited edition paying tribute to speed skier Simon Billy. The...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "1815 Chronograph",
+        "bell & ross",
+        "blue steel",
+        "limited edition",
+        "luxury sports watch"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-31T13:30:00.000Z",
+      "score_quality": 62,
+      "score_notif": 34,
+      "cluster": "20261028-6c54df6373c7",
+      "cluster_main": false
+    },
     {
       "title": "Lorige X InterEuropol Competition BL-Endurance Watch From LMP2 Brake Pads",
       "url": "https://www.ablogtowatch.com/lorige-x-intereuropol-competition-bl-endurance-watch-from-lmp2-brake-pads/",
@@ -641,7 +665,7 @@
       "featured": false,
       "published_at": "2026-10-30T13:34:24.000Z",
       "score_quality": 47,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261030-fb1cde40d119",
       "cluster_main": true
     },
@@ -691,7 +715,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
@@ -876,7 +900,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -1037,7 +1061,7 @@
       "published_at": "2026-10-29T17:41:33.000Z",
       "score_quality": 78,
       "score_notif": 32,
-      "cluster": "20261029-e721bfd451d5",
+      "cluster": "20261027-f71f10287806",
       "cluster_main": true
     },
     {
@@ -1306,7 +1330,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -1383,7 +1407,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -2150,7 +2174,7 @@
       "score_quality": 73,
       "score_notif": 32,
       "cluster": "20261027-f71f10287806",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "My First Doxa Review: The Sub 300 Beta ‘Frogger’ Collab Watch",
