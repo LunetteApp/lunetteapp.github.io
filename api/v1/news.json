@@ -1,6 +1,6 @@
 {
-  "content_hash": "c23968062367ce1a16a9c14babd6f3459a80a17741260e7ff80d256af357800c",
-  "last_updated": "2026-11-01T15:47:03.677Z",
+  "content_hash": "fe152158a9767145a0eaf326fa7e588d0b64c821c5d69aa60560769773755060",
+  "last_updated": "2026-11-01T16:47:34.968Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-01T15:00:39.000Z"
     },
     {
@@ -135,8 +135,8 @@
       "source_name": "Le Calibre",
       "lang": "fr",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T21:00:44.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-01T15:45:11.000Z"
     },
     {
       "source_name": "Uhrenkosmos",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Bell & Ross BR-03 Space Mission : Rendez-vous sous la lune !",
+      "url": "https://www.lecalibre.com/bell-ross-br-03-space-mission/?utm_source=rss&utm_medium=rss&utm_campaign=bell-ross-br-03-space-mission",
+      "image": "https://www.lecalibre.com/wp-content/uploads/2026/11/Bell-Ross-BR-03-Space-Mission-avis.png",
+      "peek_preview": "Hasard du calendrier ou clin d’œil parfaitement assumé ? C’est au lendemain de la pleine lune d’octobre, celle que l’on surnomme la Lune du Chasseur, que la maison Bell & Ross a choisi de nous convier pour le lancement...",
+      "categories": [
+        "Montres"
+      ],
+      "source_name": "Le Calibre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-01T15:45:11.000Z",
+      "score_quality": 62,
+      "score_notif": 66,
+      "cluster": "20261101-55e66a6a9621",
+      "cluster_main": true
+    },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
       "url": "https://timeandtidewatches.com/atelier-loreti-celestial-tourbillon-collection-micro-mondays/",
@@ -2332,7 +2349,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -2372,7 +2389,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "11 Of The Best Open-Heart Watches",
@@ -2404,7 +2421,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2423,7 +2440,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "BUCI NOUVELLE : la montre française qui écrit le temps à la plume",
