@@ -1,6 +1,6 @@
 {
-  "content_hash": "f22526884ce18685ab2e00934befa03c0b43e6683669e8907ce3b4a4fdf8150b",
-  "last_updated": "2026-11-01T08:47:24.611Z",
+  "content_hash": "f22482de7afe0b15e61c584068ca4a97e416b21abdedd6b0f811326469f99c1c",
+  "last_updated": "2026-11-01T09:47:47.000Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
+      "estimated_articles_per_day": 3.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-01T06:00:41.000Z"
     },
@@ -71,7 +71,7 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
+      "estimated_articles_per_day": 1.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T02:41:55.000Z"
     },
@@ -120,14 +120,14 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.7,
+      "estimated_articles_per_day": 0.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-30T17:33:15.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-01T06:30:00.000Z"
     },
@@ -1299,7 +1299,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -1314,7 +1314,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -1432,7 +1432,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -1509,7 +1509,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -2418,6 +2418,45 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261026-cfdac632dda2",
+      "cluster_main": true
+    },
+    {
+      "title": "Berneron Mirage 38 Prussian Blue: Quick Impressions",
+      "url": "https://deployant.com/quick-takes-berneron-mirage-38-prussian-blue/?utm_source=rss&utm_medium=rss&utm_campaign=quick-takes-berneron-mirage-38-prussian-blue",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/bernaron-wrist.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors When the Berneron Mirage 38 was first unveiled in 2023, it quickly became one of the most talked-about watches from the emerging independent watchmaking scene...",
+      "categories": [
+        "The Collector's View",
+        "Watches",
+        "berneron"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T13:30:00.000Z",
+      "score_quality": 64,
+      "score_notif": 22,
+      "cluster": "20261026-201d62c62b34",
+      "cluster_main": true
+    },
+    {
+      "title": "Striking Improvement: Armin Strom’s Minute Repeater Resonance 12:59",
+      "url": "https://watchesbysjx.com/2026/10/armin-strom-minute-repeater-resonance-1259-first-edition.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Armin-Strom-Minute-Repeater-Resonance-Feat-300x200.jpg",
+      "peek_preview": "Armin Strom’s Minute Repeater Resonance 12:59 First Edition doesn’t just chime the current time, it chimes the best time (12:59) to show off its Westminster Carillon of four hammers chiming on four gongs. The watch comb...",
+      "categories": [
+        "Reviews",
+        "Armin Strom",
+        "Independent watchmaking",
+        "New Watches 2026"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T12:58:21.000Z",
+      "score_quality": 82,
+      "score_notif": 34,
+      "cluster": "20261026-ae18846be998",
       "cluster_main": true
     }
   ]
