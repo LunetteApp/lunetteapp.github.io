@@ -1,6 +1,6 @@
 {
-  "content_hash": "aa2bb5a1111f6ae1cc13655944c893a32eb6678978c128e4b89b67d73a8140b2",
-  "last_updated": "2026-11-01T06:47:21.938Z",
+  "content_hash": "c8619390e51b493fb8e4e64a8e0262cf10740d5bf4e0cf95300d58f3f1dd58b7",
+  "last_updated": "2026-11-01T07:46:58.749Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-01T06:00:41.000Z"
     },
     {
@@ -29,9 +29,9 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-31T12:00:55.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-01T07:01:48.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-31T14:30:23.000Z"
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-01T07:00:47.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Arsène Lippens adds two new dial options and display case backs to its Artigiano collection",
+      "url": "https://timeandtidewatches.com/arsene-lippens-artigiano-collection-2026-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Arsene-Lippens-Artigiano-series-feature.jpg",
+      "peek_preview": "The Arsène Lippens Artigiano Ref. 0599 collection introduces two new Italian textile dials, updated casebacks and refined details across its five models. The post Arsène Lippens adds two new dial options and display cas...",
+      "categories": [
+        "Introducing",
+        "dress watch"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-01T07:00:47.000Z",
+      "score_quality": 66,
+      "score_notif": 52,
+      "cluster": "20261101-076bcaec49cb",
+      "cluster_main": true
+    },
     {
       "title": "Alpina, Chronométreur Officiel de la Route du Rhum, dévoile deux éditions limitées",
       "url": "https://www.welovewatches.fr/alpina-chronometreur-officiel-de-la-route-du-rhum-devoile-deux-editions-limitees.html",
@@ -390,7 +408,7 @@
       "featured": false,
       "published_at": "2026-10-31T11:00:22.000Z",
       "score_quality": 68,
-      "score_notif": 54,
+      "score_notif": 34,
       "cluster": "20261031-2637c997c251",
       "cluster_main": true
     },
@@ -429,7 +447,7 @@
       "featured": false,
       "published_at": "2026-10-31T07:01:31.000Z",
       "score_quality": 79,
-      "score_notif": 51,
+      "score_notif": 34,
       "cluster": "20261031-d30132ecd75a",
       "cluster_main": true
     },
@@ -518,7 +536,7 @@
       "score_quality": 42,
       "score_notif": 34,
       "cluster": "20261030-cedc87541505",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
@@ -941,8 +959,8 @@
       "published_at": "2026-10-30T10:05:26.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261024-11c9eecd8026",
-      "cluster_main": false
+      "cluster": "20261030-49de3e3461f4",
+      "cluster_main": true
     },
     {
       "title": "The Top 5 Recent Dive Watches",
@@ -1097,7 +1115,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261030-cedc87541505",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Could Quartz Save The Swiss Watch Industry?",
@@ -1317,7 +1335,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -1332,7 +1350,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -1450,7 +1468,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
@@ -1527,7 +1545,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -2293,7 +2311,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -2333,7 +2351,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "11 Of The Best Open-Heart Watches",
@@ -2418,43 +2436,6 @@
       "score_quality": 52,
       "score_notif": 34,
       "cluster": "20261026-28c9d6aa0129",
-      "cluster_main": true
-    },
-    {
-      "title": "Breaking News: Zenith to Cut Half of Its Le Locle Workforce—LVMH's Chronograph House Moving to Haute Horlogerie",
-      "url": "https://www.watchcollectinglifestyle.com/home/news-zenith-to-cut-half-of-its-le-locle-workforce",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793024101786-MICJ201R0EXHP4MF6BT3/ZENITH+MANUFACTURE+LAYOFFS.jpg?format=1500w",
-      "peek_preview": "Le Temps has reported that Zenith, the LVMH-owned watchmaker based in Le Locle, is preparing a sweeping round of job cuts, and the brand has confirmed the plan. Le Temps is a respected Swiss French-language daily, forme...",
-      "categories": [
-        "News",
-        "Zenith"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T14:15:00.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261024-11c9eecd8026",
-      "cluster_main": true
-    },
-    {
-      "title": "Berneron Mirage 38 Prussian Blue: Quick Impressions",
-      "url": "https://deployant.com/quick-takes-berneron-mirage-38-prussian-blue/?utm_source=rss&utm_medium=rss&utm_campaign=quick-takes-berneron-mirage-38-prussian-blue",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/bernaron-wrist.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors When the Berneron Mirage 38 was first unveiled in 2023, it quickly became one of the most talked-about watches from the emerging independent watchmaking scene...",
-      "categories": [
-        "The Collector's View",
-        "Watches",
-        "berneron"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T13:30:00.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20261026-201d62c62b34",
       "cluster_main": true
     }
   ]
