@@ -1,6 +1,6 @@
 {
-  "content_hash": "3fed09a97ec2a10e705cd2636920a06685d327550ef63904b2e116c2f361cb1c",
-  "last_updated": "2026-11-02T08:47:54.518Z",
+  "content_hash": "003ff9b052b1e1fd51d5d4db0135d7086b17e5086dcac939031f92fcd17c40b2",
+  "last_updated": "2026-11-02T09:48:01.417Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
+      "estimated_articles_per_day": 3.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T06:00:49.000Z"
     },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T08:01:39.000Z"
     },
     {
@@ -351,11 +351,11 @@
         "Aktuelle Uhren",
         "Casio",
         "Casio G-Shock",
-        "F-Shock GMW-B5000SB-1A2ER",
         "G-Shock",
         "G-Shock DW-5000C",
         "G-Shock G-D001",
         "G-Shock G-D5000-9JR",
+        "G-Shock GMW-B5000SB-1A2ER",
         "G-Shock MRG-B2000JS Juryoku-Maru: San",
         "G-Shock MRG-B2000SH Shougeki-Maru",
         "G-Shock MRG-B5000SA-2DR Super Blue",
@@ -1058,7 +1058,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
@@ -1243,7 +1243,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -1521,7 +1521,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -1536,7 +1536,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Farer Introduces the Stratton II Moonphase",
@@ -1778,7 +1778,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Vacheron Constantin Métiers d’Art The Legend of the Chinese Zodiac Year of the Goat—Three Days of Engraving for an Animal That Stands Its Ground",
@@ -2327,7 +2327,7 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "F.P.JOURNE 투르비용 수버랭 20주년 에디션",
@@ -2361,7 +2361,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2380,7 +2380,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "BUCI NOUVELLE : la montre française qui écrit le temps à la plume",
@@ -2454,6 +2454,28 @@
       "score_quality": 85,
       "score_notif": 29,
       "cluster": "20261026-ae18846be998",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: The Baume & Mercier Riviera Chronograph GPSI Limited Edition Watch Is A Thinking Man’s Racing Chronograph",
+      "url": "https://www.ablogtowatch.com/hands-on-the-baume-mercier-riviera-chronograph-gpsi-limited-edition-watch-is-a-thinking-mans-racing-chronograph/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Baume-Et-Mercier-Riviera-Gran-Premio-Storico-DItalia-LOR-Crop-768x346.jpg",
+      "peek_preview": "Those who know me shouldn’t really be surprised by the fact that racing chronographs are my favorite genre of watches. After all, motorsports are my first love in life, and in fact my involvement in watches came about a...",
+      "categories": [
+        "Hands-On",
+        "Chronograph Watches",
+        "Integrated Bracelet Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500",
+        "Watches & Cars"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T12:00:48.000Z",
+      "score_quality": 76,
+      "score_notif": 27,
+      "cluster": "20261026-e43c15bf3fe4",
       "cluster_main": true
     }
   ]
