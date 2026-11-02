@@ -1,6 +1,6 @@
 {
-  "content_hash": "909a4788ce05a223ea717dfa9864f3016cd1ed22515d517e9c5116827e0c4b96",
-  "last_updated": "2026-11-02T00:48:25.315Z",
+  "content_hash": "b0ad581c75b09a81f83cc059ce18decb9139c72dbbd9199fcdbba0df4bd4205b",
+  "last_updated": "2026-11-02T01:47:32.742Z",
   "premium": {
     "links": []
   },
@@ -71,15 +71,15 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-31T02:41:55.000Z"
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T01:00:57.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T00:00:00.000Z"
     },
     {
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T00:00:33.000Z"
     },
     {
@@ -175,6 +175,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Highlights: Indies Step Up for Charity with Watches for ELA",
+      "url": "https://watchesbysjx.com/2026/11/christies-watches-for-ela.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Christies-Watches-for-ELA-3x2-header-300x200.jpg",
+      "peek_preview": "Watches for ELA brings together a selection of charitable lots within Christie’s upcoming Rare Watches auction on November 9th in Geneva. Proceeds will benefit the European Leukodystrophies Association (ELA), which supp...",
+      "categories": [
+        "News",
+        "Auctions",
+        "Christie's",
+        "Geneva",
+        "Independent watchmaking"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-02T01:00:57.000Z",
+      "score_quality": 81,
+      "score_notif": 55,
+      "cluster": "20261102-2cc97dea063c",
+      "cluster_main": true
+    },
     {
       "title": "タイメックスが1970年代の趣を残す「1976 レクタングル リイシュー」のシルバーカラーモデルを発表",
       "url": "https://www.webchronos.net/news/177492/",
@@ -662,7 +683,7 @@
       "score_quality": 42,
       "score_notif": 34,
       "cluster": "20261030-cedc87541505",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
@@ -964,7 +985,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
@@ -1149,7 +1170,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -1226,7 +1247,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261030-cedc87541505",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Could Quartz Save The Swiss Watch Industry?",
@@ -1446,7 +1467,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Habring² and SJX Watches Chrono Felix Perpetual “Star”",
@@ -1461,7 +1482,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261029-43a275a4df29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
@@ -1598,7 +1619,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Glashütte Original Senator Aventurine: Art Nouveau Green and Art Déco Blue",
@@ -1617,7 +1638,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -2283,7 +2304,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -2323,7 +2344,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "From the Editor: Audemars Piguet's The Watch Keepers—Eight Years After Its 2018 Test, AP Goes After the Grey Market with a Consignment Model",
@@ -2394,6 +2415,67 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261026-cfdac632dda2",
+      "cluster_main": true
+    },
+    {
+      "title": "Berneron Mirage 38 Prussian Blue: Quick Impressions",
+      "url": "https://deployant.com/quick-takes-berneron-mirage-38-prussian-blue/?utm_source=rss&utm_medium=rss&utm_campaign=quick-takes-berneron-mirage-38-prussian-blue",
+      "image": "https://deployant.com/wp-content/uploads/2026/10/bernaron-wrist.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors When the Berneron Mirage 38 was first unveiled in 2023, it quickly became one of the most talked-about watches from the emerging independent watchmaking scene...",
+      "categories": [
+        "The Collector's View",
+        "Watches",
+        "berneron"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T13:30:00.000Z",
+      "score_quality": 62,
+      "score_notif": 24,
+      "cluster": "20261026-201d62c62b34",
+      "cluster_main": true
+    },
+    {
+      "title": "Striking Improvement: Armin Strom’s Minute Repeater Resonance 12:59",
+      "url": "https://watchesbysjx.com/2026/10/armin-strom-minute-repeater-resonance-1259-first-edition.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Armin-Strom-Minute-Repeater-Resonance-Feat-300x200.jpg",
+      "peek_preview": "Armin Strom’s Minute Repeater Resonance 12:59 First Edition doesn’t just chime the current time, it chimes the best time (12:59) to show off its Westminster Carillon of four hammers chiming on four gongs. The watch comb...",
+      "categories": [
+        "Reviews",
+        "Armin Strom",
+        "Independent watchmaking",
+        "New Watches 2026"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T12:58:21.000Z",
+      "score_quality": 85,
+      "score_notif": 29,
+      "cluster": "20261026-ae18846be998",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: The Baume & Mercier Riviera Chronograph GPSI Limited Edition Watch Is A Thinking Man’s Racing Chronograph",
+      "url": "https://www.ablogtowatch.com/hands-on-the-baume-mercier-riviera-chronograph-gpsi-limited-edition-watch-is-a-thinking-mans-racing-chronograph/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Baume-Et-Mercier-Riviera-Gran-Premio-Storico-DItalia-LOR-Crop-768x346.jpg",
+      "peek_preview": "Those who know me shouldn’t really be surprised by the fact that racing chronographs are my favorite genre of watches. After all, motorsports are my first love in life, and in fact my involvement in watches came about a...",
+      "categories": [
+        "Hands-On",
+        "Chronograph Watches",
+        "Integrated Bracelet Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500",
+        "Watches & Cars"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-26T12:00:48.000Z",
+      "score_quality": 61,
+      "score_notif": 23,
+      "cluster": "20261026-e43c15bf3fe4",
       "cluster_main": true
     }
   ]
