@@ -1,6 +1,6 @@
 {
-  "content_hash": "a1c00a8334df58685c68151dac8c5bda8eadd157703366d7ecdcca327bc8d7e5",
-  "last_updated": "2026-11-02T10:48:03.018Z",
+  "content_hash": "654893c0ca9b814957e37c5f474194855fe2111f88f82f5bf2823250bec6bdcc",
+  "last_updated": "2026-11-02T12:47:18.608Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T10:00:05.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T10:01:58.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T07:00:52.000Z"
     },
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T13:34:24.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T12:01:12.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,33 @@
     }
   ],
   "items": [
+    {
+      "title": "Latest: novità per ogni fascia di prezzo – 02/11/2026",
+      "url": "https://giornaleorologi.it/2026/11/02/latest-novita-orologi-novembre-2026/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/HMoser_8200-1207_Heritage_Centre_Seconds_ST_Espresso_Fume__Lifestyle_Wristshot_Check-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Latest: novità per ogni fascia di prezzo – 02/11/2026 Le ultime Latest risalgono al 5 ottobre: in quasi un mese, il materiale arrivato in redazione si è accumulato e ha richiesto una selezione...",
+      "categories": [
+        "Vetrine",
+        "A. Lange & Soehne",
+        "Bell & Ross",
+        "Frederique Constant",
+        "Girard-Perregaux",
+        "Glashuette Original",
+        "Hamilton",
+        "Norqain",
+        "Rado",
+        "Ralph Lauren",
+        "Raymond Weil"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-02T12:01:12.000Z",
+      "score_quality": 24,
+      "score_notif": 23,
+      "cluster": "20261102-58cc1579ba3c",
+      "cluster_main": true
+    },
     {
       "title": "First Look – H. Moser & Cie. Drops Two Heritage Models, Including a new Chronograph",
       "url": "https://monochrome-watches.com/2026-h-moser-cie-heritage-chronograph-white-fume-and-heritage-centre-seconds-espresso-fume-review-price/",
@@ -1097,7 +1124,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
@@ -1282,7 +1309,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -2304,7 +2331,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -2344,7 +2371,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "From the Editor: Audemars Piguet's The Watch Keepers—Eight Years After Its 2018 Test, AP Goes After the Grey Market with a Consignment Model",
@@ -2361,7 +2388,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2380,7 +2407,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "BUCI NOUVELLE : la montre française qui écrit le temps à la plume",
@@ -2454,28 +2481,6 @@
       "score_quality": 85,
       "score_notif": 29,
       "cluster": "20261026-ae18846be998",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Baume & Mercier Riviera Chronograph GPSI Limited Edition Watch Is A Thinking Man’s Racing Chronograph",
-      "url": "https://www.ablogtowatch.com/hands-on-the-baume-mercier-riviera-chronograph-gpsi-limited-edition-watch-is-a-thinking-mans-racing-chronograph/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Baume-Et-Mercier-Riviera-Gran-Premio-Storico-DItalia-LOR-Crop-768x346.jpg",
-      "peek_preview": "Those who know me shouldn’t really be surprised by the fact that racing chronographs are my favorite genre of watches. After all, motorsports are my first love in life, and in fact my involvement in watches came about a...",
-      "categories": [
-        "Hands-On",
-        "Chronograph Watches",
-        "Integrated Bracelet Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500",
-        "Watches & Cars"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T12:00:48.000Z",
-      "score_quality": 76,
-      "score_notif": 27,
-      "cluster": "20261026-e43c15bf3fe4",
       "cluster_main": true
     }
   ]
