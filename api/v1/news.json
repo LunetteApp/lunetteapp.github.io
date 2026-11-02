@@ -1,6 +1,6 @@
 {
-  "content_hash": "33f785edffe17b4a843f58180a522059567d8051758d14919b8d070f73b9102c",
-  "last_updated": "2026-11-02T19:48:14.773Z",
+  "content_hash": "99c39e425cb3eee2c605ad6e1b5bb2fe6c2965f57b4e1f19f15dc726a44fcb55",
+  "last_updated": "2026-11-02T20:49:17.063Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T14:00:07.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T20:00:05.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T19:00:25.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T19:00:15.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Direnzo Introduces their First GMT, the DRZ 08 Cosmonaire",
+      "url": "https://wornandwound.com/direnzo-introduces-their-first-gmt-the-drz-08-cosmonaire/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Direnzo-Cosmonaire-20.jpg",
+      "peek_preview": "As Direnzo heads toward their tenth anniversary next year, they’ve just introduced their very first GMT equipped watch, the DRZ 08 Cosmonaire. Inspired by the future oriented design of the Space Age, the Cosmonaire is,...",
+      "categories": [
+        "News & Releases",
+        "Direnzo"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-02T20:00:05.000Z",
+      "score_quality": 72,
+      "score_notif": 31,
+      "cluster": "20261031-00391529547f",
+      "cluster_main": true
+    },
     {
       "title": "Atelier Wen Inflection Tantalum Review: An Unexpected Integrated Bracelet Watch",
       "url": "https://teddybaldassarre.com/blogs/watches/atelier-wen-inflection-tantalum-review",
@@ -981,9 +999,9 @@
       "featured": false,
       "published_at": "2026-10-31T10:00:08.000Z",
       "score_quality": 68,
-      "score_notif": 34,
+      "score_notif": 31,
       "cluster": "20261031-00391529547f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MIP, Solar Charging, And Bluetooth Raise The Standard For Entry-Level Casio G-Shock Watches With The GWBX5600: Review",
@@ -1070,7 +1088,7 @@
       "score_quality": 42,
       "score_notif": 34,
       "cluster": "20261030-cedc87541505",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
@@ -1594,7 +1612,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261030-cedc87541505",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "AP launches its CPO with restrictions and Norman Foster designs a watch",
@@ -2438,7 +2456,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -2478,7 +2496,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
