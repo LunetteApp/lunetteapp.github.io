@@ -1,6 +1,6 @@
 {
-  "content_hash": "0d2636b42d93a199637da250524d2dc80168ee31cb09fb9df3d7efcf73a2a9c1",
-  "last_updated": "2026-11-02T14:48:11.392Z",
+  "content_hash": "d8a82a2a1912d6628f6255adc6d3e4ce1023c72c1dcb55aec873d1d701b31bdd",
+  "last_updated": "2026-11-02T15:47:50.066Z",
   "premium": {
     "links": []
   },
@@ -15,23 +15,23 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.6,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T14:00:07.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T14:00:35.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T08:01:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T15:00:50.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T14:42:00.000Z"
     },
     {
@@ -176,7 +176,7 @@
   ],
   "items": [
     {
-      "title": "Hands-On: The Arnold & Son DTSB Stop-Seconds",
+      "title": "Hands-On: The Arnold & Son DSTB Stop-Seconds",
       "url": "https://www.hodinkee.com/articles/the-arnold-and-son-dtsb-stop-seconds",
       "image": "https://hodinkee.imgix.net/uploads/articles/a0422e97-647e-440e-829f-a6e99d4d723a/tan2h-arnoldson-dtsbstopseconds-05404-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
       "peek_preview": "An update to the brand's deadbeat seconds model brings forward both visual and mechanical improvements in a limited edition.",
@@ -495,7 +495,7 @@
       "featured": false,
       "published_at": "2026-11-01T15:45:11.000Z",
       "score_quality": 62,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
       "cluster_main": true
     },
@@ -1753,7 +1753,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Glashütte Original Senator Aventurine: Art Nouveau Green and Art Déco Blue",
@@ -1772,7 +1772,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -2412,7 +2412,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2431,7 +2431,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "BUCI NOUVELLE : la montre française qui écrit le temps à la plume",
