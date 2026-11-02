@@ -1,6 +1,6 @@
 {
-  "content_hash": "54395bede8ca4b45f9f33f0bee75a2bfbf70ea2a86457770ad26e40fac94ed01",
-  "last_updated": "2026-11-02T13:48:16.279Z",
+  "content_hash": "0d2636b42d93a199637da250524d2dc80168ee31cb09fb9df3d7efcf73a2a9c1",
+  "last_updated": "2026-11-02T14:48:11.392Z",
   "premium": {
     "links": []
   },
@@ -9,22 +9,22 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T13:18:09.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-31T14:00:29.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T14:00:07.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T10:01:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T14:00:35.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T17:00:00.000Z"
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T14:42:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T07:00:52.000Z"
+      "latest_article_at": "2026-11-02T14:30:00.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T13:40:00.000Z"
     },
     {
@@ -175,6 +175,58 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The Arnold & Son DTSB Stop-Seconds",
+      "url": "https://www.hodinkee.com/articles/the-arnold-and-son-dtsb-stop-seconds",
+      "image": "https://hodinkee.imgix.net/uploads/articles/a0422e97-647e-440e-829f-a6e99d4d723a/tan2h-arnoldson-dtsbstopseconds-05404-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "An update to the brand's deadbeat seconds model brings forward both visual and mechanical improvements in a limited edition.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-02T14:42:00.000Z",
+      "score_quality": 81,
+      "score_notif": 64,
+      "cluster": "20261102-3121b3c07912",
+      "cluster_main": true
+    },
+    {
+      "title": "Did Hublot just fix two key issues with its new Classic Fusion Tributo?",
+      "url": "https://timeandtidewatches.com/hublot-classic-fusion-tributo-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Hublot-Classic-Fusion-Tributo-3-1.jpg",
+      "peek_preview": "The new Hublot Classic Fusion Tributo takes inspiration from Carlo Crocco's original MDM designs that launched the brand. The post Did Hublot just fix two key issues with its new Classic Fusion Tributo? appeared first o...",
+      "categories": [
+        "Video"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-02T14:30:00.000Z",
+      "score_quality": 35,
+      "score_notif": 34,
+      "cluster": "20261015-5b89066bd3ad",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing – The new Kiwame Tokyo Kubo Momiji, in Autumnal Red",
+      "url": "https://monochrome-watches.com/kiwame-tokyo-kubo-momiji-in-autumnal-red-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Kiwame-Tokyo-Kubo-Momiji-Red-Dial-1-600x237.jpg",
+      "peek_preview": "Founded in 2025, Kiwame Tokyo is a young Japanese watchmaking brand based in Asakusa. It focuses on classically styled, well-finished watches with accessible pricing and design details rooted in Japanese culture. Follow...",
+      "categories": [
+        "Kiwame Tokyo",
+        "2026",
+        "Novelty",
+        "Value Proposition"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-02T14:00:35.000Z",
+      "score_quality": 73,
+      "score_notif": 60,
+      "cluster": "20261102-ec7505ea0fd8",
+      "cluster_main": true
+    },
     {
       "title": "Watches for Tomorrow 2026: l’asta benefica si tinge d’arancione",
       "url": "https://italianwatchspotter.com/watches-for-tomorrow-2026-asta-benefica/",
@@ -463,7 +515,7 @@
       "featured": false,
       "published_at": "2026-11-01T14:30:30.000Z",
       "score_quality": 57,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261101-ba3a165394e7",
       "cluster_main": true
     },
@@ -495,7 +547,7 @@
       "featured": false,
       "published_at": "2026-11-01T14:05:29.000Z",
       "score_quality": 74,
-      "score_notif": 71,
+      "score_notif": 34,
       "cluster": "20261101-9ba903ad411f",
       "cluster_main": true
     },
@@ -1481,27 +1533,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – Citizen Brings Damascus Steel and Forged Carbon to a new Series 8 GMT",
-      "url": "https://monochrome-watches.com/citizen-series-8-gmt-damascus-steel-and-forged-carbon-nb6092-01e-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Citizen-Series-8-GMT-Damascus-Steel-and-Forged-Carbon-NB6092-01E-2-600x237.jpg",
-      "peek_preview": "With its Series 8 collection of mechanical watches, Citizen has been delivering rather impressive models over the years, with the GMT collection being possibly the most appealing of them. Not only is it powered by a tru...",
-      "categories": [
-        "Citizen",
-        "2026",
-        "GMT Watches",
-        "Novelty",
-        "Sports watch"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-29T17:30:14.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261029-7e5dc98d4eee",
-      "cluster_main": true
-    },
-    {
       "title": "What is a Microbrand?",
       "url": "https://wornandwound.com/what-is-a-microbrand/",
       "image": "https://wornandwound.com/library/uploads/2026/02/Traska_Chronograph_HO_016_WR.jpg",
@@ -2060,23 +2091,6 @@
       "cluster_main": true
     },
     {
-      "title": "Bucket lists and grail watches: In the blue hour with the new IWC Perpetual Calendar 42",
-      "url": "https://timeandtidewatches.com/iwc-perpetual-calendar-42-in-svalbard-in-depth/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/andrew-iwc-svalbard-2026-featured-image-2.webp",
-      "peek_preview": "Andrew McUtchen travels to Svalbard with IWC, discovering the Perpetual Calendar 42, the magic of the Arctic, and a fresh life perspective The post Bucket lists and grail watches: In the blue hour with the new IWC Perpe...",
-      "categories": [
-        "In Depth"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-28T10:00:04.000Z",
-      "score_quality": 45,
-      "score_notif": 31,
-      "cluster": "20261028-3c04da17c7fd",
-      "cluster_main": true
-    },
-    {
       "title": "Orologi Certified Pre-Owned: cosa offre oggi ogni programma ufficiale, da Rolex ad Audemars Piguet",
       "url": "https://www.orologidiclasse.com/orologi-certified-pre-owned/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/orologi-certified-pre-owned.jpg",
@@ -2128,24 +2142,6 @@
       "cluster_main": true
     },
     {
-      "title": "Sinn Announces their Autumn Novelties",
-      "url": "https://wornandwound.com/sinn-announces-their-autumn-novelties/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Sinn-Autumn-11.jpg",
-      "peek_preview": "It’s finally autumn (even here in California), which means changing leaves, tasty hot beverages, and a smattering of new Sinn novelties. Like the coziest cafe array of apple ciders, hot chocolates, and pumpkin spice lat...",
-      "categories": [
-        "News & Releases",
-        "Sinn"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-27T18:00:21.000Z",
-      "score_quality": 44,
-      "score_notif": 34,
-      "cluster": "20261027-27e5f4054941",
-      "cluster_main": true
-    },
-    {
       "title": "[인터뷰] 라비 다르 예일대학교 경영대학원 교수",
       "url": "https://www.gmtkoreaseoul.com/post/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%9D%BC%EB%B9%84-%EB%8B%A4%EB%A5%B4-%EC%98%88%EC%9D%BC%EB%8C%80%ED%95%99%EA%B5%90-%EA%B2%BD%EC%98%81%EB%8C%80%ED%95%99%EC%9B%90-%EA%B5%90%EC%88%98",
       "image": "https://static.wixstatic.com/media/bd93d4_9c0a7f6b89314987a8de6d19a6e024ca~mv2.jpeg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -2160,21 +2156,6 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261027-19c9687e4d92",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Alto ART 02",
-      "url": "https://www.hodinkee.com/articles/the-alto-art-02",
-      "image": "https://hodinkee.imgix.net/uploads/images/4bc83c99-16d9-432f-aeae-c870112a3bac/L1020575.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Alto sculpts, refines, and adds a titanium bracelet for the first watch to be part of a permanent collection for the Franco-Swiss brand.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-27T17:00:00.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261027-7a7eed8453a5",
       "cluster_main": true
     },
     {
@@ -2374,7 +2355,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261026-fa26cccc31f0",
+      "cluster": "20261027-0b356a9ca2c6",
       "cluster_main": true
     },
     {
@@ -2414,7 +2395,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "From the Editor: Audemars Piguet's The Watch Keepers—Eight Years After Its 2018 Test, AP Goes After the Grey Market with a Consignment Model",
@@ -2431,7 +2412,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2450,7 +2431,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "BUCI NOUVELLE : la montre française qui écrit le temps à la plume",
