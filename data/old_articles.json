@@ -2272,7 +2272,8 @@
       "event_first_published_at": "2026-10-28T09:00:00.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "off_topic": true
     },
     "https://giornaleorologi.it/2026/10/30/chopard-dia-de-los-muertos-fra-tecnica-e-mestieri-darte/": {
       "url": "https://giornaleorologi.it/2026/10/30/chopard-dia-de-los-muertos-fra-tecnica-e-mestieri-darte/",
@@ -7174,7 +7175,8 @@
       "event_first_published_at": "2026-10-26T17:44:10.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "marketing": true
     },
     "https://teddybaldassarre.com/blogs/watches/best-purple-dial-watches": {
       "url": "https://teddybaldassarre.com/blogs/watches/best-purple-dial-watches",
@@ -8515,6 +8517,26 @@
       "event_first_published_at": "2026-10-26T07:00:53.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
+      "topic_reviewed": true
+    },
+    "https://timeandtidewatches.com/best-titanium-watches/": {
+      "url": "https://timeandtidewatches.com/best-titanium-watches/",
+      "title": "14 of the best titanium watches to solve your lightweight needs",
+      "lang": "en",
+      "published_at": "2026-11-02T00:00:00.000Z",
+      "first_seen_at": "2026-11-02T00:45:50.000Z",
+      "categories": [
+        "Buying Guides",
+        "meta:buying-guide",
+        "meta:case-material",
+        "meta:evergreen",
+        "titanium"
+      ],
+      "event_cluster_id": "20261102-12755177d4c4",
+      "event_first_published_at": "2026-11-02T00:00:00.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "marketing": true,
       "topic_reviewed": true
     },
     "https://timeandtidewatches.com/biver-jaeger-lecoultre-svea-atelier-last-week-in-watches/": {
@@ -15944,7 +15966,8 @@
       "event_first_published_at": "2026-10-28T07:01:00.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "off_topic": true
     },
     "https://www.ablogtowatch.com/panerai-expands-navy-seals-collection-with-two-new-professional-dive-watches/": {
       "url": "https://www.ablogtowatch.com/panerai-expands-navy-seals-collection-with-two-new-professional-dive-watches/",
@@ -23897,8 +23920,8 @@
       "categories": [
         "COVER STORY"
       ],
-      "event_cluster_id": "20261026-fa26cccc31f0",
-      "event_first_published_at": "2026-10-26T23:59:22.000Z",
+      "event_cluster_id": "20261027-0b356a9ca2c6",
+      "event_first_published_at": "2026-10-27T00:55:58.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
       "topic_reviewed": true
@@ -33569,6 +33592,19 @@
       "categories": [],
       "event_cluster_id": "20261101-6d1e5cd90216",
       "event_first_published_at": "2026-11-01T03:00:47.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
+    "https://www.webchronos.net/news/177492/": {
+      "url": "https://www.webchronos.net/news/177492/",
+      "title": "タイメックスが1970年代の趣を残す「1976 レクタングル リイシュー」のシルバーカラーモデルを発表",
+      "lang": "ja",
+      "published_at": "2026-11-02T00:00:33.000Z",
+      "first_seen_at": "2026-11-02T00:45:50.000Z",
+      "categories": [],
+      "event_cluster_id": "20261102-1bcb86d0780a",
+      "event_first_published_at": "2026-11-02T00:00:33.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
       "topic_reviewed": true
