@@ -1,6 +1,6 @@
 {
-  "content_hash": "d8a82a2a1912d6628f6255adc6d3e4ce1023c72c1dcb55aec873d1d701b31bdd",
-  "last_updated": "2026-11-02T15:47:50.066Z",
+  "content_hash": "964d34542c1962aea393eeb182bdc2646f656fe5d1546e3a85d36f21cc860e1c",
+  "last_updated": "2026-11-02T16:50:10.481Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T15:00:50.000Z"
     },
     {
@@ -65,15 +65,15 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T14:42:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T01:00:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T16:23:18.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-01T14:05:29.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T16:36:35.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,67 @@
     }
   ],
   "items": [
+    {
+      "title": "Rolex Biel: Die Werkgeschichte von Aegler bis Bulle in Zahlen",
+      "url": "https://www.uhrenkosmos.com/rolex-biel-werke-geschichte-kaliber-in-zahlen/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2018/11/Rolex-Biel_Aufmacher.jpg",
+      "peek_preview": "Die Rolex Werke im Schnelldurchlauf: von Aegler über den Rotoraufzug und die Übernahme 2004 bis zum Neubau in Biel und dem Projekt in Bulle. Mit Zeitleiste, den zehn wichtigsten Kalibern und dem Stand der neuen Standort...",
+      "categories": [
+        "Kaliber",
+        "Rolex",
+        "Wissen & Technik",
+        "Aegler",
+        "Harry Borer",
+        "Manufacture des Montres Rolex SA",
+        "Manufaktur",
+        "Rolex Biel",
+        "Rolex Fabrik",
+        "Rolex Manufaktur",
+        "Rolex-Werk"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-02T16:36:35.000Z",
+      "score_quality": 72,
+      "score_notif": 24,
+      "cluster": "20261102-d333d68d2a4f",
+      "cluster_main": true
+    },
+    {
+      "title": "Audemars Piguet Unveils Five New Code 11.59 and Royal Oak Models",
+      "url": "https://watchesbysjx.com/2026/11/audemars-piguet-code-1159-royal-oak-supersonnerie.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Audemars-Piguet-Code-1159-royal-oak-supersonnerie-3x2-centred-header-collage-1-300x200.jpg",
+      "peek_preview": "Audemars Piguet’s latest releases continue its embrace of the stone dial trend while revisiting one of the brand’s signature complications. The Code 11.59 Selfwinding 38 mm gains a pair of mineral stone dials in gold ob...",
+      "categories": [
+        "News",
+        "Audemars Piguet",
+        "New Watches 2026"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-02T16:23:18.000Z",
+      "score_quality": 81,
+      "score_notif": 78,
+      "cluster": "20261102-5421e725168e",
+      "cluster_main": false
+    },
+    {
+      "title": "Auctions: The 2026 Geneva Fall Auctions Mega-Preview, Part 1 — Christie's and Antiquorum",
+      "url": "https://www.hodinkee.com/articles/the-2026-geneva-fall-auctions-mega-preview-part-1-christies-and-antiquorum",
+      "image": "https://hodinkee.imgix.net/uploads/articles/ad7c2fe2-fc29-41bc-a76f-54fbd7f644a6/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Four auction houses. Over 1225 watches. We dig for the gems, covering everything from high-priced indies to vintage deals.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-02T16:00:00.000Z",
+      "score_quality": 73,
+      "score_notif": 50,
+      "cluster": "20261102-7521102a0f98",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The Arnold & Son DSTB Stop-Seconds",
       "url": "https://www.hodinkee.com/articles/the-arnold-and-son-dtsb-stop-seconds",
@@ -1342,8 +1403,8 @@
       "published_at": "2026-10-30T10:05:26.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261026-cfdac632dda2",
-      "cluster_main": false
+      "cluster": "20261030-49de3e3461f4",
+      "cluster_main": true
     },
     {
       "title": "Audemars Piguet lance The Watch Keepers : le vrai coût de son CPO",
@@ -1753,7 +1814,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Glashütte Original Senator Aventurine: Art Nouveau Green and Art Déco Blue",
@@ -1772,7 +1833,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -2127,21 +2188,6 @@
       "cluster_main": true
     },
     {
-      "title": "Photo Report: A. Lange & Söhne Brings A Glimpse Of History to New York City",
-      "url": "https://www.hodinkee.com/articles/a-lange-and-sohne-celebrates-32-years-of-german-watchmaking-in-new-york-city",
-      "image": "https://hodinkee.imgix.net/uploads/articles/462af331-813e-4070-92a2-d15f044fbb54/P1022711.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "In a special exhibition, A. Lange & Söhne marked the 32nd anniversary of their re-founding by bringing together watches from across their history in a retrospective showcase of the brand's evolution.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-27T19:00:00.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20261027-8873fcdf9bbd",
-      "cluster_main": true
-    },
-    {
       "title": "[인터뷰] 라비 다르 예일대학교 경영대학원 교수",
       "url": "https://www.gmtkoreaseoul.com/post/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%9D%BC%EB%B9%84-%EB%8B%A4%EB%A5%B4-%EC%98%88%EC%9D%BC%EB%8C%80%ED%95%99%EA%B5%90-%EA%B2%BD%EC%98%81%EB%8C%80%ED%95%99%EC%9B%90-%EA%B5%90%EC%88%98",
       "image": "https://static.wixstatic.com/media/bd93d4_9c0a7f6b89314987a8de6d19a6e024ca~mv2.jpeg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -2355,7 +2401,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -2395,7 +2441,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "From the Editor: Audemars Piguet's The Watch Keepers—Eight Years After Its 2018 Test, AP Goes After the Grey Market with a Consignment Model",
@@ -2448,24 +2494,6 @@
       "score_quality": 52,
       "score_notif": 34,
       "cluster": "20261026-28c9d6aa0129",
-      "cluster_main": true
-    },
-    {
-      "title": "Breaking News: Zenith to Cut Half of Its Le Locle Workforce—LVMH's Chronograph House Moving to Haute Horlogerie",
-      "url": "https://www.watchcollectinglifestyle.com/home/news-zenith-to-cut-half-of-its-le-locle-workforce",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793024101786-MICJ201R0EXHP4MF6BT3/ZENITH+MANUFACTURE+LAYOFFS.jpg?format=1500w",
-      "peek_preview": "Le Temps has reported that Zenith, the LVMH-owned watchmaker based in Le Locle, is preparing a sweeping round of job cuts, and the brand has confirmed the plan. Le Temps is a respected Swiss French-language daily, forme...",
-      "categories": [
-        "News",
-        "Zenith"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T14:15:00.000Z",
-      "score_quality": 85,
-      "score_notif": 34,
-      "cluster": "20261026-cfdac632dda2",
       "cluster_main": true
     }
   ]
