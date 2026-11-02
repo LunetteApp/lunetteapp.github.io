@@ -1,6 +1,6 @@
 {
-  "content_hash": "654893c0ca9b814957e37c5f474194855fe2111f88f82f5bf2823250bec6bdcc",
-  "last_updated": "2026-11-02T12:47:18.608Z",
+  "content_hash": "54395bede8ca4b45f9f33f0bee75a2bfbf70ea2a86457770ad26e40fac94ed01",
+  "last_updated": "2026-11-02T13:48:16.279Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T10:00:05.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T13:18:09.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-31T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
+      "estimated_articles_per_day": 1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-10-31T12:00:00.000Z"
     },
@@ -114,15 +114,15 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-02T12:01:12.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T17:33:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-02T13:40:00.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,66 @@
     }
   ],
   "items": [
+    {
+      "title": "Watches for Tomorrow 2026: l’asta benefica si tinge d’arancione",
+      "url": "https://italianwatchspotter.com/watches-for-tomorrow-2026-asta-benefica/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/IMG_1420-1024x683.jpeg",
+      "peek_preview": "Il mondo dell’orologeria è legato alla passione per la meccanica, alla ricerca estetica e al valore collezionistico dei segnatempo. Con Watches for Tomorrow, questi elementi diventano anche un’occasione per sostenere un...",
+      "categories": [
+        "News",
+        "2026",
+        "Asta benefica",
+        "Nouveau Musée Bienne",
+        "Watches for Tomorrow"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-02T13:40:00.000Z",
+      "score_quality": 48,
+      "score_notif": 36,
+      "cluster": "20261102-a28c5371b262",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-on Review: LOTH Watch 1 by Independent Watchmaker Tristan Ho",
+      "url": "https://deployant.com/hands-on-review-loth-watch-1-by-independent-watchmaker-tristan-ho/?utm_source=rss&utm_medium=rss&utm_campaign=hands-on-review-loth-watch-1-by-independent-watchmaker-tristan-ho",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/tristan-working.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Singapore’s independent watchmaking scene is small, but it is home to some interesting emerging talent. Tristan Ho is one of the few independent watchmakers w...",
+      "categories": [
+        "People",
+        "Reviews",
+        "Watches",
+        "independent watches",
+        "loth"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-02T13:30:00.000Z",
+      "score_quality": 77,
+      "score_notif": 45,
+      "cluster": "20261102-507a48e0f78c",
+      "cluster_main": true
+    },
+    {
+      "title": "Audemars Piguet Introduces Three Supersonnerie Watches And Two Stone-Dial Code 11.59 Models",
+      "url": "https://www.fratellowatches.com/audemars-piguet-introduces-three-supersonnerie-watches-and-two-stone-dial-code-11-59-models/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/AP-supersonnerie-novelties-2026-cover.jpg",
+      "peek_preview": "Audemars Piguet expands its Royal Oak and Code 11.59 collections with five new references that explore two very different aspects of the manufacture’s watchmaking. Three new Minute Repeater Supersonnerie models showcase...",
+      "categories": [
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-02T13:18:09.000Z",
+      "score_quality": 74,
+      "score_notif": 78,
+      "cluster": "20261102-5421e725168e",
+      "cluster_main": true
+    },
     {
       "title": "Latest: novità per ogni fascia di prezzo – 02/11/2026",
       "url": "https://giornaleorologi.it/2026/11/02/latest-novita-orologi-novembre-2026/",
@@ -1124,7 +1184,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
@@ -1234,23 +1294,6 @@
       "cluster_main": false
     },
     {
-      "title": "The Top 5 Recent Dive Watches",
-      "url": "https://www.fratellowatches.com/the-top-5-recent-dive-watches/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Omega-Seamaster-300m-Bond-Divers-210.30.42.20.01.023-210.30.42.20.03.004-7.jpg",
-      "peek_preview": "Another Friday, another list. This week, we pick five of our favorite recent dive watches. After our roundup of recent field watches, it’s time to focus on another popular category. Oddly, it seems we’re seeing fewer ne...",
-      "categories": [
-        "Watch Talk"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T10:00:00.000Z",
-      "score_quality": 32,
-      "score_notif": 24,
-      "cluster": "20261030-8148ed382c22",
-      "cluster_main": true
-    },
-    {
       "title": "Audemars Piguet lance The Watch Keepers : le vrai coût de son CPO",
       "url": "https://www.welovewatches.fr/audemars-piguet-lance-the-watch-keepers-le-vrai-cout-de-son-cpo.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/ap_the_watch_keepers_une_1940x1280.jpg",
@@ -1309,7 +1352,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -2331,7 +2374,7 @@
       "published_at": "2026-10-27T00:55:58.000Z",
       "score_quality": 58,
       "score_notif": 34,
-      "cluster": "20261027-0b356a9ca2c6",
+      "cluster": "20261026-fa26cccc31f0",
       "cluster_main": true
     },
     {
@@ -2371,7 +2414,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-fa26cccc31f0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "From the Editor: Audemars Piguet's The Watch Keepers—Eight Years After Its 2018 Test, AP Goes After the Grey Market with a Consignment Model",
@@ -2388,7 +2431,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Audemars Piguet Launches CPO Platform",
@@ -2407,7 +2450,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "BUCI NOUVELLE : la montre française qui écrit le temps à la plume",
@@ -2442,45 +2485,6 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261026-cfdac632dda2",
-      "cluster_main": true
-    },
-    {
-      "title": "Berneron Mirage 38 Prussian Blue: Quick Impressions",
-      "url": "https://deployant.com/quick-takes-berneron-mirage-38-prussian-blue/?utm_source=rss&utm_medium=rss&utm_campaign=quick-takes-berneron-mirage-38-prussian-blue",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/bernaron-wrist.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors When the Berneron Mirage 38 was first unveiled in 2023, it quickly became one of the most talked-about watches from the emerging independent watchmaking scene...",
-      "categories": [
-        "The Collector's View",
-        "Watches",
-        "berneron"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T13:30:00.000Z",
-      "score_quality": 62,
-      "score_notif": 24,
-      "cluster": "20261026-201d62c62b34",
-      "cluster_main": true
-    },
-    {
-      "title": "Striking Improvement: Armin Strom’s Minute Repeater Resonance 12:59",
-      "url": "https://watchesbysjx.com/2026/10/armin-strom-minute-repeater-resonance-1259-first-edition.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Armin-Strom-Minute-Repeater-Resonance-Feat-300x200.jpg",
-      "peek_preview": "Armin Strom’s Minute Repeater Resonance 12:59 First Edition doesn’t just chime the current time, it chimes the best time (12:59) to show off its Westminster Carillon of four hammers chiming on four gongs. The watch comb...",
-      "categories": [
-        "Reviews",
-        "Armin Strom",
-        "Independent watchmaking",
-        "New Watches 2026"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-26T12:58:21.000Z",
-      "score_quality": 85,
-      "score_notif": 29,
-      "cluster": "20261026-ae18846be998",
       "cluster_main": true
     }
   ]
