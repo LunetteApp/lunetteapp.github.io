@@ -1,6 +1,6 @@
 {
-  "content_hash": "65d018721d455be77a9e7f14eb7b3c0437de8610ff5e3677f64c1f701af47051",
-  "last_updated": "2026-11-03T01:49:26.212Z",
+  "content_hash": "57c90ef38f1dd293ab2c24f804819270d4b0b0b6a207342b95b4df6c3b87cd52",
+  "last_updated": "2026-11-03T03:49:00.220Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T01:00:21.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T00:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T03:00:02.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "セイコーウオッチが機械式腕時計の美学を伝える展覧会「からくりの森」2026を開催",
+      "url": "https://www.webchronos.net/news/177611/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/seikoseed_1.webp",
+      "peek_preview": "セイコーウオッチが機械式腕時計のメカニズムを体感できる展覧会「からくりの森」2026を東京・南青山のLIGHT BOX STUDIOで開催した。同展は腕時計の楽しさを育む活動「Seiko Seed」の一環である。会場では […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-03T03:00:02.000Z",
+      "score_quality": 58,
+      "score_notif": 44,
+      "cluster": "20261103-722d0eafbbc5",
+      "cluster_main": true
+    },
     {
       "title": "Insight: Modern Escapement Developments Part I",
       "url": "https://watchesbysjx.com/2026/11/insight-modern-escapement-developments-part-i.html",
@@ -241,8 +256,8 @@
       "published_at": "2026-11-02T20:54:39.000Z",
       "score_quality": 88,
       "score_notif": 78,
-      "cluster": "20261102-5421e725168e",
-      "cluster_main": false
+      "cluster": "20261102-7ff9a0a3b15b",
+      "cluster_main": true
     },
     {
       "title": "Direnzo Introduces their First GMT, the DRZ 08 Cosmonaire",
@@ -380,8 +395,8 @@
       "published_at": "2026-11-02T16:23:18.000Z",
       "score_quality": 82,
       "score_notif": 78,
-      "cluster": "20261102-5421e725168e",
-      "cluster_main": false
+      "cluster": "20261102-1fd980f8c1a7",
+      "cluster_main": true
     },
     {
       "title": "Auctions: The 2026 Geneva Fall Auctions Mega-Preview, Part 1 — Christie's and Antiquorum",
@@ -666,7 +681,7 @@
       "featured": false,
       "published_at": "2026-11-02T03:00:24.000Z",
       "score_quality": 56,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261102-64dcf259156d",
       "cluster_main": true
     },
@@ -977,7 +992,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261028-6c54df6373c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lorige X InterEuropol Competition BL-Endurance Watch From LMP2 Brake Pads",
@@ -2003,21 +2018,6 @@
       "cluster_main": true
     },
     {
-      "title": "カシオが「G PRESENTS LOVER’S COLLECTION」の30周年記念モデルを発表",
-      "url": "https://www.webchronos.net/news/177207/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/GSHOCK_gdc_1.webp",
-      "peek_preview": "カシオが「G PRESENTS LOVER’S COLLECTION」の30周年記念モデルを発表した。この記念モデルは、グラフィックアーティストのVERDY（ヴェルディ）が手掛ける「Girls DonR […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-10-29T03:00:15.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261029-bfd740c44321",
-      "cluster_main": true
-    },
-    {
       "title": "The Pulsar “Adventurer” 7T62-X084: A Tool Watch Taken to the Next Level",
       "url": "https://wornandwound.com/the-pulsar-adventurer-7t62-x084-a-tool-watch-taken-to-the-next-level/",
       "image": "https://wornandwound.com/library/uploads/2026/10/Pulsar-Adventurer-3.jpg",
@@ -2125,7 +2125,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261028-6c54df6373c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Tissot PRX Skeleton Damian Lillard: l’orologio che racconta un percorso",
