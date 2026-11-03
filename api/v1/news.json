@@ -1,6 +1,6 @@
 {
-  "content_hash": "57c90ef38f1dd293ab2c24f804819270d4b0b0b6a207342b95b4df6c3b87cd52",
-  "last_updated": "2026-11-03T03:49:00.220Z",
+  "content_hash": "ebbb569a93be53c0539b242165a96933f05e7d91ac08b490d1e97f876b7d4c99",
+  "last_updated": "2026-11-03T06:48:29.353Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T13:18:09.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T06:00:10.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T03:00:02.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look: Glashütte Original Brings Murano Glass To The Senator Line",
+      "url": "https://www.fratellowatches.com/glashutte-original-senator-aventurine-models/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Glashutte-Original-Senator-Aventurine-Art-Deco-Blue-1-36-16-40-03-01-beauty-shot.jpg",
+      "peek_preview": "People in the watch community constantly misunderstand aventurine. The sparkly, often dark blue substance used for watch dials isn’t a natural gemstone dug from the ground (though a natural quartzite stone later named a...",
+      "categories": [
+        "Watch Releases"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-03T06:00:10.000Z",
+      "score_quality": 76,
+      "score_notif": 34,
+      "cluster": "20261029-d88095eed7df",
+      "cluster_main": false
+    },
     {
       "title": "セイコーウオッチが機械式腕時計の美学を伝える展覧会「からくりの森」2026を開催",
       "url": "https://www.webchronos.net/news/177611/",
@@ -256,8 +273,8 @@
       "published_at": "2026-11-02T20:54:39.000Z",
       "score_quality": 88,
       "score_notif": 78,
-      "cluster": "20261102-7ff9a0a3b15b",
-      "cluster_main": true
+      "cluster": "20261102-5421e725168e",
+      "cluster_main": false
     },
     {
       "title": "Direnzo Introduces their First GMT, the DRZ 08 Cosmonaire",
@@ -395,8 +412,8 @@
       "published_at": "2026-11-02T16:23:18.000Z",
       "score_quality": 82,
       "score_notif": 78,
-      "cluster": "20261102-1fd980f8c1a7",
-      "cluster_main": true
+      "cluster": "20261102-5421e725168e",
+      "cluster_main": false
     },
     {
       "title": "Auctions: The 2026 Geneva Fall Auctions Mega-Preview, Part 1 — Christie's and Antiquorum",
@@ -666,7 +683,7 @@
       "featured": false,
       "published_at": "2026-11-02T06:00:49.000Z",
       "score_quality": 79,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261102-e25d1156cb28",
       "cluster_main": true
     },
@@ -992,7 +1009,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261028-6c54df6373c7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lorige X InterEuropol Competition BL-Endurance Watch From LMP2 Brake Pads",
@@ -1475,24 +1492,6 @@
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
       "cluster_main": false
-    },
-    {
-      "title": "Hermès Releases Blanc Chantilly And Bleu De Malte Versions Of The H08",
-      "url": "https://www.fratellowatches.com/hermes-releases-blanc-chantilly-and-bleu-de-malte-versions-of-the-h08/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Hermes-H08-cover.jpg",
-      "peek_preview": "When luxury house Hermès unveiled the H08 in 2021, many rolled their eyes. Watch enthusiasts said, “Stick to making bags,” and doubted the Parisian brand’s horological chops. And could you blame them? It was inevitable...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T12:00:27.000Z",
-      "score_quality": 70,
-      "score_notif": 34,
-      "cluster": "20261030-3164642e064f",
-      "cluster_main": true
     },
     {
       "title": "Hands-On: The Tissot PRX Quartz Chronograph Watch Is A Long-Overdue Value Leader",
@@ -2125,7 +2124,7 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261028-6c54df6373c7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Tissot PRX Skeleton Damian Lillard: l’orologio che racconta un percorso",
