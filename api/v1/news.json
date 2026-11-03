@@ -1,6 +1,6 @@
 {
-  "content_hash": "044ab58f73ed13fabf04e16cf35225bb625244d6ccaccbb081b2be9b2ca99727",
-  "last_updated": "2026-11-03T11:48:25.641Z",
+  "content_hash": "0b997a945bb7f5b250a13e2b5cfe57face12b4c377f8dde26304b1db3fd27d97",
+  "last_updated": "2026-11-03T13:48:08.720Z",
   "premium": {
     "links": []
   },
@@ -10,7 +10,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.3,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-03T11:04:58.000Z"
+      "latest_article_at": "2026-11-03T13:00:11.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,13 +23,13 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T09:01:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T13:01:54.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
+      "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T08:01:19.000Z"
     },
@@ -51,15 +51,15 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T11:36:42.000Z"
     },
     {
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,65 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-on Review: Strehler Säntis Worldtimer",
+      "url": "https://deployant.com/hands-on-review-strehler-santis-worldtimer/?utm_source=rss&utm_medium=rss&utm_campaign=hands-on-review-strehler-santis-worldtimer",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/strehler-gmt-wrist.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors When I first introduced the Strehler Säntis Worldtimer in March 2026, I had already known Andreas Strehler for more than two decades. This longstanding relati...",
+      "categories": [
+        "Reviews",
+        "Watches",
+        "andreas strehler",
+        "strehler",
+        "worldtimer"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-03T13:30:00.000Z",
+      "score_quality": 81,
+      "score_notif": 43,
+      "cluster": "20261103-6a889ad8ba3a",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The Contemporary Oris Big Crown Pointer Date now with an Oxblood Red Dial",
+      "url": "https://monochrome-watches.com/the-contemporary-oris-big-crown-pointer-date-now-with-an-oxblood-red-dial-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Oris-Big-Crown-Pointer-Date-Oxblood-Red-Dial-3-600x237.jpg",
+      "peek_preview": "The Oris Big Crown Pointer Date is the brand’s hallmark aviator’s watch, introduced in 1938 and characterised by an oversized crown and a central pointer hand that indicates the date around the perimeter. However, the c...",
+      "categories": [
+        "Oris",
+        "2026",
+        "Novelty",
+        "Pilot Watches"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-03T13:01:54.000Z",
+      "score_quality": 77,
+      "score_notif": 64,
+      "cluster": "20261103-7d59c97a75b6",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: The Oris Big Crown Pointer Date With An Oxblood-Red Dial",
+      "url": "https://www.fratellowatches.com/introducing-the-oris-big-crown-pointer-date-with-an-oxblood-red-dial/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Oris-01-754-7798-4038-07-8-20-06-Big-Crown-Pointer-Date-cus-01.jpg",
+      "peek_preview": "Oris unveils a new color for the refreshed Big Crown Pointer Date. Housed in a 40mm stainless steel case, the oxblood-red dial runs deep and rich. It stands apart from the pastel shades elsewhere in the collection. The...",
+      "categories": [
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-03T13:00:11.000Z",
+      "score_quality": 74,
+      "score_notif": 64,
+      "cluster": "20261103-7d59c97a75b6",
+      "cluster_main": false
+    },
     {
       "title": "A Closer Look At The Armin Strom Mirrored Force Resonance Zeitgeist 1665",
       "url": "https://www.atimelyperspective.com/a-closer-look-at-the-armin-strom-mirrored-force-resonance-zeitgeist-1665-price/",
@@ -428,7 +487,7 @@
       "published_at": "2026-11-02T20:00:05.000Z",
       "score_quality": 72,
       "score_notif": 31,
-      "cluster": "20261031-00391529547f",
+      "cluster": "20261102-5d3c2601c395",
       "cluster_main": true
     },
     {
@@ -636,7 +695,7 @@
       "featured": false,
       "published_at": "2026-11-02T13:40:00.000Z",
       "score_quality": 48,
-      "score_notif": 36,
+      "score_notif": 34,
       "cluster": "20261102-a28c5371b262",
       "cluster_main": true
     },
@@ -657,7 +716,7 @@
       "featured": false,
       "published_at": "2026-11-02T13:30:00.000Z",
       "score_quality": 77,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261102-507a48e0f78c",
       "cluster_main": true
     },
@@ -675,7 +734,7 @@
       "featured": false,
       "published_at": "2026-11-02T13:18:09.000Z",
       "score_quality": 74,
-      "score_notif": 78,
+      "score_notif": 34,
       "cluster": "20261102-5421e725168e",
       "cluster_main": true
     },
@@ -1224,24 +1283,6 @@
       "cluster_main": true
     },
     {
-      "title": "Roaring Through The Space Age With The Direnzo DRZ 08 Cosmonaire GMT",
-      "url": "https://www.fratellowatches.com/direnzo-drz-08-cosmonaire-gmt/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Direnzo-DRZ-08-Cosmonaire-12.jpg",
-      "peek_preview": "Direnzo introduces the DRZ 08 Cosmonaire as its first GMT watch. Conceived for travel, it pairs a second time zone with a distinctive case. The design, which includes an elliptical bezel and a layered dial, draws from t...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-31T10:00:08.000Z",
-      "score_quality": 68,
-      "score_notif": 31,
-      "cluster": "20261031-00391529547f",
-      "cluster_main": false
-    },
-    {
       "title": "MIP, Solar Charging, And Bluetooth Raise The Standard For Entry-Level Casio G-Shock Watches With The GWBX5600: Review",
       "url": "https://www.ablogtowatch.com/mip-solar-charging-and-bluetooth-raise-the-standard-for-entry-level-casio-g-shock-watches-with-the-gwbx5600-review/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Casio-G-Shock-GWBX5600-MIPS-watches-1-768x346.jpg",
@@ -1499,27 +1540,6 @@
       "score_quality": 74,
       "score_notif": 24,
       "cluster": "20261030-3605bb62e03f",
-      "cluster_main": true
-    },
-    {
-      "title": "Interview – Giving Artisans and Young Watchmakers a Platform – In Conversation with Baudouin Van Es of Tad Kozh",
-      "url": "https://monochrome-watches.com/giving-artisans-and-young-watchmakers-a-platform-in-conversation-with-baudouin-van-es-of-tad-kozh/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/10/Conversation-with-Baudouin-Van-Es-of-Tad-Kozh-600x237.jpg",
-      "peek_preview": "When Baudouin van Es set out to establish Tad Kozh, the goal was not simply to produce another limited-edition luxury timepiece. Instead, it was conceived as an incubator for heritage craftsmanship and a springboard for...",
-      "categories": [
-        "Tad Kozh",
-        "2026",
-        "High-end Watches",
-        "Independent Watchmaking",
-        "Interviews"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T15:00:28.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261030-efc6bde79a3a",
       "cluster_main": true
     },
     {
@@ -2443,37 +2463,6 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261027-e848dc7e0bc3",
-      "cluster_main": true
-    },
-    {
-      "title": "F.P. Journe Hype: Trick or Treat? Countdown der Herbstauktionen 2026",
-      "url": "https://www.uhrenkosmos.com/f-p-journe-hype-trick-or-treat/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/1.-Aufmacher-Teaser-Auktionen-Christies-Sothebys-Antiquorum1.jpg",
-      "peek_preview": "Eine Woche vor dem Saisonstart in Monaco sind auch die Kataloge zu den Genfer Auktionen von Christie’s, Antiquorum und Sotheby’s im November 2026 online. Der F.P. Journe Hype hält an, es gibt aber auch viele interessant...",
-      "categories": [
-        "A. Lange & Söhne",
-        "Aktuell",
-        "Audemars Piguet",
-        "Cartier",
-        "Handel & Auktionen",
-        "Patek Philippe",
-        "Rolex",
-        "Vacheron Constantin",
-        "Vintage & Stil",
-        "Antiquorum",
-        "Auktionen",
-        "Christie's",
-        "Herbstauktionen 2026",
-        "im Herbst 2026",
-        "Sotheby's"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-27T13:42:51.000Z",
-      "score_quality": 65,
-      "score_notif": 34,
-      "cluster": "20261027-77951a900bbd",
       "cluster_main": true
     }
   ]
