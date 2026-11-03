@@ -1,6 +1,6 @@
 {
-  "content_hash": "dcb1e1671c471a0076ca9901974e4e7e7a1729c20966d96304d7afcee0123108",
-  "last_updated": "2026-11-03T20:48:46.012Z",
+  "content_hash": "1b7efcb4c2650c58b768258bb6362843ba3d53714310469f4fad50cb634ebc48",
+  "last_updated": "2026-11-03T21:49:37.655Z",
   "premium": {
     "links": []
   },
@@ -15,9 +15,9 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T18:00:12.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T21:00:38.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Looking Back at the 2026 NYC Windup Watch Fair: Energy, Enthusiasm, and Yes, the Line",
+      "url": "https://wornandwound.com/looking-back-at-the-2026-nyc-windup-watch-fair-energy-enthusiasm-and-yes-the-line/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/WUWF_NYC_GEN_058.jpg",
+      "peek_preview": "Another year of the Windup Watch Fair is in the books, and what a year it was. I’ve probably written or said some version of this a dozen times before, but when we started Windup in 2015, we had no idea what it would be...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-03T21:00:38.000Z",
+      "score_quality": 62,
+      "score_notif": 40,
+      "cluster": "20261103-83f26091927c",
+      "cluster_main": true
+    },
     {
       "title": "13 Of Our Favorite Grab-and-Go Watches",
       "url": "https://teddybaldassarre.com/blogs/watches/best-grab-and-go-watches",
@@ -474,7 +491,7 @@
       "score_quality": 77,
       "score_notif": 64,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris Big Crown Pointer Date With An Oxblood-Red Dial",
@@ -492,7 +509,7 @@
       "score_quality": 74,
       "score_notif": 64,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Closer Look At The Armin Strom Mirrored Force Resonance Zeitgeist 1665",
@@ -611,7 +628,7 @@
       "published_at": "2026-11-03T07:00:10.000Z",
       "score_quality": 68,
       "score_notif": 31,
-      "cluster": "20261029-5a66adb41191",
+      "cluster": "20261103-4839d9026af2",
       "cluster_main": true
     },
     {
@@ -1832,7 +1849,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Tissot PRX Quartz Chronograph Watch Is A Long-Overdue Value Leader",
@@ -1938,7 +1955,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -2157,24 +2174,6 @@
       "score_notif": 30,
       "cluster": "20261029-38a9f149b118",
       "cluster_main": true
-    },
-    {
-      "title": "Farer Introduces the Stratton II Moonphase",
-      "url": "https://wornandwound.com/farer-introduces-the-stratton-ii-moonphase/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Farer-Stratton-II-1.jpg",
-      "peek_preview": "Maybe “trend” was always the wrong way to frame the watch industry’s collective obsession with stone dials? I don’t know about you, but I certainly feel like we might have reached a point where the stone dial is essenti...",
-      "categories": [
-        "News & Releases",
-        "Farer"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-29T13:00:34.000Z",
-      "score_quality": 73,
-      "score_notif": 31,
-      "cluster": "20261029-5a66adb41191",
-      "cluster_main": false
     },
     {
       "title": "Norqain gives the Wild ONE Skeleton X-Lite a vibrant turquoise makeover",
