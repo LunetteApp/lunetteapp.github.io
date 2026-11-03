@@ -1,6 +1,6 @@
 {
-  "content_hash": "5aa7cf74da7c5de51557bca276337c7423c291d3881c7e27e01f292b2655a53c",
-  "last_updated": "2026-11-03T07:48:33.591Z",
+  "content_hash": "8ad183786b64420c576068b80c79fe3ededc0b5bc4c03e9178d6b4f6e5367bab",
+  "last_updated": "2026-11-03T08:48:31.244Z",
   "premium": {
     "links": []
   },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T19:00:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T08:01:19.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T14:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T07:00:10.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T07:20:50.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T06:48:00.000Z"
     },
     {
@@ -176,6 +176,27 @@
   ],
   "items": [
     {
+      "title": "Hands-On With Louis Vuitton’s Fashionable, Lugless, Ceramic-Cased Monterey Watches",
+      "url": "https://www.ablogtowatch.com/hands-on-with-louis-vuittons-fashionable-lugless-ceramic-cased-monterey-watches/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Louis-Vuitton-Monterey-Ceramic-watches-1-768x346.jpg",
+      "peek_preview": "One of my favorite watch brands to cover is Louis Vuitton, because of how unpredictable their new release or next brand direction will be. The Paris-based luxury firm clearly makes a lot more than just watches, but even...",
+      "categories": [
+        "Hands-On",
+        "Ceramic Watches",
+        "Vintage Style Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-03T08:01:19.000Z",
+      "score_quality": 75,
+      "score_notif": 64,
+      "cluster": "20261103-c343e3ad3810",
+      "cluster_main": true
+    },
+    {
       "title": "Dr. Ernst Kurtz: L’avvocato che ha inventato l’orologio da polso tedesco",
       "url": "https://www.orologidiclasse.com/ernst-kurtz-orologio-da-polso-tedesco/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/ernst-kurtz-laboratorio-orologeria-glashutte.jpg",
@@ -193,6 +214,26 @@
       "score_quality": 73,
       "score_notif": 24,
       "cluster": "20261103-b0a6bc698352",
+      "cluster_main": true
+    },
+    {
+      "title": "A Golden Phase: The Farer Stratton Moonphase Returns With An Eisenkiesel Dial",
+      "url": "https://timeandtidewatches.com/farer-stratton-moonphase-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Farer-Stratton-II-Moonphase-Featured-Image.jpg",
+      "peek_preview": "Farer updates its best-selling Stratton II Moonphase with a black Eisenkiesel stone dial and a photorealistic, laser-etched moon display. The post A Golden Phase: The Farer Stratton Moonphase Returns With An Eisenkiesel...",
+      "categories": [
+        "Introducing",
+        "dress watch",
+        "farer",
+        "moonphase"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-03T07:00:10.000Z",
+      "score_quality": 68,
+      "score_notif": 31,
+      "cluster": "20261029-5a66adb41191",
       "cluster_main": true
     },
     {
@@ -1633,7 +1674,7 @@
       "published_at": "2026-10-30T09:11:40.000Z",
       "score_quality": 70,
       "score_notif": 34,
-      "cluster": "20261026-e174cbabb64a",
+      "cluster": "20261030-bb1b5370536f",
       "cluster_main": true
     },
     {
@@ -1889,9 +1930,9 @@
       "featured": false,
       "published_at": "2026-10-29T13:00:34.000Z",
       "score_quality": 73,
-      "score_notif": 34,
+      "score_notif": 31,
       "cluster": "20261029-5a66adb41191",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Norqain gives the Wild ONE Skeleton X-Lite a vibrant turquoise makeover",
@@ -1989,7 +2030,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Glashütte Original Senator Aventurine: Art Nouveau Green and Art Déco Blue",
@@ -2008,7 +2049,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
@@ -2438,53 +2479,6 @@
       "score_notif": 34,
       "cluster": "20261027-d257d9c4c8cf",
       "cluster_main": true
-    },
-    {
-      "title": "Classic Fusion Tributo: il ritorno alle origini di Hublot",
-      "url": "https://www.watchinsanity.it/hublot-classic-fusion-tributo-carlo-crocco/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Hublot_Classic_Fusion_Tributo_Carlo_Crocco_Watch_Insanity_06-1024x682.jpg",
-      "peek_preview": "Hublot presenta il Classic Fusion Tributo: oro, caucciù e design del 1980. Carlo Crocco racconta le origini del marchio e la nascita di un'icona. The post Classic Fusion Tributo: il ritorno alle origini di Hublot appear...",
-      "categories": [
-        "Hands-On",
-        "Timepieces",
-        "Weekly Snippets",
-        "Hublot",
-        "Time Only"
-      ],
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-27T13:28:04.000Z",
-      "score_quality": 63,
-      "score_notif": 34,
-      "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
-    },
-    {
-      "title": "Audemars Piguet sfida Rolex: il Certified Pre-Owned sta cambiando le regole del mercato?",
-      "url": "https://italianwatchspotter.com/audemars-piguet-certified-pre-owned-rolex/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/861268688_18496800616104241_5549643792897206507_n-819x1024.jpg",
-      "peek_preview": "Audemars Piguet entra ufficialmente nel mercato Certified Pre-Owned. Dopo anni di indiscrezioni e sperimentazioni, la manifattura di Le Brassus ha presentato The Watch Keepers, una piattaforma digitale che permette di a...",
-      "categories": [
-        "News",
-        "Alta Orologeria",
-        "audemars piguet",
-        "certified pre-owned",
-        "Mercato Secondario",
-        "Orologi vintage",
-        "rolex",
-        "Royal Oak",
-        "The Watch Keepers",
-        "Vacheron Constantin"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-27T11:15:18.000Z",
-      "score_quality": 60,
-      "score_notif": 34,
-      "cluster": "20261026-e174cbabb64a",
-      "cluster_main": false
     }
   ]
 }
