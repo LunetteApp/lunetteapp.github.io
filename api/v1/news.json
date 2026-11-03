@@ -1,6 +1,6 @@
 {
-  "content_hash": "2d9d146d9fb5eba2f58cbb71ba0b63530bedd221b8c2c86fb8ba68c829eac653",
-  "last_updated": "2026-11-03T18:48:32.316Z",
+  "content_hash": "bd96846a264053445af1a8a4b73833dc6f8b32a9d8057b1d557645bcfd8bc89e",
+  "last_updated": "2026-11-03T19:49:30.611Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T18:00:12.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T18:05:59.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T17:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -474,7 +474,7 @@
       "score_quality": 77,
       "score_notif": 64,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Oris Big Crown Pointer Date With An Oxblood-Red Dial",
@@ -492,7 +492,7 @@
       "score_quality": 74,
       "score_notif": 64,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Closer Look At The Armin Strom Mirrored Force Resonance Zeitgeist 1665",
@@ -645,8 +645,8 @@
       "published_at": "2026-11-03T06:00:10.000Z",
       "score_quality": 76,
       "score_notif": 34,
-      "cluster": "20261103-2f89469d1964",
-      "cluster_main": true
+      "cluster": "20261029-d88095eed7df",
+      "cluster_main": false
     },
     {
       "title": "セイコーウオッチが機械式腕時計の美学を伝える展覧会「からくりの森」2026を開催",
@@ -915,8 +915,8 @@
       "published_at": "2026-11-02T14:30:00.000Z",
       "score_quality": 35,
       "score_notif": 34,
-      "cluster": "20261015-5b89066bd3ad",
-      "cluster_main": false
+      "cluster": "20261102-d03749555a8a",
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Kiwame Tokyo Kubo Momiji, in Autumnal Red",
@@ -2313,21 +2313,6 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261029-f5f2b18487df",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Hublot Classic Fusion Tributo",
-      "url": "https://www.hodinkee.com/articles/the-hublot-classic-fusion-tributo",
-      "image": "https://hodinkee.imgix.net/uploads/images/dd61b059-d114-4f82-87ac-e042fc38e01c/HublotClassicFusionHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Hublot is looking back in Tributo, while moving forward.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-28T19:00:00.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261015-5b89066bd3ad",
       "cluster_main": true
     },
     {
