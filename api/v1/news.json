@@ -1,6 +1,6 @@
 {
-  "content_hash": "3ba49a7ebce885b1154b7d503345d5f49d45d32582ed450c3e145759cd3a3679",
-  "last_updated": "2026-11-03T17:48:22.459Z",
+  "content_hash": "2d9d146d9fb5eba2f58cbb71ba0b63530bedd221b8c2c86fb8ba68c829eac653",
+  "last_updated": "2026-11-03T18:48:32.316Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T15:00:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T18:00:12.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T17:05:12.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-02T19:00:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T18:05:59.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T17:00:00.000Z"
     },
     {
@@ -100,7 +100,7 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T17:10:43.000Z"
     },
     {
@@ -175,6 +175,38 @@
     }
   ],
   "items": [
+    {
+      "title": "13 Of Our Favorite Grab-and-Go Watches",
+      "url": "https://teddybaldassarre.com/blogs/watches/best-grab-and-go-watches",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Khaki_Field_Power_Reserve.jpg?v=1793724943",
+      "peek_preview": "The idea of the \"grab-and-go\" watch really took off as day-to-day life got faster and busier. For the majority of us, a watch like this is about convenience and pure utility. It’s about having a legible, no-nonsense des...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-03T18:05:59.000Z",
+      "score_quality": 38,
+      "score_notif": 25,
+      "cluster": "20261103-d093f8816afe",
+      "cluster_main": true
+    },
+    {
+      "title": "Review: the anOrdain Model 1 Porcelain",
+      "url": "https://wornandwound.com/review/review-the-anordain-model-1-porcelain/",
+      "image": "https://wornandwound.com/library/uploads/2026/10/2026_08_anOrdain_Model-1-1_004_WR.jpg",
+      "peek_preview": "Few small brands can claim to have the kind of success that anOrdain has experienced in recent years. Their enamel dials are so sought after that clients sit on a waitlist that reportedly stretches out to 2030. While so...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-03T18:00:12.000Z",
+      "score_quality": 82,
+      "score_notif": 46,
+      "cluster": "20261103-d995c62b1943",
+      "cluster_main": true
+    },
     {
       "title": "Roger Dubuis Excalibur Biretrograde Calendar: il ritorno alle origini",
       "url": "https://www.watchinsanity.it/roger-dubuis-excalibur-biretrograde-calendar/",
@@ -698,7 +730,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261102-5421e725168e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Direnzo Introduces their First GMT, the DRZ 08 Cosmonaire",
@@ -836,8 +868,8 @@
       "published_at": "2026-11-02T16:23:18.000Z",
       "score_quality": 82,
       "score_notif": 34,
-      "cluster": "20261102-1fd980f8c1a7",
-      "cluster_main": true
+      "cluster": "20261102-5421e725168e",
+      "cluster_main": false
     },
     {
       "title": "Auctions: The 2026 Geneva Fall Auctions Mega-Preview, Part 1 — Christie's and Antiquorum",
@@ -963,7 +995,7 @@
       "published_at": "2026-11-02T13:18:09.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261102-5421e725168e-2",
+      "cluster": "20261102-5421e725168e",
       "cluster_main": true
     },
     {
@@ -2284,25 +2316,6 @@
       "cluster_main": true
     },
     {
-      "title": "The Pulsar “Adventurer” 7T62-X084: A Tool Watch Taken to the Next Level",
-      "url": "https://wornandwound.com/the-pulsar-adventurer-7t62-x084-a-tool-watch-taken-to-the-next-level/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Pulsar-Adventurer-3.jpg",
-      "peek_preview": "I’ve never claimed to be much of an outdoorsman, but it never hurts to keep a few rugged and utilitarian watches in the watch box. Even a leisurely stroll in a local park can warrant the wear of a tool watch; it feels f...",
-      "categories": [
-        "Featured",
-        "Pulsar",
-        "vintage"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-28T20:00:17.000Z",
-      "score_quality": 72,
-      "score_notif": 28,
-      "cluster": "20261028-0b9baf560390",
-      "cluster_main": true
-    },
-    {
       "title": "Hands-On: The Hublot Classic Fusion Tributo",
       "url": "https://www.hodinkee.com/articles/the-hublot-classic-fusion-tributo",
       "image": "https://hodinkee.imgix.net/uploads/images/dd61b059-d114-4f82-87ac-e042fc38e01c/HublotClassicFusionHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -2448,24 +2461,6 @@
       "score_quality": 54,
       "score_notif": 27,
       "cluster": "20261028-8009f8df75e0",
-      "cluster_main": true
-    },
-    {
-      "title": "Ebel, gli astri si sono allineati?",
-      "url": "https://www.perpetualpassion.com/2026/10/28/ebel-chanel-fp-journe-ritorno-futuro-orologeria/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/DSC07641.webp",
-      "peek_preview": "È stata una settimana importante per l’orologeria, con marchi che ritornano e altri che si eclissano.La notizia che [...] L'articolo Ebel, gli astri si sono allineati? proviene da PERPETUAL PASSION.",
-      "categories": [
-        "Just In",
-        "home"
-      ],
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-28T13:08:00.000Z",
-      "score_quality": 34,
-      "score_notif": 34,
-      "cluster": "20261028-3ecae8be1275",
       "cluster_main": true
     }
   ]
