@@ -1,6 +1,6 @@
 {
-  "content_hash": "ebbb569a93be53c0539b242165a96933f05e7d91ac08b490d1e97f876b7d4c99",
-  "last_updated": "2026-11-03T06:48:29.353Z",
+  "content_hash": "5aa7cf74da7c5de51557bca276337c7423c291d3881c7e27e01f292b2655a53c",
+  "last_updated": "2026-11-03T07:48:33.591Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T06:00:10.000Z"
     },
     {
@@ -106,9 +106,9 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T17:26:30.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T07:20:50.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-01T06:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-03T06:48:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,43 @@
     }
   ],
   "items": [
+    {
+      "title": "Dr. Ernst Kurtz: L’avvocato che ha inventato l’orologio da polso tedesco",
+      "url": "https://www.orologidiclasse.com/ernst-kurtz-orologio-da-polso-tedesco/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/ernst-kurtz-laboratorio-orologeria-glashutte.jpg",
+      "peek_preview": "Cento anni fa esatti, la capitale mondiale dell’orologeria tedesca era sull’orlo del baratro. Non per mancanza di talento – Glashütte ne aveva da vendere, da quando Ferdinand Adolph Lange aveva fondato la sua manifattur...",
+      "categories": [
+        "Original Time | Glashütte Original Magazine",
+        "Alta Orologeria",
+        "GLASHÜTTE ORIGINAL",
+        "Storie"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-03T07:20:50.000Z",
+      "score_quality": 73,
+      "score_notif": 24,
+      "cluster": "20261103-b0a6bc698352",
+      "cluster_main": true
+    },
+    {
+      "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
+      "url": "https://www.welovewatches.fr/rolex-la-piste-dun-cafe-a-new-york-et-des-tarifs-de-revision-desormais-publics.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/rolex_cafe_revisions_une_1940x1280.jpg",
+      "peek_preview": "Deux noms déposés aux États-Unis laissent entrevoir une possible incursion de Rolex dans la restauration. La marque vient aussi de rendre ses tarifs d’entretien accessibles sur son site. Pour les propriétaires, cette se...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-03T06:48:00.000Z",
+      "score_quality": 69,
+      "score_notif": 61,
+      "cluster": "20261103-8619c60416e5",
+      "cluster_main": true
+    },
     {
       "title": "First Look: Glashütte Original Brings Murano Glass To The Senator Line",
       "url": "https://www.fratellowatches.com/glashutte-original-senator-aventurine-models/",
@@ -273,8 +310,8 @@
       "published_at": "2026-11-02T20:54:39.000Z",
       "score_quality": 88,
       "score_notif": 78,
-      "cluster": "20261102-5421e725168e",
-      "cluster_main": false
+      "cluster": "20261102-7ff9a0a3b15b",
+      "cluster_main": true
     },
     {
       "title": "Direnzo Introduces their First GMT, the DRZ 08 Cosmonaire",
@@ -412,8 +449,8 @@
       "published_at": "2026-11-02T16:23:18.000Z",
       "score_quality": 82,
       "score_notif": 78,
-      "cluster": "20261102-5421e725168e",
-      "cluster_main": false
+      "cluster": "20261102-1fd980f8c1a7",
+      "cluster_main": true
     },
     {
       "title": "Auctions: The 2026 Geneva Fall Auctions Mega-Preview, Part 1 — Christie's and Antiquorum",
@@ -646,7 +683,7 @@
       "featured": false,
       "published_at": "2026-11-02T07:00:52.000Z",
       "score_quality": 74,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261102-73b601fb684c",
       "cluster_main": true
     },
@@ -665,7 +702,7 @@
       "featured": false,
       "published_at": "2026-11-02T07:00:44.000Z",
       "score_quality": 78,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261102-e9ad873df398",
       "cluster_main": true
     },
@@ -1743,7 +1780,7 @@
       "published_at": "2026-10-29T17:41:33.000Z",
       "score_quality": 78,
       "score_notif": 32,
-      "cluster": "20261027-f71f10287806",
+      "cluster": "20261029-e721bfd451d5",
       "cluster_main": true
     },
     {
@@ -2448,52 +2485,6 @@
       "score_notif": 34,
       "cluster": "20261026-e174cbabb64a",
       "cluster_main": false
-    },
-    {
-      "title": "Girard-Perregaux Laureato Fifty Three Gold Bridges: 159 anni dopo, i Tre Ponti d’Oro cambiano volto",
-      "url": "https://italianwatchspotter.com/girard-perregaux-laureato-fifty-three-gold/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/JPEG-BD-press-99112-58-3619-1CM_Laureato-Fifty-Three-Gold-Bridges_Lifestyle-5-683x1024.jpg",
-      "peek_preview": "Nel 1867 Constant Girard ebbe un’intuizione destinata a diventare una delle firme più riconoscibili dell’Alta Orologeria: trasformare tre ponti del movimento in elementi protagonisti anche dal punto di vista estetico. C...",
-      "categories": [
-        "Nuovi Orologi 2026",
-        "Alta Orologeria",
-        "Girard-Perregaux",
-        "GP9620",
-        "Laureato",
-        "Laureato Fifty",
-        "Three Gold Bridges",
-        "Tourbillon",
-        "Tre Ponti d'Oro"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-27T09:10:07.000Z",
-      "score_quality": 73,
-      "score_notif": 32,
-      "cluster": "20261027-f71f10287806",
-      "cluster_main": false
-    },
-    {
-      "title": "My First Doxa Review: The Sub 300 Beta ‘Frogger’ Collab Watch",
-      "url": "https://www.ablogtowatch.com/my-first-doxa-review-the-sub-300-beta-frogger-collab-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Doxa-Sub-300-Beta-Frogger-RAZ-Crop-15-768x346.jpg",
-      "peek_preview": "I’ve been reviewing watches for eight years now, including the last four at aBlogtoWatch. While I’ve handled my fair share of Doxa watches at events and meetups, and I’ve long had my eye on the Doxa Army, I’ve never spe...",
-      "categories": [
-        "Wrist Time Reviews",
-        "Collaborations",
-        "Dive Watches",
-        "Limited Edition Watches",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-27T07:01:09.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261027-0abfe0c44bed",
-      "cluster_main": true
     }
   ]
 }
