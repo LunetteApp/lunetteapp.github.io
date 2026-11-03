@@ -1,6 +1,6 @@
 {
-  "content_hash": "bd96846a264053445af1a8a4b73833dc6f8b32a9d8057b1d557645bcfd8bc89e",
-  "last_updated": "2026-11-03T19:49:30.611Z",
+  "content_hash": "dcb1e1671c471a0076ca9901974e4e7e7a1729c20966d96304d7afcee0123108",
+  "last_updated": "2026-11-03T20:48:46.012Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T19:00:00.000Z"
     },
     {
@@ -730,7 +730,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261102-5421e725168e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Direnzo Introduces their First GMT, the DRZ 08 Cosmonaire",
@@ -868,8 +868,8 @@
       "published_at": "2026-11-02T16:23:18.000Z",
       "score_quality": 82,
       "score_notif": 34,
-      "cluster": "20261102-5421e725168e",
-      "cluster_main": false
+      "cluster": "20261102-1fd980f8c1a7",
+      "cluster_main": true
     },
     {
       "title": "Auctions: The 2026 Geneva Fall Auctions Mega-Preview, Part 1 — Christie's and Antiquorum",
@@ -995,7 +995,7 @@
       "published_at": "2026-11-02T13:18:09.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261102-5421e725168e",
+      "cluster": "20261102-5421e725168e-2",
       "cluster_main": true
     },
     {
@@ -1832,7 +1832,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The Tissot PRX Quartz Chronograph Watch Is A Long-Overdue Value Leader",
@@ -1938,7 +1938,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -2446,6 +2446,24 @@
       "score_quality": 54,
       "score_notif": 27,
       "cluster": "20261028-8009f8df75e0",
+      "cluster_main": true
+    },
+    {
+      "title": "Ebel, gli astri si sono allineati?",
+      "url": "https://www.perpetualpassion.com/2026/10/28/ebel-chanel-fp-journe-ritorno-futuro-orologeria/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/DSC07641.webp",
+      "peek_preview": "È stata una settimana importante per l’orologeria, con marchi che ritornano e altri che si eclissano.La notizia che [...] L'articolo Ebel, gli astri si sono allineati? proviene da PERPETUAL PASSION.",
+      "categories": [
+        "Just In",
+        "home"
+      ],
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-28T13:08:00.000Z",
+      "score_quality": 34,
+      "score_notif": 25,
+      "cluster": "20261028-3ecae8be1275",
       "cluster_main": true
     }
   ]
