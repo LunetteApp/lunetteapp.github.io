@@ -1,6 +1,6 @@
 {
-  "content_hash": "723d4757343f85c9c2a45499c867675b40bab8c9d66ec6cad2bf9f23f299517e",
-  "last_updated": "2026-11-04T15:49:10.701Z",
+  "content_hash": "70bad8edf5cac03f7051ad184a00bd67daefe473daf933300ad168e42768f043",
+  "last_updated": "2026-11-04T16:48:50.207Z",
   "premium": {
     "links": []
   },
@@ -30,15 +30,15 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T15:00:34.000Z"
     },
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-30T13:00:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-04T16:30:28.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -93,7 +93,7 @@
       "source_name": "Perpetual Passion",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T15:00:27.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
+      "url": "https://www.unpolishedwatches.com/p/newsflash-you-dont-need-to-spend",
+      "image": "https://substackcdn.com/image/fetch/$s_!QWee!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38e9bd98-1b6f-47e6-ac45-fe4b77907f13_2048x2048.jpeg",
+      "peek_preview": "Nobody can define the word anyway, which is exactly why it costs so much.",
+      "categories": [],
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-04T16:30:28.000Z",
+      "score_quality": 46,
+      "score_notif": 25,
+      "cluster": "20261104-e51d7edfdb97",
+      "cluster_main": true
+    },
     {
       "title": "Rolex investe a Milano: un palazzo da 135 milioni in via Montenapoleone",
       "url": "https://www.perpetualpassion.com/2026/11/04/rolex-milano-palazzo-montenapoleone/",
@@ -296,7 +311,7 @@
     {
       "title": "Depancel takes to the track for a classic 24 hour race",
       "url": "https://timeandtidewatches.com/depancel-les-2-tour-dhorloge-autosport-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/depancel-les-2-tour-dhorloge-autosport-1.jpg",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/depancel-les-2-tour-dhorloge-autosport-2-1.jpg",
       "peek_preview": "Channelling the energy of a classic 24-hour race onto your wrist with a clever hidden complication to help keep track. The post Depancel takes to the track for a classic 24 hour race appeared first on Time+Tide Watches.",
       "categories": [
         "Hands On"
@@ -814,7 +829,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris Big Crown Pointer Date With An Oxblood-Red Dial",
@@ -832,7 +847,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Closer Look At The Armin Strom Mirrored Force Resonance Zeitgeist 1665",
@@ -1018,7 +1033,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -1455,7 +1470,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
@@ -2436,6 +2451,21 @@
       "score_quality": 50,
       "score_notif": 34,
       "cluster": "20261028-a84a4d713168",
+      "cluster_main": true
+    },
+    {
+      "title": "TAG Heuer Carrera Chronograph: The Comprehensive Guide",
+      "url": "https://teddybaldassarre.com/blogs/watches/tag-heuer-carrera-guide",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Edouard-Heuer-2.jpg?v=1710794204",
+      "peek_preview": "The TAG Heuer Carrera is widely regarded as one of the OGs of racing-inspired chronograph wristwatches, and today — decades after both the model and the deadly road race that gave it its name appeared to have been perma...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-28T18:29:24.000Z",
+      "score_quality": 72,
+      "score_notif": 16,
+      "cluster": "20261028-627edf6542f8",
       "cluster_main": true
     }
   ]
