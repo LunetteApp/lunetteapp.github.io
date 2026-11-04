@@ -1,6 +1,6 @@
 {
-  "content_hash": "f35fe819dfe1433292f8766ba2718d0c9614e98bc9a9cfc0928e099524361f9c",
-  "last_updated": "2026-11-04T17:48:23.717Z",
+  "content_hash": "9839f011444d39c8c888466cebb25eefe54dcd2ef82a13de555ff99ca97aafbc",
+  "last_updated": "2026-11-04T18:48:30.979Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T17:00:59.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T17:05:24.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-04T14:12:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-04T18:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Photo Report: Milan Watch Week 2026",
+      "url": "https://www.hodinkee.com/articles/milan-watch-week-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/1f9e327d-3e68-4f1e-ab86-1f713cedb456/MilanWatchWeek2026Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "An incredible event with insane wrist spotting, all served with ice cold Negronis – Milan Watch Week is the place to be.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-04T18:00:00.000Z",
+      "score_quality": 70,
+      "score_notif": 43,
+      "cluster": "20261104-d60f32d8b7b7",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Orient Star Launches Flagship Model for its 75th Anniversary, the Skeleton RE-BR0001N",
       "url": "https://monochrome-watches.com/orient-star-launches-flagship-model-for-its-75th-anniversary-the-skeleton-re-br0001n/",
@@ -305,7 +320,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261029-6e2b1bac46ea",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Over The Moon: Farer Launches The New Stratton II Moonphase Watch",
@@ -323,7 +338,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -596,7 +611,7 @@
       "featured": false,
       "published_at": "2026-11-03T18:00:12.000Z",
       "score_quality": 82,
-      "score_notif": 46,
+      "score_notif": 34,
       "cluster": "20261103-d995c62b1943",
       "cluster_main": true
     },
@@ -1005,7 +1020,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -1038,8 +1053,8 @@
       "published_at": "2026-11-03T06:00:10.000Z",
       "score_quality": 76,
       "score_notif": 34,
-      "cluster": "20261103-2f89469d1964",
-      "cluster_main": true
+      "cluster": "20261029-d88095eed7df",
+      "cluster_main": false
     },
     {
       "title": "Insight: Modern Escapement Developments Part I",
@@ -1071,7 +1086,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -1486,7 +1501,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
@@ -2021,21 +2036,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: The Louis Erard x Vianney Halter Futur Antérieur",
-      "url": "https://www.hodinkee.com/articles/the-louis-erard-x-vianney-halter-futur-anterior-2",
-      "image": "https://hodinkee.imgix.net/uploads/images/a0592078-b311-44de-991d-ea1b4fb985c7/L1020778.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "When you thought Vianney Halter collabs had run their course, Louis Erard drops an Antiqua-inspired dual-movement LE at an approachable price, and it's got our attention.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T13:00:00.000Z",
-      "score_quality": 85,
-      "score_notif": 34,
-      "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
-    },
-    {
       "title": "Hands-On: The Tissot PRX Quartz Chronograph Watch Is A Long-Overdue Value Leader",
       "url": "https://www.ablogtowatch.com/hands-on-the-tissot-prx-quartz-chronograph-watch-is-a-long-overdue-value-leader/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Tissot-PRX-Quartz-Chronograph-LOR-Crop-768x346.jpg",
@@ -2139,7 +2139,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -2303,7 +2303,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261029-6e2b1bac46ea",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OMEGA Seamaster Planet Ocean 600M: la prova al polso della quarta generazione",
