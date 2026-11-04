@@ -1,6 +1,6 @@
 {
-  "content_hash": "4620bd0935c6396e0bb49b01b1b34b56cbd734f91650824074b12a0396b9be53",
-  "last_updated": "2026-11-04T06:48:32.175Z",
+  "content_hash": "b98bfa48eb62c041a0378acf60304740fb2b3369612f61f37a2492addcc4a594",
+  "last_updated": "2026-11-04T07:47:55.117Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T06:00:46.000Z"
     },
     {
@@ -29,7 +29,7 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
+      "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-03T15:00:10.000Z"
     },
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T14:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-04T07:00:09.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T06:30:00.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Hublot and Jeff Koons bring a splash of colour to the Time+Tide Melbourne Studio",
+      "url": "https://timeandtidewatches.com/hublot-and-jeff-koons-time-tide-studio-event-events/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-hublot-jeff-koons-melbourne-studio-event.webp",
+      "peek_preview": "Time+Tide and Hublot celebrated the Jeff Koons Balloon Dog collection at our Melbourne Studio for an evening of art and watchmaking. The post Hublot and Jeff Koons bring a splash of colour to the Time+Tide Melbourne Stu...",
+      "categories": [
+        "Events",
+        "hublot"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-04T07:00:09.000Z",
+      "score_quality": 35,
+      "score_notif": 26,
+      "cluster": "20261104-55405dc6862c",
+      "cluster_main": true
+    },
     {
       "title": "Casio CMK-100 : une field watch automatique en titane à moins de 300 €",
       "url": "https://www.welovewatches.fr/casio-cmk-100-une-field-watch-automatique-en-titane-a-moins-de-300-e.html",
@@ -371,8 +389,8 @@
       "published_at": "2026-11-03T16:06:35.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261102-5421e725168e",
-      "cluster_main": false
+      "cluster": "20261103-eaaf788ff84e",
+      "cluster_main": true
     },
     {
       "title": "Introducing: Armin Strom Mirrored Force Resonance Zeitgeist 1665 3N—Gold Never Gets Old",
@@ -612,7 +630,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261102-ec7505ea0fd8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The PS Horology Tsuba 1720, Inspired by George Graham’s 18th-Century Watchmaking",
@@ -709,7 +727,7 @@
       "featured": false,
       "published_at": "2026-11-03T06:48:00.000Z",
       "score_quality": 69,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261103-8619c60416e5",
       "cluster_main": true
     },
@@ -775,7 +793,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -811,7 +829,7 @@
       "published_at": "2026-11-02T20:54:39.000Z",
       "score_quality": 88,
       "score_notif": 34,
-      "cluster": "20261102-5421e725168e",
+      "cluster": "20261102-7ff9a0a3b15b",
       "cluster_main": true
     },
     {
@@ -1018,7 +1036,7 @@
       "score_quality": 73,
       "score_notif": 34,
       "cluster": "20261102-ec7505ea0fd8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-on Review: LOTH Watch 1 by Independent Watchmaker Tristan Ho",
@@ -1056,7 +1074,7 @@
       "published_at": "2026-11-02T13:18:09.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261102-5421e725168e-2",
+      "cluster": "20261102-5421e725168e",
       "cluster_main": true
     },
     {
@@ -1269,7 +1287,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
@@ -2244,25 +2262,6 @@
       "score_notif": 34,
       "cluster": "20261029-d88095eed7df",
       "cluster_main": false
-    },
-    {
-      "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
-      "url": "https://timeandtidewatches.com/seiko-freshens-up-its-seiko-5-field-gmt-with-two-new-colours/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Seiko-5-HDB001-HDB002-Field-GMT-Feature.jpg",
-      "peek_preview": "When considering a highly functional, reliable, no-nonsense timepiece that doesn’t break the bank, Seiko 5 undoubtedly comes to mind. Seiko also changed the game for affordable complications when it released the Seiko 5...",
-      "categories": [
-        "Video",
-        "meta:short",
-        "video"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-29T11:01:00.000Z",
-      "score_quality": 52,
-      "score_notif": 34,
-      "cluster": "20261029-52705c3f8bc5",
-      "cluster_main": true
     },
     {
       "title": "Glashütte Original Senator Aventurine: Art Nouveau Green and Art Déco Blue",
