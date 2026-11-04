@@ -1,6 +1,6 @@
 {
-  "content_hash": "70bad8edf5cac03f7051ad184a00bd67daefe473daf933300ad168e42768f043",
-  "last_updated": "2026-11-04T16:48:50.207Z",
+  "content_hash": "f35fe819dfe1433292f8766ba2718d0c9614e98bc9a9cfc0928e099524361f9c",
+  "last_updated": "2026-11-04T17:48:23.717Z",
   "premium": {
     "links": []
   },
@@ -15,16 +15,16 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T21:00:38.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-04T17:00:59.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-04T14:00:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-04T17:05:24.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T16:30:28.000Z"
     },
     {
@@ -176,6 +176,44 @@
   ],
   "items": [
     {
+      "title": "Introducing – Orient Star Launches Flagship Model for its 75th Anniversary, the Skeleton RE-BR0001N",
+      "url": "https://monochrome-watches.com/orient-star-launches-flagship-model-for-its-75th-anniversary-the-skeleton-re-br0001n/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Orient-Star-Skeleton-75th-Anniversary-Flagship-Model-RE-BR0001N-9-600x237.jpg",
+      "peek_preview": "While most of us picture the Bambino or Mako collections when we think of Orient watches, the Japanese brand owned by Seiko Epson Corporation can make much more advanced and refined watches, especially under the Orient...",
+      "categories": [
+        "Orient",
+        "2026",
+        "Luxury watch",
+        "Novelty",
+        "Skeleton Watches"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-04T17:05:24.000Z",
+      "score_quality": 78,
+      "score_notif": 63,
+      "cluster": "20261104-f161d0371e3c",
+      "cluster_main": true
+    },
+    {
+      "title": "G-SHOCK Celebrates Streetwear Culture in a New Collaboration with UNION",
+      "url": "https://wornandwound.com/g-shock-celebrates-streetwear-culture-in-a-new-collaboration-with-union/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/gshock-x-union-banner.jpg",
+      "peek_preview": "I’m not going to pretend like I am particularly savvy about streetwear or fashion brands, but even I know that SoHo in NYC is at the epicenter of that world. UNION had their start in 1989 in the neighborhood, and grew t...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-04T17:00:59.000Z",
+      "score_quality": 72,
+      "score_notif": 68,
+      "cluster": "20261104-b13ebd2ff879",
+      "cluster_main": true
+    },
+    {
       "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
       "url": "https://www.unpolishedwatches.com/p/newsflash-you-dont-need-to-spend",
       "image": "https://substackcdn.com/image/fetch/$s_!QWee!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38e9bd98-1b6f-47e6-ac45-fe4b77907f13_2048x2048.jpeg",
@@ -267,7 +305,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261029-6e2b1bac46ea",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Over The Moon: Farer Launches The New Stratton II Moonphase Watch",
@@ -580,7 +618,7 @@
       "featured": false,
       "published_at": "2026-11-03T17:10:43.000Z",
       "score_quality": 63,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261103-ed01eef73641",
       "cluster_main": true
     },
@@ -601,7 +639,7 @@
       "featured": false,
       "published_at": "2026-11-03T17:05:12.000Z",
       "score_quality": 84,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261103-06ad384d245a",
       "cluster_main": true
     },
@@ -616,7 +654,7 @@
       "featured": false,
       "published_at": "2026-11-03T17:00:00.000Z",
       "score_quality": 89,
-      "score_notif": 43,
+      "score_notif": 34,
       "cluster": "20261103-f01e2e9fc946",
       "cluster_main": true
     },
@@ -1000,8 +1038,8 @@
       "published_at": "2026-11-03T06:00:10.000Z",
       "score_quality": 76,
       "score_notif": 34,
-      "cluster": "20261029-d88095eed7df",
-      "cluster_main": false
+      "cluster": "20261103-2f89469d1964",
+      "cluster_main": true
     },
     {
       "title": "Insight: Modern Escapement Developments Part I",
@@ -1033,7 +1071,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -1314,8 +1352,8 @@
       "published_at": "2026-11-02T13:18:09.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261102-7ff9a0a3b15b",
-      "cluster_main": false
+      "cluster": "20261102-5421e725168e",
+      "cluster_main": true
     },
     {
       "title": "Latest: novità per ogni fascia di prezzo – 02/11/2026",
@@ -1342,28 +1380,6 @@
       "score_quality": 24,
       "score_notif": 23,
       "cluster": "20261102-58cc1579ba3c",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – H. Moser & Cie. Drops Two Heritage Models, Including a New Chronograph",
-      "url": "https://monochrome-watches.com/2026-h-moser-cie-heritage-chronograph-white-fume-and-heritage-centre-seconds-espresso-fume-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/2026-H-Moser-Cie-Heritage-Chronograph-White-fume-and-Heritage-Centre-Seconds-Espresso-fume-review-600x237.jpg",
-      "peek_preview": "When thinking about indie brand H. Moser & Cie., you might have either the integrated Streamliner, the sporty Pioneer or the elegant Endeavour collections in mind. There is, however, another range that should be mention...",
-      "categories": [
-        "H. Moser & Cie",
-        "2026",
-        "Chronographs",
-        "Independent Watchmaking",
-        "Luxury watch",
-        "Novelty"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-02T10:01:58.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261102-b2eca88eead3",
       "cluster_main": true
     },
     {
@@ -1470,7 +1486,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
@@ -2237,26 +2253,6 @@
       "cluster_main": true
     },
     {
-      "title": "What is a Microbrand?",
-      "url": "https://wornandwound.com/what-is-a-microbrand/",
-      "image": "https://wornandwound.com/library/uploads/2026/02/Traska_Chronograph_HO_016_WR.jpg",
-      "peek_preview": "What is a microbrand? I think about this a lot, never more than in the days and weeks after a Windup, and particularly the days and weeks following the New York City version of our fair, which is the largest and most di...",
-      "categories": [
-        "Featured",
-        "Editorial",
-        "microbrands",
-        "Opinion"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-29T17:00:05.000Z",
-      "score_quality": 65,
-      "score_notif": 24,
-      "cluster": "20261029-0611979ee092",
-      "cluster_main": true
-    },
-    {
       "title": "Jaeger-LeCoultre Polaris Date 40mm Review: A Smaller Take on the Diving Classic",
       "url": "https://teddybaldassarre.com/blogs/watches/jaeger-lecoultre-polaris-date-40mm-review",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Memovox_and_Polaris.jpg?v=1793289930",
@@ -2307,7 +2303,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261029-6e2b1bac46ea",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "OMEGA Seamaster Planet Ocean 600M: la prova al polso della quarta generazione",
