@@ -1,6 +1,6 @@
 {
-  "content_hash": "b98bfa48eb62c041a0378acf60304740fb2b3369612f61f37a2492addcc4a594",
-  "last_updated": "2026-11-04T07:47:55.117Z",
+  "content_hash": "11a59b96234008dae4f4e24cd146236fc7c6f05b218882ef4c7fbc18dbb558a2",
+  "last_updated": "2026-11-04T08:48:29.017Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T17:05:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-04T08:00:12.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T15:00:10.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-04T08:01:09.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T07:00:09.000Z"
     },
     {
@@ -175,6 +175,47 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: Bulgari Octo Finissimo Dual Time x Vianney Halter Watch",
+      "url": "https://www.ablogtowatch.com/hands-on-bulgari-octo-finissimo-dual-time-x-vianney-halter-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Bulgari-Octo-Finissimo-Dual-Time-x-Vianney-Halter-Watch-9-768x346.jpg",
+      "peek_preview": "Some watches, when I discover them in my inbox, feel like they always should have existed. Even against all odds. Strangely, the Bulgari Octo Finissimo Dual Time x Vianney Halter felt just like such a watch to me, even...",
+      "categories": [
+        "Hands-On",
+        "Collaborations",
+        "GMT Watches",
+        "Steampunk Watches",
+        "Watch Releases 2026"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-04T08:01:09.000Z",
+      "score_quality": 82,
+      "score_notif": 74,
+      "cluster": "20261104-33debb0fab96",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Audemars Piguet Adds Obsidian and Onyx Dials to the 38mm Code 11.59",
+      "url": "https://monochrome-watches.com/2026-audemars-piguet-code-11-59-selfwinding-38mm-obsidian-and-onyx-dials-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/2026-Audemars-Piguet-38-mm-Code-11.59-stone-dials-obsidian-and-onyx-1-600x237.jpg",
+      "peek_preview": "Audemars Piguet added a time-and-date 38mm Code 11.59 watch to the collection in 2023, a more compact, slimmer, and redesigned version of the original series launched in 2019. The first 38mm models came with stamped dia...",
+      "categories": [
+        "Audemars Piguet",
+        "2026",
+        "Luxury watch",
+        "Novelty"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-04T08:00:12.000Z",
+      "score_quality": 78,
+      "score_notif": 32,
+      "cluster": "20261102-1fd980f8c1a7",
+      "cluster_main": true
+    },
     {
       "title": "Hublot and Jeff Koons bring a splash of colour to the Time+Tide Melbourne Studio",
       "url": "https://timeandtidewatches.com/hublot-and-jeff-koons-time-tide-studio-event-events/",
@@ -389,8 +430,8 @@
       "published_at": "2026-11-03T16:06:35.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261103-eaaf788ff84e",
-      "cluster_main": true
+      "cluster": "20261102-7ff9a0a3b15b",
+      "cluster_main": false
     },
     {
       "title": "Introducing: Armin Strom Mirrored Force Resonance Zeitgeist 1665 3N—Gold Never Gets Old",
@@ -670,7 +711,7 @@
       "featured": false,
       "published_at": "2026-11-03T08:01:19.000Z",
       "score_quality": 75,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261103-c343e3ad3810",
       "cluster_main": true
     },
@@ -967,9 +1008,9 @@
       "featured": false,
       "published_at": "2026-11-02T16:23:18.000Z",
       "score_quality": 82,
-      "score_notif": 34,
+      "score_notif": 32,
       "cluster": "20261102-1fd980f8c1a7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Auctions: The 2026 Geneva Fall Auctions Mega-Preview, Part 1 — Christie's and Antiquorum",
@@ -1453,25 +1494,6 @@
       "cluster_main": false
     },
     {
-      "title": "The ABCs of Time – The History of German Watchmaking",
-      "url": "https://monochrome-watches.com/abcs-of-time-history-of-german-watchmaking/",
-      "image": "https://monochrome-watches.com/app/uploads/2022/11/A-Lange-Sohne-Zeitwerk-Striking-Time-145-025-mood-600x237.jpg",
-      "peek_preview": "The miniaturisation of clock towers to portable time wasn’t a Swiss innovation – it all started in Germany thanks to locksmith and clockmaker Peter Henlein in Nuremberg at the start of the 16th century. These first “poc...",
-      "categories": [
-        "Watch Info",
-        "2026",
-        "The ABCs of Time"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-31T15:00:49.000Z",
-      "score_quality": 84,
-      "score_notif": 27,
-      "cluster": "20261031-b4a8ef2db7cb",
-      "cluster_main": true
-    },
-    {
       "title": "New releases from Girard-Perregaux, Laurent Ferrier, Vacheron Constantin and more",
       "url": "https://timeandtidewatches.com/girard-perregaux-laurent-ferrier-vacheron-constantin-last-week-in-watches/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/vacheron-constantin-web.jpg",
@@ -1894,7 +1916,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Tissot PRX Quartz Chronograph Watch Is A Long-Overdue Value Leader",
@@ -2000,7 +2022,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
@@ -2435,27 +2457,6 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261028-e71a27f75b9d",
-      "cluster_main": true
-    },
-    {
-      "title": "Watch Shows Worth Travelling to: Bangkok Watch Week and Istanbul Watch Festival",
-      "url": "https://deployant.com/watch-shows-worth-travelling-to-bangkok-watch-week-and-istanbul-watch-festival/?utm_source=rss&utm_medium=rss&utm_campaign=watch-shows-worth-travelling-to-bangkok-watch-week-and-istanbul-watch-festival",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/watch-shows-feature.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Watch shows are becoming an increasingly popular way for manufacturers to meet collectors, enthusiasts and potential customers in the markets where they live....",
-      "categories": [
-        "Opinion",
-        "Watches",
-        "bangkok watch week",
-        "istanbul watch festival",
-        "watch shows"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-28T13:30:00.000Z",
-      "score_quality": 54,
-      "score_notif": 27,
-      "cluster": "20261028-8009f8df75e0",
       "cluster_main": true
     }
   ]
