@@ -1,6 +1,6 @@
 {
-  "content_hash": "017049afcd4ba39ef591230f935a7477443e309815c8131a2c4dba23c20a9b8f",
-  "last_updated": "2026-11-05T15:48:21.478Z",
+  "content_hash": "e2176ba9ea8e2dd1fcc6869730c6be92ec7b038da8d779b3d542a8835498d23f",
+  "last_updated": "2026-11-05T16:47:50.666Z",
   "premium": {
     "links": []
   },
@@ -9,28 +9,28 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T15:00:05.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T15:00:58.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T15:01:12.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T15:00:12.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-05T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T15:00:36.000Z"
     },
     {
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T15:29:04.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Business News: Ateliers Associés Brings The Business Incubator Concept To Independent Watchmaking",
+      "url": "https://www.hodinkee.com/articles/ateliers-associes-brings-the-business-incubator-concept-to-independent-watchmaking",
+      "image": "https://hodinkee.imgix.net/uploads/images/ebeb2fe0-3fc6-4681-8da0-3257685ad261/download1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Led by William Massena and Louis Westphalen-Lemaitre, and with plans to raise millions in funding, the initiative will bring business incubator services to as many as four new independents each year.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-05T16:00:00.000Z",
+      "score_quality": 84,
+      "score_notif": 70,
+      "cluster": "20261105-c8516bfd449a",
+      "cluster_main": true
+    },
     {
       "title": "Orient riduce il Bambino a 36 mm e trova la misura perfetta",
       "url": "https://www.orologidiclasse.com/orient-bambino-version-7-36mm/",
@@ -449,7 +464,7 @@
     {
       "title": "Lip Général de Gaulle : la « montre des Présidents » revient en 3 versions",
       "url": "https://www.welovewatches.fr/lip-general-de-gaulle-la-montre-des-presidents-revient-en-3-versions.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/presentation-lip-general-de-gaulle-gdg-35-mm.jpg",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/presentation-montres-lip-general-de-gaulle-gdg-35-mm.jpg",
       "peek_preview": "Certaines montres ont un destin hors du commun. La Lip Général de Gaulle en fait assurément partie ! Portée au poignet de plusieurs chefs d'État, cette icône horlogère française a gagné au fil des décennies...",
       "categories": [
         "Actualités des montres"
@@ -731,7 +746,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1374,7 +1389,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -1510,7 +1525,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Squale Galeazzi Artiglio: il diver da 600 metri con wet indicator",
@@ -2312,7 +2327,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
