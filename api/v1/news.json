@@ -1,6 +1,6 @@
 {
-  "content_hash": "b4df89d988e5b9acde8bbd3c64235056a548225f42eb48d1b4f52097c73348fd",
-  "last_updated": "2026-11-05T11:47:33.480Z",
+  "content_hash": "b013fdff0117daa558805ad6456efce34efebc47779d2783e8c0d7a6de72269d",
+  "last_updated": "2026-11-05T13:47:44.999Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
+      "estimated_articles_per_day": 3.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T07:30:41.000Z"
     },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T11:01:05.000Z"
     },
     {
@@ -51,15 +51,15 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T11:27:03.000Z"
     },
     {
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-04T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-05T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -620,7 +620,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1302,7 +1302,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -2445,25 +2445,6 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20261029-38a9f149b118",
-      "cluster_main": true
-    },
-    {
-      "title": "Nuovi Senator Aventurine: Glashütte Original sceglie l’Art Deco e l’Art Nouveau",
-      "url": "https://www.orologidiclasse.com/glashutte-original-senator-aventurine-art-deco-blue-art-nouveau-green/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/glashutte-original-senator-aventurine-art-deco-blue-art-nouveau-green-2026.jpg",
-      "peek_preview": "I Senator Aventurine Art Deco Blue e Senator Aventurine Art Nouveau Green sono i due ultimi orologi eleganti da 40 mm, con quadrante in avventurina, creati da Glashütte Original, ispirati rispettivamente all’estetica ge...",
-      "categories": [
-        "Novità Orologi",
-        "Alta Orologeria",
-        "GLASHÜTTE ORIGINAL"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-29T11:11:20.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261029-8fb6e6d0f8da",
       "cluster_main": true
     }
   ]
