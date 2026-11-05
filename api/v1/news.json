@@ -1,6 +1,6 @@
 {
-  "content_hash": "cf2897750d19c057af6eece506a15db058fbe0063d2390714226328234f9e360",
-  "last_updated": "2026-11-05T05:47:51.703Z",
+  "content_hash": "3759a356882b899293c47c232b72ecf5e2448e184a08da60eb918f1f74a5f775",
+  "last_updated": "2026-11-05T06:47:09.139Z",
   "premium": {
     "links": []
   },
@@ -10,7 +10,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-05T05:00:36.000Z"
+      "latest_article_at": "2026-11-05T06:00:17.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-04T06:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-05T06:30:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,43 @@
     }
   ],
   "items": [
+    {
+      "title": "Lip Général de Gaulle : la « montre des Présidents » revient en 3 versions",
+      "url": "https://www.welovewatches.fr/lip-general-de-gaulle-la-montre-des-presidents-revient-en-3-versions.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/presentation-lip-general-de-gaulle-gdg-35-mm.jpg",
+      "peek_preview": "Certaines montres ont un destin hors du commun. La Lip Général de Gaulle en fait assurément partie ! Portée au poignet de plusieurs chefs d'État, cette icône horlogère française a gagné au fil des décennies...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-05T06:30:00.000Z",
+      "score_quality": 62,
+      "score_notif": 63,
+      "cluster": "20261105-45a3f610dff6",
+      "cluster_main": true
+    },
+    {
+      "title": "DWC Terra: The €42 Carabiner Watch That Broke The Internet",
+      "url": "https://www.fratellowatches.com/dwc-terra-the-e42-carabiner-watch-that-broke-the-internet/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/DWC-Terra-7.jpeg",
+      "peek_preview": "A watch with no traditional lugs, an overall shape often compared to a climbing carabiner, and a price around €42 broke the internet earlier this year. Okay, that might be an exaggeration, but the watch absolutely explo...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases",
+        "Watch Talk",
+        "Watch Releases 2025"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-05T06:00:17.000Z",
+      "score_quality": 72,
+      "score_notif": 28,
+      "cluster": "20261105-76b6afac9c8b",
+      "cluster_main": true
+    },
     {
       "title": "Fratello Talks: Recent Shifts In The Watch Industry",
       "url": "https://www.fratellowatches.com/fratello-talks-recent-shifts-in-the-watch-industry/",
@@ -405,7 +442,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261029-6e2b1bac46ea",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Over The Moon: Farer Launches The New Stratton II Moonphase Watch",
@@ -617,7 +654,7 @@
       "featured": false,
       "published_at": "2026-11-04T06:00:46.000Z",
       "score_quality": 84,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261104-a8a203e08f4c",
       "cluster_main": true
     },
@@ -967,7 +1004,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Oris Big Crown Pointer Date With An Oxblood-Red Dial",
@@ -985,7 +1022,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A Closer Look At The Armin Strom Mirrored Force Resonance Zeitgeist 1665",
@@ -1171,7 +1208,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -1438,24 +1475,6 @@
       "cluster_main": true
     },
     {
-      "title": "Audemars Piguet Introduces Three Supersonnerie Watches And Two Stone-Dial Code 11.59 Models",
-      "url": "https://www.fratellowatches.com/audemars-piguet-introduces-three-supersonnerie-watches-and-two-stone-dial-code-11-59-models/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/AP-supersonnerie-novelties-2026-cover.jpg",
-      "peek_preview": "Audemars Piguet expands its Royal Oak and Code 11.59 collections with five new references that explore two very different aspects of the manufacture’s watchmaking. Three new Minute Repeater Supersonnerie models showcase...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-02T13:18:09.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261102-5421e725168e",
-      "cluster_main": true
-    },
-    {
       "title": "Latest: novità per ogni fascia di prezzo – 02/11/2026",
       "url": "https://giornaleorologi.it/2026/11/02/latest-novita-orologi-novembre-2026/",
       "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/HMoser_8200-1207_Heritage_Centre_Seconds_ST_Espresso_Fume__Lifestyle_Wristshot_Check-1024x683.jpg",
@@ -1569,7 +1588,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
@@ -2323,7 +2342,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261029-6e2b1bac46ea",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "OMEGA Seamaster Planet Ocean 600M: la prova al polso della quarta generazione",
@@ -2440,33 +2459,6 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261028-9c325b9caf08",
-      "cluster_main": true
-    },
-    {
-      "title": "Why I’m Excited About The Watch World’s First Concours d’ Élégance Horlogère",
-      "url": "https://www.atimelyperspective.com/why-im-excited-about-the-watch-worlds-first-concours-d-elegance-horlogere/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/Screenshot-2026-10-28-at-12.54.50-PM-1024x499.jpg",
-      "peek_preview": "Having been a car lover since my young teens, I have always been fascinated by the great automotive concours d’élégance events, where extraordinary vintage cars are celebrated not simply for their beauty, but for their...",
-      "categories": [
-        "2026 Watch Shows, Events",
-        "Artistic watches",
-        "Complicated Watches",
-        "Vacheron Constantin",
-        "Watch Shows, Exhibitions, Events",
-        "Women's watches",
-        "Wristwatch Education",
-        "Phillips in Association with Bacs & Russo",
-        "Vacheron Constantin and Phillips",
-        "Vacheron Constantin Concours d' Elegance Horlogere",
-        "watch concours d' elegance"
-      ],
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-28T18:53:20.000Z",
-      "score_quality": 41,
-      "score_notif": 22,
-      "cluster": "20261028-a84a4d713168",
       "cluster_main": true
     }
   ]
