@@ -1,6 +1,6 @@
 {
-  "content_hash": "b013fdff0117daa558805ad6456efce34efebc47779d2783e8c0d7a6de72269d",
-  "last_updated": "2026-11-05T13:47:44.999Z",
+  "content_hash": "26a1ad1b34406e9baf96c1cf70c0ee9c31df100f3539c53be5a858b77d9a0c6f",
+  "last_updated": "2026-11-05T14:48:45.205Z",
   "premium": {
     "links": []
   },
@@ -15,7 +15,7 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T20:00:30.000Z"
     },
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-04T18:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-05T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T09:04:13.000Z"
     },
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Auctions: The 2026 Geneva Fall Auctions Mega-Preview, Part 2 — Phillips, Sotheby's, And Marteau & Co.",
+      "url": "https://www.hodinkee.com/articles/the-2026-geneva-fall-auctions-mega-preview-part-2-phillips-and-sothebys",
+      "image": "https://hodinkee.imgix.net/uploads/articles/8d15ccde-7e15-4fa3-81ef-d29036bf37df/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "We dig into the remaining 400+ watches to be sold in the next week.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-05T14:00:00.000Z",
+      "score_quality": 80,
+      "score_notif": 52,
+      "cluster": "20261105-b193d23c1def",
+      "cluster_main": true
+    },
     {
       "title": "A Closer Look At The Luminox Master Carbon SEAL Automatic Chronograph",
       "url": "https://www.atimelyperspective.com/a-closer-look-at-the-luminox-master-carbon-seal-automatic-chronograph-price/",
@@ -556,7 +571,7 @@
       "featured": false,
       "published_at": "2026-11-04T14:12:00.000Z",
       "score_quality": 76,
-      "score_notif": 56,
+      "score_notif": 34,
       "cluster": "20261104-1c5a697c7132",
       "cluster_main": true
     },
@@ -1946,8 +1961,8 @@
       "published_at": "2026-10-30T21:00:44.000Z",
       "score_quality": 42,
       "score_notif": 34,
-      "cluster": "20261030-cedc87541505",
-      "cluster_main": false
+      "cluster": "20261030-b060d6952ae1",
+      "cluster_main": true
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
