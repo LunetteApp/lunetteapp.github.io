@@ -1,6 +1,6 @@
 {
-  "content_hash": "90dd025f5d0603edc2e3db0669aa7d2106c4281b847c45c3f0f592d48c2477a0",
-  "last_updated": "2026-11-05T01:47:42.810Z",
+  "content_hash": "05c051fd20a84601bc8d62b80dda9607b8740f1e2e7b24d33d1c85ae57f6de3f",
+  "last_updated": "2026-11-05T03:47:31.447Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T01:00:31.000Z"
     },
     {
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T00:00:27.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-05T03:00:25.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -366,7 +366,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261102-7ff9a0a3b15b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Laurent Ferrier Grand Sport Tourbillon Iceberg",
@@ -406,7 +406,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -615,7 +615,7 @@
       "featured": false,
       "published_at": "2026-11-04T03:00:13.000Z",
       "score_quality": 61,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261104-66c12c31a24f",
       "cluster_main": true
     },
@@ -950,7 +950,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris Big Crown Pointer Date With An Oxblood-Red Dial",
@@ -968,7 +968,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261103-7d59c97a75b6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A Closer Look At The Armin Strom Mirrored Force Resonance Zeitgeist 1665",
@@ -1088,7 +1088,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -1121,8 +1121,8 @@
       "published_at": "2026-11-03T06:00:10.000Z",
       "score_quality": 76,
       "score_notif": 34,
-      "cluster": "20261103-2f89469d1964",
-      "cluster_main": true
+      "cluster": "20261029-d88095eed7df",
+      "cluster_main": false
     },
     {
       "title": "Insight: Modern Escapement Developments Part I",
@@ -1191,7 +1191,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261102-7ff9a0a3b15b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Direnzo Introduces their First GMT, the DRZ 08 Cosmonaire",
@@ -1241,7 +1241,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Squale Galeazzi Artiglio: il diver da 600 metri con wet indicator",
@@ -1674,21 +1674,6 @@
       "cluster_main": true
     },
     {
-      "title": "レイモンド ウェイルが創業50周年記念モデルの意匠を受け継ぐ「ミレジム ジュビリー」を発表",
-      "url": "https://www.webchronos.net/news/177474/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/RW_MILLESIME_7776-STC-65501_PRODUCT_RVB_HR.webp",
-      "peek_preview": "レイモンド ウェイルは、ブランド創業50周年を記念した「ミレジム ジュビリー」を発表した。本作は、世界限定50本で製作された「ミレジム ザ フィフティ」のデザインを継承した第２弾のアニバーサリーモデルだ。世界限定500本 […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-01T00:00:05.000Z",
-      "score_quality": 67,
-      "score_notif": 34,
-      "cluster": "20261101-a0c7c76daa2c",
-      "cluster_main": true
-    },
-    {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: l’Antiqua si fa più vicino",
       "url": "https://www.perpetualpassion.com/2026/10/31/louis-erard-vianney-halter-futur-anterieur/",
       "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/P1010584-scaled.jpg",
@@ -1841,8 +1826,8 @@
       "published_at": "2026-10-30T21:00:44.000Z",
       "score_quality": 42,
       "score_notif": 34,
-      "cluster": "20261030-b060d6952ae1",
-      "cluster_main": true
+      "cluster": "20261030-cedc87541505",
+      "cluster_main": false
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
@@ -2174,7 +2159,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
