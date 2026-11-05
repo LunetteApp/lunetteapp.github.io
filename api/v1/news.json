@@ -1,6 +1,6 @@
 {
-  "content_hash": "e2176ba9ea8e2dd1fcc6869730c6be92ec7b038da8d779b3d542a8835498d23f",
-  "last_updated": "2026-11-05T16:47:50.666Z",
+  "content_hash": "a4197a4e62e842fce96e26fb4341a5a0cd4043b270f71e43112ae0daed9dda00",
+  "last_updated": "2026-11-05T17:48:11.998Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T16:00:00.000Z"
     },
     {
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-04T09:04:13.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-05T16:54:02.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,33 @@
     }
   ],
   "items": [
+    {
+      "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
+      "url": "https://www.uhrenkosmos.com/oris-propilot-calibre-111-version-2026/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Oris-ProPilot-Calibre-111-Gruen-Stahl-und-Schwarz-Leder-Aufmacher-UK.jpg",
+      "peek_preview": "Oris hat seine charakteristische Fliegeruhr überarbeitet, ohne an deren mechanischem Kern zu rütteln. Schlankere Proportionen, neue Zifferblätter und das bewährte Kaliber 111 bestimmen den Auftritt der neuen Oris ProPil...",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Markenkosmos",
+        "Oris",
+        "Fliegeruhren",
+        "Handaufzugsuhr",
+        "Oris Big Crown Pointer Date",
+        "Oris Calibre 111",
+        "Oris Caribre 110",
+        "Oris ProPilot",
+        "Oris ProPilot Calibre 111"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-05T16:54:02.000Z",
+      "score_quality": 74,
+      "score_notif": 68,
+      "cluster": "20261105-0f070480d93f",
+      "cluster_main": true
+    },
     {
       "title": "Business News: Ateliers Associés Brings The Business Incubator Concept To Independent Watchmaking",
       "url": "https://www.hodinkee.com/articles/ateliers-associes-brings-the-business-incubator-concept-to-independent-watchmaking",
@@ -615,7 +642,7 @@
       "featured": false,
       "published_at": "2026-11-04T17:05:24.000Z",
       "score_quality": 78,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261104-f161d0371e3c",
       "cluster_main": true
     },
@@ -632,7 +659,7 @@
       "featured": false,
       "published_at": "2026-11-04T17:00:59.000Z",
       "score_quality": 72,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
       "cluster_main": true
     },
@@ -746,7 +773,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1389,7 +1416,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -2436,27 +2463,6 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261029-ff9ec6ac3a92",
-      "cluster_main": true
-    },
-    {
-      "title": "Raymond Weil A.R.T.: il primo bracciale integrato per i 50 anni della Maison",
-      "url": "https://www.watchinsanity.it/raymond-weil-art-50th-anniversary-integrated-bracelet/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Senza-titolo-1-682x1024.jpg",
-      "peek_preview": "Raymond Weil A.R.T. celebra i 50 anni della Maison con il primo bracciale integrato: modelli automatici da 38 mm e versioni al quarzo da 30 mm. The post Raymond Weil A.R.T.: il primo bracciale integrato per i 50 anni de...",
-      "categories": [
-        "News",
-        "Smart Ones",
-        "Timepieces",
-        "Raymond Weil",
-        "Time Only"
-      ],
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-29T15:21:23.000Z",
-      "score_quality": 55,
-      "score_notif": 34,
-      "cluster": "20261029-91eb44bcadf9",
       "cluster_main": true
     }
   ]
