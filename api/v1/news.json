@@ -1,6 +1,6 @@
 {
-  "content_hash": "041801ca82b450078e822e2297bbf586952fdfe3b11599ed964f4476bbc71070",
-  "last_updated": "2026-11-05T21:47:15.136Z",
+  "content_hash": "828c079b32ead1f5fe9087ec3dd7e99c58d8ba753aa3cec73ca7368728978a1e",
+  "last_updated": "2026-11-05T22:47:39.155Z",
   "premium": {
     "links": []
   },
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T19:31:22.000Z"
     },
     {
@@ -344,7 +344,7 @@
       "score_quality": 86,
       "score_notif": 66,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Serica Introduces the 8315-3 Golden Green Travel Chronometer",
@@ -362,7 +362,7 @@
       "score_quality": 76,
       "score_notif": 66,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Serica preps its Travel Chronometer for the golden hour with the new Golden Green Ref. 8315-03",
@@ -1520,7 +1520,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -1843,7 +1843,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
@@ -2099,9 +2099,9 @@
       "featured": false,
       "published_at": "2026-10-30T21:00:44.000Z",
       "score_quality": 42,
-      "score_notif": 34,
-      "cluster": "20261030-b060d6952ae1",
-      "cluster_main": true
+      "score_notif": 24,
+      "cluster": "20261030-cedc87541505",
+      "cluster_main": false
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
@@ -2418,6 +2418,60 @@
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
       "cluster_main": false
+    },
+    {
+      "title": "Hands-On: The Hautlence Kubera Is A Jump Hour Watch Inspired By Cubism",
+      "url": "https://www.ablogtowatch.com/hands-on-the-hautlence-kubera-is-a-jump-hour-watch-inspired-by-cubism/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Hautlence-Kubera-Series-1-watch-6-768x346.jpg",
+      "peek_preview": "The Hautlence Kubera is a lovely watch that was marred by poor product release timing. The cubist expression of modern horological design cannot be appreciated on its own, but it must be evaluated in the context of the...",
+      "categories": [
+        "Hands-On",
+        "Jump Hour Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T07:01:29.000Z",
+      "score_quality": 78,
+      "score_notif": 26,
+      "cluster": "20261030-e17e6ac2f78c",
+      "cluster_main": true
+    },
+    {
+      "title": "G-Shock Elemental : la légendaire DW-5000 passe à l’analogique !",
+      "url": "https://www.welovewatches.fr/g-shock-elemental-la-legendaire-dw-5000-passe-a-lanalogique.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-montres-casio-g-shock-elemental-gac-2500-gmc-2500.jpg",
+      "peek_preview": "Depuis 1983, la Casio G-Shock s'est imposée comme la reine des montres tout-terrain. Pour rendre hommage à sa toute première création, la mythique DW-5000, Casio dévoile aujourd'hui une nouvelle famille baptisée Element...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-30T06:30:00.000Z",
+      "score_quality": 58,
+      "score_notif": 24,
+      "cluster": "20261030-cedc87541505",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Girard-Perregaux Laureato Fifty Three Gold Bridges—Rose Gold Bridges, a Tourbillon, and a Hidden Micro-Rotor",
+      "url": "https://www.watchcollectinglifestyle.com/home/girard-perregaux-laureato-fifty-three-gold-bridges",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793294608691-RXVIFBN11OGF3DRAYKI5/Girard-Perregaux+Laureato+Fifty+Three+Gold+Bridges%284%29.jpg?format=1500w",
+      "peek_preview": "Few watchmaking signatures are as recognizable as Girard-Perregaux’s Three Bridges, and few cases are as distinctive as the Laureato’s octagon. The Laureato Fifty Three Gold Bridges unites them: a skeletonized tourbillo...",
+      "categories": [
+        "Girard-Perregaux"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-29T17:41:33.000Z",
+      "score_quality": 69,
+      "score_notif": 25,
+      "cluster": "20261029-e721bfd451d5",
+      "cluster_main": true
     }
   ]
 }
