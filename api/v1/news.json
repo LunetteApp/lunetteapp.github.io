@@ -1,6 +1,6 @@
 {
-  "content_hash": "22c7de283b196065c036c843b9790ae1e7bce31a5bf9663bfa00ee00af439dc6",
-  "last_updated": "2026-11-05T18:47:55.626Z",
+  "content_hash": "5dc32fc88a2cd6b901af47f22264462f6bdb0f8337aaf7afffa812f69f99362d",
+  "last_updated": "2026-11-05T19:47:40.207Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T15:00:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-05T19:00:48.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T18:01:42.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-03T18:05:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-05T19:31:22.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T16:00:00.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-05T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T18:00:40.000Z"
     },
     {
@@ -175,6 +175,54 @@
     }
   ],
   "items": [
+    {
+      "title": "15 Best Small Chronographs From Entry-Level To Luxury",
+      "url": "https://teddybaldassarre.com/blogs/watches/small-chronograph-watches",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Timex-Q-Timex-Chrono-2.jpg?v=1793737451",
+      "peek_preview": "A chronograph is traditionally a large watch, not for aesthetic reasons but for functional ones: it has more movement components than other watches, including tourbillons and annual calendars. There is an extra gear tra...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-05T19:31:22.000Z",
+      "score_quality": 30,
+      "score_notif": 18,
+      "cluster": "20261105-a062f495654a",
+      "cluster_main": true
+    },
+    {
+      "title": "Review: the Bulova A-11 “Jimmy”",
+      "url": "https://wornandwound.com/review/review-the-bulova-a-11-jimmy/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Bulova-Jimmy-Hack-9.jpg",
+      "peek_preview": "As decades march on, no conflict has captured and maintained as much attention globally as World War II. Sure, that sounds like a dry opening statement for an AP History exam, but it’s hard to deny the pervasive influen...",
+      "categories": [
+        "Review",
+        "bulova"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-05T19:00:48.000Z",
+      "score_quality": 78,
+      "score_notif": 44,
+      "cluster": "20261105-d06a9eddcfde",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Louis Vuitton Tambour Convergence Mirror Steel",
+      "url": "https://www.hodinkee.com/articles/louis-vuitton-tambour-convergence-mirror-steel",
+      "image": "https://hodinkee.imgix.net/uploads/articles/3b099a90-4352-48f5-8a22-7f001feb8459/LV-Tambour-Convergence-Mirror-Steel-HERO.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The guichet-style watch gets a decidedly new (and shiny) look.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-05T19:00:00.000Z",
+      "score_quality": 72,
+      "score_notif": 34,
+      "cluster": "20261103-06ad384d245a",
+      "cluster_main": true
+    },
     {
       "title": "First Look – Yema Unveils a New Dress Watch Collection with the Senans Grand Lune CMM.22",
       "url": "https://monochrome-watches.com/yema-senans-grand-lune-cmm-22-micro-rotor-new-dress-watch-collection-review-price/",
@@ -483,7 +531,7 @@
       "score_quality": 88,
       "score_notif": 68,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Piaget Andy Warhol “Camouflage” Limited Edition",
@@ -520,7 +568,7 @@
       "score_quality": 85,
       "score_notif": 68,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1148,7 +1196,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261103-06ad384d245a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Inside The Manufacture: A Visit To Casio's Yamagata Factory",
@@ -1674,21 +1722,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: The Arnold & Son DSTB Stop-Seconds",
-      "url": "https://www.hodinkee.com/articles/the-arnold-and-son-dtsb-stop-seconds",
-      "image": "https://hodinkee.imgix.net/uploads/articles/a0422e97-647e-440e-829f-a6e99d4d723a/tan2h-arnoldson-dtsbstopseconds-05404-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "An update to the brand's deadbeat seconds model brings forward both visual and mechanical improvements in a limited edition.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-02T14:42:00.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261102-3121b3c07912",
-      "cluster_main": true
-    },
-    {
       "title": "Did Hublot just fix two key issues with its new Classic Fusion Tributo?",
       "url": "https://timeandtidewatches.com/hublot-classic-fusion-tributo-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Hublot-Classic-Fusion-Tributo-3-1.jpg",
@@ -2097,8 +2130,8 @@
       "published_at": "2026-10-30T21:00:44.000Z",
       "score_quality": 42,
       "score_notif": 34,
-      "cluster": "20261030-cedc87541505",
-      "cluster_main": false
+      "cluster": "20261030-b060d6952ae1",
+      "cluster_main": true
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
@@ -2124,23 +2157,6 @@
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
       "cluster_main": false
-    },
-    {
-      "title": "Recapping Fossil Signature’s Launch at Windup Watch Fair NYC 2026",
-      "url": "https://wornandwound.com/recapping-fossil-signatures-launch-at-windup-watch-fair-nyc-2026/",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Fossil_Signature_03.jpg",
-      "peek_preview": "Fossil’s new Signature Collection made its debut at Windup Watch Fair NYC 2026, with a behind-the-scenes film, a Q&A with Senior Creative Director Ryan White, and the first chance to get the watches on the wrist in the...",
-      "categories": [
-        "Featured"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T20:00:16.000Z",
-      "score_quality": 54,
-      "score_notif": 34,
-      "cluster": "20261030-42ed009ccf02",
-      "cluster_main": true
     },
     {
       "title": "Insider: CVSTOS Challenge Autodromo and Challenge Monaco—Carbon Racing Silhouettes for Race Weekend in Mexico",
@@ -2451,23 +2467,6 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261030-e17e6ac2f78c",
-      "cluster_main": true
-    },
-    {
-      "title": "G-Shock Elemental : la légendaire DW-5000 passe à l’analogique !",
-      "url": "https://www.welovewatches.fr/g-shock-elemental-la-legendaire-dw-5000-passe-a-lanalogique.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-montres-casio-g-shock-elemental-gac-2500-gmc-2500.jpg",
-      "peek_preview": "Depuis 1983, la Casio G-Shock s'est imposée comme la reine des montres tout-terrain. Pour rendre hommage à sa toute première création, la mythique DW-5000, Casio dévoile aujourd'hui une nouvelle famille baptisée Element...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-30T06:30:00.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261030-cedc87541505",
       "cluster_main": true
     }
   ]
