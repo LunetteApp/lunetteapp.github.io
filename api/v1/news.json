@@ -1,6 +1,6 @@
 {
-  "content_hash": "66e3769f32d3e168f401d8d50528efac826f92b4d7552ac2e430b66623dfd9e9",
-  "last_updated": "2026-11-06T14:47:21.775Z",
+  "content_hash": "99fe435603765ac9e224ddc9c27ab00ed080e840a45c7db9b86c6bc39e80f6ca",
+  "last_updated": "2026-11-06T15:46:48.198Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T19:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T15:00:46.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T14:00:31.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T14:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T14:30:07.000Z"
     },
     {
@@ -129,7 +129,7 @@
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-06T13:48:56.000Z"
+      "latest_article_at": "2026-11-06T15:21:14.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing the Praesidus Montar Ranger Ana-Digi and GMT",
+      "url": "https://wornandwound.com/introducing-the-praesidus-montar-ranger-ana-digi-and-gmt/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Praesidus-Montar-8.jpg",
+      "peek_preview": "I won’t pretend I’m the poster child for an active, outdoorsy lifestyle. I’m definitely what some would call a “ball sport” person, and if there aren’t team colors and regional rivalries, I am unlikely to participate. M...",
+      "categories": [
+        "Featured",
+        "Praesidus"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T15:00:46.000Z",
+      "score_quality": 66,
+      "score_notif": 60,
+      "cluster": "20261106-15c4a46f26cd",
+      "cluster_main": true
+    },
     {
       "title": "The Trafford Violet Crown captures the spectacular sunsets of Austin, Texas",
       "url": "https://timeandtidewatches.com/trafford-violet-crown-introducing/",
@@ -227,7 +245,7 @@
       "featured": false,
       "published_at": "2026-11-06T13:48:56.000Z",
       "score_quality": 67,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261105-eadd13b58afc",
       "cluster_main": false
     },
@@ -688,7 +706,7 @@
       "featured": false,
       "published_at": "2026-11-05T15:29:04.000Z",
       "score_quality": 53,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261105-be6001ebd526",
       "cluster_main": true
     },
@@ -709,7 +727,7 @@
       "featured": false,
       "published_at": "2026-11-05T15:01:12.000Z",
       "score_quality": 86,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261105-eadd13b58afc",
       "cluster_main": true
     },
@@ -727,17 +745,17 @@
       "featured": false,
       "published_at": "2026-11-05T15:00:58.000Z",
       "score_quality": 76,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261105-eadd13b58afc",
       "cluster_main": false
     },
     {
       "title": "Serica preps its Travel Chronometer for the golden hour with the new Golden Green Ref. 8315-03",
       "url": "https://timeandtidewatches.com/serica-ref8315-03-golden-green-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Serica-Travel-Chronometer-Ref-8315-Golden-Green-Feature.jpg",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/serica-travel-chronometer-golden-green-featured-image-1.jpg",
       "peek_preview": "The new Serica Ref. 8315-03 Golden Green brings a rich olive enamel dial and striking two-tone ceramic bezel to the brand’s distinctive GMT The post Serica preps its Travel Chronometer for the golden hour with the new G...",
       "categories": [
-        "Introducing",
+        "In The Shop",
         "gmt",
         "meta:short",
         "serica"
@@ -747,7 +765,7 @@
       "featured": false,
       "published_at": "2026-11-05T15:00:36.000Z",
       "score_quality": 68,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261105-eadd13b58afc",
       "cluster_main": false
     },
@@ -766,7 +784,7 @@
       "featured": false,
       "published_at": "2026-11-05T15:00:05.000Z",
       "score_quality": 78,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261105-eadd13b58afc",
       "cluster_main": false
     },
@@ -868,7 +886,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -887,7 +905,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1198,7 +1216,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1639,7 +1657,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -1688,7 +1706,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -1981,7 +1999,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
@@ -2444,27 +2462,6 @@
       "score_notif": 34,
       "cluster": "20261030-bb1b5370536f",
       "cluster_main": true
-    },
-    {
-      "title": "Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur",
-      "url": "https://www.watchinsanity.it/louis-erard-vianney-halter-futur-anterieur/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Louis_Erard_Vianney_Halter_Futur_Anterieur_Watch_Insanity_02-1024x682.jpg",
-      "peek_preview": "Louis Erard x Vianney Halter Futur Antérieur: due movimenti automatici, cassa ispirata all’Antiqua e due edizioni limitate a 178 esemplari. The post Louis Erard X Vianney Halter Futur Antérieur: oltre il Régulateur appe...",
-      "categories": [
-        "News",
-        "Timepieces",
-        "Independents",
-        "Louis Erard",
-        "Vianney Halter"
-      ],
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-30T09:00:00.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
     }
   ]
 }
