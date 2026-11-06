@@ -1,6 +1,6 @@
 {
-  "content_hash": "54ef195562e5254df8c90b9a2e24f024702c778743d8124034d5021c34819e67",
-  "last_updated": "2026-11-06T12:47:01.587Z",
+  "content_hash": "9700ce56d8f613ae0a09df69cfb992b2339214aabee48541352bdcfe5c0f11bd",
+  "last_updated": "2026-11-06T13:47:57.629Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T12:00:42.000Z"
     },
     {
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T17:53:11.000Z"
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T13:11:51.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T12:27:53.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: URWERK UR-300 Time Quantum—The Hour Display That Rebuilds Itself in a Blink",
+      "url": "https://www.watchcollectinglifestyle.com/home/urwerk-ur-300-time-quantum-limited-editions",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793903468996-URLVI8HGCI3Q1TTH17YP/URWERK+UR-300+Time+Quantum.jpeg?format=1500w",
+      "peek_preview": "After nearly three decades exploring the natural world and outer space, URWERK has turned its attention to the atom. The newly unveiled UR-300 Time Quantum replaces orbiting satellites and the retrograde snap of earlier...",
+      "categories": [
+        "Urwerk"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T13:11:51.000Z",
+      "score_quality": 78,
+      "score_notif": 71,
+      "cluster": "20261106-dd62a52334b2",
+      "cluster_main": true
+    },
     {
       "title": "F.P.Journe e Breguet, le ragioni di un’eredità",
       "url": "https://giornaleorologi.it/2026/11/06/f-p-journe-e-breguet-le-ragioni-di-uneredita/",
@@ -284,7 +301,7 @@
       "score_quality": 87,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -302,7 +319,7 @@
       "score_quality": 84,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Silently Introduces Two New Seamaster Diver 300M Models In Blue And Brown Ceramic",
@@ -450,7 +467,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
@@ -557,7 +574,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -638,7 +655,7 @@
       "score_quality": 86,
       "score_notif": 66,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Serica Introduces the 8315-3 Golden Green Travel Chronometer",
@@ -656,7 +673,7 @@
       "score_quality": 76,
       "score_notif": 66,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Serica preps its Travel Chronometer for the golden hour with the new Golden Green Ref. 8315-03",
@@ -950,7 +967,8 @@
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793819932862-3LKGB3MELTDPZAXABKEY/Bianchet+Ultrafino+Tonneau+Black+Ceramic-5.jpg?format=1500w",
       "peek_preview": "Black ceramic has a reputation for appearing too flat, dull, and anonymous in the wrong watchmaker’s hands. The Bianchet Tonneau UltraFino Black Ceramic is the rebuttal. In person, it is a masterclass in surface treatme...",
       "categories": [
-        "Bianchet"
+        "Bianchet",
+        "Other Brands"
       ],
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
@@ -1124,7 +1142,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1585,7 +1603,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -2150,8 +2168,8 @@
       "published_at": "2026-10-30T21:00:44.000Z",
       "score_quality": 42,
       "score_notif": 24,
-      "cluster": "20261030-cedc87541505",
-      "cluster_main": false
+      "cluster": "20261030-b060d6952ae1",
+      "cluster_main": true
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
@@ -2447,40 +2465,6 @@
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
       "cluster_main": false
-    },
-    {
-      "title": "G-Shock Elemental : la légendaire DW-5000 passe à l’analogique !",
-      "url": "https://www.welovewatches.fr/g-shock-elemental-la-legendaire-dw-5000-passe-a-lanalogique.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/presentation-montres-casio-g-shock-elemental-gac-2500-gmc-2500.jpg",
-      "peek_preview": "Depuis 1983, la Casio G-Shock s'est imposée comme la reine des montres tout-terrain. Pour rendre hommage à sa toute première création, la mythique DW-5000, Casio dévoile aujourd'hui une nouvelle famille baptisée Element...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-30T06:30:00.000Z",
-      "score_quality": 58,
-      "score_notif": 24,
-      "cluster": "20261030-cedc87541505",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Girard-Perregaux Laureato Fifty Three Gold Bridges—Rose Gold Bridges, a Tourbillon, and a Hidden Micro-Rotor",
-      "url": "https://www.watchcollectinglifestyle.com/home/girard-perregaux-laureato-fifty-three-gold-bridges",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793294608691-RXVIFBN11OGF3DRAYKI5/Girard-Perregaux+Laureato+Fifty+Three+Gold+Bridges%284%29.jpg?format=1500w",
-      "peek_preview": "Few watchmaking signatures are as recognizable as Girard-Perregaux’s Three Bridges, and few cases are as distinctive as the Laureato’s octagon. The Laureato Fifty Three Gold Bridges unites them: a skeletonized tourbillo...",
-      "categories": [
-        "Girard-Perregaux"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-29T17:41:33.000Z",
-      "score_quality": 82,
-      "score_notif": 31,
-      "cluster": "20261029-e721bfd451d5",
-      "cluster_main": true
     }
   ]
 }
