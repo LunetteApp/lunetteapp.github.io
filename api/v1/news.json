@@ -1,6 +1,6 @@
 {
-  "content_hash": "b6c38e99389cf77df30272b097837d13b0bb340a2bcd173221ff931402ee1ed2",
-  "last_updated": "2026-11-06T19:47:45.092Z",
+  "content_hash": "690fc3623d53eca785da18a33d56143c44eb87362c9718ad8725227a437f5dff",
+  "last_updated": "2026-11-06T20:47:48.423Z",
   "premium": {
     "links": []
   },
@@ -17,7 +17,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-06T19:00:30.000Z"
+      "latest_article_at": "2026-11-06T20:00:08.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T18:00:00.000Z"
+      "estimated_articles_per_day": 2.7,
+      "new_articles_since_last_update": 2,
+      "latest_article_at": "2026-11-06T20:25:10.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,21 @@
   ],
   "items": [
     {
+      "title": "Introducing: CWC Navy Eighty CD-1",
+      "url": "https://www.hodinkee.com/articles/cwc-navy-eighty-automatic",
+      "image": "https://hodinkee.imgix.net/uploads/articles/14f81402-166b-4cfa-8ab9-d9c8646bfe74/3Q2A9178-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "CWC fuses throwback looks with modern details in their latest military-derived civilian diver.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T20:25:10.000Z",
+      "score_quality": 72,
+      "score_notif": 63,
+      "cluster": "20261106-e869ce947202",
+      "cluster_main": true
+    },
+    {
       "title": "The New G-SHOCK GMC2500 Makes the Case for Being Unreachable",
       "url": "https://wornandwound.com/the-new-g-shock-gmc2500-makes-the-case-for-being-unreachable/",
       "image": "https://wornandwound.com/library/uploads/2026/11/2026_11_GSHOCK_GMC2500_WL-ANALOG_032.jpg",
@@ -218,21 +233,6 @@
       "score_notif": 60,
       "cluster": "20261106-15c4a46f26cd",
       "cluster_main": false
-    },
-    {
-      "title": "Auctions: Our Top Picks From The Watches For ELA Charity Auction",
-      "url": "https://www.hodinkee.com/articles/our-picks-from-the-watches-for-ela-charity-auction",
-      "image": "https://hodinkee.imgix.net/uploads/articles/1b980be6-feda-4bd3-a7da-633a5d1c2af3/hero-4.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Some standouts from the Watches for ELA charity auction at Christie’s, led by Zinédine Zidane’s first Cartier.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T18:00:00.000Z",
-      "score_quality": 63,
-      "score_notif": 44,
-      "cluster": "20261106-b07c6a0fcd2b",
-      "cluster_main": true
     },
     {
       "title": "Seiko 5 Sports Field GMT SSK059 'Polar' Review",
@@ -335,21 +335,6 @@
       "score_quality": 64,
       "score_notif": 32,
       "cluster": "20261104-5ecfec289310",
-      "cluster_main": true
-    },
-    {
-      "title": "Bring a Loupe: An André Beyner/Maurice Grimm Prototype, A Yema Yachtingraf Regatte, An Omega Seamaster Recife, And A Tropical Rolex Daytona",
-      "url": "https://www.hodinkee.com/articles/an-andre-beynermaurice-grimm-prototype-a-yema-yachtingraf-regatte-an-omega-seamaster-recife-and-a-tr",
-      "image": "https://hodinkee.imgix.net/uploads/articles/75b3d38a-423b-44e9-b350-bb25a10b4a19/Nov-6-BAL-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T16:00:00.000Z",
-      "score_quality": 38,
-      "score_notif": 15,
-      "cluster": "20261106-06690c40bf8e",
       "cluster_main": true
     },
     {
@@ -906,7 +891,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Serica Introduces the 8315-3 Golden Green Travel Chronometer",
@@ -924,7 +909,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Serica preps its Travel Chronometer for the golden hour with the new Golden Green Ref. 8315-03",
@@ -1063,7 +1048,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1082,7 +1067,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1316,21 +1301,6 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261104-adc93fc58c68",
-      "cluster_main": true
-    },
-    {
-      "title": "Happenings: The 2026 GPHG Is Almost Here – Tune In On November 7 For The Winners",
-      "url": "https://www.hodinkee.com/articles/the-2026-gphg-is-almost-here-tune-in-on-november-7-for-the-winners",
-      "image": "https://hodinkee.imgix.net/uploads/articles/6a2a3df0-660e-47f7-9333-72d240a87471/20261029184839_gphg-expo_mah-1920x1281.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "What to expect from this year's Grand Prix d’Horlogerie de Genève and where to watch the awards ceremony live.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-04T14:12:00.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261104-1c5a697c7132",
       "cluster_main": true
     },
     {
@@ -1608,7 +1578,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Formex Essence Ceramica Redshift",
@@ -1706,7 +1676,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On With Louis Vuitton’s Fashionable, Lugless, Ceramic-Cased Monterey Watches",
@@ -1854,24 +1824,6 @@
       "score_notif": 34,
       "cluster": "20261102-7ff9a0a3b15b",
       "cluster_main": false
-    },
-    {
-      "title": "Direnzo Introduces their First GMT, the DRZ 08 Cosmonaire",
-      "url": "https://wornandwound.com/direnzo-introduces-their-first-gmt-the-drz-08-cosmonaire/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Direnzo-Cosmonaire-20.jpg",
-      "peek_preview": "As Direnzo heads toward their tenth anniversary next year, they’ve just introduced their very first GMT equipped watch, the DRZ 08 Cosmonaire. Inspired by the future oriented design of the Space Age, the Cosmonaire is,...",
-      "categories": [
-        "News & Releases",
-        "Direnzo"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-02T20:00:05.000Z",
-      "score_quality": 72,
-      "score_notif": 31,
-      "cluster": "20261102-5d3c2601c395",
-      "cluster_main": true
     },
     {
       "title": "Atelier Wen Inflection Tantalum Review: An Unexpected Integrated Bracelet Watch",
@@ -2471,21 +2423,6 @@
       "score_quality": 47,
       "score_notif": 34,
       "cluster": "20261030-fb1cde40d119",
-      "cluster_main": true
-    },
-    {
-      "title": "Breguet’s best watch in years has one problem",
-      "url": "https://www.unpolishedwatches.com/p/breguets-best-watch-in-years-has",
-      "image": "https://substackcdn.com/image/fetch/$s_!9h_L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1b0dd0a-46a7-426e-b047-d30d58e49a64_2048x2048.jpeg",
-      "peek_preview": "A $185,000 tourbillon, when prototypes aren’t ready, and whether you can ever really see everything.",
-      "categories": [],
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T13:00:21.000Z",
-      "score_quality": 31,
-      "score_notif": 33,
-      "cluster": "20261030-293583183d27",
       "cluster_main": true
     }
   ]
