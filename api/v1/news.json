@@ -1,6 +1,6 @@
 {
-  "content_hash": "901fac859480fa27b4c07321072d48b3d4678cc362f4a14c0ea0773b2b40ffc8",
-  "last_updated": "2026-11-06T18:47:40.855Z",
+  "content_hash": "b6c38e99389cf77df30272b097837d13b0bb340a2bcd173221ff931402ee1ed2",
+  "last_updated": "2026-11-06T19:47:45.092Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T15:00:46.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T19:00:30.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,14 +44,14 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T17:46:10.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T18:19:31.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T18:00:00.000Z"
     },
     {
@@ -106,7 +106,7 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-05T23:01:12.000Z"
     },
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "The New G-SHOCK GMC2500 Makes the Case for Being Unreachable",
+      "url": "https://wornandwound.com/the-new-g-shock-gmc2500-makes-the-case-for-being-unreachable/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/2026_11_GSHOCK_GMC2500_WL-ANALOG_032.jpg",
+      "peek_preview": "Here’s a confession most of us won’t make out loud: we likely check our phones more than we check our watches. A text lands, a calendar alert chirps, and suddenly the thing that’s supposed to keep us connected is dictat...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T19:00:30.000Z",
+      "score_quality": 66,
+      "score_notif": 31,
+      "cluster": "20261030-b060d6952ae1",
+      "cluster_main": true
+    },
     {
       "title": "Praesidus Expands Horizons With New Montar Outdoor Watch Collection",
       "url": "https://www.atimelyperspective.com/praesidus-expands-horizons-with-new-montar-outdoor-watch-collection-price/",
@@ -701,7 +718,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
@@ -734,7 +751,7 @@
       "featured": false,
       "published_at": "2026-11-05T19:00:48.000Z",
       "score_quality": 78,
-      "score_notif": 44,
+      "score_notif": 34,
       "cluster": "20261105-d06a9eddcfde",
       "cluster_main": true
     },
@@ -1046,7 +1063,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1376,7 +1393,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1591,7 +1608,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Formex Essence Ceramica Redshift",
@@ -1689,7 +1706,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On With Louis Vuitton’s Fashionable, Lugless, Ceramic-Cased Monterey Watches",
@@ -1750,7 +1767,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -2297,9 +2314,9 @@
       "featured": false,
       "published_at": "2026-10-30T21:00:44.000Z",
       "score_quality": 42,
-      "score_notif": 24,
+      "score_notif": 31,
       "cluster": "20261030-b060d6952ae1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Louis Erard x Vianney Halter Futur Antérieur: 2 Uhren für Kapitän Nemo",
@@ -2469,27 +2486,6 @@
       "score_quality": 31,
       "score_notif": 33,
       "cluster": "20261030-293583183d27",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Tissot PRX Quartz Chronograph Watch Is A Long-Overdue Value Leader",
-      "url": "https://www.ablogtowatch.com/hands-on-the-tissot-prx-quartz-chronograph-watch-is-a-long-overdue-value-leader/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Tissot-PRX-Quartz-Chronograph-LOR-Crop-768x346.jpg",
-      "peek_preview": "In the handful of years since Tissot launched the modern PRX, the integrated sports watch series has become a de facto default choice for enthusiasts around the world. Countless advice pieces have been written by profes...",
-      "categories": [
-        "Hands-On",
-        "Chronograph Watches",
-        "Integrated Bracelet Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T12:00:22.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261030-03b100feb023",
       "cluster_main": true
     }
   ]
