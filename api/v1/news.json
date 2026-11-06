@@ -1,6 +1,6 @@
 {
-  "content_hash": "15400e25508577ad0db17addae8fbd5a5da7372ab8c9e4c24f793bdcd0990515",
-  "last_updated": "2026-11-06T17:48:03.214Z",
+  "content_hash": "901fac859480fa27b4c07321072d48b3d4678cc362f4a14c0ea0773b2b40ffc8",
+  "last_updated": "2026-11-06T18:47:40.855Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T17:10:44.000Z"
     },
     {
@@ -44,15 +44,15 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T19:31:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T17:46:10.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T11:27:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T18:19:31.000Z"
     },
     {
       "source_name": "Deployant",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T16:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T18:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
+      "estimated_articles_per_day": 1.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T13:11:51.000Z"
     },
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T17:09:52.000Z"
     },
     {
@@ -175,6 +175,63 @@
     }
   ],
   "items": [
+    {
+      "title": "Praesidus Expands Horizons With New Montar Outdoor Watch Collection",
+      "url": "https://www.atimelyperspective.com/praesidus-expands-horizons-with-new-montar-outdoor-watch-collection-price/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/MONTAR-Image-10-Sept-2026-Mobile-08-819x1024.jpg",
+      "peek_preview": "For the past seven years, American watch brand Praesidus has been making a name for itself with military-inspired and commemorative watches that tell stories of courage, service and significant moments in history. Now,...",
+      "categories": [
+        "Affordable Watches",
+        "Field Watches",
+        "Outdoor Watches",
+        "Sport Watches",
+        "Timepieces News, Reviews and Articles",
+        "Watches Retailing Less Than $1000",
+        "adventure watches",
+        "ana-digi watches",
+        "outdoor watches",
+        "Praesidus Montar Ana-Digi",
+        "Praesidus Montar GMT"
+      ],
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T18:19:31.000Z",
+      "score_quality": 54,
+      "score_notif": 60,
+      "cluster": "20261106-15c4a46f26cd",
+      "cluster_main": false
+    },
+    {
+      "title": "Auctions: Our Top Picks From The Watches For ELA Charity Auction",
+      "url": "https://www.hodinkee.com/articles/our-picks-from-the-watches-for-ela-charity-auction",
+      "image": "https://hodinkee.imgix.net/uploads/articles/1b980be6-feda-4bd3-a7da-633a5d1c2af3/hero-4.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Some standouts from the Watches for ELA charity auction at Christie’s, led by Zinédine Zidane’s first Cartier.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T18:00:00.000Z",
+      "score_quality": 63,
+      "score_notif": 44,
+      "cluster": "20261106-b07c6a0fcd2b",
+      "cluster_main": true
+    },
+    {
+      "title": "Seiko 5 Sports Field GMT SSK059 'Polar' Review",
+      "url": "https://teddybaldassarre.com/blogs/watches/seiko-ssk059-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-5-Sports-SSK059-FieldGMT-flat-2.jpg?v=1793981044",
+      "peek_preview": "The Seiko 5 Sports Field GMT SSK059 is about as good as a mechanical field GMT gets for $450. The white dial, orange GMT hand, and fixed steel bezel give it a different look from Seiko’s SKX GMTs, but the no-nonsense ca...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T17:46:10.000Z",
+      "score_quality": 76,
+      "score_notif": 32,
+      "cluster": "20261106-1963a793a062",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The New Klokers KLOK03, the Disc Watch Goes Automatic for the First Time",
       "url": "https://monochrome-watches.com/2026-new-klokers-klok03-disc-watch-now-goes-automatic-review-price/",
@@ -644,7 +701,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
@@ -713,7 +770,7 @@
       "featured": false,
       "published_at": "2026-11-05T18:01:42.000Z",
       "score_quality": 84,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261105-f7b72c08a422",
       "cluster_main": true
     },
@@ -732,7 +789,7 @@
       "featured": false,
       "published_at": "2026-11-05T18:00:40.000Z",
       "score_quality": 78,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261105-f7b72c08a422",
       "cluster_main": false
     },
@@ -989,7 +1046,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1490,21 +1547,6 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261103-ed01eef73641",
-      "cluster_main": true
-    },
-    {
-      "title": "Inside The Manufacture: A Visit To Casio's Yamagata Factory",
-      "url": "https://www.hodinkee.com/articles/casio-yamagata-visit",
-      "image": "https://hodinkee.imgix.net/uploads/articles/7cac5a42-a008-462f-8bfb-2d3922c24b0f/casio-yamagata-header1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "What \"Made in Japan\" looks like for a brand producing some of the most iconic watches out there.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T17:00:00.000Z",
-      "score_quality": 89,
-      "score_notif": 34,
-      "cluster": "20261103-f01e2e9fc946",
       "cluster_main": true
     },
     {
@@ -2448,36 +2490,6 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261030-03b100feb023",
-      "cluster_main": true
-    },
-    {
-      "title": "Inhorgenta 2027: Neue Uhrenmarken und starke Rückkehrer",
-      "url": "https://www.uhrenkosmos.com/inhorgenta-2027-neue-uhrenmarken-rueckkehrer/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Inhorgenta-2027-Rueckkehr-Frederique-Constant.jpg",
-      "peek_preview": "Bremont, U-Boat, Auguste Reymond und cauny kommen erstmals zur Inhorgenta 2027, Frederique Constant, Alpina und Garmin kehren zurück.",
-      "categories": [
-        "Messen",
-        "Handel & Auktionen",
-        "Alpina",
-        "Auguste Reymond",
-        "Bremont",
-        "Cauny",
-        "Frederique Constant",
-        "Garmin",
-        "Inhorgenta",
-        "Inhorgenta 2027",
-        "Markus Rettig",
-        "Münchner Uhrenmesse",
-        "Peers Hardy",
-        "U-Boat"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-30T11:43:34.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20261030-aac89829e3a1",
       "cluster_main": true
     }
   ]
