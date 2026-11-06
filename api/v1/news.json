@@ -1,6 +1,6 @@
 {
-  "content_hash": "99fe435603765ac9e224ddc9c27ab00ed080e840a45c7db9b86c6bc39e80f6ca",
-  "last_updated": "2026-11-06T15:46:48.198Z",
+  "content_hash": "d1870a67b0c41690eb892fd1827182799809f06396f5a4d597cf01f7d6e9b7f8",
+  "last_updated": "2026-11-06T16:47:25.312Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T15:00:46.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -127,9 +127,9 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.9,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-06T15:21:14.000Z"
+      "latest_article_at": "2026-11-06T16:01:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T16:54:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T16:01:26.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Garmin MARQ 3: Zum Ersten, zum Zweiten, zur Dritten!",
+      "url": "https://www.uhrenkosmos.com/garmin-marq-3-generation-der-luxus-smartwatch/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Garmin-MARQ-3-Generation-Modellvarianten-Athlete-Adventurer-Golfer-Aviator-Commander-und-Diver.jpg",
+      "peek_preview": "Garmin traut sich was und geht bei seinen Luxus-Smartwatches den nächsten Schritt. Mit der Garmin MARQ 3 geht die dritte Generation an den Start. Wir zeigen die neuen unterschiedlichen Modelle und beleuchten den Weg des...",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Marken & Macher",
+        "Garmin",
+        "Garmin MARQ 3",
+        "Luxus-Smartwatch",
+        "MARQ 3",
+        "Smartwatch"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-06T16:01:26.000Z",
+      "score_quality": 58,
+      "score_notif": 60,
+      "cluster": "20261106-bef54f223551",
+      "cluster_main": true
+    },
+    {
+      "title": "Depancel Autosport 2 Tours d’Horloge : 24 heures à compter soi-même",
+      "url": "https://www.welovewatches.fr/depancel-autosport-2-tours-dhorloge-24-heures-a-compter-soi-meme.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/depancel_autosport_2_tours_horloge_une_1940x1280.jpg",
+      "peek_preview": "Avec un poussoir et deux sous-compteurs, cette Depancel pourrait passer pour un chronographe. Le poussoir commande en réalité l’aiguille du mois, que la marque a réemployée pour suivre les heures de course. Une idée ass...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-06T16:01:00.000Z",
+      "score_quality": 64,
+      "score_notif": 32,
+      "cluster": "20261104-5ecfec289310",
+      "cluster_main": true
+    },
+    {
+      "title": "Bring a Loupe: An André Beyner/Maurice Grimm Prototype, A Yema Yachtingraf Regatte, An Omega Seamaster Recife, And A Tropical Rolex Daytona",
+      "url": "https://www.hodinkee.com/articles/an-andre-beynermaurice-grimm-prototype-a-yema-yachtingraf-regatte-an-omega-seamaster-recife-and-a-tr",
+      "image": "https://hodinkee.imgix.net/uploads/articles/75b3d38a-423b-44e9-b350-bb25a10b4a19/Nov-6-BAL-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T16:00:00.000Z",
+      "score_quality": 38,
+      "score_notif": 15,
+      "cluster": "20261106-06690c40bf8e",
+      "cluster_main": true
+    },
     {
       "title": "Introducing the Praesidus Montar Ranger Ana-Digi and GMT",
       "url": "https://wornandwound.com/introducing-the-praesidus-montar-ranger-ana-digi-and-gmt/",
@@ -375,7 +431,7 @@
       "score_quality": 87,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -393,7 +449,7 @@
       "score_quality": 84,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Silently Introduces Two New Seamaster Diver 300M Models In Blue And Brown Ceramic",
@@ -541,7 +597,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
@@ -688,7 +744,7 @@
       "featured": false,
       "published_at": "2026-11-05T16:00:00.000Z",
       "score_quality": 84,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261105-c8516bfd449a",
       "cluster_main": true
     },
@@ -905,7 +961,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1216,7 +1272,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1252,9 +1308,9 @@
       "featured": false,
       "published_at": "2026-11-04T11:12:58.000Z",
       "score_quality": 57,
-      "score_notif": 34,
+      "score_notif": 32,
       "cluster": "20261104-5ecfec289310",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Roger Dubuis Presents the Excalibur Lady of the Lake Hawthorn Edition",
@@ -1504,21 +1560,6 @@
       "cluster_main": true
     },
     {
-      "title": "Just Because: How To Spend $250 At Windup New York",
-      "url": "https://www.hodinkee.com/articles/windup-watch-fair-dollar250-challenge",
-      "image": "https://hodinkee.imgix.net/uploads/images/8437ce21-f237-4827-b291-78b75ad14758/Headerimage.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "James Stacey and Tim Jeffreys go head-to-head in a watch-themed shopping challenge – who spent it the best?",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T15:00:00.000Z",
-      "score_quality": 48,
-      "score_notif": 27,
-      "cluster": "20261103-23a832f12dc9",
-      "cluster_main": true
-    },
-    {
       "title": "News: Swatch Group USA Names Bertrand Delvert CEO—The Company Looks to Paris, Not Miami, for Its New Leader",
       "url": "https://www.watchcollectinglifestyle.com/home/swatch-group-usa-names-bertrand-delvert-ceo",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793716952247-82LWQSK7PI3C2AMIL7YS/Bertrand+Delvert+CEO+Swatch+Group+USA.jpg?format=1500w",
@@ -1657,7 +1698,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -2444,23 +2485,6 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261030-49de3e3461f4",
-      "cluster_main": true
-    },
-    {
-      "title": "Audemars Piguet lance The Watch Keepers : le vrai coût de son CPO",
-      "url": "https://www.welovewatches.fr/audemars-piguet-lance-the-watch-keepers-le-vrai-cout-de-son-cpo.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/ap_the_watch_keepers_une_1940x1280.jpg",
-      "peek_preview": "Le programme d’occasion certifiée d’Audemars Piguet est désormais lancé. Baptisé The Watch Keepers, il associe une plateforme de vente en ligne, l’authentification par la manufacture et une garantie de deux ans. Un cadr...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-30T09:11:40.000Z",
-      "score_quality": 70,
-      "score_notif": 34,
-      "cluster": "20261030-bb1b5370536f",
       "cluster_main": true
     }
   ]
