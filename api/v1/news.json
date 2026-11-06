@@ -1,6 +1,6 @@
 {
-  "content_hash": "690fc3623d53eca785da18a33d56143c44eb87362c9718ad8725227a437f5dff",
-  "last_updated": "2026-11-06T20:47:48.423Z",
+  "content_hash": "1de2e3f7a92c8d34b3f9687d6fa07bf4cde4f13fcce19e06bbd1ed4888b524e5",
+  "last_updated": "2026-11-06T21:47:36.543Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T20:00:08.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.7,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T20:25:10.000Z"
     },
     {
@@ -891,7 +891,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Serica Introduces the 8315-3 Golden Green Travel Chronometer",
@@ -909,7 +909,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Serica preps its Travel Chronometer for the golden hour with the new Golden Green Ref. 8315-03",
@@ -1048,7 +1048,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1067,7 +1067,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1363,7 +1363,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1737,7 +1737,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -2423,6 +2423,89 @@
       "score_quality": 47,
       "score_notif": 34,
       "cluster": "20261030-fb1cde40d119",
+      "cluster_main": true
+    },
+    {
+      "title": "Breguet’s best watch in years has one problem",
+      "url": "https://www.unpolishedwatches.com/p/breguets-best-watch-in-years-has",
+      "image": "https://substackcdn.com/image/fetch/$s_!9h_L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1b0dd0a-46a7-426e-b047-d30d58e49a64_2048x2048.jpeg",
+      "peek_preview": "A $185,000 tourbillon, when prototypes aren’t ready, and whether you can ever really see everything.",
+      "categories": [],
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T13:00:21.000Z",
+      "score_quality": 28,
+      "score_notif": 14,
+      "cluster": "20261030-293583183d27",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: The Tissot PRX Quartz Chronograph Watch Is A Long-Overdue Value Leader",
+      "url": "https://www.ablogtowatch.com/hands-on-the-tissot-prx-quartz-chronograph-watch-is-a-long-overdue-value-leader/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Tissot-PRX-Quartz-Chronograph-LOR-Crop-768x346.jpg",
+      "peek_preview": "In the handful of years since Tissot launched the modern PRX, the integrated sports watch series has become a de facto default choice for enthusiasts around the world. Countless advice pieces have been written by profes...",
+      "categories": [
+        "Hands-On",
+        "Chronograph Watches",
+        "Integrated Bracelet Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-10-30T12:00:22.000Z",
+      "score_quality": 74,
+      "score_notif": 24,
+      "cluster": "20261030-03b100feb023",
+      "cluster_main": true
+    },
+    {
+      "title": "Inhorgenta 2027: Neue Uhrenmarken und starke Rückkehrer",
+      "url": "https://www.uhrenkosmos.com/inhorgenta-2027-neue-uhrenmarken-rueckkehrer/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Inhorgenta-2027-Rueckkehr-Frederique-Constant.jpg",
+      "peek_preview": "Bremont, U-Boat, Auguste Reymond und cauny kommen erstmals zur Inhorgenta 2027, Frederique Constant, Alpina und Garmin kehren zurück.",
+      "categories": [
+        "Messen",
+        "Handel & Auktionen",
+        "Alpina",
+        "Auguste Reymond",
+        "Bremont",
+        "Cauny",
+        "Frederique Constant",
+        "Garmin",
+        "Inhorgenta",
+        "Inhorgenta 2027",
+        "Markus Rettig",
+        "Münchner Uhrenmesse",
+        "Peers Hardy",
+        "U-Boat"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-30T11:43:34.000Z",
+      "score_quality": 62,
+      "score_notif": 22,
+      "cluster": "20261030-aac89829e3a1",
+      "cluster_main": true
+    },
+    {
+      "title": "Zenith : 200 emplois menacés, le pari risqué du très haut de gamme",
+      "url": "https://www.welovewatches.fr/zenith-200-emplois-menaces-le-pari-risque-du-tres-haut-de-gamme.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2024/01/2-STILL-1_Chronomaster-Original_03.3400.3610.38.C911_16x9-5.jpg",
+      "peek_preview": "Zenith a ouvert une consultation sur un projet qui pourrait supprimer environ 100 emplois au Locle et autant à l’international. La manufacture de LVMH prépare une transformation radicale de son catalogue et de sa distri...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-30T10:05:26.000Z",
+      "score_quality": 71,
+      "score_notif": 34,
+      "cluster": "20261030-49de3e3461f4",
       "cluster_main": true
     }
   ]
