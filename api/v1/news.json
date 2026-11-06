@@ -1,6 +1,6 @@
 {
-  "content_hash": "d54af33ae3577edde62476fc7e3197d1cda180344d22d7839e0acc9074f6b926",
-  "last_updated": "2026-11-06T10:46:55.818Z",
+  "content_hash": "6af42c86a74b09c036ee6b56efdb0d4fac86c253c1905875d0dc665fe07ad38b",
+  "last_updated": "2026-11-06T11:47:30.265Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T10:00:39.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T10:00:46.000Z"
     },
     {
@@ -36,9 +36,9 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-04T16:30:28.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T10:55:39.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Eric Wind and Charlie Dunne on Speculation, Patek Philippe, + Eric Selling Half His Collection (Wind Vintage)",
+      "url": "https://www.unpolishedwatches.com/p/eric-wind-and-charlie-dunne-on-speculation",
+      "image": "https://substackcdn.com/image/fetch/$s_!XNoT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35351e74-4aae-41e9-b25b-a921ac6d5ec5_1956x1120.jpeg",
+      "peek_preview": "A market update, why Vacheron is one of their ‘brands of the year,’ and we even identify a fake Paul Newman!",
+      "categories": [],
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T10:55:39.000Z",
+      "score_quality": 76,
+      "score_notif": 46,
+      "cluster": "20261106-055366c9c952",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Andersen Geneve Communication 45 Supersonic London Takes Flight",
       "url": "https://monochrome-watches.com/introducing-andesen-geneve-communication-45-supersonic-london-edition-concorde-a-schild-worldtimer-specs-price/",
@@ -684,7 +699,7 @@
       "featured": false,
       "published_at": "2026-11-05T11:01:05.000Z",
       "score_quality": 83,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261105-8caa8856b548",
       "cluster_main": true
     },
@@ -1073,7 +1088,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1377,7 +1392,7 @@
       "published_at": "2026-11-03T15:51:30.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261103-260d4f2633b6",
+      "cluster": "20261103-481e652117f6",
       "cluster_main": true
     },
     {
@@ -1491,7 +1506,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On With Louis Vuitton’s Fashionable, Lugless, Ceramic-Cased Monterey Watches",
@@ -1552,7 +1567,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -1601,7 +1616,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -1894,7 +1909,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
@@ -2462,27 +2477,6 @@
       "score_quality": 72,
       "score_notif": 24,
       "cluster": "20261029-ff9ec6ac3a92",
-      "cluster_main": true
-    },
-    {
-      "title": "Raymond Weil A.R.T.: il primo bracciale integrato per i 50 anni della Maison",
-      "url": "https://www.watchinsanity.it/raymond-weil-art-50th-anniversary-integrated-bracelet/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/10/Senza-titolo-1-682x1024.jpg",
-      "peek_preview": "Raymond Weil A.R.T. celebra i 50 anni della Maison con il primo bracciale integrato: modelli automatici da 38 mm e versioni al quarzo da 30 mm. The post Raymond Weil A.R.T.: il primo bracciale integrato per i 50 anni de...",
-      "categories": [
-        "News",
-        "Smart Ones",
-        "Timepieces",
-        "Raymond Weil",
-        "Time Only"
-      ],
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-29T15:21:23.000Z",
-      "score_quality": 50,
-      "score_notif": 30,
-      "cluster": "20261029-91eb44bcadf9",
       "cluster_main": true
     }
   ]
