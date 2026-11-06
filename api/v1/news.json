@@ -1,6 +1,6 @@
 {
-  "content_hash": "6af42c86a74b09c036ee6b56efdb0d4fac86c253c1905875d0dc665fe07ad38b",
-  "last_updated": "2026-11-06T11:47:30.265Z",
+  "content_hash": "54ef195562e5254df8c90b9a2e24f024702c778743d8124034d5021c34819e67",
+  "last_updated": "2026-11-06T12:47:01.587Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T10:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T12:00:42.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T10:55:39.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T06:00:51.000Z"
     },
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-04T11:52:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T12:27:53.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,42 @@
     }
   ],
   "items": [
+    {
+      "title": "F.P.Journe e Breguet, le ragioni di un’eredità",
+      "url": "https://giornaleorologi.it/2026/11/06/f-p-journe-e-breguet-le-ragioni-di-uneredita/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/copertina-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - F.P.Journe e Breguet, le ragioni di un’eredità «François-Paul Journe è quanto di più vicino si possa immaginare alla persona (…) di Abraham-Louis Breguet». Così scriveva Augusto Veroni sul Gior...",
+      "categories": [
+        "Storia e storie",
+        "F.P.Journe Invenit et Fecit",
+        "François-Paul Journe"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-06T12:27:53.000Z",
+      "score_quality": 54,
+      "score_notif": 27,
+      "cluster": "20261106-c2ded365e38a",
+      "cluster_main": true
+    },
+    {
+      "title": "[Video] Hands-On With The New Breguet Marine Collection",
+      "url": "https://www.fratellowatches.com/video-hands-on-with-the-new-breguet-marine-collection/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Breguet-Marine-models-35.jpg",
+      "peek_preview": "Last month, we introduced you to the new updates in the Breguet Marine collection (find them here). Meanwhile, we’ve had the opportunity to go hands-on with six of them. The three-handers (5517) and the flyback chronogr...",
+      "categories": [
+        "Hands-On"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T12:00:42.000Z",
+      "score_quality": 76,
+      "score_notif": 46,
+      "cluster": "20261106-b769f6d81231",
+      "cluster_main": true
+    },
     {
       "title": "Eric Wind and Charlie Dunne on Speculation, Patek Philippe, + Eric Selling Half His Collection (Wind Vintage)",
       "url": "https://www.unpolishedwatches.com/p/eric-wind-and-charlie-dunne-on-speculation",
@@ -248,7 +284,7 @@
       "score_quality": 87,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -266,7 +302,7 @@
       "score_quality": 84,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Silently Introduces Two New Seamaster Diver 300M Models In Blue And Brown Ceramic",
@@ -414,7 +450,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
@@ -602,7 +638,7 @@
       "score_quality": 86,
       "score_notif": 66,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Serica Introduces the 8315-3 Golden Green Travel Chronometer",
@@ -620,7 +656,7 @@
       "score_quality": 76,
       "score_notif": 66,
       "cluster": "20261105-eadd13b58afc",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Serica preps its Travel Chronometer for the golden hour with the new Golden Green Ref. 8315-03",
@@ -759,7 +795,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1088,7 +1124,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1146,24 +1182,6 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261104-38094cb1bcf0",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On With The Unusual Chopard L.U.C 1963 Heritage Regulator",
-      "url": "https://www.fratellowatches.com/the-unusual-chopard-l-u-c-1963-heritage-regulator/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Chopard-L.U.C-1963-Heritage-Regulator-12.jpg",
-      "peek_preview": "You don’t see watches like this too often, so if you have to look twice to understand what’s going on, that’s perfectly understandable. I had to look twice at the unusual Chopard L.U.C 1963 Heritage Regulator to realize...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-04T10:00:41.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261104-eb1cf45b1e71",
       "cluster_main": true
     },
     {
@@ -1567,7 +1585,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -2462,21 +2480,6 @@
       "score_quality": 82,
       "score_notif": 31,
       "cluster": "20261029-e721bfd451d5",
-      "cluster_main": true
-    },
-    {
-      "title": "Jaeger-LeCoultre Polaris Date 40mm Review: A Smaller Take on the Diving Classic",
-      "url": "https://teddybaldassarre.com/blogs/watches/jaeger-lecoultre-polaris-date-40mm-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Memovox_and_Polaris.jpg?v=1793289930",
-      "peek_preview": "The Polaris plays a different role in Jaeger-LeCoultre's catalog than the famed Reverso, complicated calendars, and many dress watches for which the manufacture is best known. It is, in essence, the brand’s one true spo...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-29T16:56:36.000Z",
-      "score_quality": 72,
-      "score_notif": 24,
-      "cluster": "20261029-ff9ec6ac3a92",
       "cluster_main": true
     }
   ]
