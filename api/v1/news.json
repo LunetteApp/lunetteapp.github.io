@@ -1,6 +1,6 @@
 {
-  "content_hash": "d1870a67b0c41690eb892fd1827182799809f06396f5a4d597cf01f7d6e9b7f8",
-  "last_updated": "2026-11-06T16:47:25.312Z",
+  "content_hash": "15400e25508577ad0db17addae8fbd5a5da7372ab8c9e4c24f793bdcd0990515",
+  "last_updated": "2026-11-06T17:48:03.214Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T14:00:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T17:10:44.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T16:00:00.000Z"
     },
     {
@@ -120,15 +120,15 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T07:30:00.000Z"
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T17:09:52.000Z"
     },
     {
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T16:01:00.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T16:01:26.000Z"
     },
     {
@@ -175,6 +175,53 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The New Klokers KLOK03, the Disc Watch Goes Automatic for the First Time",
+      "url": "https://monochrome-watches.com/2026-new-klokers-klok03-disc-watch-now-goes-automatic-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Klokers-KLOK03-First-Automatic-Collection-review-1-600x237.jpg",
+      "peek_preview": "Come to think of it, there aren’t many watches that are read like a Klokers. The brand has replaced hands with stacked discs and a single line of reading. A slide-ruler-inspired take on time display that was accessibly...",
+      "categories": [
+        "Klokers",
+        "2026",
+        "Novelty",
+        "Other Display",
+        "Value Proposition"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T17:10:44.000Z",
+      "score_quality": 77,
+      "score_notif": 64,
+      "cluster": "20261106-9351bef4a8c3",
+      "cluster_main": true
+    },
+    {
+      "title": "Rolex verso il miliardo di dollari: il boom del Certified Pre-Owned",
+      "url": "https://italianwatchspotter.com/rolex-certified-pre-owned-miliardo/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/boutique_rolex-1-1024x538.png",
+      "peek_preview": "Fino a pochi anni fa la compravendita di orologi era polarizzata tra boutique ufficiali ed il mercato secondario. Sembrava che questi due mondi non potessero condividere nulla e che, a voler esasperare la cosa, il secon...",
+      "categories": [
+        "News",
+        "Bucherer",
+        "certified pre-owned",
+        "Mercato Orologi",
+        "Orologi vintage",
+        "rolex",
+        "Rolex Certified Pre-Owned",
+        "Rolex CPO",
+        "Secondo Polso",
+        "WatchCharts"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-06T17:09:52.000Z",
+      "score_quality": 69,
+      "score_notif": 62,
+      "cluster": "20261106-651189840a31",
+      "cluster_main": true
+    },
     {
       "title": "Garmin MARQ 3: Zum Ersten, zum Zweiten, zur Dritten!",
       "url": "https://www.uhrenkosmos.com/garmin-marq-3-generation-der-luxus-smartwatch/",
@@ -431,7 +478,7 @@
       "score_quality": 87,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -449,7 +496,7 @@
       "score_quality": 84,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Silently Introduces Two New Seamaster Diver 300M Models In Blue And Brown Ceramic",
@@ -597,7 +644,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
@@ -729,7 +776,7 @@
       "featured": false,
       "published_at": "2026-11-05T16:54:02.000Z",
       "score_quality": 74,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261105-0f070480d93f",
       "cluster_main": true
     },
@@ -942,7 +989,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1272,7 +1319,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1311,26 +1358,6 @@
       "score_notif": 32,
       "cluster": "20261104-5ecfec289310",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing – Roger Dubuis Presents the Excalibur Lady of the Lake Hawthorn Edition",
-      "url": "https://monochrome-watches.com/roger-dubuis-presents-the-excalibur-lady-of-the-lake-hawthorn-edition/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Roger-Dubuis-Excalibur-Lady-of-the-Lake-Hawthorn-Edition-1-600x237.jpg",
-      "peek_preview": "Roger Dubuis created a powerful storyline for its Excalibur Knights of the Round Table watches, featuring incredibly detailed micro-sculptures and métiers d’art to depict scenes from Arthurian legend housed in large, co...",
-      "categories": [
-        "Roger Dubuis",
-        "2026",
-        "Novelty",
-        "Women's Watches"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-04T11:00:54.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261104-38094cb1bcf0",
-      "cluster_main": true
     },
     {
       "title": "Monaco Legend Group Auktionsergebnisse 2026: Starke Zahlen bei den Herbstauktionen",
@@ -1424,23 +1451,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261104-7c2a96e24e06",
-      "cluster_main": true
-    },
-    {
-      "title": "Looking Back at the 2026 NYC Windup Watch Fair: Energy, Enthusiasm, and Yes, the Line",
-      "url": "https://wornandwound.com/looking-back-at-the-2026-nyc-windup-watch-fair-energy-enthusiasm-and-yes-the-line/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/WUWF_NYC_GEN_058.jpg",
-      "peek_preview": "Another year of the Windup Watch Fair is in the books, and what a year it was. I’ve probably written or said some version of this a dozen times before, but when we started Windup in 2015, we had no idea what it would be...",
-      "categories": [
-        "Featured"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T21:00:38.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261103-83f26091927c",
       "cluster_main": true
     },
     {
@@ -1698,7 +1708,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -2468,23 +2478,6 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261030-aac89829e3a1",
-      "cluster_main": true
-    },
-    {
-      "title": "Zenith : 200 emplois menacés, le pari risqué du très haut de gamme",
-      "url": "https://www.welovewatches.fr/zenith-200-emplois-menaces-le-pari-risque-du-tres-haut-de-gamme.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2024/01/2-STILL-1_Chronomaster-Original_03.3400.3610.38.C911_16x9-5.jpg",
-      "peek_preview": "Zenith a ouvert une consultation sur un projet qui pourrait supprimer environ 100 emplois au Locle et autant à l’international. La manufacture de LVMH prépare une transformation radicale de son catalogue et de sa distri...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-30T10:05:26.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261030-49de3e3461f4",
       "cluster_main": true
     }
   ]
