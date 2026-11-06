@@ -1,6 +1,6 @@
 {
-  "content_hash": "9700ce56d8f613ae0a09df69cfb992b2339214aabee48541352bdcfe5c0f11bd",
-  "last_updated": "2026-11-06T13:47:57.629Z",
+  "content_hash": "66e3769f32d3e168f401d8d50528efac826f92b4d7552ac2e430b66623dfd9e9",
+  "last_updated": "2026-11-06T14:47:21.775Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T10:00:46.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T14:00:31.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,35 +58,35 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T19:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
+      "estimated_articles_per_day": 1.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T01:00:03.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T06:00:51.000Z"
+      "estimated_articles_per_day": 2.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T14:30:07.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T13:11:51.000Z"
     },
     {
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-05T06:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-06T13:48:56.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,62 @@
     }
   ],
   "items": [
+    {
+      "title": "The Trafford Violet Crown captures the spectacular sunsets of Austin, Texas",
+      "url": "https://timeandtidewatches.com/trafford-violet-crown-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/trafford-violet-crown-daytripper-featured-image.webp",
+      "peek_preview": "The Trafford Daytripper Violet Crown captures Austin's colourful sunsets with an insane gradient dial, limited to just 200 pieces The post The Trafford Violet Crown captures the spectacular sunsets of Austin, Texas appe...",
+      "categories": [
+        "Introducing",
+        "trafford"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T14:30:07.000Z",
+      "score_quality": 55,
+      "score_notif": 57,
+      "cluster": "20261106-5e3e8ae27d8f",
+      "cluster_main": true
+    },
+    {
+      "title": "First Look – Briston Presents the New Clubmaster Legend Compressor Collection in Steel and Signature Acetate",
+      "url": "https://monochrome-watches.com/briston-new-clubmaster-legend-compressor-collection-in-steel-and-acetate-accessible-automatic-dive-watch-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Briston-Clubmaster-Legend-Compressor-Steel-and-tortoiseshell-Acetate-review-12-600x237.jpg",
+      "peek_preview": "French brand Briston has built quite a nice little family around its Clubmaster Legend collection. These are accessible sporty-chic watches housed in cushion-shaped cases. Earlier this year, Briston dropped two new vers...",
+      "categories": [
+        "Briston",
+        "2026",
+        "Dive Watches",
+        "Novelty",
+        "Value Proposition"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-06T14:00:31.000Z",
+      "score_quality": 78,
+      "score_notif": 62,
+      "cluster": "20261106-3592daa88f77",
+      "cluster_main": true
+    },
+    {
+      "title": "Serica 8315-3 Golden Green : la GMT parisienne passe au vert olive",
+      "url": "https://www.welovewatches.fr/serica-8315-3-golden-green-la-gmt-parisienne-passe-au-vert-olive.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/serica_8315-3_golden_green_une_1940x1280.jpg",
+      "peek_preview": "Après le noir et le brun, Serica associe un cadran émaillé vert olive à une lunette qui tire, selon la lumière, sur le beige doré ou le vert amande. La 8315-3 est la troisième version...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-06T13:48:56.000Z",
+      "score_quality": 67,
+      "score_notif": 66,
+      "cluster": "20261105-eadd13b58afc",
+      "cluster_main": false
+    },
     {
       "title": "Introducing: URWERK UR-300 Time Quantum—The Hour Display That Rebuilds Itself in a Blink",
       "url": "https://www.watchcollectinglifestyle.com/home/urwerk-ur-300-time-quantum-limited-editions",
@@ -574,7 +630,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -812,7 +868,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1142,7 +1198,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1247,26 +1303,6 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261104-33debb0fab96",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – Audemars Piguet Adds Obsidian and Onyx Dials to the 38mm Code 11.59",
-      "url": "https://monochrome-watches.com/2026-audemars-piguet-code-11-59-selfwinding-38mm-obsidian-and-onyx-dials-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/2026-Audemars-Piguet-38-mm-Code-11.59-stone-dials-obsidian-and-onyx-1-600x237.jpg",
-      "peek_preview": "Audemars Piguet added a time-and-date 38mm Code 11.59 watch to the collection in 2023, a more compact, slimmer, and redesigned version of the original series launched in 2019. The first 38mm models came with stamped dia...",
-      "categories": [
-        "Audemars Piguet",
-        "2026",
-        "Luxury watch",
-        "Novelty"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-04T08:00:12.000Z",
-      "score_quality": 78,
-      "score_notif": 32,
-      "cluster": "20261102-1fd980f8c1a7",
       "cluster_main": true
     },
     {
@@ -1603,7 +1639,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -1652,7 +1688,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -1806,7 +1842,7 @@
       "score_quality": 82,
       "score_notif": 32,
       "cluster": "20261102-1fd980f8c1a7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Did Hublot just fix two key issues with its new Classic Fusion Tributo?",
@@ -1945,7 +1981,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
@@ -2053,23 +2089,6 @@
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
       "cluster_main": false
-    },
-    {
-      "title": "New releases from Girard-Perregaux, Laurent Ferrier, Vacheron Constantin and more",
-      "url": "https://timeandtidewatches.com/girard-perregaux-laurent-ferrier-vacheron-constantin-last-week-in-watches/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/vacheron-constantin-web.jpg",
-      "peek_preview": "A lot of variety last week, with everything from high-end métiers d'art to accessible luxury skeletonised pieces. The post New releases from Girard-Perregaux, Laurent Ferrier, Vacheron Constantin and more appeared first...",
-      "categories": [
-        "Last Week in Watches"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-31T14:30:23.000Z",
-      "score_quality": 36,
-      "score_notif": 25,
-      "cluster": "20261031-7f595d5517b6",
-      "cluster_main": true
     },
     {
       "title": "Bell & Ross BR-05 Chrono Snow Rocket: Speed Skiing Tribute With 60-Hour Calibre",
@@ -2443,25 +2462,6 @@
       "featured": false,
       "published_at": "2026-10-30T09:00:00.000Z",
       "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
-    },
-    {
-      "title": "New Oct 26: Louis Erard x Vianney Halter Futur Antérieur",
-      "url": "https://deployant.com/new-oct-26-louis-erard-x-vianney-halter-futur-anterieur/?utm_source=rss&utm_medium=rss&utm_campaign=new-oct-26-louis-erard-x-vianney-halter-futur-anterieur",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/22243AA07.BOA05-1.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors No need to sell your posterieur for this CHF 4,950 release by Louis Erard. The next evolution in the Lous Erard x Vianney Halter journey is now available in w...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T08:00:00.000Z",
-      "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
       "cluster_main": false
