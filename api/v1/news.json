@@ -1,6 +1,6 @@
 {
-  "content_hash": "8054a32e4a9e00ce46260d938f877e3a87fee89eba283e2e8fc64d46341f5f14",
-  "last_updated": "2026-11-07T13:47:12.819Z",
+  "content_hash": "d3d96f3e54dc987a404f5ea94fd22248f27c29e32f4a8619b156c42ac9dfcbb8",
+  "last_updated": "2026-11-07T14:47:42.789Z",
   "premium": {
     "links": []
   },
@@ -22,14 +22,14 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T09:01:33.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
+      "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T08:01:49.000Z"
     },
@@ -58,20 +58,20 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T20:25:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-07T14:25:36.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
+      "estimated_articles_per_day": 1.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T01:00:03.000Z"
     },
@@ -79,20 +79,20 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-07T12:01:17.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-07T14:30:56.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T13:00:00.000Z"
     },
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
-      "estimated_articles_per_day": 0.3,
+      "estimated_articles_per_day": 0.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-04T15:00:27.000Z"
     },
@@ -175,6 +175,39 @@
     }
   ],
   "items": [
+    {
+      "title": "New releases from Andersen, Roger Dubuis, Louis Vuitton and more",
+      "url": "https://timeandtidewatches.com/andersen-roger-dubuis-louis-vuitton-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/louis-vuitton-web-.jpg",
+      "peek_preview": "While Geneva hosts the Fall season of the auctions, focusing mostly on vintage pieces, the novelties don’t stop. From Louis Vuitton relaunching the successful Tambour Guichet in a different metal, Andersen continues its...",
+      "categories": [
+        "Last Week in Watches",
+        "last week in watches"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-07T14:30:56.000Z",
+      "score_quality": 31,
+      "score_notif": 24,
+      "cluster": "20261107-318dfb4ff355",
+      "cluster_main": true
+    },
+    {
+      "title": "Happenings: The 2026 GPHG Livestream",
+      "url": "https://www.hodinkee.com/articles/the-2026-gphg-livestream",
+      "image": "https://hodinkee.imgix.net/uploads/articles/617e64e3-c4b5-4620-81aa-bad591db4942/GPHG-2026-HERO.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "For the first time, the Grand Prix d’Horlogerie de Genève awards ceremony will be held in English.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-07T14:25:36.000Z",
+      "score_quality": 43,
+      "score_notif": 57,
+      "cluster": "20261107-4a003e0cad2f",
+      "cluster_main": true
+    },
     {
       "title": "NOMOS Club Sport neomatik 34 All Silver: Compact In-House 200M Sports Automatic",
       "url": "https://deployant.com/nomos-club-sport-neomatik-34-all-silver-compact-in-house-200m-sports-automatic/?utm_source=rss&utm_medium=rss&utm_campaign=nomos-club-sport-neomatik-34-all-silver-compact-in-house-200m-sports-automatic",
@@ -344,7 +377,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: CWC Navy Eighty CD-1",
@@ -540,7 +573,7 @@
       "featured": false,
       "published_at": "2026-11-06T14:30:07.000Z",
       "score_quality": 55,
-      "score_notif": 57,
+      "score_notif": 34,
       "cluster": "20261106-5e3e8ae27d8f",
       "cluster_main": true
     },
@@ -561,7 +594,7 @@
       "featured": false,
       "published_at": "2026-11-06T14:00:31.000Z",
       "score_quality": 78,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261106-3592daa88f77",
       "cluster_main": true
     },
@@ -1199,7 +1232,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1218,7 +1251,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1278,23 +1311,6 @@
       "score_quality": 72,
       "score_notif": 28,
       "cluster": "20261105-76b6afac9c8b",
-      "cluster_main": true
-    },
-    {
-      "title": "Fratello Talks: Recent Shifts In The Watch Industry",
-      "url": "https://www.fratellowatches.com/fratello-talks-recent-shifts-in-the-watch-industry/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/06/Zenith-Manufacture-Visit-2022-100.jpg",
-      "peek_preview": "The watch industry is constantly changing, whether through new product launches, shifting ownership structures, or brands reassessing their place in the market. Some developments have implications that go well beyond a...",
-      "categories": [
-        "Podcast"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T05:00:36.000Z",
-      "score_quality": 46,
-      "score_notif": 28,
-      "cluster": "20261105-ad0d6b77436f",
       "cluster_main": true
     },
     {
@@ -1396,7 +1412,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
@@ -1667,7 +1683,7 @@
       "published_at": "2026-11-03T15:51:30.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261103-481e652117f6",
+      "cluster": "20261103-260d4f2633b6",
       "cluster_main": true
     },
     {
@@ -1766,7 +1782,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On With Louis Vuitton’s Fashionable, Lugless, Ceramic-Cased Monterey Watches",
@@ -1930,7 +1946,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Squale Galeazzi Artiglio: il diver da 600 metri con wet indicator",
@@ -2315,7 +2331,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Insider: CVSTOS Challenge Autodromo and Challenge Monaco—Carbon Racing Silhouettes for Race Weekend in Mexico",
@@ -2490,23 +2506,6 @@
       "score_quality": 62,
       "score_notif": 22,
       "cluster": "20261030-aac89829e3a1",
-      "cluster_main": true
-    },
-    {
-      "title": "Zenith : 200 emplois menacés, le pari risqué du très haut de gamme",
-      "url": "https://www.welovewatches.fr/zenith-200-emplois-menaces-le-pari-risque-du-tres-haut-de-gamme.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2024/01/2-STILL-1_Chronomaster-Original_03.3400.3610.38.C911_16x9-5.jpg",
-      "peek_preview": "Zenith a ouvert une consultation sur un projet qui pourrait supprimer environ 100 emplois au Locle et autant à l’international. La manufacture de LVMH prépare une transformation radicale de son catalogue et de sa distri...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-30T10:05:26.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20261030-49de3e3461f4",
       "cluster_main": true
     }
   ]
