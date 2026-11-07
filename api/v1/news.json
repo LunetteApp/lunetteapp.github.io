@@ -1,6 +1,6 @@
 {
-  "content_hash": "c5d74c9040e4b4090fe92557259bbd1f92b1dae0a9cf0c187fff48c97714a5d3",
-  "last_updated": "2026-11-07T03:47:28.315Z",
+  "content_hash": "ebc47a48f59c6654c1cf48fe6511ab4bf4e53d3441d9958f0fd8d5201e4a1d55",
+  "last_updated": "2026-11-07T05:47:54.153Z",
   "premium": {
     "links": []
   },
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T14:30:07.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-07T05:00:20.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -162,8 +162,8 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T03:00:46.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin brings the “Explore All Ways Possible” showcase to its final stop in Sydney",
+      "url": "https://timeandtidewatches.com/vacheron-constantin-explore-all-ways-possible-event/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/vacheron-constantin-all-ways-possible-featured-image.webp",
+      "peek_preview": "Vacheron Constantin brings its “Explore All Ways Possible” exhibition to Sydney, showcasing historic icons to 2026 novelties The post Vacheron Constantin brings the “Explore All Ways Possible” showcase to its final stop...",
+      "categories": [
+        "Events",
+        "Vacheron Constantin"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-07T05:00:20.000Z",
+      "score_quality": 54,
+      "score_notif": 24,
+      "cluster": "20261107-d8ec53851962",
+      "cluster_main": true
+    },
     {
       "title": "オメガが「オメガショップ HASSIN」をリニューアルオープン",
       "url": "https://www.webchronos.net/news/178005/",
@@ -203,7 +221,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: CWC Navy Eighty CD-1",
@@ -1276,7 +1294,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
@@ -2093,24 +2111,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261101-9ba903ad411f",
-      "cluster_main": true
-    },
-    {
-      "title": "Arsène Lippens adds two new dial options and display case backs to its Artigiano collection",
-      "url": "https://timeandtidewatches.com/arsene-lippens-artigiano-collection-2026-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Arsene-Lippens-Artigiano-series-feature.jpg",
-      "peek_preview": "The Arsène Lippens Artigiano Ref. 0599 collection introduces two new Italian textile dials, updated casebacks and refined details across its five models. The post Arsène Lippens adds two new dial options and display cas...",
-      "categories": [
-        "Introducing",
-        "dress watch"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-01T07:00:47.000Z",
-      "score_quality": 66,
-      "score_notif": 34,
-      "cluster": "20261101-076bcaec49cb",
       "cluster_main": true
     },
     {
