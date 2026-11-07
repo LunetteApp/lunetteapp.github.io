@@ -1,6 +1,6 @@
 {
-  "content_hash": "a654a9ef06bd791e0aa82565fb6e9da71c8505c7f809363f664acd97dd17af0e",
-  "last_updated": "2026-11-07T06:47:20.236Z",
+  "content_hash": "7d53a088cfa5d96a1b7d65925c9162651aeb821141dc36acd03a492816e29ac1",
+  "last_updated": "2026-11-07T08:47:34.649Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T06:00:44.000Z"
     },
     {
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
+      "estimated_articles_per_day": 3.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T17:10:44.000Z"
     },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T08:01:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-07T08:01:49.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Review: Peacock’s Refined Black Hole Central Tourbillon Watch With A Curved Guilloché Face",
+      "url": "https://www.ablogtowatch.com/review-peacocks-refined-black-hole-central-tourbillon-watch-with-a-curved-guilloche-face/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Peacock-Black-Hole-Central-Tourbillon-3-Guilloche-Azure-watch-1-768x346.jpg",
+      "peek_preview": "The third-generation Black Hole Central Tourbillon from Chinese mechanical watch specialist Peacock is here. While the watch may look similar to the previous generation, the latest version Peacock Black Hole Curved Guil...",
+      "categories": [
+        "Wrist Time Reviews",
+        "Flying Tourbillon",
+        "Guilloche Dials",
+        "Tourbillon Watches",
+        "Watch Reviews Over $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-07T08:01:49.000Z",
+      "score_quality": 73,
+      "score_notif": 44,
+      "cluster": "20261107-c2036d847559",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On With The Favre Leuba Chief Skeleton: Nothing To Hide And Proud Of It",
       "url": "https://www.fratellowatches.com/hands-on-favre-leuba-chief-skeleton/",
@@ -638,7 +659,7 @@
       "featured": false,
       "published_at": "2026-11-06T08:44:49.000Z",
       "score_quality": 75,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261106-b7aa74e7b751",
       "cluster_main": true
     },
@@ -678,7 +699,7 @@
       "featured": false,
       "published_at": "2026-11-06T08:01:52.000Z",
       "score_quality": 60,
-      "score_notif": 50,
+      "score_notif": 34,
       "cluster": "20261106-4c3cdcf2b29a",
       "cluster_main": true
     },
@@ -877,7 +898,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -1114,7 +1135,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -2419,27 +2440,6 @@
       "score_quality": 28,
       "score_notif": 14,
       "cluster": "20261030-293583183d27",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Tissot PRX Quartz Chronograph Watch Is A Long-Overdue Value Leader",
-      "url": "https://www.ablogtowatch.com/hands-on-the-tissot-prx-quartz-chronograph-watch-is-a-long-overdue-value-leader/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Tissot-PRX-Quartz-Chronograph-LOR-Crop-768x346.jpg",
-      "peek_preview": "In the handful of years since Tissot launched the modern PRX, the integrated sports watch series has become a de facto default choice for enthusiasts around the world. Countless advice pieces have been written by profes...",
-      "categories": [
-        "Hands-On",
-        "Chronograph Watches",
-        "Integrated Bracelet Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T12:00:22.000Z",
-      "score_quality": 74,
-      "score_notif": 24,
-      "cluster": "20261030-03b100feb023",
       "cluster_main": true
     },
     {
