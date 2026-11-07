@@ -1,6 +1,6 @@
 {
-  "content_hash": "a47a3efdcee6fab1932452e0605f9ec3518a752053429b71eefb995d2ae8ed3d",
-  "last_updated": "2026-11-07T12:47:05.426Z",
+  "content_hash": "8054a32e4a9e00ce46260d938f877e3a87fee89eba283e2e8fc64d46341f5f14",
+  "last_updated": "2026-11-07T13:47:12.819Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-07T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -79,15 +79,15 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T12:01:17.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T13:11:51.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-07T13:00:00.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,49 @@
     }
   ],
   "items": [
+    {
+      "title": "NOMOS Club Sport neomatik 34 All Silver: Compact In-House 200M Sports Automatic",
+      "url": "https://deployant.com/nomos-club-sport-neomatik-34-all-silver-compact-in-house-200m-sports-automatic/?utm_source=rss&utm_medium=rss&utm_campaign=nomos-club-sport-neomatik-34-all-silver-compact-in-house-200m-sports-automatic",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/nomos-club-sport-neomatik-34-all-silver-ref-758-front-deployant.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors NOMOS Glashütte expands its premier sports line with the Club Sport neomatik 34 all silver, delivering a refined monochromatic execution in a versatile 34 mm...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "10 Days GMT Automatic Oro Rosso",
+        "blue steel",
+        "Club Sport",
+        "luxury sports watch",
+        "neomatik",
+        "nomos",
+        "NOMOS Glashütte"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-07T13:30:00.000Z",
+      "score_quality": 71,
+      "score_notif": 34,
+      "cluster": "20261105-8caa8856b548",
+      "cluster_main": false
+    },
+    {
+      "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-11-07",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "categories": [
+        "Weekend Reads"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-07T13:00:00.000Z",
+      "score_quality": 29,
+      "score_notif": 23,
+      "cluster": "20261107-19d07713b0d8",
+      "cluster_main": true
+    },
     {
       "title": "Andrew’s Rolex revenge: Yacht-Master RLX Titanium vs Zach’s Land-Dweller",
       "url": "https://timeandtidewatches.com/rolex-yacht-master-42-rlx-titanium-vs-land-dweller-video/",
@@ -301,7 +344,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: CWC Navy Eighty CD-1",
@@ -552,7 +595,7 @@
       "featured": false,
       "published_at": "2026-11-06T13:11:51.000Z",
       "score_quality": 78,
-      "score_notif": 71,
+      "score_notif": 34,
       "cluster": "20261106-dd62a52334b2",
       "cluster_main": true
     },
@@ -1156,7 +1199,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1175,7 +1218,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1339,27 +1382,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – Orient Star Launches Flagship Model for its 75th Anniversary, the Skeleton RE-BR0001N",
-      "url": "https://monochrome-watches.com/orient-star-launches-flagship-model-for-its-75th-anniversary-the-skeleton-re-br0001n/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Orient-Star-Skeleton-75th-Anniversary-Flagship-Model-RE-BR0001N-9-600x237.jpg",
-      "peek_preview": "While most of us picture the Bambino or Mako collections when we think of Orient watches, the Japanese brand owned by Seiko Epson Corporation can make much more advanced and refined watches, especially under the Orient...",
-      "categories": [
-        "Orient",
-        "2026",
-        "Luxury watch",
-        "Novelty",
-        "Skeleton Watches"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-04T17:05:24.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261104-f161d0371e3c",
-      "cluster_main": true
-    },
-    {
       "title": "G-SHOCK Celebrates Streetwear Culture in a New Collaboration with UNION",
       "url": "https://wornandwound.com/g-shock-celebrates-streetwear-culture-in-a-new-collaboration-with-union/",
       "image": "https://wornandwound.com/library/uploads/2026/11/gshock-x-union-banner.jpg",
@@ -1374,7 +1396,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
@@ -1908,7 +1930,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Squale Galeazzi Artiglio: il diver da 600 metri con wet indicator",
@@ -2293,7 +2315,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Insider: CVSTOS Challenge Autodromo and Challenge Monaco—Carbon Racing Silhouettes for Race Weekend in Mexico",
@@ -2485,23 +2507,6 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261030-49de3e3461f4",
-      "cluster_main": true
-    },
-    {
-      "title": "Audemars Piguet lance The Watch Keepers : le vrai coût de son CPO",
-      "url": "https://www.welovewatches.fr/audemars-piguet-lance-the-watch-keepers-le-vrai-cout-de-son-cpo.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/ap_the_watch_keepers_une_1940x1280.jpg",
-      "peek_preview": "Le programme d’occasion certifiée d’Audemars Piguet est désormais lancé. Baptisé The Watch Keepers, il associe une plateforme de vente en ligne, l’authentification par la manufacture et une garantie de deux ans. Un cadr...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-10-30T09:11:40.000Z",
-      "score_quality": 72,
-      "score_notif": 31,
-      "cluster": "20261030-bb1b5370536f",
       "cluster_main": true
     }
   ]
