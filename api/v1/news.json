@@ -1,6 +1,6 @@
 {
-  "content_hash": "1de2e3f7a92c8d34b3f9687d6fa07bf4cde4f13fcce19e06bbd1ed4888b524e5",
-  "last_updated": "2026-11-06T21:47:36.543Z",
+  "content_hash": "c45dce0b9f2c3b5b13a6be482ca314c6286a3b7305f8f86cbedc595137d2da19",
+  "last_updated": "2026-11-07T00:48:07.902Z",
   "premium": {
     "links": []
   },
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T03:00:00.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-07T00:00:07.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "G-SHOCKとセレクトショップ「UNION」のコラボレーションモデル「DW-5600RBG」が登場",
+      "url": "https://www.webchronos.net/news/177893/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/gshock_dw5600_1.webp",
+      "peek_preview": "G-SHOCKは、セレクトショップ「UNION」とのコラボレーションモデル「DW-5600RBG」を発表した。UNIONのルーツであるブラックカルチャーをオマージュし、パン・アフリカンフラッグのカラーリングを取り入れた本 […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-07T00:00:07.000Z",
+      "score_quality": 60,
+      "score_notif": 34,
+      "cluster": "20261104-b13ebd2ff879",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: CWC Navy Eighty CD-1",
       "url": "https://www.hodinkee.com/articles/cwc-navy-eighty-automatic",
@@ -537,7 +552,7 @@
       "score_quality": 87,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -555,7 +570,7 @@
       "score_quality": 84,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Silently Introduces Two New Seamaster Diver 300M Models In Blue And Brown Ceramic",
@@ -703,7 +718,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
@@ -718,7 +733,7 @@
       "featured": false,
       "published_at": "2026-11-05T23:01:12.000Z",
       "score_quality": 58,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261105-8542ec0a4be4",
       "cluster_main": true
     },
@@ -912,26 +927,6 @@
       "cluster_main": false
     },
     {
-      "title": "Serica preps its Travel Chronometer for the golden hour with the new Golden Green Ref. 8315-03",
-      "url": "https://timeandtidewatches.com/serica-ref8315-03-golden-green-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/serica-travel-chronometer-golden-green-featured-image-1.jpg",
-      "peek_preview": "The new Serica Ref. 8315-03 Golden Green brings a rich olive enamel dial and striking two-tone ceramic bezel to the brand’s distinctive GMT The post Serica preps its Travel Chronometer for the golden hour with the new G...",
-      "categories": [
-        "In The Shop",
-        "gmt",
-        "meta:short",
-        "serica"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T15:00:36.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261105-eadd13b58afc",
-      "cluster_main": false
-    },
-    {
       "title": "The New Serica 8315 Travel Chronometer Golden Green Brings A Different Shade Of Character",
       "url": "https://www.fratellowatches.com/the-new-serica-8315-travel-chronometer-golden-green-a-gmt-with-a-different-shade-of-character/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/SERICA-8315-Chronometre-de-Voyage-_Golden-Green_-05.jpg",
@@ -1048,7 +1043,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1266,7 +1261,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
@@ -1786,7 +1781,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
@@ -2032,21 +2027,6 @@
       "cluster_main": true
     },
     {
-      "title": "タイメックスがヴィンテージウォッチを思わせるフュメ文字盤の「1978 デイデイト フュメダイヤル リイシュー」を2モデル発表",
-      "url": "https://www.webchronos.net/news/177494/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/10/main-1-1.webp",
-      "peek_preview": "タイメックスがクッション型ケースにフュメ文字盤を組み合わせた「1978 デイデイト フュメダイヤル リイシュー」を2モデル発表した。本作は、1978年のアーカイブから着想を得たデザインを特徴としている。カラーバリエーショ […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-02T03:00:24.000Z",
-      "score_quality": 56,
-      "score_notif": 34,
-      "cluster": "20261102-64dcf259156d",
-      "cluster_main": true
-    },
-    {
       "title": "Bell & Ross BR-03 Space Mission : Rendez-vous sous la lune !",
       "url": "https://www.lecalibre.com/bell-ross-br-03-space-mission/?utm_source=rss&utm_medium=rss&utm_campaign=bell-ross-br-03-space-mission",
       "image": "https://www.lecalibre.com/wp-content/uploads/2026/11/Bell-Ross-BR-03-Space-Mission-avis.png",
@@ -2061,7 +2041,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
