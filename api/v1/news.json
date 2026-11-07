@@ -1,6 +1,6 @@
 {
-  "content_hash": "e4573a0cec8306252d479681f07a826961ebdc1103b786a586f658bef9ea3e4f",
-  "last_updated": "2026-11-07T17:47:31.703Z",
+  "content_hash": "be09cfb04ef85d1f64b6c5bd572baa2502f4e4112558d421bf1840ff340fa80e",
+  "last_updated": "2026-11-07T18:47:10.464Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T17:10:46.000Z"
     },
     {
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T14:25:36.000Z"
     },
@@ -193,7 +193,7 @@
       "score_quality": 64,
       "score_notif": 74,
       "cluster": "20261107-4a003e0cad2f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New releases from Andersen, Roger Dubuis, Louis Vuitton and more",
@@ -226,7 +226,7 @@
       "score_quality": 43,
       "score_notif": 74,
       "cluster": "20261107-4a003e0cad2f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "NOMOS Club Sport neomatik 34 All Silver: Compact In-House 200M Sports Automatic",
@@ -2488,6 +2488,23 @@
       "score_quality": 62,
       "score_notif": 22,
       "cluster": "20261030-aac89829e3a1",
+      "cluster_main": true
+    },
+    {
+      "title": "Zenith : 200 emplois menacés, le pari risqué du très haut de gamme",
+      "url": "https://www.welovewatches.fr/zenith-200-emplois-menaces-le-pari-risque-du-tres-haut-de-gamme.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2024/01/2-STILL-1_Chronomaster-Original_03.3400.3610.38.C911_16x9-5.jpg",
+      "peek_preview": "Zenith a ouvert une consultation sur un projet qui pourrait supprimer environ 100 emplois au Locle et autant à l’international. La manufacture de LVMH prépare une transformation radicale de son catalogue et de sa distri...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-30T10:05:26.000Z",
+      "score_quality": 71,
+      "score_notif": 34,
+      "cluster": "20261030-49de3e3461f4",
       "cluster_main": true
     }
   ]
