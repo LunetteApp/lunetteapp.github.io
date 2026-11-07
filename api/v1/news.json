@@ -1,6 +1,6 @@
 {
-  "content_hash": "d3d96f3e54dc987a404f5ea94fd22248f27c29e32f4a8619b156c42ac9dfcbb8",
-  "last_updated": "2026-11-07T14:47:42.789Z",
+  "content_hash": "2d804730e840d063cbce1de1b28a49b8836ce169e7a620ea42d14f702b8f79d3",
+  "last_updated": "2026-11-07T15:47:32.216Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T20:00:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-07T15:00:05.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T14:25:36.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T14:30:56.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Watches, Stories, & Gear: A New Fossil Watch, A Watch-Shaped Ring, and A Selection of Knives",
+      "url": "https://wornandwound.com/watches-stories-gear-a-new-fossil-watch-a-watch-shaped-ring-and-a-selection-of-knives/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Fossil_Signature_03.jpg",
+      "peek_preview": "Engineered Garments x Chrome MED PAC & SHOULDER EG Like adding a banana to a smoothie or a xenomorph to the Alien franchise, when Engineered Garments collaborates with a brand, it tends to permeate the brand entirely, m...",
+      "categories": [
+        "Featured",
+        "Watches Stories Gear"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-07T15:00:05.000Z",
+      "score_quality": 24,
+      "score_notif": 20,
+      "cluster": "20261107-efda17392adf",
+      "cluster_main": true
+    },
     {
       "title": "New releases from Andersen, Roger Dubuis, Louis Vuitton and more",
       "url": "https://timeandtidewatches.com/andersen-roger-dubuis-louis-vuitton-last-week-in-watches/",
@@ -434,7 +452,7 @@
       "featured": false,
       "published_at": "2026-11-06T18:19:31.000Z",
       "score_quality": 54,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
       "cluster_main": false
     },
@@ -555,7 +573,7 @@
       "featured": false,
       "published_at": "2026-11-06T15:00:46.000Z",
       "score_quality": 66,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
       "cluster_main": true
     },
@@ -1232,7 +1250,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Magnificent Marquetry: Piaget’s Andy Warhol ‘Camouflage’",
@@ -1251,7 +1269,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1683,25 +1701,7 @@
       "published_at": "2026-11-03T15:51:30.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261103-260d4f2633b6",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing the Formex Essence Ceramica Redshift",
-      "url": "https://wornandwound.com/introducing-the-formex-essence-ceramica-redshift/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Formex-Essence-Ceramica-Red-Shift-7.jpg",
-      "peek_preview": "There were so many new releases, limited editions, and collaborations launched at Windup New York, we’re honestly still coming up for air and cataloging everything. With around 170 brands, it was a challenge to see ever...",
-      "categories": [
-        "News & Releases",
-        "Formex"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T15:00:57.000Z",
-      "score_quality": 57,
-      "score_notif": 34,
-      "cluster": "20261103-35b379a6bb23",
+      "cluster": "20261103-481e652117f6",
       "cluster_main": true
     },
     {
@@ -1782,7 +1782,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On With Louis Vuitton’s Fashionable, Lugless, Ceramic-Cased Monterey Watches",
