@@ -1,6 +1,6 @@
 {
-  "content_hash": "c45dce0b9f2c3b5b13a6be482ca314c6286a3b7305f8f86cbedc595137d2da19",
-  "last_updated": "2026-11-07T00:48:07.902Z",
+  "content_hash": "af03287fc861e22a5b88b2eaf29255f73e822e0f8e67d72b9e268cc4637e9777",
+  "last_updated": "2026-11-07T01:48:02.307Z",
   "premium": {
     "links": []
   },
@@ -162,8 +162,8 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T00:00:07.000Z"
     },
     {
@@ -552,7 +552,7 @@
       "score_quality": 87,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -570,7 +570,7 @@
       "score_quality": 84,
       "score_notif": 69,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Silently Introduces Two New Seamaster Diver 300M Models In Blue And Brown Ceramic",
@@ -697,7 +697,7 @@
       "featured": false,
       "published_at": "2026-11-06T01:00:03.000Z",
       "score_quality": 88,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261106-8c3866819db4",
       "cluster_main": true
     },
@@ -718,7 +718,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
@@ -1062,7 +1062,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1358,7 +1358,7 @@
       "score_quality": 78,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -1732,7 +1732,7 @@
       "score_quality": 68,
       "score_notif": 31,
       "cluster": "20261103-4839d9026af2",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex : la piste d’un café à New York et des tarifs de révision désormais publics",
@@ -2486,6 +2486,23 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261030-49de3e3461f4",
+      "cluster_main": true
+    },
+    {
+      "title": "Audemars Piguet lance The Watch Keepers : le vrai coût de son CPO",
+      "url": "https://www.welovewatches.fr/audemars-piguet-lance-the-watch-keepers-le-vrai-cout-de-son-cpo.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/10/ap_the_watch_keepers_une_1940x1280.jpg",
+      "peek_preview": "Le programme d’occasion certifiée d’Audemars Piguet est désormais lancé. Baptisé The Watch Keepers, il associe une plateforme de vente en ligne, l’authentification par la manufacture et une garantie de deux ans. Un cadr...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-10-30T09:11:40.000Z",
+      "score_quality": 72,
+      "score_notif": 31,
+      "cluster": "20261030-bb1b5370536f",
       "cluster_main": true
     }
   ]
