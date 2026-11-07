@@ -1,6 +1,6 @@
 {
-  "content_hash": "af03287fc861e22a5b88b2eaf29255f73e822e0f8e67d72b9e268cc4637e9777",
-  "last_updated": "2026-11-07T01:48:02.307Z",
+  "content_hash": "c5d74c9040e4b4090fe92557259bbd1f92b1dae0a9cf0c187fff48c97714a5d3",
+  "last_updated": "2026-11-07T03:47:28.315Z",
   "premium": {
     "links": []
   },
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-07T00:00:07.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-07T03:00:46.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "オメガが「オメガショップ HASSIN」をリニューアルオープン",
+      "url": "https://www.webchronos.net/news/178005/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/hassin_1.webp",
+      "peek_preview": "オメガが、愛知県・大府市の「オメガショップ HASSIN」をリニューアルオープンした。華やかなレッドカーペットが敷かれたフロアには、最新モデルから既存コレクションまで幅広くディスプレイされる。オメガの世界観を存分に楽しめ […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-07T03:00:46.000Z",
+      "score_quality": 46,
+      "score_notif": 22,
+      "cluster": "20261107-2c001167c6b3",
+      "cluster_main": true
+    },
     {
       "title": "G-SHOCKとセレクトショップ「UNION」のコラボレーションモデル「DW-5600RBG」が登場",
       "url": "https://www.webchronos.net/news/177893/",
@@ -718,7 +733,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
@@ -1062,7 +1077,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1769,21 +1784,6 @@
       "cluster_main": true
     },
     {
-      "title": "ベル＆ロス「BR-03 スペースミッション」登場！ 宇宙船と月で時刻を示す、世界限定999本のユニークな腕時計",
-      "url": "https://www.webchronos.net/news/177558/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/BR_sm_1.webp",
-      "peek_preview": "ベル＆ロスは、宇宙探査をテーマとした新作「BR-03 スペースミッション」を発表した。ダイアル上に宇宙の情景を再現し、描かれた宇宙船と月で時刻を表示するユニークなモデルだ。ブラックセラミックス製のスクエアケースに自動巻き […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-03T00:00:22.000Z",
-      "score_quality": 70,
-      "score_notif": 34,
-      "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
-    },
-    {
       "title": "A colloquio con Alexander Kraft, imprenditore e collezionista di orologi",
       "url": "https://www.perpetualpassion.com/2026/11/02/intervista-alexander-kraft-orologi-collezione/",
       "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/11/Colloquio-elegante-tra-appassionati-di-orologi-1.png",
@@ -2041,7 +2041,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
