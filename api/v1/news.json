@@ -1,6 +1,6 @@
 {
-  "content_hash": "033d3721281590242c08c2c7b49ccf064802ee8872d6c9e37c811ccc4ac360a0",
-  "last_updated": "2026-11-08T13:47:19.750Z",
+  "content_hash": "f31b3e251bf8c165326f87ce23ec8dbd08de17bbc4ad9750a6bc54075f6550b4",
+  "last_updated": "2026-11-08T14:47:02.208Z",
   "premium": {
     "links": []
   },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-08T13:30:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-08T07:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-08T14:30:30.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Colombian brand Auret launches the Mederi, a 12-sided watch with a Swiss heart",
+      "url": "https://timeandtidewatches.com/auret-mederi-micro-mondays/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Auret-Mederi-1.jpg",
+      "peek_preview": "Auret debuts the Mederi, a 40mm Swiss-made watch with guilloché fumé dials, a Sellita SW260 movement and distinctive Colombian design. The post Colombian brand Auret launches the Mederi, a 12-sided watch with a Swiss he...",
+      "categories": [
+        "Micro Mondays",
+        "dress watch"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-08T14:30:30.000Z",
+      "score_quality": 68,
+      "score_notif": 61,
+      "cluster": "20261108-227e4a64c2d3",
+      "cluster_main": true
+    },
     {
       "title": "The Grail Watch: How Our Tastes and Desires Evolve",
       "url": "https://deployant.com/evolution-of-the-grail-watch/?utm_source=rss&utm_medium=rss&utm_campaign=evolution-of-the-grail-watch",
@@ -369,7 +387,7 @@
       "score_quality": 88,
       "score_notif": 84,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Archi Works × AVW The Diplomat 1.87",
@@ -443,7 +461,7 @@
       "score_quality": 88,
       "score_notif": 84,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -480,7 +498,7 @@
       "featured": false,
       "published_at": "2026-11-07T17:10:46.000Z",
       "score_quality": 64,
-      "score_notif": 74,
+      "score_notif": 34,
       "cluster": "20261107-4a003e0cad2f",
       "cluster_main": true
     },
@@ -513,7 +531,7 @@
       "featured": false,
       "published_at": "2026-11-07T14:25:36.000Z",
       "score_quality": 43,
-      "score_notif": 74,
+      "score_notif": 34,
       "cluster": "20261107-4a003e0cad2f",
       "cluster_main": false
     },
@@ -686,7 +704,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: CWC Navy Eighty CD-1",
@@ -1050,7 +1068,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -1068,7 +1086,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Omega Silently Introduces Two New Seamaster Diver 300M Models In Blue And Brown Ceramic",
@@ -1570,7 +1588,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
@@ -1948,26 +1966,6 @@
       "score_quality": 73,
       "score_notif": 24,
       "cluster": "20261103-b0a6bc698352",
-      "cluster_main": true
-    },
-    {
-      "title": "A Golden Phase: The Farer Stratton Moonphase Returns With An Eisenkiesel Dial",
-      "url": "https://timeandtidewatches.com/farer-stratton-moonphase-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Farer-Stratton-II-Moonphase-Featured-Image.jpg",
-      "peek_preview": "Farer updates its best-selling Stratton II Moonphase with a black Eisenkiesel stone dial and a photorealistic, laser-etched moon display. The post A Golden Phase: The Farer Stratton Moonphase Returns With An Eisenkiesel...",
-      "categories": [
-        "Introducing",
-        "dress watch",
-        "farer",
-        "moonphase"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T07:00:10.000Z",
-      "score_quality": 68,
-      "score_notif": 31,
-      "cluster": "20261103-4839d9026af2",
       "cluster_main": true
     },
     {
