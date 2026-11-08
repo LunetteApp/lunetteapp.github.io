@@ -1,6 +1,6 @@
 {
-  "content_hash": "a6ac2f1fd5e80ecbd4090be99400c772c5681f1d23370fc2e8e0eb15f4688eec",
-  "last_updated": "2026-11-07T21:47:29.394Z",
+  "content_hash": "61e3ba7fa86e582e4518aebfef276e3a1461da8950fb8323642b0da5334ebb02",
+  "last_updated": "2026-11-08T00:47:30.643Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-07T21:30:00.000Z"
     },
     {
@@ -36,7 +36,7 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.3,
+      "estimated_articles_per_day": 0.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-06T10:55:39.000Z"
     },
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-07T14:25:36.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-08T00:10:38.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-07T03:00:46.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-08T00:00:50.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Business News: The 2026 GPHG: Rexhep Rexhepi Wins The Aiguille d'Or For The RRCHF",
+      "url": "https://www.hodinkee.com/articles/the-2026-gphg-tktk-wins-the-aiguille-dor",
+      "image": "https://hodinkee.imgix.net/uploads/articles/90a0b87b-f7cd-4cf3-af4d-f8fb1083c6f4/L1030292.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "We're on the ground in Geneva with all the category winners and evening highlights from the biggest and most important awards show in watchmaking.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-08T00:10:38.000Z",
+      "score_quality": 88,
+      "score_notif": 84,
+      "cluster": "20261107-8929459aff2d",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: The Archi Works × AVW The Diplomat 1.87",
       "url": "https://www.fratellowatches.com/archi-works-x-avw-the-diplomat-1-87/",
@@ -210,7 +225,7 @@
       "featured": false,
       "published_at": "2026-11-07T20:38:59.000Z",
       "score_quality": 80,
-      "score_notif": 78,
+      "score_notif": 84,
       "cluster": "20261107-8929459aff2d",
       "cluster_main": false
     },
@@ -245,9 +260,9 @@
       "featured": false,
       "published_at": "2026-11-07T20:34:33.000Z",
       "score_quality": 88,
-      "score_notif": 78,
+      "score_notif": 84,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -1436,21 +1451,6 @@
       "cluster_main": true
     },
     {
-      "title": "Photo Report: Milan Watch Week 2026",
-      "url": "https://www.hodinkee.com/articles/milan-watch-week-2026",
-      "image": "https://hodinkee.imgix.net/uploads/images/1f9e327d-3e68-4f1e-ab86-1f713cedb456/MilanWatchWeek2026Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "An incredible event with insane wrist spotting, all served with ice cold Negronis – Milan Watch Week is the place to be.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-04T18:00:00.000Z",
-      "score_quality": 70,
-      "score_notif": 34,
-      "cluster": "20261104-d60f32d8b7b7",
-      "cluster_main": true
-    },
-    {
       "title": "G-SHOCK Celebrates Streetwear Culture in a New Collaboration with UNION",
       "url": "https://wornandwound.com/g-shock-celebrates-streetwear-culture-in-a-new-collaboration-with-union/",
       "image": "https://wornandwound.com/library/uploads/2026/11/gshock-x-union-banner.jpg",
@@ -2489,36 +2489,6 @@
       "score_quality": 28,
       "score_notif": 14,
       "cluster": "20261030-293583183d27",
-      "cluster_main": true
-    },
-    {
-      "title": "Inhorgenta 2027: Neue Uhrenmarken und starke Rückkehrer",
-      "url": "https://www.uhrenkosmos.com/inhorgenta-2027-neue-uhrenmarken-rueckkehrer/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Inhorgenta-2027-Rueckkehr-Frederique-Constant.jpg",
-      "peek_preview": "Bremont, U-Boat, Auguste Reymond und cauny kommen erstmals zur Inhorgenta 2027, Frederique Constant, Alpina und Garmin kehren zurück.",
-      "categories": [
-        "Messen",
-        "Handel & Auktionen",
-        "Alpina",
-        "Auguste Reymond",
-        "Bremont",
-        "Cauny",
-        "Frederique Constant",
-        "Garmin",
-        "Inhorgenta",
-        "Inhorgenta 2027",
-        "Markus Rettig",
-        "Münchner Uhrenmesse",
-        "Peers Hardy",
-        "U-Boat"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-10-30T11:43:34.000Z",
-      "score_quality": 62,
-      "score_notif": 22,
-      "cluster": "20261030-aac89829e3a1",
       "cluster_main": true
     }
   ]
