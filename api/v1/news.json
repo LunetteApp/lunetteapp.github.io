@@ -1,6 +1,6 @@
 {
-  "content_hash": "61e3ba7fa86e582e4518aebfef276e3a1461da8950fb8323642b0da5334ebb02",
-  "last_updated": "2026-11-08T00:47:30.643Z",
+  "content_hash": "255853ebdccf354ec9211b43d08484e2705cbf2e37bff7395d37b914d22d6902",
+  "last_updated": "2026-11-08T01:46:57.086Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-08T00:10:38.000Z"
     },
     {
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-08T00:00:50.000Z"
     },
     {
@@ -2489,6 +2489,36 @@
       "score_quality": 28,
       "score_notif": 14,
       "cluster": "20261030-293583183d27",
+      "cluster_main": true
+    },
+    {
+      "title": "Inhorgenta 2027: Neue Uhrenmarken und starke Rückkehrer",
+      "url": "https://www.uhrenkosmos.com/inhorgenta-2027-neue-uhrenmarken-rueckkehrer/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/Inhorgenta-2027-Rueckkehr-Frederique-Constant.jpg",
+      "peek_preview": "Bremont, U-Boat, Auguste Reymond und cauny kommen erstmals zur Inhorgenta 2027, Frederique Constant, Alpina und Garmin kehren zurück.",
+      "categories": [
+        "Messen",
+        "Handel & Auktionen",
+        "Alpina",
+        "Auguste Reymond",
+        "Bremont",
+        "Cauny",
+        "Frederique Constant",
+        "Garmin",
+        "Inhorgenta",
+        "Inhorgenta 2027",
+        "Markus Rettig",
+        "Münchner Uhrenmesse",
+        "Peers Hardy",
+        "U-Boat"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-10-30T11:43:34.000Z",
+      "score_quality": 57,
+      "score_notif": 24,
+      "cluster": "20261030-aac89829e3a1",
       "cluster_main": true
     }
   ]
