@@ -1,6 +1,6 @@
 {
-  "content_hash": "b552727f9d1396ecfb7996b97356b6b6810722a7940a112c6ea80ed00acaa7ad",
-  "last_updated": "2026-11-09T18:47:34.156Z",
+  "content_hash": "3f59e3fa2594c8879bd3ed6c102a6c0e0157ce86cec18c29dc9ec77d912e4521",
+  "last_updated": "2026-11-09T20:47:32.145Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T14:00:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T20:00:51.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T17:05:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T20:04:34.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,44 @@
     }
   ],
   "items": [
+    {
+      "title": "Experience: Time to Drive Miami Car & Watch Fest 2026—Part Car Show, Part Watch Show, All #WatchLife",
+      "url": "https://www.watchcollectinglifestyle.com/home/time-to-drive-miami-car-and-watch-fest-2026-review",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794252753093-M4X2BS33SP6LBSBVWI9D/Time+To+Drive+Fest+Miami+2026+Car+and+Watch+Show-0.jpg?format=1500w",
+      "peek_preview": "Anyone who has collected watches for more than three decades knows cars and watches share the same obsessions—mechanics, heritage, craftsmanship, and the thrill of owning something built to be used. That is the premise...",
+      "categories": [
+        "Events",
+        "Automobiles"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T20:04:34.000Z",
+      "score_quality": 44,
+      "score_notif": 26,
+      "cluster": "20261109-b086a0e8e787",
+      "cluster_main": true
+    },
+    {
+      "title": "Ming’s Newest Model Blends Classic Dress Watch Principles with the Brand’s Instantly Recognizable Design Language",
+      "url": "https://wornandwound.com/mings-newest-model-blends-classic-dress-watch-principles-with-the-brands-instantly-recognizable-design-language/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Ming-Halo-1.jpg",
+      "peek_preview": "While its designs are largely more avantgarde, we’ve seen Ming play with the concept of the traditional dress watch with time-only models featuring more modest case sizing and leather straps like the 37.08 Twilight with...",
+      "categories": [
+        "News & Releases",
+        "dress watch",
+        "Ming",
+        "Ming Watches"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T20:00:51.000Z",
+      "score_quality": 63,
+      "score_notif": 71,
+      "cluster": "20261109-d63ac9655d4f",
+      "cluster_main": false
+    },
     {
       "title": "The 5 Most Important Vintage Blancpain Fifty Fathoms Watches",
       "url": "https://teddybaldassarre.com/blogs/watches/vintage-blancpain-fifty-fathoms",
@@ -318,7 +356,7 @@
       "score_quality": 78,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -388,7 +426,7 @@
       "score_quality": 74,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -1578,7 +1616,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -1720,7 +1758,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -2071,7 +2109,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: Swatch Group USA Names Bertrand Delvert CEO—The Company Looks to Paris, Not Miami, for Its New Leader",
@@ -2129,7 +2167,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On With Louis Vuitton’s Fashionable, Lugless, Ceramic-Cased Monterey Watches",
@@ -2425,55 +2463,6 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
-    },
-    {
-      "title": "Casio G-Shock Blue Rose Projekt: 80.000 Euro für eine Uhr aus blauem Saphir",
-      "url": "https://www.uhrenkosmos.com/casio-g-shock-blue-rose-project-mrg-d5000-bdr/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/G-Shock-MRG-5000-Aufmacher.jpg",
-      "peek_preview": "80.000 Euro für eine G-Shock? Kein Druckfehler, sondern der Preis der weltweit auf 20 Exemplare limitierten Casio MRG-D5000-BDR. Ihr spektakuläres Gehäuse aus blauem Saphir krönt die Casio G-Shock Blue Rose Kollektion....",
-      "categories": [
-        "Marken & Macher",
-        "Aktuelle Uhren",
-        "Casio",
-        "Casio G-Shock",
-        "G-Shock",
-        "G-Shock DW-5000C",
-        "G-Shock G-D001",
-        "G-Shock G-D5000-9JR",
-        "G-Shock GMW-B5000SB-1A2ER",
-        "G-Shock MRG-B2000JS Juryoku-Maru: San",
-        "G-Shock MRG-B2000SH Shougeki-Maru",
-        "G-Shock MRG-B5000SA-2DR Super Blue",
-        "G-Shock MRG-D 5000",
-        "G-Shock MRG-G2000HT",
-        "G-Shock-Unikat G-D001",
-        "Kikuo Ibe"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-01T14:05:29.000Z",
-      "score_quality": 58,
-      "score_notif": 26,
-      "cluster": "20261101-9ba903ad411f",
-      "cluster_main": true
-    },
-    {
-      "title": "Alpina, Chronométreur Officiel de la Route du Rhum, dévoile deux éditions limitées",
-      "url": "https://www.welovewatches.fr/alpina-chronometreur-officiel-de-la-route-du-rhum-devoile-deux-editions-limitees.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-montres-collaboration-alpina-x-route-du-rhum-2026.jpg",
-      "peek_preview": "Aujourd'hui, les marins de la 13ème Route du Rhum – Destination Guadeloupe s'élancent de Saint-Malo, cap sur Pointe-à-Pitre, avec un objectif clair : battre le précédent record de 6 jours, 19 heures, 47 minutes et...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-01T06:30:00.000Z",
-      "score_quality": 51,
-      "score_notif": 22,
-      "cluster": "20261101-2f68ce0bed43",
       "cluster_main": true
     }
   ]
