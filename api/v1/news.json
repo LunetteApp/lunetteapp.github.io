@@ -1,6 +1,6 @@
 {
-  "content_hash": "46a21a038db1b150e593ae36e1b077ff59419745996d19a2fdea96b893ab72c2",
-  "last_updated": "2026-11-09T00:47:28.677Z",
+  "content_hash": "7d66044b63e1d794cfe24b9dbfde18273909b01d3adc893a48425958ee969e6f",
+  "last_updated": "2026-11-09T01:47:09.974Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T01:00:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T01:00:07.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T00:00:45.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Shaping the Tourbillon: The Unsigned Carriages",
+      "url": "https://watchesbysjx.com/2026/11/historical-tourbillon-constructors.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/0-cover-300x200.jpg",
+      "peek_preview": "Behind many historical tourbillons were the carriage makers: specialist watchmakers who designed and built the rotating cages containing the balance and escapement. Their work helped establish the reputations of the bra...",
+      "categories": [
+        "Knowledge"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T01:00:07.000Z",
+      "score_quality": 86,
+      "score_notif": 24,
+      "cluster": "20261109-c8cf89237b8b",
+      "cluster_main": true
+    },
     {
       "title": "ビアンシェが「ウルトラフィーノ・トノー ブラックセラミック」を発表",
       "url": "https://www.webchronos.net/news/178059/",
@@ -402,7 +419,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Archi Works × AVW The Diplomat 1.87",
@@ -476,7 +493,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -719,7 +736,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: CWC Navy Eighty CD-1",
@@ -1083,7 +1100,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -1101,7 +1118,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Omega Silently Introduces Two New Seamaster Diver 300M Models In Blue And Brown Ceramic",
@@ -1603,7 +1620,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
@@ -2503,27 +2520,6 @@
       "score_quality": 74,
       "score_notif": 24,
       "cluster": "20261030-3605bb62e03f",
-      "cluster_main": true
-    },
-    {
-      "title": "Chopard Día de los Muertos, fra tecnica e mestieri d’arte",
-      "url": "https://giornaleorologi.it/2026/10/30/chopard-dia-de-los-muertos-fra-tecnica-e-mestieri-darte/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/10/Chopard_Full_Strike_apertura-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Chopard Día de los Muertos, fra tecnica e mestieri d’arte La prima cosa che colpisce nel nuovo Chopard Día de los Muertos è il blu. O, almeno così è successo a me. Poi ho identificato il teschi...",
-      "categories": [
-        "Approfondimenti",
-        "Chopard",
-        "Dia de los Muertos",
-        "mestieri d'arte",
-        "ripetizione minuti"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-30T13:34:24.000Z",
-      "score_quality": 47,
-      "score_notif": 34,
-      "cluster": "20261030-fb1cde40d119",
       "cluster_main": true
     }
   ]
