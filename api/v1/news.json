@@ -1,6 +1,6 @@
 {
-  "content_hash": "21aba4ca449e044b2bfb7e8c0127a6c5c0fb0d2951245409de945d7f1fbf4c25",
-  "last_updated": "2026-11-09T11:47:09.450Z",
+  "content_hash": "4ca64ab639b23902c2918a1fc661489fa5a8fa2b2ce02a2330d4270011bda832",
+  "last_updated": "2026-11-09T12:47:31.795Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
+      "estimated_articles_per_day": 3.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T10:00:28.000Z"
     },
@@ -50,9 +50,9 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T18:19:31.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T12:23:15.000Z"
     },
     {
       "source_name": "Deployant",
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-08T00:10:38.000Z"
     },
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-08T14:30:30.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T12:01:17.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T11:00:00.000Z"
     },
     {
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-08T10:48:02.000Z"
     },
@@ -175,6 +175,45 @@
     }
   ],
   "items": [
+    {
+      "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
+      "url": "https://www.atimelyperspective.com/bell-ross-reimagines-br03-radar-ceramic-watch-with-bold-green-prices/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/R21_004_BR03-GREEN-R-LOOK3-12426-683x1024.jpeg",
+      "peek_preview": "Bell & Ross has never been shy about bringing aviation instruments to the wrist. In fact, the brand has built much of its identity around the concept, transforming cockpit instruments into distinctive watches. Now, with...",
+      "categories": [
+        "Bell & Ross",
+        "Pilot Watches",
+        "Sport Watches",
+        "Timepieces News, Reviews and Articles",
+        "Bell & Ross BR-03 Green Radar Ceramic"
+      ],
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T12:23:15.000Z",
+      "score_quality": 63,
+      "score_notif": 66,
+      "cluster": "20261109-638a50783b83",
+      "cluster_main": true
+    },
+    {
+      "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
+      "url": "https://timeandtidewatches.com/new-glashutte-original-vintage-seventies-collection-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Glashutte-Original-Vintage-Seventies-2026-Collection-4.jpg",
+      "peek_preview": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender? Zach goes hands-on to find out... The post What makes the new Glashütte Orginal Seventies collection a strong integrated...",
+      "categories": [
+        "Hands On",
+        "Video"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T12:01:17.000Z",
+      "score_quality": 67,
+      "score_notif": 62,
+      "cluster": "20261109-1b17a2c98bed",
+      "cluster_main": true
+    },
     {
       "title": "Scafograf 200 MCMLIX Bronze: Eberhard & Co. oltre il vintage",
       "url": "https://giornaleorologi.it/2026/11/09/eberhard-scafograf-200-mcmlix-bronze/",
@@ -412,7 +451,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Buying Guide – It’s Pedal to the Metal With Six of the Coolest Racing Chronographs",
@@ -1022,7 +1061,7 @@
       "published_at": "2026-11-06T16:01:00.000Z",
       "score_quality": 64,
       "score_notif": 32,
-      "cluster": "20261106-cc98868bd667",
+      "cluster": "20261104-5ecfec289310",
       "cluster_main": true
     },
     {
@@ -1562,7 +1601,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1783,7 +1822,7 @@
       "score_quality": 57,
       "score_notif": 32,
       "cluster": "20261104-5ecfec289310",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Monaco Legend Group Auktionsergebnisse 2026: Starke Zahlen bei den Herbstauktionen",
@@ -1947,28 +1986,6 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261103-24b912874e01",
-      "cluster_main": true
-    },
-    {
-      "title": "The full circle moment for TAG Heuer’s Aquaracer collection",
-      "url": "https://timeandtidewatches.com/the-full-circle-moment-for-tag-heuers-dive-watch-collection/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2024/11/tag-heuer-dive-aquaracer-history-feature.webp",
-      "peek_preview": "We look through the history of Heuer's and TAG Heuer's dive watches, and how the brand cleverly uses reissues. The post The full circle moment for TAG Heuer’s Aquaracer collection appeared first on Time+Tide Watches.",
-      "categories": [
-        "In Depth",
-        "aquaracer",
-        "meta:evergreen",
-        "meta:primers",
-        "meta:solar-watches",
-        "tag heuer"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T14:30:00.000Z",
-      "score_quality": 76,
-      "score_notif": 25,
-      "cluster": "20261103-81c652094627",
       "cluster_main": true
     },
     {
@@ -2475,36 +2492,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261030-ab19465129fd",
-      "cluster_main": true
-    },
-    {
-      "title": "Dimenticate Deadpool: il vero Ryan Reynolds si scopre dagli orologi",
-      "url": "https://italianwatchspotter.com/ryan-reynolds-orologi-collezione-deadpool/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/10/image-142-1024x768.png",
-      "peek_preview": "Si sa, ogni celebrità hollywoodiana che si rispetti, ha al suo polso un segnatempo di un certo spessore. C’è chi a cui piacciono gli orologi, c’è a chi piace ostentare e c’è chi li indossa per sponsorizzare un determina...",
-      "categories": [
-        "Storie di collezionismo",
-        "Celebrity Watches",
-        "Deadpool",
-        "F.P. Journe",
-        "Greubel Forsey",
-        "Kari Voutilainen",
-        "Omega Speedmaster",
-        "Orologeria indipendente",
-        "Roger W. Smith",
-        "rolex daytona",
-        "Ryan Reynolds",
-        "Simon Brette",
-        "Sylvain Pinaud",
-        "watch spotting"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-30T17:33:15.000Z",
-      "score_quality": 57,
-      "score_notif": 33,
-      "cluster": "20261030-feb949fd2d7a",
       "cluster_main": true
     }
   ]
