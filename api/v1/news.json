@@ -1,6 +1,6 @@
 {
-  "content_hash": "b5aa5d7f8de5ab2ff3a66141f6e0eb878e83cb20f97217d4985efcf382c10575",
-  "last_updated": "2026-11-09T08:47:10.761Z",
+  "content_hash": "a0643454916703edff6611dca0f5bceb284f84436e496114d1c255b5d910f556",
+  "last_updated": "2026-11-09T10:47:52.243Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T06:00:50.000Z"
+      "estimated_articles_per_day": 3.4,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T10:00:28.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T08:00:51.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T08:01:46.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On With Two Rado DiaStar Original Skeleton Watches: Have You Ever Seen A Gold UFO?",
+      "url": "https://www.fratellowatches.com/hands-on-with-two-rado-diastar-original-skeleton-watches/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Rado-DiaStar-Original-Skeleton-7.jpg",
+      "peek_preview": "I’m guessing the gold-colored Ceramos bezel acts as a heat shield. During landing, the bezel must protect the object from scratches too, because Ceramos, a ceramic-metal composite also known as “cermet,” is very hard. I...",
+      "categories": [
+        "Hands-On"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T10:00:28.000Z",
+      "score_quality": 72,
+      "score_notif": 61,
+      "cluster": "20261109-c8bb49a2fbc9",
+      "cluster_main": true
+    },
     {
       "title": "According To Ariel: Luxury Watch Brand CEOs Have Never Been So Impotent",
       "url": "https://www.ablogtowatch.com/according-to-ariel-luxury-watch-brand-ceos-have-never-been-so-impotent/",
@@ -1186,26 +1203,8 @@
       "published_at": "2026-11-06T09:01:53.000Z",
       "score_quality": 87,
       "score_notif": 34,
-      "cluster": "20261106-c52d8e3914b0",
+      "cluster": "20261106-1a82312d08c9",
       "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Breguet Classique Souscription In Platinum",
-      "url": "https://www.fratellowatches.com/introducing-the-breguet-classique-souscription-in-platinum/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Breguet_Souscription_Pt_Header-1.jpg",
-      "peek_preview": "In 2025, Breguet entered the GPHG with its first 250th-anniversary model, the Classique Souscription in Breguet gold, a rose gold alloy. The watch won the “Aiguille d’Or” grand prize, and now, Breguet introduces another...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T09:00:44.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
     },
     {
       "title": "Massimo Osti e il suo Rolex Sea-Dweller 1665: una storia scritta nell’argento",
@@ -1385,7 +1384,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -1542,7 +1541,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
