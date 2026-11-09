@@ -1,6 +1,6 @@
 {
-  "content_hash": "3f56608ac855838e4257112f75f616ad11a100b6778a874a173c799ba4e3b30f",
-  "last_updated": "2026-11-09T16:47:55.631Z",
+  "content_hash": "9c480cd7e8e87151f5d07acd1c6138d98ac27ad95893b77d67730dd304f34619",
+  "last_updated": "2026-11-09T17:48:24.568Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T14:00:36.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T17:05:54.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T17:46:10.000Z"
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T17:26:23.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T16:00:00.000Z"
     },
     {
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-07T13:00:00.000Z"
+      "estimated_articles_per_day": 1.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T17:05:12.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-07T20:38:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T16:49:18.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,39 @@
     }
   ],
   "items": [
+    {
+      "title": "The 5 Most Important Vintage Blancpain Fifty Fathoms Watches",
+      "url": "https://teddybaldassarre.com/blogs/watches/vintage-blancpain-fifty-fathoms",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Blancpain-FF-1953-2.jpg?v=1654264148",
+      "peek_preview": "The Blancpain Fifty Fathoms, revered as one of the first and most influential modern divers’ watches, is today the cornerstone of Blancpain’s collection. Its original tool-watch design and robust build have been reinter...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T17:26:23.000Z",
+      "score_quality": 62,
+      "score_notif": 26,
+      "cluster": "20261109-427d2d43a623",
+      "cluster_main": true
+    },
+    {
+      "title": "GPHG: 2026 Winners—Rexhep Rexhepi’s Chronograph Flyback Takes the Aiguille d’Or",
+      "url": "https://www.watchcollectinglifestyle.com/home/gphg-2026-winners-rexhep-rexhepis-chronograph",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794243470731-7BE0VFLAH4XHWBYENTWJ/GPHG+2026+WINNERS.jpg?format=1500w",
+      "peek_preview": "The 26th Grand Prix d’Horlogerie de Genève announced its winners on Saturday, November 7, 2026, in Geneva. Rexhep Rexhepi won the Aiguille d’Or Grand Prix for his Chronograph Flyback. Watchmaking’s highest honor now sit...",
+      "categories": [
+        "GPHG",
+        "News"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T17:05:12.000Z",
+      "score_quality": 74,
+      "score_notif": 34,
+      "cluster": "20261107-8929459aff2d",
+      "cluster_main": false
+    },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [October 2026]",
       "url": "https://www.hodinkee.com/articles/watch-spotting-at-the-hodinkee-happy-hour-october-2026",
@@ -285,7 +318,7 @@
       "score_quality": 78,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -355,7 +388,7 @@
       "score_quality": 74,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -1079,7 +1112,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: CWC Navy Eighty CD-1",
@@ -1277,27 +1310,6 @@
       "score_quality": 55,
       "score_notif": 34,
       "cluster": "20261106-5e3e8ae27d8f",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – Briston Presents the New Clubmaster Legend Compressor Collection in Steel and Signature Acetate",
-      "url": "https://monochrome-watches.com/briston-new-clubmaster-legend-compressor-collection-in-steel-and-acetate-accessible-automatic-dive-watch-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Briston-Clubmaster-Legend-Compressor-Steel-and-tortoiseshell-Acetate-review-12-600x237.jpg",
-      "peek_preview": "French brand Briston has built quite a nice little family around its Clubmaster Legend collection. These are accessible sporty-chic watches housed in cushion-shaped cases. Earlier this year, Briston dropped two new vers...",
-      "categories": [
-        "Briston",
-        "2026",
-        "Dive Watches",
-        "Novelty",
-        "Value Proposition"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T14:00:31.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261106-3592daa88f77",
       "cluster_main": true
     },
     {
@@ -1566,7 +1578,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -1708,7 +1720,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -1834,7 +1846,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
@@ -2260,7 +2272,7 @@
       "published_at": "2026-11-02T18:15:33.000Z",
       "score_quality": 78,
       "score_notif": 34,
-      "cluster": "20261030-86e207fd6de7",
+      "cluster": "20261102-5e35856473a1",
       "cluster_main": true
     },
     {
@@ -2414,75 +2426,6 @@
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
       "cluster_main": true
-    },
-    {
-      "title": "Casio G-Shock Blue Rose Projekt: 80.000 Euro für eine Uhr aus blauem Saphir",
-      "url": "https://www.uhrenkosmos.com/casio-g-shock-blue-rose-project-mrg-d5000-bdr/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/G-Shock-MRG-5000-Aufmacher.jpg",
-      "peek_preview": "80.000 Euro für eine G-Shock? Kein Druckfehler, sondern der Preis der weltweit auf 20 Exemplare limitierten Casio MRG-D5000-BDR. Ihr spektakuläres Gehäuse aus blauem Saphir krönt die Casio G-Shock Blue Rose Kollektion....",
-      "categories": [
-        "Marken & Macher",
-        "Aktuelle Uhren",
-        "Casio",
-        "Casio G-Shock",
-        "G-Shock",
-        "G-Shock DW-5000C",
-        "G-Shock G-D001",
-        "G-Shock G-D5000-9JR",
-        "G-Shock GMW-B5000SB-1A2ER",
-        "G-Shock MRG-B2000JS Juryoku-Maru: San",
-        "G-Shock MRG-B2000SH Shougeki-Maru",
-        "G-Shock MRG-B5000SA-2DR Super Blue",
-        "G-Shock MRG-D 5000",
-        "G-Shock MRG-G2000HT",
-        "G-Shock-Unikat G-D001",
-        "Kikuo Ibe"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-01T14:05:29.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261101-9ba903ad411f",
-      "cluster_main": true
-    },
-    {
-      "title": "Alpina, Chronométreur Officiel de la Route du Rhum, dévoile deux éditions limitées",
-      "url": "https://www.welovewatches.fr/alpina-chronometreur-officiel-de-la-route-du-rhum-devoile-deux-editions-limitees.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-montres-collaboration-alpina-x-route-du-rhum-2026.jpg",
-      "peek_preview": "Aujourd'hui, les marins de la 13ème Route du Rhum – Destination Guadeloupe s'élancent de Saint-Malo, cap sur Pointe-à-Pitre, avec un objectif clair : battre le précédent record de 6 jours, 19 heures, 47 minutes et...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-01T06:30:00.000Z",
-      "score_quality": 47,
-      "score_notif": 34,
-      "cluster": "20261101-2f68ce0bed43",
-      "cluster_main": true
-    },
-    {
-      "title": "Louis Erard x Vianney Halter Futur Antérieur: l’Antiqua si fa più vicino",
-      "url": "https://www.perpetualpassion.com/2026/10/31/louis-erard-vianney-halter-futur-anterieur/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/10/P1010584-scaled.jpg",
-      "peek_preview": "Due quadranti a oblò, una cassa inedita e due movimenti automatici: Louis Erard torna nell’universo di Vianney Halter [...] L'articolo Louis Erard x Vianney Halter Futur Antérieur: l’Antiqua si fa più vicino proviene da...",
-      "categories": [
-        "Independent Watchmaking",
-        "Introducing",
-        "Just In",
-        "indipendenti"
-      ],
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-31T15:14:19.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
     }
   ]
 }
