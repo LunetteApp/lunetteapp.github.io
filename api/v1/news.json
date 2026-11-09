@@ -1,6 +1,6 @@
 {
-  "content_hash": "3f59e3fa2594c8879bd3ed6c102a6c0e0157ce86cec18c29dc9ec77d912e4521",
-  "last_updated": "2026-11-09T20:47:32.145Z",
+  "content_hash": "641ec5519ca73bc5513182d399ee385801b3d654478d41132210497dcab30f57",
+  "last_updated": "2026-11-09T21:47:31.262Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T20:00:51.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T20:04:34.000Z"
     },
     {
@@ -1212,21 +1212,6 @@
       "cluster_main": false
     },
     {
-      "title": "Seiko 5 Sports Field GMT SSK059 'Polar' Review",
-      "url": "https://teddybaldassarre.com/blogs/watches/seiko-ssk059-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-5-Sports-SSK059-FieldGMT-flat-2.jpg?v=1793981044",
-      "peek_preview": "The Seiko 5 Sports Field GMT SSK059 is about as good as a mechanical field GMT gets for $450. The white dial, orange GMT hand, and fixed steel bezel give it a different look from Seiko’s SKX GMTs, but the no-nonsense ca...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T17:46:10.000Z",
-      "score_quality": 76,
-      "score_notif": 32,
-      "cluster": "20261106-1963a793a062",
-      "cluster_main": true
-    },
-    {
       "title": "First Look – The New Klokers KLOK03, the Disc Watch Goes Automatic for the First Time",
       "url": "https://monochrome-watches.com/2026-new-klokers-klok03-disc-watch-now-goes-automatic-review-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/11/Klokers-KLOK03-First-Automatic-Collection-review-1-600x237.jpg",
@@ -2109,7 +2094,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: Swatch Group USA Names Bertrand Delvert CEO—The Company Looks to Paris, Not Miami, for Its New Leader",
@@ -2167,7 +2152,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261103-481e652117f6",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On With Louis Vuitton’s Fashionable, Lugless, Ceramic-Cased Monterey Watches",
@@ -2463,6 +2448,38 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
+      "cluster_main": true
+    },
+    {
+      "title": "Casio G-Shock Blue Rose Projekt: 80.000 Euro für eine Uhr aus blauem Saphir",
+      "url": "https://www.uhrenkosmos.com/casio-g-shock-blue-rose-project-mrg-d5000-bdr/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/G-Shock-MRG-5000-Aufmacher.jpg",
+      "peek_preview": "80.000 Euro für eine G-Shock? Kein Druckfehler, sondern der Preis der weltweit auf 20 Exemplare limitierten Casio MRG-D5000-BDR. Ihr spektakuläres Gehäuse aus blauem Saphir krönt die Casio G-Shock Blue Rose Kollektion....",
+      "categories": [
+        "Marken & Macher",
+        "Aktuelle Uhren",
+        "Casio",
+        "Casio G-Shock",
+        "G-Shock",
+        "G-Shock DW-5000C",
+        "G-Shock G-D001",
+        "G-Shock G-D5000-9JR",
+        "G-Shock GMW-B5000SB-1A2ER",
+        "G-Shock MRG-B2000JS Juryoku-Maru: San",
+        "G-Shock MRG-B2000SH Shougeki-Maru",
+        "G-Shock MRG-B5000SA-2DR Super Blue",
+        "G-Shock MRG-D 5000",
+        "G-Shock MRG-G2000HT",
+        "G-Shock-Unikat G-D001",
+        "Kikuo Ibe"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-01T14:05:29.000Z",
+      "score_quality": 66,
+      "score_notif": 31,
+      "cluster": "20261101-9ba903ad411f",
       "cluster_main": true
     }
   ]
