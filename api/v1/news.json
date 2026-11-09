@@ -1,6 +1,6 @@
 {
-  "content_hash": "c2828353360e57d0129ac46dde749aff2b70365c8b5c5a179c86ba883cb5496a",
-  "last_updated": "2026-11-09T22:47:30.409Z",
+  "content_hash": "852366eaf551a8e21b1e909937103d954a5a3305b9938a8f9f63543a672c5268",
+  "last_updated": "2026-11-09T23:47:21.061Z",
   "premium": {
     "links": []
   },
@@ -9,14 +9,14 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T21:58:55.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T22:00:17.000Z"
     },
     {
@@ -179,7 +179,7 @@
       "title": "The Awake Sơn Mài Collection Adds Bold Silver Leaf Vignette Dials",
       "url": "https://www.fratellowatches.com/the-awake-son-mai-collection-adds-bold-silver-leaf-vignette-dials/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Awake-Silver-Leaf-11.jpg",
-      "peek_preview": "Awake opened a new chapter when it first combined silver leaf and Vietnamese Sơn Mài lacquer in 2024. The approach changed the brand’s aesthetic immediately by placing métiers d’art at the center of each new release. Im...",
+      "peek_preview": "Awake opened a new chapter when it first combined silver leaf and Vietnamese Sơn Mài lacquer in 2024. The approach immediately changed the brand’s aesthetic by placing métiers d’art at the center of each new release. Im...",
       "categories": [
         "Hands-On",
         "Watch Releases",
@@ -390,7 +390,7 @@
       "score_quality": 78,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -460,7 +460,7 @@
       "score_quality": 74,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -2447,6 +2447,38 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
+      "cluster_main": true
+    },
+    {
+      "title": "Casio G-Shock Blue Rose Projekt: 80.000 Euro für eine Uhr aus blauem Saphir",
+      "url": "https://www.uhrenkosmos.com/casio-g-shock-blue-rose-project-mrg-d5000-bdr/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/G-Shock-MRG-5000-Aufmacher.jpg",
+      "peek_preview": "80.000 Euro für eine G-Shock? Kein Druckfehler, sondern der Preis der weltweit auf 20 Exemplare limitierten Casio MRG-D5000-BDR. Ihr spektakuläres Gehäuse aus blauem Saphir krönt die Casio G-Shock Blue Rose Kollektion....",
+      "categories": [
+        "Marken & Macher",
+        "Aktuelle Uhren",
+        "Casio",
+        "Casio G-Shock",
+        "G-Shock",
+        "G-Shock DW-5000C",
+        "G-Shock G-D001",
+        "G-Shock G-D5000-9JR",
+        "G-Shock GMW-B5000SB-1A2ER",
+        "G-Shock MRG-B2000JS Juryoku-Maru: San",
+        "G-Shock MRG-B2000SH Shougeki-Maru",
+        "G-Shock MRG-B5000SA-2DR Super Blue",
+        "G-Shock MRG-D 5000",
+        "G-Shock MRG-G2000HT",
+        "G-Shock-Unikat G-D001",
+        "Kikuo Ibe"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-01T14:05:29.000Z",
+      "score_quality": 68,
+      "score_notif": 31,
+      "cluster": "20261101-9ba903ad411f",
       "cluster_main": true
     }
   ]
