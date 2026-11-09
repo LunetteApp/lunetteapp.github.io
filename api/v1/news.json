@@ -1,6 +1,6 @@
 {
-  "content_hash": "d238b876f3d45b978832f8da4779b2d5c08c39f67c36f9fd2d79430025ac3931",
-  "last_updated": "2026-11-09T06:47:25.370Z",
+  "content_hash": "6d045b30753cc534934700ccf27eaecbdb3d49d42022fb92bfd77e61a8137d0c",
+  "last_updated": "2026-11-09T07:47:47.050Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T06:00:50.000Z"
     },
     {
@@ -29,7 +29,7 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
+      "estimated_articles_per_day": 1.9,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-08T08:01:54.000Z"
     },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T06:23:46.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T06:30:00.000Z"
     },
     {
@@ -1149,7 +1149,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -1167,7 +1167,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Massimo Osti e il suo Rolex Sea-Dweller 1665: una storia scritta nell’argento",
@@ -2490,6 +2490,25 @@
       "score_notif": 33,
       "cluster": "20261030-feb949fd2d7a",
       "cluster_main": true
+    },
+    {
+      "title": "Louis Erard Porta il Retro-Futurismo di Halter sul Tuo Polso",
+      "url": "https://www.orologidiclasse.com/louis-erard-vianney-halter-futur-anterieur/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/louis-erard-vianney-halter-futur-anterieur-gold-tre-quarti.jpg",
+      "peek_preview": "Louis Erard porta al polso una delle novità 2026 più attese dagli appassionati di orologeria indipendente: il Louis Erard x Vianney Halter Futur Antérieur Gold e il Louis Erard x Vianney Halter Futur Antérieur Silver, d...",
+      "categories": [
+        "Novità Orologi",
+        "Edizione Limitata",
+        "Orologiai Indipendenti"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-10-30T17:26:30.000Z",
+      "score_quality": 55,
+      "score_notif": 34,
+      "cluster": "20261030-86e207fd6de7",
+      "cluster_main": false
     }
   ]
 }
