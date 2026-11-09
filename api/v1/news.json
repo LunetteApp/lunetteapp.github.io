@@ -1,6 +1,6 @@
 {
-  "content_hash": "9c480cd7e8e87151f5d07acd1c6138d98ac27ad95893b77d67730dd304f34619",
-  "last_updated": "2026-11-09T17:48:24.568Z",
+  "content_hash": "b552727f9d1396ecfb7996b97356b6b6810722a7940a112c6ea80ed00acaa7ad",
+  "last_updated": "2026-11-09T18:47:34.156Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T17:05:54.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T17:26:23.000Z"
     },
     {
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T17:05:12.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T16:49:18.000Z"
     },
     {
@@ -318,7 +318,7 @@
       "score_quality": 78,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -388,7 +388,7 @@
       "score_quality": 74,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -2425,6 +2425,55 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
+      "cluster_main": true
+    },
+    {
+      "title": "Casio G-Shock Blue Rose Projekt: 80.000 Euro für eine Uhr aus blauem Saphir",
+      "url": "https://www.uhrenkosmos.com/casio-g-shock-blue-rose-project-mrg-d5000-bdr/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/G-Shock-MRG-5000-Aufmacher.jpg",
+      "peek_preview": "80.000 Euro für eine G-Shock? Kein Druckfehler, sondern der Preis der weltweit auf 20 Exemplare limitierten Casio MRG-D5000-BDR. Ihr spektakuläres Gehäuse aus blauem Saphir krönt die Casio G-Shock Blue Rose Kollektion....",
+      "categories": [
+        "Marken & Macher",
+        "Aktuelle Uhren",
+        "Casio",
+        "Casio G-Shock",
+        "G-Shock",
+        "G-Shock DW-5000C",
+        "G-Shock G-D001",
+        "G-Shock G-D5000-9JR",
+        "G-Shock GMW-B5000SB-1A2ER",
+        "G-Shock MRG-B2000JS Juryoku-Maru: San",
+        "G-Shock MRG-B2000SH Shougeki-Maru",
+        "G-Shock MRG-B5000SA-2DR Super Blue",
+        "G-Shock MRG-D 5000",
+        "G-Shock MRG-G2000HT",
+        "G-Shock-Unikat G-D001",
+        "Kikuo Ibe"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-01T14:05:29.000Z",
+      "score_quality": 58,
+      "score_notif": 26,
+      "cluster": "20261101-9ba903ad411f",
+      "cluster_main": true
+    },
+    {
+      "title": "Alpina, Chronométreur Officiel de la Route du Rhum, dévoile deux éditions limitées",
+      "url": "https://www.welovewatches.fr/alpina-chronometreur-officiel-de-la-route-du-rhum-devoile-deux-editions-limitees.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/09/presentation-montres-collaboration-alpina-x-route-du-rhum-2026.jpg",
+      "peek_preview": "Aujourd'hui, les marins de la 13ème Route du Rhum – Destination Guadeloupe s'élancent de Saint-Malo, cap sur Pointe-à-Pitre, avec un objectif clair : battre le précédent record de 6 jours, 19 heures, 47 minutes et...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-01T06:30:00.000Z",
+      "score_quality": 51,
+      "score_notif": 22,
+      "cluster": "20261101-2f68ce0bed43",
       "cluster_main": true
     }
   ]
