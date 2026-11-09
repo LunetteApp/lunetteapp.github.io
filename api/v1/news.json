@@ -1,6 +1,6 @@
 {
-  "content_hash": "6d27b32d65bc9c3914b855367c962c00e5e2a21bf13efa3d0de630638eec973f",
-  "last_updated": "2026-11-09T03:47:12.418Z",
+  "content_hash": "d238b876f3d45b978832f8da4779b2d5c08c39f67c36f9fd2d79430025ac3931",
+  "last_updated": "2026-11-09T06:47:25.370Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-08T12:33:19.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T06:00:50.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-08T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T06:23:46.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T16:01:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T06:30:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T03:00:51.000Z"
     },
     {
@@ -175,6 +175,40 @@
     }
   ],
   "items": [
+    {
+      "title": "Patrouille de France Athos 7 : un chronographe carré made in France à prix doux",
+      "url": "https://www.welovewatches.fr/patrouille-de-france-athos-7-un-chronographe-carre-made-in-france-a-prix-doux.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/presentation-montres-patrouille-de-france-athos-7.jpg",
+      "peek_preview": "Tout le monde connaît la Patrouille de France et ses Alpha Jet qui dessinent dans le ciel les couleurs du drapeau tricolore. Mais saviez-vous qu'elle a aussi donné son nom à une marque de montres...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-09T06:30:00.000Z",
+      "score_quality": 58,
+      "score_notif": 61,
+      "cluster": "20261109-a5534f279332",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: The Sinn EZM 19 — A Mission Timer Designed For The Command Room",
+      "url": "https://www.fratellowatches.com/hands-on-the-sinn-ezm-19-a-mission-timer-designed-for-the-command-room/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Sinn-EZM-19-2.jpg",
+      "peek_preview": "Some watches are designed for the cockpit, the dive site, or the open road. The new Sinn EZM 19 has a rather different workplace in mind — the command room. Developed with Tomas Stanke, senior fire director and head of...",
+      "categories": [
+        "Watch Review"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T06:00:50.000Z",
+      "score_quality": 83,
+      "score_notif": 63,
+      "cluster": "20261109-460c7a0180a1",
+      "cluster_main": true
+    },
     {
       "title": "ベル＆ロスがスピードスキーの世界記録保持者に捧ぐ「BR-05 クロノ スノーロケット」を発表",
       "url": "https://www.webchronos.net/news/178027/",
@@ -434,7 +468,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Archi Works × AVW The Diplomat 1.87",
@@ -508,7 +542,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -1115,7 +1149,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Breguet Classique Souscription In Platinum",
@@ -1133,24 +1167,6 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261106-c52d8e3914b0",
-      "cluster_main": false
-    },
-    {
-      "title": "Omega Silently Introduces Two New Seamaster Diver 300M Models In Blue And Brown Ceramic",
-      "url": "https://www.fratellowatches.com/omega-silently-introduces-two-new-seamaster-diver-300m-models-in-blue-and-brown-ceramic/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Ceramic-SMP-300M-November-2926-cover.jpg",
-      "peek_preview": "Omega has quietly expanded its Seamaster Diver 300M collection with two new 43.5mm ceramic models. Available in blue and brown, the latest additions combine matching ceramic cases and wave-pattern dials with curved-end...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T08:44:49.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20261106-b7aa74e7b751",
       "cluster_main": true
     },
     {
@@ -2473,40 +2489,6 @@
       "score_quality": 57,
       "score_notif": 33,
       "cluster": "20261030-feb949fd2d7a",
-      "cluster_main": true
-    },
-    {
-      "title": "Louis Erard Porta il Retro-Futurismo di Halter sul Tuo Polso",
-      "url": "https://www.orologidiclasse.com/louis-erard-vianney-halter-futur-anterieur/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/10/louis-erard-vianney-halter-futur-anterieur-gold-tre-quarti.jpg",
-      "peek_preview": "Louis Erard porta al polso una delle novità 2026 più attese dagli appassionati di orologeria indipendente: il Louis Erard x Vianney Halter Futur Antérieur Gold e il Louis Erard x Vianney Halter Futur Antérieur Silver, d...",
-      "categories": [
-        "Novità Orologi",
-        "Edizione Limitata",
-        "Orologiai Indipendenti"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-10-30T17:26:30.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261030-86e207fd6de7",
-      "cluster_main": false
-    },
-    {
-      "title": "Cartier Tank Americaine Review: Understanding The Art Deco Icon",
-      "url": "https://teddybaldassarre.com/blogs/watches/cartier-tank-americaine-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Cartier-Tank-Americaine-reclining-2.jpg?v=1792778552",
-      "peek_preview": "The Cartier Tank, designed in 1917 and launched in 1919, is one of the most recognizable and status-conferring watches in the world. It has been in continuous production for nearly 120 years, with countless variations,...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-30T16:56:24.000Z",
-      "score_quality": 72,
-      "score_notif": 29,
-      "cluster": "20261030-e41b5b4fbabf",
       "cluster_main": true
     }
   ]
