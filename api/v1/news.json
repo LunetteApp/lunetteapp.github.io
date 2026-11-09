@@ -1,6 +1,6 @@
 {
-  "content_hash": "ffb89628b3120d5e022863d82f1c8d3d9683084f1b75c6be6201e9103f0ba79d",
-  "last_updated": "2026-11-09T14:47:44.374Z",
+  "content_hash": "016ffc62afd262aa75cb0a692f11c9cd540f523a9a394a825311b496e6a7e95d",
+  "last_updated": "2026-11-09T15:47:18.894Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T14:00:43.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T14:00:36.000Z"
     },
     {
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T14:04:59.000Z"
     },
     {
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T06:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T15:22:48.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
+      "url": "https://www.welovewatches.fr/gphg-2026-rexhep-rexhepi-decroche-laiguille-dor-voici-le-palmares-complet.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/gphg-2026-une-montres-laureates-1940x1280-1.jpg",
+      "peek_preview": "Le Chronographe Flyback de Rexhep Rexhepi a remporté l'Aiguille d'Or le week-end à Genève. La Blancpain Grande Double Sonnerie décroche le prix de l'Exception Mécanique et la Royal Oak « Jumbo » RD#5 d'Audemars Piguet...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-09T15:22:48.000Z",
+      "score_quality": 69,
+      "score_notif": 34,
+      "cluster": "20261107-8929459aff2d",
+      "cluster_main": false
+    },
     {
       "title": "Horologically Unique porta al polso il Chronoscope Art Déco degli anni Venti",
       "url": "https://www.orologidiclasse.com/horologically-unique-hu-02/",
@@ -483,8 +500,8 @@
       "published_at": "2026-11-09T03:00:51.000Z",
       "score_quality": 54,
       "score_notif": 34,
-      "cluster": "20261031-afd427a38223",
-      "cluster_main": false
+      "cluster": "20261109-cbe3eb25c977",
+      "cluster_main": true
     },
     {
       "title": "Shaping the Tourbillon: The Unsigned Carriages",
@@ -730,7 +747,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Archi Works × AVW The Diplomat 1.87",
@@ -804,7 +821,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -2466,30 +2483,6 @@
       "score_notif": 34,
       "cluster": "20261030-86e207fd6de7",
       "cluster_main": false
-    },
-    {
-      "title": "Bell & Ross BR-05 Chrono Snow Rocket: Speed Skiing Tribute With 60-Hour Calibre",
-      "url": "https://deployant.com/bell-ross-br-05-chrono-snow-rocket-speed-skiing-tribute-60-hour-calibre/?utm_source=rss&utm_medium=rss&utm_campaign=bell-ross-br-05-chrono-snow-rocket-speed-skiing-tribute-60-hour-calibre",
-      "image": "https://deployant.com/wp-content/uploads/2026/10/br-05-chrono-snow-rocket-hero-front-angle-deployant.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Bell & Ross expands its urban sports collection with the BR-05 Chrono Snow Rocket, a 250-piece limited edition paying tribute to speed skier Simon Billy. The...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "1815 Chronograph",
-        "bell & ross",
-        "blue steel",
-        "limited edition",
-        "luxury sports watch"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-10-31T13:30:00.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261031-afd427a38223",
-      "cluster_main": true
     }
   ]
 }
