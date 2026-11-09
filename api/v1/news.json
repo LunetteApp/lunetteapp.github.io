@@ -1,6 +1,6 @@
 {
-  "content_hash": "016ffc62afd262aa75cb0a692f11c9cd540f523a9a394a825311b496e6a7e95d",
-  "last_updated": "2026-11-09T15:47:18.894Z",
+  "content_hash": "3f56608ac855838e4257112f75f616ad11a100b6778a874a173c799ba4e3b30f",
+  "last_updated": "2026-11-09T16:47:55.631Z",
   "premium": {
     "links": []
   },
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-09T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-09T15:22:48.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [October 2026]",
+      "url": "https://www.hodinkee.com/articles/watch-spotting-at-the-hodinkee-happy-hour-october-2026",
+      "image": "https://hodinkee.imgix.net/uploads/images/10dde5ac-d0e1-4750-ac7f-2acf7170e656/WatchSpottingOct26HERO.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A busy week in New York couldn't stop us from hosting another Hodinkee Happy Hour.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T16:00:00.000Z",
+      "score_quality": 38,
+      "score_notif": 22,
+      "cluster": "20261109-958583619ba5",
+      "cluster_main": true
+    },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
       "url": "https://www.welovewatches.fr/gphg-2026-rexhep-rexhepi-decroche-laiguille-dor-voici-le-palmares-complet.html",
@@ -270,7 +285,7 @@
       "score_quality": 78,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -340,7 +355,7 @@
       "score_quality": 74,
       "score_notif": 71,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -747,7 +762,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Archi Works × AVW The Diplomat 1.87",
@@ -821,7 +836,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -1064,7 +1079,7 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: CWC Navy Eighty CD-1",
@@ -1518,21 +1533,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Louis Vuitton Tambour Convergence Mirror Steel",
-      "url": "https://www.hodinkee.com/articles/louis-vuitton-tambour-convergence-mirror-steel",
-      "image": "https://hodinkee.imgix.net/uploads/articles/3b099a90-4352-48f5-8a22-7f001feb8459/LV-Tambour-Convergence-Mirror-Steel-HERO.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The guichet-style watch gets a decidedly new (and shiny) look.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T19:00:00.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261105-23bcd106affe",
-      "cluster_main": true
-    },
-    {
       "title": "Yema reaches for the Moon with the new Senans Grande Lune CMM.22",
       "url": "https://timeandtidewatches.com/yema-senans-grande-lune-cmm-22-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-yema-senans-grande-lune.jpg",
@@ -1834,7 +1834,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261104-b13ebd2ff879",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Newsflash: You don’t need to spend $100k on an ‘independent’ watch.",
