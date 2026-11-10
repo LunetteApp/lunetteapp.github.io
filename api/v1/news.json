@@ -1,6 +1,6 @@
 {
-  "content_hash": "087e86441b175d58e22636fd3223def9789b0dd905b765aa47fdb2e4504f92d6",
-  "last_updated": "2026-11-10T15:47:31.961Z",
+  "content_hash": "0ad24219b26d797f0a7431b6e186a2baee7259b4375883f43f28ca6580971067",
+  "last_updated": "2026-11-10T16:47:27.117Z",
   "premium": {
     "links": []
   },
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T21:49:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T16:26:24.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,21 +65,21 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T14:00:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T16:18:56.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T15:35:37.000Z"
     },
     {
@@ -120,9 +120,9 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T16:49:18.000Z"
+      "estimated_articles_per_day": 0.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T16:07:35.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,81 @@
     }
   ],
   "items": [
+    {
+      "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
+      "url": "https://teddybaldassarre.com/blogs/watches/anordain-watches-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/AnOrdain-Model-1-collection-2.jpg?v=1794245850",
+      "peek_preview": "In watchmaking, grand feu enameling is easily one of the industry's most unforgiving disciplines. The process sounds straightforward enough: dusting a metal disk with powdered glass and firing it at 800°C. But in realit...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T16:26:24.000Z",
+      "score_quality": 66,
+      "score_notif": 24,
+      "cluster": "20261110-a8d8fa80300f",
+      "cluster_main": true
+    },
+    {
+      "title": "Vacheron Constantin’s Fiftysix in Shades of Grey",
+      "url": "https://watchesbysjx.com/2026/11/vacheron-constantin-fiftysix.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Vacheron-Constantin-Fiftysix-3x2-centred-header-300x200.jpg",
+      "peek_preview": "Vacheron Constantin has refreshed the Fiftysix Self-Winding and Fiftysix Complete Calendar with grey gradient dials and contrasting brushed and polished case finishes. The changes give the brand’s most accessible collec...",
+      "categories": [
+        "News",
+        "New Watches 2026",
+        "Vacheron Constantin"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T16:18:56.000Z",
+      "score_quality": 78,
+      "score_notif": 68,
+      "cluster": "20261110-1570288cfcaf",
+      "cluster_main": false
+    },
+    {
+      "title": "Sembra un moschettone, costa meno di 50 euro ed è andato sold out in 2 minuti: il caso DWC Terra",
+      "url": "https://italianwatchspotter.com/dwc-terra-orologio-moschettone-sold-out/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/Screenshot2026-06-20at4.23.39AM.png-1-896x1024.webp",
+      "peek_preview": "Un orologio da meno di 50 euro, una cassa ispirata a un moschettone e 1.700 esemplari esauriti in meno di due minuti. A volte, per attirare l’attenzione del mondo dell’orologeria, bastano un’idea fuori dagli schemi e un...",
+      "categories": [
+        "Nuovi Orologi 2026",
+        "Delhi Watch Company",
+        "DWC",
+        "Field Watch",
+        "microbrand",
+        "moschettone",
+        "Orologi 2026",
+        "Orologi al quarzo",
+        "Orologi Economici",
+        "Terra"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-10T16:07:35.000Z",
+      "score_quality": 57,
+      "score_notif": 56,
+      "cluster": "20261110-551c45b44483",
+      "cluster_main": true
+    },
+    {
+      "title": "Auctions: Three Big Takeaways From The Geneva Fall Auction Season",
+      "url": "https://www.hodinkee.com/articles/three-takeaways-from-the-geneva-fall-auction-season",
+      "image": "https://hodinkee.imgix.net/uploads/articles/b1d62720-f7ce-4967-a24a-865a952b92f1/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Who is up, who is down, and who is confused. Including the author.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T16:00:00.000Z",
+      "score_quality": 72,
+      "score_notif": 49,
+      "cluster": "20261110-74b7216d083b",
+      "cluster_main": true
+    },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
       "url": "https://timeandtidewatches.com/mbf-lm101-gabriel-colliard-introducing/",
@@ -251,7 +326,7 @@
       "score_quality": 85,
       "score_notif": 68,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Voisin Aerosport, Albishorn’s Retro-Futuristic Take on the Dress Watch",
@@ -348,7 +423,7 @@
       "score_quality": 79,
       "score_notif": 67,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F Taps Cloisonné Artist Gabriel Colliard for LM101",
@@ -403,7 +478,7 @@
       "score_quality": 80,
       "score_notif": 67,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Laurent Ferrier Grand Sport Tourbillon Iceberg: Cool And Concealed",
@@ -530,7 +605,7 @@
       "score_quality": 75,
       "score_notif": 68,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour",
@@ -1644,7 +1719,7 @@
       "score_quality": 54,
       "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex verso il miliardo di dollari: il boom del Certified Pre-Owned",
@@ -1705,7 +1780,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Trafford Violet Crown captures the spectacular sunsets of Austin, Texas",
@@ -1937,7 +2012,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -2062,7 +2137,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -2345,7 +2420,7 @@
       "published_at": "2026-11-03T15:51:30.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261103-481e652117f6",
+      "cluster": "20261103-260d4f2633b6",
       "cluster_main": true
     },
     {
@@ -2363,88 +2438,6 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261103-24b912874e01",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-on Review: Strehler Säntis Worldtimer",
-      "url": "https://deployant.com/hands-on-review-strehler-santis-worldtimer/?utm_source=rss&utm_medium=rss&utm_campaign=hands-on-review-strehler-santis-worldtimer",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/strehler-gmt-wrist.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors When I first introduced the Strehler Säntis Worldtimer in March 2026, I had already known Andreas Strehler for more than two decades. This longstanding relati...",
-      "categories": [
-        "Reviews",
-        "Watches",
-        "andreas strehler",
-        "strehler",
-        "worldtimer"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T13:30:00.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261103-6a889ad8ba3a",
-      "cluster_main": true
-    },
-    {
-      "title": "A Closer Look At The Armin Strom Mirrored Force Resonance Zeitgeist 1665",
-      "url": "https://www.atimelyperspective.com/a-closer-look-at-the-armin-strom-mirrored-force-resonance-zeitgeist-1665-price/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/LR_AS_RK_MFR_Zeitgeist_1665_3N_Wristshot01-1024x683.jpg",
-      "peek_preview": "There are certain independent watch brands that seem to thrive on making a lot of noise about their accomplishments. Then there are those that quietly go about their business, creating exceptional timepieces that speak...",
-      "categories": [
-        "Armin Strom",
-        "Complicated Watches",
-        "Timepieces News, Reviews and Articles",
-        "Armin Strom Mirrored Force Resonance Zeitgeist 1665"
-      ],
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T11:36:42.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261103-481e652117f6",
-      "cluster_main": false
-    },
-    {
-      "title": "Hands-On With Louis Vuitton’s Fashionable, Lugless, Ceramic-Cased Monterey Watches",
-      "url": "https://www.ablogtowatch.com/hands-on-with-louis-vuittons-fashionable-lugless-ceramic-cased-monterey-watches/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Louis-Vuitton-Monterey-Ceramic-watches-1-768x346.jpg",
-      "peek_preview": "One of my favorite watch brands to cover is Louis Vuitton, because of how unpredictable their new release or next brand direction will be. The Paris-based luxury firm clearly makes a lot more than just watches, but even...",
-      "categories": [
-        "Hands-On",
-        "Ceramic Watches",
-        "Vintage Style Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T08:01:19.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20261103-c343e3ad3810",
-      "cluster_main": true
-    },
-    {
-      "title": "Dr. Ernst Kurtz: L’avvocato che ha inventato l’orologio da polso tedesco",
-      "url": "https://www.orologidiclasse.com/ernst-kurtz-orologio-da-polso-tedesco/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/ernst-kurtz-laboratorio-orologeria-glashutte.jpg",
-      "peek_preview": "Cento anni fa esatti, la capitale mondiale dell’orologeria tedesca era sull’orlo del baratro. Non per mancanza di talento – Glashütte ne aveva da vendere, da quando Ferdinand Adolph Lange aveva fondato la sua manifattur...",
-      "categories": [
-        "Original Time | Glashütte Original Magazine",
-        "Alta Orologeria",
-        "GLASHÜTTE ORIGINAL",
-        "Storie"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-03T07:20:50.000Z",
-      "score_quality": 73,
-      "score_notif": 24,
-      "cluster": "20261103-b0a6bc698352",
       "cluster_main": true
     }
   ]
