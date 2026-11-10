@@ -1,6 +1,6 @@
 {
-  "content_hash": "97b745d4c7c81f7c257060f8f9fa5d5f7475827c0d296f4f6734edf6dcae855a",
-  "last_updated": "2026-11-10T08:47:36.584Z",
+  "content_hash": "25b1e9c5e2936569ed796afa6f7aa19d5971711c2201340d63ff2630663dd486",
+  "last_updated": "2026-11-10T09:47:41.486Z",
   "premium": {
     "links": []
   },
@@ -8,8 +8,8 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.3,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T08:00:53.000Z"
     },
     {
@@ -22,22 +22,22 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.4,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T08:01:14.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T08:10:21.000Z"
     },
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T08:32:11.000Z"
     },
     {
@@ -50,9 +50,9 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T12:23:15.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T09:00:08.000Z"
     },
     {
       "source_name": "Deployant",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T08:00:00.000Z"
     },
     {
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin Unveils Stainless Steel Fiftysix With Striking New Dials",
+      "url": "https://www.atimelyperspective.com/vacheron-constantin-unveils-fiftysix-with-striking-new-dials/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/FIFTYSIX_SDT_4600E-000A-H177-724x1024.jpeg",
+      "peek_preview": "Sometimes it doesn’t take an entirely new watch to make a statement. Sometimes, a fresh approach to color, texture and finishing is enough to transform a familiar design. That’s exactly what Vacheron Constantin is doing...",
+      "categories": [
+        "Calendar Watches",
+        "Timepieces News, Reviews and Articles",
+        "Vacheron Constantin",
+        "Vacheron Constantin FiftySix"
+      ],
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T09:00:08.000Z",
+      "score_quality": 64,
+      "score_notif": 72,
+      "cluster": "20261110-1570288cfcaf",
+      "cluster_main": false
+    },
     {
       "title": "Rapid Geneva Auction Recap with Mike Nouveau",
       "url": "https://www.unpolishedwatches.com/p/rapid-geneva-auction-recap-with-mike",
@@ -1752,7 +1772,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -1894,7 +1914,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -2419,33 +2439,6 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261102-fd95f5732ee5",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex Biel: Die Werkgeschichte von Aegler bis Bulle in Zahlen",
-      "url": "https://www.uhrenkosmos.com/rolex-biel-werke-geschichte-kaliber-in-zahlen/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2018/11/Rolex-Biel_Aufmacher.jpg",
-      "peek_preview": "Die Rolex Werke im Schnelldurchlauf: von Aegler über den Rotoraufzug und die Übernahme 2004 bis zum Neubau in Biel und dem Projekt in Bulle. Mit Zeitleiste, den zehn wichtigsten Kalibern und dem Stand der neuen Standort...",
-      "categories": [
-        "Kaliber",
-        "Rolex",
-        "Wissen & Technik",
-        "Aegler",
-        "Harry Borer",
-        "Manufacture des Montres Rolex SA",
-        "Manufaktur",
-        "Rolex Biel",
-        "Rolex Fabrik",
-        "Rolex Manufaktur",
-        "Rolex-Werk"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-02T16:36:35.000Z",
-      "score_quality": 72,
-      "score_notif": 24,
-      "cluster": "20261102-d333d68d2a4f",
       "cluster_main": true
     }
   ]
