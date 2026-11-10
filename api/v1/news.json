@@ -1,6 +1,6 @@
 {
-  "content_hash": "2653d092791ccada6ec853d5172ecd006b91d3f011fb48ba2fecd647ec3e1fd4",
-  "last_updated": "2026-11-10T17:48:03.984Z",
+  "content_hash": "4e62adac284ec447dbecb137844c840c8b014237933ac5de24b675fb84cd4b4a",
+  "last_updated": "2026-11-10T18:47:12.214Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T17:00:37.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T17:10:05.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T16:00:00.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T18:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,21 @@
   ],
   "items": [
     {
+      "title": "Introducing: Albishorn's Second Model — The Voisin Aérosport (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/introducing-albishorn-voisin-aerosport",
+      "image": "https://hodinkee.imgix.net/uploads/articles/236af23a-f8a5-4ce3-bca3-589af55c6143/20261108_AlbishornVoisinAerosport_025.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A strong, small brand may just have a breakout release that brings a far larger audience to some already-great design.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T18:00:00.000Z",
+      "score_quality": 84,
+      "score_notif": 67,
+      "cluster": "20261110-98afb2de3f17",
+      "cluster_main": true
+    },
+    {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
       "url": "https://wornandwound.com/nomos-introduces-a-new-all-silver-version-of-the-club-sport-neomatik-34/",
       "image": "https://wornandwound.com/library/uploads/2026/11/Nomos-Club-Sport-Silver-4.jpg",
@@ -191,7 +206,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -364,9 +379,9 @@
       "featured": false,
       "published_at": "2026-11-10T14:01:25.000Z",
       "score_quality": 79,
-      "score_notif": 63,
+      "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -383,7 +398,7 @@
       "featured": false,
       "published_at": "2026-11-10T14:00:23.000Z",
       "score_quality": 73,
-      "score_notif": 63,
+      "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
       "cluster_main": false
     },
@@ -400,7 +415,7 @@
       "featured": false,
       "published_at": "2026-11-10T14:00:17.000Z",
       "score_quality": 75,
-      "score_notif": 63,
+      "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
       "cluster_main": false
     },
@@ -441,7 +456,7 @@
       "score_quality": 79,
       "score_notif": 67,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F Taps Cloisonné Artist Gabriel Colliard for LM101",
@@ -496,7 +511,7 @@
       "score_quality": 80,
       "score_notif": 67,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Laurent Ferrier Grand Sport Tourbillon Iceberg: Cool And Concealed",
@@ -590,7 +605,7 @@
       "score_quality": 79,
       "score_notif": 68,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Two New Vacheron Constantin Fiftysix Watches With Tuxedo Dials",
@@ -623,7 +638,7 @@
       "score_quality": 75,
       "score_notif": 68,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour",
@@ -922,7 +937,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Ming 51.01 Halo, a Contemporary Dress Watch in Crystallised Titanium",
@@ -943,7 +958,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1013,7 +1028,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -1028,7 +1043,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
@@ -1554,7 +1569,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
@@ -2010,7 +2025,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -2117,7 +2132,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
