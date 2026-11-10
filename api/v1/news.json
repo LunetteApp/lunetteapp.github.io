@@ -1,6 +1,6 @@
 {
-  "content_hash": "0ad24219b26d797f0a7431b6e186a2baee7259b4375883f43f28ca6580971067",
-  "last_updated": "2026-11-10T16:47:27.117Z",
+  "content_hash": "2653d092791ccada6ec853d5172ecd006b91d3f011fb48ba2fecd647ec3e1fd4",
+  "last_updated": "2026-11-10T17:48:03.984Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T14:00:17.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T17:00:37.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T14:01:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T17:10:05.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T16:26:24.000Z"
     },
     {
@@ -65,14 +65,14 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T16:18:56.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T16:07:35.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
+      "url": "https://wornandwound.com/nomos-introduces-a-new-all-silver-version-of-the-club-sport-neomatik-34/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Nomos-Club-Sport-Silver-4.jpg",
+      "peek_preview": "My first job out of college was working as a timeshare salesman (imagine me at 21 years old telling you how to spend a quarter of a million dollars). And while the job was bad enough, the true nail in the coffin for my...",
+      "categories": [
+        "News & Releases",
+        "Nomos"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T17:00:37.000Z",
+      "score_quality": 70,
+      "score_notif": 34,
+      "cluster": "20261107-accf94097850",
+      "cluster_main": true
+    },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
       "url": "https://teddybaldassarre.com/blogs/watches/anordain-watches-review",
@@ -423,7 +441,7 @@
       "score_quality": 79,
       "score_notif": 67,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F Taps Cloisonné Artist Gabriel Colliard for LM101",
@@ -478,7 +496,7 @@
       "score_quality": 80,
       "score_notif": 67,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Laurent Ferrier Grand Sport Tourbillon Iceberg: Cool And Concealed",
@@ -496,7 +514,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261104-e3b7ea9d83f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Unveils Stainless Steel Fiftysix With Striking New Dials",
@@ -572,7 +590,7 @@
       "score_quality": 79,
       "score_notif": 68,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Two New Vacheron Constantin Fiftysix Watches With Tuxedo Dials",
@@ -605,7 +623,7 @@
       "score_quality": 75,
       "score_notif": 68,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour",
@@ -1480,26 +1498,6 @@
       "cluster_main": true
     },
     {
-      "title": "Live Stream – Watch the GPHG 2026 Ceremony, the Oscars of the Watchmaking Industry",
-      "url": "https://monochrome-watches.com/live-stream-gphg-2026-ceremony-oscars-watchmaking/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/GPHG-2026-live-Stream-600x237.jpg",
-      "peek_preview": "As every year, it is time for the watch industry to celebrate watchmaking, watchmakers and watches in general. The so-called 2026 Oscars of the Watchmaking industry, the Grand Prix d’Horlogerie de Genève (GPHG) 2026, is...",
-      "categories": [
-        "GPHG",
-        "2026",
-        "Events",
-        "Industry news"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-07T17:10:46.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261107-4a003e0cad2f",
-      "cluster_main": true
-    },
-    {
       "title": "New releases from Andersen, Roger Dubuis, Louis Vuitton and more",
       "url": "https://timeandtidewatches.com/andersen-roger-dubuis-louis-vuitton-last-week-in-watches/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/louis-vuitton-web-.jpg",
@@ -1530,7 +1528,7 @@
       "score_quality": 43,
       "score_notif": 34,
       "cluster": "20261107-4a003e0cad2f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "NOMOS Club Sport neomatik 34 All Silver: Compact In-House 200M Sports Automatic",
@@ -1556,7 +1554,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
@@ -1719,7 +1717,7 @@
       "score_quality": 54,
       "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex verso il miliardo di dollari: il boom del Certified Pre-Owned",
@@ -1780,7 +1778,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Trafford Violet Crown captures the spectacular sunsets of Austin, Texas",
@@ -1814,8 +1812,8 @@
       "published_at": "2026-11-06T13:48:56.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261105-eadd13b58afc",
-      "cluster_main": false
+      "cluster": "20261106-52d3d984bbde",
+      "cluster_main": true
     },
     {
       "title": "Introducing: URWERK UR-300 Time Quantum—The Hour Display That Rebuilds Itself in a Blink",
@@ -2012,7 +2010,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -2057,24 +2055,6 @@
       "score_quality": 53,
       "score_notif": 34,
       "cluster": "20261105-be6001ebd526",
-      "cluster_main": true
-    },
-    {
-      "title": "Serica Introduces the 8315-3 Golden Green Travel Chronometer",
-      "url": "https://wornandwound.com/serica-introduces-the-8315-3-golden-green-travel-chronometer/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Serica-green-GMT-banner.jpg",
-      "peek_preview": "French microbrand Serica has toiled since 2019 to create an aesthetic that makes their watches instantly recognizable—rounded design elements with precise proportions, even wildly varying models like their field watch,...",
-      "categories": [
-        "News & Releases",
-        "Serica"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T15:00:58.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261105-eadd13b58afc",
       "cluster_main": true
     },
     {
@@ -2137,7 +2117,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -2270,7 +2250,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261104-e3b7ea9d83f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
