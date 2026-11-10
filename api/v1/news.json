@@ -1,6 +1,6 @@
 {
-  "content_hash": "4e62adac284ec447dbecb137844c840c8b014237933ac5de24b675fb84cd4b4a",
-  "last_updated": "2026-11-10T18:47:12.214Z",
+  "content_hash": "1f48c4662ca802fa5e7b5a43b4a27da694ca4a440c835572cf7a5cb8bdff8960",
+  "last_updated": "2026-11-10T19:48:01.587Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T14:00:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T19:10:06.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T18:00:00.000Z"
     },
     {
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T15:35:37.000Z"
+      "latest_article_at": "2026-11-10T16:31:00.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,23 @@
   ],
   "items": [
     {
+      "title": "Fratello On Air: A Closer Look At German Watch Brands",
+      "url": "https://www.fratellowatches.com/fratello-on-air-a-closer-look-at-german-watch-brands/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Sinn-U50-4.jpg",
+      "peek_preview": "Welcome to another episode of Fratello On Air! This week, we discuss German watch brands, focusing on the sportier marques. There’s no doubt about it; this show is close to our hearts. Balazs lives in the Fatherland, an...",
+      "categories": [
+        "Podcast"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T19:10:06.000Z",
+      "score_quality": 60,
+      "score_notif": 26,
+      "cluster": "20261110-0aec3b4ac12c",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: Albishorn's Second Model — The Voisin Aérosport (Live Pics)",
       "url": "https://www.hodinkee.com/articles/introducing-albishorn-voisin-aerosport",
       "image": "https://hodinkee.imgix.net/uploads/articles/236af23a-f8a5-4ce3-bca3-589af55c6143/20261108_AlbishornVoisinAerosport_025.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -207,6 +224,26 @@
       "score_notif": 34,
       "cluster": "20261107-accf94097850",
       "cluster_main": false
+    },
+    {
+      "title": "11 of the best time-only watches, when simplicity is all you need",
+      "url": "https://timeandtidewatches.com/best-time-only-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/time-only-watches-2026-featured-image.webp",
+      "peek_preview": "There's something about a time-only watch that stands out. The post 11 of the best time-only watches, when simplicity is all you need appeared first on Time+Tide Watches.",
+      "categories": [
+        "Buying Guides",
+        "meta:buying-guide",
+        "meta:evergreen",
+        "meta:top-ranked"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T16:31:00.000Z",
+      "score_quality": 35,
+      "score_notif": 23,
+      "cluster": "20261110-f6630bd296f8",
+      "cluster_main": true
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -296,7 +333,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "featured": false,
-      "published_at": "2026-11-10T15:35:37.000Z",
+      "published_at": "2026-11-10T15:31:37.000Z",
       "score_quality": 72,
       "score_notif": 67,
       "cluster": "20261110-da86922f64fd",
@@ -322,26 +359,6 @@
       "score_quality": 56,
       "score_notif": 50,
       "cluster": "20261110-121dd8fd4e40",
-      "cluster_main": true
-    },
-    {
-      "title": "11 of the best time-only watches, when simplicity is all you need",
-      "url": "https://timeandtidewatches.com/best-time-only-watches/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/time-only-watches-2026-featured-image.webp",
-      "peek_preview": "There's something about a time-only watch that stands out. The post 11 of the best time-only watches, when simplicity is all you need appeared first on Time+Tide Watches.",
-      "categories": [
-        "Buying Guides",
-        "meta:buying-guide",
-        "meta:evergreen",
-        "meta:top-ranked"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T14:30:00.000Z",
-      "score_quality": 35,
-      "score_notif": 23,
-      "cluster": "20261110-f6630bd296f8",
       "cluster_main": true
     },
     {
@@ -937,7 +954,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Ming 51.01 Halo, a Contemporary Dress Watch in Crystallised Titanium",
@@ -1043,7 +1060,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
@@ -1388,23 +1405,6 @@
       "score_quality": 35,
       "score_notif": 23,
       "cluster": "20261108-433e90940d76",
-      "cluster_main": true
-    },
-    {
-      "title": "Sunday Morning Showdown: Sinn U50 Vs. Oris Aquis Date",
-      "url": "https://www.fratellowatches.com/sunday-morning-showdown-sinn-u50-vs-oris-aquis-date/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/HEADER-Oris_Aquis_vs_Sinn_U50.jpg",
-      "peek_preview": "It’s Sunday morning, so grab a coffee and join us for another installment of our Sunday Morning Showdown series. This week, Germany takes on Switzerland as Jorg pits the Sinn U50, which debuted in 2020, against Daan and...",
-      "categories": [
-        "Sunday Morning Showdown"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-08T06:00:37.000Z",
-      "score_quality": 58,
-      "score_notif": 24,
-      "cluster": "20261108-0d1ae9e09521",
       "cluster_main": true
     },
     {
