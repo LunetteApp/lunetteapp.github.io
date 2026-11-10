@@ -1,6 +1,6 @@
 {
-  "content_hash": "1f48c4662ca802fa5e7b5a43b4a27da694ca4a440c835572cf7a5cb8bdff8960",
-  "last_updated": "2026-11-10T19:48:01.587Z",
+  "content_hash": "e3ac98d90452ea460b5f995edb697d81b411678ccadcd2e5d73ee55e5d2a57f4",
+  "last_updated": "2026-11-10T20:47:27.765Z",
   "premium": {
     "links": []
   },
@@ -9,15 +9,15 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T19:10:06.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T17:00:37.000Z"
+      "estimated_articles_per_day": 1.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T20:00:08.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Horologically Unique Reintroduces a Cult Classic with the New HU-02",
+      "url": "https://wornandwound.com/horologically-unique-reintroduces-a-cult-classic-with-the-new-hu-02/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Horlogically-Unique-02-4.jpg",
+      "peek_preview": "We love an inside-baseball watch, and Horologically Unique, the small Singapore based indie, has just dropped a good one aimed at a very specific variety of watch nerd. The HU-02 is a tribute to a design by Robert Cart...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T20:00:08.000Z",
+      "score_quality": 68,
+      "score_notif": 32,
+      "cluster": "20261109-9aa78c3b1b54",
+      "cluster_main": true
+    },
     {
       "title": "Fratello On Air: A Closer Look At German Watch Brands",
       "url": "https://www.fratellowatches.com/fratello-on-air-a-closer-look-at-german-watch-brands/",
@@ -777,7 +794,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko 5 Sports Field GMT SSK059 'Polar' Review",
@@ -912,9 +929,9 @@
       "featured": false,
       "published_at": "2026-11-09T14:04:59.000Z",
       "score_quality": 55,
-      "score_notif": 34,
+      "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Awake Presents More Stunning Dial Colors and New Compact Cases in Its Son Mai Silver Leaf Collection",
@@ -954,7 +971,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The New Ming 51.01 Halo, a Contemporary Dress Watch in Crystallised Titanium",
@@ -1237,8 +1254,8 @@
       "published_at": "2026-11-09T00:00:45.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261104-6816b868ba25",
-      "cluster_main": false
+      "cluster": "20261109-3f3ca58f906e",
+      "cluster_main": true
     },
     {
       "title": "Colombian brand Auret launches the Mederi, a 12-sided watch with a Swiss heart",
@@ -1990,24 +2007,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261105-8542ec0a4be4",
-      "cluster_main": true
-    },
-    {
-      "title": "Review: the Bulova A-11 “Jimmy”",
-      "url": "https://wornandwound.com/review/review-the-bulova-a-11-jimmy/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Bulova-Jimmy-Hack-9.jpg",
-      "peek_preview": "As decades march on, no conflict has captured and maintained as much attention globally as World War II. Sure, that sounds like a dry opening statement for an AP History exam, but it’s hard to deny the pervasive influen...",
-      "categories": [
-        "Review",
-        "bulova"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T19:00:48.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261105-d06a9eddcfde",
       "cluster_main": true
     },
     {
