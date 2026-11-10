@@ -1,6 +1,6 @@
 {
-  "content_hash": "813329a28a772dc41bac21959e6863427c4335ee58f6e3f543d89ab03921522a",
-  "last_updated": "2026-11-10T21:47:40.629Z",
+  "content_hash": "303904885d6269e225fb2c888ce133b0469c2dc08f90c69b7f0126152ccd2475",
+  "last_updated": "2026-11-10T22:45:50.264Z",
   "premium": {
     "links": []
   },
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T21:10:19.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T10:59:39.000Z"
     },
     {
@@ -846,7 +846,7 @@
       "featured": false,
       "published_at": "2026-11-09T21:49:26.000Z",
       "score_quality": 77,
-      "score_notif": 44,
+      "score_notif": 34,
       "cluster": "20261109-1963a793a062",
       "cluster_main": true
     },
