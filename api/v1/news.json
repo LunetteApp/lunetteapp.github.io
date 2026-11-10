@@ -1,6 +1,6 @@
 {
-  "content_hash": "e3ac98d90452ea460b5f995edb697d81b411678ccadcd2e5d73ee55e5d2a57f4",
-  "last_updated": "2026-11-10T20:47:27.765Z",
+  "content_hash": "813329a28a772dc41bac21959e6863427c4335ee58f6e3f543d89ab03921522a",
+  "last_updated": "2026-11-10T21:47:40.629Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T20:00:08.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T16:26:24.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T21:10:19.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-08T10:48:02.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T10:59:39.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
+      "url": "https://teddybaldassarre.com/blogs/watches/vacheron-constantin-fiftysix-revamp",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Vacheron-Constantin-FiftySix-CompleteCalendar-flat-2.jpg?v=1794343472",
+      "peek_preview": "Vacheron Constantin introduced the FiftySix collection in 2018, basing it upon a vintage watch from Vacheron Constantin’s vast archives, the fondly remembered Reference 6073, which debuted on the market in (naturally) 1...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T21:10:19.000Z",
+      "score_quality": 69,
+      "score_notif": 68,
+      "cluster": "20261110-1570288cfcaf",
+      "cluster_main": false
+    },
     {
       "title": "Horologically Unique Reintroduces a Cult Classic with the New HU-02",
       "url": "https://wornandwound.com/horologically-unique-reintroduces-a-cult-classic-with-the-new-hu-02/",
@@ -393,7 +408,7 @@
       "score_quality": 85,
       "score_notif": 68,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Voisin Aerosport, Albishorn’s Retro-Futuristic Take on the Dress Watch",
@@ -548,6 +563,30 @@
       "cluster_main": true
     },
     {
+      "title": "Phillips Geneva Watch Auction XXIV: Zum ersten Mal mehr als 100 Millionen!",
+      "url": "https://www.uhrenkosmos.com/phillips-geneva-watch-auction-xxiv-2026-rekord/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Phillips-Geneva-Watch-Auction-XXIV-%E2%80%93-Highlights-der-Genfer-Herbstauktion.jpg",
+      "peek_preview": "Am 7. und 8. November 2026 schaffte es Phillips in Association mit Bacs & Russo (Phillips) erstmals, in Europa mit der Geneva Watch Auction XXIV den Gegenwert von über 100 Millionen Euro umzusetzen. Wohl nicht zum letzt...",
+      "categories": [
+        "Aktuell",
+        "Audemars Piguet",
+        "Patek Philippe",
+        "Rolex",
+        "Antiquorum",
+        "F.P. Journe",
+        "Geneva Watch Auction XXIV",
+        "Phillips"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-10T10:59:39.000Z",
+      "score_quality": 64,
+      "score_notif": 32,
+      "cluster": "20261110-bf0fb62703f7",
+      "cluster_main": true
+    },
+    {
       "title": "Laurent Ferrier Grand Sport Tourbillon Iceberg: Cool And Concealed",
       "url": "https://www.fratellowatches.com/laurent-ferrier-grand-sport-tourbillon-iceberg-cool-and-concealed/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Laurent-Ferrier-Grand-Sport-Tourbillon-Iceberg-8.jpg",
@@ -563,7 +602,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261104-e3b7ea9d83f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Unveils Stainless Steel Fiftysix With Striking New Dials",
@@ -672,7 +711,7 @@
       "score_quality": 75,
       "score_notif": 68,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour",
@@ -794,7 +833,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko 5 Sports Field GMT SSK059 'Polar' Review",
@@ -971,7 +1010,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The New Ming 51.01 Halo, a Contemporary Dress Watch in Crystallised Titanium",
@@ -992,7 +1031,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1062,7 +1101,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -1254,8 +1293,8 @@
       "published_at": "2026-11-09T00:00:45.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261109-3f3ca58f906e",
-      "cluster_main": true
+      "cluster": "20261104-6816b868ba25",
+      "cluster_main": false
     },
     {
       "title": "Colombian brand Auret launches the Mederi, a 12-sided watch with a Swiss heart",
@@ -2024,7 +2063,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -2131,7 +2170,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -2197,8 +2236,7 @@
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793819932862-3LKGB3MELTDPZAXABKEY/Bianchet+Ultrafino+Tonneau+Black+Ceramic-5.jpg?format=1500w",
       "peek_preview": "Black ceramic has a reputation for appearing too flat, dull, and anonymous in the wrong watchmaker’s hands. The Bianchet Tonneau UltraFino Black Ceramic is the rebuttal. In person, it is a masterclass in surface treatme...",
       "categories": [
-        "Bianchet",
-        "Other Brands"
+        "Bianchet"
       ],
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
@@ -2264,7 +2302,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261104-e3b7ea9d83f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
@@ -2398,40 +2436,6 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261103-eaaf788ff84e",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Armin Strom Mirrored Force Resonance Zeitgeist 1665 3N—Gold Never Gets Old",
-      "url": "https://www.watchcollectinglifestyle.com/home/armin-strom-mirrored-force-resonance-zeitgeist-1665-3n",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793720055019-OI58IY2FJU2U9FFH8KGX/Armin+Strom+Mirrored+Force+Resonance+Zeitgeist+1665+3N+AMB01.jpg?format=1500w",
-      "peek_preview": "Yellow gold changes a movement's character, and lately Armin Strom has been using more gold in their movements, such as the recently launched Armin Strom Tribute³ Au750. For the new Mirrored Force Resonance Zeitgeist 16...",
-      "categories": [
-        "Armin Strom"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T15:51:30.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261103-260d4f2633b6",
-      "cluster_main": true
-    },
-    {
-      "title": "News: Swatch Group USA Names Bertrand Delvert CEO—The Company Looks to Paris, Not Miami, for Its New Leader",
-      "url": "https://www.watchcollectinglifestyle.com/home/swatch-group-usa-names-bertrand-delvert-ceo",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793716952247-82LWQSK7PI3C2AMIL7YS/Bertrand+Delvert+CEO+Swatch+Group+USA.jpg?format=1500w",
-      "peek_preview": "Swatch Group has settled its American leadership question, and the answer came from outside its own U.S. headquarters. Bertrand Delvert, who has run Swatch Group France since 2019, is now CEO of Swatch Group USA.",
-      "categories": [
-        "News"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-03T14:47:12.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261103-24b912874e01",
       "cluster_main": true
     }
   ]
