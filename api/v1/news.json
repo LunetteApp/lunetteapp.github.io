@@ -1,6 +1,6 @@
 {
-  "content_hash": "e17b57cf5f99810b6b4c57851d1e1785060e7f59622eed9fa13de75d11545bc2",
-  "last_updated": "2026-11-10T00:47:08.361Z",
+  "content_hash": "fd869f8f5a1f8f4d232d468e7eae25425f3e1039c3952a0e15888198a4bde908",
+  "last_updated": "2026-11-10T03:47:11.756Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T00:00:22.000Z"
     },
     {
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
+      "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-10T00:00:41.000Z"
+      "latest_article_at": "2026-11-10T03:00:51.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "ビアンシェが「ウルトラフィーノ・ロトンド ダイヤモンド」を発表",
+      "url": "https://www.webchronos.net/news/178044/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/bc_1.webp",
+      "peek_preview": "ビアンシェが、「ウルトラフィーノ・ロトンド ダイヤモンド」を発表した。ブランド初のラウンドケースを採用したフライングトゥールビヨンを搭載コレクション「ウルトラフィーノ・ロトンド」に、バゲットカットダイヤモンドをセットした […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-10T03:00:51.000Z",
+      "score_quality": 48,
+      "score_notif": 60,
+      "cluster": "20261110-965c1ac2ceb6",
+      "cluster_main": true
+    },
     {
       "title": "レイモンド ウェイル「ミレジム」に日本限定モデルが登場！ 越前鳥の子紙に着想を得たクリームダイアルを採用",
       "url": "https://www.webchronos.net/news/178144/",
@@ -2447,38 +2462,6 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261101-55e66a6a9621",
-      "cluster_main": true
-    },
-    {
-      "title": "Casio G-Shock Blue Rose Projekt: 80.000 Euro für eine Uhr aus blauem Saphir",
-      "url": "https://www.uhrenkosmos.com/casio-g-shock-blue-rose-project-mrg-d5000-bdr/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/10/G-Shock-MRG-5000-Aufmacher.jpg",
-      "peek_preview": "80.000 Euro für eine G-Shock? Kein Druckfehler, sondern der Preis der weltweit auf 20 Exemplare limitierten Casio MRG-D5000-BDR. Ihr spektakuläres Gehäuse aus blauem Saphir krönt die Casio G-Shock Blue Rose Kollektion....",
-      "categories": [
-        "Marken & Macher",
-        "Aktuelle Uhren",
-        "Casio",
-        "Casio G-Shock",
-        "G-Shock",
-        "G-Shock DW-5000C",
-        "G-Shock G-D001",
-        "G-Shock G-D5000-9JR",
-        "G-Shock GMW-B5000SB-1A2ER",
-        "G-Shock MRG-B2000JS Juryoku-Maru: San",
-        "G-Shock MRG-B2000SH Shougeki-Maru",
-        "G-Shock MRG-B5000SA-2DR Super Blue",
-        "G-Shock MRG-D 5000",
-        "G-Shock MRG-G2000HT",
-        "G-Shock-Unikat G-D001",
-        "Kikuo Ibe"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-01T14:05:29.000Z",
-      "score_quality": 68,
-      "score_notif": 31,
-      "cluster": "20261101-9ba903ad411f",
       "cluster_main": true
     }
   ]
