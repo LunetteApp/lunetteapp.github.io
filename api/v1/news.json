@@ -1,6 +1,6 @@
 {
-  "content_hash": "303904885d6269e225fb2c888ce133b0469c2dc08f90c69b7f0126152ccd2475",
-  "last_updated": "2026-11-10T22:45:50.264Z",
+  "content_hash": "8a8b1b08f29811672d3e54d5a778be9ce3aeda7f94989b79dc945a4b6f5386eb",
+  "last_updated": "2026-11-10T23:48:22.319Z",
   "premium": {
     "links": []
   },
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T14:06:22.000Z"
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-10T23:35:18.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: MB&F LM101 Gabriel Colliard—Three Enamel Jungles in Platinum",
+      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-lm101-gabriel-colliard-enamel-jungles",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794352839606-BSOEQXAX9JE07TFTPIQR/MBandF_LM101_Gabriel_Colliard_cloisonne_enamel_jungle_trilogy_2.jpg?format=1500w",
+      "peek_preview": "MB&F has invited independent enameller Gabriel Colliard to reinterpret the Legacy Machine 101, resulting in its newest Performance Art piece. MB&F didn’t simply hand Colliard a finished dial to decorate. It adapted elem...",
+      "categories": [
+        "MB&F"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T23:35:18.000Z",
+      "score_quality": 74,
+      "score_notif": 67,
+      "cluster": "20261110-da86922f64fd",
+      "cluster_main": false
+    },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
       "url": "https://teddybaldassarre.com/blogs/watches/vacheron-constantin-fiftysix-revamp",
@@ -1031,7 +1048,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1101,7 +1118,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -2063,7 +2080,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -2170,7 +2187,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -2409,33 +2426,6 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261103-ed01eef73641",
-      "cluster_main": true
-    },
-    {
-      "title": "Audemars Piguet Kaliber 2953: Das Handaufzugskaliber bringt 3 weitere Uhren zum Klingen",
-      "url": "https://www.uhrenkosmos.com/audemars-piguet-kaliber-2953-supersonnerie/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Neue-Audemars-Piguet-Modelle-mit-Supersonnerie-Minuten-Repetion-Kaliber-2953.jpg",
-      "peek_preview": "Die Minutenrepetition gilt als Königsdisziplin der mechanischen Akustik. AP präsentiert neue Modellvarianten mit dem handaufgezogenen Audemars Piguet Kaliber 2953 und Supersonnerie-Technologie. Es gibt 2 neue Royal Oak...",
-      "categories": [
-        "Aktuell",
-        "Aktuelle Uhren",
-        "Audemars Piguet",
-        "Marken & Macher",
-        "Uhren mit Schlagwerk",
-        "Audemars Piguet Code 11.59",
-        "Audemars Piguet Code 11.59 Minute Repeater Supersonnerie",
-        "Audemars Piguet Kaliber 2953",
-        "Audemars Piguet Royal Oak",
-        "Audemars Piguet Royal Oak Minute Repeater Supersonnerie",
-        "Minutenrepetition"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-03T16:06:35.000Z",
-      "score_quality": 67,
-      "score_notif": 34,
-      "cluster": "20261103-eaaf788ff84e",
       "cluster_main": true
     }
   ]
