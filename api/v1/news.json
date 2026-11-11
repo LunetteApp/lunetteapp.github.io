@@ -1,6 +1,6 @@
 {
-  "content_hash": "ec5b18717f8b1c6c9d2f4c98435aae8996bff40d7dc04e8c655257730b4efe23",
-  "last_updated": "2026-11-11T12:47:28.640Z",
+  "content_hash": "02c113d8ca4e8d7336d2a4b9b59e76311e849388831405f8b152fd33be78413b",
+  "last_updated": "2026-11-11T13:48:17.427Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T12:00:31.000Z"
     },
     {
@@ -92,9 +92,9 @@
     {
       "source_name": "Perpetual Passion",
       "lang": "it",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-04T15:00:27.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T12:48:19.000Z"
     },
     {
       "source_name": "Watch Insanity",
@@ -120,7 +120,7 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.7,
+      "estimated_articles_per_day": 0.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T16:07:35.000Z"
     },
@@ -141,7 +141,7 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T10:59:39.000Z"
     },
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
+      "url": "https://www.perpetualpassion.com/2026/11/11/vacheron-constantin-concours-elegance-2026-vincitori/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/11/CDE_Deliberation_13.jpg",
+      "peek_preview": "Il Vacheron Constantin Concours d’Élégance Horlogère 2026 ha annunciato i suoi vincitori il 10 novembre a Ginevra: sette [...] L'articolo Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione p...",
+      "categories": [
+        "Vacheron Constantin",
+        "home"
+      ],
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-11T12:48:19.000Z",
+      "score_quality": 51,
+      "score_notif": 42,
+      "cluster": "20261111-1f837d791e04",
+      "cluster_main": true
+    },
     {
       "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
       "url": "https://giornaleorologi.it/2026/11/11/gli-orologi-nei-film-2026/",
@@ -370,7 +388,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Krayon Anywhere Magnolia – A New Métiers d’Art Edition",
@@ -405,7 +423,7 @@
       "score_quality": 88,
       "score_notif": 68,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "オーデマ ピゲが独自の音響技術を搭載した「ミニッツリピーター スーパーソヌリ」3種を発表",
@@ -454,9 +472,9 @@
       "featured": false,
       "published_at": "2026-11-10T23:35:18.000Z",
       "score_quality": 74,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -488,7 +506,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Fratello On Air: A Closer Look At German Watch Brands",
@@ -520,7 +538,7 @@
       "score_quality": 84,
       "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -630,7 +648,7 @@
       "featured": false,
       "published_at": "2026-11-10T15:31:37.000Z",
       "score_quality": 72,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
       "cluster_main": false
     },
@@ -693,7 +711,7 @@
       "score_quality": 79,
       "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -766,9 +784,9 @@
       "featured": false,
       "published_at": "2026-11-10T13:01:50.000Z",
       "score_quality": 79,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F Taps Cloisonné Artist Gabriel Colliard for LM101",
@@ -786,7 +804,7 @@
       "featured": false,
       "published_at": "2026-11-10T13:00:23.000Z",
       "score_quality": 82,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
       "cluster_main": false
     },
@@ -806,7 +824,7 @@
       "featured": false,
       "published_at": "2026-11-10T13:00:00.000Z",
       "score_quality": 56,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
       "cluster_main": false
     },
@@ -821,7 +839,7 @@
       "featured": false,
       "published_at": "2026-11-10T13:00:00.000Z",
       "score_quality": 80,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
       "cluster_main": false
     },
@@ -1182,7 +1200,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [October 2026]",
@@ -1233,7 +1251,7 @@
       "score_quality": 55,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Awake Presents More Stunning Dial Colors and New Compact Cases in Its Son Mai Silver Leaf Collection",
@@ -1310,7 +1328,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A smaller case and louder dials: Awake’s Sơn Mài Silver Leaf gets bolder",
@@ -1343,7 +1361,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -1615,7 +1633,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026: Tutti i Vincitori degli Oscar dell’Orologeria",
@@ -1862,7 +1880,7 @@
       "score_quality": 54,
       "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Rolex verso il miliardo di dollari: il boom del Certified Pre-Owned",
@@ -1923,7 +1941,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Trafford Violet Crown captures the spectacular sunsets of Austin, Texas",
@@ -2122,7 +2140,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -2229,7 +2247,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -2343,6 +2361,53 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261104-e3b7ea9d83f3",
+      "cluster_main": true
+    },
+    {
+      "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
+      "url": "https://giornaleorologi.it/2026/11/04/patek-philippe-gondolo-ladies-first/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/PP_7043G-001_PORTE-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Gondolo Ladies First: una cornice di luce firmata Patek Philippe Ricordo bene quando Patek Philippe presentò il Ladies First Chronograph, Ref. 7071R. Era il 2009 e la Manifattura aveva scelto u...",
+      "categories": [
+        "Attualità",
+        "orologi-gioiello",
+        "Patek Philippe",
+        "Patek Philippe Gondolo",
+        "Patek Philippe Ladies First"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-04T11:52:00.000Z",
+      "score_quality": 37,
+      "score_notif": 18,
+      "cluster": "20261104-e5277aec3fe2",
+      "cluster_main": true
+    },
+    {
+      "title": "Monaco Legend Group Auktionsergebnisse 2026: Starke Zahlen bei den Herbstauktionen",
+      "url": "https://www.uhrenkosmos.com/monaco-legend-group-auktionsergebnisse-2026/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/monaco-legend-group-auktion-2026-aufmacher.jpg",
+      "peek_preview": "Die Reise zur Herbstauktion hat sich auf jeden Fall gelohnt! Zwar blieben die ganz großen Überraschungen bei den Monaco Legend Group Auktionsergebnissen 2026 aus, aber das Geschehen vor Ort lässt sich durchaus als lebha...",
+      "categories": [
+        "Aktuell",
+        "Cartier",
+        "Handel & Auktionen",
+        "Patek Philippe",
+        "Rolex",
+        "Cartier Tank",
+        "Herbstauktionen 2026",
+        "Monaco Legend Group",
+        "Patek Philippe Nautilus Tiffany",
+        "Rolex 6062"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-04T09:04:13.000Z",
+      "score_quality": 60,
+      "score_notif": 26,
+      "cluster": "20261104-c58ce42cb15b",
       "cluster_main": true
     }
   ]
