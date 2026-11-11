@@ -1,6 +1,6 @@
 {
-  "content_hash": "4ed6aac14723b961637f6222e5cb7844519fa97b7d8f6c2df4be1cf7d42e8f79",
-  "last_updated": "2026-11-11T19:48:26.244Z",
+  "content_hash": "89740d989b07e58f068a035cdb9c628ba23cdb206f8105d10d0b3b9123ae5f03",
+  "last_updated": "2026-11-11T21:47:49.397Z",
   "premium": {
     "links": []
   },
@@ -9,15 +9,15 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T19:00:02.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.9,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-11T19:00:48.000Z"
+      "latest_article_at": "2026-11-11T21:00:08.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T19:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T19:00:13.000Z"
     },
     {
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T16:07:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T20:09:29.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,53 @@
     }
   ],
   "items": [
+    {
+      "title": "The Seiko H601-5480 “Upside-Down Arnie:” A Twist on the Legendary Silver Screen Seiko",
+      "url": "https://wornandwound.com/the-seiko-h601-5480-upside-down-arnie-a-twist-on-the-legendary-silver-screen-seiko/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Seiko-Upside-Down-Arnie-3.jpg",
+      "peek_preview": "I was never one for weightlifting until I saw Arnold Schwarzenegger pull off the Seiko H558-5009 in Commando. I used to own a Seiko SNJ025 Arnie Reissue some years ago when they first came out, but quickly sold it after...",
+      "categories": [
+        "Featured",
+        "seiko",
+        "vintage"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-11T21:00:08.000Z",
+      "score_quality": 72,
+      "score_notif": 26,
+      "cluster": "20261111-d8f10cdf3aca",
+      "cluster_main": true
+    },
+    {
+      "title": "203 milioni di dollari in 72 ore: Ginevra riscrive la storia delle aste di orologi",
+      "url": "https://italianwatchspotter.com/aste-orologi-ginevra-2026-203-milioni/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/image-61-1024x640.png",
+      "peek_preview": "203 milioni di dollari in appena tre giorni. È il bilancio delle aste ginevrine di novembre, dove Phillips, Christie’s e Sotheby’s hanno riunito alcuni degli esemplari più ambiti del collezionismo internazionale. Philli...",
+      "categories": [
+        "News",
+        "Aste Orologi",
+        "Cartier",
+        "christie's",
+        "F.P. Journe",
+        "Mercato Orologiero",
+        "Orologi vintage",
+        "Patek Philippe",
+        "Philippe Dufour",
+        "phillips",
+        "rolex",
+        "sotheby's"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-11T20:09:29.000Z",
+      "score_quality": 74,
+      "score_notif": 34,
+      "cluster": "20261110-363f7e237b54",
+      "cluster_main": true
+    },
     {
       "title": "TAG Heuer and Time+Tide Reunite for the Aquaracer Sundowner II",
       "url": "https://wornandwound.com/tag-heuer-and-timetide-reunite-for-the-aquaracer-sundowner-ii/",
@@ -483,7 +530,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Military-Inspired Panerai Marina Militare Submersible PAM01757 & PAM01758 (Incl. Video)",
@@ -732,7 +779,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -787,7 +834,7 @@
       "cluster_main": false
     },
     {
-      "title": "Sembra un moschettone, costa meno di 50 euro ed è andato sold out in 2 minuti: il caso DWC Terra",
+      "title": "DWC Terra: l’orologio-moschettone da meno di 50 euro sold out in 2 minuti",
       "url": "https://italianwatchspotter.com/dwc-terra-orologio-moschettone-sold-out/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/Screenshot2026-06-20at4.23.39AM.png-1-896x1024.webp",
       "peek_preview": "Un orologio da meno di 50 euro, una cassa ispirata a un moschettone e 1.700 esemplari esauriti in meno di due minuti. A volte, per attirare l’attenzione del mondo dell’orologeria, bastano un’idea fuori dagli schemi e un...",
@@ -824,8 +871,8 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-74b7216d083b",
-      "cluster_main": true
+      "cluster": "20261110-363f7e237b54",
+      "cluster_main": false
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -980,7 +1027,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F Taps Cloisonné Artist Gabriel Colliard for LM101",
@@ -1035,7 +1082,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Phillips Geneva Watch Auction XXIV: Zum ersten Mal mehr als 100 Millionen!",
@@ -1112,7 +1159,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1945,23 +1992,6 @@
       "cluster_main": true
     },
     {
-      "title": "The New G-SHOCK GMC2500 Makes the Case for Being Unreachable",
-      "url": "https://wornandwound.com/the-new-g-shock-gmc2500-makes-the-case-for-being-unreachable/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/2026_11_GSHOCK_GMC2500_WL-ANALOG_032.jpg",
-      "peek_preview": "Here’s a confession most of us won’t make out loud: we likely check our phones more than we check our watches. A text lands, a calendar alert chirps, and suddenly the thing that’s supposed to keep us connected is dictat...",
-      "categories": [
-        "Featured"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T19:00:30.000Z",
-      "score_quality": 66,
-      "score_notif": 31,
-      "cluster": "20261106-fa39464cbd36",
-      "cluster_main": true
-    },
-    {
       "title": "Praesidus Expands Horizons With New Montar Outdoor Watch Collection",
       "url": "https://www.atimelyperspective.com/praesidus-expands-horizons-with-new-montar-outdoor-watch-collection-price/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/MONTAR-Image-10-Sept-2026-Mobile-08-819x1024.jpg",
@@ -2209,7 +2239,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -2316,7 +2346,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
@@ -2388,26 +2418,6 @@
       "score_quality": 46,
       "score_notif": 25,
       "cluster": "20261104-e51d7edfdb97",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex investe a Milano: un palazzo da 135 milioni in via Montenapoleone",
-      "url": "https://www.perpetualpassion.com/2026/11/04/rolex-milano-palazzo-montenapoleone/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/11/Bally-Montenapoleone_Casper-Mueller-Kneer-Architects_Copyright-Paul-Riddle_DSL2166-Editsm.jpg",
-      "peek_preview": "Un palazzo da 135 milioni di euro in via Montenapoleone, nel cuore del Quadrilatero della Moda. L’operazione arriva [...] L'articolo Rolex investe a Milano: un palazzo da 135 milioni in via Montenapoleone proviene da PE...",
-      "categories": [
-        "Just In",
-        "Rolex",
-        "home",
-        "rolex"
-      ],
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-04T15:00:27.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20261104-adc93fc58c68",
       "cluster_main": true
     }
   ]
