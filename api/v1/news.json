@@ -1,6 +1,6 @@
 {
-  "content_hash": "56810be4924d7a47982367008765c777c188e10b1dbe3fcef67aa944debdaefc",
-  "last_updated": "2026-11-11T00:47:36.819Z",
+  "content_hash": "20136c738ffb87961739d453cd9f58afdee56f8c8db8a6765842d2571c5a2c80",
+  "last_updated": "2026-11-11T01:47:44.187Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T17:10:05.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T01:01:16.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,21 +58,21 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T01:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T18:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T01:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T00:00:04.000Z"
     },
     {
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T00:00:45.000Z"
     },
     {
@@ -175,6 +175,63 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The Krayon Anywhere Magnolia, a new Artistic Take by The Indie Watchmaker",
+      "url": "https://monochrome-watches.com/krayon-anywhere-magnolia-artistic-dial-indie-watchmaking-sunrise-and-sunset-review/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Krayon-Anywhere-Magnolia-hand-painted-dial-independent-watchmaking-review-3-600x237.jpg",
+      "peek_preview": "Created by a Neuchatel-based studio led by Remi Maillat, the Krayon Anywhere displays sunrise and sunset times at a location chosen by its owner. It connects watchmaking with the rhythms of the Earth, and it has always...",
+      "categories": [
+        "Krayon",
+        "2026",
+        "High-end Watches",
+        "Independent Watchmaking",
+        "Metiers d'Arts",
+        "Novelty"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-11T01:01:16.000Z",
+      "score_quality": 84,
+      "score_notif": 68,
+      "cluster": "20261111-4d5f202139c5",
+      "cluster_main": false
+    },
+    {
+      "title": "Krayon Anywhere Magnolia – A New Métiers d’Art Edition",
+      "url": "https://deployant.com/krayon-anywhere-magnolia-a-new-metiers-dart-edition/?utm_source=rss&utm_medium=rss&utm_campaign=krayon-anywhere-magnolia-a-new-metiers-dart-edition",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/Krayon_Magnolia_Side_PinkB_LD.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Krayon presents a new artistic interpretation of its signature sunrise and sunset complication with the Anywhere Magnolia. Limited to 15 pieces in platinum, t...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "Krayon"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-11T01:00:00.000Z",
+      "score_quality": 71,
+      "score_notif": 68,
+      "cluster": "20261111-4d5f202139c5",
+      "cluster_main": false
+    },
+    {
+      "title": "Introducing: The Krayon Anywhere Magnolia (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/krayon-magnolia",
+      "image": "https://hodinkee.imgix.net/uploads/articles/ef1ee117-5559-477b-99c3-47bc801b9caa/tan2h-krayon-anywhere-magnolia-00253-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A new limited edition of the brand's sunrise/sunset watch takes inspiration from springtime in Neuchâtel.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-11T01:00:00.000Z",
+      "score_quality": 88,
+      "score_notif": 68,
+      "cluster": "20261111-4d5f202139c5",
+      "cluster_main": true
+    },
     {
       "title": "オーデマ ピゲが独自の音響技術を搭載した「ミニッツリピーター スーパーソヌリ」3種を発表",
       "url": "https://www.webchronos.net/news/178158/",
@@ -224,7 +281,7 @@
       "score_quality": 74,
       "score_notif": 67,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -288,7 +345,7 @@
       "score_quality": 84,
       "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -500,7 +557,7 @@
       "score_quality": 73,
       "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: The Albishorn Voisin Aérosport Imagines an Art Deco Watch That Never Was",
@@ -556,7 +613,7 @@
       "score_quality": 79,
       "score_notif": 67,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F Taps Cloisonné Artist Gabriel Colliard for LM101",
@@ -1542,7 +1599,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "GPHG 2026: Tutti i Vincitori degli Oscar dell’Orologeria",
@@ -1564,41 +1621,6 @@
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
       "cluster_main": false
-    },
-    {
-      "title": "Breaking News – The Rexhep Rexhepi RRCHF Chronograph Flyback Wins the GPHG 2026 Aiguille d’Or (And All Prize Winners)",
-      "url": "https://monochrome-watches.com/rexhep-rexhepi-rrchf-chronograph-flyback-wins-gphg-2026-aiguille-dor-plus-all-prize-winners/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/rexhep-rexhepi-rrchf-chronograph-flyback-wins-gphg-2026-aiguille-dor-600x237.jpg",
-      "peek_preview": "The 2026 edition of the Grand Prix d’Horlogerie de Genève has just unveiled the winner of this year’s awards ceremony, and the winner is a watch that celebrates independence and traditional watchmaking. Often regarded a...",
-      "categories": [
-        "Audemars Piguet",
-        "Baltic",
-        "Blancpain",
-        "Chopard",
-        "Cleguer Horology",
-        "Daniel Roth",
-        "Dominique Renaud",
-        "Ferdinand Berthoud",
-        "Grand Seiko",
-        "Konstantin Chaykin",
-        "Louis Vuitton",
-        "Otsuka Lotec",
-        "Parmigiani Fleurier",
-        "Patek Philippe",
-        "Piaget",
-        "SpaceOne",
-        "2026",
-        "Events",
-        "Industry news"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-07T20:34:33.000Z",
-      "score_quality": 88,
-      "score_notif": 34,
-      "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -1780,21 +1802,6 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261107-af2ef6930864",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: CWC Navy Eighty CD-1",
-      "url": "https://www.hodinkee.com/articles/cwc-navy-eighty-automatic",
-      "image": "https://hodinkee.imgix.net/uploads/articles/14f81402-166b-4cfa-8ab9-d9c8646bfe74/3Q2A9178-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "CWC fuses throwback looks with modern details in their latest military-derived civilian diver.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T20:25:10.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261106-e869ce947202",
       "cluster_main": true
     },
     {
@@ -2400,27 +2407,6 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261104-c58ce42cb15b",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Bulgari Octo Finissimo Dual Time x Vianney Halter Watch",
-      "url": "https://www.ablogtowatch.com/hands-on-bulgari-octo-finissimo-dual-time-x-vianney-halter-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Bulgari-Octo-Finissimo-Dual-Time-x-Vianney-Halter-Watch-9-768x346.jpg",
-      "peek_preview": "Some watches, when I discover them in my inbox, feel like they always should have existed. Even against all odds. Strangely, the Bulgari Octo Finissimo Dual Time x Vianney Halter felt just like such a watch to me, even...",
-      "categories": [
-        "Hands-On",
-        "Collaborations",
-        "GMT Watches",
-        "Steampunk Watches",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-04T08:01:09.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261104-33debb0fab96",
       "cluster_main": true
     }
   ]
