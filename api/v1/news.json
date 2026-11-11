@@ -1,6 +1,6 @@
 {
-  "content_hash": "3a97635b53528277f38c3c8c2097fb7010970a0933a831158535c658485d0059",
-  "last_updated": "2026-11-11T10:47:07.015Z",
+  "content_hash": "ebe3cb8f0141d2b52d43f17c38e8e692c53e056094df320acecef7133059e5be",
+  "last_updated": "2026-11-11T11:47:12.147Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T10:00:52.000Z"
     },
     {
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T11:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T11:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -175,6 +175,28 @@
     }
   ],
   "items": [
+    {
+      "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
+      "url": "https://giornaleorologi.it/2026/11/11/gli-orologi-nei-film-2026/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/Apertura_Digger-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Gli orologi nei film del 2026. Al polso dei protagonisti Gli orologi nei film possono fare molto più che completare un costume. Suggeriscono il carattere di un personaggio, ne rivelano l’ambien...",
+      "categories": [
+        "Attualità",
+        "Bulova",
+        "Hamilton",
+        "Pinion",
+        "Rolex",
+        "Vacheron Constantin"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-11T11:00:00.000Z",
+      "score_quality": 60,
+      "score_notif": 27,
+      "cluster": "20261111-646108e1818b",
+      "cluster_main": true
+    },
     {
       "title": "Seiko Astron GPS Solar SAST001: My Least Worn Watch And Why I Still Own It",
       "url": "https://www.fratellowatches.com/seiko-astron-gps-solar-sast001/",
@@ -249,7 +271,7 @@
       "score_quality": 80,
       "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Military-Inspired Panerai Marina Militare Submersible PAM01757 & PAM01758 (Incl. Video)",
@@ -691,7 +713,7 @@
       "score_quality": 79,
       "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -1180,7 +1202,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [October 2026]",
@@ -1654,7 +1676,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026: Tutti i Vincitori degli Oscar dell’Orologeria",
@@ -1901,7 +1923,7 @@
       "score_quality": 54,
       "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Rolex verso il miliardo di dollari: il boom del Certified Pre-Owned",
@@ -1962,7 +1984,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261106-15c4a46f26cd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Trafford Violet Crown captures the spectacular sunsets of Austin, Texas",
@@ -2383,27 +2405,6 @@
       "score_notif": 34,
       "cluster": "20261104-e3b7ea9d83f3",
       "cluster_main": false
-    },
-    {
-      "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
-      "url": "https://giornaleorologi.it/2026/11/04/patek-philippe-gondolo-ladies-first/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/PP_7043G-001_PORTE-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Gondolo Ladies First: una cornice di luce firmata Patek Philippe Ricordo bene quando Patek Philippe presentò il Ladies First Chronograph, Ref. 7071R. Era il 2009 e la Manifattura aveva scelto u...",
-      "categories": [
-        "Attualità",
-        "orologi-gioiello",
-        "Patek Philippe",
-        "Patek Philippe Gondolo",
-        "Patek Philippe Ladies First"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-04T11:52:00.000Z",
-      "score_quality": 36,
-      "score_notif": 22,
-      "cluster": "20261104-e5277aec3fe2",
-      "cluster_main": true
     }
   ]
 }
