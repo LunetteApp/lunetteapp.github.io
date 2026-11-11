@@ -1,6 +1,6 @@
 {
-  "content_hash": "20136c738ffb87961739d453cd9f58afdee56f8c8db8a6765842d2571c5a2c80",
-  "last_updated": "2026-11-11T01:47:44.187Z",
+  "content_hash": "ff429ccbddfda3c6be997fb2f4fcce8d452be1fc399d883bf5ce26dd41bf5ee9",
+  "last_updated": "2026-11-11T03:47:49.165Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T01:01:16.000Z"
     },
     {
@@ -58,14 +58,14 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T01:00:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T01:00:00.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-11T00:00:45.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T03:00:56.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "センチュリー、ブランドの創業60周年を記念する5種の新作モデルを披露",
+      "url": "https://www.webchronos.net/news/178216/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/ct_60_1.webp",
+      "peek_preview": "時計ブランド「センチュリー」は、2026年に創業60周年を迎えた。このアニバーサリーイヤーを彩るタイムピースとして「ティアラ」「ミッドナイトサン」「エレガンス ムーンフェイズ “HOKUSAI”」「ドラゴンストーン」「マ […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-11T03:00:56.000Z",
+      "score_quality": 54,
+      "score_notif": 58,
+      "cluster": "20261111-e478e200e600",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The Krayon Anywhere Magnolia, a new Artistic Take by The Indie Watchmaker",
       "url": "https://monochrome-watches.com/krayon-anywhere-magnolia-artistic-dial-indie-watchmaking-sunrise-and-sunset-review/",
@@ -195,7 +210,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Krayon Anywhere Magnolia – A New Métiers d’Art Edition",
@@ -230,7 +245,7 @@
       "score_quality": 88,
       "score_notif": 68,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "オーデマ ピゲが独自の音響技術を搭載した「ミニッツリピーター スーパーソヌリ」3種を発表",
@@ -345,7 +360,7 @@
       "score_quality": 84,
       "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -457,7 +472,7 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 49,
-      "cluster": "20261110-74b7216d083b",
+      "cluster": "20261110-363f7e237b54",
       "cluster_main": true
     },
     {
@@ -538,7 +553,7 @@
       "score_quality": 79,
       "score_notif": 67,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -743,9 +758,9 @@
       "featured": false,
       "published_at": "2026-11-10T08:32:11.000Z",
       "score_quality": 35,
-      "score_notif": 24,
+      "score_notif": 49,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -886,7 +901,7 @@
       "featured": false,
       "published_at": "2026-11-10T03:00:51.000Z",
       "score_quality": 48,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261110-965c1ac2ceb6",
       "cluster_main": true
     },
@@ -1139,7 +1154,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1176,7 +1191,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A smaller case and louder dials: Awake’s Sơn Mài Silver Leaf gets bolder",
@@ -2055,21 +2070,6 @@
       "cluster_main": true
     },
     {
-      "title": "ローラン・フェリエが「グランドスポーツ・トゥールビヨン アイスバーグ」を発表",
-      "url": "https://www.webchronos.net/news/177942/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/LF_iceberg_1.webp",
-      "peek_preview": "ローラン・フェリエが「グランドスポーツ・トゥールビヨン アイスバーグ」を発表した。雪や流氷を思わせる淡いブルーのオパラインダイアルに、グレード5チタン製のケースと一体型ブレスレットを組み合わせたモデルだ。手巻きムーブメン […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-06T03:00:00.000Z",
-      "score_quality": 59,
-      "score_notif": 34,
-      "cluster": "20261104-e3b7ea9d83f3",
-      "cluster_main": false
-    },
-    {
       "title": "Hands On: JM Fleury Chronograph Openwork",
       "url": "https://watchesbysjx.com/2026/11/jm-fleury-chronograph-openwork.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/J-M-Fleury-FXR-4-Openwork-3x2-header-300x200.jpg",
@@ -2121,7 +2121,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris ProPilot Calibre 111: Zehn Tage Ticken, neu verpackt",
@@ -2228,7 +2228,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
