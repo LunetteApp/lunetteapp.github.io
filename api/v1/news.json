@@ -1,6 +1,6 @@
 {
-  "content_hash": "5bbc77637c30f9c8162db7e696e1101c87075be44cf488c4cb6550b75c159a27",
-  "last_updated": "2026-11-11T15:48:42.096Z",
+  "content_hash": "1da15e520f4c4ebf6f16cc6a16b3c9140238d309bd6e427927dab5ff9059ed5b",
+  "last_updated": "2026-11-11T16:47:56.396Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T15:01:19.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T15:00:15.000Z"
     },
     {
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T01:00:00.000Z"
     },
@@ -426,7 +426,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Krayon Anywhere Magnolia – A New Métiers d’Art Edition",
@@ -461,7 +461,7 @@
       "score_quality": 88,
       "score_notif": 68,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "オーデマ ピゲが独自の音響技術を搭載した「ミニッツリピーター スーパーソヌリ」3種を発表",
@@ -512,7 +512,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -576,7 +576,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -594,7 +594,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -652,7 +652,7 @@
       "featured": false,
       "published_at": "2026-11-10T16:07:35.000Z",
       "score_quality": 57,
-      "score_notif": 56,
+      "score_notif": 34,
       "cluster": "20261110-551c45b44483",
       "cluster_main": true
     },
@@ -727,7 +727,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Voisin Aerosport, Albishorn’s Retro-Futuristic Take on the Dress Watch",
@@ -749,7 +749,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -824,7 +824,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F Taps Cloisonné Artist Gabriel Colliard for LM101",
@@ -997,7 +997,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Two New Vacheron Constantin Fiftysix Watches With Tuxedo Dials",
@@ -1344,7 +1344,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A smaller case and louder dials: Awake’s Sơn Mài Silver Leaf gets bolder",
@@ -1377,7 +1377,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -1716,7 +1716,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
@@ -2392,6 +2392,27 @@
       "score_quality": 60,
       "score_notif": 26,
       "cluster": "20261104-c58ce42cb15b",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: Bulgari Octo Finissimo Dual Time x Vianney Halter Watch",
+      "url": "https://www.ablogtowatch.com/hands-on-bulgari-octo-finissimo-dual-time-x-vianney-halter-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Bulgari-Octo-Finissimo-Dual-Time-x-Vianney-Halter-Watch-9-768x346.jpg",
+      "peek_preview": "Some watches, when I discover them in my inbox, feel like they always should have existed. Even against all odds. Strangely, the Bulgari Octo Finissimo Dual Time x Vianney Halter felt just like such a watch to me, even...",
+      "categories": [
+        "Hands-On",
+        "Collaborations",
+        "GMT Watches",
+        "Steampunk Watches",
+        "Watch Releases 2026"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-04T08:01:09.000Z",
+      "score_quality": 81,
+      "score_notif": 31,
+      "cluster": "20261104-33debb0fab96",
       "cluster_main": true
     }
   ]
