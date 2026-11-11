@@ -1,6 +1,6 @@
 {
-  "content_hash": "1da15e520f4c4ebf6f16cc6a16b3c9140238d309bd6e427927dab5ff9059ed5b",
-  "last_updated": "2026-11-11T16:47:56.396Z",
+  "content_hash": "03f32c8d545f397c401fc78d3a44f6e9fe4f254f0492763abc5175f70623ae74",
+  "last_updated": "2026-11-11T17:48:46.055Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-11T15:01:19.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T17:10:33.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T21:10:19.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T17:32:45.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T10:59:39.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T17:21:52.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,62 @@
     }
   ],
   "items": [
+    {
+      "title": "G-Shock Updates the Compact \"CasiOak\" in Monochromatic Black and Brown",
+      "url": "https://teddybaldassarre.com/blogs/watches/g-shock-casioak-gma-p2110b",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/G-Shock-Casioak-black-soldier-2.jpg?v=1793891029",
+      "peek_preview": "Earlier this fall, Casio-owned G-Shock added two monochromatic versions to its compact CasiOak lineup, giving the famed octagonal design a new look. The GMA-P2110B-1A comes in black, while the GMA-P2110B-5A does the sam...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-11T17:32:45.000Z",
+      "score_quality": 60,
+      "score_notif": 27,
+      "cluster": "20261111-1bc92802c146",
+      "cluster_main": true
+    },
+    {
+      "title": "GPHG 2026: Die 20 Gewinner des Grand Prix d’Horlogerie de Genève",
+      "url": "https://www.uhrenkosmos.com/gphg-2026-die-gewinner-in-allen-kategorien/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/GPHG-2026-Grand-Prix-dHorlogerie-de-Geneve-mit-den-Aiguille-dOr-Gewinnern-REXHEP-REXHEPI-und-OTSUKA-LOTEC.jpg",
+      "peek_preview": "Der Grand Prix d’Horlogerie de Genève 2026 hat seine Gewinner gekürt. Die begehrte Aiguille d’Or, zu Deutsch der goldene Zeiger, ging an Rexhep Rexhepi für seinen Chronograph Flyback. Doch auch Audemars Piguet, Chopard,...",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Marken & Macher"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-11T17:21:52.000Z",
+      "score_quality": 72,
+      "score_notif": 34,
+      "cluster": "20261107-8929459aff2d",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
+      "url": "https://monochrome-watches.com/moritz-grossmann-celebrates-its-founders-200th-birthday-and-the-18th-anniversary-of-the-brands-revival-with-the-benu-1878-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Moritz-Grossmann-Benu-1878-Tribute-to-German-School-of-Watchmaking-engraved-German-Silver-Dial-6-600x237.jpg",
+      "peek_preview": "Catching two fish with one hook, Moritz Grossmann celebrates the bicentenary of its founder’s birth and the 18th anniversary of the revived brand under Christine Hutter with the release of the Benu 1878. Marking the eig...",
+      "categories": [
+        "Moritz Grossmann",
+        "2026",
+        "Dress Watches",
+        "High-end Watches",
+        "Independent Watchmaking",
+        "Novelty"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-11T17:10:33.000Z",
+      "score_quality": 79,
+      "score_notif": 64,
+      "cluster": "20261111-2aee37fc2a01",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The Maen Grand Tonneau Jump Hour, now Part of the Permanent Collection",
       "url": "https://monochrome-watches.com/maen-grand-tonneau-jump-hour-permanent-collection-accessible-automatic-jumping-hour-watch-review-price/",
@@ -512,7 +568,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -576,7 +632,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -749,7 +805,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -879,7 +935,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Phillips Geneva Watch Auction XXIV: Zum ersten Mal mehr als 100 Millionen!",
@@ -1344,7 +1400,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "A smaller case and louder dials: Awake’s Sơn Mài Silver Leaf gets bolder",
@@ -1377,7 +1433,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -1632,7 +1688,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026: Tutti i Vincitori degli Oscar dell’Orologeria",
@@ -2346,74 +2402,6 @@
       "score_notif": 34,
       "cluster": "20261104-e3b7ea9d83f3",
       "cluster_main": false
-    },
-    {
-      "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
-      "url": "https://giornaleorologi.it/2026/11/04/patek-philippe-gondolo-ladies-first/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/PP_7043G-001_PORTE-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Gondolo Ladies First: una cornice di luce firmata Patek Philippe Ricordo bene quando Patek Philippe presentò il Ladies First Chronograph, Ref. 7071R. Era il 2009 e la Manifattura aveva scelto u...",
-      "categories": [
-        "Attualità",
-        "orologi-gioiello",
-        "Patek Philippe",
-        "Patek Philippe Gondolo",
-        "Patek Philippe Ladies First"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-04T11:52:00.000Z",
-      "score_quality": 37,
-      "score_notif": 18,
-      "cluster": "20261104-e5277aec3fe2",
-      "cluster_main": true
-    },
-    {
-      "title": "Monaco Legend Group Auktionsergebnisse 2026: Starke Zahlen bei den Herbstauktionen",
-      "url": "https://www.uhrenkosmos.com/monaco-legend-group-auktionsergebnisse-2026/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/monaco-legend-group-auktion-2026-aufmacher.jpg",
-      "peek_preview": "Die Reise zur Herbstauktion hat sich auf jeden Fall gelohnt! Zwar blieben die ganz großen Überraschungen bei den Monaco Legend Group Auktionsergebnissen 2026 aus, aber das Geschehen vor Ort lässt sich durchaus als lebha...",
-      "categories": [
-        "Aktuell",
-        "Cartier",
-        "Handel & Auktionen",
-        "Patek Philippe",
-        "Rolex",
-        "Cartier Tank",
-        "Herbstauktionen 2026",
-        "Monaco Legend Group",
-        "Patek Philippe Nautilus Tiffany",
-        "Rolex 6062"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-04T09:04:13.000Z",
-      "score_quality": 60,
-      "score_notif": 26,
-      "cluster": "20261104-c58ce42cb15b",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Bulgari Octo Finissimo Dual Time x Vianney Halter Watch",
-      "url": "https://www.ablogtowatch.com/hands-on-bulgari-octo-finissimo-dual-time-x-vianney-halter-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Bulgari-Octo-Finissimo-Dual-Time-x-Vianney-Halter-Watch-9-768x346.jpg",
-      "peek_preview": "Some watches, when I discover them in my inbox, feel like they always should have existed. Even against all odds. Strangely, the Bulgari Octo Finissimo Dual Time x Vianney Halter felt just like such a watch to me, even...",
-      "categories": [
-        "Hands-On",
-        "Collaborations",
-        "GMT Watches",
-        "Steampunk Watches",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-04T08:01:09.000Z",
-      "score_quality": 81,
-      "score_notif": 31,
-      "cluster": "20261104-33debb0fab96",
-      "cluster_main": true
     }
   ]
 }
