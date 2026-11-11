@@ -1,6 +1,6 @@
 {
-  "content_hash": "64702ac823f33b7f282540f267e500f815f0e3ec41518fa13b64588110343e59",
-  "last_updated": "2026-11-11T09:47:32.190Z",
+  "content_hash": "3a97635b53528277f38c3c8c2097fb7010970a0933a831158535c658485d0059",
+  "last_updated": "2026-11-11T10:47:07.015Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-11T08:00:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-11T10:00:52.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T09:01:07.000Z"
     },
     {
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.9,
+      "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T06:33:00.000Z"
     },
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Seiko Astron GPS Solar SAST001: My Least Worn Watch And Why I Still Own It",
+      "url": "https://www.fratellowatches.com/seiko-astron-gps-solar-sast001/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Seiko-Astron-First-Generation-SAST001-12.jpg",
+      "peek_preview": "I was one year old when Seiko introduced the world’s first quartz watch, the Quartz Astron. Needless to say, it didn’t make much of an impression on me. However, when the Japanese powerhouse launched the Astron GPS Sola...",
+      "categories": [
+        "Watch Talk"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-11T10:00:52.000Z",
+      "score_quality": 70,
+      "score_notif": 24,
+      "cluster": "20261111-557f5fad1dfc",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The New Urwerk UR-101 Green Mamba",
       "url": "https://monochrome-watches.com/urwerk-ur-101-green-mamba-black-pvd-wandering-hour-watch-introducing-price/",
@@ -331,7 +348,7 @@
       "score_quality": 84,
       "score_notif": 68,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Krayon Anywhere Magnolia – A New Métiers d’Art Edition",
@@ -366,7 +383,7 @@
       "score_quality": 88,
       "score_notif": 68,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "オーデマ ピゲが独自の音響技術を搭載した「ミニッツリピーター スーパーソヌリ」3種を発表",
@@ -846,7 +863,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261104-e3b7ea9d83f3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Unveils Stainless Steel Fiftysix With Striking New Dials",
@@ -1453,23 +1470,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261109-a5534f279332",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: The Sinn EZM 19 — A Mission Timer Designed For The Command Room",
-      "url": "https://www.fratellowatches.com/hands-on-the-sinn-ezm-19-a-mission-timer-designed-for-the-command-room/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Sinn-EZM-19-2.jpg",
-      "peek_preview": "Some watches are designed for the cockpit, the dive site, or the open road. The new Sinn EZM 19 has a rather different workplace in mind — the command room. Developed with Tomas Stanke, senior fire director and head of...",
-      "categories": [
-        "Watch Review"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T06:00:50.000Z",
-      "score_quality": 83,
-      "score_notif": 34,
-      "cluster": "20261109-460c7a0180a1",
       "cluster_main": true
     },
     {
@@ -2382,7 +2382,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261104-e3b7ea9d83f3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gondolo Ladies First: una cornice di luce firmata Patek Philippe",
