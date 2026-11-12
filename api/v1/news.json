@@ -1,6 +1,6 @@
 {
-  "content_hash": "3be3a7da4417c66ee7a19665ede60d3205cd3ef56fe5b50b7cdbffdc7a11ae36",
-  "last_updated": "2026-11-12T14:47:45.901Z",
+  "content_hash": "5d4242072b4a350d6f08e47f0f5511e82c5964ecf27cf74d9510164aba08a90e",
+  "last_updated": "2026-11-12T15:47:49.146Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T14:01:01.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T08:01:27.000Z"
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T15:00:28.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -80,12 +80,12 @@
       "lang": "en",
       "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-12T14:30:16.000Z"
+      "latest_article_at": "2026-11-12T15:00:37.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
+      "estimated_articles_per_day": 1.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T17:52:32.000Z"
     },
@@ -100,8 +100,8 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-06T08:24:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T15:17:34.000Z"
     },
     {
       "source_name": "Orologi di Classe",
@@ -175,6 +175,47 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin: il primo Concours d’Élégance Horlogère e i suoi vincitori",
+      "url": "https://www.watchinsanity.it/vacheron-constantin-concours-elegance-horlogere-2026-winners/",
+      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/11/Vacheron_Constantin_Concours_Elegance_Horlogere_2026_Watch_Insanity_06-1024x576.jpg",
+      "peek_preview": "A Ginevra, Vacheron Constantin ha celebrato il primo Concours d’Élégance Horlogère, premiando alcuni dei più straordinari segnatempo della sua storia. The post Vacheron Constantin: il primo Concours d’Élégance Horlogère...",
+      "categories": [
+        "Events",
+        "Timepieces",
+        "Weekly Snippets",
+        "Vacheron Constantin",
+        "Vintage"
+      ],
+      "source_name": "Watch Insanity",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-12T15:17:34.000Z",
+      "score_quality": 58,
+      "score_notif": 26,
+      "cluster": "20261111-1f837d791e04",
+      "cluster_main": true
+    },
+    {
+      "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
+      "url": "https://timeandtidewatches.com/anders-co-ac3-lago-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-anders-co-ac3-lago.jpg",
+      "peek_preview": "The Anders & Co AC3 Lago introduces an ultra-slim rectangular case, five colourful dials and a Miyota quartz movement at an affordable price. The post Anders & Co goes rectangular with the ultra-slim AC3 Lago appeared f...",
+      "categories": [
+        "Hands On",
+        "dress watch",
+        "quartz",
+        "rectangular watches"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T15:00:37.000Z",
+      "score_quality": 64,
+      "score_notif": 63,
+      "cluster": "20261112-e866e63ada21",
+      "cluster_main": true
+    },
     {
       "title": "Vario drops some heavy metal with the Futurist Tantalum Edition",
       "url": "https://timeandtidewatches.com/vario-futurist-tantalum-introducing/",
@@ -557,7 +598,7 @@
       "score_quality": 88,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -572,7 +613,7 @@
       "score_quality": 84,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -634,7 +675,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer and Time+Tide Reunite for the Aquaracer Sundowner II",
@@ -702,7 +743,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-5404cb05c43f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-Shock Updates the Compact \"CasiOak\" in Monochromatic Black and Brown",
@@ -746,7 +787,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
@@ -786,7 +827,7 @@
       "featured": false,
       "published_at": "2026-11-11T15:01:19.000Z",
       "score_quality": 78,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261111-a22092d99f53",
       "cluster_main": true
     },
@@ -822,9 +863,9 @@
       "featured": false,
       "published_at": "2026-11-11T12:48:19.000Z",
       "score_quality": 51,
-      "score_notif": 34,
+      "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
@@ -884,7 +925,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261111-5404cb05c43f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward C1 Jump Hour XV Watch Review: 15 Years Of The JJ01",
@@ -1218,7 +1259,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1648,7 +1689,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [October 2026]",
@@ -1717,7 +1758,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1753,7 +1794,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Crystallized Titanium Ming 51.01 'Halo'",
@@ -2120,24 +2161,6 @@
       "cluster_main": true
     },
     {
-      "title": "Vacheron Constantin brings the “Explore All Ways Possible” showcase to its final stop in Sydney",
-      "url": "https://timeandtidewatches.com/vacheron-constantin-explore-all-ways-possible-event/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/vacheron-constantin-all-ways-possible-featured-image.webp",
-      "peek_preview": "Vacheron Constantin brings its “Explore All Ways Possible” exhibition to Sydney, showcasing historic icons to 2026 novelties The post Vacheron Constantin brings the “Explore All Ways Possible” showcase to its final stop...",
-      "categories": [
-        "Events",
-        "Vacheron Constantin"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-07T05:00:20.000Z",
-      "score_quality": 54,
-      "score_notif": 24,
-      "cluster": "20261107-d8ec53851962",
-      "cluster_main": true
-    },
-    {
       "title": "Praesidus Expands Horizons With New Montar Outdoor Watch Collection",
       "url": "https://www.atimelyperspective.com/praesidus-expands-horizons-with-new-montar-outdoor-watch-collection-price/",
       "image": "https://www.atimelyperspective.com/wp-content/uploads/MONTAR-Image-10-Sept-2026-Mobile-08-819x1024.jpg",
@@ -2392,49 +2415,6 @@
       "score_quality": 53,
       "score_notif": 34,
       "cluster": "20261105-be6001ebd526",
-      "cluster_main": true
-    },
-    {
-      "title": "A Closer Look At The Luminox Master Carbon SEAL Automatic Chronograph",
-      "url": "https://www.atimelyperspective.com/a-closer-look-at-the-luminox-master-carbon-seal-automatic-chronograph-price/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/A.XS_.3881.MS1_-572x1024.jpeg",
-      "peek_preview": "There are certain watch brands I have followed for decades, not simply because of the watches they make, but because of the people they make them for. Luminox is one of those brands. I’ve known the company since its fou...",
-      "categories": [
-        "Chronograph Watches",
-        "Outdoor Watches",
-        "Sport Watches",
-        "Timepieces News, Reviews and Articles",
-        "Bear Grylls",
-        "Luminox Master Carbon SEAL Series Automatic Chronograph 3880."
-      ],
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T11:27:03.000Z",
-      "score_quality": 55,
-      "score_notif": 32,
-      "cluster": "20261105-a0d25c30d994",
-      "cluster_main": true
-    },
-    {
-      "title": "Sporty Classicism From Glashütte: Review Of The Titanium Tutima Patria 6612 Watch With In-House Movement",
-      "url": "https://www.ablogtowatch.com/sporty-classicism-from-glashutte-review-of-the-titanium-tutima-patria-6612-watch-with-in-house-movement/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Tutima-Glashutte-Patria-Titanium-6612-09-watch-3-768x346.jpg",
-      "peek_preview": "This 41mm-wide titanium-cased version of the Tutima Patria 6612 is a stunningly competent German timepiece, which blends comfortable wearability and beautiful classicism. What made me a real fan wasn’t just handling the...",
-      "categories": [
-        "Wrist Time Reviews",
-        "German Watches",
-        "Titanium Watches",
-        "Watch Releases 2025",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T08:16:20.000Z",
-      "score_quality": 77,
-      "score_notif": 28,
-      "cluster": "20261105-73e0cb59abdd",
       "cluster_main": true
     }
   ]
