@@ -1,6 +1,6 @@
 {
-  "content_hash": "89740d989b07e58f068a035cdb9c628ba23cdb206f8105d10d0b3b9123ae5f03",
-  "last_updated": "2026-11-11T21:47:49.397Z",
+  "content_hash": "75839317c5854156aa31075888dd38fafa1ebb1733f06cd96a050c9cede35c60",
+  "last_updated": "2026-11-12T00:47:35.556Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T21:00:08.000Z"
     },
     {
@@ -50,7 +50,7 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-10T09:00:08.000Z"
     },
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-11T20:09:29.000Z"
     },
     {
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-11T03:00:56.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T00:00:54.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
+      "url": "https://www.webchronos.net/news/178251/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/LE_1.webp",
+      "peek_preview": "ルイ・エラールが、独立時計師ヴィアネイ・ハルターとのコラボレーションによる新作「フュチュール・アンテリウール」を発表した。ハルターの代表作「アンティクア」に着想を得た本作は、独立したふたつのダイアルと、それぞれに専用の自 […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-12T00:00:54.000Z",
+      "score_quality": 55,
+      "score_notif": 72,
+      "cluster": "20261112-131c4164e2e7",
+      "cluster_main": true
+    },
     {
       "title": "The Seiko H601-5480 “Upside-Down Arnie:” A Twist on the Legendary Silver Screen Seiko",
       "url": "https://wornandwound.com/the-seiko-h601-5480-upside-down-arnie-a-twist-on-the-legendary-silver-screen-seiko/",
@@ -219,7 +234,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
+      "cluster": "20261111-8637a895d67f",
       "cluster_main": true
     },
     {
@@ -236,28 +251,6 @@
       "featured": false,
       "published_at": "2026-11-11T19:00:48.000Z",
       "score_quality": 74,
-      "score_notif": 70,
-      "cluster": "20261111-39cd327a39b3",
-      "cluster_main": false
-    },
-    {
-      "title": "From the outback to the ocean: The TAG Heuer Aquaracer x Time+Tide ‘Sundowner II’",
-      "url": "https://timeandtidewatches.com/tag-heuer-aquaracer-time-tide-sundowner-ii-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/TAG-heuer-aquaracer-time-tide-sundowner-ii-featured-image.jpg",
-      "peek_preview": "The Sundowner is back! This time it features an all new case, dial, and movement, and this time, it's powered by you. The post From the outback to the ocean: The TAG Heuer Aquaracer x Time+Tide ‘Sundowner II’ appeared f...",
-      "categories": [
-        "Hands On",
-        "aquaracer",
-        "automatic",
-        "tag heuer",
-        "TAG HEUER AQUARACER",
-        "Time+Tide"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-11T19:00:13.000Z",
-      "score_quality": 76,
       "score_notif": 70,
       "cluster": "20261111-39cd327a39b3",
       "cluster_main": false
@@ -354,7 +347,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
@@ -677,7 +670,7 @@
       "featured": false,
       "published_at": "2026-11-11T00:00:45.000Z",
       "score_quality": 67,
-      "score_notif": 72,
+      "score_notif": 34,
       "cluster": "20261111-cfc585b81e85",
       "cluster_main": true
     },
@@ -696,7 +689,7 @@
       "featured": false,
       "published_at": "2026-11-11T00:00:04.000Z",
       "score_quality": 87,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261111-110135938971",
       "cluster_main": true
     },
@@ -797,7 +790,7 @@
       "score_quality": 70,
       "score_notif": 34,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -871,8 +864,8 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster": "20261110-74b7216d083b",
+      "cluster_main": true
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -930,7 +923,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – The Voisin Aerosport, Albishorn’s Retro-Futuristic Take on the Dress Watch",
@@ -1159,7 +1152,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1233,7 +1226,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour",
@@ -1491,7 +1484,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1528,7 +1521,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "A smaller case and louder dials: Awake’s Sơn Mài Silver Leaf gets bolder",
@@ -1561,7 +1554,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-d63ac9655d4f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Awake Sơn Mài Silver Leaf Collection",
@@ -1576,7 +1569,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
@@ -1822,7 +1815,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -1885,7 +1878,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
@@ -1974,21 +1967,6 @@
       "score_quality": 46,
       "score_notif": 22,
       "cluster": "20261107-2c001167c6b3",
-      "cluster_main": true
-    },
-    {
-      "title": "G-SHOCKとセレクトショップ「UNION」のコラボレーションモデル「DW-5600RBG」が登場",
-      "url": "https://www.webchronos.net/news/177893/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/gshock_dw5600_1.webp",
-      "peek_preview": "G-SHOCKは、セレクトショップ「UNION」とのコラボレーションモデル「DW-5600RBG」を発表した。UNIONのルーツであるブラックカルチャーをオマージュし、パン・アフリカンフラッグのカラーリングを取り入れた本 […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-07T00:00:07.000Z",
-      "score_quality": 60,
-      "score_notif": 34,
-      "cluster": "20261107-af2ef6930864",
       "cluster_main": true
     },
     {
