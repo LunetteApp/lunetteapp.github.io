@@ -1,6 +1,6 @@
 {
-  "content_hash": "d90b0c77eaf20cc377b60e77c394ed1b0de241d0fb8e5c9ffc7db9ab4826279f",
-  "last_updated": "2026-11-12T11:47:43.462Z",
+  "content_hash": "40ad92ca14a9a5035a21f0040bac38c1bc40f1a9f45cd90e100f9c6924491b53",
+  "last_updated": "2026-11-12T12:48:36.422Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T09:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T12:00:48.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -22,8 +22,8 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T11:00:06.000Z"
     },
     {
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T02:00:00.000Z"
     },
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "The Vander Avort Lovon: Belgian Quiet Confidence On The Wrist",
+      "url": "https://www.fratellowatches.com/the-vander-avort-lovon-belgian-quiet-confidence-on-the-wrist/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Vander-Avort-Lovon-5.jpg",
+      "peek_preview": "I always pay attention when a new watch brand from Belgium or the Netherlands debuts. As Fratello is a Dutch publication, many of our team members are particularly interested in seeing brands from these two small countr...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T12:00:48.000Z",
+      "score_quality": 75,
+      "score_notif": 63,
+      "cluster": "20261112-50a54cad8ff3",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Indie Watchmaker Mickaël Gaspar Launches the Souscription, His First Wristwatch",
       "url": "https://monochrome-watches.com/indie-watchmaker-mickael-gaspar-launches-the-souscription-his-first-wristwatch/",
@@ -568,7 +587,7 @@
       "score_quality": 80,
       "score_notif": 70,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The TAG Heuer Aquaracer Professional 300 x Time+Tide 'Sundowner II'",
@@ -583,7 +602,7 @@
       "score_quality": 82,
       "score_notif": 70,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: URWERK UR-101 Green Mamba—The Founding Design Goes Dark in 50 Pieces",
@@ -983,7 +1002,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1306,7 +1325,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Phillips Geneva Watch Auction XXIV: Zum ersten Mal mehr als 100 Millionen!",
@@ -1330,24 +1349,6 @@
       "score_quality": 64,
       "score_notif": 32,
       "cluster": "20261110-bf0fb62703f7",
-      "cluster_main": true
-    },
-    {
-      "title": "Laurent Ferrier Grand Sport Tourbillon Iceberg: Cool And Concealed",
-      "url": "https://www.fratellowatches.com/laurent-ferrier-grand-sport-tourbillon-iceberg-cool-and-concealed/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Laurent-Ferrier-Grand-Sport-Tourbillon-Iceberg-8.jpg",
-      "peek_preview": "When a watchmaker invests the time, capital, and artistry into building a tourbillon, the temptation to proudly display it on the dial is almost insurmountable. Yet, some brands resist the urge, and it pays dividends, p...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T10:00:10.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261110-ba21568e7a2d",
       "cluster_main": true
     },
     {
@@ -2026,6 +2027,7 @@
       "peek_preview": "Zach shanked Andrew in New York during their 3-Watch Throwdown. Now it’s payback time. Rolex Yacht-Master 42 Titanium vs Land-Dweller. The post Andrew’s Rolex revenge: Yacht-Master RLX Titanium vs Zach’s Land-Dweller ap...",
       "categories": [
         "Video",
+        "meta:boost",
         "meta:short"
       ],
       "source_name": "Time+Tide",
