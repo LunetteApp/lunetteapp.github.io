@@ -1,6 +1,6 @@
 {
-  "content_hash": "8d995e208173ea3811e34d8fd3f6ad20c42a47d2e5a825b9fcd92889bb892a42",
-  "last_updated": "2026-11-12T20:47:28.939Z",
+  "content_hash": "e9f684bcebe05b8f53934f29c6567dd529907995ec5d44659ac6d32c1487d89d",
+  "last_updated": "2026-11-12T21:47:12.101Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T20:00:54.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T20:00:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T18:00:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T21:15:49.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -474,7 +474,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -871,7 +871,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer and Time+Tide Reunite for the Aquaracer Sundowner II",
@@ -982,7 +982,7 @@
       "published_at": "2026-11-11T17:21:52.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261111-b3fa1305f822",
+      "cluster": "20261107-0ca26117a9b9",
       "cluster_main": true
     },
     {
@@ -1434,7 +1434,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1831,8 +1831,8 @@
       "published_at": "2026-11-09T17:05:12.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261109-1f5e5c348ff7",
-      "cluster_main": true
+      "cluster": "20261107-0ca26117a9b9",
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -1848,8 +1848,8 @@
       "published_at": "2026-11-09T15:22:48.000Z",
       "score_quality": 69,
       "score_notif": 34,
-      "cluster": "20261109-a98526331663",
-      "cluster_main": true
+      "cluster": "20261107-0ca26117a9b9",
+      "cluster_main": false
     },
     {
       "title": "Horologically Unique porta al polso il Chronoscope Art Déco degli anni Venti",
@@ -2133,7 +2133,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -2152,24 +2152,6 @@
       "score_quality": 48,
       "score_notif": 34,
       "cluster": "20261107-a4669eef2d40",
-      "cluster_main": true
-    },
-    {
-      "title": "New releases from Andersen, Roger Dubuis, Louis Vuitton and more",
-      "url": "https://timeandtidewatches.com/andersen-roger-dubuis-louis-vuitton-last-week-in-watches/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/louis-vuitton-web-.jpg",
-      "peek_preview": "While Geneva hosts the Fall season of the auctions, focusing mostly on vintage pieces, the novelties don’t stop. From Louis Vuitton relaunching the successful Tambour Guichet in a different metal, Andersen continues its...",
-      "categories": [
-        "Last Week in Watches",
-        "last week in watches"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-07T14:30:56.000Z",
-      "score_quality": 31,
-      "score_notif": 24,
-      "cluster": "20261107-318dfb4ff355",
       "cluster_main": true
     },
     {
@@ -2196,7 +2178,7 @@
       "score_quality": 71,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
