@@ -1,6 +1,6 @@
 {
-  "content_hash": "1419c28c918a10344713bd3240b60316ccadeb4296e06c712f08b457ab8754ec",
-  "last_updated": "2026-11-12T16:48:28.117Z",
+  "content_hash": "7d7d68bb7968b651368e80384bace209155a93f86db1979c9381c7ac78460e8f",
+  "last_updated": "2026-11-12T17:48:51.808Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T10:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T17:00:15.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-11T17:32:45.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T17:05:31.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T16:00:00.000Z"
     },
     {
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-11T17:52:32.000Z"
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T17:25:43.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,57 @@
   ],
   "items": [
     {
+      "title": "Watch Shopping: A. Lange & Söhne Opens Mexico City Boutique—A Colonial House in Polanco Becomes Its First Latin American Address",
+      "url": "https://www.watchcollectinglifestyle.com/home/a-lange-and-sohne-mexico-boutique-first-latam-one",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794502901816-AZ9L86LVQ35EW7AYUZDH/A.+Lange+%26+So%CC%88hne+Mexico+Boutique+at+Kogan.jpg?format=1500w",
+      "peek_preview": "A. Lange & Söhne has opened its first boutique in Latin America, set within Kogan Luxury House in the heart of Polanco, Mexico City. Opening on November 11th, 2026, the A. Lange & Söhne Boutique Mexico re-establishes th...",
+      "categories": [
+        "A Lange Sohne",
+        "Watch Shopping"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T17:25:43.000Z",
+      "score_quality": 58,
+      "score_notif": 46,
+      "cluster": "20261112-3a34d6817df5",
+      "cluster_main": true
+    },
+    {
+      "title": "Rolex Oyster Perpetual 41 '100 Years' Review: A Little Gold For The Oyster",
+      "url": "https://teddybaldassarre.com/blogs/watches/rolex-oyster-perpetual-41-100-year-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Rolex-Oyster-Perpetual-100th-Anniversary-front-2.jpg?v=1794257057",
+      "peek_preview": "Rolex marked the 100th anniversary of the Oyster case this past April with the launch of a two-tone version of its simplest watch. The Oyster Perpetual 41, Reference 134303, puts a yellow-gold bezel and crown on a steel...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T17:05:31.000Z",
+      "score_quality": 74,
+      "score_notif": 33,
+      "cluster": "20261112-25a058cf777f",
+      "cluster_main": true
+    },
+    {
+      "title": "Ulysse Nardin Introduces the Freak S Purple Enamel",
+      "url": "https://wornandwound.com/ulysse-nardin-introduces-the-freak-s-purple-enamel/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/2026_UN_Freak-S_Purple_3.jpg",
+      "peek_preview": "It’s fairly likely that I’ll never get tired of writing about the Freak. Ulysse Nardin’s avant-garde masterpiece is one of the central characters in the ongoing story of modern watchmaking. All of your favorite adventur...",
+      "categories": [
+        "News & Releases",
+        "Ulysse Nardin"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T17:00:15.000Z",
+      "score_quality": 68,
+      "score_notif": 68,
+      "cluster": "20261112-815df1430b3d",
+      "cluster_main": false
+    },
+    {
       "title": "Vacheron Constantin: il primo Concours d’Élégance Horlogère e i suoi vincitori",
       "url": "https://www.watchinsanity.it/vacheron-constantin-concours-elegance-horlogere-2026-winners/",
       "image": "https://www.watchinsanity.it/wp-content/uploads/2026/11/Vacheron_Constantin_Concours_Elegance_Horlogere_2026_Watch_Insanity_06-1024x576.jpg",
@@ -194,7 +245,7 @@
       "score_quality": 58,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
@@ -278,7 +329,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -539,7 +590,7 @@
       "score_quality": 89,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Petermann Bédat 2914 Chronograph: Hands-on Review",
@@ -613,7 +664,7 @@
       "score_quality": 84,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -674,7 +725,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
+      "cluster": "20261111-8637a895d67f",
       "cluster_main": true
     },
     {
@@ -711,7 +762,7 @@
       "score_quality": 80,
       "score_notif": 70,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The TAG Heuer Aquaracer Professional 300 x Time+Tide 'Sundowner II'",
@@ -726,7 +777,7 @@
       "score_quality": 82,
       "score_notif": 70,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: URWERK UR-101 Green Mamba—The Founding Design Goes Dark in 50 Pieces",
@@ -807,7 +858,7 @@
       "featured": false,
       "published_at": "2026-11-11T17:10:33.000Z",
       "score_quality": 79,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261111-2aee37fc2a01",
       "cluster_main": true
     },
@@ -865,7 +916,7 @@
       "score_quality": 51,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
@@ -963,7 +1014,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Discovering The New Panerai Submersible Marina Militare PAM01757 Destro And PAM01758 GMT",
@@ -1166,7 +1217,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -1258,8 +1309,8 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster": "20261110-74b7216d083b",
+      "cluster_main": true
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1484,7 +1535,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1758,7 +1809,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1794,7 +1845,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
@@ -2086,7 +2137,7 @@
       "score_quality": 71,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
@@ -2382,46 +2433,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261105-0f070480d93f",
-      "cluster_main": true
-    },
-    {
-      "title": "Orient riduce il Bambino a 36 mm e trova la misura perfetta",
-      "url": "https://www.orologidiclasse.com/orient-bambino-version-7-36mm/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/orient-bambino-version-7-36mm-gruppo.jpg",
-      "peek_preview": "Se c’è un argomento su cui da qualche anno il mondo degli appassionati di orologeria è unanime, è il prezzo degli orologi di lusso: sale, sale e sale ancora. Eppure la star indiscussa degli automatici da tutti i giorni...",
-      "categories": [
-        "Novità Orologi",
-        "Migliori"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-05T15:29:04.000Z",
-      "score_quality": 53,
-      "score_notif": 34,
-      "cluster": "20261105-be6001ebd526",
-      "cluster_main": true
-    },
-    {
-      "title": "A Closer Look At The Luminox Master Carbon SEAL Automatic Chronograph",
-      "url": "https://www.atimelyperspective.com/a-closer-look-at-the-luminox-master-carbon-seal-automatic-chronograph-price/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/A.XS_.3881.MS1_-572x1024.jpeg",
-      "peek_preview": "There are certain watch brands I have followed for decades, not simply because of the watches they make, but because of the people they make them for. Luminox is one of those brands. I’ve known the company since its fou...",
-      "categories": [
-        "Chronograph Watches",
-        "Outdoor Watches",
-        "Sport Watches",
-        "Timepieces News, Reviews and Articles",
-        "Bear Grylls",
-        "Luminox Master Carbon SEAL Series Automatic Chronograph 3880."
-      ],
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T11:27:03.000Z",
-      "score_quality": 56,
-      "score_notif": 24,
-      "cluster": "20261105-a0d25c30d994",
       "cluster_main": true
     }
   ]
