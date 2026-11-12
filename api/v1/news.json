@@ -1,6 +1,6 @@
 {
-  "content_hash": "40ad92ca14a9a5035a21f0040bac38c1bc40f1a9f45cd90e100f9c6924491b53",
-  "last_updated": "2026-11-12T12:48:36.422Z",
+  "content_hash": "a3ad4ca291bb49f93f16c3e3073dca2c49065599feb3af097f0b02b19e5a2267",
+  "last_updated": "2026-11-12T13:47:49.589Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T12:00:48.000Z"
     },
     {
@@ -50,9 +50,9 @@
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T09:00:08.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T12:46:38.000Z"
     },
     {
       "source_name": "Deployant",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-11T17:21:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T13:26:24.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,50 @@
     }
   ],
   "items": [
+    {
+      "title": "Nomos Club Sport neomatik 34 all silver: Silber statt Farbe",
+      "url": "https://www.uhrenkosmos.com/nomos-club-sport-neomatik-34-all-silver/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Nomos-Club-Sport-neomatik-34-all-silver-Aufmacher.jpg",
+      "peek_preview": "34 Millimeter, 20 bar Wasserdichte und jede Menge Silberglanz. Mit der Club Sport neomatik 34 all silver zeigt Nomos Glashütte, dass eine sportliche Automatikuhr auch ohne kräftige Farben Akzente setzen kann.",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Marken & Macher",
+        "Nomos Glashütte",
+        "Automatikarmbanduhr",
+        "Nomos Club Sport",
+        "Nomos Club Sport neomatik 34 all silver",
+        "Nomos DUW 3001",
+        "Nomos neomatik"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-12T13:26:24.000Z",
+      "score_quality": 72,
+      "score_notif": 31,
+      "cluster": "20261107-accf94097850",
+      "cluster_main": true
+    },
+    {
+      "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
+      "url": "https://www.atimelyperspective.com/parmigiani-toric-petite-seconde-goes-platinum-and-morning-blue-price/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/toric-petite-seconde-morning-blue-0005-Edit-683x1024.jpeg",
+      "peek_preview": "Sometimes, a new dial color is all it takes to give an existing watch an entirely different personality. That, and use of the world’s most precious metal, platinum, breathe fresh air into an already beloved timepiece: t...",
+      "categories": [
+        "Parmigiani",
+        "Timepieces News, Reviews and Articles",
+        "Parmigiani Fleurier Toric Petite Seconde Platinum Morning Blue"
+      ],
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T12:46:38.000Z",
+      "score_quality": 73,
+      "score_notif": 57,
+      "cluster": "20261112-8b918be4a90b",
+      "cluster_main": true
+    },
     {
       "title": "The Vander Avort Lovon: Belgian Quiet Confidence On The Wrist",
       "url": "https://www.fratellowatches.com/the-vander-avort-lovon-belgian-quiet-confidence-on-the-wrist/",
@@ -663,7 +707,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
@@ -739,7 +783,7 @@
       "featured": false,
       "published_at": "2026-11-11T12:48:19.000Z",
       "score_quality": 51,
-      "score_notif": 42,
+      "score_notif": 34,
       "cluster": "20261111-1f837d791e04",
       "cluster_main": true
     },
@@ -839,7 +883,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "First Look – The Military-Inspired Panerai Marina Militare Submersible PAM01757 & PAM01758 (Incl. Video)",
@@ -1002,7 +1046,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1066,7 +1110,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -1082,7 +1126,7 @@
       "featured": false,
       "published_at": "2026-11-10T17:00:37.000Z",
       "score_quality": 70,
-      "score_notif": 34,
+      "score_notif": 31,
       "cluster": "20261107-accf94097850",
       "cluster_main": false
     },
@@ -1290,7 +1334,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -1383,8 +1427,8 @@
       "published_at": "2026-11-10T08:32:11.000Z",
       "score_quality": 35,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster": "20261110-363f7e237b54-2",
+      "cluster_main": true
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1589,7 +1633,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [October 2026]",
@@ -1658,7 +1702,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1694,7 +1738,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Crystallized Titanium Ming 51.01 'Halo'",
@@ -1999,9 +2043,9 @@
       "featured": false,
       "published_at": "2026-11-07T13:30:00.000Z",
       "score_quality": 71,
-      "score_notif": 34,
+      "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
@@ -2394,46 +2438,6 @@
       "score_quality": 77,
       "score_notif": 28,
       "cluster": "20261105-73e0cb59abdd",
-      "cluster_main": true
-    },
-    {
-      "title": "Piaget svela il nuovo Andy Warhol Camouflage: la Pop Art cambia volto",
-      "url": "https://italianwatchspotter.com/piaget-andy-warhol-camouflage/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/G0A51242_SF_2A_1x1-1024x1024.jpg",
-      "peek_preview": "86 sono gli esemplari del nuovo Piaget Andy Warhol Camouflage ma anche il riferimento all’anno, il 1986, degli autoritratti dell’artista americano che lo hanno ispirato. Quarant’anni dopo gli autoritratti, realizzati po...",
-      "categories": [
-        "Nuovi Orologi 2026",
-        "Alta Orologeria",
-        "Andy Warhol",
-        "Camouflage",
-        "Limited Edition",
-        "Piaget",
-        "Piaget Black Tie"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-05T07:30:00.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
-    },
-    {
-      "title": "Lip Général de Gaulle : la « montre des Présidents » revient en 3 versions",
-      "url": "https://www.welovewatches.fr/lip-general-de-gaulle-la-montre-des-presidents-revient-en-3-versions.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/presentation-montres-lip-general-de-gaulle-gdg-35-mm.jpg",
-      "peek_preview": "Certaines montres ont un destin hors du commun. La Lip Général de Gaulle en fait assurément partie ! Portée au poignet de plusieurs chefs d'État, cette icône horlogère française a gagné au fil des décennies...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-05T06:30:00.000Z",
-      "score_quality": 59,
-      "score_notif": 24,
-      "cluster": "20261105-45a3f610dff6",
       "cluster_main": true
     }
   ]
