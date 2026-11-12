@@ -1,6 +1,6 @@
 {
-  "content_hash": "92697bd20907cda609895e56a37a0da8bf2991aff6b929fe776934cc542519e6",
-  "last_updated": "2026-11-12T18:47:46.666Z",
+  "content_hash": "9cf436f11bc61503acf92ddfd55524e53110fe8bb39647f04ce1bb1848a0a8f7",
+  "last_updated": "2026-11-12T19:48:16.408Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T18:00:50.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T18:01:22.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T18:00:00.000Z"
     },
     {
@@ -79,13 +79,13 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T18:00:27.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
+      "estimated_articles_per_day": 1.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T17:25:43.000Z"
     },
@@ -100,15 +100,15 @@
       "source_name": "Watch Insanity",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T18:00:00.000Z"
     },
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-09T14:04:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T18:55:38.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -176,6 +176,25 @@
   ],
   "items": [
     {
+      "title": "5 Rolex Sottovalutati nel 2026: Prezzi Reali in Italia e Europa",
+      "url": "https://www.orologidiclasse.com/rolex-sottovalutati-prezzi-italia-europa/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/rolex-sottovalutati-2026-cover.jpg",
+      "peek_preview": "Ogni anno milioni di persone decidono di comprare un Rolex, molti in questo periodo. La maggior parte si rivolge ai concessionari ufficiali o, quando il modello non è disponibile, al mercato grigio. Pochi però guardano...",
+      "categories": [
+        "Orologi e Passioni",
+        "Mercato",
+        "ROLEX"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-12T18:55:38.000Z",
+      "score_quality": 53,
+      "score_notif": 29,
+      "cluster": "20261112-53dc4a4b440f",
+      "cluster_main": true
+    },
+    {
       "title": "First Look – The Zenith G.F.J. Calibre 135 Double Signed J.N. Shapiro, American Artistry Meets Swiss Chronometry",
       "url": "https://monochrome-watches.com/zenith-gfj-calibre-135-double-signed-with-jn-shapiro-guilloche-dial-by-american-independent-watchmaker-review-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/11/Zenith-GFJ-Calibre-135-Double-Signed-JN-Shapiro-Guilloche-Dial-review-10-600x237.jpg",
@@ -195,7 +214,7 @@
       "score_quality": 86,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -245,7 +264,7 @@
       "score_quality": 88,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -338,7 +357,7 @@
       "score_quality": 58,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
@@ -742,7 +761,7 @@
       "score_quality": 88,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -757,7 +776,7 @@
       "score_quality": 84,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -835,7 +854,7 @@
       "featured": false,
       "published_at": "2026-11-11T19:00:48.000Z",
       "score_quality": 74,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261111-39cd327a39b3",
       "cluster_main": false
     },
@@ -853,9 +872,9 @@
       "featured": false,
       "published_at": "2026-11-11T19:00:02.000Z",
       "score_quality": 80,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The TAG Heuer Aquaracer Professional 300 x Time+Tide 'Sundowner II'",
@@ -868,9 +887,9 @@
       "featured": false,
       "published_at": "2026-11-11T19:00:00.000Z",
       "score_quality": 82,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: URWERK UR-101 Green Mamba—The Founding Design Goes Dark in 50 Pieces",
@@ -1009,7 +1028,7 @@
       "score_quality": 51,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
@@ -1086,7 +1105,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Discovering The New Panerai Submersible Marina Militare PAM01757 Destro And PAM01758 GMT",
@@ -1289,7 +1308,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -1849,7 +1868,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1885,7 +1904,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
@@ -2055,8 +2074,8 @@
       "published_at": "2026-11-08T10:48:02.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261105-a218c4df32bb",
-      "cluster_main": false
+      "cluster": "20261108-42fdd234582c",
+      "cluster_main": true
     },
     {
       "title": "Hands-On: H. Moser Pioneer Cylindrical Tourbillon Skeleton Aventurine Saquon Barkley Edition",
@@ -2410,23 +2429,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261105-8542ec0a4be4",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Piaget Andy Warhol ‘Camouflage’—Pop Art Hidden in Sodalite, Turquoise and Gold",
-      "url": "https://www.watchcollectinglifestyle.com/home/piaget-andy-warhol-watch-camouflage-limited-edition-sodalite-turquoise-dial",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793899086547-92HO40LL7WOB9QR9LVC4/Piaget+Andy+Warhol+%E2%80%98Camouflage%E2%80%99+G0A51242_16-9_FOND_BLEU.jpg?format=1500w",
-      "peek_preview": "Piaget returns to its Warhol license with the Andy Warhol ‘Camouflage’ Limited Edition, an 18K white gold cushion watch whose dial transforms the artist’s camouflage motif into stone-and-gold marquetry. Limited to 86 pi...",
-      "categories": [
-        "Piaget"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T17:53:11.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261105-a218c4df32bb",
       "cluster_main": true
     }
   ]
