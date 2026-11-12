@@ -1,6 +1,6 @@
 {
-  "content_hash": "c4a4e9cffed4921e9fe08986cb69a85b22f75a5023541097557687946c2d0adc",
-  "last_updated": "2026-11-12T09:48:11.693Z",
+  "content_hash": "1c4bccb1a9be5e83f426dc8122c928f4be442d85e8bff5e7f320ded92a25c08e",
+  "last_updated": "2026-11-12T10:48:26.593Z",
   "premium": {
     "links": []
   },
@@ -9,22 +9,22 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T06:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T09:00:22.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-11T21:00:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T10:00:10.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.7,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-12T09:01:52.000Z"
+      "latest_article_at": "2026-11-12T10:01:28.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -176,6 +176,47 @@
   ],
   "items": [
     {
+      "title": "Introducing – The 2nd-Gen Trilobe Une Folle Journée, With New Case and Manufacture Movement",
+      "url": "https://monochrome-watches.com/2026-2nd-gen-trilobe-une-folle-journee-new-case-and-manufacture-x-nihilo-movement-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Trilobe-Une-Folle-Journee-2nd-Generation-2026-new-case-in-house-movement-1-600x237.jpg",
+      "peek_preview": "Right from the early days of the brand, Gautier Massonneau, founder of French indie brand Trilobe, had a clear idea regarding how time should be displayed. Not by the means of classic central hands, but with off-centred...",
+      "categories": [
+        "Trilobe",
+        "2026",
+        "Independent Watchmaking",
+        "Luxury watch",
+        "Novelty",
+        "Other Display"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T10:01:28.000Z",
+      "score_quality": 83,
+      "score_notif": 69,
+      "cluster": "20261112-549fe2822c35",
+      "cluster_main": true
+    },
+    {
+      "title": "Christopher Ward and Mr. Jones Launch the New C1 Bel Canto Lucia",
+      "url": "https://wornandwound.com/christopher-ward-and-mr-jones-launch-the-new-c1-bel-canto-lucia/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/2026_11_MJWxCW_BelCanto_005_WR.jpg",
+      "peek_preview": "When Christopher Ward introduced the C1 Bel Canto in 2022, it threw us all for a loop. A chiming watch from Christopher Ward was not something that most collectors had on their bingo card. That includes, I think, the br...",
+      "categories": [
+        "Featured",
+        "Christopher Ward",
+        "Mr Jones"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T10:00:10.000Z",
+      "score_quality": 78,
+      "score_notif": 71,
+      "cluster": "20261112-c43737b785e6",
+      "cluster_main": true
+    },
+    {
       "title": "First Look – The Ulysse Nardin Freak S Purple Enamel",
       "url": "https://monochrome-watches.com/ulysse-nardin-freak-s-purple-enamel-titanium-review-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/11/Ulysse-Nardin-Freak-S-Purple-Enamel-review-4-600x237.jpg",
@@ -194,6 +235,23 @@
       "score_quality": 82,
       "score_notif": 68,
       "cluster": "20261112-815df1430b3d",
+      "cluster_main": true
+    },
+    {
+      "title": "Fratello Talks: Our Watch Pet Peeves Vol. II",
+      "url": "https://www.fratellowatches.com/fratello-talks-our-watch-pet-peeves-vol-ii/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/03/IWC-Ingenieur-2023-9.jpg",
+      "peek_preview": "No watch is perfect, and even the most enthusiastic collectors have their limits. It might be a poorly finished detail, an uncomfortable clasp, or a design choice that makes you wonder what the brand was thinking. Some...",
+      "categories": [
+        "Podcast"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T09:00:22.000Z",
+      "score_quality": 47,
+      "score_notif": 24,
+      "cluster": "20261112-95bbfda70d4a",
       "cluster_main": true
     },
     {
@@ -316,7 +374,7 @@
       "score_quality": 89,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Petermann Bédat 2914 Chronograph: Hands-on Review",
@@ -390,27 +448,6 @@
       "score_quality": 84,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
-    },
-    {
-      "title": "Highlights: A Dizzying Array of Tourbillons at Phillips Hong Kong",
-      "url": "https://watchesbysjx.com/2026/11/phillips-hong-kong-tourbillons-fall-2026-html.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Phillips-HK-Nov-2026-Tourbillons-Feat-300x200.jpeg",
-      "peek_preview": "Phillips’ fall auction season goes east for The Hong Kong Watch Auction: XXIII from November 21-22 with a whirlwind of tourbillon watches from the golden age of (pocket) watchmaking to the new golden age of today. Lot 8...",
-      "categories": [
-        "News",
-        "Auctions",
-        "Hong Kong",
-        "Independent watchmaking",
-        "Phillips"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T01:43:36.000Z",
-      "score_quality": 78,
-      "score_notif": 50,
-      "cluster": "20261112-637f5497c283",
       "cluster_main": true
     },
     {
@@ -509,7 +546,7 @@
       "score_quality": 80,
       "score_notif": 70,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The TAG Heuer Aquaracer Professional 300 x Time+Tide 'Sundowner II'",
@@ -524,7 +561,7 @@
       "score_quality": 82,
       "score_notif": 70,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: URWERK UR-101 Green Mamba—The Founding Design Goes Dark in 50 Pieces",
@@ -946,7 +983,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1234,7 +1271,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -1366,24 +1403,6 @@
       "score_notif": 31,
       "cluster": "20261110-68c864390131",
       "cluster_main": true
-    },
-    {
-      "title": "Introducing: Two New Vacheron Constantin Fiftysix Watches With Tuxedo Dials",
-      "url": "https://www.fratellowatches.com/introducing-two-new-vacheron-constantin-fiftysix-watches-with-tuxedo-dials/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Vacheron-Constantin-FiftySix_4600E-4000E_Duo_StillLife_Crop_16x9.jpg",
-      "peek_preview": "Vacheron Constantin introduces two new stainless steel additions to its Fiftysix collection. The 40mm offerings include a Self-Winding model with a date display and a Complete Calendar featuring day, month, moonphase, a...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T08:00:53.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
     },
     {
       "title": "Introducing: Vacheron Constantin Fiftysix Self-Winding And FiftySix Complete Calendar",
@@ -1569,7 +1588,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [October 2026]",
@@ -1601,7 +1620,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Horologically Unique porta al polso il Chronoscope Art Déco degli anni Venti",
@@ -1638,7 +1657,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1674,7 +1693,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Crystallized Titanium Ming 51.01 'Halo'",
@@ -1794,8 +1813,8 @@
       "published_at": "2026-11-09T00:00:45.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261104-6816b868ba25",
-      "cluster_main": false
+      "cluster": "20261109-3f3ca58f906e",
+      "cluster_main": true
     },
     {
       "title": "Colombian brand Auret launches the Mederi, a 12-sided watch with a Swiss heart",
@@ -2397,40 +2416,6 @@
       "score_notif": 34,
       "cluster": "20261105-a218c4df32bb",
       "cluster_main": false
-    },
-    {
-      "title": "Lip Général de Gaulle : la « montre des Présidents » revient en 3 versions",
-      "url": "https://www.welovewatches.fr/lip-general-de-gaulle-la-montre-des-presidents-revient-en-3-versions.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/presentation-montres-lip-general-de-gaulle-gdg-35-mm.jpg",
-      "peek_preview": "Certaines montres ont un destin hors du commun. La Lip Général de Gaulle en fait assurément partie ! Portée au poignet de plusieurs chefs d'État, cette icône horlogère française a gagné au fil des décennies...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-05T06:30:00.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261105-45a3f610dff6",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: Bianchet Tonneau UltraFino Black Ceramic—The Stealth Tourbillon That Makes Ceramic Look Incredible",
-      "url": "https://www.watchcollectinglifestyle.com/home/bianchet-tonneau-ultrafino-black-ceramic-review",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793819932862-3LKGB3MELTDPZAXABKEY/Bianchet+Ultrafino+Tonneau+Black+Ceramic-5.jpg?format=1500w",
-      "peek_preview": "Black ceramic has a reputation for appearing too flat, dull, and anonymous in the wrong watchmaker’s hands. The Bianchet Tonneau UltraFino Black Ceramic is the rebuttal. In person, it is a masterclass in surface treatme...",
-      "categories": [
-        "Bianchet"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-04T19:51:03.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20261104-6816b868ba25",
-      "cluster_main": true
     }
   ]
 }
