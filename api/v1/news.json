@@ -1,6 +1,6 @@
 {
-  "content_hash": "dc7a7d8187c0860e2f2343ff45d0f081065045ba947eb2292eda1f4b5c103251",
-  "last_updated": "2026-11-12T03:47:41.375Z",
+  "content_hash": "ce4edd9cdffd797d8c8558d09da2526798a7a5216712b91ac3072e6e4283041d",
+  "last_updated": "2026-11-12T04:47:23.290Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-11T01:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T03:56:52.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T01:43:36.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T04:40:35.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -162,8 +162,8 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T03:00:23.000Z"
     },
     {
@@ -175,6 +175,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: Petermann Bédat Reference 2914 Monopusher Chronograph",
+      "url": "https://watchesbysjx.com/2026/11/petermann-bedat-reference-2914-monopusher-chronograph.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Petermann-Bedat-2914-Monopusher-Chronograph-3x2-centred-header-300x200.jpg",
+      "peek_preview": "The Petermann Bédat Reference 2914 Monopusher Chronograph is the brand’s first conventional chronograph, following the split-seconds ref. 2941 introduced in 2023. It combines the elaborate finishing of its predecessor w...",
+      "categories": [
+        "Reviews",
+        "Independent watchmaking",
+        "New Watches 2026",
+        "Petermann Bédat"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T04:40:35.000Z",
+      "score_quality": 89,
+      "score_notif": 72,
+      "cluster": "20261112-115cc64ee7a3",
+      "cluster_main": true
+    },
+    {
+      "title": "Petermann Bédat 2914 Chronograph: Hands-on Review",
+      "url": "https://deployant.com/petermann-bedat-2914-chronograph-review/?utm_source=rss&utm_medium=rss&utm_campaign=petermann-bedat-2914-chronograph-review",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/petermannbedat-chrono-dial2.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Independent watchmakers Gaêl Petermann and Florian Bédat return with a new chronograph, the Petermann Bédat Ref. 2914. Priced at CHF 180,000 before taxes and...",
+      "categories": [
+        "News",
+        "Reviews",
+        "Watches",
+        "chronograph",
+        "Gaël Petermann and Florian Bédat",
+        "petermann-bedat"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T03:56:52.000Z",
+      "score_quality": 78,
+      "score_notif": 72,
+      "cluster": "20261112-115cc64ee7a3",
+      "cluster_main": false
+    },
     {
       "title": "シチズンが「クロスシー」のブランド誕生30周年記念限定モデルを発売",
       "url": "https://www.webchronos.net/news/178280/",
@@ -208,9 +250,9 @@
       "featured": false,
       "published_at": "2026-11-12T02:01:46.000Z",
       "score_quality": 88,
-      "score_notif": 69,
+      "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -223,7 +265,7 @@
       "featured": false,
       "published_at": "2026-11-12T02:00:00.000Z",
       "score_quality": 84,
-      "score_notif": 69,
+      "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
       "cluster_main": false
     },
@@ -307,7 +349,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261111-8637a895d67f",
+      "cluster": "20261110-363f7e237b54",
       "cluster_main": true
     },
     {
@@ -344,7 +386,7 @@
       "score_quality": 80,
       "score_notif": 70,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The TAG Heuer Aquaracer Professional 300 x Time+Tide 'Sundowner II'",
@@ -359,7 +401,7 @@
       "score_quality": 82,
       "score_notif": 70,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: URWERK UR-101 Green Mamba—The Founding Design Goes Dark in 50 Pieces",
@@ -376,7 +418,7 @@
       "score_quality": 74,
       "score_notif": 68,
       "cluster": "20261111-5404cb05c43f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-Shock Updates the Compact \"CasiOak\" in Monochromatic Black and Brown",
@@ -420,7 +462,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
@@ -558,7 +600,7 @@
       "score_quality": 78,
       "score_notif": 68,
       "cluster": "20261111-5404cb05c43f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Christopher Ward C1 Jump Hour XV Watch Review: 15 Years Of The JJ01",
@@ -656,7 +698,7 @@
       "featured": false,
       "published_at": "2026-11-11T04:00:20.000Z",
       "score_quality": 84,
-      "score_notif": 70,
+      "score_notif": 34,
       "cluster": "20261111-795d74086536",
       "cluster_main": true
     },
@@ -695,7 +737,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Krayon Anywhere Magnolia – A New Métiers d’Art Edition",
@@ -730,7 +772,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "オーデマ ピゲが独自の音響技術を搭載した「ミニッツリピーター スーパーソヌリ」3種を発表",
@@ -845,7 +887,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -937,8 +979,8 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-74b7216d083b",
-      "cluster_main": true
+      "cluster": "20261110-363f7e237b54",
+      "cluster_main": false
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1018,7 +1060,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -1093,7 +1135,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F Taps Cloisonné Artist Gabriel Colliard for LM101",
@@ -1148,7 +1190,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Phillips Geneva Watch Auction XXIV: Zum ersten Mal mehr als 100 Millionen!",
@@ -1225,7 +1267,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1466,7 +1508,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Photo Report: Watch Spotting At The Hodinkee Happy Hour [October 2026]",
@@ -1535,7 +1577,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
@@ -1590,7 +1632,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Crystallized Titanium Ming 51.01 'Halo'",
@@ -2187,26 +2229,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands On: JM Fleury Chronograph Openwork",
-      "url": "https://watchesbysjx.com/2026/11/jm-fleury-chronograph-openwork.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/J-M-Fleury-FXR-4-Openwork-3x2-header-300x200.jpg",
-      "peek_preview": "After more than two decades manufacturing components at Patek Philippe and independently for client brands, Jean-Marc Fleury has begun applying that expertise to watches bearing his own name. His latest is the JM Fleury...",
-      "categories": [
-        "Reviews",
-        "Fleury Manufacture",
-        "Independent watchmaking",
-        "New Watches 2026"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T01:00:03.000Z",
-      "score_quality": 88,
-      "score_notif": 34,
-      "cluster": "20261106-8c3866819db4",
-      "cluster_main": true
-    },
-    {
       "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
       "url": "https://www.orologidiclasse.com/kuoe-royal-smith-90-006-80-hrs/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/kuoe-royal-smith-90-006-80hrs-avorio-quadrante.jpg",
@@ -2398,26 +2420,6 @@
       "score_quality": 46,
       "score_notif": 25,
       "cluster": "20261104-e51d7edfdb97",
-      "cluster_main": true
-    },
-    {
-      "title": "Rolex investe a Milano: un palazzo da 135 milioni in via Montenapoleone",
-      "url": "https://www.perpetualpassion.com/2026/11/04/rolex-milano-palazzo-montenapoleone/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/11/Bally-Montenapoleone_Casper-Mueller-Kneer-Architects_Copyright-Paul-Riddle_DSL2166-Editsm.jpg",
-      "peek_preview": "Un palazzo da 135 milioni di euro in via Montenapoleone, nel cuore del Quadrilatero della Moda. L’operazione arriva [...] L'articolo Rolex investe a Milano: un palazzo da 135 milioni in via Montenapoleone proviene da PE...",
-      "categories": [
-        "Just In",
-        "Rolex",
-        "home",
-        "rolex"
-      ],
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-04T15:00:27.000Z",
-      "score_quality": 67,
-      "score_notif": 32,
-      "cluster": "20261104-adc93fc58c68",
       "cluster_main": true
     }
   ]
