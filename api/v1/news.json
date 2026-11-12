@@ -1,6 +1,6 @@
 {
-  "content_hash": "9cf436f11bc61503acf92ddfd55524e53110fe8bb39647f04ce1bb1848a0a8f7",
-  "last_updated": "2026-11-12T19:48:16.408Z",
+  "content_hash": "8d995e208173ea3811e34d8fd3f6ad20c42a47d2e5a825b9fcd92889bb892a42",
+  "last_updated": "2026-11-12T20:47:28.939Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T17:00:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T20:00:54.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T18:00:00.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-12T20:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T18:55:38.000Z"
     },
     {
@@ -175,6 +175,39 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin Adds Two New References to the Fiftysix Collection",
+      "url": "https://wornandwound.com/vacheron-constantin-adds-two-new-references-to-the-fiftysix-collection/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/VC-Fiftysix-Gray-47.jpg",
+      "peek_preview": "Vacheron Constantin has added two new references to their Fiftysix collection. The Fiftysix line is a little unusual among the collections of so-called Holy Trinity brands (Audemars Piguet and Patek Philippe being the o...",
+      "categories": [
+        "News & Releases",
+        "Vacheron Constantin"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T20:00:54.000Z",
+      "score_quality": 66,
+      "score_notif": 34,
+      "cluster": "20261110-1570288cfcaf",
+      "cluster_main": false
+    },
+    {
+      "title": "Just Because: What Watch Does Rexhep Rexhepi Make For Himself? This Unique One.",
+      "url": "https://www.hodinkee.com/articles/what-watch-does-rexhep-rexhepi-make-for-himself-this",
+      "image": "https://hodinkee.imgix.net/uploads/articles/b70cde73-a2b7-434a-aaab-409d12088bf3/20261106_RexhepRexhepi_111.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A grey-green enamel and diamonds make for the perfect watch for the newly-crowned GPHG Aiguille d'Or winner.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-12T20:00:00.000Z",
+      "score_quality": 80,
+      "score_notif": 37,
+      "cluster": "20261112-05b4cb5a5dcd",
+      "cluster_main": true
+    },
     {
       "title": "5 Rolex Sottovalutati nel 2026: Prezzi Reali in Italia e Europa",
       "url": "https://www.orologidiclasse.com/rolex-sottovalutati-prezzi-italia-europa/",
@@ -441,7 +474,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -702,7 +735,7 @@
       "score_quality": 89,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Petermann Bédat 2914 Chronograph: Hands-on Review",
@@ -776,7 +809,7 @@
       "score_quality": 84,
       "score_notif": 72,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -838,7 +871,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "TAG Heuer and Time+Tide Reunite for the Aquaracer Sundowner II",
@@ -949,8 +982,8 @@
       "published_at": "2026-11-11T17:21:52.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster": "20261111-b3fa1305f822",
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
@@ -1401,7 +1434,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1631,21 +1664,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: Vacheron Constantin Fiftysix Self-Winding And FiftySix Complete Calendar",
-      "url": "https://www.hodinkee.com/articles/intro-vacheron-fiftysix",
-      "image": "https://hodinkee.imgix.net/uploads/images/80eb59b2-f6ba-47ff-8ae3-abf4b8941194/FiftySix_4600E-4000E_Duo_StillLife_Crop_16x9.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "At 271 years old, Vacheron is finally going grey.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T08:00:00.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
-    },
-    {
       "title": "145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour",
       "url": "https://timeandtidewatches.com/seiko-145th-anniversary-in-sydney-events/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/seiko-145th-anniversary-event-sydney-featured-image.webp",
@@ -1813,7 +1831,7 @@
       "published_at": "2026-11-09T17:05:12.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261107-8929459aff2d",
+      "cluster": "20261109-1f5e5c348ff7",
       "cluster_main": true
     },
     {
@@ -1830,8 +1848,8 @@
       "published_at": "2026-11-09T15:22:48.000Z",
       "score_quality": 69,
       "score_notif": 34,
-      "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster": "20261109-a98526331663",
+      "cluster_main": true
     },
     {
       "title": "Horologically Unique porta al polso il Chronoscope Art Déco degli anni Venti",
@@ -1853,28 +1871,10 @@
       "cluster_main": false
     },
     {
-      "title": "Awake Presents More Stunning Dial Colors and New Compact Cases in Its Son Mai Silver Leaf Collection",
-      "url": "https://wornandwound.com/awake-presents-more-stunning-dial-colors-and-new-compact-cases-in-its-son-mai-silver-leaf-collection/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Awake-Silver-Leaf-1.jpg",
-      "peek_preview": "My first exposure to Awake came in 2024 at Geneva Watch Days. It was one of those moments when I had the privilege of simultaneously meeting the founder, Lilian Thibault, and discovering the watches all at once – gettin...",
-      "categories": [
-        "Featured",
-        "Awake"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T14:00:43.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20261109-8cf463cfb517",
-      "cluster_main": true
-    },
-    {
-      "title": "What makes the new Glashütte Orginal Seventies collection a strong integrated bracelet contender?",
+      "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
       "url": "https://timeandtidewatches.com/new-glashutte-original-vintage-seventies-collection-hands-on/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Glashutte-Original-Vintage-Seventies-2026-Collection-4.jpg",
-      "peek_preview": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender? Zach goes hands-on to find out... The post What makes the new Glashütte Orginal Seventies collection a strong integrated...",
+      "peek_preview": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender? Zach goes hands-on to find out... The post What makes the new Glashütte Original Seventies collection a strong integrate...",
       "categories": [
         "Hands On",
         "Video"
@@ -1903,8 +1903,8 @@
       "published_at": "2026-11-09T13:00:05.000Z",
       "score_quality": 67,
       "score_notif": 34,
-      "cluster": "20261109-8cf463cfb517",
-      "cluster_main": false
+      "cluster": "20261109-7cbe02d2aea4",
+      "cluster_main": true
     },
     {
       "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
@@ -2132,8 +2132,8 @@
       "published_at": "2026-11-07T20:38:59.000Z",
       "score_quality": 80,
       "score_notif": 34,
-      "cluster": "20261107-8929459aff2d",
-      "cluster_main": false
+      "cluster": "20261107-0ca26117a9b9",
+      "cluster_main": true
     },
     {
       "title": "Baume & Mercier celebrates a new era at its first NYC event in a decade",
@@ -2196,7 +2196,7 @@
       "score_quality": 71,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
