@@ -1,6 +1,6 @@
 {
-  "content_hash": "039ab96b3c5c82480ce4c9a6b505179cbe38a210d7d41d3ea12abb6253de4f94",
-  "last_updated": "2026-11-13T12:48:20.181Z",
+  "content_hash": "f0d9dce830551cc25dbf64684747468ae6c6f2561f0c2aa05f1729981f0de590",
+  "last_updated": "2026-11-13T13:48:21.869Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T12:00:09.000Z"
     },
     {
@@ -23,13 +23,13 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T12:30:02.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2,
+      "estimated_articles_per_day": 1.9,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T08:01:20.000Z"
     },
@@ -58,13 +58,13 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T00:02:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
+      "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T22:00:00.000Z"
     },
@@ -176,6 +176,25 @@
   ],
   "items": [
     {
+      "title": "Mickaël Gaspar Souscription: First Hands-On Impressions",
+      "url": "https://deployant.com/mickael-gaspar-souscription-first-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=mickael-gaspar-souscription-first-hands-on-impressions",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/gaspar-tray.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Among the watches unveiled at IAMWATCH 2026, Mickaël Gaspar’s first wristwatch, the Souscription, is difficult to mistake for anything else. Its hand-sandblas...",
+      "categories": [
+        "Reviews",
+        "michael gaspar",
+        "mickaël gaspar"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T13:30:00.000Z",
+      "score_quality": 78,
+      "score_notif": 34,
+      "cluster": "20261112-8ee586aa6e78",
+      "cluster_main": false
+    },
+    {
       "title": "Industry News – The Patek Philippe Museum Celebrates its 25th Anniversary",
       "url": "https://monochrome-watches.com/the-patek-philippe-museum-celebrates-its-25th-anniversary/",
       "image": "https://monochrome-watches.com/app/uploads/2026/11/The-Patek-Philippe-Museum-Celebrates-its-25th-Anniversary-600x237.jpg",
@@ -211,7 +230,7 @@
       "score_quality": 76,
       "score_notif": 62,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Geneva Journal: You Could Trip Over a Journe",
@@ -339,7 +358,7 @@
       "score_quality": 74,
       "score_notif": 62,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Industry News – Richemont Reports Strong First Semester 2026, Sales up by 17%",
@@ -538,7 +557,7 @@
       "score_quality": 86,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -588,7 +607,7 @@
       "score_quality": 88,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -782,7 +801,7 @@
       "featured": false,
       "published_at": "2026-11-12T12:46:38.000Z",
       "score_quality": 73,
-      "score_notif": 57,
+      "score_notif": 34,
       "cluster": "20261112-8b918be4a90b",
       "cluster_main": true
     },
@@ -1026,7 +1045,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Petermann Bédat 2914 Chronograph: Hands-on Review",
@@ -1078,7 +1097,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -1139,7 +1158,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
+      "cluster": "20261111-8637a895d67f",
       "cluster_main": true
     },
     {
@@ -1515,7 +1534,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -1589,8 +1608,8 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster": "20261110-74b7216d083b",
+      "cluster_main": true
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1783,7 +1802,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -2285,7 +2304,7 @@
       "score_quality": 71,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
@@ -2410,23 +2429,6 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261106-52d3d984bbde",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: URWERK UR-300 Time Quantum—The Hour Display That Rebuilds Itself in a Blink",
-      "url": "https://www.watchcollectinglifestyle.com/home/urwerk-ur-300-time-quantum-limited-editions",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793903468996-URLVI8HGCI3Q1TTH17YP/URWERK+UR-300+Time+Quantum.jpeg?format=1500w",
-      "peek_preview": "After nearly three decades exploring the natural world and outer space, URWERK has turned its attention to the atom. The newly unveiled UR-300 Time Quantum replaces orbiting satellites and the retrograde snap of earlier...",
-      "categories": [
-        "Urwerk"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T13:11:51.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261106-dd62a52334b2",
       "cluster_main": true
     }
   ]
