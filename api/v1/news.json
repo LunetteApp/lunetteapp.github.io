@@ -1,6 +1,6 @@
 {
-  "content_hash": "2d7c383c4776bbcf12fc36411b08d78557edacb4e68ea1eec2a2ddbaf4707d44",
-  "last_updated": "2026-11-13T19:48:04.731Z",
+  "content_hash": "ce660aab779c1bcb738a4c1e1b6fd8bdfa02799f3c7f01d44c7677e94bcbf79e",
+  "last_updated": "2026-11-13T20:48:18.504Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T15:00:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T20:00:49.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -43,14 +43,14 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T17:05:31.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T20:05:25.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T12:46:38.000Z"
     },
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T18:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T20:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,54 @@
   ],
   "items": [
     {
+      "title": "Studio Underd0g Debuts First Calendar Complication With New 04SERIES",
+      "url": "https://teddybaldassarre.com/blogs/watches/studio-underd0g-04series",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Studio_Underd0g_-_04SERIES_-_Cloud10_38.5mm_-_Laid_Down_Strap-2.jpg?v=1794596912",
+      "peek_preview": "Though it might only have six years under its belt so far, Studio Underd0g has managed to solidify itself as a standout in the independent watch sector with its punchy, unmistakable design and just the right amount of i...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T20:05:25.000Z",
+      "score_quality": 74,
+      "score_notif": 72,
+      "cluster": "20261113-974f39464694",
+      "cluster_main": false
+    },
+    {
+      "title": "The Highly Anticipated Studio Underd0g 04Series is Here with the Brand’s First Calendar Complication",
+      "url": "https://wornandwound.com/the-highly-anticipated-studio-underd0g-04series-is-here-with-the-brands-first-calendar-complication/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/SU_Series04_3_WR.jpg",
+      "peek_preview": "Since the brand’s inception in 2021, Studio Underd0g has introduced three key lines into its catalog, aptly named the 01Series, 02Series, and 03Series. Today, we get the long-awaited next chapter, the 04Series, which de...",
+      "categories": [
+        "News & Releases",
+        "Studio Underd0g"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T20:00:49.000Z",
+      "score_quality": 73,
+      "score_notif": 72,
+      "cluster": "20261113-974f39464694",
+      "cluster_main": false
+    },
+    {
+      "title": "Dispatch: The Inaugural Vacheron Constantin Concours d'Élégance Horlogère",
+      "url": "https://www.hodinkee.com/articles/the-inaugural-vacheron-constantin-concours-delegance-horlogere",
+      "image": "https://hodinkee.imgix.net/uploads/articles/31cbac1d-c1fc-498f-a15e-5edea95feb03/vch.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The first concours of its kind in watchmaking turned a competition into a celebration.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T20:00:00.000Z",
+      "score_quality": 82,
+      "score_notif": 30,
+      "cluster": "20261111-1f837d791e04",
+      "cluster_main": true
+    },
+    {
       "title": "Recommended Reading: \"Vintage Watches: The Modern Guide\" Goes Beyond Pretty Pictures To Help You Be A Better Collector",
       "url": "https://www.hodinkee.com/articles/vintage-watches-the-modern-guide-goes-beyond-pretty-pictures-to-help-you-be-a-better-collector",
       "image": "https://hodinkee.imgix.net/uploads/articles/232f731e-4271-4a20-9e69-26a98c96bb7e/Cover-3D.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -227,7 +275,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Trilobe Une Folle Journée Gen Two—A New Case and Three Colors",
@@ -246,21 +294,6 @@
       "score_notif": 34,
       "cluster": "20261112-549fe2822c35",
       "cluster_main": false
-    },
-    {
-      "title": "Bring a Loupe: A Piaget Dress Watch, An Eterna-Matic Super Kontiki, A Girard Perregaux Olimpico, And A Trio Of Lemania Tg 195s",
-      "url": "https://www.hodinkee.com/articles/a-piaget-dress-watch-an-eterna-matic-super-kontiki-a-girard-perregaux-olimpico-and-a-trio-of-lemania",
-      "image": "https://hodinkee.imgix.net/uploads/articles/bbf45bf8-b3ae-402e-89f6-91f12ea5e84f/A-Piaget-Dress-Watch-An-Eterna-Matic-Super-Kontiki-A-Girard-Perregaux-Olimpico-And-A-Trio-Of-Lemania-Tg-195s.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T16:00:00.000Z",
-      "score_quality": 46,
-      "score_notif": 24,
-      "cluster": "20261113-332dd98fb5f2",
-      "cluster_main": true
     },
     {
       "title": "Introducing – Studio Underd0g Launches the 04SERIES Calendar with a Clever Weekend Indicator",
@@ -514,7 +547,7 @@
       "score_quality": 56,
       "score_notif": 34,
       "cluster": "20261112-09f8ed120410",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Top 5 Surprising Releases Of 2026",
@@ -745,7 +778,7 @@
       "featured": false,
       "published_at": "2026-11-12T20:00:00.000Z",
       "score_quality": 80,
-      "score_notif": 37,
+      "score_notif": 34,
       "cluster": "20261112-05b4cb5a5dcd",
       "cluster_main": true
     },
@@ -969,7 +1002,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261112-09f8ed120410",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "First Look – New Racing Livery for the Czapek Faubourg de Cracovie Crossroads Lightning",
@@ -1015,7 +1048,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -1232,7 +1265,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Petermann Bédat 2914 Chronograph: Hands-on Review",
@@ -1269,21 +1302,6 @@
       "score_quality": 55,
       "score_notif": 34,
       "cluster": "20261112-c28913cf49f8",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
-      "url": "https://www.hodinkee.com/articles/introducing-petermann-bedat-2914-chronograph",
-      "image": "https://hodinkee.imgix.net/uploads/articles/060f1ad8-0c8c-41b6-83b6-92962bfd2e72/DSC02405.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The duo has been downsizing their watches and codifying their aesthetic and now bring back a complication.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T02:00:00.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261112-115cc64ee7a3",
       "cluster_main": true
     },
     {
@@ -1658,7 +1676,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -2368,49 +2386,6 @@
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
       "cluster_main": false
-    },
-    {
-      "title": "NOMOS Club Sport neomatik 34 All Silver: Compact In-House 200M Sports Automatic",
-      "url": "https://deployant.com/nomos-club-sport-neomatik-34-all-silver-compact-in-house-200m-sports-automatic/?utm_source=rss&utm_medium=rss&utm_campaign=nomos-club-sport-neomatik-34-all-silver-compact-in-house-200m-sports-automatic",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/nomos-club-sport-neomatik-34-all-silver-ref-758-front-deployant.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors NOMOS Glashütte expands its premier sports line with the Club Sport neomatik 34 all silver, delivering a refined monochromatic execution in a versatile 34 mm...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "10 Days GMT Automatic Oro Rosso",
-        "blue steel",
-        "Club Sport",
-        "luxury sports watch",
-        "neomatik",
-        "nomos",
-        "NOMOS Glashütte"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-07T13:30:00.000Z",
-      "score_quality": 60,
-      "score_notif": 31,
-      "cluster": "20261107-accf94097850",
-      "cluster_main": false
-    },
-    {
-      "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
-      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-11-07",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
-      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
-      "categories": [
-        "Weekend Reads"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-07T13:00:00.000Z",
-      "score_quality": 27,
-      "score_notif": 12,
-      "cluster": "20261107-19d07713b0d8",
-      "cluster_main": true
     }
   ]
 }
