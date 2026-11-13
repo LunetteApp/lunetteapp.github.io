@@ -1,6 +1,6 @@
 {
-  "content_hash": "c23a4da7b08fb508324c28d95c5a282d8446aaff9597199c525f73ce0c231ea5",
-  "last_updated": "2026-11-12T23:47:19.696Z",
+  "content_hash": "13ca652daf88d9c1cc6273f1f665e3dc2f56f3424950b57198c49b9452ade24f",
+  "last_updated": "2026-11-13T00:47:21.566Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T23:01:50.000Z"
     },
     {
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T03:56:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T00:02:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -176,6 +176,27 @@
   ],
   "items": [
     {
+      "title": "New Book: “Being Fearless: The First 10 Years of Rebuilding a Watch Company”",
+      "url": "https://deployant.com/being-fearless-rebuilding-fears/?utm_source=rss&utm_medium=rss&utm_campaign=being-fearless-rebuilding-fears",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/Fears-Being-Fearless-Creative-Standing-Image.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Fears marks ten years since its modern revival with Being Fearless: The First 10 Years of Rebuilding a Watch Company, a new book written by British watch jour...",
+      "categories": [
+        "Announcements",
+        "being fearless",
+        "british watchmaking",
+        "fears",
+        "watch books"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T00:02:00.000Z",
+      "score_quality": 51,
+      "score_notif": 24,
+      "cluster": "20261113-9f8026b65c17",
+      "cluster_main": true
+    },
+    {
       "title": "Lighting Up The Room With The Fortis Novonaut N-42 TR Series",
       "url": "https://www.fratellowatches.com/fortis-novonaut-n-42-tr-series/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Fortis-Novonaut-N-42-halo-01.jpg",
@@ -281,7 +302,7 @@
       "score_quality": 86,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -331,7 +352,7 @@
       "score_quality": 88,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -856,7 +877,7 @@
       "featured": false,
       "published_at": "2026-11-12T00:00:54.000Z",
       "score_quality": 55,
-      "score_notif": 72,
+      "score_notif": 34,
       "cluster": "20261112-131c4164e2e7",
       "cluster_main": true
     },
@@ -904,7 +925,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261111-8637a895d67f",
+      "cluster": "20261110-363f7e237b54",
       "cluster_main": true
     },
     {
@@ -1017,7 +1038,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
@@ -1311,7 +1332,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1343,7 +1364,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Albishorn's Second Model — The Voisin Aérosport (Live Pics)",
@@ -1376,7 +1397,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -1450,8 +1471,8 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-74b7216d083b",
-      "cluster_main": true
+      "cluster": "20261110-363f7e237b54",
+      "cluster_main": false
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1565,7 +1586,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -1644,7 +1665,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1834,7 +1855,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -1870,7 +1891,7 @@
       "score_quality": 55,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
@@ -2076,8 +2097,8 @@
       "published_at": "2026-11-08T10:48:02.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261105-4e8d3a33ab8d",
-      "cluster_main": false
+      "cluster": "20261108-42fdd234582c",
+      "cluster_main": true
     },
     {
       "title": "Hands-On: H. Moser Pioneer Cylindrical Tourbillon Skeleton Aventurine Saquon Barkley Edition",
@@ -2180,7 +2201,7 @@
       "score_quality": 71,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
@@ -2413,23 +2434,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261105-8542ec0a4be4",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Piaget Andy Warhol ‘Camouflage’—Pop Art Hidden in Sodalite, Turquoise and Gold",
-      "url": "https://www.watchcollectinglifestyle.com/home/piaget-andy-warhol-watch-camouflage-limited-edition-sodalite-turquoise-dial",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1793899086547-92HO40LL7WOB9QR9LVC4/Piaget+Andy+Warhol+%E2%80%98Camouflage%E2%80%99+G0A51242_16-9_FOND_BLEU.jpg?format=1500w",
-      "peek_preview": "Piaget returns to its Warhol license with the Andy Warhol ‘Camouflage’ Limited Edition, an 18K white gold cushion watch whose dial transforms the artist’s camouflage motif into stone-and-gold marquetry. Limited to 86 pi...",
-      "categories": [
-        "Piaget"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-05T17:53:11.000Z",
-      "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261105-4e8d3a33ab8d",
       "cluster_main": true
     }
   ]
