@@ -1,6 +1,6 @@
 {
-  "content_hash": "27026f7ad1e6829396be1293b0d06d7324f44042805cab648d71d4e77b26360d",
-  "last_updated": "2026-11-13T17:48:40.777Z",
+  "content_hash": "41d1b2b1bfe86b276e9392d94026a5ee243b7fc3ecf39cf47822902baa55aff5",
+  "last_updated": "2026-11-13T18:47:47.473Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T17:10:04.000Z"
     },
     {
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.6,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-13T17:00:00.000Z"
+      "latest_article_at": "2026-11-13T18:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T17:02:01.000Z"
     },
     {
@@ -176,6 +176,21 @@
   ],
   "items": [
     {
+      "title": "Recommended Reading: \"Vintage Watches: The Modern Guide\" Goes Beyond Pretty Pictures To Help You Be A Better Collector",
+      "url": "https://www.hodinkee.com/articles/vintage-watches-the-modern-guide-goes-beyond-pretty-pictures-to-help-you-be-a-better-collector",
+      "image": "https://hodinkee.imgix.net/uploads/articles/232f731e-4271-4a20-9e69-26a98c96bb7e/Cover-3D.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Eric Wind and Charlie Dunne's new book, on sale November 17, aims to be helpful to newcomers and longtime collectors alike.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T18:00:00.000Z",
+      "score_quality": 74,
+      "score_notif": 24,
+      "cluster": "20261113-ed3f2f4a0939",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – The Raúl Pagès RP2 The Hour Glass Edition, A Subtle Play of Light and Texture",
       "url": "https://monochrome-watches.com/raul-pages-rp2-the-hour-glass-edition-independent-watchmaking-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/11/Raul-Pages-RP2-The-Hour-Glass-Blue-Mother-of-Pearl-1-600x237.jpg",
@@ -212,31 +227,6 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
-    },
-    {
-      "title": "Porsche Mission S: perché ha un Cyclops come Rolex?",
-      "url": "https://italianwatchspotter.com/porsche-mission-s-cyclops/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/porsche-mission-s-128-1-1024x683.webp",
-      "peek_preview": "Ormai si sa, il mondo dell’orologeria e quello delle automobili si intrecciano sempre di più, condividendo scelte stilistiche e soluzioni tecniche. Prima la Bugatti Tourbillon con il suo sofisticato meccanismo di alta o...",
-      "categories": [
-        "News",
-        "Cyclops",
-        "Novità Orologi",
-        "Orologeria",
-        "Orologi Porsche",
-        "Porsche Design",
-        "Porsche Mission S",
-        "rolex",
-        "Watch Design"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-13T16:46:00.000Z",
-      "score_quality": 36,
-      "score_notif": 28,
-      "cluster": "20261113-1ac37e919f3e",
       "cluster_main": true
     },
     {
@@ -328,7 +318,7 @@
       "featured": false,
       "published_at": "2026-11-13T15:00:20.000Z",
       "score_quality": 73,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
       "cluster_main": false
     },
@@ -397,7 +387,7 @@
       "featured": false,
       "published_at": "2026-11-13T14:58:34.000Z",
       "score_quality": 78,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
       "cluster_main": false
     },
@@ -574,7 +564,7 @@
       "featured": false,
       "published_at": "2026-11-13T08:01:20.000Z",
       "score_quality": 78,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
       "cluster_main": false
     },
@@ -796,9 +786,9 @@
       "featured": false,
       "published_at": "2026-11-12T18:01:22.000Z",
       "score_quality": 86,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -814,7 +804,7 @@
       "featured": false,
       "published_at": "2026-11-12T18:00:50.000Z",
       "score_quality": 82,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
       "cluster_main": false
     },
@@ -831,7 +821,7 @@
       "featured": false,
       "published_at": "2026-11-12T18:00:27.000Z",
       "score_quality": 76,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
       "cluster_main": false
     },
@@ -846,9 +836,9 @@
       "featured": false,
       "published_at": "2026-11-12T18:00:00.000Z",
       "score_quality": 88,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -867,7 +857,7 @@
       "featured": false,
       "published_at": "2026-11-12T18:00:00.000Z",
       "score_quality": 58,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
       "cluster_main": false
     },
@@ -1025,7 +1015,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -1392,21 +1382,6 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": false
-    },
-    {
-      "title": "Introducing: The TAG Heuer Aquaracer Professional 300 x Time+Tide 'Sundowner II'",
-      "url": "https://www.hodinkee.com/articles/time-tide-sundowner-ii",
-      "image": "https://hodinkee.imgix.net/uploads/articles/2076ff2e-42d9-4359-93d3-1d12648c0d7a/timetidesuncdownder2heading.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A combination of warm rose gold and cold sandblasted titanium makes its way to the second Aquaracer in this series of collaborations.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261111-39cd327a39b3",
       "cluster_main": true
     },
     {
@@ -1683,7 +1658,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -2392,6 +2367,32 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
+      "cluster_main": false
+    },
+    {
+      "title": "NOMOS Club Sport neomatik 34 All Silver: Compact In-House 200M Sports Automatic",
+      "url": "https://deployant.com/nomos-club-sport-neomatik-34-all-silver-compact-in-house-200m-sports-automatic/?utm_source=rss&utm_medium=rss&utm_campaign=nomos-club-sport-neomatik-34-all-silver-compact-in-house-200m-sports-automatic",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/nomos-club-sport-neomatik-34-all-silver-ref-758-front-deployant.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors NOMOS Glashütte expands its premier sports line with the Club Sport neomatik 34 all silver, delivering a refined monochromatic execution in a versatile 34 mm...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "10 Days GMT Automatic Oro Rosso",
+        "blue steel",
+        "Club Sport",
+        "luxury sports watch",
+        "neomatik",
+        "nomos",
+        "NOMOS Glashütte"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-07T13:30:00.000Z",
+      "score_quality": 60,
+      "score_notif": 31,
+      "cluster": "20261107-accf94097850",
       "cluster_main": false
     }
   ]
