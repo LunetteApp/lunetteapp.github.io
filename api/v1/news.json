@@ -1,6 +1,6 @@
 {
-  "content_hash": "41d1b2b1bfe86b276e9392d94026a5ee243b7fc3ecf39cf47822902baa55aff5",
-  "last_updated": "2026-11-13T18:47:47.473Z",
+  "content_hash": "2d7c383c4776bbcf12fc36411b08d78557edacb4e68ea1eec2a2ddbaf4707d44",
+  "last_updated": "2026-11-13T19:48:04.731Z",
   "premium": {
     "links": []
   },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T18:00:00.000Z"
     },
     {
@@ -788,7 +788,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -838,7 +838,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -2394,6 +2394,23 @@
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
       "cluster_main": false
+    },
+    {
+      "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-11-07",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "categories": [
+        "Weekend Reads"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-07T13:00:00.000Z",
+      "score_quality": 27,
+      "score_notif": 12,
+      "cluster": "20261107-19d07713b0d8",
+      "cluster_main": true
     }
   ]
 }
