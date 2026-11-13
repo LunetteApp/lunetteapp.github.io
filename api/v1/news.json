@@ -1,6 +1,6 @@
 {
-  "content_hash": "6d5b19b56e6230322f8071964490c9850ef4446d9939d2e57d1b71f93b6019b3",
-  "last_updated": "2026-11-13T10:47:21.094Z",
+  "content_hash": "134b5b969e4fe037c7177079ac9f5e9532a631797c57f2a62331206634e3fa41",
+  "last_updated": "2026-11-13T11:47:37.373Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T10:00:28.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T08:00:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T11:00:22.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -36,9 +36,9 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T08:32:11.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T11:30:56.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T10:16:40.000Z"
     },
     {
@@ -175,6 +175,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Geneva Journal: You Could Trip Over a Journe",
+      "url": "https://www.unpolishedwatches.com/p/geneva-journal-you-could-trip-over",
+      "image": "https://substackcdn.com/image/fetch/$s_!Haqt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc59e7d16-4aa7-49d7-b4a3-80ad0723feaf_2048x1365.jpeg",
+      "peek_preview": "The largest watch auction ever, 27-franc celebratory cocktails, a pulled Daytona, and when Lange somehow looks sensible.",
+      "categories": [],
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T11:30:56.000Z",
+      "score_quality": 44,
+      "score_notif": 34,
+      "cluster": "20261110-363f7e237b54",
+      "cluster_main": false
+    },
+    {
+      "title": "First Look – ArtyA Presents the Purity Curvy HMS Sapphire Sport Edition",
+      "url": "https://monochrome-watches.com/artya-purity-curvy-hms-sapphire-sport-edition-first-look-hands-on-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Artya-Purity-Curvy-HMS-Sapphire-Sport-Edition-review-9-600x237.jpg",
+      "peek_preview": "Yvan Arpa continues the brand’s strategy of pairing ultra-transparent sapphire crystal cases and openworked movements, with no limits imposed on colour. The latest offering from ArtyA follows the path of the Purity Tour...",
+      "categories": [
+        "Artya",
+        "2026",
+        "Independent Watchmaking",
+        "Novelty",
+        "Skeleton Watches"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T11:00:22.000Z",
+      "score_quality": 80,
+      "score_notif": 64,
+      "cluster": "20261113-dd54db6e8e5a",
+      "cluster_main": true
+    },
     {
       "title": "Vario Futurist Tantalum : le poids du futur",
       "url": "https://www.welovewatches.fr/vario-futurist-tantalum-le-poids-du-futur.html",
@@ -464,7 +500,7 @@
       "score_quality": 86,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -514,7 +550,7 @@
       "score_quality": 88,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -1011,7 +1047,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -1026,7 +1062,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -1087,7 +1123,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261111-8637a895d67f",
+      "cluster": "20261110-363f7e237b54",
       "cluster_main": true
     },
     {
@@ -1124,7 +1160,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The TAG Heuer Aquaracer Professional 300 x Time+Tide 'Sundowner II'",
@@ -1139,7 +1175,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: URWERK UR-101 Green Mamba—The Founding Design Goes Dark in 50 Pieces",
@@ -1200,29 +1236,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
-      "url": "https://monochrome-watches.com/moritz-grossmann-celebrates-its-founders-200th-birthday-and-the-18th-anniversary-of-the-brands-revival-with-the-benu-1878-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Moritz-Grossmann-Benu-1878-Tribute-to-German-School-of-Watchmaking-engraved-German-Silver-Dial-6-600x237.jpg",
-      "peek_preview": "Catching two fish with one hook, Moritz Grossmann celebrates the bicentenary of its founder’s birth and the 18th anniversary of the revived brand under Christine Hutter with the release of the Benu 1878. Marking the eig...",
-      "categories": [
-        "Moritz Grossmann",
-        "2026",
-        "Dress Watches",
-        "High-end Watches",
-        "Independent Watchmaking",
-        "Novelty"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-11T17:10:33.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261111-2aee37fc2a01",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why The New Garrick S8 Might Be The Brand’s Best Watch Yet",
@@ -1469,7 +1483,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Albishorn's Second Model — The Voisin Aérosport (Live Pics)",
@@ -1576,8 +1590,8 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-74b7216d083b",
-      "cluster_main": true
+      "cluster": "20261110-363f7e237b54",
+      "cluster_main": false
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1770,7 +1784,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1960,7 +1974,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -1996,7 +2010,7 @@
       "score_quality": 55,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
@@ -2414,25 +2428,6 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261106-dd62a52334b2",
-      "cluster_main": true
-    },
-    {
-      "title": "F.P.Journe e Breguet, le ragioni di un’eredità",
-      "url": "https://giornaleorologi.it/2026/11/06/f-p-journe-e-breguet-le-ragioni-di-uneredita/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/copertina-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - F.P.Journe e Breguet, le ragioni di un’eredità «François-Paul Journe è quanto di più vicino si possa immaginare alla persona (…) di Abraham-Louis Breguet». Così scriveva Augusto Veroni sul Gior...",
-      "categories": [
-        "Storia e storie",
-        "F.P.Journe Invenit et Fecit",
-        "François-Paul Journe"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-06T12:27:53.000Z",
-      "score_quality": 54,
-      "score_notif": 27,
-      "cluster": "20261106-c2ded365e38a",
       "cluster_main": true
     }
   ]
