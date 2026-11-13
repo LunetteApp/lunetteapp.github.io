@@ -1,6 +1,6 @@
 {
-  "content_hash": "13ca652daf88d9c1cc6273f1f665e3dc2f56f3424950b57198c49b9452ade24f",
-  "last_updated": "2026-11-13T00:47:21.566Z",
+  "content_hash": "9df6bd3c9718bd88af4622b76231ea2993fbe7d93ef539f36ccc2b1278f2b700",
+  "last_updated": "2026-11-13T02:47:31.690Z",
   "premium": {
     "links": []
   },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T00:02:00.000Z"
     },
     {
@@ -71,7 +71,7 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.4,
+      "estimated_articles_per_day": 1.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-12T06:05:56.000Z"
     },
@@ -170,11 +170,28 @@
       "source_name": "GMT Korea",
       "lang": "ko",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-10-27T17:29:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T02:04:09.000Z"
     }
   ],
   "items": [
+    {
+      "title": "한국의 아기상어가 브라이틀링 슈퍼오션에",
+      "url": "https://www.gmtkoreaseoul.com/post/%ED%95%9C%EA%B5%AD%EC%9D%98-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4%EA%B0%80-%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8B%80%EB%A7%81-%EC%8A%88%ED%8D%BC%EC%98%A4%EC%85%98%EC%97%90",
+      "image": "https://static.wixstatic.com/media/bd93d4_ac200eb81b1f496fbc1a1dc1b23e1313~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "peek_preview": "한국에서 태어나 여전히 인기 고공비행 중인 주인공. 바다를 닮은 컬러에 한눈에 알아볼 수 있는 트레이드마크까지, 브라이틀링이 오직 한국을 위해 준비한 특별한 에디션이 드디어 베일을 벗었다.",
+      "categories": [
+        "NEW PRODUCT"
+      ],
+      "source_name": "GMT Korea",
+      "lang": "ko",
+      "featured": false,
+      "published_at": "2026-11-13T02:04:09.000Z",
+      "score_quality": 47,
+      "score_notif": 61,
+      "cluster": "20261113-a610e70ea998",
+      "cluster_main": true
+    },
     {
       "title": "New Book: “Being Fearless: The First 10 Years of Rebuilding a Watch Company”",
       "url": "https://deployant.com/being-fearless-rebuilding-fears/?utm_source=rss&utm_medium=rss&utm_campaign=being-fearless-rebuilding-fears",
@@ -302,7 +319,7 @@
       "score_quality": 86,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -352,7 +369,7 @@
       "score_quality": 88,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -788,7 +805,7 @@
       "featured": false,
       "published_at": "2026-11-12T04:40:35.000Z",
       "score_quality": 89,
-      "score_notif": 72,
+      "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
       "cluster_main": false
     },
@@ -810,7 +827,7 @@
       "featured": false,
       "published_at": "2026-11-12T03:56:52.000Z",
       "score_quality": 78,
-      "score_notif": 72,
+      "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
       "cluster_main": false
     },
@@ -847,9 +864,9 @@
       "featured": false,
       "published_at": "2026-11-12T02:01:46.000Z",
       "score_quality": 88,
-      "score_notif": 72,
+      "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -862,9 +879,9 @@
       "featured": false,
       "published_at": "2026-11-12T02:00:00.000Z",
       "score_quality": 84,
-      "score_notif": 72,
+      "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -925,7 +942,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
+      "cluster": "20261111-8637a895d67f",
       "cluster_main": true
     },
     {
@@ -1332,7 +1349,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1364,7 +1381,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Albishorn's Second Model — The Voisin Aérosport (Live Pics)",
@@ -1471,8 +1488,8 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster": "20261110-74b7216d083b",
+      "cluster_main": true
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1586,7 +1603,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -1665,7 +1682,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1891,7 +1908,7 @@
       "score_quality": 55,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
@@ -2417,23 +2434,6 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261106-4c3cdcf2b29a",
-      "cluster_main": true
-    },
-    {
-      "title": "Kuoe Raddoppia L’Autonomia del Suo Dress Watch più Amato",
-      "url": "https://www.orologidiclasse.com/kuoe-royal-smith-90-006-80-hrs/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/kuoe-royal-smith-90-006-80hrs-avorio-quadrante.jpg",
-      "peek_preview": "Kuoe presenta il Royal Smith 90-006 80 hrs, novità 2026 che segna il più importante aggiornamento tecnico nella storia del microbrand di Kyoto. Il nuovo calibro automatico Miyota 9085, ultimo nato della serie 9000, port...",
-      "categories": [
-        "Novità Orologi"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-05T23:01:12.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261105-8542ec0a4be4",
       "cluster_main": true
     }
   ]
