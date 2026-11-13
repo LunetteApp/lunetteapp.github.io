@@ -1,6 +1,6 @@
 {
-  "content_hash": "134b5b969e4fe037c7177079ac9f5e9532a631797c57f2a62331206634e3fa41",
-  "last_updated": "2026-11-13T11:47:37.373Z",
+  "content_hash": "039ab96b3c5c82480ce4c9a6b505179cbe38a210d7d41d3ea12abb6253de4f94",
+  "last_updated": "2026-11-13T12:48:20.181Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T10:00:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T12:00:09.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -24,7 +24,7 @@
       "lang": "en",
       "estimated_articles_per_day": 3.7,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-13T11:00:22.000Z"
+      "latest_article_at": "2026-11-13T12:30:02.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -37,7 +37,7 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T11:30:56.000Z"
     },
     {
@@ -176,6 +176,44 @@
   ],
   "items": [
     {
+      "title": "Industry News – The Patek Philippe Museum Celebrates its 25th Anniversary",
+      "url": "https://monochrome-watches.com/the-patek-philippe-museum-celebrates-its-25th-anniversary/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/The-Patek-Philippe-Museum-Celebrates-its-25th-Anniversary-600x237.jpg",
+      "peek_preview": "Inaugurated in November 2001 in Geneva, the Patek Philippe Museum celebrates its 25th anniversary this year. Created by Philippe Stern, the museum houses one of the world’s most important horological collections, with s...",
+      "categories": [
+        "Patek Philippe",
+        "2026",
+        "Industry news"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T12:30:02.000Z",
+      "score_quality": 80,
+      "score_notif": 48,
+      "cluster": "20261113-039f65af9f77",
+      "cluster_main": true
+    },
+    {
+      "title": "The Brellum Duobox 39 Triple Calendar Moonphase Chronometer Debuts In Blue",
+      "url": "https://www.fratellowatches.com/the-brellum-duobox-39-triple-calendar-moonphase-chronometer-returns-in-blue/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Brellum-Duobox-39-TC-Moonphase-LE-Chronometer-08.jpg",
+      "peek_preview": "Over the years, Brellum has impressed us with small-batch, vintage-inspired watches, particularly chronographs. Within the brand’s modest collection, the Duobox series is my favorite. Its retro styling has plenty of cha...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T12:00:09.000Z",
+      "score_quality": 76,
+      "score_notif": 62,
+      "cluster": "20261113-3d77271ea25d",
+      "cluster_main": true
+    },
+    {
       "title": "Geneva Journal: You Could Trip Over a Journe",
       "url": "https://www.unpolishedwatches.com/p/geneva-journal-you-could-trip-over",
       "image": "https://substackcdn.com/image/fetch/$s_!Haqt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc59e7d16-4aa7-49d7-b4a3-80ad0723feaf_2048x1365.jpeg",
@@ -187,8 +225,8 @@
       "published_at": "2026-11-13T11:30:56.000Z",
       "score_quality": 44,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster": "20261113-25aad39141e1",
+      "cluster_main": true
     },
     {
       "title": "First Look – ArtyA Presents the Purity Curvy HMS Sapphire Sport Edition",
@@ -299,9 +337,9 @@
       "featured": false,
       "published_at": "2026-11-13T08:00:03.000Z",
       "score_quality": 74,
-      "score_notif": 61,
+      "score_notif": 62,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Industry News – Richemont Reports Strong First Semester 2026, Sales up by 17%",
@@ -643,7 +681,7 @@
       "score_quality": 58,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
@@ -763,7 +801,7 @@
       "featured": false,
       "published_at": "2026-11-12T12:00:48.000Z",
       "score_quality": 75,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261112-50a54cad8ff3",
       "cluster_main": true
     },
@@ -988,7 +1026,7 @@
       "score_quality": 89,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Petermann Bédat 2914 Chronograph: Hands-on Review",
@@ -1028,28 +1066,6 @@
       "cluster_main": true
     },
     {
-      "title": "First Look – Petermann Bedat Presents the Reference 2914 Monopusher, their First Chronograph-Only Watch",
-      "url": "https://monochrome-watches.com/petermann-bedat-reference-2914-monopusher-first-chronograph-only-watch-by-independent-watchmaking-duo-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Petermann-Bedat-Reference-2914-Monopusher-Chronograph-independent-watchmaking-classic-hand-wound-chronograph-review-13-600x237.jpg",
-      "peek_preview": "I vividly remember my first visit to Gaël Petermann and Florian Bédat in 2020, at their workshop in Renens, on the outskirts of Lausanne. It was for us the opportunity to discover their first creation, the Deadbeat Seco...",
-      "categories": [
-        "Petermann Bedat",
-        "2026",
-        "Chronographs",
-        "High-end Watches",
-        "Independent Watchmaking",
-        "Novelty"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T02:01:46.000Z",
-      "score_quality": 88,
-      "score_notif": 34,
-      "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
-    },
-    {
       "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
       "url": "https://www.hodinkee.com/articles/introducing-petermann-bedat-2914-chronograph",
       "image": "https://hodinkee.imgix.net/uploads/articles/060f1ad8-0c8c-41b6-83b6-92962bfd2e72/DSC02405.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1062,7 +1078,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -1236,7 +1252,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Why The New Garrick S8 Might Be The Brand’s Best Watch Yet",
@@ -1272,7 +1288,7 @@
       "score_quality": 51,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
@@ -1294,23 +1310,6 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261111-646108e1818b",
-      "cluster_main": true
-    },
-    {
-      "title": "Seiko Astron GPS Solar SAST001: My Least Worn Watch And Why I Still Own It",
-      "url": "https://www.fratellowatches.com/seiko-astron-gps-solar-sast001/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Seiko-Astron-First-Generation-SAST001-12.jpg",
-      "peek_preview": "I was one year old when Seiko introduced the world’s first quartz watch, the Quartz Astron. Needless to say, it didn’t make much of an impression on me. However, when the Japanese powerhouse launched the Astron GPS Sola...",
-      "categories": [
-        "Watch Talk"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-11T10:00:52.000Z",
-      "score_quality": 70,
-      "score_notif": 24,
-      "cluster": "20261111-557f5fad1dfc",
       "cluster_main": true
     },
     {
@@ -1451,7 +1450,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1483,7 +1482,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Albishorn's Second Model — The Voisin Aérosport (Live Pics)",
@@ -1516,7 +1515,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -1705,7 +1704,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -1974,7 +1973,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -2010,7 +2009,7 @@
       "score_quality": 55,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
@@ -2286,7 +2285,7 @@
       "score_quality": 71,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: Louis Erard and Vianney Halter's Fourth Watch, Piaget Hides Warhol in Camouflage, and Bianchet's Tourbillon Makes Ceramic Special",
