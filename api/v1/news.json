@@ -1,6 +1,6 @@
 {
-  "content_hash": "79c18936647ec06c097848e96ce2d350a175279e93d5ed5f61b9f45d7e3390f3",
-  "last_updated": "2026-11-13T08:47:13.333Z",
+  "content_hash": "47eb48cf1aa69dc0b4ee31ce9cfdda063578935dd733f845d59d9014f54ed5c6",
+  "last_updated": "2026-11-13T09:47:36.571Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T08:00:03.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T08:01:20.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T03:00:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T09:30:25.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "カルティエ「ベニュワール」の新作5モデルが発売！ 名門ジュエラーの作り出すバングルウォッチに注目",
+      "url": "https://www.webchronos.net/news/178297/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/ct_baignoire_1.webp",
+      "peek_preview": "カルティエは、オーバルケースが特徴の「ベニュワール」コレクションから、WWG2026で発表した新作5モデルを発売した。今回の新作では、メゾンが培ってきたジュエリー製作の技術を生かした2種類のバングルウォッチに加え、ダイヤ […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-13T09:30:25.000Z",
+      "score_quality": 61,
+      "score_notif": 67,
+      "cluster": "20261113-937d5c6c3f8f",
+      "cluster_main": true
+    },
     {
       "title": "Zenith G.F.J. Calibre 135 J.N. Shapiro ‘Double-Signed’ Watch Hands-On: Le Locle To Los Angeles",
       "url": "https://www.ablogtowatch.com/zenith-g-f-j-calibre-135-j-n-shapiro-double-signed-watch-hands-on-le-locle-to-los-angeles/",
@@ -534,7 +549,7 @@
       "featured": false,
       "published_at": "2026-11-12T17:00:15.000Z",
       "score_quality": 68,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261112-815df1430b3d",
       "cluster_main": false
     },
@@ -557,7 +572,7 @@
       "score_quality": 58,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
@@ -761,7 +776,7 @@
       "featured": false,
       "published_at": "2026-11-12T09:01:52.000Z",
       "score_quality": 82,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261112-815df1430b3d",
       "cluster_main": true
     },
@@ -961,7 +976,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -976,7 +991,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -1150,7 +1165,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
@@ -1208,7 +1223,7 @@
       "score_quality": 51,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
@@ -1405,7 +1420,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1437,7 +1452,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Albishorn's Second Model — The Voisin Aérosport (Live Pics)",
@@ -1659,7 +1674,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -1928,7 +1943,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -1964,7 +1979,7 @@
       "score_quality": 55,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
@@ -2193,21 +2208,6 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261108-3aedfb19769f",
-      "cluster_main": true
-    },
-    {
-      "title": "G-SHOCKが絶滅危惧種のハシビロコウをモチーフとした「MASTER OF G マッドマン」を発表",
-      "url": "https://www.webchronos.net/news/177993/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/G_tori_1.webp",
-      "peek_preview": "G-SHOCKは、環境NGO「アースウォッチ・ジャパン」とのコラボレーションモデルとして、絶滅危惧種のハシビロコウをモチーフとした「MASTER OF G マッドマン Earthwatch Japanコラボレーションモデ […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-08T03:00:49.000Z",
-      "score_quality": 57,
-      "score_notif": 34,
-      "cluster": "20261108-704d60079d1b",
       "cluster_main": true
     },
     {
