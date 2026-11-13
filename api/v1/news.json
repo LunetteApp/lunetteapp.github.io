@@ -1,6 +1,6 @@
 {
-  "content_hash": "9df6bd3c9718bd88af4622b76231ea2993fbe7d93ef539f36ccc2b1278f2b700",
-  "last_updated": "2026-11-13T02:47:31.690Z",
+  "content_hash": "cc3e13ec605e3e4f81260ce41d6749922c9e970655ac04ad8c3bd5f3284b338e",
+  "last_updated": "2026-11-13T03:47:31.256Z",
   "premium": {
     "links": []
   },
@@ -163,18 +163,33 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T03:00:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T03:00:32.000Z"
     },
     {
       "source_name": "GMT Korea",
       "lang": "ko",
       "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T02:04:09.000Z"
     }
   ],
   "items": [
+    {
+      "title": "オーデマ ピゲが「CODE 11.59 バイ オーデマ ピゲ オートマティック」に天然石ダイアルを採用した2モデルを発表",
+      "url": "https://www.webchronos.net/news/178494/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/AP_isi_1.webp",
+      "peek_preview": "オーデマ ピゲが、天然石ダイアルを採用した「CODE 11.59 バイ オーデマ ピゲ オートマティック」の新作2モデルを発表した。ダイアル素材はゴールデンオブシディアンとブラックオニキスの2種で、いずれも直径38mmの […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-13T03:00:32.000Z",
+      "score_quality": 62,
+      "score_notif": 66,
+      "cluster": "20261113-90d6a6ce9bdb",
+      "cluster_main": true
+    },
     {
       "title": "한국의 아기상어가 브라이틀링 슈퍼오션에",
       "url": "https://www.gmtkoreaseoul.com/post/%ED%95%9C%EA%B5%AD%EC%9D%98-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4%EA%B0%80-%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8B%80%EB%A7%81-%EC%8A%88%ED%8D%BC%EC%98%A4%EC%85%98%EC%97%90",
@@ -462,7 +477,7 @@
       "score_quality": 58,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
@@ -726,7 +741,7 @@
       "score_quality": 83,
       "score_notif": 76,
       "cluster": "20261112-710e9fc07850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Japanese Artist Takashi Murakami Launches his Own Watch Brand, named Time Objects",
@@ -749,7 +764,7 @@
       "score_quality": 84,
       "score_notif": 76,
       "cluster": "20261112-710e9fc07850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The New RZE Seeker — A Solar-Powered Titanium Watch Built To Keep Moving",
@@ -842,7 +857,7 @@
       "featured": false,
       "published_at": "2026-11-12T03:00:23.000Z",
       "score_quality": 55,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261112-c28913cf49f8",
       "cluster_main": true
     },
@@ -866,7 +881,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -881,7 +896,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -942,8 +957,8 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261111-8637a895d67f",
-      "cluster_main": true
+      "cluster": "20261110-363f7e237b54",
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer and Time+Tide Reunite for the Aquaracer Sundowner II",
@@ -1055,7 +1070,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
@@ -1133,7 +1148,7 @@
       "score_quality": 51,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
@@ -1349,7 +1364,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1488,7 +1503,7 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-74b7216d083b",
+      "cluster": "20261110-363f7e237b54",
       "cluster_main": true
     },
     {
@@ -1603,7 +1618,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -1682,7 +1697,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1872,7 +1887,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -2415,25 +2430,6 @@
       "score_quality": 72,
       "score_notif": 28,
       "cluster": "20261106-3c5210608534",
-      "cluster_main": true
-    },
-    {
-      "title": "Fossil Launches Premium ‘Signature’ CS-1 Swiss-Made Watch Collection With Royal Descendants In Historic Jaipur, India",
-      "url": "https://www.ablogtowatch.com/fossil-launches-premium-signature-cs-1-swiss-made-watch-collection-with-royal-descendants-in-historic-jaipur-india/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Fossil-Signature-CS-1-Automatic-and-Master-Calendar-watches-1-768x346.jpg",
-      "peek_preview": "Approximately 300 years ago, a polymath king in India named Maharaja Sawai Jai Singh II did something incredible for the world of horology. Intent on creating India’s first planned city (Jaipur), he created a park known...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T08:01:52.000Z",
-      "score_quality": 60,
-      "score_notif": 34,
-      "cluster": "20261106-4c3cdcf2b29a",
       "cluster_main": true
     }
   ]
