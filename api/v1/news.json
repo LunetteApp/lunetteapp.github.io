@@ -1,6 +1,6 @@
 {
-  "content_hash": "f0d9dce830551cc25dbf64684747468ae6c6f2561f0c2aa05f1729981f0de590",
-  "last_updated": "2026-11-13T13:48:21.869Z",
+  "content_hash": "fcff7875eab63b4d666c81351e75073cfb8245d09bb33d0b47e7380f0a8415a7",
+  "last_updated": "2026-11-13T14:48:51.659Z",
   "premium": {
     "links": []
   },
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T22:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,21 @@
   ],
   "items": [
     {
+      "title": "Hands-On: March LA.B Mansart Small Second",
+      "url": "https://www.hodinkee.com/articles/march-lab-mansart-small-second",
+      "image": "https://hodinkee.imgix.net/uploads/images/4d574a86-8875-4e99-8857-661f0fa5a915/L1030123.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The French brand mixes L.A. and Biarritz beach-and-surf culture with Parisian style with an effect straight out of the '70s.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T14:00:00.000Z",
+      "score_quality": 83,
+      "score_notif": 63,
+      "cluster": "20261113-5d2161d9e47b",
+      "cluster_main": true
+    },
+    {
       "title": "Mickaël Gaspar Souscription: First Hands-On Impressions",
       "url": "https://deployant.com/mickael-gaspar-souscription-first-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=mickael-gaspar-souscription-first-hands-on-impressions",
       "image": "https://deployant.com/wp-content/uploads/2026/11/gaspar-tray.jpg",
@@ -281,7 +296,7 @@
       "featured": false,
       "published_at": "2026-11-13T10:16:40.000Z",
       "score_quality": 56,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261112-09f8ed120410",
       "cluster_main": false
     },
@@ -557,7 +572,7 @@
       "score_quality": 86,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -607,7 +622,7 @@
       "score_quality": 88,
       "score_notif": 69,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -700,7 +715,7 @@
       "score_quality": 58,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
@@ -736,7 +751,7 @@
       "featured": false,
       "published_at": "2026-11-12T14:30:16.000Z",
       "score_quality": 62,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261112-09f8ed120410",
       "cluster_main": true
     },
@@ -757,7 +772,7 @@
       "featured": false,
       "published_at": "2026-11-12T14:01:01.000Z",
       "score_quality": 83,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261112-c13ecfe09d0e",
       "cluster_main": true
     },
@@ -1024,8 +1039,8 @@
       "published_at": "2026-11-12T06:00:42.000Z",
       "score_quality": 77,
       "score_notif": 34,
-      "cluster": "20261112-8ee586aa6e78",
-      "cluster_main": false
+      "cluster": "20261112-8ee586aa6e78-2",
+      "cluster_main": true
     },
     {
       "title": "Hands On: Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -1271,7 +1286,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Why The New Garrick S8 Might Be The Brand’s Best Watch Yet",
@@ -1307,7 +1322,7 @@
       "score_quality": 51,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
@@ -1469,7 +1484,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1597,21 +1612,6 @@
       "cluster_main": true
     },
     {
-      "title": "Auctions: Three Big Takeaways From The Geneva Fall Auction Season",
-      "url": "https://www.hodinkee.com/articles/three-takeaways-from-the-geneva-fall-auction-season",
-      "image": "https://hodinkee.imgix.net/uploads/articles/b1d62720-f7ce-4967-a24a-865a952b92f1/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Who is up, who is down, and who is confused. Including the author.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T16:00:00.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261110-74b7216d083b",
-      "cluster_main": true
-    },
-    {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
       "url": "https://timeandtidewatches.com/mbf-lm101-gabriel-colliard-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-mbf-lm101-gabriel-colliard-1.webp",
@@ -1723,7 +1723,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -1992,7 +1992,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
