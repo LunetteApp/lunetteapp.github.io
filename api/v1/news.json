@@ -1,6 +1,6 @@
 {
-  "content_hash": "47eb48cf1aa69dc0b4ee31ce9cfdda063578935dd733f845d59d9014f54ed5c6",
-  "last_updated": "2026-11-13T09:47:36.571Z",
+  "content_hash": "6d5b19b56e6230322f8071964490c9850ef4446d9939d2e57d1b71f93b6019b3",
+  "last_updated": "2026-11-13T10:47:21.094Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T06:00:38.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T10:00:28.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-10T06:33:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-13T10:16:40.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T09:30:25.000Z"
     },
     {
@@ -175,6 +175,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Vario Futurist Tantalum : le poids du futur",
+      "url": "https://www.welovewatches.fr/vario-futurist-tantalum-le-poids-du-futur.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/vario-futurist-tantalum-une-1940x1280-1.jpg",
+      "peek_preview": "La Futurist avait déjà une drôle de façon d’accrocher la lumière avec son verre à facettes. Pour cette édition limitée, la marque singapourienne Vario reprend le dessin de son modèle en acier et usine le...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-13T10:16:40.000Z",
+      "score_quality": 56,
+      "score_notif": 60,
+      "cluster": "20261112-09f8ed120410",
+      "cluster_main": false
+    },
+    {
+      "title": "The Top 5 Surprising Releases Of 2026",
+      "url": "https://www.fratellowatches.com/the-top-5-surprising-releases-of-2026/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/06/MAT_EggmasterII_Face_v3_TropicJaune.jpg",
+      "peek_preview": "Another Friday, another list! This week, we kick off our series of year-end lists for 2026. Over the next seven weeks, we will highlight our favorite releases across several categories, culminating in our overall favori...",
+      "categories": [
+        "Watch Talk",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T10:00:28.000Z",
+      "score_quality": 28,
+      "score_notif": 21,
+      "cluster": "20261113-5ae9a4bc4aef",
+      "cluster_main": true
+    },
     {
       "title": "カルティエ「ベニュワール」の新作5モデルが発売！ 名門ジュエラーの作り出すバングルウォッチに注目",
       "url": "https://www.webchronos.net/news/178297/",
@@ -572,7 +607,7 @@
       "score_quality": 58,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
@@ -736,7 +771,7 @@
       "featured": false,
       "published_at": "2026-11-12T10:01:28.000Z",
       "score_quality": 83,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261112-549fe2822c35",
       "cluster_main": true
     },
@@ -755,7 +790,7 @@
       "featured": false,
       "published_at": "2026-11-12T10:00:10.000Z",
       "score_quality": 78,
-      "score_notif": 71,
+      "score_notif": 34,
       "cluster": "20261112-c43737b785e6",
       "cluster_main": true
     },
@@ -976,7 +1011,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -991,7 +1026,7 @@
       "score_quality": 84,
       "score_notif": 34,
       "cluster": "20261112-115cc64ee7a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
@@ -1052,7 +1087,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
+      "cluster": "20261111-8637a895d67f",
       "cluster_main": true
     },
     {
@@ -1089,7 +1124,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The TAG Heuer Aquaracer Professional 300 x Time+Tide 'Sundowner II'",
@@ -1104,7 +1139,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261111-39cd327a39b3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: URWERK UR-101 Green Mamba—The Founding Design Goes Dark in 50 Pieces",
@@ -1165,7 +1200,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – The Moritz Grossmann Benu 1878, Tribute to the German School of Watchmaking",
@@ -1223,7 +1258,7 @@
       "score_quality": 51,
       "score_notif": 26,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Gli orologi nei film del 2026. Al polso dei protagonisti",
@@ -1283,24 +1318,6 @@
       "score_notif": 34,
       "cluster": "20261111-1451a899229e",
       "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Albishorn Voisin Aérosport",
-      "url": "https://www.fratellowatches.com/introducing-the-albishorn-voisin-aerosport/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Albishorn-Voisin-Aerosport-4.jpg",
-      "peek_preview": "Albishorn leaves tool watches and extreme environments behind. The Voisin Aérosport is a more restrained expression of the brand, built around the world of Gabriel Voisin and one of his most remarkable cars, the C28 Aér...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-11T08:00:32.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
     },
     {
       "title": "Breguet’s Classique Souscription Returns in Platinum",
@@ -1420,7 +1437,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Updates Its Retro-Look FiftySix Collection With Bolder Sectored Dials",
@@ -1559,8 +1576,8 @@
       "published_at": "2026-11-10T16:00:00.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster": "20261110-74b7216d083b",
+      "cluster_main": true
     },
     {
       "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
@@ -1674,7 +1691,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261110-da86922f64fd",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -1753,7 +1770,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -1943,7 +1960,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -2416,21 +2433,6 @@
       "score_quality": 54,
       "score_notif": 27,
       "cluster": "20261106-c2ded365e38a",
-      "cluster_main": true
-    },
-    {
-      "title": "Eric Wind and Charlie Dunne on Speculation, Patek Philippe, + Eric Selling Half His Collection (Wind Vintage)",
-      "url": "https://www.unpolishedwatches.com/p/eric-wind-and-charlie-dunne-on-speculation",
-      "image": "https://substackcdn.com/image/fetch/$s_!XNoT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35351e74-4aae-41e9-b25b-a921ac6d5ec5_1956x1120.jpeg",
-      "peek_preview": "A market update, why Vacheron is one of their ‘brands of the year,’ and we even identify a fake Paul Newman!",
-      "categories": [],
-      "source_name": "Unpolished Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-06T10:55:39.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261106-055366c9c952",
       "cluster_main": true
     }
   ]
