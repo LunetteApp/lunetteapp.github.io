@@ -1,6 +1,6 @@
 {
-  "content_hash": "13a73109058c0e8e9cbea2ffa687ac70caeeeb8595d864693c5080a8c0255b82",
-  "last_updated": "2026-11-14T09:47:17.020Z",
+  "content_hash": "0c640d51fb8dabc9371fe0d2625ffd00c94a3d944ac7a4eac32caf5d2b7a62bf",
+  "last_updated": "2026-11-14T10:48:39.820Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-14T06:00:23.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-14T10:00:52.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-14T09:00:00.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "The Auret Mederi — A Distinctive Debut With Colombian Roots",
+      "url": "https://www.fratellowatches.com/the-auret-mederi-a-distinctive-debut-with-colombian-roots/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Auret-Mederi-17.jpg",
+      "peek_preview": "Auret is a new name in the watch industry, but its first collection already has a clear identity. Founded in Colombia by an oncologist and watch enthusiast, the brand approaches watchmaking from a personal perspective....",
+      "categories": [
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-14T10:00:52.000Z",
+      "score_quality": 76,
+      "score_notif": 34,
+      "cluster": "20261108-227e4a64c2d3",
+      "cluster_main": false
+    },
     {
       "title": "Watches of Italy 7: sei orologi che vogliamo toccare con mano",
       "url": "https://giornaleorologi.it/2026/11/14/watches-of-italy-7-sei-orologi-in-anteprima/",
@@ -570,7 +588,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: March LA.B Mansart Small Second",
@@ -642,7 +660,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Geneva Journal: You Could Trip Over a Journe",
@@ -770,7 +788,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Industry News – Richemont Reports Strong First Semester 2026, Sales up by 17%",
@@ -987,7 +1005,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Zenith’s legendary Calibre 135 gets an American makeover courtesy of J.N. Shapiro",
@@ -1336,23 +1354,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: The New RZE Seeker — A Solar-Powered Titanium Watch Built To Keep Moving",
-      "url": "https://www.fratellowatches.com/hands-on-new-rze-seeker/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/RZE-Seeker-2.jpg",
-      "peek_preview": "Some watches ask for quite a bit of attention. You need to wind them, set the time, or remember when the battery was last changed. The new RZE Seeker takes a different approach. Powered by light and housed in a lightwei...",
-      "categories": [
-        "Watch Releases"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T06:00:48.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261112-9bea5d88d1fe",
-      "cluster_main": true
-    },
-    {
       "title": "Ateliers Associés Backs Mickaël Gaspar’s Souscription",
       "url": "https://watchesbysjx.com/2026/11/ateliers-associes-mickael-gaspar-souscription.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Mickael-Gaspar-Souscription-3x2-centred-header-300x200.jpg",
@@ -1370,8 +1371,8 @@
       "published_at": "2026-11-12T06:00:42.000Z",
       "score_quality": 77,
       "score_notif": 34,
-      "cluster": "20261112-8ee586aa6e78",
-      "cluster_main": false
+      "cluster": "20261112-8ee586aa6e78-2",
+      "cluster_main": true
     },
     {
       "title": "Hands On: Petermann Bédat Reference 2914 Monopusher Chronograph",
@@ -1490,24 +1491,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-8637a895d67f",
-      "cluster_main": true
-    },
-    {
-      "title": "TAG Heuer and Time+Tide Reunite for the Aquaracer Sundowner II",
-      "url": "https://wornandwound.com/tag-heuer-and-timetide-reunite-for-the-aquaracer-sundowner-ii/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/TAG-x-Time-Tide-Sundowner-II-51.jpg",
-      "peek_preview": "TAG Heuer and Time+Tide have partnered once again on a follow up to their sold out Aquaracer “Sundowner” from November 2024. That first collab was a light powered quartz watch in a colorway inspired by the Australian la...",
-      "categories": [
-        "News & Releases",
-        "Tag Heuer"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-11T19:00:48.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261111-2886c596bf60",
       "cluster_main": true
     },
     {
@@ -2117,24 +2100,6 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261109-1963a793a062",
-      "cluster_main": true
-    },
-    {
-      "title": "Experience: Time to Drive Miami Car & Watch Fest 2026—Part Car Show, Part Watch Show, All #WatchLife",
-      "url": "https://www.watchcollectinglifestyle.com/home/time-to-drive-miami-car-and-watch-fest-2026-review",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794252753093-M4X2BS33SP6LBSBVWI9D/Time+To+Drive+Fest+Miami+2026+Car+and+Watch+Show-0.jpg?format=1500w",
-      "peek_preview": "Anyone who has collected watches for more than three decades knows cars and watches share the same obsessions—mechanics, heritage, craftsmanship, and the thrill of owning something built to be used. That is the premise...",
-      "categories": [
-        "Events",
-        "Automobiles"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T20:04:34.000Z",
-      "score_quality": 44,
-      "score_notif": 26,
-      "cluster": "20261109-b086a0e8e787",
       "cluster_main": true
     },
     {
