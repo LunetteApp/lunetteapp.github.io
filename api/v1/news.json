@@ -1,6 +1,6 @@
 {
-  "content_hash": "360e46169fdd3c2310eeed20848f050719f8066cfc6ab74eaa9385d457f5fddc",
-  "last_updated": "2026-11-14T17:45:41.063Z",
+  "content_hash": "9e9fa985303bade5482c36432e4a733caf95aa97d45af110088dfc1117baf827",
+  "last_updated": "2026-11-14T18:47:34.706Z",
   "premium": {
     "links": []
   },
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T20:00:00.000Z"
     },
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T18:55:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-14T17:55:15.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Da Studio Underd0g un orologio che evidenzia tutti i weekend del mese",
+      "url": "https://www.orologidiclasse.com/studio-underd0g-04series-calendar/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/studio-underd0g-04series-calendar-cloud10-cover.jpg",
+      "peek_preview": "Studio Underd0g, il marchio britannico fondato da Richard Benc nel 2020, presenta il Studio Underd0g 04SERIES Calendar, una delle novità 2026 più curiose della fascia accessibile: un orologio automatico che, oltre a dat...",
+      "categories": [
+        "Novità Orologi",
+        "Fasi Lunari",
+        "Retrogrado"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-14T17:55:15.000Z",
+      "score_quality": 61,
+      "score_notif": 34,
+      "cluster": "20261113-974f39464694",
+      "cluster_main": false
+    },
     {
       "title": "Weekend Reads: Vacheron Constantin's FiftySix Goes Two-Tone Grey, Time to Drive Fest Turns Miami Into a Car and Watch Show, and MB&F's LM101 Grows Three Enamel Jungles",
       "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-11-14",
@@ -1145,7 +1164,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -1195,7 +1214,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -1688,7 +1707,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
@@ -2252,7 +2271,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -2400,26 +2419,6 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261109-a5534f279332",
-      "cluster_main": true
-    },
-    {
-      "title": "The Grail Watch: How Our Tastes and Desires Evolve",
-      "url": "https://deployant.com/evolution-of-the-grail-watch/?utm_source=rss&utm_medium=rss&utm_campaign=evolution-of-the-grail-watch",
-      "image": "https://deployant.com/wp-content/uploads/2026/09/xhepdep-rexhepi-workshop.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Every watch enthusiast has a grail watch. Or at least, most of us have one at some point. It may be a particular Rolex, a complicated Patek Philippe, or an ex...",
-      "categories": [
-        "Opinion",
-        "People",
-        "Watches",
-        "grail watch"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-08T13:30:00.000Z",
-      "score_quality": 60,
-      "score_notif": 24,
-      "cluster": "20261108-3d6819476f85",
       "cluster_main": true
     }
   ]
