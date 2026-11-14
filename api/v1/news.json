@@ -1,6 +1,6 @@
 {
-  "content_hash": "e3808cdd2054cbd0cfae6ddfeefd916abc2cc5fc2c4099dbaa6175b713654067",
-  "last_updated": "2026-11-14T07:47:16.909Z",
+  "content_hash": "1149c5bf0e25dd7a40d056f97dfe23eb0f0eba80f63cef6fee90b001aadf06f4",
+  "last_updated": "2026-11-14T08:47:16.860Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-14T06:00:23.000Z"
     },
     {
@@ -29,9 +29,9 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T15:00:02.000Z"
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-14T08:01:35.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-14T07:00:35.000Z"
     },
     {
@@ -176,6 +176,27 @@
   ],
   "items": [
     {
+      "title": "Hands-On: Nubeo Tranquility Automatic Star Trek 60th Anniversary Watch Is A Bold Tribute To The Final Frontier",
+      "url": "https://www.ablogtowatch.com/hands-on-nubeo-tranquility-automatic-star-trek-60th-anniversary-watch-is-a-bold-tribute-to-the-final-frontier/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Nubeo-Tranquility-Automatic-Star-Trek-60th-Anniversary-LE-LOR-Crop-768x346.jpg",
+      "peek_preview": "There are few franchises that have the kind of cultural impact and staying power that “Star Trek” has, but while many of its contemporaries have had legions of themed timepiece offerings, Trek’s forays into the world of...",
+      "categories": [
+        "Hands-On",
+        "Skeletonized Watches",
+        "Space-Themed Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-14T08:01:35.000Z",
+      "score_quality": 71,
+      "score_notif": 62,
+      "cluster": "20261114-921e087c43ad",
+      "cluster_main": true
+    },
+    {
       "title": "Cameron Green reveals the story behind his new Rado Captain Cook in island paradise",
       "url": "https://timeandtidewatches.com/rado-captain-cook-cameron-green-events/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-rado-captian-cook-cameron-green-event.webp",
@@ -247,27 +268,6 @@
       "score_quality": 76,
       "score_notif": 64,
       "cluster": "20261114-e3123d9d877b",
-      "cluster_main": true
-    },
-    {
-      "title": "Highlights: Cool Cases at Phillips Hong Kong",
-      "url": "https://watchesbysjx.com/2026/11/phillips-hong-kong-cool-cases-fall-2026.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Phillips-HK-Nov-2026-Cool-Cases-Feat-300x200.jpeg",
-      "peek_preview": "The penultimate auction of Phillips’ fall season, The Hong Kong Watch Auction: XXIII takes place from November 21-22 and features a menagerie of interesting cases, from the shy to the sci-fi. Lot 848 – Vacheron Constant...",
-      "categories": [
-        "News",
-        "Auctions",
-        "Hong Kong",
-        "Independent watchmaking",
-        "Phillips"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-14T00:16:13.000Z",
-      "score_quality": 59,
-      "score_notif": 44,
-      "cluster": "20261114-80c941ab950b",
       "cluster_main": true
     },
     {
@@ -513,7 +513,7 @@
       "featured": false,
       "published_at": "2026-11-13T15:00:02.000Z",
       "score_quality": 65,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261113-3d77271ea25d",
       "cluster_main": false
     },
@@ -617,9 +617,9 @@
       "featured": false,
       "published_at": "2026-11-13T12:00:09.000Z",
       "score_quality": 76,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Geneva Journal: You Could Trip Over a Journe",
@@ -745,9 +745,9 @@
       "featured": false,
       "published_at": "2026-11-13T08:00:03.000Z",
       "score_quality": 74,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Industry News – Richemont Reports Strong First Semester 2026, Sales up by 17%",
@@ -764,7 +764,7 @@
       "featured": false,
       "published_at": "2026-11-13T07:48:25.000Z",
       "score_quality": 80,
-      "score_notif": 78,
+      "score_notif": 34,
       "cluster": "20261113-a32c6c4139a4",
       "cluster_main": true
     },
@@ -1173,7 +1173,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -1568,7 +1568,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
@@ -1783,7 +1783,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -2167,7 +2167,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -2380,28 +2380,6 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261108-42fdd234582c",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: H. Moser Pioneer Cylindrical Tourbillon Skeleton Aventurine Saquon Barkley Edition",
-      "url": "https://www.ablogtowatch.com/hands-on-h-moser-pioneer-cylindrical-tourbillon-skeleton-aventurine-saquon-barkley-edition/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/H-Moser-Pioneer-Cylindrical-Tourbillon-Skeleton-Aventurine-Saquon-Barkley-RHE-Featured-768x346.jpg",
-      "peek_preview": "When H. Moser & Cie. announced Saquon Barkley as a “friend of the brand” last year, the star NFL running back and Super Bowl champion could have worn any Moser timepiece to mark the occasion. The watch he chose was the...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases",
-        "Skeletonized Watches",
-        "Tourbillon Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-08T08:01:54.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261108-3aedfb19769f",
       "cluster_main": true
     }
   ]
