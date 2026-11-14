@@ -1,6 +1,6 @@
 {
-  "content_hash": "0c640d51fb8dabc9371fe0d2625ffd00c94a3d944ac7a4eac32caf5d2b7a62bf",
-  "last_updated": "2026-11-14T10:48:39.820Z",
+  "content_hash": "a697eb33ac3f918c313fda89524dbcc563e1bd653239b99ea0ba62f1bcaed56f",
+  "last_updated": "2026-11-14T11:47:08.542Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-14T10:00:52.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T13:26:24.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-14T11:35:21.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,37 @@
     }
   ],
   "items": [
+    {
+      "title": "Uhrenmessen 2027: Die wichtigen Messen, Termine und Aussteller",
+      "url": "https://www.uhrenkosmos.com/uhrenmessen-2027-uebersicht-termine-und-infos/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Uhrenmessen-2027-die-man-im-Auge-haben-sollte.jpg",
+      "peek_preview": "Je weiter die Digitalisierung voranschreitet, desto wichtiger werden die Messetermine, an denen Neuheiten vor Ort geprüft und eingeordnet werden können. Ebenso wichtig ist die Möglichkeit zum persönlichen Gespräch. Das...",
+      "categories": [
+        "Aktuell",
+        "Messen",
+        "Uhrenmarkt",
+        "Baselworld",
+        "Dubai Watch Week",
+        "Geneva Watch Days",
+        "GPHG",
+        "Inhorgenta",
+        "Inhorgenta 2027",
+        "LVMH Watch Week",
+        "Time to Watches",
+        "Uhrenmesse Basel",
+        "Uhrenmessen",
+        "Watches and Wonders",
+        "WatchTime New York"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-14T11:35:21.000Z",
+      "score_quality": 72,
+      "score_notif": 27,
+      "cluster": "20261114-f466f4b961ae",
+      "cluster_main": true
+    },
     {
       "title": "The Auret Mederi — A Distinctive Debut With Colombian Roots",
       "url": "https://www.fratellowatches.com/the-auret-mederi-a-distinctive-debut-with-colombian-roots/",
@@ -660,7 +691,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Geneva Journal: You Could Trip Over a Journe",
@@ -694,7 +725,7 @@
       "featured": false,
       "published_at": "2026-11-13T11:00:22.000Z",
       "score_quality": 80,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261113-dd54db6e8e5a",
       "cluster_main": true
     },
@@ -788,7 +819,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Industry News – Richemont Reports Strong First Semester 2026, Sales up by 17%",
@@ -1005,7 +1036,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Zenith’s legendary Calibre 135 gets an American makeover courtesy of J.N. Shapiro",
@@ -1037,7 +1068,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -2369,6 +2400,27 @@
       "score_notif": 27,
       "cluster": "20261108-3aedfb19769f",
       "cluster_main": true
+    },
+    {
+      "title": "GPHG 2026: Tutti i Vincitori degli Oscar dell’Orologeria",
+      "url": "https://italianwatchspotter.com/vincitori-gphg-2026/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/image-3-819x1024.png",
+      "peek_preview": "Cari lettori di IWS, direttamente da Ginevra, anche quest’anno siamo qui ad annunciarvi i vincitori degli ambitissimi premi del Grand Prix d’Horlogerie de Genève (GPHG), giunto alla sua ventiseiesima edizione. La notte...",
+      "categories": [
+        "Fiere ed Eventi",
+        "Aiguille d'Or",
+        "Gphg",
+        "gphg 2026",
+        "Grand Prix d’Horlogerie de Genève"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-07T20:38:59.000Z",
+      "score_quality": 64,
+      "score_notif": 34,
+      "cluster": "20261107-0ca26117a9b9",
+      "cluster_main": false
     }
   ]
 }
