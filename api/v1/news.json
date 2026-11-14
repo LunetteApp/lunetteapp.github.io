@@ -1,6 +1,6 @@
 {
-  "content_hash": "7f176b9e120e5112b55955b6c50d08560164b68ef6cbb890fbb1c3e18dec582b",
-  "last_updated": "2026-11-14T13:47:16.638Z",
+  "content_hash": "7190558491d29deb62dfb2ec31d78d819d3f85896bcca1da383c06767f2e10e5",
+  "last_updated": "2026-11-14T14:47:12.439Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-14T13:00:03.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-14T13:30:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-14T07:00:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-14T14:30:12.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-14T13:39:10.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "New releases from Vacheron Constantin, Petermann Bedat, Ming and more",
+      "url": "https://timeandtidewatches.com/vacheron-constantin-petermann-bedat-ming-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/ming-web.jpg",
+      "peek_preview": "What a week it’s been! While Singapore’s IAMWATCH show is just getting started, with all the releases that come with it, we have a new addition of our own: the Sundowner is back for its second chapter. On top of that, V...",
+      "categories": [
+        "Last Week in Watches",
+        "last week in watches"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-14T14:30:12.000Z",
+      "score_quality": 31,
+      "score_notif": 23,
+      "cluster": "20261114-a5ad6838e2c6",
+      "cluster_main": true
+    },
     {
       "title": "IAMWATCH 2026: Singapore diventa la capitale degli orologi indipendenti",
       "url": "https://italianwatchspotter.com/iamwatch-singapore-2026-novita/",
@@ -294,7 +312,7 @@
       "published_at": "2026-11-14T10:00:52.000Z",
       "score_quality": 76,
       "score_notif": 34,
-      "cluster": "20261108-227e4a64c2d3",
+      "cluster": "20261114-71d1f6c70bd3",
       "cluster_main": true
     },
     {
@@ -705,7 +723,7 @@
       "featured": false,
       "published_at": "2026-11-13T14:00:00.000Z",
       "score_quality": 83,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261113-5d2161d9e47b",
       "cluster_main": true
     },
@@ -1853,7 +1871,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -2008,7 +2026,7 @@
       "score_quality": 73,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Review: The Albishorn Voisin Aérosport Imagines an Art Deco Watch That Never Was",
@@ -2025,7 +2043,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261110-98afb2de3f17",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
@@ -2273,7 +2291,7 @@
       "score_quality": 55,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
@@ -2386,24 +2404,6 @@
       "score_notif": 34,
       "cluster": "20261109-a5534f279332",
       "cluster_main": true
-    },
-    {
-      "title": "Colombian brand Auret launches the Mederi, a 12-sided watch with a Swiss heart",
-      "url": "https://timeandtidewatches.com/auret-mederi-micro-mondays/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Auret-Mederi-1.jpg",
-      "peek_preview": "Auret debuts the Mederi, a 40mm Swiss-made watch with guilloché fumé dials, a Sellita SW260 movement and distinctive Colombian design. The post Colombian brand Auret launches the Mederi, a 12-sided watch with a Swiss he...",
-      "categories": [
-        "Micro Mondays",
-        "dress watch"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-08T14:30:30.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261108-227e4a64c2d3",
-      "cluster_main": false
     },
     {
       "title": "The Grail Watch: How Our Tastes and Desires Evolve",
