@@ -1,6 +1,6 @@
 {
-  "content_hash": "2e9a7edc41cd8c7f653306ee3a398dd3c4c22ca0234f375c9a099abcf733b268",
-  "last_updated": "2026-11-15T13:47:00.640Z",
+  "content_hash": "b77362b32afc3ecb9085fb5e97bbcaebabd5e6086fd2dda5e9221316a3ae979e",
+  "last_updated": "2026-11-15T14:47:23.124Z",
   "premium": {
     "links": []
   },
@@ -15,14 +15,14 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T20:00:49.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
+      "estimated_articles_per_day": 3.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T10:35:15.000Z"
     },
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T13:30:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-15T07:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-15T14:30:04.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "The Trey Stone Experience gets the daily wearer right",
+      "url": "https://timeandtidewatches.com/trey-stone-experience-micro-mondays/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/trey-stone-experience-featured-image.jpg",
+      "peek_preview": "Trey Stone hits the ground running with the Experience, a daily wearer with intriguing dial colours, solid specs and a charitable streak The post The Trey Stone Experience gets the daily wearer right appeared first on T...",
+      "categories": [
+        "Micro Mondays",
+        "dress watch",
+        "GADA"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-15T14:30:04.000Z",
+      "score_quality": 64,
+      "score_notif": 53,
+      "cluster": "20261115-26828fe1684f",
+      "cluster_main": true
+    },
     {
       "title": "Independence day: Six watches to kickstart your independent watchmaking collection",
       "url": "https://deployant.com/independence-day-six-watches-to-kickstart-your-independent-watchmaking-collection/?utm_source=rss&utm_medium=rss&utm_campaign=independence-day-six-watches-to-kickstart-your-independent-watchmaking-collection",
@@ -459,7 +478,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: The 04Series Watches Are Something Entirely Different For Studio Underd0g",
@@ -1811,7 +1830,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
@@ -2144,7 +2163,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -2345,7 +2364,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -2382,24 +2401,6 @@
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
       "cluster_main": false
-    },
-    {
-      "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
-      "url": "https://timeandtidewatches.com/new-glashutte-original-vintage-seventies-collection-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Glashutte-Original-Vintage-Seventies-2026-Collection-4.jpg",
-      "peek_preview": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender? Zach goes hands-on to find out... The post What makes the new Glashütte Original Seventies collection a strong integrate...",
-      "categories": [
-        "Hands On",
-        "Video"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T13:01:17.000Z",
-      "score_quality": 67,
-      "score_notif": 34,
-      "cluster": "20261109-1b17a2c98bed",
-      "cluster_main": true
     },
     {
       "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
