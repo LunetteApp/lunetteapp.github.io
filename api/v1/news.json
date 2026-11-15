@@ -1,6 +1,6 @@
 {
-  "content_hash": "b77362b32afc3ecb9085fb5e97bbcaebabd5e6086fd2dda5e9221316a3ae979e",
-  "last_updated": "2026-11-15T14:47:23.124Z",
+  "content_hash": "0ecb951cd759f6815e24b17e67e6030284a81671c06879ce7292ef860082d8b1",
+  "last_updated": "2026-11-15T15:47:26.799Z",
   "premium": {
     "links": []
   },
@@ -29,8 +29,8 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
+      "estimated_articles_per_day": 1.9,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-11-15T08:01:21.000Z"
     },
     {
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
+      "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T20:00:00.000Z"
     },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T14:30:04.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-14T11:35:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-15T15:11:13.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,35 @@
     }
   ],
   "items": [
+    {
+      "title": "Vacheron Constantin Fiftysix Vollkalender: Grau mit Geschichte",
+      "url": "https://www.uhrenkosmos.com/vacheron-constantin-fiftysix-2026-vollkalender/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Vacheron-Constantin-FiftySix-Vollkalender-4600E-und-4000E-Self-Winding-mood-Aufmacher.jpg",
+      "peek_preview": "Zwei neue Zifferblätter, zwei unterschiedliche Uhrwerke und ein Hauch von 1956. Der neue Vacheron Constantin Fiftysix Vollkalender verleiht der Fiftysix-Kollektion frischen Glanz. Das bietet das neue Modell der Luxus-Ma...",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Marken & Macher",
+        "Vacheron Constantin",
+        "Louis Ferla",
+        "Richemont",
+        "Vacheron Constantin FiftySix",
+        "Vacheron Constantin Fiftysix Self-Winding",
+        "Vacheron Constantin FiftySix Vollkalender",
+        "Vacheron Constantin Kaliber 1326",
+        "Vacheron Constantin Kaliber 2460 QCL/1",
+        "ValFleurier",
+        "Vollkalender"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-15T15:11:13.000Z",
+      "score_quality": 65,
+      "score_notif": 34,
+      "cluster": "20261110-1570288cfcaf",
+      "cluster_main": false
+    },
     {
       "title": "The Trey Stone Experience gets the daily wearer right",
       "url": "https://timeandtidewatches.com/trey-stone-experience-micro-mondays/",
@@ -478,7 +507,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: The 04Series Watches Are Something Entirely Different For Studio Underd0g",
@@ -837,7 +866,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Who Saw This Coming? The Studio Underd0g 04Series Calendar",
@@ -928,7 +957,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Zenith G.F.J. Calibre 135 Double-Signed with J.N. Shapiro—A Swiss Observatory Legend Gets an American Makeover",
@@ -1344,7 +1373,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -1394,7 +1423,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -1830,7 +1859,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
@@ -2027,7 +2056,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -2163,7 +2192,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -2364,7 +2393,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -2384,6 +2413,25 @@
       "cluster_main": false
     },
     {
+      "title": "New Release: Yema Senans Grande Lune Limited-Edition Watch",
+      "url": "https://www.ablogtowatch.com/new-release-yema-senans-grande-lune-limited-edition-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Yema-Senans-Grande-Lune-Limited-Edition-LOR-Crop-1-768x346.jpg",
+      "peek_preview": "Although the brand is perhaps best known for its affordable, proudly French takes on midcentury sports watches, Yema is capable of genuinely excellent horology. Its Morteau-based factory has become a hotbed for French m...",
+      "categories": [
+        "Watch Releases",
+        "Moonphase Watches",
+        "Watch Releases 2026"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T15:00:30.000Z",
+      "score_quality": 57,
+      "score_notif": 24,
+      "cluster": "20261109-4ff5196f8dd9",
+      "cluster_main": true
+    },
+    {
       "title": "Horologically Unique porta al polso il Chronoscope Art Déco degli anni Venti",
       "url": "https://www.orologidiclasse.com/horologically-unique-hu-02/",
       "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/horologically-unique-hu-02-classic-silver-speciale-coppia.jpg",
@@ -2400,48 +2448,6 @@
       "score_quality": 55,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": false
-    },
-    {
-      "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
-      "url": "https://www.atimelyperspective.com/bell-ross-reimagines-br03-radar-ceramic-watch-with-bold-green-prices/",
-      "image": "https://www.atimelyperspective.com/wp-content/uploads/R21_004_BR03-GREEN-R-LOOK3-12426-683x1024.jpeg",
-      "peek_preview": "Bell & Ross has never been shy about bringing aviation instruments to the wrist. In fact, the brand has built much of its identity around the concept, transforming cockpit instruments into distinctive watches. Now, with...",
-      "categories": [
-        "Bell & Ross",
-        "Pilot Watches",
-        "Sport Watches",
-        "Timepieces News, Reviews and Articles",
-        "Bell & Ross BR-03 Green Radar Ceramic"
-      ],
-      "source_name": "A Timely Perspective",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T12:23:15.000Z",
-      "score_quality": 63,
-      "score_notif": 34,
-      "cluster": "20261109-638a50783b83",
-      "cluster_main": true
-    },
-    {
-      "title": "Scafograf 200 MCMLIX Bronze: Eberhard & Co. oltre il vintage",
-      "url": "https://giornaleorologi.it/2026/11/09/eberhard-scafograf-200-mcmlix-bronze/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/SCAFOGRAF-200-MCMLIX-BRONZE_apertura-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - Scafograf 200 MCMLIX Bronze: Eberhard & Co. oltre il vintage Oggi il bronzo è molto diffuso nell’orologeria subacquea. Ma non sempre è necessario realizzare l’intera cassa in questo materiale p...",
-      "categories": [
-        "Attualità",
-        "Eberhard & Co.",
-        "Eberhard Scafograf",
-        "orologi neo-vintage",
-        "orologi subacquei"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-09T11:00:00.000Z",
-      "score_quality": 57,
-      "score_notif": 34,
-      "cluster": "20261109-ac091d1bec43",
       "cluster_main": true
     }
   ]
