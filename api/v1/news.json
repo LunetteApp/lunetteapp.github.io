@@ -1,6 +1,6 @@
 {
-  "content_hash": "e46f134265790d8e19a370ba8ffc3a32a780fe922626512ba219e008fc81c198",
-  "last_updated": "2026-11-15T20:47:47.854Z",
+  "content_hash": "fe892470829646a218317a4ce39db49a90407cab27f54e93deec5e66ccd35325",
+  "last_updated": "2026-11-15T23:47:33.984Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-15T10:00:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-15T23:01:31.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T20:00:31.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Why The Hublot Big Bang Meca-10 Deserves More Credit Than It Gets",
+      "url": "https://www.fratellowatches.com/why-the-hublot-big-bang-meca-10-deserves-more-credit-than-it-gets/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Hublot-Meca-10-11.jpg",
+      "peek_preview": "I’m sitting here with the Hublot Big Bang Meca-10 42mm Titanium on my wrist, and I’ve been looking forward to spending some proper time with this watch for quite a while. I first noticed the smaller Meca-10 when Hublot...",
+      "categories": [
+        "Hands-On",
+        "Topic of the Week"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-15T23:01:31.000Z",
+      "score_quality": 76,
+      "score_notif": 35,
+      "cluster": "20261115-2713a3fa54e0",
+      "cluster_main": true
+    },
     {
       "title": "aBlogtoWatch Weekly #247: Luxury Watch CEOs Losing Power, GPHG Awards Controversy, And $5,000 Tourbillons",
       "url": "https://www.ablogtowatch.com/ablogtowatch-weekly-247-luxury-watch-ceos-losing-power-gphg-awards-controversy-and-5000-tourbillons/",
@@ -525,7 +543,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: The 04Series Watches Are Something Entirely Different For Studio Underd0g",
@@ -884,7 +902,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Who Saw This Coming? The Studio Underd0g 04Series Calendar",
@@ -975,7 +993,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Zenith G.F.J. Calibre 135 Double-Signed with J.N. Shapiro—A Swiss Observatory Legend Gets an American Makeover",
@@ -1394,24 +1412,6 @@
       "cluster_main": false
     },
     {
-      "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
-      "url": "https://www.fratellowatches.com/introducing-the-zenith-g-f-j-calibre-135-double-signed-with-j-n-shapiro/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Zenith-G.F.J.-Calibre-135-Double-Signed-With-J.N.-Shapiro-9.jpg",
-      "peek_preview": "Operating a traditional rose engine is intricate work. It requires constant pressure and a steady hand from the artisan at the wheel. Achieving this kind of finish demands considerable skill and concentration, and even...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T18:00:50.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
-    },
-    {
       "title": "Zenith’s legendary Calibre 135 gets an American makeover courtesy of J.N. Shapiro",
       "url": "https://timeandtidewatches.com/zenith-g-f-j-calibre-135-double-signed-with-j-n-shapiro-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-zenith-gfj-jn-shapiro.jpg",
@@ -1815,7 +1815,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
+      "cluster": "20261111-8637a895d67f",
       "cluster_main": true
     },
     {
@@ -2210,7 +2210,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Albishorn’s Voisin Aérosport is a Time-Only Time Machine",
@@ -2308,7 +2308,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
