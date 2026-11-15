@@ -1,6 +1,6 @@
 {
-  "content_hash": "cb5581074770fa71e0bf881d81154c0ba2875c56f088ad19fb0faeacd5d5abb5",
-  "last_updated": "2026-11-15T07:47:13.789Z",
+  "content_hash": "6ce5aacf4b89b02e2ccce9370da1615231f3055c4d95fc94190e00c1e78d82af",
+  "last_updated": "2026-11-15T08:47:07.131Z",
   "premium": {
     "links": []
   },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-14T13:00:03.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-15T08:01:21.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T07:00:48.000Z"
     },
     {
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Chopard Mille Miglia Classic Chronograph American Racing Stripes Watch Hands-On",
+      "url": "https://www.ablogtowatch.com/chopard-mille-miglia-classic-chronograph-american-racing-stripes-watch-hands-on/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/CHOPAR2-768x346.jpg",
+      "peek_preview": "Swiss Chopard has a new limited-edition variant of the Mille Miglia watch for the United States market, known as the Mille Miglia Classic Chronograph American Racing Stripes. Built as a set of 50 pieces, this watch adds...",
+      "categories": [
+        "Hands-On",
+        "Chronograph Watches",
+        "Watch Reviews Over $500",
+        "Watches & Cars"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-15T08:01:21.000Z",
+      "score_quality": 78,
+      "score_notif": 63,
+      "cluster": "20261115-adf75c11c6aa",
+      "cluster_main": true
+    },
     {
       "title": "Wren returns to familiar waters with the Diver One Titanium Glacier",
       "url": "https://timeandtidewatches.com/wren-diver-one-titanium-glacier-introducing/",
@@ -477,7 +497,7 @@
       "featured": false,
       "published_at": "2026-11-14T08:01:35.000Z",
       "score_quality": 71,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261114-921e087c43ad",
       "cluster_main": true
     },
@@ -724,7 +744,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Who Saw This Coming? The Studio Underd0g 04Series Calendar",
@@ -815,7 +835,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Zenith G.F.J. Calibre 135 Double-Signed with J.N. Shapiro—A Swiss Observatory Legend Gets an American Makeover",
@@ -2404,23 +2424,6 @@
       "score_quality": 60,
       "score_notif": 31,
       "cluster": "20261109-4c22299812ff",
-      "cluster_main": true
-    },
-    {
-      "title": "Patrouille de France Athos 7 : un chronographe carré made in France à prix doux",
-      "url": "https://www.welovewatches.fr/patrouille-de-france-athos-7-un-chronographe-carre-made-in-france-a-prix-doux.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/presentation-montres-patrouille-de-france-athos-7.jpg",
-      "peek_preview": "Tout le monde connaît la Patrouille de France et ses Alpha Jet qui dessinent dans le ciel les couleurs du drapeau tricolore. Mais saviez-vous qu'elle a aussi donné son nom à une marque de montres...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-09T06:30:00.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261109-a5534f279332",
       "cluster_main": true
     }
   ]
