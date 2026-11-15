@@ -1,6 +1,6 @@
 {
-  "content_hash": "0ffd36f28b02024f0c33e117e896b3b2e565b4ec7b24973805bf8f2f68716f8f",
-  "last_updated": "2026-11-15T10:47:27.393Z",
+  "content_hash": "2e9a7edc41cd8c7f653306ee3a398dd3c4c22ca0234f375c9a099abcf733b268",
+  "last_updated": "2026-11-15T13:47:00.640Z",
   "premium": {
     "links": []
   },
@@ -8,8 +8,8 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.4,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T10:00:52.000Z"
     },
     {
@@ -23,13 +23,13 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T10:35:15.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 1.9,
+      "estimated_articles_per_day": 1.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T08:01:21.000Z"
     },
@@ -58,13 +58,13 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-14T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-15T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T20:00:00.000Z"
     },
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T07:00:48.000Z"
     },
@@ -127,7 +127,7 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.8,
+      "estimated_articles_per_day": 0.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-13T10:16:40.000Z"
     },
@@ -175,6 +175,33 @@
     }
   ],
   "items": [
+    {
+      "title": "Independence day: Six watches to kickstart your independent watchmaking collection",
+      "url": "https://deployant.com/independence-day-six-watches-to-kickstart-your-independent-watchmaking-collection/?utm_source=rss&utm_medium=rss&utm_campaign=independence-day-six-watches-to-kickstart-your-independent-watchmaking-collection",
+      "image": "https://deployant.com/wp-content/uploads/2023/07/ressence-type8-side.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The world of independent watchmaking is an interesting one. Given that there are no public stakeholders (or, shareholders) involved, and that stable profitabi...",
+      "categories": [
+        "Opinion",
+        "Reviews",
+        "Watches",
+        "czapek",
+        "habring",
+        "Independent watchmaking",
+        "Naoya Hida",
+        "otsuka lotec",
+        "Ressence",
+        "throwback sunday",
+        "trilobe"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-15T13:30:00.000Z",
+      "score_quality": 54,
+      "score_notif": 22,
+      "cluster": "20261115-0e00adbfca57",
+      "cluster_main": true
+    },
     {
       "title": "Buying Guide – The Serene Beauty of White Dials, Through Six of Today’s Best",
       "url": "https://monochrome-watches.com/buying-guide-breguet-laurent-ferrier-hamilton-hermes-fortis-glashutte-original-specs-price-review/",
@@ -1298,7 +1325,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
@@ -1348,7 +1375,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -1504,7 +1531,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -1999,7 +2026,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -2414,23 +2441,6 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261109-ac091d1bec43",
-      "cluster_main": true
-    },
-    {
-      "title": "According To Ariel: Luxury Watch Brand CEOs Have Never Been So Impotent",
-      "url": "https://www.ablogtowatch.com/according-to-ariel-luxury-watch-brand-ceos-have-never-been-so-impotent/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/ABTW_AA_Luxury_Watch_Brand_CEOs_Impotent_2000x900_V3-768x346.png",
-      "peek_preview": "The timepiece industry over the last few decades owes much of its success to a relatively small number of pioneering entrepreneurs armed with creative visions, charisma, and drive. In other words, while the timepiece in...",
-      "categories": [
-        "Featured Articles"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T08:01:46.000Z",
-      "score_quality": 60,
-      "score_notif": 31,
-      "cluster": "20261109-4c22299812ff",
       "cluster_main": true
     }
   ]
