@@ -1,6 +1,6 @@
 {
-  "content_hash": "9ca1343066d738898a1b44eac93940f7edba0ef9100084afaf7917c8da8293fa",
-  "last_updated": "2026-11-15T03:47:09.172Z",
+  "content_hash": "e92f11c9a098fcc94731bd5464392341f54708a81f33b0d3eebca3dab9245fa3",
+  "last_updated": "2026-11-15T06:47:24.108Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-14T10:00:52.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-15T06:00:04.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-15T03:00:23.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Sunday Morning Showdown: Panerai Submersible Marina Militare Destro PAM01757 Vs. Omega Seamaster Ploprof 1200M Summer Blue",
+      "url": "https://www.fratellowatches.com/panerai-submersible-marina-militare-destro-pam01757-vs-omega-seamaster-ploprof-1200m-summer-blue/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/HEADER-Panerai-Submersible-Marina-Militare-PAM01757_VS_Omega_Seamaster_Ploprof_1200M.jpg",
+      "peek_preview": "It’s Sunday morning, so it’s time for a hot cup of coffee and another battle in our Sunday Morning Showdown series. This week, we’re comparing two oversized dive watches with very different personalities. Daan has picke...",
+      "categories": [
+        "Sunday Morning Showdown",
+        "sunday morning showdown"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-15T06:00:04.000Z",
+      "score_quality": 72,
+      "score_notif": 24,
+      "cluster": "20261115-a9d17ba6c197",
+      "cluster_main": true
+    },
     {
       "title": "ショーメが「ジョゼフィーヌ エグレット ウォッチ」に新作のコンビモデルを追加",
       "url": "https://www.webchronos.net/news/178597/",
@@ -1421,7 +1439,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -1478,23 +1496,6 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261112-c43737b785e6",
-      "cluster_main": true
-    },
-    {
-      "title": "Fratello Talks: Our Watch Pet Peeves Vol. II",
-      "url": "https://www.fratellowatches.com/fratello-talks-our-watch-pet-peeves-vol-ii/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/03/IWC-Ingenieur-2023-9.jpg",
-      "peek_preview": "No watch is perfect, and even the most enthusiastic collectors have their limits. It might be a poorly finished detail, an uncomfortable clasp, or a design choice that makes you wonder what the brand was thinking. Some...",
-      "categories": [
-        "Podcast"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T09:00:22.000Z",
-      "score_quality": 47,
-      "score_notif": 24,
-      "cluster": "20261112-95bbfda70d4a",
       "cluster_main": true
     },
     {
@@ -1675,7 +1676,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261111-8637a895d67f",
+      "cluster": "20261110-363f7e237b54",
       "cluster_main": true
     },
     {
@@ -1934,7 +1935,7 @@
       "score_quality": 68,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
@@ -1952,7 +1953,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -2168,7 +2169,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -2307,7 +2308,7 @@
       "score_quality": 55,
       "score_notif": 32,
       "cluster": "20261109-9aa78c3b1b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
