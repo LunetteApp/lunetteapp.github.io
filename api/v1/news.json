@@ -1,6 +1,6 @@
 {
-  "content_hash": "315a0e702216dcc8b2e097e3ea49108ee07465dea56f35d6654fde39827fd87c",
-  "last_updated": "2026-11-16T12:48:05.493Z",
+  "content_hash": "52f55d5f80c7e79dc2b0680586c992b686d13d6e7457b41aa4b3e279ad8fce94",
+  "last_updated": "2026-11-16T13:48:02.501Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-15T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "URWERK UR-101 Green Mamba: A New Take on an Icon",
+      "url": "https://deployant.com/urwerk-ur-101-green-mamba/?utm_source=rss&utm_medium=rss&utm_campaign=urwerk-ur-101-green-mamba",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/2026_10_21-urwerk-green-mamba6232.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors URWERK returns to one of its earliest models with the UR-101 Green Mamba, a new interpretation of the watch first unveiled at Baselworld in 1997. Nearly three...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "urwerk"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T13:30:00.000Z",
+      "score_quality": 74,
+      "score_notif": 34,
+      "cluster": "20261111-62ab3e38e5e1",
+      "cluster_main": false
+    },
     {
       "title": "Interview – Christian Knoop and Alexia Genta on Gérald Genta’s Legacy and the Rebirth of the IWC Ingenieur",
       "url": "https://monochrome-watches.com/christian-knoop-and-alexia-genta-on-gerald-gentas-legacy-and-the-rebirth-of-the-iwc-ingenieur/",
@@ -1900,7 +1920,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
+      "cluster": "20261111-8637a895d67f",
       "cluster_main": true
     },
     {
@@ -1962,7 +1982,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261109-a98526331663",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
@@ -2322,7 +2342,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -2406,7 +2426,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-a98526331663",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -2424,25 +2444,6 @@
       "score_notif": 34,
       "cluster": "20261109-a98526331663",
       "cluster_main": false
-    },
-    {
-      "title": "New Release: Yema Senans Grande Lune Limited-Edition Watch",
-      "url": "https://www.ablogtowatch.com/new-release-yema-senans-grande-lune-limited-edition-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Yema-Senans-Grande-Lune-Limited-Edition-LOR-Crop-1-768x346.jpg",
-      "peek_preview": "Although the brand is perhaps best known for its affordable, proudly French takes on midcentury sports watches, Yema is capable of genuinely excellent horology. Its Morteau-based factory has become a hotbed for French m...",
-      "categories": [
-        "Watch Releases",
-        "Moonphase Watches",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T15:00:30.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261109-4ff5196f8dd9",
-      "cluster_main": true
     }
   ]
 }
