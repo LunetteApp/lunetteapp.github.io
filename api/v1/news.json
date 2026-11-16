@@ -1,6 +1,6 @@
 {
-  "content_hash": "95dad727768a5066d1d1d428d852cd685b5a41ed7bc2922b80993ee2ab001a29",
-  "last_updated": "2026-11-16T10:47:34.399Z",
+  "content_hash": "ca0edaff8ae95bf390e8a33e389139a160cbb3a87261297e6e973ad9b9187d64",
+  "last_updated": "2026-11-16T11:47:37.463Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T10:00:06.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-16T07:45:40.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T11:00:20.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
+      "estimated_articles_per_day": 1.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-14T15:22:05.000Z"
     },
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Interview – Christian Knoop and Alexia Genta on Gérald Genta’s Legacy and the Rebirth of the IWC Ingenieur",
+      "url": "https://monochrome-watches.com/christian-knoop-and-alexia-genta-on-gerald-gentas-legacy-and-the-rebirth-of-the-iwc-ingenieur/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Christian-Knoop-and-Alexia-Genta-talking-IWC-Ingenieur-and-Gerald-Genta-5-600x237.jpg",
+      "peek_preview": "Few timepieces capture the tension between utilitarian rigour and avant-garde artistry as well as the IWC Ingenieur. Born in 1955 as an antimagnetic instrument for scientists and engineers, the model underwent a radical...",
+      "categories": [
+        "IWC",
+        "2026",
+        "Interviews"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T11:00:20.000Z",
+      "score_quality": 91,
+      "score_notif": 52,
+      "cluster": "20261116-d430636dcf02",
+      "cluster_main": true
+    },
     {
       "title": "The Maen Event: The Grand Tonneau Jump Hour Collection",
       "url": "https://www.fratellowatches.com/the-maen-event-the-grand-tonneau-jump-hour-collection/",
@@ -605,7 +624,7 @@
       "title": "The ABCs of Time – Dial Styles, History and Evolution of a Watch’s Crucial Part",
       "url": "https://monochrome-watches.com/dial-styles-history-and-evolution-of-a-watchs-crucial-part-abcs-of-time/",
       "image": "https://monochrome-watches.com/app/uploads/2021/05/Grand-Seiko-SLGH005-White-Birch-Hi-Beat-Caliber-9SA5-review-2-600x237.jpg",
-      "peek_preview": "Following our ABCs of Time article on dial materials, as well as a story dedicated to the sector dials, we’re now shifting focus to dial styles throughout history, which echo many design eras like Art Nouveau, Art Deco...",
+      "peek_preview": "Following our ABCs of Time article on dial materials, as well as a story dedicated to sector dials, we’re now shifting focus to dial styles throughout history, which echo many design eras like Art Nouveau, Art Deco and...",
       "categories": [
         "Watch Info",
         "2026",
@@ -1047,7 +1066,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Who Saw This Coming? The Studio Underd0g 04Series Calendar",
@@ -1138,7 +1157,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Zenith G.F.J. Calibre 135 Double-Signed with J.N. Shapiro—A Swiss Observatory Legend Gets an American Makeover",
@@ -1355,25 +1374,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": true
-    },
-    {
-      "title": "Industry News – Richemont Reports Strong First Semester 2026, Sales up by 17%",
-      "url": "https://monochrome-watches.com/richemont-reports-strong-first-semester-2026-sales-up-by-17-industry-news/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/07/richemont-group-results-sales-600x237.jpg",
-      "peek_preview": "Richemont, the Swiss luxury powerhouse, pursues its 2026 fiscal year on a strong note. For the first semester ended 30 September 2026, the group reported sales of EUR 12.3 billion, up by 17% at constant rates (+16% actu...",
-      "categories": [
-        "Richemont",
-        "2026",
-        "Industry news"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T07:48:25.000Z",
-      "score_quality": 80,
-      "score_notif": 34,
-      "cluster": "20261113-a32c6c4139a4",
       "cluster_main": true
     },
     {
@@ -1962,7 +1962,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261109-a98526331663",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
@@ -2428,7 +2428,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-a98526331663",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
