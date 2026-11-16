@@ -1,6 +1,6 @@
 {
-  "content_hash": "ca0edaff8ae95bf390e8a33e389139a160cbb3a87261297e6e973ad9b9187d64",
-  "last_updated": "2026-11-16T11:47:37.463Z",
+  "content_hash": "315a0e702216dcc8b2e097e3ea49108ee07465dea56f35d6654fde39827fd87c",
+  "last_updated": "2026-11-16T12:48:05.493Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T11:00:20.000Z"
     },
     {
@@ -1900,7 +1900,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261111-8637a895d67f",
+      "cluster": "20261110-363f7e237b54",
       "cluster_main": true
     },
     {
@@ -2229,28 +2229,6 @@
       "cluster_main": false
     },
     {
-      "title": "Jaeger-LeCoultre’s 8th “The Collectibles” capsule collection highlights the brand’s relationship with America",
-      "url": "https://timeandtidewatches.com/jaeger-lecoultres-the-collectibles-capsule-news/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/LeCoultre-Triple-Calendar-1952-feature-image.jpg",
-      "peek_preview": "For the 250th anniversary of the USA, Jaeger-LeCoultre's latest The Collectibles capsule collection looks at the watches built for the US. The post Jaeger-LeCoultre’s 8th “The Collectibles” capsule collection highlights...",
-      "categories": [
-        "Lists",
-        "News",
-        "Jaeger-lecoultre",
-        "jlc",
-        "meta:short",
-        "vintage"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T14:30:14.000Z",
-      "score_quality": 56,
-      "score_notif": 34,
-      "cluster": "20261110-121dd8fd4e40",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing: Vacheron Constantin FiftySix Complete Calendar and Self-Winding—Two-Tone Grey Dials and Exclusive Live Pictures",
       "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-fiftysix-complete-calendar-and-self-winding-two-tone-grey-dials-live-pictures",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794318268607-HSBEWSBXB6DD8DRTW9HI/Vacheron+Constantin+FiftySix+Complete+Calendar+and+Self-Winding-2.jpg?format=1500w",
@@ -2344,7 +2322,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -2446,6 +2424,25 @@
       "score_notif": 34,
       "cluster": "20261109-a98526331663",
       "cluster_main": false
+    },
+    {
+      "title": "New Release: Yema Senans Grande Lune Limited-Edition Watch",
+      "url": "https://www.ablogtowatch.com/new-release-yema-senans-grande-lune-limited-edition-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Yema-Senans-Grande-Lune-Limited-Edition-LOR-Crop-1-768x346.jpg",
+      "peek_preview": "Although the brand is perhaps best known for its affordable, proudly French takes on midcentury sports watches, Yema is capable of genuinely excellent horology. Its Morteau-based factory has become a hotbed for French m...",
+      "categories": [
+        "Watch Releases",
+        "Moonphase Watches",
+        "Watch Releases 2026"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T15:00:30.000Z",
+      "score_quality": 58,
+      "score_notif": 34,
+      "cluster": "20261109-4ff5196f8dd9",
+      "cluster_main": true
     }
   ]
 }
