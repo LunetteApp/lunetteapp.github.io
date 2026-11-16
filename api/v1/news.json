@@ -1,6 +1,6 @@
 {
-  "content_hash": "484678f09fa94d0da4fa9a11ecac3acc90698f2c4f0b394c2b2d3295a7e3bb2d",
-  "last_updated": "2026-11-16T17:48:41.189Z",
+  "content_hash": "7f449ceebf44592719bc73e3292e5f7bd3139b4290c66b12a7ddc46a812040ea",
+  "last_updated": "2026-11-16T18:47:36.885Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T17:00:22.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T17:30:47.000Z"
     },
     {
@@ -114,14 +114,14 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T17:28:01.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T17:36:00.000Z"
     },
     {
@@ -378,7 +378,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-62ab3e38e5e1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Interview – Christian Knoop and Alexia Genta on Gérald Genta’s Legacy and the Rebirth of the IWC Ingenieur",
@@ -2061,7 +2061,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-62ab3e38e5e1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-Shock Updates the Compact \"CasiOak\" in Monochromatic Black and Brown",
@@ -2445,6 +2445,21 @@
       "score_quality": 61,
       "score_notif": 34,
       "cluster": "20261110-d9641dfdb2c7",
+      "cluster_main": true
+    },
+    {
+      "title": "Seiko 5 Sports Field GMT SSK059 'Polar' Review",
+      "url": "https://teddybaldassarre.com/blogs/watches/seiko-ssk059-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-5-Sports-SSK059-FieldGMT-flat-2.jpg?v=1793981044",
+      "peek_preview": "The Seiko 5 Sports Field GMT SSK059 is about as good as a mechanical field GMT gets for $450. The white dial, orange GMT hand, and fixed steel bezel give it a different look from Seiko’s SKX GMTs, but the no-nonsense ca...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-09T21:49:26.000Z",
+      "score_quality": 75,
+      "score_notif": 28,
+      "cluster": "20261109-1963a793a062",
       "cluster_main": true
     }
   ]
