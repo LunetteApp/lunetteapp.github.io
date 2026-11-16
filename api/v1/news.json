@@ -1,6 +1,6 @@
 {
-  "content_hash": "a9e38ded591e54b86ede53205c3204e7bd9032725231d77e2e4c1cf463700c69",
-  "last_updated": "2026-11-16T03:47:03.213Z",
+  "content_hash": "50ad02cfe00078570f9ac8f51d4ac4bebf6f7783e7526421d407a0961a11875a",
+  "last_updated": "2026-11-16T06:47:09.795Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-15T23:01:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T06:00:12.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -162,8 +162,8 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T03:00:57.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Peacock Celebrates 70 Years With The Black Hole III Curved Guilloché Central Tourbillon",
+      "url": "https://www.fratellowatches.com/peacock-celebrates-70-years-with-the-black-hole-iii-curved-guilloche-central-tourbillon/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Peacock-Black-Hole-Curved-Guilloche-Central-Tourbillon-10.jpg",
+      "peek_preview": "Peacock is celebrating its 70th anniversary with a pair of timepieces that treat the dial as an impressive curved stage. One of China’s longest-standing manufacturing houses, the brand places a free-sprung central tourb...",
+      "categories": [
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T06:00:12.000Z",
+      "score_quality": 68,
+      "score_notif": 66,
+      "cluster": "20261116-76cc8b1baaee",
+      "cluster_main": true
+    },
     {
       "title": "フランク ミュラーがグランドピアノに着想を得た「グランド カーベックス ピアノ 7デイズ パワーリザーブ」を発表",
       "url": "https://www.webchronos.net/news/178786/",
@@ -1182,7 +1200,7 @@
       "score_quality": 56,
       "score_notif": 34,
       "cluster": "20261112-09f8ed120410",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Top 5 Surprising Releases Of 2026",
@@ -1348,25 +1366,6 @@
       "score_quality": 51,
       "score_notif": 24,
       "cluster": "20261113-9f8026b65c17",
-      "cluster_main": true
-    },
-    {
-      "title": "Lighting Up The Room With The Fortis Novonaut N-42 TR Series",
-      "url": "https://www.fratellowatches.com/fortis-novonaut-n-42-tr-series/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Fortis-Novonaut-N-42-halo-01.jpg",
-      "peek_preview": "The watch that immediately comes to mind when discussing Fortis is undoubtedly the B-42 Cosmonauts Chronograph. A favorite among space-loving watch enthusiasts, it accompanied cosmonauts on Soyuz TM-19 missions and subs...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T23:01:50.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261112-e1ea0bd72d5d",
       "cluster_main": true
     },
     {
@@ -1619,7 +1618,7 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261112-09f8ed120410",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nomos Club Sport neomatik 34 all silver: Silber statt Farbe",
@@ -1644,7 +1643,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -2109,7 +2108,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
