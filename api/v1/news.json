@@ -1,6 +1,6 @@
 {
-  "content_hash": "52f55d5f80c7e79dc2b0680586c992b686d13d6e7457b41aa4b3e279ad8fce94",
-  "last_updated": "2026-11-16T13:48:02.501Z",
+  "content_hash": "037d45c78e16cec7cba5b4ab8b6842fb2edcf0b77df3eccb1fcb931f8ee60457",
+  "last_updated": "2026-11-16T14:47:31.795Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T20:00:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T14:00:20.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-16T11:00:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T14:00:09.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T13:30:00.000Z"
     },
     {
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-16T01:00:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T14:39:24.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -176,6 +176,64 @@
   ],
   "items": [
     {
+      "title": "Simon Brette’s Confluence of Artisans and Rubies",
+      "url": "https://watchesbysjx.com/2026/11/simon-brette-chronometre-artisans-confluence-ruby.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Simon-Brette-Chronometre-Artisans-Confluence-Ruby-wrist-shot-header-300x200.jpg",
+      "peek_preview": "One of the most successful independent watch brands in contemporary watchmaking, Simon Brette built its name on the Chronomètre Artisans, a time-only that showcases decoration performed by independent specialists. The C...",
+      "categories": [
+        "Independent watchmaking",
+        "New Watches 2026",
+        "News",
+        "Simon Brette"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T14:39:24.000Z",
+      "score_quality": 76,
+      "score_notif": 67,
+      "cluster": "20261116-96e15821cdc0",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing the Garrick S8, the Brand’s Most Ambitious Watch Yet",
+      "url": "https://wornandwound.com/introducing-the-garrick-s8-the-brands-most-ambitious-watch-yet/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Gold_Angle_v2_landscape.jpg",
+      "peek_preview": "The UK’s Garrick is a case study in what building a brand from the ground up should look like. They didn’t come out of the gate with watches priced at $80k, backed by little more than swagger. Rather, they learned by do...",
+      "categories": [
+        "News & Releases"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T14:00:20.000Z",
+      "score_quality": 71,
+      "score_notif": 62,
+      "cluster": "20261116-f55c816984e5",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Kurono Tokyo Unveils the New and Sportier Structure Chronograph S1",
+      "url": "https://monochrome-watches.com/kurono-tokyo-structure-chronograph-s1-sports-chronograph-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Kurono-Tokyo-Structure-Chronograph-S1-40mm-Sports-Chronograph-Automatic-1-600x237.jpg",
+      "peek_preview": "The Japanese watch brand Kurono Tokyo was founded in 2019 by independent master watchmaker and product designer Hajime Asaoka. Acclaimed for his high-end, handmade pieces, Asaoka wanted to bring his sophisticated and di...",
+      "categories": [
+        "Kurono Tokyo",
+        "2026",
+        "Chronographs",
+        "Independent Watchmaking",
+        "Novelty"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T14:00:09.000Z",
+      "score_quality": 79,
+      "score_notif": 72,
+      "cluster": "20261116-4f962287802d",
+      "cluster_main": true
+    },
+    {
       "title": "URWERK UR-101 Green Mamba: A New Take on an Icon",
       "url": "https://deployant.com/urwerk-ur-101-green-mamba/?utm_source=rss&utm_medium=rss&utm_campaign=urwerk-ur-101-green-mamba",
       "image": "https://deployant.com/wp-content/uploads/2026/11/2026_10_21-urwerk-green-mamba6232.jpg",
@@ -193,7 +251,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-62ab3e38e5e1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Interview – Christian Knoop and Alexia Genta on Gérald Genta’s Legacy and the Rebirth of the IWC Ingenieur",
@@ -439,7 +497,7 @@
       "featured": false,
       "published_at": "2026-11-15T14:30:04.000Z",
       "score_quality": 64,
-      "score_notif": 53,
+      "score_notif": 34,
       "cluster": "20261115-26828fe1684f",
       "cluster_main": true
     },
@@ -1266,7 +1324,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261113-3d77271ea25d",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Geneva Journal: You Could Trip Over a Journe",
@@ -1372,29 +1430,6 @@
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
       "cluster_main": false
-    },
-    {
-      "title": "First Look – The Brellum Duobox 39 TC Moonphase Chronometer",
-      "url": "https://monochrome-watches.com/brellum-duobox-39-tc-moonphase-chronometer-full-calendar-chronograph-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Brellum-Duobox-39-TC-Moonphase-Chronometer-review-1-600x237.jpg",
-      "peek_preview": "Founded in 2016 by fourth-generation watchmaker Sébastien Muller, Swiss indie brand Brellum started out with the Duobox that packed a pair of box-shaped sapphire crystals: one over the dial and another on the caseback....",
-      "categories": [
-        "Brellum",
-        "2026",
-        "Calendar Watches",
-        "Chronographs",
-        "Independent Watchmaking",
-        "Moon phase",
-        "Novelty"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T08:00:03.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261113-3d77271ea25d",
-      "cluster_main": true
     },
     {
       "title": "オーデマ ピゲが「CODE 11.59 バイ オーデマ ピゲ オートマティック」に天然石ダイアルを採用した2モデルを発表",
@@ -1701,7 +1736,7 @@
       "published_at": "2026-11-12T13:26:24.000Z",
       "score_quality": 72,
       "score_notif": 31,
-      "cluster": "20261107-accf94097850",
+      "cluster": "20261112-d818061fe933",
       "cluster_main": true
     },
     {
@@ -1938,7 +1973,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-62ab3e38e5e1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "G-Shock Updates the Compact \"CasiOak\" in Monochromatic Black and Brown",
@@ -2152,24 +2187,6 @@
       "cluster_main": true
     },
     {
-      "title": "Nomos Introduces a New All Silver Version of the Club Sport Neomatik 34",
-      "url": "https://wornandwound.com/nomos-introduces-a-new-all-silver-version-of-the-club-sport-neomatik-34/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Nomos-Club-Sport-Silver-4.jpg",
-      "peek_preview": "My first job out of college was working as a timeshare salesman (imagine me at 21 years old telling you how to spend a quarter of a million dollars). And while the job was bad enough, the true nail in the coffin for my...",
-      "categories": [
-        "News & Releases",
-        "Nomos"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T17:00:37.000Z",
-      "score_quality": 70,
-      "score_notif": 31,
-      "cluster": "20261107-accf94097850",
-      "cluster_main": false
-    },
-    {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
       "url": "https://teddybaldassarre.com/blogs/watches/anordain-watches-review",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/AnOrdain-Model-1-collection-2.jpg?v=1794245850",
@@ -2183,25 +2200,6 @@
       "score_notif": 24,
       "cluster": "20261110-a8d8fa80300f",
       "cluster_main": true
-    },
-    {
-      "title": "Vacheron Constantin’s Fiftysix in Shades of Grey",
-      "url": "https://watchesbysjx.com/2026/11/vacheron-constantin-fiftysix.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Vacheron-Constantin-Fiftysix-3x2-centred-header-300x200.jpg",
-      "peek_preview": "Vacheron Constantin has refreshed the Fiftysix Self-Winding and Fiftysix Complete Calendar with grey gradient dials and contrasting brushed and polished case finishes. The changes give the brand’s most accessible collec...",
-      "categories": [
-        "News",
-        "New Watches 2026",
-        "Vacheron Constantin"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T16:18:56.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261110-1570288cfcaf",
-      "cluster_main": false
     },
     {
       "title": "DWC Terra: l’orologio-moschettone da meno di 50 euro sold out in 2 minuti",
