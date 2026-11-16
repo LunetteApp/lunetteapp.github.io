@@ -1,6 +1,6 @@
 {
-  "content_hash": "3e22dc21ab9818c8b0c2f2f69683400da14214843d0637ab9efc141a654e6169",
-  "last_updated": "2026-11-16T15:48:07.250Z",
+  "content_hash": "3c7aa744a3cb1b235abb683c207bb5d097aa0a0a3bd8e479b19e2e4bd06ef492",
+  "last_updated": "2026-11-16T16:49:34.023Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T15:44:52.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T15:00:23.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T21:11:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T16:27:56.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T20:00:00.000Z"
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-14T15:22:05.000Z"
+      "estimated_articles_per_day": 1.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T16:25:35.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-14T13:39:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T16:22:27.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Maen Brings the Grand Tonneau Jump Hour Into Its Permanent Collection",
+      "url": "https://teddybaldassarre.com/blogs/watches/maen-grand-tonneau-jump-hour",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Maen-Grand-Tonneau-Jump-Hour-Silver-flat-2.jpg?v=1794604804",
+      "peek_preview": "Maen is bringing its Grand Tonneau Jump Hour into the permanent collection, following the limited collaboration with watch personality Nico Leonard that introduced the design in 2025. The new models retain the distincti...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T16:27:56.000Z",
+      "score_quality": 58,
+      "score_notif": 62,
+      "cluster": "20261116-a2f22814b73b",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Blancpain Ladybird Colors Zodiaque—A New Zodiac Calendar Complication",
+      "url": "https://www.watchcollectinglifestyle.com/home/blancpain-ladybird-colors-zodiaque-calendar-complication",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794844814678-BKIMHT1CZKG7Z6J7FA2S/Blancpain+Ladybird+Colors+Zodiaque%285%29.png?format=1500w",
+      "peek_preview": "Blancpain has spent nearly a century building watches for women, and the Ladybird Colors Zodiaque is a statement of that commitment. It debuts the new Manufacture caliber 2653QZ, a patented automatic movement that combi...",
+      "categories": [
+        "Blancpain"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T16:25:35.000Z",
+      "score_quality": 66,
+      "score_notif": 63,
+      "cluster": "20261116-bcbc90acd282",
+      "cluster_main": true
+    },
     {
       "title": "New Release: Laurent Ferrier Grand Sport Tourbillon Iceberg Watch",
       "url": "https://www.ablogtowatch.com/new-release-laurent-ferrier-grand-sport-tourbillon-iceberg-watch/",
@@ -308,9 +340,9 @@
       "featured": false,
       "published_at": "2026-11-16T10:00:06.000Z",
       "score_quality": 74,
-      "score_notif": 63,
+      "score_notif": 62,
       "cluster": "20261116-a2f22814b73b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Actually Affordable: Nordic Marine Instruments Havørn Dress Watch",
@@ -2019,8 +2051,8 @@
       "published_at": "2026-11-11T17:21:52.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261109-a98526331663",
-      "cluster_main": false
+      "cluster": "20261111-b3fa1305f822",
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
@@ -2379,54 +2411,6 @@
       "score_quality": 61,
       "score_notif": 34,
       "cluster": "20261110-d9641dfdb2c7",
-      "cluster_main": true
-    },
-    {
-      "title": "Seiko 5 Sports Field GMT SSK059 'Polar' Review",
-      "url": "https://teddybaldassarre.com/blogs/watches/seiko-ssk059-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-5-Sports-SSK059-FieldGMT-flat-2.jpg?v=1793981044",
-      "peek_preview": "The Seiko 5 Sports Field GMT SSK059 is about as good as a mechanical field GMT gets for $450. The white dial, orange GMT hand, and fixed steel bezel give it a different look from Seiko’s SKX GMTs, but the no-nonsense ca...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T21:49:26.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261109-1963a793a062",
-      "cluster_main": true
-    },
-    {
-      "title": "The 5 Most Important Vintage Blancpain Fifty Fathoms Watches",
-      "url": "https://teddybaldassarre.com/blogs/watches/vintage-blancpain-fifty-fathoms",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Blancpain-FF-1953-2.jpg?v=1654264148",
-      "peek_preview": "The Blancpain Fifty Fathoms, revered as one of the first and most influential modern divers’ watches, is today the cornerstone of Blancpain’s collection. Its original tool-watch design and robust build have been reinter...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T17:26:23.000Z",
-      "score_quality": 62,
-      "score_notif": 26,
-      "cluster": "20261109-427d2d43a623",
-      "cluster_main": true
-    },
-    {
-      "title": "GPHG: 2026 Winners—Rexhep Rexhepi’s Chronograph Flyback Takes the Aiguille d’Or",
-      "url": "https://www.watchcollectinglifestyle.com/home/gphg-2026-winners-rexhep-rexhepis-chronograph",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794243470731-7BE0VFLAH4XHWBYENTWJ/GPHG+2026+WINNERS.jpg?format=1500w",
-      "peek_preview": "The 26th Grand Prix d’Horlogerie de Genève announced its winners on Saturday, November 7, 2026, in Geneva. Rexhep Rexhepi won the Aiguille d’Or Grand Prix for his Chronograph Flyback. Watchmaking’s highest honor now sit...",
-      "categories": [
-        "GPHG",
-        "News"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T17:05:12.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261109-a98526331663",
       "cluster_main": true
     }
   ]
