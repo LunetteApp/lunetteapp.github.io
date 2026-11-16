@@ -1,6 +1,6 @@
 {
-  "content_hash": "7f449ceebf44592719bc73e3292e5f7bd3139b4290c66b12a7ddc46a812040ea",
-  "last_updated": "2026-11-16T18:47:36.885Z",
+  "content_hash": "acfffed3f23511c3c44c9300a7855ac2bb1ca66a788c651b1194d634868e43dd",
+  "last_updated": "2026-11-16T20:48:50.307Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-16T14:00:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T20:00:26.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-16T16:25:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T20:11:14.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-15T15:11:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T20:42:16.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,70 @@
     }
   ],
   "items": [
+    {
+      "title": "Richemont Halbjahreszahlen 2026-2027: Starke Bilanz, nervöse Börse",
+      "url": "https://www.uhrenkosmos.com/richemont-halbjahreszahlen-2026-2027-im-plus/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Luxurioese-Richemont-Halbjahreszahlen-2026_27.jpg",
+      "peek_preview": "Schmuck liefert Rekordrenditen, die sieben Uhrenmanufakturen holen auf. Doch hinter den starken Konzernzahlen zeigt sich, wie weit Richemonts Uhrengeschäft noch von nachhaltiger Ertragsstärke entfernt ist",
+      "categories": [
+        "Marken & Macher",
+        "Uhrenmarkt",
+        "A. Lange & Söhne",
+        "Cartier",
+        "Compagnie Financière Richemont",
+        "IWC",
+        "Richemont",
+        "Richemont Group",
+        "Richemont Halbjahreszahlen 2026/2027",
+        "Schweizer Uhrenexporte",
+        "Uhrenmarkt 2026"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-16T20:42:16.000Z",
+      "score_quality": 82,
+      "score_notif": 80,
+      "cluster": "20261116-f0812a8af2be",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Takashi Murakami Skull Cylindrical Jumping Hours Tourbillon—A Skull for a Case, a Sideways Dial, and No Hands",
+      "url": "https://www.watchcollectinglifestyle.com/home/takashi-murakami-skull-cylindrical-jumping-hours-tourbillon",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794859607553-AKPMNFCH9VN046GBTTTF/Takashi+Murakami+Skull+Black+Rainbow+Hero.jpg?format=1500w",
+      "peek_preview": "Takashi Murakami has spent years contemplating time, and he now has a vehicle for it. The artist has launched Takashi Murakami Time Objects, a new universe pairing his creative vision with Swiss haute horlogerie. Its fi...",
+      "categories": [
+        "Takashi Murakami",
+        "Other Brands"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T20:11:14.000Z",
+      "score_quality": 79,
+      "score_notif": 34,
+      "cluster": "20261112-a9f9ed046a7f",
+      "cluster_main": true
+    },
+    {
+      "title": "Hands-On: the Bremont Supermarine 500 Full Ceramic “Deep Blue”",
+      "url": "https://wornandwound.com/review/hands-on-the-bremont-supermarine-500-full-ceramic-deep-blue/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Bremont_Supermarine-FC_02_WR.jpg",
+      "peek_preview": "Let’s check in with Bremont. The British brand has been on quite a ride these last few years after an internal shakeup that saw founders Nick and Giles English exit the company, Davide Cerrato take day to day control, a...",
+      "categories": [
+        "Hands-On",
+        "Review",
+        "Bremont"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T20:00:26.000Z",
+      "score_quality": 81,
+      "score_notif": 52,
+      "cluster": "20261116-f718d22800af",
+      "cluster_main": true
+    },
     {
       "title": "8 orologi falsi diventati leggenda al cinema: i movie props più incredibili",
       "url": "https://italianwatchspotter.com/orologi-falsi-cinema-movie-props/",
@@ -378,7 +442,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-62ab3e38e5e1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Interview – Christian Knoop and Alexia Genta on Gérald Genta’s Legacy and the Rebirth of the IWC Ingenieur",
@@ -576,7 +640,7 @@
       "featured": false,
       "published_at": "2026-11-15T20:00:31.000Z",
       "score_quality": 43,
-      "score_notif": 41,
+      "score_notif": 34,
       "cluster": "20261115-fd7a30e88922",
       "cluster_main": true
     },
@@ -1379,7 +1443,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: March LA.B Mansart Small Second",
@@ -1669,7 +1733,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -1904,7 +1968,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261112-a9f9ed046a7f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ateliers Associés Backs Mickaël Gaspar’s Souscription",
@@ -2061,7 +2125,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-62ab3e38e5e1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "G-Shock Updates the Compact \"CasiOak\" in Monochromatic Black and Brown",
@@ -2258,23 +2322,6 @@
       "cluster_main": false
     },
     {
-      "title": "Horologically Unique Reintroduces a Cult Classic with the New HU-02",
-      "url": "https://wornandwound.com/horologically-unique-reintroduces-a-cult-classic-with-the-new-hu-02/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Horlogically-Unique-02-4.jpg",
-      "peek_preview": "We love an inside-baseball watch, and Horologically Unique, the small Singapore based indie, has just dropped a good one aimed at a very specific variety of watch nerd. The HU-02 is a tribute to a design by Robert Cart...",
-      "categories": [
-        "Featured"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T20:00:08.000Z",
-      "score_quality": 68,
-      "score_notif": 32,
-      "cluster": "20261110-ae10ce05ec14",
-      "cluster_main": true
-    },
-    {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
       "url": "https://teddybaldassarre.com/blogs/watches/anordain-watches-review",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/AnOrdain-Model-1-collection-2.jpg?v=1794245850",
@@ -2428,38 +2475,6 @@
       "score_quality": 61,
       "score_notif": 31,
       "cluster": "20261110-68c864390131",
-      "cluster_main": true
-    },
-    {
-      "title": "Omega Seamaster Diver 300M, du bleu jusqu’aux cornes et du brun rehaussé d’or",
-      "url": "https://www.welovewatches.fr/omega-seamaster-diver-300m-du-bleu-jusquaux-cornes-et-du-brun-rehausse-dor.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/omega_seamaster_diver_300m_ceramique_une_1940x1280.jpg",
-      "peek_preview": "Omega ajoute deux Seamaster Diver 300M de 43,5 mm à son catalogue. La première pousse le bleu jusqu’au boîtier en céramique et l’associe au titane. La seconde prend une teinte chocolat, avec de l’or Sedna...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-10T06:33:00.000Z",
-      "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261110-d9641dfdb2c7",
-      "cluster_main": true
-    },
-    {
-      "title": "Seiko 5 Sports Field GMT SSK059 'Polar' Review",
-      "url": "https://teddybaldassarre.com/blogs/watches/seiko-ssk059-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Seiko-5-Sports-SSK059-FieldGMT-flat-2.jpg?v=1793981044",
-      "peek_preview": "The Seiko 5 Sports Field GMT SSK059 is about as good as a mechanical field GMT gets for $450. The white dial, orange GMT hand, and fixed steel bezel give it a different look from Seiko’s SKX GMTs, but the no-nonsense ca...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T21:49:26.000Z",
-      "score_quality": 75,
-      "score_notif": 28,
-      "cluster": "20261109-1963a793a062",
       "cluster_main": true
     }
   ]
