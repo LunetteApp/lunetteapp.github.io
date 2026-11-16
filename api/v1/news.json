@@ -1,6 +1,6 @@
 {
-  "content_hash": "0d7a2826817b4bc4c361109ef4e0e92ae2ebd5a0a99cdb83e2c182d8bf1f890d",
-  "last_updated": "2026-11-16T08:47:35.711Z",
+  "content_hash": "95dad727768a5066d1d1d428d852cd685b5a41ed7bc2922b80993ee2ab001a29",
+  "last_updated": "2026-11-16T10:47:34.399Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-16T06:00:12.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T10:00:06.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T08:01:03.000Z"
     },
     {
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "The Maen Event: The Grand Tonneau Jump Hour Collection",
+      "url": "https://www.fratellowatches.com/the-maen-event-the-grand-tonneau-jump-hour-collection/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Maen-Jumping-Hour-01.jpg",
+      "peek_preview": "I always have time for Maen watches. The Swedish independent makes some lovely, well-sized, classy, affordable ones. Far more than a sports-piece maker, the company focuses on incredible finishing and comfort, consideri...",
+      "categories": [
+        "Hands-On",
+        "Watch Review",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T10:00:06.000Z",
+      "score_quality": 74,
+      "score_notif": 63,
+      "cluster": "20261116-a2f22814b73b",
+      "cluster_main": true
+    },
     {
       "title": "Actually Affordable: Nordic Marine Instruments Havørn Dress Watch",
       "url": "https://www.ablogtowatch.com/actually-affordable-nordic-marine-instruments-havorn-dress-watch/",
@@ -1358,25 +1377,6 @@
       "cluster_main": true
     },
     {
-      "title": "Video: Hands-On With The A. Lange & Söhne Saxonia Annual Calendar In White Gold",
-      "url": "https://www.fratellowatches.com/video-hands-on-a-lange-sohne-saxonia-annual-calendar-in-white-gold/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/A.-Lange-Sohne-Saxonia-Anual-Calendar-36mm-21.jpg",
-      "peek_preview": "Today, we are revisiting the A. Lange & Söhne Saxonia Annual Calendar in white gold with an argenté dial. Several months have passed since its debut, yet it remains one of the releases that lingered in my mind long afte...",
-      "categories": [
-        "Hands-On",
-        "Video",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T06:00:38.000Z",
-      "score_quality": 80,
-      "score_notif": 28,
-      "cluster": "20261113-cd300a27bd0b",
-      "cluster_main": true
-    },
-    {
       "title": "オーデマ ピゲが「CODE 11.59 バイ オーデマ ピゲ オートマティック」に天然石ダイアルを採用した2モデルを発表",
       "url": "https://www.webchronos.net/news/178494/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/11/AP_isi_1.webp",
@@ -1900,7 +1900,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261110-363f7e237b54",
+      "cluster": "20261111-8637a895d67f",
       "cluster_main": true
     },
     {
@@ -1962,7 +1962,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261109-a98526331663",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
@@ -2344,7 +2344,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -2428,7 +2428,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261109-a98526331663",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
