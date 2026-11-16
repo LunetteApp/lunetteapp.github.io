@@ -1,6 +1,6 @@
 {
-  "content_hash": "50ad02cfe00078570f9ac8f51d4ac4bebf6f7783e7526421d407a0961a11875a",
-  "last_updated": "2026-11-16T06:47:09.795Z",
+  "content_hash": "5b8685a7e7eb1b5602c968b6e4b621e5f296ca45ef1b3b7dbfa8e881efdc932d",
+  "last_updated": "2026-11-16T07:47:26.156Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T06:00:12.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-15T10:35:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T07:45:40.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-15T14:30:04.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T07:00:52.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,45 @@
     }
   ],
   "items": [
+    {
+      "title": "First Look – The Hamilton Khaki Pilot GMT Air Zermatt, An Accessible True GMT Watch in Forged Carbon",
+      "url": "https://monochrome-watches.com/hamilton-khaki-pilot-gmt-air-zermatt-accessible-true-gmt-watch-in-forged-carbon-review-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Hamilton-Khaki-Pilot-GMT-Air-Zermatt-Forged-Carbon-Powermatic-1-1-600x237.jpg",
+      "peek_preview": "Hamilton and Air Zermatt have worked together since 2011. Over the years, the partnership has produced several dedicated watches. To mark its 15th anniversary, Hamilton introduces the Khaki Pilot GMT Air Zermatt, a rath...",
+      "categories": [
+        "Hamilton",
+        "2026",
+        "GMT Watches",
+        "Pilot Watches",
+        "Value Proposition"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T07:45:40.000Z",
+      "score_quality": 82,
+      "score_notif": 70,
+      "cluster": "20261116-13f0e3d16c70",
+      "cluster_main": true
+    },
+    {
+      "title": "Through a dealer’s lens: The extraordinary watches of Mann About Time Volume 1",
+      "url": "https://timeandtidewatches.com/mann-about-time-volume-1-recommended-reading/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/01_cover.jpg",
+      "peek_preview": "Mann About Time Volume 1 is a celebration of vintage watches, photographed and self-published by British dealer and collector Robin Mann. The post Through a dealer’s lens: The extraordinary watches of Mann About Time Vo...",
+      "categories": [
+        "Recommended Reading",
+        "vintage"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T07:00:52.000Z",
+      "score_quality": 58,
+      "score_notif": 25,
+      "cluster": "20261116-ebbd6de2dd81",
+      "cluster_main": true
+    },
     {
       "title": "Peacock Celebrates 70 Years With The Black Hole III Curved Guilloché Central Tourbillon",
       "url": "https://www.fratellowatches.com/peacock-celebrates-70-years-with-the-black-hole-iii-curved-guilloche-central-tourbillon/",
@@ -433,7 +472,7 @@
       "featured": false,
       "published_at": "2026-11-15T07:00:48.000Z",
       "score_quality": 62,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261115-68e10c00acce",
       "cluster_main": true
     },
@@ -967,7 +1006,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Who Saw This Coming? The Studio Underd0g 04Series Calendar",
@@ -1058,7 +1097,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Zenith G.F.J. Calibre 135 Double-Signed with J.N. Shapiro—A Swiss Observatory Legend Gets an American Makeover",
@@ -1434,28 +1473,6 @@
       "score_notif": 29,
       "cluster": "20261112-53dc4a4b440f",
       "cluster_main": true
-    },
-    {
-      "title": "First Look – The Zenith G.F.J. Calibre 135 Double Signed J.N. Shapiro, American Artistry Meets Swiss Chronometry",
-      "url": "https://monochrome-watches.com/zenith-gfj-calibre-135-double-signed-with-jn-shapiro-guilloche-dial-by-american-independent-watchmaker-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Zenith-GFJ-Calibre-135-Double-Signed-JN-Shapiro-Guilloche-Dial-review-10-600x237.jpg",
-      "peek_preview": "Zenith’s G.F.J. collection is home to one of the manufacture’s most celebrated movements and is becoming an interesting platform for creative collaborations, bringing together independent watchmakers and craftspeople. F...",
-      "categories": [
-        "J.N. Shapiro Watches",
-        "Zenith",
-        "2026",
-        "High-end Watches",
-        "Independent Watchmaking",
-        "Novelty"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T18:01:22.000Z",
-      "score_quality": 86,
-      "score_notif": 34,
-      "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
     },
     {
       "title": "Zenith’s legendary Calibre 135 gets an American makeover courtesy of J.N. Shapiro",
@@ -1922,7 +1939,7 @@
       "published_at": "2026-11-11T17:21:52.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261107-0ca26117a9b9",
+      "cluster": "20261111-b3fa1305f822",
       "cluster_main": true
     },
     {
@@ -2327,25 +2344,6 @@
       "cluster_main": true
     },
     {
-      "title": "145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour",
-      "url": "https://timeandtidewatches.com/seiko-145th-anniversary-in-sydney-events/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/seiko-145th-anniversary-event-sydney-featured-image.webp",
-      "peek_preview": "Seiko celebrates its 145th anniversary in Sydney with collectors, exclusive timepieces, and exciting news from the world of Prospex. The post 145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour a...",
-      "categories": [
-        "Events",
-        "meta:short",
-        "Seiko"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T07:00:08.000Z",
-      "score_quality": 47,
-      "score_notif": 34,
-      "cluster": "20261110-dbf369b2983e",
-      "cluster_main": true
-    },
-    {
       "title": "Omega Seamaster Diver 300M, du bleu jusqu’aux cornes et du brun rehaussé d’or",
       "url": "https://www.welovewatches.fr/omega-seamaster-diver-300m-du-bleu-jusquaux-cornes-et-du-brun-rehausse-dor.html",
       "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/omega_seamaster_diver_300m_ceramique_une_1940x1280.jpg",
@@ -2407,8 +2405,8 @@
       "published_at": "2026-11-09T17:05:12.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster": "20261109-1f5e5c348ff7",
+      "cluster_main": true
     },
     {
       "title": "GPHG 2026 : Rexhep Rexhepi décroche l’Aiguille d’Or, voici le palmarès complet",
@@ -2424,8 +2422,8 @@
       "published_at": "2026-11-09T15:22:48.000Z",
       "score_quality": 69,
       "score_notif": 34,
-      "cluster": "20261107-0ca26117a9b9",
-      "cluster_main": false
+      "cluster": "20261109-a98526331663",
+      "cluster_main": true
     },
     {
       "title": "New Release: Yema Senans Grande Lune Limited-Edition Watch",
