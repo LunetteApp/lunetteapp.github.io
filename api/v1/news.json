@@ -1,6 +1,6 @@
 {
-  "content_hash": "5b8685a7e7eb1b5602c968b6e4b621e5f296ca45ef1b3b7dbfa8e881efdc932d",
-  "last_updated": "2026-11-16T07:47:26.156Z",
+  "content_hash": "0d7a2826817b4bc4c361109ef4e0e92ae2ebd5a0a99cdb83e2c182d8bf1f890d",
+  "last_updated": "2026-11-16T08:47:35.711Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T07:45:40.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-15T20:00:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-16T08:01:03.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-16T07:00:52.000Z"
     },
     {
@@ -175,6 +175,28 @@
     }
   ],
   "items": [
+    {
+      "title": "Actually Affordable: Nordic Marine Instruments Havørn Dress Watch",
+      "url": "https://www.ablogtowatch.com/actually-affordable-nordic-marine-instruments-havorn-dress-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Nordic-Marine-Instruments-Havorn-Dress-Watch-FEATURE-768x346.jpg",
+      "peek_preview": "I’m fundamentally a fan of rectangular dress watches. Since I only wear a suit on a handful of occasions each year though, I simply can’t do the necessary mental gymnastics to convince myself to pay thousands of dollars...",
+      "categories": [
+        "Featured Articles",
+        "Actually Affordable",
+        "Dress Watches",
+        "Quartz Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Under $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-16T08:01:03.000Z",
+      "score_quality": 70,
+      "score_notif": 60,
+      "cluster": "20261116-90348e4a4bbe",
+      "cluster_main": true
+    },
     {
       "title": "First Look – The Hamilton Khaki Pilot GMT Air Zermatt, An Accessible True GMT Watch in Forged Carbon",
       "url": "https://monochrome-watches.com/hamilton-khaki-pilot-gmt-air-zermatt-accessible-true-gmt-watch-in-forged-carbon-review-price/",
@@ -453,7 +475,7 @@
       "featured": false,
       "published_at": "2026-11-15T08:01:21.000Z",
       "score_quality": 78,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261115-adf75c11c6aa",
       "cluster_main": true
     },
@@ -1006,7 +1028,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Who Saw This Coming? The Studio Underd0g 04Series Calendar",
@@ -1097,7 +1119,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Zenith G.F.J. Calibre 135 Double-Signed with J.N. Shapiro—A Swiss Observatory Legend Gets an American Makeover",
@@ -1660,7 +1682,7 @@
       "score_quality": 72,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
@@ -1878,7 +1900,7 @@
       "published_at": "2026-11-11T20:09:29.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261111-8637a895d67f",
+      "cluster": "20261110-363f7e237b54",
       "cluster_main": true
     },
     {
@@ -1939,8 +1961,8 @@
       "published_at": "2026-11-11T17:21:52.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261111-b3fa1305f822",
-      "cluster_main": true
+      "cluster": "20261109-a98526331663",
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
@@ -2125,7 +2147,7 @@
       "score_quality": 70,
       "score_notif": 31,
       "cluster": "20261107-accf94097850",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "AnOrdain Watches Review: Handcrafted Enamel Dials From Scotland",
@@ -2322,7 +2344,7 @@
       "score_quality": 35,
       "score_notif": 34,
       "cluster": "20261110-363f7e237b54",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Venezianico Nereide Opale Blu Decorative Diver Watch Review",
@@ -2405,7 +2427,7 @@
       "published_at": "2026-11-09T17:05:12.000Z",
       "score_quality": 74,
       "score_notif": 34,
-      "cluster": "20261109-1f5e5c348ff7",
+      "cluster": "20261109-a98526331663",
       "cluster_main": true
     },
     {
@@ -2423,26 +2445,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261109-a98526331663",
-      "cluster_main": true
-    },
-    {
-      "title": "New Release: Yema Senans Grande Lune Limited-Edition Watch",
-      "url": "https://www.ablogtowatch.com/new-release-yema-senans-grande-lune-limited-edition-watch/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Yema-Senans-Grande-Lune-Limited-Edition-LOR-Crop-1-768x346.jpg",
-      "peek_preview": "Although the brand is perhaps best known for its affordable, proudly French takes on midcentury sports watches, Yema is capable of genuinely excellent horology. Its Morteau-based factory has become a hotbed for French m...",
-      "categories": [
-        "Watch Releases",
-        "Moonphase Watches",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-09T15:00:30.000Z",
-      "score_quality": 57,
-      "score_notif": 24,
-      "cluster": "20261109-4ff5196f8dd9",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
