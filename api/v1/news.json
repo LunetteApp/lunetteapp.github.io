@@ -1,6 +1,6 @@
 {
-  "content_hash": "8eed0644aea9a41add71c616115c5f1e11be4d39c7627d6ee890d7ebc1d51e50",
-  "last_updated": "2026-11-16T23:45:48.471Z",
+  "content_hash": "521ed8364b99ab557cde87ce380de8263258de023325be76b829969a55080c59",
+  "last_updated": "2026-11-17T00:47:58.967Z",
   "premium": {
     "links": []
   },
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-16T03:00:57.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-17T00:00:44.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "シチズン プロマスターに米国海軍のアクロバット飛行隊「ブルーエンジェルス」モデルが登場！",
+      "url": "https://www.webchronos.net/news/178982/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/CT_1.webp",
+      "peek_preview": "シチズン プロマスター 「SKY」シリーズより、アメリカ海軍所属のアクロバット飛行隊「ブルーエンジェルス」をモチーフとした新作「CA4667-53L」が発表された。ブルーとイエローを組み合わせたカラーリングに加え、航空計 […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-17T00:00:44.000Z",
+      "score_quality": 60,
+      "score_notif": 64,
+      "cluster": "20261117-85248b5dbff7",
+      "cluster_main": true
+    },
     {
       "title": "Richemont Halbjahreszahlen 2026-2027: Starke Bilanz, nervöse Börse",
       "url": "https://www.uhrenkosmos.com/richemont-halbjahreszahlen-2026-2027-im-plus/",
@@ -442,7 +457,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-62ab3e38e5e1",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Interview – Christian Knoop and Alexia Genta on Gérald Genta’s Legacy and the Rebirth of the IWC Ingenieur",
@@ -604,7 +619,7 @@
       "featured": false,
       "published_at": "2026-11-16T00:00:47.000Z",
       "score_quality": 58,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261116-b2903854692a",
       "cluster_main": true
     },
@@ -1443,7 +1458,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: March LA.B Mansart Small Second",
@@ -1733,7 +1748,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
@@ -2049,21 +2064,6 @@
       "cluster_main": true
     },
     {
-      "title": "ルイ・エラールがヴィアネイ・ハルターとのコラボレーションモデル「フュチュール・アンテリウール」を発表",
-      "url": "https://www.webchronos.net/news/178251/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/LE_1.webp",
-      "peek_preview": "ルイ・エラールが、独立時計師ヴィアネイ・ハルターとのコラボレーションによる新作「フュチュール・アンテリウール」を発表した。ハルターの代表作「アンティクア」に着想を得た本作は、独立したふたつのダイアルと、それぞれに専用の自 […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-12T00:00:54.000Z",
-      "score_quality": 55,
-      "score_notif": 34,
-      "cluster": "20261112-131c4164e2e7",
-      "cluster_main": true
-    },
-    {
       "title": "The Seiko H601-5480 “Upside-Down Arnie:” A Twist on the Legendary Silver Screen Seiko",
       "url": "https://wornandwound.com/the-seiko-h601-5480-upside-down-arnie-a-twist-on-the-legendary-silver-screen-seiko/",
       "image": "https://wornandwound.com/library/uploads/2026/11/Seiko-Upside-Down-Arnie-3.jpg",
@@ -2125,7 +2125,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261111-62ab3e38e5e1",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-Shock Updates the Compact \"CasiOak\" in Monochromatic Black and Brown",
