@@ -1,6 +1,6 @@
 {
-  "content_hash": "3489423681b214aff45528b0849a9d83fd72b92e8a5ba06bc016e9b1010e1b0f",
-  "last_updated": "2026-11-17T16:47:59.237Z",
+  "content_hash": "a86eb2159672f102a5e2b87578c9a3b17ac8ce66fdf236fbc11ba22bd4fb9c9f",
+  "last_updated": "2026-11-17T17:47:51.944Z",
   "premium": {
     "links": []
   },
@@ -9,21 +9,21 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-17T16:00:58.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-17T15:00:46.000Z"
+      "estimated_articles_per_day": 1.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-17T17:00:56.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-17T16:01:43.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-17T16:38:11.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-17T16:03:32.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Wind Vintage Launches their First Book, Vintage Watches: the Modern Guide",
+      "url": "https://wornandwound.com/wind-vintage-launches-their-first-book-vintage-watches-the-modern-guide/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Vintage-watches-banner.jpg",
+      "peek_preview": "Eric Wind has a lot of titles these days. He is of course a watch dealer extraordinaire, the proprietor of Wind Vintage, one of the most trusted names in vintage watches. He’s lent his name several releases collaboratio...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-17T17:00:56.000Z",
+      "score_quality": 74,
+      "score_notif": 27,
+      "cluster": "20261113-ed3f2f4a0939",
+      "cluster_main": true
+    },
     {
       "title": "Konstantin Chaykin Brand Review: Wild Horological Creativity From Russia",
       "url": "https://teddybaldassarre.com/blogs/watches/konstantin-chaykin-brand-review",
@@ -253,7 +270,7 @@
       "featured": false,
       "published_at": "2026-11-17T16:00:58.000Z",
       "score_quality": 67,
-      "score_notif": 24,
+      "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
       "cluster_main": false
     },
@@ -761,7 +778,7 @@
       "featured": false,
       "published_at": "2026-11-16T17:00:22.000Z",
       "score_quality": 81,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261116-5c39dc5c4bb3",
       "cluster_main": true
     },
@@ -1547,7 +1564,7 @@
       "score_quality": 87,
       "score_notif": 30,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ノモス グラスヒュッテが「タンジェント ネオマティック アップデイト」に直径38.5mmの新サイズを追加",
@@ -1653,9 +1670,9 @@
       "featured": false,
       "published_at": "2026-11-13T18:00:00.000Z",
       "score_quality": 74,
-      "score_notif": 24,
+      "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "News: Vacheron Constantin Concours d'Élégance Horlogère Crowns Seven Winners—and a Best of Show Minute Repeater",
@@ -1812,8 +1829,8 @@
       "published_at": "2026-11-13T13:30:00.000Z",
       "score_quality": 78,
       "score_notif": 34,
-      "cluster": "20261113-84b0e4aa7443",
-      "cluster_main": true
+      "cluster": "20261112-8ee586aa6e78",
+      "cluster_main": false
     },
     {
       "title": "Geneva Journal: You Could Trip Over a Journe",
@@ -2284,25 +2301,6 @@
       "cluster_main": false
     },
     {
-      "title": "The Seiko H601-5480 “Upside-Down Arnie:” A Twist on the Legendary Silver Screen Seiko",
-      "url": "https://wornandwound.com/the-seiko-h601-5480-upside-down-arnie-a-twist-on-the-legendary-silver-screen-seiko/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Seiko-Upside-Down-Arnie-3.jpg",
-      "peek_preview": "I was never one for weightlifting until I saw Arnold Schwarzenegger pull off the Seiko H558-5009 in Commando. I used to own a Seiko SNJ025 Arnie Reissue some years ago when they first came out, but quickly sold it after...",
-      "categories": [
-        "Featured",
-        "seiko",
-        "vintage"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-11T21:00:08.000Z",
-      "score_quality": 72,
-      "score_notif": 26,
-      "cluster": "20261111-d8f10cdf3aca",
-      "cluster_main": true
-    },
-    {
       "title": "203 milioni in 72 ore: le aste di Ginevra entrano nella storia",
       "url": "https://italianwatchspotter.com/aste-orologi-ginevra-2026-203-milioni/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/image-61-1024x640.png",
@@ -2469,7 +2467,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: MB&F LM101 Gabriel Colliard—Three Enamel Jungles in Platinum",
