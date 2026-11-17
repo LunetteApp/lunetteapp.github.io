@@ -1,6 +1,6 @@
 {
-  "content_hash": "e66d9ae02721ca7610175204692612e552fc476e3f43d84ae71c141ef89288e4",
-  "last_updated": "2026-11-17T18:48:45.227Z",
+  "content_hash": "dcbcd6d441b325fcd7365bb13f07de2da3b5ba08abb7ca12e9bfab503ea7ef2c",
+  "last_updated": "2026-11-17T20:47:50.477Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-17T17:00:56.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-17T20:00:41.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-17T18:00:09.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Timex Launches New Divers in the Deepwater Collection",
+      "url": "https://wornandwound.com/timex-launches-new-divers-in-the-deepwater-collection/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Deepwater-Arctic-49.jpg",
+      "peek_preview": "Long gone are the days where Timex is seen as simply a “starter” watch brand. Sure, the Weekender and Indiglo names are still serious values in horology that get many new folks into the hobby—I still love and regularly...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-17T20:00:41.000Z",
+      "score_quality": 61,
+      "score_notif": 66,
+      "cluster": "20261117-c8a50226625f",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Union Glashütte Goes Square and Integrated with the Averin Date",
       "url": "https://monochrome-watches.com/union-glashutte-union-glashutte-square-integrated-steel-sports-watch-introducing-price/",
@@ -688,7 +705,7 @@
       "featured": false,
       "published_at": "2026-11-16T20:42:16.000Z",
       "score_quality": 82,
-      "score_notif": 80,
+      "score_notif": 34,
       "cluster": "20261116-f0812a8af2be",
       "cluster_main": true
     },
@@ -725,7 +742,7 @@
       "featured": false,
       "published_at": "2026-11-16T20:00:26.000Z",
       "score_quality": 81,
-      "score_notif": 52,
+      "score_notif": 34,
       "cluster": "20261116-f718d22800af",
       "cluster_main": true
     },
@@ -778,8 +795,8 @@
       "published_at": "2026-11-16T17:30:47.000Z",
       "score_quality": 48,
       "score_notif": 34,
-      "cluster": "20261112-c43737b785e6",
-      "cluster_main": false
+      "cluster": "20261116-f2d7a84bea42",
+      "cluster_main": true
     },
     {
       "title": "Hands-on – Time+Tide’s Cool TAG Heuer Aquaracer Professional 300 Sundowner II",
@@ -1831,7 +1848,7 @@
       "published_at": "2026-11-13T13:30:00.000Z",
       "score_quality": 78,
       "score_notif": 34,
-      "cluster": "20261112-8ee586aa6e78",
+      "cluster": "20261113-84b0e4aa7443",
       "cluster_main": true
     },
     {
@@ -2180,25 +2197,6 @@
       "cluster_main": true
     },
     {
-      "title": "Christopher Ward and Mr. Jones Launch the New C1 Bel Canto Lucia",
-      "url": "https://wornandwound.com/christopher-ward-and-mr-jones-launch-the-new-c1-bel-canto-lucia/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/2026_11_MJWxCW_BelCanto_005_WR.jpg",
-      "peek_preview": "When Christopher Ward introduced the C1 Bel Canto in 2022, it threw us all for a loop. A chiming watch from Christopher Ward was not something that most collectors had on their bingo card. That includes, I think, the br...",
-      "categories": [
-        "Featured",
-        "Christopher Ward",
-        "Mr Jones"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T10:00:10.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261112-c43737b785e6",
-      "cluster_main": true
-    },
-    {
       "title": "Hands-On: Shinola Duck Automatic Watch Brings Value With A Japanese Movement",
       "url": "https://www.ablogtowatch.com/hands-on-shinola-duck-automatic-watch-brings-value-with-a-japanese-movement/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/10/Shinola-Duck-Automatic-Watch-768x346.jpg",
@@ -2258,7 +2256,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261112-8ee586aa6e78",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands On: Petermann Bédat Reference 2914 Monopusher Chronograph",
