@@ -1,6 +1,6 @@
 {
-  "content_hash": "dcbcd6d441b325fcd7365bb13f07de2da3b5ba08abb7ca12e9bfab503ea7ef2c",
-  "last_updated": "2026-11-17T20:47:50.477Z",
+  "content_hash": "3cc6ce7931470904874db50061df77c9553ff25986e96f3a8e47108a213cb290",
+  "last_updated": "2026-11-17T22:48:38.904Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-17T20:00:41.000Z"
     },
     {
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-17T16:03:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-17T22:00:16.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -176,6 +176,32 @@
   ],
   "items": [
     {
+      "title": "Biver AB: il primo orologio in acciaio di Jean-Claude Biver",
+      "url": "https://italianwatchspotter.com/biver-ab-primo-orologio-acciaio/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/8-Biver-AB-1024x819.jpg",
+      "peek_preview": "La richiesta era arrivata direttamente dai collezionisti: realizzare un Biver in acciaio. Pierre e Jean-Claude Biver avrebbero potuto limitarsi a reinterpretare l’Automatique, ma hanno preferito sviluppare un progetto c...",
+      "categories": [
+        "Nuovi Orologi 2026",
+        "Alta Orologeria",
+        "Biver",
+        "Biver AB",
+        "JCB-004",
+        "Jean-Claude Biver",
+        "Le Cercle des Horlogers",
+        "Orologeria indipendente",
+        "Orologi in Acciaio",
+        "Pierre Biver"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-17T22:00:16.000Z",
+      "score_quality": 78,
+      "score_notif": 72,
+      "cluster": "20261117-50564bbc7b35",
+      "cluster_main": true
+    },
+    {
       "title": "Timex Launches New Divers in the Deepwater Collection",
       "url": "https://wornandwound.com/timex-launches-new-divers-in-the-deepwater-collection/",
       "image": "https://wornandwound.com/library/uploads/2026/11/Deepwater-Arctic-49.jpg",
@@ -228,7 +254,7 @@
       "score_quality": 74,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Konstantin Chaykin Brand Review: Wild Horological Creativity From Russia",
@@ -310,7 +336,7 @@
       "score_quality": 67,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Angelus Chronograph Tachymètre: il fascino dei cronografi d’epoca in tre nuove versioni",
@@ -2468,23 +2494,6 @@
       "score_notif": 30,
       "cluster": "20261111-4d5f202139c5",
       "cluster_main": false
-    },
-    {
-      "title": "Introducing: MB&F LM101 Gabriel Colliard—Three Enamel Jungles in Platinum",
-      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-lm101-gabriel-colliard-enamel-jungles",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794352839606-BSOEQXAX9JE07TFTPIQR/MBandF_LM101_Gabriel_Colliard_cloisonne_enamel_jungle_trilogy_2.jpg?format=1500w",
-      "peek_preview": "MB&F has invited independent enameller Gabriel Colliard to reinterpret the Legacy Machine 101, resulting in its newest Performance Art piece. MB&F didn’t simply hand Colliard a finished dial to decorate. It adapted elem...",
-      "categories": [
-        "MB&F"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T23:35:18.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261110-11f6a686bed0",
-      "cluster_main": true
     }
   ]
 }
