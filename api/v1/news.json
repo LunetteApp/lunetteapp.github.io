@@ -1,6 +1,6 @@
 {
-  "content_hash": "a86eb2159672f102a5e2b87578c9a3b17ac8ce66fdf236fbc11ba22bd4fb9c9f",
-  "last_updated": "2026-11-17T17:47:51.944Z",
+  "content_hash": "e66d9ae02721ca7610175204692612e552fc476e3f43d84ae71c141ef89288e4",
+  "last_updated": "2026-11-17T18:48:45.227Z",
   "premium": {
     "links": []
   },
@@ -16,15 +16,15 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-17T17:00:56.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-17T16:01:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-17T18:00:09.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -175,6 +175,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – Union Glashütte Goes Square and Integrated with the Averin Date",
+      "url": "https://monochrome-watches.com/union-glashutte-union-glashutte-square-integrated-steel-sports-watch-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Union-Glashutte-Averin-Date-Collection-Square-integrated-sports-watch-9-600x237.jpg",
+      "peek_preview": "Since its introduction in 2008, the Averin collection‘s square design has been a distinctive part of Union Glashütte‘s contemporary watchmaking portfolio, up to a comprehensive update in 2024. Until now, the Averin has...",
+      "categories": [
+        "Union Glashütte",
+        "2026",
+        "Luxury watch",
+        "Novelty",
+        "Sports watch"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-17T18:00:09.000Z",
+      "score_quality": 76,
+      "score_notif": 62,
+      "cluster": "20261117-e6c99f68b429",
+      "cluster_main": true
+    },
     {
       "title": "Wind Vintage Launches their First Book, Vintage Watches: the Modern Guide",
       "url": "https://wornandwound.com/wind-vintage-launches-their-first-book-vintage-watches-the-modern-guide/",
@@ -503,7 +524,7 @@
       "score_quality": 80,
       "score_notif": 67,
       "cluster": "20261117-a75c19233164",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Arnold & Son Time Pyramid 42.5 Agate Editions (Live Pics)",
@@ -518,7 +539,7 @@
       "score_quality": 85,
       "score_notif": 67,
       "cluster": "20261117-a75c19233164",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Benrus Type 3X Watch Review: An Unsteady Brand Finally Blows Me Away",
@@ -1341,25 +1362,6 @@
       "cluster_main": true
     },
     {
-      "title": "The ABCs of Time – Dial Styles, History and Evolution of a Watch’s Crucial Part",
-      "url": "https://monochrome-watches.com/dial-styles-history-and-evolution-of-a-watchs-crucial-part-abcs-of-time/",
-      "image": "https://monochrome-watches.com/app/uploads/2021/05/Grand-Seiko-SLGH005-White-Birch-Hi-Beat-Caliber-9SA5-review-2-600x237.jpg",
-      "peek_preview": "Following our ABCs of Time article on dial materials, as well as a story dedicated to sector dials, we’re now shifting focus to dial styles throughout history, which echo many design eras like Art Nouveau, Art Deco and...",
-      "categories": [
-        "Watch Info",
-        "2026",
-        "The ABCs of Time"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-14T15:00:55.000Z",
-      "score_quality": 78,
-      "score_notif": 26,
-      "cluster": "20261114-7cd54bdd0d5e",
-      "cluster_main": true
-    },
-    {
       "title": "New releases from Vacheron Constantin, Petermann Bedat, Ming and more",
       "url": "https://timeandtidewatches.com/vacheron-constantin-petermann-bedat-ming-last-week-in-watches/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/ming-web.jpg",
@@ -1657,7 +1659,7 @@
       "score_quality": 82,
       "score_notif": 30,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Recommended Reading: \"Vintage Watches: The Modern Guide\" Goes Beyond Pretty Pictures To Help You Be A Better Collector",
@@ -1690,7 +1692,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Trilobe Une Folle Journée Gen Two—A New Case and Three Colors",
@@ -1830,7 +1832,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261112-8ee586aa6e78",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Geneva Journal: You Could Trip Over a Journe",
@@ -2256,7 +2258,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261112-8ee586aa6e78",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands On: Petermann Bédat Reference 2914 Monopusher Chronograph",
