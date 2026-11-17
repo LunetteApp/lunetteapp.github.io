@@ -2774,6 +2774,26 @@
       "marketing": true,
       "topic_reviewed": true
     },
+    "https://giornaleorologi.it/2026/11/17/watches-of-italy-7-incontri-impressioni/": {
+      "url": "https://giornaleorologi.it/2026/11/17/watches-of-italy-7-incontri-impressioni/",
+      "title": "WOI 7: incontri e impressioni",
+      "lang": "it",
+      "published_at": "2026-11-17T11:00:47.000Z",
+      "first_seen_at": "2026-11-17T11:45:42.000Z",
+      "categories": [
+        "Eventi",
+        "Adamas",
+        "Belchengruppe",
+        "Orologi Calamai",
+        "Valmeria",
+        "Watches of Italy"
+      ],
+      "event_cluster_id": "20261117-427b35af2323",
+      "event_first_published_at": "2026-11-17T11:00:47.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
     "https://italianwatchspotter.com/achim-heine-leica-intervista/": {
       "url": "https://italianwatchspotter.com/achim-heine-leica-intervista/",
       "title": "Il filo invisibile che lega fotografia e orologeria, con Achim Heine Head of Design di Leica",
@@ -6714,7 +6734,8 @@
       "event_first_published_at": "2026-11-17T10:01:06.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "off_topic": true
     },
     "https://monochrome-watches.com/japanese-artist-takashi-murakami-launches-own-watch-brand-time-objects-skull-flowers-cylindrical-jumping-hours-tourbillon-introducing-price/": {
       "url": "https://monochrome-watches.com/japanese-artist-takashi-murakami-launches-own-watch-brand-time-objects-skull-flowers-cylindrical-jumping-hours-tourbillon-introducing-price/",
@@ -11461,6 +11482,23 @@
       "first_seen_at": "2026-08-18T08:45:46.000Z",
       "scoring_pending": false,
       "clustering_pending": false
+    },
+    "https://timeandtidewatches.com/from-melbourne-to-manhattan-the-tag-heuer-x-timetide-sundowner-ii-launches-across-three-continents/": {
+      "url": "https://timeandtidewatches.com/from-melbourne-to-manhattan-the-tag-heuer-x-timetide-sundowner-ii-launches-across-three-continents/",
+      "title": "From Melbourne to Manhattan: The TAG Heuer x Time+Tide Sundowner II launches across three continents",
+      "lang": "en",
+      "published_at": "2026-11-17T11:00:58.000Z",
+      "first_seen_at": "2026-11-17T11:45:42.000Z",
+      "categories": [
+        "Events",
+        "Time+Tide Shop"
+      ],
+      "event_cluster_id": "20261117-019ec3434618",
+      "event_first_published_at": "2026-11-17T11:00:58.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "marketing": true,
+      "topic_reviewed": true
     },
     "https://timeandtidewatches.com/furlan-marri-songlines-editions-time-tide-studio-edition-video/": {
       "url": "https://timeandtidewatches.com/furlan-marri-songlines-editions-time-tide-studio-edition-video/",
@@ -36801,8 +36839,8 @@
       "categories": [
         "MB&F"
       ],
-      "event_cluster_id": "20261110-f1383d436400",
-      "event_first_published_at": "2026-11-10T13:00:00.000Z",
+      "event_cluster_id": "20261110-11f6a686bed0",
+      "event_first_published_at": "2026-11-10T23:35:18.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
       "topic_reviewed": true
