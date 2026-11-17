@@ -1,6 +1,6 @@
 {
-  "content_hash": "c6cd0d6e2be244605f2789c31be0b8ccb7bd17cd29eb33144337015c0e82e72c",
-  "last_updated": "2026-11-17T11:48:08.657Z",
+  "content_hash": "6bd86b59b764d44ed6fa357f7a37a799b8b1b226ea6ad3213e8e6808d6c92c7f",
+  "last_updated": "2026-11-17T12:47:41.267Z",
   "premium": {
     "links": []
   },
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-17T11:00:58.000Z"
+      "latest_article_at": "2026-11-17T12:01:34.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-17T11:00:47.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "It will be impossible not to want a vintage Movado after watching this…",
+      "url": "https://timeandtidewatches.com/vintage-movado-watches-explored-in-depth-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/vintage-movado-watches-in-depth-61.jpg",
+      "peek_preview": "A table of vintage pieces, laid out chronologically in the Movado archive room, proved just how much the brand is more than the Museum. The post It will be impossible not to want a vintage Movado after watching this… ap...",
+      "categories": [
+        "Video"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-17T12:01:34.000Z",
+      "score_quality": 30,
+      "score_notif": 16,
+      "cluster": "20261117-b55a2f173bab",
+      "cluster_main": true
+    },
     {
       "title": "WOI 7: incontri e impressioni",
       "url": "https://giornaleorologi.it/2026/11/17/watches-of-italy-7-incontri-impressioni/",
@@ -1218,7 +1235,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261110-1570288cfcaf",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: The 04Series Watches Are Something Entirely Different For Studio Underd0g",
@@ -2440,6 +2457,23 @@
       "score_quality": 57,
       "score_notif": 34,
       "cluster": "20261110-551c45b44483",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: Vacheron Constantin FiftySix Complete Calendar and Self-Winding—Two-Tone Grey Dials and Exclusive Live Pictures",
+      "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-fiftysix-complete-calendar-and-self-winding-two-tone-grey-dials-live-pictures",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794318268607-HSBEWSBXB6DD8DRTW9HI/Vacheron+Constantin+FiftySix+Complete+Calendar+and+Self-Winding-2.jpg?format=1500w",
+      "peek_preview": "Vacheron Constantin is giving two pillars of its FiftySix collection a fresh look. The new FiftySix Self-Winding ref. 4600E/000A-H177 and FiftySix Complete Calendar ref. 4000E/000A-H178 both come in stainless steel with...",
+      "categories": [
+        "Vacheron Constantin"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T14:06:22.000Z",
+      "score_quality": 86,
+      "score_notif": 34,
+      "cluster": "20261110-1570288cfcaf",
       "cluster_main": true
     }
   ]
