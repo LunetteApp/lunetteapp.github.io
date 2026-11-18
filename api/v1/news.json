@@ -1,6 +1,6 @@
 {
-  "content_hash": "2d76207cbaee8571c65b33885fc7566101c23e5529e9a4c76f9e6b6ce140ea1d",
-  "last_updated": "2026-11-18T18:48:13.155Z",
+  "content_hash": "48b4e5cf3985cdc45c0917061e17f2f4efc65a6a2b4c4110da678f4e0f80bac2",
+  "last_updated": "2026-11-18T19:48:34.048Z",
   "premium": {
     "links": []
   },
@@ -37,8 +37,8 @@
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T11:30:56.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T19:02:43.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T18:00:00.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Guess which watch sold for more",
+      "url": "https://www.unpolishedwatches.com/p/guess-which-watch-sold-for-more",
+      "image": "https://substackcdn.com/image/fetch/$s_!R3ZD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7225f86f-9620-49c9-9d52-ba771074de46_1080x720.jpeg",
+      "peek_preview": "Patek Philippe, Journe, Rolex, Pinaud, and Urban Jürgensen—head-to-head comparisons of six pairs across Geneva.",
+      "categories": [],
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-18T19:02:43.000Z",
+      "score_quality": 31,
+      "score_notif": 45,
+      "cluster": "20261118-3153733e65bd",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: Hublot Brings Denim Back To The Big Bang Collection",
       "url": "https://www.hodinkee.com/articles/hublot-brings-denim-to-the-big-bang-collection",
@@ -967,7 +982,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261117-a75c19233164",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Arnold & Son Time Pyramid 42.5 Agate Editions (Live Pics)",
@@ -982,7 +997,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261117-a75c19233164",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Benrus Type 3X Watch Review: An Unsteady Brand Finally Blows Me Away",
@@ -1237,7 +1252,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261116-a2f22814b73b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Blancpain Ladybird Colors Zodiaque—A New Zodiac Calendar Complication",
@@ -1351,7 +1366,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261116-a2f22814b73b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Actually Affordable: Nordic Marine Instruments Havørn Dress Watch",
@@ -2457,24 +2472,6 @@
       "score_notif": 28,
       "cluster": "20261111-b3fa1305f822",
       "cluster_main": true
-    },
-    {
-      "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
-      "url": "https://www.perpetualpassion.com/2026/11/11/vacheron-constantin-concours-elegance-2026-vincitori/",
-      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/11/CDE_Deliberation_13.jpg",
-      "peek_preview": "Il Vacheron Constantin Concours d’Élégance Horlogère 2026 ha annunciato i suoi vincitori il 10 novembre a Ginevra: sette [...] L'articolo Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione p...",
-      "categories": [
-        "Vacheron Constantin",
-        "home"
-      ],
-      "source_name": "Perpetual Passion",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-11T12:48:19.000Z",
-      "score_quality": 56,
-      "score_notif": 30,
-      "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
     }
   ]
 }
