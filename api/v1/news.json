@@ -1,6 +1,6 @@
 {
-  "content_hash": "f71e6aeb4b72fcb7d07acfb94d61017f73e7c502185543629abcca7920afb1dc",
-  "last_updated": "2026-11-18T14:47:34.287Z",
+  "content_hash": "c21229f771f14eac48a45df6d00e21a3209678bf21c5d53e717aae848eb25463",
+  "last_updated": "2026-11-18T15:48:00.469Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T14:01:19.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-18T08:01:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T15:00:15.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T13:00:41.000Z"
     },
@@ -568,7 +568,7 @@
       "score_quality": 74,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Konstantin Chaykin Brand Review: Wild Horological Creativity From Russia",
@@ -650,7 +650,7 @@
       "score_quality": 67,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Angelus Chronograph Tachymètre: il fascino dei cronografi d’epoca in tre nuove versioni",
@@ -668,7 +668,7 @@
       "featured": false,
       "published_at": "2026-11-17T15:38:20.000Z",
       "score_quality": 56,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261117-36e251e5d07e",
       "cluster_main": true
     },
@@ -799,7 +799,7 @@
       "published_at": "2026-11-17T11:00:47.000Z",
       "score_quality": 50,
       "score_notif": 32,
-      "cluster": "20261114-850372673b6b",
+      "cluster": "20261117-427b35af2323",
       "cluster_main": true
     },
     {
@@ -1738,7 +1738,7 @@
       "score_quality": 36,
       "score_notif": 32,
       "cluster": "20261114-850372673b6b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Nubeo Tranquility Automatic Star Trek 60th Anniversary Watch Is A Bold Tribute To The Final Frontier",
@@ -2447,35 +2447,6 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261111-1bc92802c146",
-      "cluster_main": true
-    },
-    {
-      "title": "GPHG 2026: Die 20 Gewinner des Grand Prix d’Horlogerie de Genève",
-      "url": "https://www.uhrenkosmos.com/gphg-2026-die-gewinner-in-allen-kategorien/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/GPHG-2026-Grand-Prix-dHorlogerie-de-Geneve-mit-den-Aiguille-dOr-Gewinnern-REXHEP-REXHEPI-und-OTSUKA-LOTEC.jpg",
-      "peek_preview": "Der Grand Prix d’Horlogerie de Genève 2026 hat seine Gewinner gekürt. Die begehrte Aiguille d’Or, zu Deutsch der goldene Zeiger, ging an Rexhep Rexhepi für seinen Chronograph Flyback. Doch auch Audemars Piguet, Chopard,...",
-      "categories": [
-        "Aktuell",
-        "Aktuelle Uhren",
-        "Audemars Piguet",
-        "Chopard",
-        "Grand Seiko",
-        "Marken & Macher",
-        "Parmigiani Fleurier",
-        "Patek Philippe",
-        "Piaget",
-        "Aiguille d'Or 2026",
-        "Aiguille D'Or",
-        "GPHG 2026",
-        "Grand Prix d'Horlogerie de Genève"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-11T17:21:52.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261111-b3fa1305f822",
       "cluster_main": true
     }
   ]
