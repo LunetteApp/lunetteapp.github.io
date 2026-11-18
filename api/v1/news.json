@@ -1,6 +1,6 @@
 {
-  "content_hash": "47e71a5f36610601b1cb6f338716cc7c64cfa759507fe5c3be1ba1246d1a6fe4",
-  "last_updated": "2026-11-18T03:47:24.006Z",
+  "content_hash": "4a5b8e0433f0eb3f6f00e3a563592d6d43543f88a6bfa030dc832e7b219f76ad",
+  "last_updated": "2026-11-18T04:47:51.028Z",
   "premium": {
     "links": []
   },
@@ -72,7 +72,7 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T03:00:19.000Z"
     },
     {
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T03:00:41.000Z"
     },
     {
@@ -224,7 +224,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261112-a5d0332d3a52",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ティソから韓国の俳優イ・ドンウクとの「ティソ PRX」コラボモデルが登場！",
@@ -755,7 +755,7 @@
       "featured": false,
       "published_at": "2026-11-17T04:00:20.000Z",
       "score_quality": 84,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261117-d9fdda9581a3",
       "cluster_main": true
     },
@@ -2171,7 +2171,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261112-a5d0332d3a52",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Vacheron Constantin: il primo Concours d’Élégance Horlogère e i suoi vincitori",
@@ -2469,6 +2469,23 @@
       "score_notif": 30,
       "cluster": "20261111-4d5f202139c5",
       "cluster_main": false
+    },
+    {
+      "title": "Introducing: MB&F LM101 Gabriel Colliard—Three Enamel Jungles in Platinum",
+      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-lm101-gabriel-colliard-enamel-jungles",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794352839606-BSOEQXAX9JE07TFTPIQR/MBandF_LM101_Gabriel_Colliard_cloisonne_enamel_jungle_trilogy_2.jpg?format=1500w",
+      "peek_preview": "MB&F has invited independent enameller Gabriel Colliard to reinterpret the Legacy Machine 101, resulting in its newest Performance Art piece. MB&F didn’t simply hand Colliard a finished dial to decorate. It adapted elem...",
+      "categories": [
+        "MB&F"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-10T23:35:18.000Z",
+      "score_quality": 72,
+      "score_notif": 26,
+      "cluster": "20261110-11f6a686bed0",
+      "cluster_main": true
     }
   ]
 }
