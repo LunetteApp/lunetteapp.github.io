@@ -1,6 +1,6 @@
 {
-  "content_hash": "64c3e924106c4da8c61aa7f0eb3ca8a8d2ce1e6c92fc544ab485d02e50c63852",
-  "last_updated": "2026-11-18T08:48:16.126Z",
+  "content_hash": "1ad2d4f97c90ad91e91e686e77c8a5b79b972b568a8df7b202aab7e94f9a149b",
+  "last_updated": "2026-11-18T09:47:20.675Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T08:00:47.000Z"
     },
     {
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T08:00:16.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-17T15:00:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T08:01:01.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -113,7 +113,7 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.6,
+      "estimated_articles_per_day": 0.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-17T11:00:47.000Z"
     },
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Daniel Roth Extra Plat Rose Gold Gilt Watch: Two Hands, All Elegance",
+      "url": "https://www.ablogtowatch.com/daniel-roth-extra-plat-rose-gold-gilt-watch-two-hands-all-elegance/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Daniel-Roth-Extra-Plat-Rose-Gold-Gilt-Watch-14-768x346.jpg",
+      "peek_preview": "Under the ownership of LVMH and the stewardship of its Swiss team at the La Fabrique du Temps manufacture in Geneva, the Daniel Roth brand has had a comfortable last several years after the brand’s relaunch. Guided by m...",
+      "categories": [
+        "Hands-On",
+        "Gold Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-18T08:01:01.000Z",
+      "score_quality": 77,
+      "score_notif": 68,
+      "cluster": "20261118-8bfccc45a501",
+      "cluster_main": true
+    },
     {
       "title": "Shadow Icons: The Underappreciated References — Vacheron Constantin Overseas",
       "url": "https://www.fratellowatches.com/shadow-icons-the-underappreciated-references-vacheron-constantin-overseas/",
@@ -411,7 +431,7 @@
       "score_quality": 74,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Konstantin Chaykin Brand Review: Wild Horological Creativity From Russia",
@@ -493,7 +513,7 @@
       "score_quality": 67,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Angelus Chronograph Tachymètre: il fascino dei cronografi d’epoca in tre nuove versioni",
@@ -642,7 +662,7 @@
       "published_at": "2026-11-17T11:00:47.000Z",
       "score_quality": 50,
       "score_notif": 32,
-      "cluster": "20261114-850372673b6b",
+      "cluster": "20261117-427b35af2323",
       "cluster_main": true
     },
     {
@@ -722,7 +742,7 @@
       "featured": false,
       "published_at": "2026-11-17T09:01:45.000Z",
       "score_quality": 80,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261117-a75c19233164",
       "cluster_main": false
     },
@@ -737,7 +757,7 @@
       "featured": false,
       "published_at": "2026-11-17T09:00:00.000Z",
       "score_quality": 85,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261117-a75c19233164",
       "cluster_main": true
     },
@@ -1639,7 +1659,7 @@
       "score_quality": 36,
       "score_notif": 32,
       "cluster": "20261114-850372673b6b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Nubeo Tranquility Automatic Star Trek 60th Anniversary Watch Is A Bold Tribute To The Final Frontier",
@@ -1700,7 +1720,7 @@
       "published_at": "2026-11-14T03:08:23.000Z",
       "score_quality": 87,
       "score_notif": 30,
-      "cluster": "20261111-4d5f202139c5",
+      "cluster": "20261114-8c84b530449a",
       "cluster_main": true
     },
     {
@@ -1794,7 +1814,7 @@
       "score_quality": 82,
       "score_notif": 30,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Recommended Reading: \"Vintage Watches: The Modern Guide\" Goes Beyond Pretty Pictures To Help You Be A Better Collector",
@@ -1827,7 +1847,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Trilobe Une Folle Journée Gen Two—A New Case and Three Colors",
@@ -2455,26 +2475,6 @@
       "score_notif": 34,
       "cluster": "20261111-1451a899229e",
       "cluster_main": true
-    },
-    {
-      "title": "Krayon Anywhere Magnolia – A New Métiers d’Art Edition",
-      "url": "https://deployant.com/krayon-anywhere-magnolia-a-new-metiers-dart-edition/?utm_source=rss&utm_medium=rss&utm_campaign=krayon-anywhere-magnolia-a-new-metiers-dart-edition",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/Krayon_Magnolia_Side_PinkB_LD.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Krayon presents a new artistic interpretation of its signature sunrise and sunset complication with the Anywhere Magnolia. Limited to 15 pieces in platinum, t...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "Krayon"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-11T01:00:00.000Z",
-      "score_quality": 71,
-      "score_notif": 30,
-      "cluster": "20261111-4d5f202139c5",
-      "cluster_main": false
     }
   ]
 }
