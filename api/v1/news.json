@@ -1,6 +1,6 @@
 {
-  "content_hash": "1478a1fb4694c8f03f1f914b25235be560e08eadba0aac9ab923c7020ae92daa",
-  "last_updated": "2026-11-18T10:47:14.063Z",
+  "content_hash": "d0c415b987e2533bec800367a456a26ae7e6193672aa278b06e17ab29277dd0c",
+  "last_updated": "2026-11-18T12:47:17.970Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-18T08:00:47.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T12:00:31.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T10:30:48.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On With The Peren One — The Brand’s First Chronograph And Integrated-Bracelet Watch",
+      "url": "https://www.fratellowatches.com/hands-on-peren-one/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Peren-Chronograph-1.jpg",
+      "peek_preview": "Stainless steel sports watches with an integrated bracelet are still very popular these days. That’s probably why Andy Bica, founder of Peren, decided to develop the One, which he released late last year. You can clearl...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases 2025"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-18T12:00:31.000Z",
+      "score_quality": 76,
+      "score_notif": 64,
+      "cluster": "20261118-aa1031ae54cb",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Bangalore Watch Company Epoch, a Hand-Wound Dress Watch from India",
       "url": "https://monochrome-watches.com/bangalore-watch-company-epoch-hand-wound-dress-watch-from-india-introducing-price/",
@@ -452,7 +470,7 @@
       "score_quality": 74,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Konstantin Chaykin Brand Review: Wild Horological Creativity From Russia",
@@ -1057,7 +1075,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261116-a2f22814b73b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Blancpain Ladybird Colors Zodiaque—A New Zodiac Calendar Complication",
@@ -1211,7 +1229,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261116-a2f22814b73b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Actually Affordable: Nordic Marine Instruments Havørn Dress Watch",
@@ -1251,24 +1269,6 @@
       "score_quality": 58,
       "score_notif": 25,
       "cluster": "20261116-ebbd6de2dd81",
-      "cluster_main": true
-    },
-    {
-      "title": "Peacock Celebrates 70 Years With The Black Hole III Curved Guilloché Central Tourbillon",
-      "url": "https://www.fratellowatches.com/peacock-celebrates-70-years-with-the-black-hole-iii-curved-guilloche-central-tourbillon/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Peacock-Black-Hole-Curved-Guilloche-Central-Tourbillon-10.jpg",
-      "peek_preview": "Peacock is celebrating its 70th anniversary with a pair of timepieces that treat the dial as an impressive curved stage. One of China’s longest-standing manufacturing houses, the brand places a free-sprung central tourb...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-16T06:00:12.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261116-76cc8b1baaee",
       "cluster_main": true
     },
     {
@@ -1814,7 +1814,7 @@
       "score_quality": 82,
       "score_notif": 30,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Recommended Reading: \"Vintage Watches: The Modern Guide\" Goes Beyond Pretty Pictures To Help You Be A Better Collector",
@@ -1829,7 +1829,7 @@
       "score_quality": 74,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: Vacheron Constantin Concours d'Élégance Horlogère Crowns Seven Winners—and a Best of Show Minute Repeater",
@@ -1847,7 +1847,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Trilobe Une Folle Journée Gen Two—A New Case and Three Colors",
