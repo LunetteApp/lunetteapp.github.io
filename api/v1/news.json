@@ -1,6 +1,6 @@
 {
-  "content_hash": "097daddc3e9628d14e7be43eff3bfbfe18c1f411ca063b05543eff393c28601d",
-  "last_updated": "2026-11-18T06:47:09.889Z",
+  "content_hash": "8d83701898fe586d2d9e438f71c360d6853555c008f554a707f9ec2ad0460fe4",
+  "last_updated": "2026-11-18T07:47:28.908Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T06:00:02.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-17T14:30:11.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T07:00:54.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -106,9 +106,9 @@
     {
       "source_name": "Orologi di Classe",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-14T17:55:15.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T07:05:44.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,43 @@
     }
   ],
   "items": [
+    {
+      "title": "Ho provato i Glashütte Original 70s e ora so quale comprerei (non è il nero)",
+      "url": "https://www.orologidiclasse.com/glashutte-original-70s-recensione/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/glashutte-original-70s-trio-vinyl-record-tweed-amp-stereo-panel.jpg",
+      "peek_preview": "Li avevo presentati lo scorso settembre, promettendo a chi me l’aveva domandato che sarei tornato a parlarne dopo averli provati dal vivo. Ora che ho finalmente avuto i nuovi Glashütte Original 70s al polso, posso dirti...",
+      "categories": [
+        "Recensioni Orologi",
+        "Alta Orologeria",
+        "GLASHÜTTE ORIGINAL",
+        "Sportivo"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-18T07:05:44.000Z",
+      "score_quality": 76,
+      "score_notif": 43,
+      "cluster": "20261118-f3698d25a099",
+      "cluster_main": true
+    },
+    {
+      "title": "The Sartory-Billard SB04-E Shanga puts Tanzanian glassmaking at the heart of its dial",
+      "url": "https://timeandtidewatches.com/sartory-billard-shanga-sb04-e-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/sb04-sartory-billard-shanga-featured-image.webp",
+      "peek_preview": "Recycled glass, handwritten numerals and Maasai spear-inspired hands give the SB04-E Shanga a character inseparable from the artisans who helped create it. The post The Sartory-Billard SB04-E Shanga puts Tanzanian glass...",
+      "categories": [
+        "Hands On"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-18T07:00:54.000Z",
+      "score_quality": 79,
+      "score_notif": 64,
+      "cluster": "20261118-6f7f3e67c8bd",
+      "cluster_main": true
+    },
     {
       "title": "Introducing The ArtyA Purity Curvy HMS Sapphire Sport Edition: The Bird-Of Paradise Watch",
       "url": "https://www.fratellowatches.com/introducing-the-artya-purity-curvy-hms-sapphire-sport-edition/",
@@ -718,7 +755,7 @@
       "featured": false,
       "published_at": "2026-11-17T07:30:00.000Z",
       "score_quality": 77,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261117-f43766dca8be",
       "cluster_main": true
     },
@@ -1674,7 +1711,7 @@
       "score_quality": 87,
       "score_notif": 30,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ノモス グラスヒュッテが「タンジェント ネオマティック アップデイト」に直径38.5mmの新サイズを追加",
@@ -2194,26 +2231,6 @@
       "cluster_main": false
     },
     {
-      "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
-      "url": "https://timeandtidewatches.com/anders-co-ac3-lago-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-anders-co-ac3-lago.jpg",
-      "peek_preview": "The Anders & Co AC3 Lago introduces an ultra-slim rectangular case, five colourful dials and a Miyota quartz movement at an affordable price. The post Anders & Co goes rectangular with the ultra-slim AC3 Lago appeared f...",
-      "categories": [
-        "Hands On",
-        "dress watch",
-        "quartz",
-        "rectangular watches"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T15:00:37.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261112-e866e63ada21",
-      "cluster_main": true
-    },
-    {
       "title": "Nomos Club Sport neomatik 34 all silver: Silber statt Farbe",
       "url": "https://www.uhrenkosmos.com/nomos-club-sport-neomatik-34-all-silver/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Nomos-Club-Sport-neomatik-34-all-silver-Aufmacher.jpg",
@@ -2467,24 +2484,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: MB&F LM101 Gabriel Colliard—Three Enamel Jungles in Platinum",
-      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-lm101-gabriel-colliard-enamel-jungles",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794352839606-BSOEQXAX9JE07TFTPIQR/MBandF_LM101_Gabriel_Colliard_cloisonne_enamel_jungle_trilogy_2.jpg?format=1500w",
-      "peek_preview": "MB&F has invited independent enameller Gabriel Colliard to reinterpret the Legacy Machine 101, resulting in its newest Performance Art piece. MB&F didn’t simply hand Colliard a finished dial to decorate. It adapted elem...",
-      "categories": [
-        "MB&F"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-10T23:35:18.000Z",
-      "score_quality": 72,
-      "score_notif": 26,
-      "cluster": "20261110-11f6a686bed0",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
