@@ -1,6 +1,6 @@
 {
-  "content_hash": "4a5b8e0433f0eb3f6f00e3a563592d6d43543f88a6bfa030dc832e7b219f76ad",
-  "last_updated": "2026-11-18T04:47:51.028Z",
+  "content_hash": "097daddc3e9628d14e7be43eff3bfbfe18c1f411ca063b05543eff393c28601d",
+  "last_updated": "2026-11-18T06:47:09.889Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-17T16:00:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T06:00:02.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing The ArtyA Purity Curvy HMS Sapphire Sport Edition: The Bird-Of Paradise Watch",
+      "url": "https://www.fratellowatches.com/introducing-the-artya-purity-curvy-hms-sapphire-sport-edition/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Collage-cover-ArtyA.jpg",
+      "peek_preview": "ArtyA is known for a couple of things, but two stand out — sapphire crystal and color. The Geneva-based brand has worked with clear and colored sapphire crystal for more than 15 years, developing considerable expertise...",
+      "categories": [
+        "Watch Releases"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-18T06:00:02.000Z",
+      "score_quality": 77,
+      "score_notif": 64,
+      "cluster": "20261118-24774435a493",
+      "cluster_main": true
+    },
     {
       "title": "タイメックス、高級コレクションのGMTモデルに完全新作を含む新モデルを追加",
       "url": "https://www.webchronos.net/news/179135/",
@@ -736,7 +753,7 @@
       "featured": false,
       "published_at": "2026-11-17T06:00:18.000Z",
       "score_quality": 82,
-      "score_notif": 67,
+      "score_notif": 34,
       "cluster": "20261117-1998e105da4d",
       "cluster_main": true
     },
@@ -1348,24 +1365,6 @@
       "cluster_main": true
     },
     {
-      "title": "The Casio MQ-24: Why This Humble Quartz Watch Is The Perfect Travel Companion",
-      "url": "https://www.fratellowatches.com/casio-mq-24-perfect-travel-companion/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Henry-Casio-MQ24-17.jpg",
-      "peek_preview": "Some watches earn a place in your suitcase because they’re precious. The Casio MQ-24 earns it because it isn’t. Today, I’ll explain why this humble quartz three-hander might be the ideal travel and adventure watch, and...",
-      "categories": [
-        "Watch Talk",
-        "Casio"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-15T10:00:52.000Z",
-      "score_quality": 68,
-      "score_notif": 31,
-      "cluster": "20261115-ddf2ba077f9e",
-      "cluster_main": true
-    },
-    {
       "title": "Chopard Mille Miglia Classic Chronograph American Racing Stripes Watch Hands-On",
       "url": "https://www.ablogtowatch.com/chopard-mille-miglia-classic-chronograph-american-racing-stripes-watch-hands-on/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/CHOPAR2-768x346.jpg",
@@ -1675,7 +1674,7 @@
       "score_quality": 87,
       "score_notif": 30,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ノモス グラスヒュッテが「タンジェント ネオマティック アップデイト」に直径38.5mmの新サイズを追加",
@@ -2468,7 +2467,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261111-4d5f202139c5",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: MB&F LM101 Gabriel Colliard—Three Enamel Jungles in Platinum",
