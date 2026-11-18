@@ -1,6 +1,6 @@
 {
-  "content_hash": "c21229f771f14eac48a45df6d00e21a3209678bf21c5d53e717aae848eb25463",
-  "last_updated": "2026-11-18T15:48:00.469Z",
+  "content_hash": "0224949db17a21f5ae08e253228dc770da43b7c98b68a7354828467e977d3463",
+  "last_updated": "2026-11-18T16:48:27.609Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T15:00:15.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-17T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T16:00:02.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-17T15:14:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T16:41:31.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Insider: Armin Strom Mirrored Force Resonance Blue—10 Pieces, One Florida Retailer",
+      "url": "https://www.watchcollectinglifestyle.com/home/armin-strom-mirrored-force-resonance-zeitgeist-blue-exquisite-timepieces",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795020041611-S1D3ZL26R0F6WGBHMLD3/Armin+Strom+Mirrored+Forced+Resonance+Zeitgeist+Blue+Hero.jpg?format=1500w",
+      "peek_preview": "Armin Strom has spent much of 2026 changing the color of its movements. The Mirrored Force Resonance Zeitgeist 1665 3N, which we introduced earlier this month, features a yellow-gold mainplate and bridges against a blac...",
+      "categories": [
+        "Armin Strom"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-18T16:41:31.000Z",
+      "score_quality": 63,
+      "score_notif": 58,
+      "cluster": "20261118-1c7f4c361539",
+      "cluster_main": true
+    },
+    {
+      "title": "Magazine Feature: Nothing More. Nothing Less.",
+      "url": "https://www.hodinkee.com/articles/nothing-more-nothing-less",
+      "image": "https://hodinkee.imgix.net/uploads/articles/62308b8f-d9dd-4917-9050-d75d355ad9c4/Panerai-Feature-Article-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "On Panerai, Italian industrial design, and the strange perfection of an object stripped to its essentials.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-18T16:00:02.000Z",
+      "score_quality": 57,
+      "score_notif": 24,
+      "cluster": "20261118-573d1a06bc23",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Stowa Brings Back the Full-Lume Dial with Four New Marine Models",
       "url": "https://monochrome-watches.com/stowa-marine-classic-and-marine-bronze-vintage-arabic-blue-lume-luminous-dial-introducing-price/",
@@ -568,7 +600,7 @@
       "score_quality": 74,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Konstantin Chaykin Brand Review: Wild Horological Creativity From Russia",
@@ -630,7 +662,7 @@
       "featured": false,
       "published_at": "2026-11-17T16:01:43.000Z",
       "score_quality": 83,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261117-007975d88be2",
       "cluster_main": true
     },
@@ -650,7 +682,7 @@
       "score_quality": 67,
       "score_notif": 27,
       "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Angelus Chronograph Tachymètre: il fascino dei cronografi d’epoca in tre nuove versioni",
@@ -1845,7 +1877,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Studio Underd0g Debuts First Calendar Complication With New 04SERIES",
@@ -2032,22 +2064,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: March LA.B Mansart Small Second",
-      "url": "https://www.hodinkee.com/articles/march-lab-mansart-small-second",
-      "image": "https://hodinkee.imgix.net/uploads/images/4d574a86-8875-4e99-8857-661f0fa5a915/L1030123.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The French brand mixes L.A. and Biarritz beach-and-surf culture with Parisian style with an effect straight out of the '70s.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T14:00:00.000Z",
-      "score_quality": 83,
-      "score_notif": 34,
-      "cluster": "20261113-5d2161d9e47b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Mickaël Gaspar Souscription: First Hands-On Impressions",
@@ -2155,21 +2172,6 @@
       "score_quality": 51,
       "score_notif": 24,
       "cluster": "20261113-9f8026b65c17",
-      "cluster_main": true
-    },
-    {
-      "title": "Recommended Reading: In \"Watches of Espionage: Tools of the Trade,\" Watches Of Espionage Explores Its Subject In A Whole New Format",
-      "url": "https://www.hodinkee.com/articles/in-watches-of-espionage-tools-of-the-trade-watches-of-espionage-explores-its-subject-in-a-whole-new",
-      "image": "https://hodinkee.imgix.net/uploads/articles/dbeea568-cae2-4cff-8ca1-8231745a9b41/WOE-1-green-2_8801ac2d-7793-442e-8e82-21aa33d7b909.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The online journal dedicated to telling the stories of service members, spies, and operators turns to print for a new exploration of military watches (plus, a reprint of an iconic military handbook).",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T22:00:00.000Z",
-      "score_quality": 74,
-      "score_notif": 31,
-      "cluster": "20261112-a0048262a703",
       "cluster_main": true
     },
     {
@@ -2447,6 +2449,35 @@
       "score_quality": 60,
       "score_notif": 27,
       "cluster": "20261111-1bc92802c146",
+      "cluster_main": true
+    },
+    {
+      "title": "GPHG 2026: Die 20 Gewinner des Grand Prix d’Horlogerie de Genève",
+      "url": "https://www.uhrenkosmos.com/gphg-2026-die-gewinner-in-allen-kategorien/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/GPHG-2026-Grand-Prix-dHorlogerie-de-Geneve-mit-den-Aiguille-dOr-Gewinnern-REXHEP-REXHEPI-und-OTSUKA-LOTEC.jpg",
+      "peek_preview": "Der Grand Prix d’Horlogerie de Genève 2026 hat seine Gewinner gekürt. Die begehrte Aiguille d’Or, zu Deutsch der goldene Zeiger, ging an Rexhep Rexhepi für seinen Chronograph Flyback. Doch auch Audemars Piguet, Chopard,...",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Audemars Piguet",
+        "Chopard",
+        "Grand Seiko",
+        "Marken & Macher",
+        "Parmigiani Fleurier",
+        "Patek Philippe",
+        "Piaget",
+        "Aiguille d'Or 2026",
+        "Aiguille D'Or",
+        "GPHG 2026",
+        "Grand Prix d'Horlogerie de Genève"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-11T17:21:52.000Z",
+      "score_quality": 69,
+      "score_notif": 34,
+      "cluster": "20261111-b3fa1305f822",
       "cluster_main": true
     }
   ]
