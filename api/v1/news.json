@@ -1,6 +1,6 @@
 {
-  "content_hash": "65e1f492cd14a9e2d1e3a94bffc272c09913f11b1f7b47c2ca916c9ef77ecdd8",
-  "last_updated": "2026-11-18T17:49:03.040Z",
+  "content_hash": "2d76207cbaee8571c65b33885fc7566101c23e5529e9a4c76f9e6b6ce140ea1d",
+  "last_updated": "2026-11-18T18:48:13.155Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T17:00:44.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T17:30:53.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-18T16:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-18T18:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-18T17:30:22.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Hublot Brings Denim Back To The Big Bang Collection",
+      "url": "https://www.hodinkee.com/articles/hublot-brings-denim-to-the-big-bang-collection",
+      "image": "https://hodinkee.imgix.net/uploads/articles/e83764e6-6f37-401d-88f8-ea96951e0cba/Hublot-Big-Bang-HERO.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The Big Bang has always made a statement. Now, it's joining Hublot's permanent collection in denim.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-18T18:00:00.000Z",
+      "score_quality": 72,
+      "score_notif": 63,
+      "cluster": "20261118-21497bdc04e8",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – A Seconds Hand That Slows, Stops, Runs Backwards, Races Fast, but is Never Late… by Algorithme du Temps",
       "url": "https://monochrome-watches.com/algorithme-du-temps-reveries-des-secondes-watch-indie-watchmaking-seconds-hand-non-linear-motion-introducing-price/",
@@ -322,7 +337,7 @@
       "score_quality": 78,
       "score_notif": 63,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot Big Bang Denim: quattro nuovi modelli tra titanio e acciaio",
@@ -620,7 +635,7 @@
       "featured": false,
       "published_at": "2026-11-17T18:00:09.000Z",
       "score_quality": 76,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261117-e6c99f68b429",
       "cluster_main": true
     },
@@ -952,7 +967,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261117-a75c19233164",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Arnold & Son Time Pyramid 42.5 Agate Editions (Live Pics)",
@@ -967,7 +982,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261117-a75c19233164",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Benrus Type 3X Watch Review: An Unsteady Brand Finally Blows Me Away",
@@ -1906,7 +1921,7 @@
       "score_quality": 73,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Dispatch: The Inaugural Vacheron Constantin Concours d'Élégance Horlogère",
@@ -2028,21 +2043,6 @@
       "score_quality": 65,
       "score_notif": 34,
       "cluster": "20261113-af88515e6a45",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Studio Underd0g 04Series Calendar",
-      "url": "https://www.hodinkee.com/articles/studio-underd0g-04series-calendar",
-      "image": "https://hodinkee.imgix.net/uploads/articles/3554d809-0119-41f5-8a87-4af0df92121f/043series-header.png?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A new collection, and the brand's first calendar complication, combines a weekend display with a retrograde pointer date.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T15:00:00.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261113-974f39464694",
       "cluster_main": true
     },
     {
@@ -2428,6 +2428,53 @@
       "score_notif": 27,
       "cluster": "20261111-1bc92802c146",
       "cluster_main": true
+    },
+    {
+      "title": "GPHG 2026: Die 20 Gewinner des Grand Prix d’Horlogerie de Genève",
+      "url": "https://www.uhrenkosmos.com/gphg-2026-die-gewinner-in-allen-kategorien/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/GPHG-2026-Grand-Prix-dHorlogerie-de-Geneve-mit-den-Aiguille-dOr-Gewinnern-REXHEP-REXHEPI-und-OTSUKA-LOTEC.jpg",
+      "peek_preview": "Der Grand Prix d’Horlogerie de Genève 2026 hat seine Gewinner gekürt. Die begehrte Aiguille d’Or, zu Deutsch der goldene Zeiger, ging an Rexhep Rexhepi für seinen Chronograph Flyback. Doch auch Audemars Piguet, Chopard,...",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Audemars Piguet",
+        "Chopard",
+        "Grand Seiko",
+        "Marken & Macher",
+        "Parmigiani Fleurier",
+        "Patek Philippe",
+        "Piaget",
+        "Aiguille d'Or 2026",
+        "Aiguille D'Or",
+        "GPHG 2026",
+        "Grand Prix d'Horlogerie de Genève"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-11T17:21:52.000Z",
+      "score_quality": 64,
+      "score_notif": 28,
+      "cluster": "20261111-b3fa1305f822",
+      "cluster_main": true
+    },
+    {
+      "title": "Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione",
+      "url": "https://www.perpetualpassion.com/2026/11/11/vacheron-constantin-concours-elegance-2026-vincitori/",
+      "image": "https://www.perpetualpassion.com/wp-content/uploads/2026/11/CDE_Deliberation_13.jpg",
+      "peek_preview": "Il Vacheron Constantin Concours d’Élégance Horlogère 2026 ha annunciato i suoi vincitori il 10 novembre a Ginevra: sette [...] L'articolo Vacheron Constantin Concours d’Élégance: tutti i vincitori della prima edizione p...",
+      "categories": [
+        "Vacheron Constantin",
+        "home"
+      ],
+      "source_name": "Perpetual Passion",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-11T12:48:19.000Z",
+      "score_quality": 56,
+      "score_notif": 30,
+      "cluster": "20261111-1f837d791e04",
+      "cluster_main": false
     }
   ]
 }
