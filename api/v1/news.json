@@ -1,6 +1,6 @@
 {
-  "content_hash": "62de706362dda77e21581cd86cc97bea76bd56c6521156dc4e4a9401333ea8fd",
-  "last_updated": "2026-11-19T12:47:57.633Z",
+  "content_hash": "ef91573cfc8869ee70617f0224bdab67eaaa9af1bb8de331068e5fda71b2aea1",
+  "last_updated": "2026-11-19T13:47:47.524Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T12:00:43.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T11:30:43.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T13:01:15.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,14 +65,14 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T12:41:06.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T12:00:57.000Z"
     },
     {
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -175,6 +175,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing – The Norqain Independence Skeleton 40mm Arctic Blue, with Updated Steel Bracelet",
+      "url": "https://monochrome-watches.com/the-norqain-independence-skeleton-40mm-arctic-blue-with-updated-steel-bracelet/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Norqain-Independence-Skeleton-40mm-Arctic-Blue-New-Steel-Bracelet-1-600x237.jpg",
+      "peek_preview": "The Independence collection has, since its introduction in 2020, become an important stone in Norqain‘s portfolio. An everyday sports watch, the collection has gradually expanded to now include the bold and high-tech Wi...",
+      "categories": [
+        "Norqain",
+        "2026",
+        "Novelty",
+        "Skeleton Watches",
+        "Sports watch"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T13:01:15.000Z",
+      "score_quality": 79,
+      "score_notif": 63,
+      "cluster": "20261119-2daafb6ab8d7",
+      "cluster_main": true
+    },
     {
       "title": "Introducing: The Roger W. Smith Series 7 Annual Calendar Tourbillon",
       "url": "https://www.hodinkee.com/articles/the-roger-w-smith-series-7-annual-calendar-tourbillon",
@@ -660,9 +681,9 @@
       "featured": false,
       "published_at": "2026-11-18T18:00:00.000Z",
       "score_quality": 72,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – A Seconds Hand That Slows, Stops, Runs Backwards, Races Fast, but is Never Late… by Algorithme du Temps",
@@ -768,7 +789,7 @@
       "featured": false,
       "published_at": "2026-11-18T13:31:49.000Z",
       "score_quality": 48,
-      "score_notif": 36,
+      "score_notif": 34,
       "cluster": "20261118-fe280e61262b",
       "cluster_main": true
     },
@@ -787,7 +808,7 @@
       "featured": false,
       "published_at": "2026-11-18T13:30:00.000Z",
       "score_quality": 78,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261118-6067110d0a03",
       "cluster_main": true
     },
@@ -809,9 +830,9 @@
       "featured": false,
       "published_at": "2026-11-18T13:00:41.000Z",
       "score_quality": 78,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot Big Bang Denim: quattro nuovi modelli tra titanio e acciaio",
@@ -829,7 +850,7 @@
       "featured": false,
       "published_at": "2026-11-18T13:00:23.000Z",
       "score_quality": 61,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
       "cluster_main": false
     },
@@ -1169,29 +1190,6 @@
       "score_quality": 73,
       "score_notif": 27,
       "cluster": "20261117-8e786c9e8b8d",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing – The Armin Strom Dual Time GMT Resonance Manufacture Edition, Now with Meteorite Dials",
-      "url": "https://monochrome-watches.com/armin-strom-dual-time-gmt-resonance-manufacture-edition-meteorite-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Armin-Strom-Dual-Time-GMT-Resonance-Manufacture-Edition-Meteorite-1-600x237.jpg",
-      "peek_preview": "Armin Strom continues to follow its established path, offering limited runs of timepieces that explore variations in finishing and materials. Its Dual Time GMT Resonance now lands in a new edition featuring meteorite di...",
-      "categories": [
-        "Armin Strom",
-        "2026",
-        "GMT Watches",
-        "High-end Watches",
-        "Independent Watchmaking",
-        "Novelty",
-        "Resonance"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-17T16:01:43.000Z",
-      "score_quality": 83,
-      "score_notif": 34,
-      "cluster": "20261117-007975d88be2",
       "cluster_main": true
     },
     {
