@@ -1,6 +1,6 @@
 {
-  "content_hash": "fcf070c5ea84611b36a22aa8df56869d0bd9e377a97327c5cedd1060c47a463c",
-  "last_updated": "2026-11-19T20:47:34.870Z",
+  "content_hash": "da348b59453a90e2c1162a0976dc2c87d1025e2c208feeeffde9f38751fd379d",
+  "last_updated": "2026-11-19T21:47:48.627Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T15:00:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T21:00:42.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T20:00:22.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T20:00:00.000Z"
     },
     {
@@ -194,7 +194,7 @@
       "score_quality": 61,
       "score_notif": 34,
       "cluster": "20261118-24774435a493",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Happenings: The Horological Society Of New York Introduces “Chronometry Talks” Lecture Series",
@@ -882,7 +882,7 @@
       "score_quality": 75,
       "score_notif": 32,
       "cluster": "20261117-d9fdda9581a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Guess which watch sold for more",
@@ -1231,7 +1231,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261118-24774435a493",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "タイメックス、高級コレクションのGMTモデルに完全新作を含む新モデルを追加",
@@ -1628,7 +1628,7 @@
       "score_quality": 84,
       "score_notif": 32,
       "cluster": "20261117-d9fdda9581a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "シチズン プロマスターに米国海軍のアクロバット飛行隊「ブルーエンジェルス」モデルが登場！",
@@ -2454,27 +2454,6 @@
       "score_quality": 47,
       "score_notif": 34,
       "cluster": "20261113-a610e70ea998",
-      "cluster_main": true
-    },
-    {
-      "title": "New Book: “Being Fearless: The First 10 Years of Rebuilding a Watch Company”",
-      "url": "https://deployant.com/being-fearless-rebuilding-fears/?utm_source=rss&utm_medium=rss&utm_campaign=being-fearless-rebuilding-fears",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/Fears-Being-Fearless-Creative-Standing-Image.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Fears marks ten years since its modern revival with Being Fearless: The First 10 Years of Rebuilding a Watch Company, a new book written by British watch jour...",
-      "categories": [
-        "Announcements",
-        "being fearless",
-        "british watchmaking",
-        "fears",
-        "watch books"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T00:02:00.000Z",
-      "score_quality": 51,
-      "score_notif": 24,
-      "cluster": "20261113-9f8026b65c17",
       "cluster_main": true
     }
   ]
