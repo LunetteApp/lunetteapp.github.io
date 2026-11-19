@@ -1,6 +1,6 @@
 {
-  "content_hash": "ef91573cfc8869ee70617f0224bdab67eaaa9af1bb8de331068e5fda71b2aea1",
-  "last_updated": "2026-11-19T13:47:47.524Z",
+  "content_hash": "42e7df3557c8e93aa14d8fb5fb548e3089e094d00a39fb55e2d945d06e3c5a44",
+  "last_updated": "2026-11-19T14:49:42.554Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T13:01:15.000Z"
     },
     {
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-18T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T12:41:06.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 2,
-      "latest_article_at": "2026-11-19T12:01:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T13:01:16.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -176,6 +176,59 @@
   ],
   "items": [
     {
+      "title": "Introducing: The Oris Doraemon Limited Edition",
+      "url": "https://www.hodinkee.com/articles/oris-doraemon",
+      "image": "https://hodinkee.imgix.net/uploads/articles/aade4d4e-d02b-4348-b2d4-dd8d4f97840d/oris-doraemon-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The iconic cat robot makes his way to Holstein for this new watch.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T14:00:00.000Z",
+      "score_quality": 68,
+      "score_notif": 74,
+      "cluster": "20261119-fab9802c11e3",
+      "cluster_main": false
+    },
+    {
+      "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
+      "url": "https://deployant.com/hermes-slim-dhermes-sous-le-charme-dorphee-a-metiers-dart-creation/?utm_source=rss&utm_medium=rss&utm_campaign=hermes-slim-dhermes-sous-le-charme-dorphee-a-metiers-dart-creation",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/Slim-dHermes-Sous-le-charme-dOrphee-copyright-Anita-Schlaefli-8-for-deployant.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The SLIM D’HERMÈS has always offered a restrained canvas for Hermès’ more imaginative expressions of watchmaking. With the new Slim d’Hermès Sous le charme d’...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "Hermes"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T13:30:00.000Z",
+      "score_quality": 61,
+      "score_notif": 57,
+      "cluster": "20261119-d5fc48db4752",
+      "cluster_main": true
+    },
+    {
+      "title": "A tale of two Citizens – celebrating half a century of Eco-Drive",
+      "url": "https://timeandtidewatches.com/citizen-promaster-eco-drive-skyhawk-bullhead-50th-anniversary-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-citizen-promaster-skyhawk-bullhead-50th-anniversary.jpg",
+      "peek_preview": "Citizen celebrates 50 years of Eco-Drive with two very different Promasters. We go hands-on with the Skyhawk and Tsuno Bullhead limited editions The post A tale of two Citizens – celebrating half a century of Eco-Drive...",
+      "categories": [
+        "Hands On",
+        "citizen"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T13:01:16.000Z",
+      "score_quality": 76,
+      "score_notif": 62,
+      "cluster": "20261119-79b06d333628",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – The Norqain Independence Skeleton 40mm Arctic Blue, with Updated Steel Bracelet",
       "url": "https://monochrome-watches.com/the-norqain-independence-skeleton-40mm-arctic-blue-with-updated-steel-bracelet/",
       "image": "https://monochrome-watches.com/app/uploads/2026/11/Norqain-Independence-Skeleton-40mm-Arctic-Blue-New-Steel-Bracelet-1-600x237.jpg",
@@ -193,8 +246,28 @@
       "published_at": "2026-11-19T13:01:15.000Z",
       "score_quality": 79,
       "score_notif": 63,
-      "cluster": "20261119-2daafb6ab8d7",
+      "cluster": "20261119-66f1f85fdca7",
       "cluster_main": true
+    },
+    {
+      "title": "Ain’t No Glacier High Enough To Keep Norqain From Releasing Another Icy Stunner",
+      "url": "https://timeandtidewatches.com/norqain-independence-arctic-blue-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-independence-arctic-blue.jpg",
+      "peek_preview": "Norqain gives the Independence Skeleton an Arctic Blue transparent dial, and its first semi-integrated steel bracelet The post Ain’t No Glacier High Enough To Keep Norqain From Releasing Another Icy Stunner appeared fir...",
+      "categories": [
+        "Introducing",
+        "integrated bracelet",
+        "meta:short",
+        "norqain"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T13:00:05.000Z",
+      "score_quality": 48,
+      "score_notif": 63,
+      "cluster": "20261119-66f1f85fdca7",
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Roger W. Smith Series 7 Annual Calendar Tourbillon",
@@ -209,24 +282,6 @@
       "score_quality": 88,
       "score_notif": 83,
       "cluster": "20261119-e212469f042f",
-      "cluster_main": true
-    },
-    {
-      "title": "A tale of two Citizens – celebrating half a century of Eco-Drive",
-      "url": "https://timeandtidewatches.com/citizen-promaster-eco-drive-skyhawk-bullhead-50th-anniversary-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-citizen-promaster-skyhawk-bullhead-50th-anniversary.jpg",
-      "peek_preview": "Citizen celebrates 50 years of Eco-Drive with two very different Promasters. We go hands-on with the Skyhawk and Tsuno Bullhead limited editions The post A tale of two Citizens – celebrating half a century of Eco-Drive...",
-      "categories": [
-        "Hands On",
-        "citizen"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T12:01:16.000Z",
-      "score_quality": 76,
-      "score_notif": 62,
-      "cluster": "20261119-79b06d333628",
       "cluster_main": true
     },
     {
@@ -546,21 +601,6 @@
       "cluster_main": true
     },
     {
-      "title": "カルティエが大阪・心斎橋に西日本最大の旗艦店「カルティエ 心斎橋ブティック」をオープン",
-      "url": "https://www.webchronos.net/news/179272/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/cartier_shinsaibashi_01.webp",
-      "peek_preview": "カルティエが大阪・心斎橋に西日本最大の旗艦店「カルティエ 心斎橋ブティック」をグランドオープンした。東京・銀座のブティックに続く国内2店舗目の「レジデンス」と呼ばれるプライベート空間を併設する。オープン前日には、特別なハ […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-19T03:00:53.000Z",
-      "score_quality": 48,
-      "score_notif": 30,
-      "cluster": "20261119-dcda6d88d822",
-      "cluster_main": true
-    },
-    {
       "title": "レイモンド ウェイル「トッカータ ヘリテージ」から、エレガントなふたつの新色モデルが登場",
       "url": "https://www.webchronos.net/news/179224/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/11/RW_TOCCATAHR_1.webp",
@@ -683,7 +723,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – A Seconds Hand That Slows, Stops, Runs Backwards, Races Fast, but is Never Late… by Algorithme du Temps",
@@ -772,7 +812,7 @@
       "featured": false,
       "published_at": "2026-11-18T14:01:19.000Z",
       "score_quality": 78,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261118-be1a768abb8d",
       "cluster_main": true
     },
@@ -832,7 +872,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot Big Bang Denim: quattro nuovi modelli tra titanio e acciaio",
@@ -1300,7 +1340,7 @@
       "published_at": "2026-11-17T11:00:47.000Z",
       "score_quality": 50,
       "score_notif": 32,
-      "cluster": "20261117-427b35af2323",
+      "cluster": "20261114-850372673b6b",
       "cluster_main": true
     },
     {
@@ -1979,24 +2019,6 @@
       "cluster_main": true
     },
     {
-      "title": "New releases from Vacheron Constantin, Petermann Bedat, Ming and more",
-      "url": "https://timeandtidewatches.com/vacheron-constantin-petermann-bedat-ming-last-week-in-watches/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/ming-web.jpg",
-      "peek_preview": "What a week it’s been! While Singapore’s IAMWATCH show is just getting started, with all the releases that come with it, we have a new addition of our own: the Sundowner is back for its second chapter. On top of that, V...",
-      "categories": [
-        "Last Week in Watches",
-        "last week in watches"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-14T14:30:12.000Z",
-      "score_quality": 31,
-      "score_notif": 23,
-      "cluster": "20261114-a5ad6838e2c6",
-      "cluster_main": true
-    },
-    {
       "title": "IAMWATCH 2026: Singapore diventa la capitale degli orologi indipendenti",
       "url": "https://italianwatchspotter.com/iamwatch-singapore-2026-novita/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/image-71-576x1024.png",
@@ -2121,7 +2143,7 @@
       "score_quality": 36,
       "score_notif": 32,
       "cluster": "20261114-850372673b6b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Nubeo Tranquility Automatic Star Trek 60th Anniversary Watch Is A Bold Tribute To The Final Frontier",
@@ -2193,21 +2215,6 @@
       "cluster_main": true
     },
     {
-      "title": "Dispatch: The Inaugural Vacheron Constantin Concours d'Élégance Horlogère",
-      "url": "https://www.hodinkee.com/articles/the-inaugural-vacheron-constantin-concours-delegance-horlogere",
-      "image": "https://hodinkee.imgix.net/uploads/articles/31cbac1d-c1fc-498f-a15e-5edea95feb03/vch.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The first concours of its kind in watchmaking turned a competition into a celebration.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T20:00:00.000Z",
-      "score_quality": 82,
-      "score_notif": 30,
-      "cluster": "20261111-1f837d791e04",
-      "cluster_main": true
-    },
-    {
       "title": "News: Vacheron Constantin Concours d'Élégance Horlogère Crowns Seven Winners—and a Best of Show Minute Repeater",
       "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-concours-d-elegance-horlogere-winners",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794587844319-5UYQSP3EHFAE31WSK3EV/Vacheron+Constantin+CDE_Group_Picture.jpg?format=1500w",
@@ -2223,7 +2230,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Trilobe Une Folle Journée Gen Two—A New Case and Three Colors",
@@ -2446,24 +2453,6 @@
       "score_notif": 34,
       "cluster": "20261112-225dbe3bc083",
       "cluster_main": false
-    },
-    {
-      "title": "Watch Shopping: A. Lange & Söhne Opens Mexico City Boutique—A Colonial House in Polanco Becomes Its First Latin American Address",
-      "url": "https://www.watchcollectinglifestyle.com/home/a-lange-and-sohne-mexico-boutique-first-latam-one",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794502901816-AZ9L86LVQ35EW7AYUZDH/A.+Lange+%26+So%CC%88hne+Mexico+Boutique+at+Kogan.jpg?format=1500w",
-      "peek_preview": "A. Lange & Söhne has opened its first boutique in Latin America, set within Kogan Luxury House in the heart of Polanco, Mexico City. Opening on November 11th, 2026, the A. Lange & Söhne Boutique Mexico re-establishes th...",
-      "categories": [
-        "A Lange Sohne",
-        "Watch Shopping"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-12T17:25:43.000Z",
-      "score_quality": 67,
-      "score_notif": 23,
-      "cluster": "20261112-3a34d6817df5",
-      "cluster_main": true
     }
   ]
 }
