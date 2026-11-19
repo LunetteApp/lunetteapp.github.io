@@ -1,6 +1,6 @@
 {
-  "content_hash": "a9ba93d5c4f512b15a26b863a3d389746836b6d97118651e4db92af68075b6a5",
-  "last_updated": "2026-11-19T16:47:35.950Z",
+  "content_hash": "78ea9c4456c8e52f78174c958f755e7372672f4e91968b86e8603e0841d7f817",
+  "last_updated": "2026-11-19T17:47:42.565Z",
   "premium": {
     "links": []
   },
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T13:01:15.000Z"
+      "estimated_articles_per_day": 3.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T17:30:12.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T16:00:00.000Z"
     },
     {
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T15:26:20.000Z"
+      "estimated_articles_per_day": 1.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T17:20:48.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -176,6 +176,46 @@
   ],
   "items": [
     {
+      "title": "Introducing – The New Hublot Big Bang Denim Collection with Hand-Textured Cases",
+      "url": "https://monochrome-watches.com/hublot-big-bang-denim-collection-with-hand-textured-cases-and-textile-dials-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Hublot-Big-Bang-Denim-collection-1-600x237.jpg",
+      "peek_preview": "As a brand that deploys the “Art of Fusion” tagline, unconventional materials and unusual pairings are ingrained in Hublot’s identity. Denim, the rugged fabric used for jeans, was featured by Hublot in 2013 on the dials...",
+      "categories": [
+        "Hublot",
+        "2026",
+        "Chronographs",
+        "Novelty",
+        "Sports watch"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T17:30:12.000Z",
+      "score_quality": 79,
+      "score_notif": 34,
+      "cluster": "20261118-21497bdc04e8",
+      "cluster_main": true
+    },
+    {
+      "title": "Watch Goodies: MB&F The First Twenty Years—The Catalogue Raisonné That Keeps Nothing Secret",
+      "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-the-first-twenty-years-catalogue-raisonne-book",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795108105165-I4DBQKW8GA0CWX7VZWWP/MBandF_Catalogue_Raisonne%CC%81_Interior_5_2026.jpg?format=1500w",
+      "peek_preview": "A collector once wrote to Maximilian Büsser asking how many examples of his red gold LM2 existed. Büsser checked and answered 31. The collector was stunned because the watch wasn’t a limited edition. That exchange plant...",
+      "categories": [
+        "MB&F",
+        "Watch Goodies",
+        "Objets d'Art"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T17:20:48.000Z",
+      "score_quality": 74,
+      "score_notif": 32,
+      "cluster": "20261119-0b69a872c7f8",
+      "cluster_main": true
+    },
+    {
       "title": "Auctions: Three Trends To Follow And Six Watches I'd Buy (If I Could) At Phillips And Christie's Hong Kong Auctions",
       "url": "https://www.hodinkee.com/articles/three-things-to-watch-at-phillips-and-christies-hong-kong-auction",
       "image": "https://hodinkee.imgix.net/uploads/articles/b37822e9-1ffc-4712-b8db-d843e54365ce/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -224,7 +264,7 @@
       "score_quality": 77,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -239,7 +279,7 @@
       "score_quality": 68,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -372,7 +412,7 @@
       "score_quality": 66,
       "score_notif": 60,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Farer’s Field Watch Series III puts a colourful spin on the dark-coated tool watch",
@@ -679,7 +719,7 @@
       "score_quality": 76,
       "score_notif": 60,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Automatik oder Handaufzug – und was bringt ein Manufakturwerk?",
@@ -774,7 +814,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – A Seconds Hand That Slows, Stops, Runs Backwards, Races Fast, but is Never Late… by Algorithme du Temps",
@@ -793,7 +833,7 @@
       "featured": false,
       "published_at": "2026-11-18T17:30:53.000Z",
       "score_quality": 77,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261118-386567c13438",
       "cluster_main": true
     },
@@ -811,7 +851,7 @@
       "featured": false,
       "published_at": "2026-11-18T17:00:44.000Z",
       "score_quality": 79,
-      "score_notif": 47,
+      "score_notif": 34,
       "cluster": "20261118-c8995d89f78a",
       "cluster_main": true
     },
@@ -1205,27 +1245,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – Union Glashütte Goes Square and Integrated with the Averin Date",
-      "url": "https://monochrome-watches.com/union-glashutte-union-glashutte-square-integrated-steel-sports-watch-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Union-Glashutte-Averin-Date-Collection-Square-integrated-sports-watch-9-600x237.jpg",
-      "peek_preview": "Since its introduction in 2008, the Averin collection‘s square design has been a distinctive part of Union Glashütte‘s contemporary watchmaking portfolio, up to a comprehensive update in 2024. Until now, the Averin has...",
-      "categories": [
-        "Union Glashütte",
-        "2026",
-        "Luxury watch",
-        "Novelty",
-        "Sports watch"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-17T18:00:09.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261117-e6c99f68b429",
-      "cluster_main": true
-    },
-    {
       "title": "Wind Vintage Launches their First Book, Vintage Watches: the Modern Guide",
       "url": "https://wornandwound.com/wind-vintage-launches-their-first-book-vintage-watches-the-modern-guide/",
       "image": "https://wornandwound.com/library/uploads/2026/11/Vintage-watches-banner.jpg",
@@ -1391,7 +1410,7 @@
       "published_at": "2026-11-17T11:00:47.000Z",
       "score_quality": 50,
       "score_notif": 32,
-      "cluster": "20261117-427b35af2323",
+      "cluster": "20261114-850372673b6b",
       "cluster_main": true
     },
     {
@@ -2194,7 +2213,7 @@
       "score_quality": 36,
       "score_notif": 32,
       "cluster": "20261114-850372673b6b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Nubeo Tranquility Automatic Star Trek 60th Anniversary Watch Is A Bold Tribute To The Final Frontier",
@@ -2444,25 +2463,6 @@
       "score_quality": 51,
       "score_notif": 24,
       "cluster": "20261113-9f8026b65c17",
-      "cluster_main": true
-    },
-    {
-      "title": "5 Rolex Sottovalutati nel 2026: Prezzi Reali in Italia e Europa",
-      "url": "https://www.orologidiclasse.com/rolex-sottovalutati-prezzi-italia-europa/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/rolex-sottovalutati-2026-cover.jpg",
-      "peek_preview": "Ogni anno milioni di persone decidono di comprare un Rolex, molti in questo periodo. La maggior parte si rivolge ai concessionari ufficiali o, quando il modello non è disponibile, al mercato grigio. Pochi però guardano...",
-      "categories": [
-        "Orologi e Passioni",
-        "Mercato",
-        "ROLEX"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-12T18:55:38.000Z",
-      "score_quality": 53,
-      "score_notif": 29,
-      "cluster": "20261112-53dc4a4b440f",
       "cluster_main": true
     }
   ]
