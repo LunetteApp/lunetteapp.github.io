@@ -1,6 +1,6 @@
 {
-  "content_hash": "166ae20bda313abf15015c6f3413611d059699d52f30a389ac180d1bd85bcaa9",
-  "last_updated": "2026-11-19T15:47:41.162Z",
+  "content_hash": "a9ba93d5c4f512b15a26b863a3d389746836b6d97118651e4db92af68075b6a5",
+  "last_updated": "2026-11-19T16:47:35.950Z",
   "premium": {
     "links": []
   },
@@ -16,13 +16,13 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T15:00:14.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
+      "estimated_articles_per_day": 3.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T13:01:15.000Z"
     },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T15:00:08.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T15:26:20.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Auctions: Three Trends To Follow And Six Watches I'd Buy (If I Could) At Phillips And Christie's Hong Kong Auctions",
+      "url": "https://www.hodinkee.com/articles/three-things-to-watch-at-phillips-and-christies-hong-kong-auction",
+      "image": "https://hodinkee.imgix.net/uploads/articles/b37822e9-1ffc-4712-b8db-d843e54365ce/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The sales take place November 21-22 for Phillips and November 26 for Christie's, so there's a little time to browse and pick a few watches to bid on.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T16:00:00.000Z",
+      "score_quality": 77,
+      "score_notif": 44,
+      "cluster": "20261119-f096cf50922b",
+      "cluster_main": true
+    },
     {
       "title": "Watch Stories: The Watch That Started It All—My Grandfather's Vacheron Constantin 2045Q by Abraham Rosales",
       "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-2045q-watch-abraham-rosales",
@@ -813,7 +828,7 @@
       "featured": false,
       "published_at": "2026-11-18T16:41:31.000Z",
       "score_quality": 63,
-      "score_notif": 58,
+      "score_notif": 34,
       "cluster": "20261118-1c7f4c361539",
       "cluster_main": true
     },
