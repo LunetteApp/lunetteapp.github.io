@@ -2825,8 +2825,8 @@
         "Valmeria",
         "Watches of Italy"
       ],
-      "event_cluster_id": "20261114-850372673b6b",
-      "event_first_published_at": "2026-11-14T09:00:00.000Z",
+      "event_cluster_id": "20261117-427b35af2323",
+      "event_first_published_at": "2026-11-17T11:00:47.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
       "topic_reviewed": true
@@ -11028,6 +11028,24 @@
       "scoring_pending": false,
       "clustering_pending": false
     },
+    "https://timeandtidewatches.com/best-dive-watches/": {
+      "url": "https://timeandtidewatches.com/best-dive-watches/",
+      "title": "14 of the best dive watches for all sorts of aquatic adventures",
+      "lang": "en",
+      "published_at": "2026-11-19T18:30:00.000Z",
+      "first_seen_at": "2026-11-19T18:45:43.000Z",
+      "categories": [
+        "Buying Guides",
+        "meta:buying-guide",
+        "meta:dive-watches",
+        "meta:evergreen"
+      ],
+      "event_cluster_id": "20261119-9deffdf17ced",
+      "event_first_published_at": "2026-11-19T18:30:00.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
     "https://timeandtidewatches.com/best-halloween-watches/": {
       "url": "https://timeandtidewatches.com/best-halloween-watches/",
       "title": "Trick or treat! Here’s 10 of the spookiest watches just in time for Halloween",
@@ -19020,7 +19038,8 @@
       "categories": [
         "Sponsored post",
         "Watch Releases",
-        "Dress Watches"
+        "Dress Watches",
+        "Watch Releases 2026"
       ],
       "event_cluster_id": "20261119-23c7075d4e67",
       "event_first_published_at": "2026-11-19T03:00:25.000Z",
@@ -30402,6 +30421,19 @@
       "scoring_pending": false,
       "clustering_pending": false
     },
+    "https://www.hodinkee.com/articles/all-the-new-releases-from-iamwatch-2026": {
+      "url": "https://www.hodinkee.com/articles/all-the-new-releases-from-iamwatch-2026",
+      "title": "Introducing: The New Releases From IAMWATCH 2026",
+      "lang": "en",
+      "published_at": "2026-11-19T18:00:00.000Z",
+      "first_seen_at": "2026-11-19T18:45:43.000Z",
+      "categories": [],
+      "event_cluster_id": "20261119-aa35b6e958e8",
+      "event_first_published_at": "2026-11-19T18:00:00.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
     "https://www.hodinkee.com/articles/alpina-catches-rays-and-light-with-new-startimer-pilot-solarmetre-and-alpiner-extreme-solarmetre-x-r": {
       "url": "https://www.hodinkee.com/articles/alpina-catches-rays-and-light-with-new-startimer-pilot-solarmetre-and-alpiner-extreme-solarmetre-x-r",
       "title": "Introducing: Alpina Catches Rays And Light With New Startimer Pilot Solarmetre And Alpiner Extreme Solarmetre X Route Du Rhum",
@@ -32920,7 +32952,8 @@
       "event_first_published_at": "2026-11-19T16:00:00.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "marketing": true
     },
     "https://www.hodinkee.com/articles/time-tide-sundowner-ii": {
       "url": "https://www.hodinkee.com/articles/time-tide-sundowner-ii",

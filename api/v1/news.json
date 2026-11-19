@@ -1,6 +1,6 @@
 {
-  "content_hash": "78ea9c4456c8e52f78174c958f755e7372672f4e91968b86e8603e0841d7f817",
-  "last_updated": "2026-11-19T17:47:42.565Z",
+  "content_hash": "fa9f5b48134566765d85441c22eda23cd8f7cea2560072f3c9bdc4aae81e675d",
+  "last_updated": "2026-11-19T18:48:52.263Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T17:30:12.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T16:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T18:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,14 +79,14 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T13:01:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T18:30:00.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T17:20:48.000Z"
     },
     {
@@ -176,6 +176,41 @@
   ],
   "items": [
     {
+      "title": "14 of the best dive watches for all sorts of aquatic adventures",
+      "url": "https://timeandtidewatches.com/best-dive-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-best-dive-watches-2026.webp",
+      "peek_preview": "The diver has pretty much become the quintessential watch - and here are some of the best. The post 14 of the best dive watches for all sorts of aquatic adventures appeared first on Time+Tide Watches.",
+      "categories": [
+        "Buying Guides",
+        "meta:buying-guide",
+        "meta:dive-watches",
+        "meta:evergreen"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T18:30:00.000Z",
+      "score_quality": 38,
+      "score_notif": 24,
+      "cluster": "20261119-9deffdf17ced",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing: The New Releases From IAMWATCH 2026",
+      "url": "https://www.hodinkee.com/articles/all-the-new-releases-from-iamwatch-2026",
+      "image": "https://hodinkee.imgix.net/uploads/articles/079c9390-d77d-4e32-bf09-d1c032c4b9e5/IAMWATCH-Releases.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The indie-focused fair in Singapore has wrapped up, but there are a ton of new releases to talk about.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T18:00:00.000Z",
+      "score_quality": 76,
+      "score_notif": 62,
+      "cluster": "20261119-aa35b6e958e8",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing – The New Hublot Big Bang Denim Collection with Hand-Textured Cases",
       "url": "https://monochrome-watches.com/hublot-big-bang-denim-collection-with-hand-textured-cases-and-textile-dials-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/11/Hublot-Big-Bang-Denim-collection-1-600x237.jpg",
@@ -216,21 +251,6 @@
       "cluster_main": true
     },
     {
-      "title": "Auctions: Three Trends To Follow And Six Watches I'd Buy (If I Could) At Phillips And Christie's Hong Kong Auctions",
-      "url": "https://www.hodinkee.com/articles/three-things-to-watch-at-phillips-and-christies-hong-kong-auction",
-      "image": "https://hodinkee.imgix.net/uploads/articles/b37822e9-1ffc-4712-b8db-d843e54365ce/Untitled-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The sales take place November 21-22 for Phillips and November 26 for Christie's, so there's a little time to browse and pick a few watches to bid on.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T16:00:00.000Z",
-      "score_quality": 77,
-      "score_notif": 44,
-      "cluster": "20261119-f096cf50922b",
-      "cluster_main": true
-    },
-    {
       "title": "Watch Stories: The Watch That Started It All—My Grandfather's Vacheron Constantin 2045Q by Abraham Rosales",
       "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-2045q-watch-abraham-rosales",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795026032385-BLYPOP3CXO9AH4264R3L/Vacheron+Constantin+reference+2045Q+White+Gold-4.jpg?format=1500w",
@@ -264,7 +284,7 @@
       "score_quality": 77,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -279,7 +299,7 @@
       "score_quality": 68,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -1410,7 +1430,7 @@
       "published_at": "2026-11-17T11:00:47.000Z",
       "score_quality": 50,
       "score_notif": 32,
-      "cluster": "20261114-850372673b6b",
+      "cluster": "20261117-427b35af2323",
       "cluster_main": true
     },
     {
@@ -1471,21 +1491,6 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261117-31e161142d52",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Arnold & Son Time Pyramid 42.5 Agate Editions (Live Pics)",
-      "url": "https://www.hodinkee.com/articles/arnold-and-son-time-pyramid-agate",
-      "image": "https://hodinkee.imgix.net/uploads/articles/d24cdb91-1111-4963-b6c9-2c10341487be/tan2h-arnold-son-timepyramid-05417-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Openworked watchmaking gets a splash of color in semi-transparent stone.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-17T09:00:00.000Z",
-      "score_quality": 85,
-      "score_notif": 34,
-      "cluster": "20261117-a75c19233164",
       "cluster_main": true
     },
     {
@@ -2004,25 +2009,6 @@
       "cluster_main": true
     },
     {
-      "title": "Wren returns to familiar waters with the Diver One Titanium Glacier",
-      "url": "https://timeandtidewatches.com/wren-diver-one-titanium-glacier-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-wren-titanium-glacier.jpg",
-      "peek_preview": "The Wren Diver One Titanium Glacier pairs an ice-blue gradient dial with grade 5 titanium, a Swiss ETA movement, and 200m water resistance The post Wren returns to familiar waters with the Diver One Titanium Glacier app...",
-      "categories": [
-        "Introducing",
-        "dive watch",
-        "titanium"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-15T07:00:48.000Z",
-      "score_quality": 62,
-      "score_notif": 34,
-      "cluster": "20261115-68e10c00acce",
-      "cluster_main": true
-    },
-    {
       "title": "ショーメが「ジョゼフィーヌ エグレット ウォッチ」に新作のコンビモデルを追加",
       "url": "https://www.webchronos.net/news/178597/",
       "image": "https://www.webchronos.net/wp-content/uploads/2026/11/cm_pg_1.webp",
@@ -2213,7 +2199,7 @@
       "score_quality": 36,
       "score_notif": 32,
       "cluster": "20261114-850372673b6b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Nubeo Tranquility Automatic Star Trek 60th Anniversary Watch Is A Bold Tribute To The Final Frontier",
@@ -2262,24 +2248,6 @@
       "featured": false,
       "published_at": "2026-11-13T20:05:25.000Z",
       "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261113-974f39464694",
-      "cluster_main": false
-    },
-    {
-      "title": "The Highly Anticipated Studio Underd0g 04Series is Here with the Brand’s First Calendar Complication",
-      "url": "https://wornandwound.com/the-highly-anticipated-studio-underd0g-04series-is-here-with-the-brands-first-calendar-complication/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/SU_Series04_3_WR.jpg",
-      "peek_preview": "Since the brand’s inception in 2021, Studio Underd0g has introduced three key lines into its catalog, aptly named the 01Series, 02Series, and 03Series. Today, we get the long-awaited next chapter, the 04Series, which de...",
-      "categories": [
-        "News & Releases",
-        "Studio Underd0g"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T20:00:49.000Z",
-      "score_quality": 73,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
       "cluster_main": true
@@ -2463,6 +2431,25 @@
       "score_quality": 51,
       "score_notif": 24,
       "cluster": "20261113-9f8026b65c17",
+      "cluster_main": true
+    },
+    {
+      "title": "5 Rolex Sottovalutati nel 2026: Prezzi Reali in Italia e Europa",
+      "url": "https://www.orologidiclasse.com/rolex-sottovalutati-prezzi-italia-europa/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/rolex-sottovalutati-2026-cover.jpg",
+      "peek_preview": "Ogni anno milioni di persone decidono di comprare un Rolex, molti in questo periodo. La maggior parte si rivolge ai concessionari ufficiali o, quando il modello non è disponibile, al mercato grigio. Pochi però guardano...",
+      "categories": [
+        "Orologi e Passioni",
+        "Mercato",
+        "ROLEX"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-12T18:55:38.000Z",
+      "score_quality": 50,
+      "score_notif": 23,
+      "cluster": "20261112-53dc4a4b440f",
       "cluster_main": true
     }
   ]
