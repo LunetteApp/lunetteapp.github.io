@@ -1,6 +1,6 @@
 {
-  "content_hash": "fa9f5b48134566765d85441c22eda23cd8f7cea2560072f3c9bdc4aae81e675d",
-  "last_updated": "2026-11-19T18:48:52.263Z",
+  "content_hash": "2c8c57f626fc3dea61102c7bfbe8aaa6a6d8d4a490c3df2b2496e2e9e2bc990d",
+  "last_updated": "2026-11-19T19:47:41.002Z",
   "premium": {
     "links": []
   },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
+      "estimated_articles_per_day": 3.6,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T17:30:12.000Z"
     },
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T08:00:02.000Z"
+      "estimated_articles_per_day": 0.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T19:02:35.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T18:00:00.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T18:30:00.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T11:40:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T19:34:43.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,47 @@
     }
   ],
   "items": [
+    {
+      "title": "Classic Tourbillon Perpetual Calendar Manufacture von Frederique Constant und die Kunst der Saphir-Marketerie",
+      "url": "https://www.uhrenkosmos.com/classic-tourbillon-perpetual-calendar-von-fc/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Zifferblatt-der-Frederique-Constant-Classic-Tourbillon-Perpetual-Calendar-Manufacture-Opener.jpg",
+      "peek_preview": "Drehgang und ewiger Kalender, vereint in einem Genfer Manufakturkaliber. Neu sind ein Zifferblatt aus sieben eingepassten Saphirglas-Flächen, eine diskrete Sekunde auf einer Quarzscheibe und erstmals ein 40-Millimeter-G...",
+      "categories": [
+        "Aktuelle Uhren",
+        "Frédérique Constant",
+        "Marken & Macher",
+        "ewiger Kalender",
+        "Frederique Constant Classic Tourbillon",
+        "Frederique Constant Classic Tourbillon Perpetual Calendar Manufacture",
+        "Frederique Constant FC-980",
+        "Frederique Constant Tourbillon",
+        "Frédérique Constant Tourbillon Ewiger Kalender",
+        "Tourbillon"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-19T19:34:43.000Z",
+      "score_quality": 71,
+      "score_notif": 66,
+      "cluster": "20261119-80ea0ca4ac06",
+      "cluster_main": false
+    },
+    {
+      "title": "Credor Goldfeather Review: The Thin Dress Watch Revival, Revisited",
+      "url": "https://teddybaldassarre.com/blogs/watches/credor-goldfeather-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Credor-Goldfeather-8.jpg?v=1795114505",
+      "peek_preview": "In 1960, Seiko set itself a challenge to make the thinnest mechanical dress watch it could. The result was the Goldfeather, which Credor — Seiko’s luxury-focused watchmaking sibling within the Seiko Group — brought back...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T19:02:35.000Z",
+      "score_quality": 82,
+      "score_notif": 41,
+      "cluster": "20261119-1b47ccfe9e2b",
+      "cluster_main": true
+    },
     {
       "title": "14 of the best dive watches for all sorts of aquatic adventures",
       "url": "https://timeandtidewatches.com/best-dive-watches/",
@@ -284,7 +325,7 @@
       "score_quality": 77,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -611,7 +652,7 @@
       "score_quality": 79,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: RZE Seeker Solar Field Watch Offers Maximum Autonomy For An Entry-Level Price",
@@ -817,7 +858,7 @@
       "featured": false,
       "published_at": "2026-11-18T19:02:43.000Z",
       "score_quality": 31,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261118-3153733e65bd",
       "cluster_main": true
     },
@@ -1278,7 +1319,7 @@
       "published_at": "2026-11-17T17:00:56.000Z",
       "score_quality": 74,
       "score_notif": 27,
-      "cluster": "20261113-ed3f2f4a0939",
+      "cluster": "20261117-a6b7378fd467",
       "cluster_main": true
     },
     {
@@ -1337,8 +1378,8 @@
       "published_at": "2026-11-17T16:00:58.000Z",
       "score_quality": 67,
       "score_notif": 27,
-      "cluster": "20261113-ed3f2f4a0939",
-      "cluster_main": false
+      "cluster": "20261117-51969ea4fc87",
+      "cluster_main": true
     },
     {
       "title": "Angelus Chronograph Tachymètre: il fascino dei cronografi d’epoca in tre nuove versioni",
@@ -2431,25 +2472,6 @@
       "score_quality": 51,
       "score_notif": 24,
       "cluster": "20261113-9f8026b65c17",
-      "cluster_main": true
-    },
-    {
-      "title": "5 Rolex Sottovalutati nel 2026: Prezzi Reali in Italia e Europa",
-      "url": "https://www.orologidiclasse.com/rolex-sottovalutati-prezzi-italia-europa/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/rolex-sottovalutati-2026-cover.jpg",
-      "peek_preview": "Ogni anno milioni di persone decidono di comprare un Rolex, molti in questo periodo. La maggior parte si rivolge ai concessionari ufficiali o, quando il modello non è disponibile, al mercato grigio. Pochi però guardano...",
-      "categories": [
-        "Orologi e Passioni",
-        "Mercato",
-        "ROLEX"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-12T18:55:38.000Z",
-      "score_quality": 50,
-      "score_notif": 23,
-      "cluster": "20261112-53dc4a4b440f",
       "cluster_main": true
     }
   ]
