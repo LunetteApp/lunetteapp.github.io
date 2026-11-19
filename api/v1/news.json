@@ -1,6 +1,6 @@
 {
-  "content_hash": "42e7df3557c8e93aa14d8fb5fb548e3089e094d00a39fb55e2d945d06e3c5a44",
-  "last_updated": "2026-11-19T14:49:42.554Z",
+  "content_hash": "166ae20bda313abf15015c6f3413611d059699d52f30a389ac180d1bd85bcaa9",
+  "last_updated": "2026-11-19T15:47:41.162Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-18T20:00:58.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T15:00:14.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T08:01:24.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T15:00:08.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -58,14 +58,14 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T14:00:00.000Z"
     },
     {
@@ -79,15 +79,15 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T13:01:16.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-18T16:41:31.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T15:26:20.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -99,7 +99,7 @@
     {
       "source_name": "Watch Insanity",
       "lang": "it",
-      "estimated_articles_per_day": 0.5,
+      "estimated_articles_per_day": 0.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T08:33:38.000Z"
     },
@@ -176,6 +176,42 @@
   ],
   "items": [
     {
+      "title": "Watch Stories: The Watch That Started It All—My Grandfather's Vacheron Constantin 2045Q by Abraham Rosales",
+      "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-2045q-watch-abraham-rosales",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795026032385-BLYPOP3CXO9AH4264R3L/Vacheron+Constantin+reference+2045Q+White+Gold-4.jpg?format=1500w",
+      "peek_preview": "Every watch has a story, and the best ones are rarely about the watch alone. Watch Stories is our series in which collectors write their own history with a timepiece, in their own words. Our role is limited to photograp...",
+      "categories": [
+        "Vacheron Constantin",
+        "Watch Stories"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T15:26:20.000Z",
+      "score_quality": 58,
+      "score_notif": 24,
+      "cluster": "20261119-3746502a634e",
+      "cluster_main": true
+    },
+    {
+      "title": "Oris Introduces the Doraemon Big Crown Pointer Date",
+      "url": "https://wornandwound.com/oris-introduces-the-doraemon-big-crown-pointer-date/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Oris-Doraemon-3.jpg",
+      "peek_preview": "When it comes to character-based watches, we’ve all seen the Snoopy models, the Mickey Mouse editions, and even some Sailor Moon and Pokemon timepieces. Hell, I own an Earthbound/Mother 2 G-SHOCK, so I am not above cavi...",
+      "categories": [
+        "Featured",
+        "Oris"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T15:00:14.000Z",
+      "score_quality": 77,
+      "score_notif": 68,
+      "cluster": "20261119-fab9802c11e3",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: The Oris Doraemon Limited Edition",
       "url": "https://www.hodinkee.com/articles/oris-doraemon",
       "image": "https://hodinkee.imgix.net/uploads/articles/aade4d4e-d02b-4348-b2d4-dd8d4f97840d/oris-doraemon-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -186,7 +222,7 @@
       "featured": false,
       "published_at": "2026-11-19T14:00:00.000Z",
       "score_quality": 68,
-      "score_notif": 74,
+      "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
       "cluster_main": false
     },
@@ -498,7 +534,7 @@
       "featured": false,
       "published_at": "2026-11-19T08:01:38.000Z",
       "score_quality": 79,
-      "score_notif": 74,
+      "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
       "cluster_main": false
     },
@@ -539,9 +575,9 @@
       "featured": false,
       "published_at": "2026-11-19T08:00:38.000Z",
       "score_quality": 73,
-      "score_notif": 74,
+      "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris x Doraemon Big Crown Pointer Date Limited Edition: Retro, Playful, And Surprisingly Subtle.",
@@ -554,7 +590,7 @@
       "featured": false,
       "published_at": "2026-11-19T08:00:02.000Z",
       "score_quality": 69,
-      "score_notif": 74,
+      "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
       "cluster_main": false
     },
@@ -1340,7 +1376,7 @@
       "published_at": "2026-11-17T11:00:47.000Z",
       "score_quality": 50,
       "score_notif": 32,
-      "cluster": "20261114-850372673b6b",
+      "cluster": "20261117-427b35af2323",
       "cluster_main": true
     },
     {
@@ -2143,7 +2179,7 @@
       "score_quality": 36,
       "score_notif": 32,
       "cluster": "20261114-850372673b6b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Nubeo Tranquility Automatic Star Trek 60th Anniversary Watch Is A Bold Tribute To The Final Frontier",
@@ -2249,25 +2285,6 @@
       "score_notif": 34,
       "cluster": "20261113-4297ca8101f3",
       "cluster_main": true
-    },
-    {
-      "title": "Zenith Introduces their Latest in the Double Signed Series, a G.F.J. with J.N. Shapiro",
-      "url": "https://wornandwound.com/zenith-introduces-their-latest-in-the-double-signed-series-a-g-f-j-with-j-n-shapiro/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Shapiro-x-Zenith-GFJ-45.jpg",
-      "peek_preview": "It’s been a hell of a month for Zenith. I think it’s fair to say that upon the release of the latest entry in Zenith’s ongoing Double Signed program, in which the brand partners with leading indie watchmakers on a desig...",
-      "categories": [
-        "News & Releases",
-        "J.N. Shapiro",
-        "Zenith"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T15:00:20.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
     },
     {
       "title": "New Release: Limited-Edition Brellum Duobox 39 TC Moonphase Chronometer Watch",
@@ -2432,27 +2449,6 @@
       "score_notif": 29,
       "cluster": "20261112-53dc4a4b440f",
       "cluster_main": true
-    },
-    {
-      "title": "ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N. Shapiro",
-      "url": "https://www.watchinsanity.it/zenith-gfj-calibre-135-double-signed-jn-shapiro/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/11/Zenith_-GFJ_Calibre_135_Double_Signed_-Joshua_Shapiro_Watch_Insanity_02-1024x682.jpg",
-      "peek_preview": "Zenith presenta il G.F.J. Calibre 135 Double Signed con J.N. Shapiro: quadrante guilloché, movimento decorato e 25 esemplari in oro rosa. The post ZENITH G.F.J. Calibre 135 Double Signed: la nuova collaborazione con J.N...",
-      "categories": [
-        "News",
-        "Timepieces",
-        "Zenith",
-        "Independents",
-        "J.N. Shapiro"
-      ],
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-12T18:00:00.000Z",
-      "score_quality": 59,
-      "score_notif": 34,
-      "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
     }
   ]
 }
