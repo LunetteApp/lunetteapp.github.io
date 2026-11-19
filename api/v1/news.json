@@ -1,6 +1,6 @@
 {
-  "content_hash": "da348b59453a90e2c1162a0976dc2c87d1025e2c208feeeffde9f38751fd379d",
-  "last_updated": "2026-11-19T21:47:48.627Z",
+  "content_hash": "5be921fbf8b861cdd8ef7f97d84cc7b93efb21804028e6966eae1b6cae115819",
+  "last_updated": "2026-11-19T22:48:03.016Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T21:00:42.000Z"
     },
     {
@@ -307,7 +307,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Goodies: MB&F The First Twenty Years—The Catalogue Raisonné That Keeps Nothing Secret",
@@ -377,7 +377,7 @@
       "score_quality": 68,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -508,9 +508,9 @@
       "featured": false,
       "published_at": "2026-11-19T12:00:43.000Z",
       "score_quality": 66,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Farer’s Field Watch Series III puts a colourful spin on the dark-coated tool watch",
@@ -730,7 +730,7 @@
       "score_quality": 73,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris x Doraemon Big Crown Pointer Date Limited Edition: Retro, Playful, And Surprisingly Subtle.",
@@ -815,9 +815,9 @@
       "featured": false,
       "published_at": "2026-11-18T22:00:00.000Z",
       "score_quality": 76,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Automatik oder Handaufzug – und was bringt ein Manufakturwerk?",
@@ -912,7 +912,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – A Seconds Hand That Slows, Stops, Runs Backwards, Races Fast, but is Never Late… by Algorithme du Temps",
@@ -1356,7 +1356,7 @@
       "published_at": "2026-11-17T17:00:56.000Z",
       "score_quality": 74,
       "score_notif": 27,
-      "cluster": "20261117-51969ea4fc87",
+      "cluster": "20261117-a6b7378fd467",
       "cluster_main": true
     },
     {
@@ -1416,7 +1416,7 @@
       "score_quality": 67,
       "score_notif": 27,
       "cluster": "20261117-51969ea4fc87",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Angelus Chronograph Tachymètre: il fascino dei cronografi d’epoca in tre nuove versioni",
@@ -2454,6 +2454,27 @@
       "score_quality": 47,
       "score_notif": 34,
       "cluster": "20261113-a610e70ea998",
+      "cluster_main": true
+    },
+    {
+      "title": "New Book: “Being Fearless: The First 10 Years of Rebuilding a Watch Company”",
+      "url": "https://deployant.com/being-fearless-rebuilding-fears/?utm_source=rss&utm_medium=rss&utm_campaign=being-fearless-rebuilding-fears",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/Fears-Being-Fearless-Fears-Logo-Open-Book.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Fears marks ten years since its modern revival with Being Fearless: The First 10 Years of Rebuilding a Watch Company, a new book written by British watch jour...",
+      "categories": [
+        "Announcements",
+        "being fearless",
+        "british watchmaking",
+        "fears",
+        "watch books"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T00:02:00.000Z",
+      "score_quality": 51,
+      "score_notif": 23,
+      "cluster": "20261113-9f8026b65c17",
       "cluster_main": true
     }
   ]
