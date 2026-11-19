@@ -1,6 +1,6 @@
 {
-  "content_hash": "2c8c57f626fc3dea61102c7bfbe8aaa6a6d8d4a490c3df2b2496e2e9e2bc990d",
-  "last_updated": "2026-11-19T19:47:41.002Z",
+  "content_hash": "fcf070c5ea84611b36a22aa8df56869d0bd9e377a97327c5cedd1060c47a463c",
+  "last_updated": "2026-11-19T20:47:34.870Z",
   "premium": {
     "links": []
   },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T15:00:08.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T20:00:22.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -43,8 +43,8 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T19:02:35.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T18:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-19T20:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-19T19:34:43.000Z"
     },
     {
@@ -176,6 +176,42 @@
   ],
   "items": [
     {
+      "title": "New Release: ArtyA Purity Curvy HMS Sapphire Sport Edition Watches",
+      "url": "https://www.ablogtowatch.com/new-release-artya-purity-curvy-hms-sapphire-sport-edition-watches/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/ArtyA-Purity-Curvy-HMS-Sapphire-Sport-Edition-Watches-768x349.jpg",
+      "peek_preview": "The Geneva-based watch brand ArtyA is famous for producing some of the industry’s most visually impressive sapphire-cased luxury timepieces, and for its latest release of 2026, ArtyA has paired the elegant architecture...",
+      "categories": [
+        "Watch Releases",
+        "Limited Edition Watches",
+        "Sapphire Watches",
+        "Skeletonized Watches",
+        "Watch Releases 2026"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T20:00:22.000Z",
+      "score_quality": 61,
+      "score_notif": 34,
+      "cluster": "20261118-24774435a493",
+      "cluster_main": false
+    },
+    {
+      "title": "Happenings: The Horological Society Of New York Introduces “Chronometry Talks” Lecture Series",
+      "url": "https://www.hodinkee.com/articles/the-horological-society-of-new-york-introduces-inaugural-chronometry-talks-lecture-series",
+      "image": "https://hodinkee.imgix.net/uploads/articles/ec0f08c5-00ac-4cbd-b992-3401528917fe/HSNY-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A new, two-day series exploring the history, science, and future of timekeeping.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T20:00:00.000Z",
+      "score_quality": 68,
+      "score_notif": 45,
+      "cluster": "20261119-578ad78980e6",
+      "cluster_main": true
+    },
+    {
       "title": "Classic Tourbillon Perpetual Calendar Manufacture von Frederique Constant und die Kunst der Saphir-Marketerie",
       "url": "https://www.uhrenkosmos.com/classic-tourbillon-perpetual-calendar-von-fc/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Zifferblatt-der-Frederique-Constant-Classic-Tourbillon-Perpetual-Calendar-Manufacture-Opener.jpg",
@@ -190,6 +226,7 @@
         "Frederique Constant FC-980",
         "Frederique Constant Tourbillon",
         "Frédérique Constant Tourbillon Ewiger Kalender",
+        "Kaliber FC-975",
         "Tourbillon"
       ],
       "source_name": "Uhrenkosmos",
@@ -473,7 +510,7 @@
       "score_quality": 66,
       "score_notif": 60,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Farer’s Field Watch Series III puts a colourful spin on the dark-coated tool watch",
@@ -652,7 +689,7 @@
       "score_quality": 79,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: RZE Seeker Solar Field Watch Offers Maximum Autonomy For An Entry-Level Price",
@@ -693,7 +730,7 @@
       "score_quality": 73,
       "score_notif": 68,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Oris x Doraemon Big Crown Pointer Date Limited Edition: Retro, Playful, And Surprisingly Subtle.",
@@ -780,7 +817,7 @@
       "score_quality": 76,
       "score_notif": 60,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Automatik oder Handaufzug – und was bringt ein Manufakturwerk?",
@@ -845,7 +882,7 @@
       "score_quality": 75,
       "score_notif": 32,
       "cluster": "20261117-d9fdda9581a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Guess which watch sold for more",
@@ -1319,7 +1356,7 @@
       "published_at": "2026-11-17T17:00:56.000Z",
       "score_quality": 74,
       "score_notif": 27,
-      "cluster": "20261117-a6b7378fd467",
+      "cluster": "20261117-51969ea4fc87",
       "cluster_main": true
     },
     {
@@ -1379,7 +1416,7 @@
       "score_quality": 67,
       "score_notif": 27,
       "cluster": "20261117-51969ea4fc87",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Angelus Chronograph Tachymètre: il fascino dei cronografi d’epoca in tre nuove versioni",
@@ -1418,21 +1455,6 @@
       "score_quality": 77,
       "score_notif": 26,
       "cluster": "20261117-993cfd87a196",
-      "cluster_main": true
-    },
-    {
-      "title": "Talking Watches: With Kevin Love, NBA Champion And Watch Collector",
-      "url": "https://www.hodinkee.com/articles/talking-watches-kevin-love",
-      "image": "https://hodinkee.imgix.net/uploads/articles/c34e0df4-b92f-48bc-8f43-76a4cf2c2bea/kevin-love-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Love’s collection runs from vintage Rolex to F.P. Journe, and it started changing the day he won a NBA title.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-17T14:00:00.000Z",
-      "score_quality": 83,
-      "score_notif": 34,
-      "cluster": "20261117-8d994394dec4",
       "cluster_main": true
     },
     {
@@ -1606,7 +1628,7 @@
       "score_quality": 84,
       "score_notif": 32,
       "cluster": "20261117-d9fdda9581a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "シチズン プロマスターに米国海軍のアクロバット飛行隊「ブルーエンジェルス」モデルが登場！",
@@ -2416,25 +2438,6 @@
       "score_notif": 34,
       "cluster": "20261113-52b2cbbb37fe",
       "cluster_main": true
-    },
-    {
-      "title": "Zenith G.F.J. Calibre 135 J.N. Shapiro ‘Double-Signed’ Watch Hands-On: Le Locle To Los Angeles",
-      "url": "https://www.ablogtowatch.com/zenith-g-f-j-calibre-135-j-n-shapiro-double-signed-watch-hands-on-le-locle-to-los-angeles/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Zenith-GFJ-Double-Signed-JN-Shapiro-Guilloche-Dial-watch-15-768x346.jpg",
-      "peek_preview": "Some time ago, I predicted that while a number of fads in the luxury watch industry are just passing trends, the importance and popularity of collaborations are not a fleeting interest. Accordingly, collaboration-style...",
-      "categories": [
-        "Hands-On",
-        "Guilloche Dials",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T08:01:20.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261112-225dbe3bc083",
-      "cluster_main": false
     },
     {
       "title": "한국의 아기상어가 브라이틀링 슈퍼오션에",
