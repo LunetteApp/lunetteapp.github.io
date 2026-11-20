@@ -1,6 +1,6 @@
 {
-  "content_hash": "7737049095d06f57ad2c8073e64658f28021d923201ac2b0a71beabee08858d3",
-  "last_updated": "2026-11-20T12:45:50.241Z",
+  "content_hash": "17dd8025ea34e2f15ca926cf45d5711fda2cfc9607984e4c19e2eaf396f1c2d1",
+  "last_updated": "2026-11-20T13:48:22.480Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-20T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-18T13:31:49.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-20T13:00:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Breva Segreto di Lario: Singapore Dinner and First Showing of Working Watches",
+      "url": "https://deployant.com/breva-segreto-di-lario-singapore-dinner-and-first-showing-of-working-watches/?utm_source=rss&utm_medium=rss&utm_campaign=breva-segreto-di-lario-singapore-dinner-and-first-showing-of-working-watches",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/BREVA-Exclusive-Invitation.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors On 18 November, 2026, Deployant hosted an intimate dinner with Breva Genève CEO Julien Haenny at Solo Ristorante in Singapore. Sixteen guests joined us for an...",
+      "categories": [
+        "Deployant Event",
+        "Reviews"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-20T13:30:00.000Z",
+      "score_quality": 68,
+      "score_notif": 53,
+      "cluster": "20261120-c471742f18e3",
+      "cluster_main": true
+    },
+    {
+      "title": "Alpina x Galaga : une Startimer Pilot pour les nostalgeeks",
+      "url": "https://www.welovewatches.fr/alpina-x-galaga-une-startimer-pilot-pour-les-nostalgeeks.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/alpina-startimer-pilot-solarmetre-galaga-une-1940x1280-1.jpg",
+      "peek_preview": "Non, il n'y a pas que GTA VI dans la vie. Le Boss Galaga à midi, un vaisseau ennemi à la place de la date et une pièce de 100 yens gravée au dos. Pour...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-20T13:00:00.000Z",
+      "score_quality": 61,
+      "score_notif": 66,
+      "cluster": "20261120-be52f91c6894",
+      "cluster_main": true
+    },
     {
       "title": "Due President, un solo Rolex: il Day-Date «White House»",
       "url": "https://italianwatchspotter.com/rolex-day-date-white-house-president/",
@@ -596,7 +631,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -629,7 +664,7 @@
       "featured": false,
       "published_at": "2026-11-19T13:30:00.000Z",
       "score_quality": 61,
-      "score_notif": 57,
+      "score_notif": 34,
       "cluster": "20261119-d5fc48db4752",
       "cluster_main": true
     },
@@ -668,7 +703,7 @@
       "featured": false,
       "published_at": "2026-11-19T13:01:15.000Z",
       "score_quality": 79,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261119-66f1f85fdca7",
       "cluster_main": true
     },
@@ -688,7 +723,7 @@
       "featured": false,
       "published_at": "2026-11-19T13:00:05.000Z",
       "score_quality": 48,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261119-66f1f85fdca7",
       "cluster_main": false
     },
@@ -744,7 +779,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Farer’s Field Watch Series III puts a colourful spin on the dark-coated tool watch",
@@ -923,7 +958,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: RZE Seeker Solar Field Watch Offers Maximum Autonomy For An Entry-Level Price",
@@ -1051,7 +1086,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Automatik oder Handaufzug – und was bringt ein Manufakturwerk?",
@@ -1670,8 +1705,8 @@
       "published_at": "2026-11-17T10:32:56.000Z",
       "score_quality": 82,
       "score_notif": 30,
-      "cluster": "20261111-1f837d791e04",
-      "cluster_main": false
+      "cluster": "20261117-a34d650246ac",
+      "cluster_main": true
     },
     {
       "title": "Lip Churchill T24 Golden Sand x Ocarat : Test & Avis",
@@ -2402,7 +2437,7 @@
       "published_at": "2026-11-13T17:02:01.000Z",
       "score_quality": 73,
       "score_notif": 30,
-      "cluster": "20261111-1f837d791e04",
+      "cluster": "20261113-37282cc98bf0",
       "cluster_main": true
     },
     {
@@ -2472,40 +2507,6 @@
       "score_quality": 44,
       "score_notif": 34,
       "cluster": "20261113-25aad39141e1",
-      "cluster_main": true
-    },
-    {
-      "title": "Vario Futurist Tantalum : le poids du futur",
-      "url": "https://www.welovewatches.fr/vario-futurist-tantalum-le-poids-du-futur.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/vario-futurist-tantalum-une-1940x1280-1.jpg",
-      "peek_preview": "La Futurist avait déjà une drôle de façon d’accrocher la lumière avec son verre à facettes. Pour cette édition limitée, la marque singapourienne Vario reprend le dessin de son modèle en acier et usine le...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-13T10:16:40.000Z",
-      "score_quality": 56,
-      "score_notif": 34,
-      "cluster": "20261113-52b2cbbb37fe",
-      "cluster_main": true
-    },
-    {
-      "title": "한국의 아기상어가 브라이틀링 슈퍼오션에",
-      "url": "https://www.gmtkoreaseoul.com/post/%ED%95%9C%EA%B5%AD%EC%9D%98-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4%EA%B0%80-%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8B%80%EB%A7%81-%EC%8A%88%ED%8D%BC%EC%98%A4%EC%85%98%EC%97%90",
-      "image": "https://static.wixstatic.com/media/bd93d4_ac200eb81b1f496fbc1a1dc1b23e1313~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
-      "peek_preview": "한국에서 태어나 여전히 인기 고공비행 중인 주인공. 바다를 닮은 컬러에 한눈에 알아볼 수 있는 트레이드마크까지, 브라이틀링이 오직 한국을 위해 준비한 특별한 에디션이 드디어 베일을 벗었다.",
-      "categories": [
-        "NEW PRODUCT"
-      ],
-      "source_name": "GMT Korea",
-      "lang": "ko",
-      "featured": false,
-      "published_at": "2026-11-13T02:04:09.000Z",
-      "score_quality": 47,
-      "score_notif": 34,
-      "cluster": "20261113-a610e70ea998",
       "cluster_main": true
     }
   ]
