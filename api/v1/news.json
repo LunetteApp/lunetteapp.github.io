@@ -1,6 +1,6 @@
 {
-  "content_hash": "f4285cc2ddd81b98756a20daf9225a4c722011e74af12856cdfb1c9644c46fe8",
-  "last_updated": "2026-11-20T17:48:10.318Z",
+  "content_hash": "c70360144d121193c98e4cec79944a69ae6411a6d21c024bc622e144245908ba",
+  "last_updated": "2026-11-20T18:48:03.316Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T17:00:40.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T17:01:51.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "estimated_articles_per_day": 1.9,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-20T17:00:07.000Z"
+      "latest_article_at": "2026-11-20T18:00:59.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-20T16:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-20T18:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Introducing: Bangalore Watch Company Epoch (Live Pics)",
+      "url": "https://www.hodinkee.com/articles/bangalore-watch-company-epoch",
+      "image": "https://hodinkee.imgix.net/uploads/images/51d49a3e-a366-4396-9fbf-e5edec703a33/HeroBWC2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The India-based brand has been focused on sporty tool watches with recent models, now it's getting dressy again with the new Epoch featuring a hunter caseback.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-20T18:00:00.000Z",
+      "score_quality": 82,
+      "score_notif": 61,
+      "cluster": "20261120-65a56907db2f",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The New Nodus x Oracle Time Sector II Sport Red Jasper",
       "url": "https://monochrome-watches.com/nodus-x-oracle-time-sector-ii-sport-red-jasper-accessible-automatic-tool-watch-stone-dial-introducing-price/",
@@ -767,7 +782,7 @@
       "featured": false,
       "published_at": "2026-11-19T18:00:00.000Z",
       "score_quality": 76,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261119-aa35b6e958e8",
       "cluster_main": true
     },
@@ -993,7 +1008,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Farer’s Field Watch Series III puts a colourful spin on the dark-coated tool watch",
@@ -1172,7 +1187,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: RZE Seeker Solar Field Watch Offers Maximum Autonomy For An Entry-Level Price",
@@ -1213,7 +1228,7 @@
       "score_quality": 73,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris x Doraemon Big Crown Pointer Date Limited Edition: Retro, Playful, And Surprisingly Subtle.",
@@ -1300,7 +1315,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Automatik oder Handaufzug – und was bringt ein Manufakturwerk?",
@@ -1365,7 +1380,7 @@
       "score_quality": 75,
       "score_notif": 32,
       "cluster": "20261117-d9fdda9581a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Guess which watch sold for more",
@@ -1381,21 +1396,6 @@
       "score_notif": 34,
       "cluster": "20261118-3153733e65bd",
       "cluster_main": true
-    },
-    {
-      "title": "Introducing: Hublot Brings Denim Back To The Big Bang Collection",
-      "url": "https://www.hodinkee.com/articles/hublot-brings-denim-to-the-big-bang-collection",
-      "image": "https://hodinkee.imgix.net/uploads/articles/e83764e6-6f37-401d-88f8-ea96951e0cba/Hublot-Big-Bang-HERO.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The Big Bang has always made a statement. Now, it's joining Hublot's permanent collection in denim.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-18T18:00:00.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261118-21497bdc04e8",
-      "cluster_main": false
     },
     {
       "title": "Hands On: the O&HoraPictor Duet Submarine Canyon",
@@ -1847,7 +1847,7 @@
       "score_quality": 82,
       "score_notif": 30,
       "cluster": "20261113-37282cc98bf0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lip Churchill T24 Golden Sand x Ocarat : Test & Avis",
@@ -1962,7 +1962,7 @@
       "score_quality": 84,
       "score_notif": 32,
       "cluster": "20261117-d9fdda9581a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "シチズン プロマスターに米国海軍のアクロバット飛行隊「ブルーエンジェルス」モデルが登場！",
@@ -2264,8 +2264,8 @@
       "published_at": "2026-11-15T15:11:13.000Z",
       "score_quality": 65,
       "score_notif": 34,
-      "cluster": "20261115-32ba979a2e90",
-      "cluster_main": true
+      "cluster": "20261114-9ce3c037f1dd",
+      "cluster_main": false
     },
     {
       "title": "Independence day: Six watches to kickstart your independent watchmaking collection",
@@ -2292,26 +2292,6 @@
       "score_quality": 54,
       "score_notif": 22,
       "cluster": "20261115-0e00adbfca57",
-      "cluster_main": true
-    },
-    {
-      "title": "Chopard Mille Miglia Classic Chronograph American Racing Stripes Watch Hands-On",
-      "url": "https://www.ablogtowatch.com/chopard-mille-miglia-classic-chronograph-american-racing-stripes-watch-hands-on/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/CHOPAR2-768x346.jpg",
-      "peek_preview": "Swiss Chopard has a new limited-edition variant of the Mille Miglia watch for the United States market, known as the Mille Miglia Classic Chronograph American Racing Stripes. Built as a set of 50 pieces, this watch adds...",
-      "categories": [
-        "Hands-On",
-        "Chronograph Watches",
-        "Watch Reviews Over $500",
-        "Watches & Cars"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-15T08:01:21.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261115-adf75c11c6aa",
       "cluster_main": true
     },
     {
@@ -2502,7 +2482,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20261113-37282cc98bf0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Trilobe Une Folle Journée Gen Two—A New Case and Three Colors",
