@@ -11057,7 +11057,8 @@
       "event_first_published_at": "2026-11-19T18:30:00.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "marketing": true
     },
     "https://timeandtidewatches.com/best-halloween-watches/": {
       "url": "https://timeandtidewatches.com/best-halloween-watches/",
@@ -13170,6 +13171,23 @@
       "clustering_pending": false,
       "event_cluster_id": "20260925-b71056e02118",
       "event_first_published_at": "2026-09-25T07:01:53.000Z"
+    },
+    "https://timeandtidewatches.com/robert-pattinson-is-james-bond-john-mulaney-is-joe-dimaggio-and-jlc-video-games-friday-wind-down/": {
+      "url": "https://timeandtidewatches.com/robert-pattinson-is-james-bond-john-mulaney-is-joe-dimaggio-and-jlc-video-games-friday-wind-down/",
+      "title": "Robert Pattinson is James Bond, John Mulaney is Joe DiMaggio, and JLC video games",
+      "lang": "en",
+      "published_at": "2026-11-20T06:00:57.000Z",
+      "first_seen_at": "2026-11-20T06:45:52.000Z",
+      "categories": [
+        "Friday Wind Down",
+        "friday wind down"
+      ],
+      "event_cluster_id": "20261120-0932f44b1de5",
+      "event_first_published_at": "2026-11-20T06:00:57.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "off_topic": true,
+      "topic_reviewed": true
     },
     "https://timeandtidewatches.com/rolex-blancpain-czapek-grand-seiko-last-week-in-watches/": {
       "url": "https://timeandtidewatches.com/rolex-blancpain-czapek-grand-seiko-last-week-in-watches/",
@@ -20454,8 +20472,8 @@
         "Skeletonized Watches",
         "Watch Releases 2026"
       ],
-      "event_cluster_id": "20261118-24774435a493",
-      "event_first_published_at": "2026-11-18T06:00:02.000Z",
+      "event_cluster_id": "20261119-81bd16ec58af",
+      "event_first_published_at": "2026-11-19T20:00:22.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
       "topic_reviewed": true
@@ -26516,6 +26534,22 @@
       ],
       "event_cluster_id": "20261029-ba716510b97f",
       "event_first_published_at": "2026-10-29T05:00:35.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
+    "https://www.fratellowatches.com/fratellos-top-5-small-brand-watches-of-2026/": {
+      "url": "https://www.fratellowatches.com/fratellos-top-5-small-brand-watches-of-2026/",
+      "title": "Fratello’s Top 5 Small-Brand Watches Of 2026",
+      "lang": "en",
+      "published_at": "2026-11-20T06:00:24.000Z",
+      "first_seen_at": "2026-11-20T06:45:52.000Z",
+      "categories": [
+        "Watch Talk",
+        "Watch Releases 2026"
+      ],
+      "event_cluster_id": "20261120-170412ee90fb",
+      "event_first_published_at": "2026-11-20T06:00:24.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
       "topic_reviewed": true
@@ -33738,6 +33772,25 @@
       ],
       "event_cluster_id": "20261021-4b6afacc2908",
       "event_first_published_at": "2026-10-21T10:36:48.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
+    "https://www.orologidiclasse.com/frederique-constant-classic-tourbillon-perpetual-calendar-manufacture/": {
+      "url": "https://www.orologidiclasse.com/frederique-constant-classic-tourbillon-perpetual-calendar-manufacture/",
+      "title": "Frederique Constant Classic: tourbillon e perpetuo a 26.995 euro",
+      "lang": "it",
+      "published_at": "2026-11-20T06:00:43.000Z",
+      "first_seen_at": "2026-11-20T06:45:52.000Z",
+      "categories": [
+        "Novità Orologi",
+        "Calendario Perpetuo",
+        "Edizione Limitata",
+        "FREDERIQUE CONSTANT",
+        "Tourbillon"
+      ],
+      "event_cluster_id": "20261119-80ea0ca4ac06",
+      "event_first_published_at": "2026-11-19T07:01:28.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
       "topic_reviewed": true
