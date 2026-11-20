@@ -1,6 +1,6 @@
 {
-  "content_hash": "c70360144d121193c98e4cec79944a69ae6411a6d21c024bc622e144245908ba",
-  "last_updated": "2026-11-20T18:48:03.316Z",
+  "content_hash": "aa5c6bc163d22dc636f2e1b20c0eca90f37aa0f87c3090b1b88c2e2e19bc0d66",
+  "last_updated": "2026-11-20T19:49:09.486Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T18:00:59.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T19:02:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-20T19:44:40.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -66,7 +66,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-20T18:00:00.000Z"
+      "latest_article_at": "2026-11-20T19:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -176,6 +176,36 @@
   ],
   "items": [
     {
+      "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
+      "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/H-Moser-_-Cie-Swiss-Alp-Watch-2.jpg?v=1701119736",
+      "peek_preview": "Heinrich Moser founded H. Moser & Cie. in Saint Petersburg in 1828. The company is now based in Neuhausen am Rheinfall, Switzerland, just outside Schaffhausen, and has made a name for itself in the modern era by having...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-20T19:44:40.000Z",
+      "score_quality": 50,
+      "score_notif": 24,
+      "cluster": "20261120-edb8d0381121",
+      "cluster_main": true
+    },
+    {
+      "title": "Just Because: A Ferdinand Berthoud Pièce Unique Eight Years In The Making",
+      "url": "https://www.hodinkee.com/articles/a-ferdinand-berthoud-piece-unique-eight-years-in-the-making",
+      "image": "https://hodinkee.imgix.net/uploads/articles/2483af53-b569-4fb8-9578-e8fd30e76d84/P1024452.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "As Ferdinand Berthoud stakes its position at the heart of modern watchmaking, we take a look at the very special Chronomètre FB 1R5-5.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-20T19:00:00.000Z",
+      "score_quality": 76,
+      "score_notif": 37,
+      "cluster": "20261120-d5d43ebb729e",
+      "cluster_main": true
+    },
+    {
       "title": "Introducing: Bangalore Watch Company Epoch (Live Pics)",
       "url": "https://www.hodinkee.com/articles/bangalore-watch-company-epoch",
       "image": "https://hodinkee.imgix.net/uploads/images/51d49a3e-a366-4396-9fbf-e5edec703a33/HeroBWC2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -210,7 +240,7 @@
       "score_quality": 76,
       "score_notif": 63,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Nodus × Oracle Time Sector II Sport Red Jasper",
@@ -228,7 +258,7 @@
       "score_quality": 78,
       "score_notif": 63,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Hublot Big Bang Denim Watches Return For 2026",
@@ -767,7 +797,7 @@
       "featured": false,
       "published_at": "2026-11-19T19:02:35.000Z",
       "score_quality": 82,
-      "score_notif": 41,
+      "score_notif": 34,
       "cluster": "20261119-1b47ccfe9e2b",
       "cluster_main": true
     },
@@ -875,7 +905,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -1008,7 +1038,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Farer’s Field Watch Series III puts a colourful spin on the dark-coated tool watch",
@@ -1187,7 +1217,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On Debut: RZE Seeker Solar Field Watch Offers Maximum Autonomy For An Entry-Level Price",
@@ -1315,7 +1345,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Automatik oder Handaufzug – und was bringt ein Manufakturwerk?",
@@ -1365,21 +1395,6 @@
       "score_quality": 74,
       "score_notif": 30,
       "cluster": "20261118-ee642f4fc216",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Horologically Unique Revives The 'Chronoscope' Jump Hour With The HU-02",
-      "url": "https://www.hodinkee.com/articles/introducing-horologically-unique-hu-02",
-      "image": "https://hodinkee.imgix.net/uploads/images/a478169b-fcf8-466c-8aef-2ab3f17135cd/HU-02_GROUP_02_HR.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A striking and fan-favorite Art Deco design comes back as a disco volante.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-18T20:00:00.000Z",
-      "score_quality": 75,
-      "score_notif": 32,
-      "cluster": "20261117-d9fdda9581a3",
       "cluster_main": true
     },
     {
@@ -1847,7 +1862,7 @@
       "score_quality": 82,
       "score_notif": 30,
       "cluster": "20261113-37282cc98bf0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Lip Churchill T24 Golden Sand x Ocarat : Test & Avis",
@@ -1962,7 +1977,7 @@
       "score_quality": 84,
       "score_notif": 32,
       "cluster": "20261117-d9fdda9581a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "シチズン プロマスターに米国海軍のアクロバット飛行隊「ブルーエンジェルス」モデルが登場！",
@@ -2449,7 +2464,7 @@
       "score_quality": 76,
       "score_notif": 33,
       "cluster": "20261113-2452372162b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Studio Underd0g Debuts First Calendar Complication With New 04SERIES",
@@ -2482,7 +2497,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20261113-37282cc98bf0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Trilobe Une Folle Journée Gen Two—A New Case and Three Colors",
@@ -2517,7 +2532,7 @@
       "score_quality": 82,
       "score_notif": 33,
       "cluster": "20261113-2452372162b8",
-      "cluster_main": true
+      "cluster_main": false
     }
   ]
 }
