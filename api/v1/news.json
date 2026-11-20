@@ -1,6 +1,6 @@
 {
-  "content_hash": "aa5c6bc163d22dc636f2e1b20c0eca90f37aa0f87c3090b1b88c2e2e19bc0d66",
-  "last_updated": "2026-11-20T19:49:09.486Z",
+  "content_hash": "348110a7dec1c723d0f59fa7fe39e059199e300ef218d30f1d2579768f492116",
+  "last_updated": "2026-11-20T20:47:57.198Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-20T15:00:20.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-20T20:00:48.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T19:44:40.000Z"
     },
     {
@@ -64,9 +64,9 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.6,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-20T19:00:00.000Z"
+      "latest_article_at": "2026-11-20T20:00:01.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -755,7 +755,7 @@
       "featured": false,
       "published_at": "2026-11-19T20:00:00.000Z",
       "score_quality": 68,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261119-578ad78980e6",
       "cluster_main": true
     },
@@ -1037,8 +1037,8 @@
       "published_at": "2026-11-19T12:00:43.000Z",
       "score_quality": 66,
       "score_notif": 34,
-      "cluster": "20261118-5a2e467ffe9b",
-      "cluster_main": false
+      "cluster": "20261119-4484b509d00c",
+      "cluster_main": true
     },
     {
       "title": "Farer’s Field Watch Series III puts a colourful spin on the dark-coated tool watch",
@@ -1330,21 +1330,6 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261119-bb51b3e266a2",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Merci Super Collection",
-      "url": "https://www.hodinkee.com/articles/merci-super",
-      "image": "https://hodinkee.imgix.net/uploads/articles/8575676a-1ac7-4de5-b96c-f7548d806d9d/merci-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "A new series of four models inspired by 70s-era architecture adds to the Parisian boutique's catalog of well-priced, intentionally designed watches.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-18T22:00:00.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261118-5a2e467ffe9b",
       "cluster_main": true
     },
     {
@@ -1862,7 +1847,7 @@
       "score_quality": 82,
       "score_notif": 30,
       "cluster": "20261113-37282cc98bf0",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Lip Churchill T24 Golden Sand x Ocarat : Test & Avis",
@@ -2037,25 +2022,6 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261116-7a2fa9c680c6",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: the Bremont Supermarine 500 Full Ceramic “Deep Blue”",
-      "url": "https://wornandwound.com/review/hands-on-the-bremont-supermarine-500-full-ceramic-deep-blue/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Bremont_Supermarine-FC_02_WR.jpg",
-      "peek_preview": "Let’s check in with Bremont. The British brand has been on quite a ride these last few years after an internal shakeup that saw founders Nick and Giles English exit the company, Davide Cerrato take day to day control, a...",
-      "categories": [
-        "Hands-On",
-        "Review",
-        "Bremont"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-16T20:00:26.000Z",
-      "score_quality": 81,
-      "score_notif": 34,
-      "cluster": "20261116-f718d22800af",
       "cluster_main": true
     },
     {
@@ -2464,7 +2430,7 @@
       "score_quality": 76,
       "score_notif": 33,
       "cluster": "20261113-2452372162b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Studio Underd0g Debuts First Calendar Complication With New 04SERIES",
@@ -2497,7 +2463,7 @@
       "score_quality": 73,
       "score_notif": 30,
       "cluster": "20261113-37282cc98bf0",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Trilobe Une Folle Journée Gen Two—A New Case and Three Colors",
@@ -2532,7 +2498,7 @@
       "score_quality": 82,
       "score_notif": 33,
       "cluster": "20261113-2452372162b8",
-      "cluster_main": false
+      "cluster_main": true
     }
   ]
 }
