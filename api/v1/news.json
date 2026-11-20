@@ -1,6 +1,6 @@
 {
-  "content_hash": "1e84de4b63b59c8dc656bc3fc6c399c89cbfa4ab3bccb89ca786703c45c659fa",
-  "last_updated": "2026-11-20T15:48:22.664Z",
+  "content_hash": "ccc9df0fa3a197d65d2e3f7d6074910af26a2b2f02529846d6a6d92dfb19863f",
+  "last_updated": "2026-11-20T16:48:59.391Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T15:00:20.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-20T08:01:21.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-20T16:00:05.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-20T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-20T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T14:48:30.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T15:22:09.000Z"
     },
     {
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "New Release: Panerai Submersible Marina Militare Destro PAM01757 Watch",
+      "url": "https://www.ablogtowatch.com/new-release-panerai-submersible-marina-militare-destro-pam01757-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Panerai-Submersible-Marina-Militare-Destro-PAM01757-Featured-768x346.jpg",
+      "peek_preview": "Panerai’s relationship with the Royal Italian Navy goes back to the early 20th century, when the Florentine watchmaker began designing precision instruments ranging from depth gauges and compasses to naval aviation supp...",
+      "categories": [
+        "Watch Releases",
+        "Dive Watches",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-20T16:00:05.000Z",
+      "score_quality": 62,
+      "score_notif": 69,
+      "cluster": "20261120-bfe0b8a4896d",
+      "cluster_main": true
+    },
     {
       "title": "Pflege von Uhren und ihr Werterhalt: Das bieten die großen Marken",
       "url": "https://www.uhrenkosmos.com/pflege-von-uhren-und-ihr-werterhalt/",
@@ -1286,7 +1306,7 @@
       "score_quality": 75,
       "score_notif": 32,
       "cluster": "20261117-d9fdda9581a3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Guess which watch sold for more",
@@ -1372,21 +1392,6 @@
       "score_quality": 63,
       "score_notif": 34,
       "cluster": "20261118-1c7f4c361539",
-      "cluster_main": true
-    },
-    {
-      "title": "Magazine Feature: Nothing More. Nothing Less.",
-      "url": "https://www.hodinkee.com/articles/nothing-more-nothing-less",
-      "image": "https://hodinkee.imgix.net/uploads/articles/62308b8f-d9dd-4917-9050-d75d355ad9c4/Panerai-Feature-Article-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "On Panerai, Italian industrial design, and the strange perfection of an object stripped to its essentials.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-18T16:00:02.000Z",
-      "score_quality": 57,
-      "score_notif": 24,
-      "cluster": "20261118-573d1a06bc23",
       "cluster_main": true
     },
     {
@@ -1936,7 +1941,7 @@
       "score_quality": 84,
       "score_notif": 32,
       "cluster": "20261117-d9fdda9581a3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "シチズン プロマスターに米国海軍のアクロバット飛行隊「ブルーエンジェルス」モデルが登場！",
@@ -2449,27 +2454,6 @@
       "score_quality": 36,
       "score_notif": 32,
       "cluster": "20261114-850372673b6b",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-On: Nubeo Tranquility Automatic Star Trek 60th Anniversary Watch Is A Bold Tribute To The Final Frontier",
-      "url": "https://www.ablogtowatch.com/hands-on-nubeo-tranquility-automatic-star-trek-60th-anniversary-watch-is-a-bold-tribute-to-the-final-frontier/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Nubeo-Tranquility-Automatic-Star-Trek-60th-Anniversary-LE-LOR-Crop-768x346.jpg",
-      "peek_preview": "There are few franchises that have the kind of cultural impact and staying power that “Star Trek” has, but while many of its contemporaries have had legions of themed timepiece offerings, Trek’s forays into the world of...",
-      "categories": [
-        "Hands-On",
-        "Skeletonized Watches",
-        "Space-Themed Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-14T08:01:35.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20261114-921e087c43ad",
       "cluster_main": true
     },
     {
