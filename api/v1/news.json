@@ -1,6 +1,6 @@
 {
-  "content_hash": "eb9b490c217d39261b27ed5b9e3dc943f3613ba3ec9ecd7142c80b24437ae02a",
-  "last_updated": "2026-11-21T04:45:53.548Z",
+  "content_hash": "695f151662bac09da69b67f2c1a9aac9623b26f91505e6efce8b02b70f27f466",
+  "last_updated": "2026-11-21T06:47:18.629Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-20T17:00:40.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-21T06:00:07.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Photo Report: Watch Spotting At The Fratello × Gallet Event",
+      "url": "https://www.fratellowatches.com/photo-report-watch-spotting-at-the-fratello-x-gallet-event/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Fratello-x-Gallet-Event-The-Hague-6.jpg",
+      "peek_preview": "Last week, we hosted our Fratello × Gallet event at the boutique in The Hague, Netherlands. After Jan-Paul ten Hoopen, Breitling’s managing director for the Netherlands, gave a brief introduction, Erwan Rossignol, Galle...",
+      "categories": [
+        "Events & Auctions"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-21T06:00:07.000Z",
+      "score_quality": 50,
+      "score_notif": 25,
+      "cluster": "20261121-8c1c8d7f2966",
+      "cluster_main": true
+    },
     {
       "title": "カシオがマーブルセラミックスを用いた「オシアナス マンタ SG1000シリーズ OCW-SG1000MC」を発表",
       "url": "https://www.webchronos.net/news/179301/",
@@ -1247,7 +1264,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On Debut: RZE Seeker Solar Field Watch Offers Maximum Autonomy For An Entry-Level Price",
@@ -1288,7 +1305,7 @@
       "score_quality": 73,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Oris x Doraemon Big Crown Pointer Date Limited Edition: Retro, Playful, And Surprisingly Subtle.",
@@ -1539,24 +1556,6 @@
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
       "cluster_main": false
-    },
-    {
-      "title": "Hands-On With The Peren One — The Brand’s First Chronograph And Integrated-Bracelet Watch",
-      "url": "https://www.fratellowatches.com/hands-on-peren-one/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Peren-Chronograph-1.jpg",
-      "peek_preview": "Stainless steel sports watches with an integrated bracelet are still very popular these days. That’s probably why Andy Bica, founder of Peren, decided to develop the One, which he released late last year. You can clearl...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases 2025"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-18T12:00:31.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261118-aa1031ae54cb",
-      "cluster_main": true
     },
     {
       "title": "Daniel Roth Extra Plat Rose Gold Gilt Watch: Two Hands, All Elegance",
