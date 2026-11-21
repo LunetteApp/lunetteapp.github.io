@@ -1,6 +1,6 @@
 {
-  "content_hash": "3eefd636342f15a4bc4fea300ed844e35b4f697da11744bca8bae47d134f4220",
-  "last_updated": "2026-11-21T13:47:44.880Z",
+  "content_hash": "1248b019f50f5dc9282e125559222fdacd012ecdc4e39819e92fa4971f61ab9c",
+  "last_updated": "2026-11-21T14:47:14.291Z",
   "premium": {
     "links": []
   },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T17:01:51.000Z"
     },
@@ -30,14 +30,14 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T13:00:57.000Z"
     },
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T12:56:17.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T13:30:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-21T07:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-21T14:30:26.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -143,7 +143,7 @@
       "lang": "de",
       "estimated_articles_per_day": 0.9,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-20T15:22:09.000Z"
+      "latest_article_at": "2026-11-21T14:23:10.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,54 @@
     }
   ],
   "items": [
+    {
+      "title": "New releases from Hermès, Armin Strom, Frederique Constant and more",
+      "url": "https://timeandtidewatches.com/hermes-armin-strom-frederique-constant-last-week-in-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/frederique-constant-web.jpg",
+      "peek_preview": "We are starting this week with a combination of metier d’art and high complications. Hermès announces a Slim inspired by a silk scarf that combines enamel, engraving, and miniature painting; Armin Storm adds Meteorite t...",
+      "categories": [
+        "Last Week in Watches"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-21T14:30:26.000Z",
+      "score_quality": 30,
+      "score_notif": 24,
+      "cluster": "20261121-5b74b7aa14c3",
+      "cluster_main": true
+    },
+    {
+      "title": "Rolex Oyster Perpetual 41 100 years: Ein Jahrhundert Oyster am Handgelenk",
+      "url": "https://www.uhrenkosmos.com/rolex-oyster-perpetual-41-100-years/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Rolex-Oyster-Perpetual-100-years-Aufmacher-Uhrenkosmos.jpg",
+      "peek_preview": "Elf Sekunden in vier Wochen, kaum sichtbare Jubiläumshinweise und eine Geschichte, die 1927 im Ärmelkanal geschrieben wurde: Die Rolex Oyster Perpetual 41 „100 years“ feiert ein Jahrhundert Oyster ohne großes Getöse. Ic...",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Marken & Macher",
+        "Meilensteine",
+        "Watch of Fame",
+        "100 Jahre Rolex Oyster",
+        "Mercedes Gleitze Rolex",
+        "Rolex 134303",
+        "Rolex 134303 Preis",
+        "Rolex 134303 Wertentwicklung",
+        "Rolex Jubiläumsuhr 2026",
+        "Rolex Kaliber 3230",
+        "Rolex Oyster Perpetual 36 126003",
+        "Rolex Oyster Perpetual 41 100 Years",
+        "Rolex Oyster Perpetual Rolesor"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-21T14:23:10.000Z",
+      "score_quality": 74,
+      "score_notif": 82,
+      "cluster": "20261121-3cdf06826181",
+      "cluster_main": true
+    },
     {
       "title": "Armin Strom Dual Time GMT Resonance Manufacture Edition Meteorite: Calibre ARF22 In Steel",
       "url": "https://deployant.com/armin-strom-dual-time-gmt-resonance-manufacture-edition-meteorite/?utm_source=rss&utm_medium=rss&utm_campaign=armin-strom-dual-time-gmt-resonance-manufacture-edition-meteorite",
@@ -425,7 +473,7 @@
       "score_quality": 76,
       "score_notif": 63,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Nodus × Oracle Time Sector II Sport Red Jasper",
@@ -443,7 +491,7 @@
       "score_quality": 78,
       "score_notif": 63,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Hublot Big Bang Denim Watches Return For 2026",
@@ -579,7 +627,7 @@
       "featured": false,
       "published_at": "2026-11-20T14:30:44.000Z",
       "score_quality": 62,
-      "score_notif": 56,
+      "score_notif": 34,
       "cluster": "20261120-1e3a8d34ef09",
       "cluster_main": true
     },
@@ -600,7 +648,7 @@
       "featured": false,
       "published_at": "2026-11-20T14:00:41.000Z",
       "score_quality": 85,
-      "score_notif": 71,
+      "score_notif": 34,
       "cluster": "20261120-0aa13dfe6385",
       "cluster_main": true
     },
@@ -615,7 +663,7 @@
       "featured": false,
       "published_at": "2026-11-20T14:00:00.000Z",
       "score_quality": 82,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261120-39895f5dd5d7",
       "cluster_main": true
     },
@@ -1075,7 +1123,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -1090,7 +1138,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -2050,7 +2098,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Horologically Unique’s HU-02 Revives the Chronoscope",
@@ -2446,8 +2494,8 @@
       "published_at": "2026-11-13T21:11:01.000Z",
       "score_quality": 76,
       "score_notif": 33,
-      "cluster": "20261113-2452372162b8",
-      "cluster_main": false
+      "cluster": "20261113-63fe319f9753",
+      "cluster_main": true
     },
     {
       "title": "Studio Underd0g Debuts First Calendar Complication With New 04SERIES",
@@ -2462,7 +2510,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "News: Vacheron Constantin Concours d'Élégance Horlogère Crowns Seven Winners—and a Best of Show Minute Repeater",
@@ -2498,23 +2546,6 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261113-4297ca8101f3",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Zenith G.F.J. Calibre 135 Double-Signed with J.N. Shapiro—A Swiss Observatory Legend Gets an American Makeover",
-      "url": "https://www.watchcollectinglifestyle.com/home/zenith-gfj-calibre-135-double-signed-with-jn-shapiro",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794581281753-CGXLZYR8T2CS9LMD966G/Zenith+G.F.J.+Calibre+135+Double+Signed+with+J.N.+Shapiro-7.jpg?format=1500w",
-      "peek_preview": "Zenith has turned West. After its first Double-Signed release with Tokyo-based Naoya Hida & Co., the Manufacture now pairs the G.F.J. with American independent watchmaker J.N. Shapiro. Hida focused on the dial and hands...",
-      "categories": [
-        "Zenith"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T14:58:34.000Z",
-      "score_quality": 82,
-      "score_notif": 33,
-      "cluster": "20261113-2452372162b8",
       "cluster_main": true
     }
   ]
