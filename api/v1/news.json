@@ -1,6 +1,6 @@
 {
-  "content_hash": "d84be09e916b5072ba375da2e9b813509c7a6210e2d0e84766ce4b95abc96bb7",
-  "last_updated": "2026-11-21T18:47:44.690Z",
+  "content_hash": "b32afbccc66f7d1bac5527d5dbef93867a6705efe62a89b3a883a02895bca499",
+  "last_updated": "2026-11-21T19:45:43.743Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T18:00:39.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T14:23:10.000Z"
     },
     {
@@ -532,7 +532,7 @@
       "featured": false,
       "published_at": "2026-11-20T19:00:00.000Z",
       "score_quality": 76,
-      "score_notif": 37,
+      "score_notif": 34,
       "cluster": "20261120-d5d43ebb729e",
       "cluster_main": true
     },
