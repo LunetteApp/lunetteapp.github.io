@@ -1,6 +1,6 @@
 {
-  "content_hash": "335ae7659b23e81a5932a75ab0bef0ecf3297083fbee312b24687c00224a2283",
-  "last_updated": "2026-11-21T15:47:55.951Z",
+  "content_hash": "1f05c54ece3ad79102fb3300ff019eb15ae7b40d5f0dac3ea302707871ca7e45",
+  "last_updated": "2026-11-21T16:47:03.375Z",
   "premium": {
     "links": []
   },
@@ -16,21 +16,21 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T15:00:13.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T15:00:24.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T15:00:10.000Z"
     },
     {
@@ -608,7 +608,7 @@
       "featured": false,
       "published_at": "2026-11-20T16:00:05.000Z",
       "score_quality": 62,
-      "score_notif": 69,
+      "score_notif": 34,
       "cluster": "20261120-bfe0b8a4896d",
       "cluster_main": true
     },
@@ -909,7 +909,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Frederique Constant Classic: tourbillon e perpetuo a 26.995 euro",
@@ -1034,7 +1034,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: ArtyA Purity Curvy HMS Sapphire Sport Edition Watches",
@@ -1203,7 +1203,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -1218,7 +1218,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -2060,8 +2060,8 @@
       "published_at": "2026-11-17T10:32:56.000Z",
       "score_quality": 82,
       "score_notif": 30,
-      "cluster": "20261117-a34d650246ac",
-      "cluster_main": true
+      "cluster": "20261113-37282cc98bf0",
+      "cluster_main": false
     },
     {
       "title": "Lip Churchill T24 Golden Sand x Ocarat : Test & Avis",
@@ -2548,6 +2548,24 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
+      "cluster_main": true
+    },
+    {
+      "title": "News: Vacheron Constantin Concours d'Élégance Horlogère Crowns Seven Winners—and a Best of Show Minute Repeater",
+      "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-concours-d-elegance-horlogere-winners",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794587844319-5UYQSP3EHFAE31WSK3EV/Vacheron+Constantin+CDE_Group_Picture.jpg?format=1500w",
+      "peek_preview": "Last year, WCL profiled Vacheron Constantin's rarest horological treasures for the Maison's 270th anniversary, and this Concours adds new chapters to that story. On 10 November 2026, at the Hôtel Président in Geneva, th...",
+      "categories": [
+        "Vacheron Constantin",
+        "News"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-13T17:02:01.000Z",
+      "score_quality": 72,
+      "score_notif": 30,
+      "cluster": "20261113-37282cc98bf0",
       "cluster_main": true
     }
   ]
