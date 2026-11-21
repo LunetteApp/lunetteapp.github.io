@@ -1,6 +1,6 @@
 {
-  "content_hash": "0e6590d39dcade269524498df72297518c971ef3b05c58bae0ec4dc9c8b8220b",
-  "last_updated": "2026-11-20T23:45:56.776Z",
+  "content_hash": "4c20cabb2f4de0452647bdaac0db47d71cd5c895eebc2c2eee88d7ed88490178",
+  "last_updated": "2026-11-21T00:47:23.961Z",
   "premium": {
     "links": []
   },
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-20T03:00:27.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-21T00:00:45.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "G-SHOCKが「LUXE BLACK」にタフソーラー搭載の「GBM-2100LXB」を追加",
+      "url": "https://www.webchronos.net/news/179327/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/GBM-2100LXB-1A2_side_v3.webp",
+      "peek_preview": "G-SHOCKが「LUXE BLACK」シリーズに、ソーラー充電システム「タフソーラー」とスマートフォンリンク機能を備える「GBM-2100LXB」を追加した。ブラックIP処理を施したステンレススティール製の八角形ベゼル […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-21T00:00:45.000Z",
+      "score_quality": 62,
+      "score_notif": 68,
+      "cluster": "20261121-b0beee7607c3",
+      "cluster_main": true
+    },
     {
       "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
       "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
@@ -596,7 +611,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Frederique Constant Classic: tourbillon e perpetuo a 26.995 euro",
@@ -684,7 +699,7 @@
       "featured": false,
       "published_at": "2026-11-20T00:00:20.000Z",
       "score_quality": 88,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261120-b332dcca2596",
       "cluster_main": true
     },
@@ -699,7 +714,7 @@
       "featured": false,
       "published_at": "2026-11-20T00:00:19.000Z",
       "score_quality": 78,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261120-b332dcca2596",
       "cluster_main": false
     },
@@ -721,7 +736,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: ArtyA Purity Curvy HMS Sapphire Sport Edition Watches",
@@ -2187,21 +2202,6 @@
       "cluster_main": true
     },
     {
-      "title": "チャペックが「フォーブル・ド・クラコヴィ クロスロード ライトニング」を発表",
-      "url": "https://www.webchronos.net/news/178801/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/Czapek_CrossroadsLightning_01.webp",
-      "peek_preview": "チャペックが、レーシングドライバーのヤコポ・マッツァのヘルメットに着想を得た「フォーブル・ド・クラコヴィ クロスロード ライトニング」を発表した。ブラック、シルバー、レッドの配色を持つ本作は、3万6000振動／時で駆動す […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-16T00:00:47.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261116-b2903854692a",
-      "cluster_main": true
-    },
-    {
       "title": "aBlogtoWatch Weekly #247: Luxury Watch CEOs Losing Power, GPHG Awards Controversy, And $5,000 Tourbillons",
       "url": "https://www.ablogtowatch.com/ablogtowatch-weekly-247-luxury-watch-ceos-losing-power-gphg-awards-controversy-and-5000-tourbillons/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/ABTWW-247-FI-768x346.jpg",
@@ -2430,7 +2430,7 @@
       "score_quality": 76,
       "score_notif": 33,
       "cluster": "20261113-2452372162b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Studio Underd0g Debuts First Calendar Complication With New 04SERIES",
@@ -2498,7 +2498,7 @@
       "score_quality": 82,
       "score_notif": 33,
       "cluster": "20261113-2452372162b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Mickaël Gaspar Souscription: First Hands-On Impressions",
