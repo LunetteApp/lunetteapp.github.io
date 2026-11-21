@@ -1,6 +1,6 @@
 {
-  "content_hash": "6707227999ca9cbbc6159980e3a34fcd695c68c154856a9feeff9659c043d60b",
-  "last_updated": "2026-11-21T08:47:19.234Z",
+  "content_hash": "aad19ad91550edf9dcad85ded82e138ce08919485811aba350bd38ae1b25f66e",
+  "last_updated": "2026-11-21T09:47:20.903Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T08:01:37.000Z"
     },
     {
@@ -852,7 +852,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Credor Goldfeather Review: The Thin Dress Watch Revival, Revisited",
@@ -1342,29 +1342,6 @@
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
       "cluster_main": false
-    },
-    {
-      "title": "First Look – Frederique Constant’s More Compact Classic Tourbillon Perpetual Calendar with Sapphire Dial (Incl. Video)",
-      "url": "https://monochrome-watches.com/2026-frederique-constants-tourbillon-perpetual-calendar-40mm-sapphire-marquetry-dial-video-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/2026-Frederique-Constant-Classic-Tourbillon-Perpetual-Calendar-Manufacture-40mm-Sapphire-marquetry-dial-video-review-11-600x237.jpg",
-      "peek_preview": "The tourbillon and perpetual calendar are two of watchmaking’s most coveted complications: the first for the kinetic theatre of its rotating cage, the second for its ingenious mastery of time’s irregularities. United, t...",
-      "categories": [
-        "Frederique Constant",
-        "2026",
-        "Novelty",
-        "Perpetual Calendar",
-        "Tourbillon",
-        "Value Proposition",
-        "video"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T07:01:28.000Z",
-      "score_quality": 83,
-      "score_notif": 34,
-      "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": true
     },
     {
       "title": "Hands-On With The Chopard L.U.C 1963 Heritage Chronograph In Prussian Blue",
@@ -2531,6 +2508,23 @@
       "score_quality": 52,
       "score_notif": 24,
       "cluster": "20261113-52b2cbbb37fe",
+      "cluster_main": true
+    },
+    {
+      "title": "한국의 아기상어가 브라이틀링 슈퍼오션에",
+      "url": "https://www.gmtkoreaseoul.com/post/%ED%95%9C%EA%B5%AD%EC%9D%98-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4%EA%B0%80-%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8B%80%EB%A7%81-%EC%8A%88%ED%8D%BC%EC%98%A4%EC%85%98%EC%97%90",
+      "image": "https://static.wixstatic.com/media/bd93d4_ac200eb81b1f496fbc1a1dc1b23e1313~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "peek_preview": "한국에서 태어나 여전히 인기 고공비행 중인 주인공. 바다를 닮은 컬러에 한눈에 알아볼 수 있는 트레이드마크까지, 브라이틀링이 오직 한국을 위해 준비한 특별한 에디션이 드디어 베일을 벗었다.",
+      "categories": [
+        "NEW PRODUCT"
+      ],
+      "source_name": "GMT Korea",
+      "lang": "ko",
+      "featured": false,
+      "published_at": "2026-11-13T02:04:09.000Z",
+      "score_quality": 45,
+      "score_notif": 24,
+      "cluster": "20261113-a610e70ea998",
       "cluster_main": true
     }
   ]
