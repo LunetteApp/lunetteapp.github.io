@@ -1,6 +1,6 @@
 {
-  "content_hash": "86ca61e8b8b801d3b904be4348f935f498146c1931f001a6e2566769f2f93c04",
-  "last_updated": "2026-11-21T17:45:44.264Z",
+  "content_hash": "d84be09e916b5072ba375da2e9b813509c7a6210e2d0e84766ce4b95abc96bb7",
+  "last_updated": "2026-11-21T18:47:44.690Z",
   "premium": {
     "links": []
   },
@@ -22,7 +22,7 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T15:00:24.000Z"
     },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-21T15:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-21T18:00:39.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
+      "new_articles_since_last_update": 1,
       "latest_article_at": "2026-11-21T14:23:10.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "aBlogtoWatch Weekly #248: Zenith And J.N. Shapiro Join Forces, The Evolution Of Solar Watches, And Studio Underd0g’s Bold New Direction",
+      "url": "https://www.ablogtowatch.com/ablogtowatch-weekly-248-zenith-and-j-n-shapiro-join-forces-the-evolution-of-solar-watches-and-studio-underd0gs-bold-new-direction/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/ABTWW-248-FI-768x346.jpg",
+      "peek_preview": "This week on aBlogtoWatch Weekly, Ariel, Rick, and Ripley dive into the latest watch releases, unexpected collaborations, and evolving technologies shaping the watch industry. Leading the conversation is the impressive...",
+      "categories": [
+        "aBlogtoWatch Podcasts",
+        "aBlogtoWatch Weekly"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-21T18:00:39.000Z",
+      "score_quality": 32,
+      "score_notif": 24,
+      "cluster": "20261121-9b1646f50be3",
+      "cluster_main": true
+    },
     {
       "title": "The ABCs of Time – The Watches of James Bond, The Complete Guide to Every Watch Worn by 007",
       "url": "https://monochrome-watches.com/the-watches-of-james-bond-the-complete-guide-to-every-watch-worn-by-007-abcs-of-time/",
@@ -529,7 +547,7 @@
       "featured": false,
       "published_at": "2026-11-20T18:00:00.000Z",
       "score_quality": 82,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261120-65a56907db2f",
       "cluster_main": true
     },
@@ -909,7 +927,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Frederique Constant Classic: tourbillon e perpetuo a 26.995 euro",
@@ -1034,7 +1052,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: ArtyA Purity Curvy HMS Sapphire Sport Edition Watches",
@@ -1203,7 +1221,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -1218,7 +1236,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -2102,27 +2120,6 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261117-31e161142d52",
-      "cluster_main": true
-    },
-    {
-      "title": "Benrus Type 3X Watch Review: An Unsteady Brand Finally Blows Me Away",
-      "url": "https://www.ablogtowatch.com/benrus-type-3x-watch-review-an-unsteady-brand-finally-blows-me-away/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Benrus-Type-3X-RAZ-Crop-01-768x346.jpg",
-      "peek_preview": "I’ve reviewed more than 30 watches this year (my slowest year in quite some time), and this new Benrus hit me harder than any of the others. I’m not saying it’s the best watch I’ve reviewed, though it may just be. I’ve...",
-      "categories": [
-        "Wrist Time Reviews",
-        "Dive Watches",
-        "GMT Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-17T08:01:14.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20261117-56e43d78f72f",
       "cluster_main": true
     },
     {
