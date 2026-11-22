@@ -1,6 +1,6 @@
 {
-  "content_hash": "5e7b3c6ab4cbe2b7a3a2d1057b590e414b209360a20a3e7174912a09714430b5",
-  "last_updated": "2026-11-22T00:47:05.474Z",
+  "content_hash": "2a48fa8fd915c27a594b7842b43cf8e460a482f5bf55602c7c8a86b190c14132",
+  "last_updated": "2026-11-22T03:47:27.590Z",
   "premium": {
     "links": []
   },
@@ -71,7 +71,7 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
+      "estimated_articles_per_day": 1.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T04:00:53.000Z"
     },
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
+      "estimated_articles_per_day": 2,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-22T00:00:03.000Z"
+      "latest_article_at": "2026-11-22T03:00:11.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "G-SHOCKが「MR-G」誕生30周年記念モデル「MRG-B2100HR-1AJR」を発表。プラチナ箔と構造色技術で伝統と革新を融合",
+      "url": "https://www.webchronos.net/news/179349/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/gshock_mrg_b2100hr_01.webp",
+      "peek_preview": "G-SHOCKが、「MR-G」誕生30周年を記念した限定モデル「MRG-B2100HR-1AJR」を発表した。箔アーティストである裕人礫翔（ひろと らくしょう）とのコラボレーションにより、日本の伝統的な箔工芸と先端技術を […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-22T03:00:11.000Z",
+      "score_quality": 72,
+      "score_notif": 73,
+      "cluster": "20261122-68f4ad6d1981",
+      "cluster_main": true
+    },
     {
       "title": "トゥールビヨンを搭載したテンデンス「K9 トゥールビリオン」にふたつの新色が登場",
       "url": "https://www.webchronos.net/news/178918/",
@@ -502,7 +517,7 @@
       "featured": false,
       "published_at": "2026-11-21T03:00:13.000Z",
       "score_quality": 62,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261121-7ba042b61fcb",
       "cluster_main": true
     },
@@ -942,7 +957,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Frederique Constant Classic: tourbillon e perpetuo a 26.995 euro",
@@ -1067,7 +1082,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: ArtyA Purity Curvy HMS Sapphire Sport Edition Watches",
@@ -2093,8 +2108,8 @@
       "published_at": "2026-11-17T10:32:56.000Z",
       "score_quality": 82,
       "score_notif": 30,
-      "cluster": "20261113-37282cc98bf0",
-      "cluster_main": false
+      "cluster": "20261117-a34d650246ac",
+      "cluster_main": true
     },
     {
       "title": "Lip Churchill T24 Golden Sand x Ocarat : Test & Avis",
@@ -2545,24 +2560,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": true
-    },
-    {
-      "title": "News: Vacheron Constantin Concours d'Élégance Horlogère Crowns Seven Winners—and a Best of Show Minute Repeater",
-      "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-concours-d-elegance-horlogere-winners",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794587844319-5UYQSP3EHFAE31WSK3EV/Vacheron+Constantin+CDE_Group_Picture.jpg?format=1500w",
-      "peek_preview": "Last year, WCL profiled Vacheron Constantin's rarest horological treasures for the Maison's 270th anniversary, and this Concours adds new chapters to that story. On 10 November 2026, at the Hôtel Président in Geneva, th...",
-      "categories": [
-        "Vacheron Constantin",
-        "News"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T17:02:01.000Z",
-      "score_quality": 72,
-      "score_notif": 30,
-      "cluster": "20261113-37282cc98bf0",
       "cluster_main": true
     }
   ]
