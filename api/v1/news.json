@@ -1,6 +1,6 @@
 {
-  "content_hash": "cd1de92081a2702aa05a885476a2af25b632da50e5e4f876feb0872c163ba663",
-  "last_updated": "2026-11-22T13:47:14.461Z",
+  "content_hash": "644ead9907371767b0601a83c0cfbf86b70a4555ac96509a8037539c76858e88",
+  "last_updated": "2026-11-22T14:47:08.355Z",
   "premium": {
     "links": []
   },
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-22T13:00:41.000Z"
     },
     {
@@ -58,7 +58,7 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-22T13:30:00.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-22T07:00:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-22T14:30:50.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
+      "url": "https://timeandtidewatches.com/atowak-releases-its-most-ambitious-wandering-hour-watch-yet-the-cosmofleet-ascent/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/ATOWAK-Cosmofleet-Ascent-Hero-1.jpg",
+      "peek_preview": "ATOWAK’s latest watch, the Cosmofleet Ascent, marks a significant milestone for the Chinese brand as it makes significant inroads towards its goal of becoming an independent watchmaker. With previous editions of the Cos...",
+      "categories": [
+        "Micro Mondays",
+        "wandering hours"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-22T14:30:50.000Z",
+      "score_quality": 69,
+      "score_notif": 61,
+      "cluster": "20261122-a336eb56f156",
+      "cluster_main": true
+    },
     {
       "title": "Portraits at IAMWATCH 2024 and 2026: On Film and Digital",
       "url": "https://deployant.com/portraits-at-iamwatch/?utm_source=rss&utm_medium=rss&utm_campaign=portraits-at-iamwatch",
@@ -443,7 +461,7 @@
       "featured": false,
       "published_at": "2026-11-21T14:23:10.000Z",
       "score_quality": 74,
-      "score_notif": 82,
+      "score_notif": 34,
       "cluster": "20261121-3cdf06826181",
       "cluster_main": true
     },
@@ -1094,7 +1112,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Frederique Constant Classic: tourbillon e perpetuo a 26.995 euro",
@@ -1219,7 +1237,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: ArtyA Purity Curvy HMS Sapphire Sport Edition Watches",
@@ -2110,23 +2128,6 @@
       "score_quality": 77,
       "score_notif": 26,
       "cluster": "20261117-993cfd87a196",
-      "cluster_main": true
-    },
-    {
-      "title": "It will be impossible not to want a vintage Movado after watching this…",
-      "url": "https://timeandtidewatches.com/vintage-movado-watches-explored-in-depth-video/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/vintage-movado-watches-in-depth-61.jpg",
-      "peek_preview": "A table of vintage pieces, laid out chronologically in the Movado archive room, proved just how much the brand is more than the Museum. The post It will be impossible not to want a vintage Movado after watching this… ap...",
-      "categories": [
-        "Video"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-17T12:01:34.000Z",
-      "score_quality": 30,
-      "score_notif": 16,
-      "cluster": "20261117-b55a2f173bab",
       "cluster_main": true
     },
     {
