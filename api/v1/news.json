@@ -1,6 +1,6 @@
 {
-  "content_hash": "644ead9907371767b0601a83c0cfbf86b70a4555ac96509a8037539c76858e88",
-  "last_updated": "2026-11-22T14:47:08.355Z",
+  "content_hash": "f5bfc06a94f1a329564a6f049709a52d0fe3665830bbc3a93fe76dfeed2b8e1c",
+  "last_updated": "2026-11-22T15:47:44.594Z",
   "premium": {
     "links": []
   },
@@ -15,7 +15,7 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
+      "estimated_articles_per_day": 1.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T15:00:13.000Z"
     },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-22T14:30:50.000Z"
     },
     {
@@ -141,9 +141,9 @@
     {
       "source_name": "Uhrenkosmos",
       "lang": "de",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-21T14:23:10.000Z"
+      "estimated_articles_per_day": 1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-22T14:52:02.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,33 @@
     }
   ],
   "items": [
+    {
+      "title": "Alpina Startimer Pilot Solarmetre Galaga: Insert Coin für die Fliegeruhr",
+      "url": "https://www.uhrenkosmos.com/alpina-startimer-pilot-solarmetre-galaga/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Alpina-Startimer-Pilot-Solarmetre-Galaga-Aufmacher-Uhrenkosmos-scaled-e1795357074275.jpg",
+      "peek_preview": "Mit der Startimer Pilot Solarmetre Galaga holt Alpina die Invasoren des Arcade-Klassikers von 1981 auf das Zifferblatt einer 38-Millimeter-Fliegeruhr, limitiert auf 1981 Exemplare.",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Alpina",
+        "Marken & Macher",
+        "Alpina Startimer",
+        "Alpina Startimer Pilot",
+        "Alpina Startimer Pilot Solarmetre Galaga",
+        "Fliegeruhr",
+        "limitierte Edition",
+        "Solar-Zifferblatt",
+        "Solaruhr"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-22T14:52:02.000Z",
+      "score_quality": 72,
+      "score_notif": 30,
+      "cluster": "20261120-be52f91c6894",
+      "cluster_main": true
+    },
     {
       "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
       "url": "https://timeandtidewatches.com/atowak-releases-its-most-ambitious-wandering-hour-watch-yet-the-cosmofleet-ascent/",
@@ -413,7 +440,7 @@
       "featured": false,
       "published_at": "2026-11-21T15:00:10.000Z",
       "score_quality": 67,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261121-531b3fc68af6",
       "cluster_main": true
     },
@@ -981,9 +1008,9 @@
       "featured": false,
       "published_at": "2026-11-20T13:00:00.000Z",
       "score_quality": 61,
-      "score_notif": 34,
+      "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Due President, un solo Rolex: il Day-Date «White House»",
@@ -2536,37 +2563,6 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261114-9ce3c037f1dd",
-      "cluster_main": true
-    },
-    {
-      "title": "Uhrenmessen 2027: Die wichtigen Messen, Termine und Aussteller",
-      "url": "https://www.uhrenkosmos.com/uhrenmessen-2027-uebersicht-termine-und-infos/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Uhrenmessen-2027-die-man-im-Auge-haben-sollte.jpg",
-      "peek_preview": "Je weiter die Digitalisierung voranschreitet, desto wichtiger werden die Messetermine, an denen Neuheiten vor Ort geprüft und eingeordnet werden können. Ebenso wichtig ist die Möglichkeit zum persönlichen Gespräch. Das...",
-      "categories": [
-        "Aktuell",
-        "Messen",
-        "Uhrenmarkt",
-        "Baselworld",
-        "Dubai Watch Week",
-        "Geneva Watch Days",
-        "GPHG",
-        "Inhorgenta",
-        "Inhorgenta 2027",
-        "LVMH Watch Week",
-        "Time to Watches",
-        "Uhrenmesse Basel",
-        "Uhrenmessen",
-        "Watches and Wonders",
-        "WatchTime New York"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-14T11:35:21.000Z",
-      "score_quality": 72,
-      "score_notif": 27,
-      "cluster": "20261114-f466f4b961ae",
       "cluster_main": true
     }
   ]
