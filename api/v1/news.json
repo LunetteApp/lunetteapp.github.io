@@ -1,6 +1,6 @@
 {
-  "content_hash": "5539bf5b25ecbdcf51097dcdddfae7baefbbbb51b17022ca62d79d77dc5d3d6f",
-  "last_updated": "2026-11-22T06:47:41.429Z",
+  "content_hash": "1b19b88e50fac8550255483dca8c2603424390f47c8d5705dcf13bda0628c64a",
+  "last_updated": "2026-11-22T07:47:57.566Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-22T06:00:32.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-21T14:30:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-22T07:00:59.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "This year, neo-vintage broke into the main stream",
+      "url": "https://timeandtidewatches.com/neo-vintage-auction-opinion/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/patek-philippe-3970-2-1750x986.jpg",
+      "peek_preview": "Are we witnessing the beginning of a new age in watch collecting as the underappreciated move into the mainstream? The post This year, neo-vintage broke into the main stream appeared first on Time+Tide Watches.",
+      "categories": [
+        "Opinion"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-22T07:00:59.000Z",
+      "score_quality": 56,
+      "score_notif": 27,
+      "cluster": "20261122-fe5612fb4019",
+      "cluster_main": true
+    },
     {
       "title": "Sunday Morning Showdown: Breitling Navitimer B09 Chronograph 41 Vs. Omega Speedmaster Moonwatch",
       "url": "https://www.fratellowatches.com/sunday-morning-showdown-breitling-navitimer-b09-chronograph-41-vs-omega-speedmaster-moonwatch/",
@@ -618,7 +635,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Nodus × Oracle Time Sector II Sport Red Jasper",
@@ -636,7 +653,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Hublot Big Bang Denim Watches Return For 2026",
@@ -1268,7 +1285,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -1283,7 +1300,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -2184,7 +2201,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261113-974f39464694",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Horologically Unique’s HU-02 Revives the Chronoscope",
@@ -2545,21 +2562,6 @@
       "score_quality": 76,
       "score_notif": 33,
       "cluster": "20261113-63fe319f9753",
-      "cluster_main": true
-    },
-    {
-      "title": "Studio Underd0g Debuts First Calendar Complication With New 04SERIES",
-      "url": "https://teddybaldassarre.com/blogs/watches/studio-underd0g-04series",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Studio_Underd0g_-_04SERIES_-_Cloud10_38.5mm_-_Laid_Down_Strap-2.jpg?v=1794596912",
-      "peek_preview": "Though it might only have six years under its belt so far, Studio Underd0g has managed to solidify itself as a standout in the independent watch sector with its punchy, unmistakable design and just the right amount of i...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T20:05:25.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261113-974f39464694",
       "cluster_main": true
     }
   ]
