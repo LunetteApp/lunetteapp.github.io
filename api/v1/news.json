@@ -1,6 +1,6 @@
 {
-  "content_hash": "0bf60cffe369edaf8bcf38944263784996571131f41be4cf7d33644805433eb8",
-  "last_updated": "2026-11-22T08:45:50.469Z",
+  "content_hash": "a1a14067538fad308ebb8fe9b84dda5995f5f868ab22dc5421c759ec457fc11d",
+  "last_updated": "2026-11-22T09:47:30.785Z",
   "premium": {
     "links": []
   },
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-21T18:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-22T08:01:00.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Watch Review: The Heinrich Helicoprion Football Edition Watch Targets Gridiron Diehards",
+      "url": "https://www.ablogtowatch.com/watch-review-the-heinrich-helicoprion-football-edition-watch-targets-gridiron-diehards/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Heinrich-Helicoprion-Football-Edition-17-768x329.jpeg",
+      "peek_preview": "One of the biggest trends over the past few years has been experimentation with dial colors, textures, and especially materials. Meteorite dials have seen a resurgence in popularity; stone dials have been yanked out of...",
+      "categories": [
+        "Watch Releases",
+        "Wrist Time Reviews",
+        "football",
+        "German Watches",
+        "Sports Watches"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-22T08:01:00.000Z",
+      "score_quality": 65,
+      "score_notif": 46,
+      "cluster": "20261122-b0e249ec838e",
+      "cluster_main": true
+    },
     {
       "title": "This year, neo-vintage broke into the main stream",
       "url": "https://timeandtidewatches.com/neo-vintage-auction-opinion/",
@@ -1230,7 +1251,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Goodies: MB&F The First Twenty Years—The Catalogue Raisonné That Keeps Nothing Secret",
@@ -1285,7 +1306,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -1300,7 +1321,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -1785,7 +1806,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hublot Big Bang Denim: quattro nuovi modelli tra titanio e acciaio",
@@ -2547,21 +2568,6 @@
       "score_quality": 36,
       "score_notif": 32,
       "cluster": "20261114-850372673b6b",
-      "cluster_main": true
-    },
-    {
-      "title": "Zenith Teams With J.N. Shapiro for G.F.J. Calibre 135 Double-Signed Limited Edition",
-      "url": "https://teddybaldassarre.com/blogs/watches/zenith-gfj-calibre-135-jn-shapiro",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Zenith-JN-Shapiro-3.jpg?v=1794603618",
-      "peek_preview": "Zenith established its “Double Signed” program, in which the Swiss manufacture invites independent watchmakers and other artisans to collaborate on special co-branded timepieces, earlier this year. For the first watch t...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-13T21:11:01.000Z",
-      "score_quality": 76,
-      "score_notif": 33,
-      "cluster": "20261113-63fe319f9753",
       "cluster_main": true
     }
   ]
