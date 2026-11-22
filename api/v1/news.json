@@ -1,6 +1,6 @@
 {
-  "content_hash": "2a48fa8fd915c27a594b7842b43cf8e460a482f5bf55602c7c8a86b190c14132",
-  "last_updated": "2026-11-22T03:47:27.590Z",
+  "content_hash": "5539bf5b25ecbdcf51097dcdddfae7baefbbbb51b17022ca62d79d77dc5d3d6f",
+  "last_updated": "2026-11-22T06:47:41.429Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-21T12:00:39.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-22T06:00:32.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-22T03:00:11.000Z"
     },
     {
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Sunday Morning Showdown: Breitling Navitimer B09 Chronograph 41 Vs. Omega Speedmaster Moonwatch",
+      "url": "https://www.fratellowatches.com/sunday-morning-showdown-breitling-navitimer-b09-chronograph-41-vs-omega-speedmaster-moonwatch/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Breitling-Navitimer-B09-vs-Omega-Speedmaster-Moonwatch-cover-SMS.jpg",
+      "peek_preview": "It’s Sunday morning, which means it’s time for another one of our weekly showdowns. This week, two legendary hand-wound chronographs go head to head. Nacho picked the Breitling Navitimer B09 Chronograph 41, which recent...",
+      "categories": [
+        "Sunday Morning Showdown"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-22T06:00:32.000Z",
+      "score_quality": 54,
+      "score_notif": 24,
+      "cluster": "20261122-9745d66ae065",
+      "cluster_main": true
+    },
     {
       "title": "G-SHOCKが「MR-G」誕生30周年記念モデル「MRG-B2100HR-1AJR」を発表。プラチナ箔と構造色技術で伝統と革新を融合",
       "url": "https://www.webchronos.net/news/179349/",
@@ -601,7 +618,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Nodus × Oracle Time Sector II Sport Red Jasper",
@@ -619,7 +636,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Hublot Big Bang Denim Watches Return For 2026",
@@ -957,7 +974,7 @@
       "score_quality": 83,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Frederique Constant Classic: tourbillon e perpetuo a 26.995 euro",
@@ -1082,7 +1099,7 @@
       "score_quality": 82,
       "score_notif": 34,
       "cluster": "20261119-98b247ce5104",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: ArtyA Purity Curvy HMS Sapphire Sport Edition Watches",
@@ -1196,7 +1213,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Goodies: MB&F The First Twenty Years—The Catalogue Raisonné That Keeps Nothing Secret",
@@ -1522,23 +1539,6 @@
       "cluster_main": true
     },
     {
-      "title": "Fratello Talks: Bringing Gallet Back To Life With Erwan Rossignol",
-      "url": "https://www.fratellowatches.com/fratello-talks-bringing-gallet-back-to-life-with-erwan-rossignol/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Fratello-x-Gallet-Event-The-Hague-4.jpg",
-      "peek_preview": "Gallet is a name with two centuries of watchmaking history behind it. Founded in 1826, the Swiss brand built a reputation for chronographs associated with aviation, motorsport, sailing, and exploration. Now, following i...",
-      "categories": [
-        "Podcast"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T09:30:52.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261119-cfc477a53179",
-      "cluster_main": true
-    },
-    {
       "title": "Classic Tourbillon Perpetual Calendar Manufacture: la trasparenza secondo Frederique Constant",
       "url": "https://www.watchinsanity.it/frederique-constant-classic-tourbillon-perpetual-calendar-manufacture/",
       "image": "https://www.watchinsanity.it/wp-content/uploads/2026/11/Frederique_Constant_Classic_Tourbillon_QP_Manufacture_Watch_Insanity_04-1024x682.jpg",
@@ -1768,7 +1768,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hublot Big Bang Denim: quattro nuovi modelli tra titanio e acciaio",
