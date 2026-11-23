@@ -1,6 +1,6 @@
 {
-  "content_hash": "217542403cd1ba1aa46a114fe58be78f2956e485b7104834bdee430357ac1f8c",
-  "last_updated": "2026-11-23T12:48:06.314Z",
+  "content_hash": "e9226ad41b5ac9619a99cba42954ec9caea3e865da703ebfd7a8f88d4992191f",
+  "last_updated": "2026-11-23T13:48:42.472Z",
   "premium": {
     "links": []
   },
@@ -58,8 +58,8 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-22T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
@@ -86,7 +86,7 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T12:00:00.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T12:19:37.000Z"
     },
     {
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Citizen Attesa H800 Hazy White and Hazy Black: Full Sapphire Bezel",
+      "url": "https://deployant.com/new-citizen-attesa-h800-full-sapphire-bezel-hazy-white-hazy-black/?utm_source=rss&utm_medium=rss&utm_campaign=new-citizen-attesa-h800-full-sapphire-bezel-hazy-white-hazy-black",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/07_release_yoko-for-deployant.jpeg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Citizen introduces two new limited editions to the Attesa H800 collection, the Hazy White and Hazy Black. Both feature a full sapphire bezel construction, wit...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "Citizen"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T13:30:00.000Z",
+      "score_quality": 64,
+      "score_notif": 62,
+      "cluster": "20261123-1117786cf8c7",
+      "cluster_main": true
+    },
     {
       "title": "Uhrengehäuse aus Stahl: Der große Ratgeber zu 316L, 904L und ein paar Markenmythen",
       "url": "https://www.uhrenkosmos.com/uhrengehaeuse-aus-stahl-ratgeber-uebersicht/",
@@ -548,7 +568,7 @@
       "featured": false,
       "published_at": "2026-11-22T13:00:41.000Z",
       "score_quality": 78,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261122-5423d8cb78a7",
       "cluster_main": true
     },
@@ -1435,7 +1455,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Inside One of America’s Last Public Watchmaking Schools",
@@ -1564,7 +1584,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Credor Goldfeather Review: The Thin Dress Watch Revival, Revisited",
@@ -1670,7 +1690,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -1685,7 +1705,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
@@ -2527,26 +2547,6 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261116-bcbc90acd282",
-      "cluster_main": true
-    },
-    {
-      "title": "URWERK UR-101 Green Mamba: A New Take on an Icon",
-      "url": "https://deployant.com/urwerk-ur-101-green-mamba/?utm_source=rss&utm_medium=rss&utm_campaign=urwerk-ur-101-green-mamba",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/2026_10_21-urwerk-green-mamba6232.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors URWERK returns to one of its earliest models with the UR-101 Green Mamba, a new interpretation of the watch first unveiled at Baselworld in 1997. Nearly three...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "urwerk"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-16T13:30:00.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261116-c1e89dc53c1e",
       "cluster_main": true
     }
   ]
