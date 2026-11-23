@@ -1,6 +1,6 @@
 {
-  "content_hash": "1e78d4891d387de6550a207d630e9322ba3503d120cd5cf2b4a1089c881b4a01",
-  "last_updated": "2026-11-23T21:48:13.991Z",
+  "content_hash": "7e3c93d0df0be4cae7d355d7ebe68627bac924da49dd21db8f229b888236921d",
+  "last_updated": "2026-11-23T22:47:14.733Z",
   "premium": {
     "links": []
   },
@@ -44,15 +44,15 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-22T19:36:00.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-12T12:46:38.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T16:37:45.000Z"
     },
     {
       "source_name": "Deployant",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T21:40:22.000Z"
     },
     {
@@ -331,6 +331,28 @@
       "score_notif": 66,
       "cluster": "20261123-373116b90e44",
       "cluster_main": true
+    },
+    {
+      "title": "Frederique Constant Takes Sapphire Dials To A New Level",
+      "url": "https://www.atimelyperspective.com/frederique-constant-takes-sapphire-dials-to-a-new-level/",
+      "image": "https://www.atimelyperspective.com/wp-content/uploads/Detail_FC-975N3H6_SD.jpeg",
+      "peek_preview": "Having watched Frederique Constant evolve over the decades (yes, I was covering the industry when the brand launched), I continue to be impressed with the strides this relatively young Swiss watch brand makes in the rea...",
+      "categories": [
+        "Calendar Watches",
+        "Complicated Watches",
+        "Frédérique Constant",
+        "Timepieces News, Reviews and Articles",
+        "Tourbillon Watches",
+        "Frederique Constant Classic Tourbillon Perpetual Calendar"
+      ],
+      "source_name": "A Timely Perspective",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T16:37:45.000Z",
+      "score_quality": 46,
+      "score_notif": 34,
+      "cluster": "20261119-80ea0ca4ac06",
+      "cluster_main": false
     },
     {
       "title": "Just Because: Hunting for Vintage Watch Ads In A Brooklyn Basement",
@@ -2556,23 +2578,6 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261117-f43766dca8be",
-      "cluster_main": true
-    },
-    {
-      "title": "Studio Underd0g 04SERIES Calendar, la montre qui surligne les week-ends",
-      "url": "https://www.welovewatches.fr/studio-underd0g-04series-calendar-la-montre-qui-surligne-les-week-ends.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/studio-underd0g-04series-calendar-une-1940x1280-1.jpg",
-      "peek_preview": "Quels jours tombent les prochains samedis et dimanches ? La première montre à calendrier de Studio Underd0g donne la réponse pour tout le mois. La 04SERIES Calendar associe cet indicateur de week-end à un quantième...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-17T06:37:00.000Z",
-      "score_quality": 64,
-      "score_notif": 34,
-      "cluster": "20261117-989645cf2e34",
       "cluster_main": true
     }
   ]
