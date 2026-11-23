@@ -1,6 +1,6 @@
 {
-  "content_hash": "21d74277d280109ddd1a3c1cad2e264f5404b314ee828dc76228ba9bf21f7e8e",
-  "last_updated": "2026-11-23T11:46:58.809Z",
+  "content_hash": "217542403cd1ba1aa46a114fe58be78f2956e485b7104834bdee430357ac1f8c",
+  "last_updated": "2026-11-23T12:48:06.314Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
+      "estimated_articles_per_day": 3.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T10:00:33.000Z"
     },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T11:00:35.000Z"
     },
     {
@@ -36,7 +36,7 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.3,
+      "estimated_articles_per_day": 0.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-21T12:56:17.000Z"
     },
@@ -85,9 +85,9 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-21T12:00:00.000Z"
+      "estimated_articles_per_day": 1.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T12:00:00.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -114,7 +114,7 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T11:24:04.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T11:38:14.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-22T14:52:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T12:19:37.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,58 @@
     }
   ],
   "items": [
+    {
+      "title": "Uhrengehäuse aus Stahl: Der große Ratgeber zu 316L, 904L und ein paar Markenmythen",
+      "url": "https://www.uhrenkosmos.com/uhrengehaeuse-aus-stahl-ratgeber-uebersicht/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Vom-Rohguss-zum-Metallgehaeuse-bedarf-vieler-Produktionsschritte.jpg",
+      "peek_preview": "316L, 904L, Oystersteel, Ever-Brilliant Steel oder O-MEGASTEEL: Was hinter den Stahlsorten der Uhrengehäuse steckt, wie hart sie wirklich sind, was Beschichtungen leisten und warum „Swiss Made“ nichts über die Herkunft...",
+      "categories": [
+        "Materialien",
+        "Wissen & Technik",
+        "Ball Engineer III Marvelight",
+        "Chopard L.U.C 1860",
+        "Edelstahl 316L",
+        "Edelstahl 904L",
+        "Edelstahlgehäuse",
+        "eSteel",
+        "Girard-Perregaux Laureato Chronograph",
+        "Grand Seiko Evolution 9",
+        "Omega Seamaster Planet Ocean 6000M Ultra Deep",
+        "Oystersteel",
+        "Panerai Submersible Quaranta Quattro eSteel",
+        "Rolex Submariner",
+        "Sinn U15",
+        "Sinn U16",
+        "Swiss made",
+        "Tudor Black Bay Fifty-Eight Navy Blue"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-23T12:19:37.000Z",
+      "score_quality": 76,
+      "score_notif": 28,
+      "cluster": "20261123-5166a035b9d7",
+      "cluster_main": true
+    },
+    {
+      "title": "The Watch Collectors: PRSurferWatchGuy—A Puerto Rican Surfer Who Caught the Watch Bug During COVID Lockdown",
+      "url": "https://www.watchcollectinglifestyle.com/home/watch-collector-puerto-rico-surfer-watch-guy",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795389457553-80GCBIWBSRABMPBNC5GG/PRSURFER+WATCHGUY+%2815%29.jpeg?format=1500w",
+      "peek_preview": "Some collectors arrive at watches through a showroom. PRSurferWatchGuy—the pseudonym he uses to remain anonymous—came in through his father. A Puerto Rican collector and surfer, he inherited half of his late father's co...",
+      "categories": [
+        "Watch Collectors",
+        "The Watch Collectors"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T12:00:00.000Z",
+      "score_quality": 63,
+      "score_notif": 23,
+      "cluster": "20261123-e717649e98ff",
+      "cluster_main": true
+    },
     {
       "title": "Lip Cosmic : l’icône de la conquête spatiale revient avec le calibre R26 Lip-Matic",
       "url": "https://www.welovewatches.fr/lip-cosmic-licone-de-la-conquete-spatiale-revient-avec-le-calibre-r26-lip-matic.html",
@@ -1383,7 +1435,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Inside One of America’s Last Public Watchmaking Schools",
@@ -1512,7 +1564,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Credor Goldfeather Review: The Thin Dress Watch Revival, Revisited",
@@ -2495,62 +2547,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261116-c1e89dc53c1e",
-      "cluster_main": true
-    },
-    {
-      "title": "Vacheron Constantin Fiftysix Vollkalender: Grau mit Geschichte",
-      "url": "https://www.uhrenkosmos.com/vacheron-constantin-fiftysix-2026-vollkalender/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Vacheron-Constantin-FiftySix-Vollkalender-4600E-und-4000E-Self-Winding-mood-Aufmacher.jpg",
-      "peek_preview": "Zwei neue Zifferblätter, zwei unterschiedliche Uhrwerke und ein Hauch von 1956. Der neue Vacheron Constantin Fiftysix Vollkalender verleiht der Fiftysix-Kollektion frischen Glanz. Das bietet das neue Modell der Luxus-Ma...",
-      "categories": [
-        "Aktuell",
-        "Aktuelle Uhren",
-        "Marken & Macher",
-        "Vacheron Constantin",
-        "Louis Ferla",
-        "Richemont",
-        "Vacheron Constantin FiftySix",
-        "Vacheron Constantin Fiftysix Self-Winding",
-        "Vacheron Constantin FiftySix Vollkalender",
-        "Vacheron Constantin Kaliber 1326",
-        "Vacheron Constantin Kaliber 2460 QCL/1",
-        "ValFleurier",
-        "Vollkalender"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-15T15:11:13.000Z",
-      "score_quality": 65,
-      "score_notif": 34,
-      "cluster": "20261115-32ba979a2e90",
-      "cluster_main": true
-    },
-    {
-      "title": "Independence day: Six watches to kickstart your independent watchmaking collection",
-      "url": "https://deployant.com/independence-day-six-watches-to-kickstart-your-independent-watchmaking-collection/?utm_source=rss&utm_medium=rss&utm_campaign=independence-day-six-watches-to-kickstart-your-independent-watchmaking-collection",
-      "image": "https://deployant.com/wp-content/uploads/2023/07/ressence-type8-side.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The world of independent watchmaking is an interesting one. Given that there are no public stakeholders (or, shareholders) involved, and that stable profitabi...",
-      "categories": [
-        "Opinion",
-        "Reviews",
-        "Watches",
-        "czapek",
-        "habring",
-        "Independent watchmaking",
-        "Naoya Hida",
-        "otsuka lotec",
-        "Ressence",
-        "throwback sunday",
-        "trilobe"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-15T13:30:00.000Z",
-      "score_quality": 54,
-      "score_notif": 22,
-      "cluster": "20261115-0e00adbfca57",
       "cluster_main": true
     }
   ]
