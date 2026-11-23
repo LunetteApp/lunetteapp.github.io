@@ -1,6 +1,6 @@
 {
-  "content_hash": "ca8df096cee8e595514e1dd1e7e8e7db078bf04aa516dfc5558f197120b08dda",
-  "last_updated": "2026-11-23T10:46:50.654Z",
+  "content_hash": "21d74277d280109ddd1a3c1cad2e264f5404b314ee828dc76228ba9bf21f7e8e",
+  "last_updated": "2026-11-23T11:46:58.809Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T10:00:33.000Z"
     },
     {
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T08:00:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T11:00:35.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -64,14 +64,14 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.3,
+      "estimated_articles_per_day": 2.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-20T20:00:01.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
+      "estimated_articles_per_day": 1.5,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T04:00:34.000Z"
     },
@@ -113,9 +113,9 @@
     {
       "source_name": "Giornale degli Orologi",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-19T12:00:00.000Z"
+      "estimated_articles_per_day": 0.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T11:24:04.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-20T13:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T11:38:14.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,65 @@
     }
   ],
   "items": [
+    {
+      "title": "Lip Cosmic : l’icône de la conquête spatiale revient avec le calibre R26 Lip-Matic",
+      "url": "https://www.welovewatches.fr/lip-cosmic-licone-de-la-conquete-spatiale-revient-avec-le-calibre-r26-lip-matic.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/presentation-montres-lip-cosmic-r26.jpg",
+      "peek_preview": "La marque de montres Lip n'en finit plus de puiser dans son riche patrimoine ! Après la Général de Gaulle, la maison bisontine ressuscite cette fois la Cosmic, une pièce née au cœur de la...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-23T11:38:14.000Z",
+      "score_quality": 58,
+      "score_notif": 62,
+      "cluster": "20261123-1228fbaac10e",
+      "cluster_main": true
+    },
+    {
+      "title": "News orologi: fatti, volti ed eventi – 23/11/2026",
+      "url": "https://giornaleorologi.it/2026/11/23/news-orologi-fatti-volti-ed-eventi-23-11-2026/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/voi-press-still-14-puzzle-6-the-regulating-organ-copia-1024x684.jpg",
+      "peek_preview": "Per l'articolo completo - News orologi: fatti, volti ed eventi – 23/11/2026 Il mondo dell’orologeria non si ferma mai. E non nel senso delle novità di prodotto. I marchi moltiplicano le iniziative e cercano nuove occasi...",
+      "categories": [
+        "Attualità",
+        "Eberhard & Co.",
+        "Fhs",
+        "Hamilton",
+        "Jaeger-LeCoultre",
+        "Phillips Auctioneer with Bacs & Russo",
+        "Richard Mille"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-23T11:24:04.000Z",
+      "score_quality": 24,
+      "score_notif": 23,
+      "cluster": "20261123-50c7b22da741",
+      "cluster_main": true
+    },
+    {
+      "title": "News – MB&F Releases its Updated Catalogue Raisonné “The First Twenty Years”",
+      "url": "https://monochrome-watches.com/mbandf-catalogue-raisonne-update-first-twenty-years-news/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/MBandF-Catalogue-Raisonne-Update-First-Twenty-Years-1-600x237.jpg",
+      "peek_preview": "In 2021, independent watchmaking brand MB&F, the project initiated by Maximilian Büsser, released a so-called catalogue raisonné, a comprehensive, annotated listing of all the known works of an artist or sculptor that i...",
+      "categories": [
+        "MB&F",
+        "2026",
+        "News"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T11:00:35.000Z",
+      "score_quality": 74,
+      "score_notif": 30,
+      "cluster": "20261119-0b69a872c7f8",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On With The Synchron Ti300M Poseidon Deep Black",
       "url": "https://www.fratellowatches.com/hands-on-with-the-synchron-ti300m-poseidon-deep-black/",
@@ -1521,9 +1580,9 @@
       "featured": false,
       "published_at": "2026-11-19T17:20:48.000Z",
       "score_quality": 74,
-      "score_notif": 32,
+      "score_notif": 30,
       "cluster": "20261119-0b69a872c7f8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Watch Stories: The Watch That Started It All—My Grandfather's Vacheron Constantin 2045Q by Abraham Rosales",
@@ -1559,7 +1618,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -1615,27 +1674,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The Norqain Independence Skeleton 40mm Arctic Blue, with Updated Steel Bracelet",
-      "url": "https://monochrome-watches.com/the-norqain-independence-skeleton-40mm-arctic-blue-with-updated-steel-bracelet/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Norqain-Independence-Skeleton-40mm-Arctic-Blue-New-Steel-Bracelet-1-600x237.jpg",
-      "peek_preview": "The Independence collection has, since its introduction in 2020, become an important stone in Norqain‘s portfolio. An everyday sports watch, the collection has gradually expanded to now include the bold and high-tech Wi...",
-      "categories": [
-        "Norqain",
-        "2026",
-        "Novelty",
-        "Skeleton Watches",
-        "Sports watch"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T13:01:15.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261119-66f1f85fdca7",
-      "cluster_main": true
-    },
-    {
       "title": "Ain’t No Glacier High Enough To Keep Norqain From Releasing Another Icy Stunner",
       "url": "https://timeandtidewatches.com/norqain-independence-arctic-blue-introducing/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-independence-arctic-blue.jpg",
@@ -1653,7 +1691,7 @@
       "score_quality": 48,
       "score_notif": 34,
       "cluster": "20261119-66f1f85fdca7",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Roger W. Smith Series 7 Annual Calendar Tourbillon",
@@ -1806,7 +1844,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "レイモンド ウェイル「トッカータ ヘリテージ」から、エレガントなふたつの新色モデルが登場",
@@ -2327,7 +2365,7 @@
       "published_at": "2026-11-17T06:37:00.000Z",
       "score_quality": 64,
       "score_notif": 34,
-      "cluster": "20261113-974f39464694",
+      "cluster": "20261117-989645cf2e34",
       "cluster_main": true
     },
     {
@@ -2513,42 +2551,6 @@
       "score_quality": 54,
       "score_notif": 22,
       "cluster": "20261115-0e00adbfca57",
-      "cluster_main": true
-    },
-    {
-      "title": "Da Studio Underd0g un orologio che evidenzia tutti i weekend del mese",
-      "url": "https://www.orologidiclasse.com/studio-underd0g-04series-calendar/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/studio-underd0g-04series-calendar-cloud10-cover.jpg",
-      "peek_preview": "Studio Underd0g, il marchio britannico fondato da Richard Benc nel 2020, presenta il Studio Underd0g 04SERIES Calendar, una delle novità 2026 più curiose della fascia accessibile: un orologio automatico che, oltre a dat...",
-      "categories": [
-        "Novità Orologi",
-        "Fasi Lunari",
-        "Retrogrado"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-14T17:55:15.000Z",
-      "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261113-974f39464694",
-      "cluster_main": false
-    },
-    {
-      "title": "Weekend Reads: Vacheron Constantin's FiftySix Goes Two-Tone Grey, Time to Drive Fest Turns Miami Into a Car and Watch Show, and MB&F's LM101 Grows Three Enamel Jungles",
-      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-11-14",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
-      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
-      "categories": [
-        "Weekend Reads"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-14T15:22:05.000Z",
-      "score_quality": 25,
-      "score_notif": 22,
-      "cluster": "20261114-56ebebba5d2a",
       "cluster_main": true
     }
   ]
