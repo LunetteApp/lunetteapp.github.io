@@ -1,6 +1,6 @@
 {
-  "content_hash": "5e008595ab596020b9e6810f825a4b06c6ae01bbe847b8812e3d41ab1a379b56",
-  "last_updated": "2026-11-23T07:47:42.803Z",
+  "content_hash": "bb56f80a24f3706717776e5a0debbe5900156049f3ecbbdf9ee2f86c846204a6",
+  "last_updated": "2026-11-23T08:48:02.474Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T06:00:37.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T08:00:59.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -22,9 +22,9 @@
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-22T10:35:07.000Z"
+      "estimated_articles_per_day": 3.5,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T08:00:01.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T07:00:00.000Z"
     },
     {
@@ -175,6 +175,43 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On With The Kneijnsberg Hugenius — A Tribute To Christiaan Huygens",
+      "url": "https://www.fratellowatches.com/hands-on-kneijnsberg-hugenius/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Hugenius-18.jpg",
+      "peek_preview": "Neither name might ring a bell, but let’s start with Christiaan Huygens. This Dutch scientist (1629–1695) invented the balance spring and pendulum clock. However, as a master of many trades, he also developed telescopes...",
+      "categories": [
+        "Hands-On"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T08:00:59.000Z",
+      "score_quality": 82,
+      "score_notif": 58,
+      "cluster": "20261123-2045bcb12d33",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – Chinese Indie Watchmaker Qian GuoBiao Releases the Full Titanium Facing The Sky 2.0",
+      "url": "https://monochrome-watches.com/chinese-indie-watchmaker-qian-guobiao-releases-the-full-titanium-facing-the-sky-2-0-bracelet-blue-lagoon-british-racing-green-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Qian-GuoBiao-Facing-The-Sky-2.0-Full-Titanium-Bracelet-Chinese-Independent-Watchmaking-1-600x237.jpg",
+      "peek_preview": "Indie watchmaker Qian GuoBiao, known as the “Tourbillon Doctor” among enthusiasts in his home country, China, presents a new version of the Facing The Sky 2.0. This time, the “flying balance wheel” watch is housed in Gr...",
+      "categories": [
+        "Qian GuoBiao",
+        "2026",
+        "Independent Watchmaking",
+        "Novelty"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T08:00:01.000Z",
+      "score_quality": 86,
+      "score_notif": 34,
+      "cluster": "20261121-6bc06f16254e",
+      "cluster_main": true
+    },
     {
       "title": "17 of the best quartz watches that rub it into quartz snobs’ faces",
       "url": "https://timeandtidewatches.com/best-quartz-watches/",
@@ -445,7 +482,7 @@
       "featured": false,
       "published_at": "2026-11-22T08:01:00.000Z",
       "score_quality": 65,
-      "score_notif": 46,
+      "score_notif": 34,
       "cluster": "20261122-b0e249ec838e",
       "cluster_main": true
     },
@@ -738,7 +775,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261121-6bc06f16254e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: Takashi Murakami Turns a Skull Into a Tourbillon, TheWrongWrist Collects Memories Instead of Portfolios, and Armin Strom Goes Blue and Meteorite",
@@ -909,7 +946,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: The Nodus × Oracle Time Sector II Sport Red Jasper",
@@ -927,7 +964,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261120-11c4699c7a23",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Hublot Big Bang Denim Watches Return For 2026",
@@ -1287,24 +1324,6 @@
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
       "cluster_main": false
-    },
-    {
-      "title": "Fratello’s Top 5 Small-Brand Watches Of 2026",
-      "url": "https://www.fratellowatches.com/fratellos-top-5-small-brand-watches-of-2026/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/MBF-MAD-3-Blue-5.jpg",
-      "peek_preview": "Another Friday, another list! This week, we continue our series of year-end lists for 2026. After last week’s focus on this year’s most surprising releases, we’re turning our attention to our favorite watches from small...",
-      "categories": [
-        "Watch Talk",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T06:00:24.000Z",
-      "score_quality": 46,
-      "score_notif": 24,
-      "cluster": "20261120-170412ee90fb",
-      "cluster_main": true
     },
     {
       "title": "Inside One of America’s Last Public Watchmaking Schools",
@@ -1708,27 +1727,6 @@
       "score_quality": 46,
       "score_notif": 27,
       "cluster": "20261119-9989d52f6692",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – Nomos Goes Black-and-Gold with the new Noir Series",
-      "url": "https://monochrome-watches.com/nomos-noir-series-tangente-ludwig-tertra-hand-wound-steel-or-gold-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/nomos-noir-series-tangente-ludwig-tertra-hand-wound-steel-or-gold-review-13-600x237.jpg",
-      "peek_preview": "When you think about Nomos, in particular some of its most emblematic models, you might picture a steel watch with compact dimensions and a Bauhaus-inspired silver-plated dial, time read with blued hands and black print...",
-      "categories": [
-        "NOMOS",
-        "2026",
-        "Dress Watches",
-        "Luxury watch",
-        "Novelty"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T11:30:43.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261119-3a332185081f",
       "cluster_main": true
     },
     {
