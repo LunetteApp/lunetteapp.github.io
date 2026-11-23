@@ -1,6 +1,6 @@
 {
-  "content_hash": "83a2fe398ebfbb477137c51060823321214332faf4b5fd56f89e0b809a664e8d",
-  "last_updated": "2026-11-23T20:48:40.591Z",
+  "content_hash": "1e78d4891d387de6550a207d630e9322ba3503d120cd5cf2b4a1089c881b4a01",
+  "last_updated": "2026-11-23T21:48:13.991Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T20:00:49.000Z"
     },
     {
@@ -43,9 +43,9 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-20T19:44:40.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-22T19:36:00.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -121,8 +121,8 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T17:25:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T21:40:22.000Z"
     },
     {
       "source_name": "Mr Montre",
@@ -175,6 +175,43 @@
     }
   ],
   "items": [
+    {
+      "title": "Zenith, è davvero la fine di un’era? Il piano shock di LVMH per il 2029",
+      "url": "https://italianwatchspotter.com/zenith-il-piano-lvmh-2029/",
+      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/chart-bar-1024x576.png",
+      "peek_preview": "Novanta posti di lavoro cancellati, vendite in calo di quasi il 30%, una produzione ridotta di oltre un terzo e il possibile addio a buona parte delle collezioni attuali. Per Zenith, una delle manifatture più importanti...",
+      "categories": [
+        "News",
+        "Alta Orologeria",
+        "Benoit de Clerck",
+        "Calibro 135",
+        "Charles Vermot",
+        "Crisi Orologeria",
+        "Georges Favre-Jacot",
+        "Industria Orologiera",
+        "Jean Arnault",
+        "Le Locle",
+        "LuxeConsult",
+        "LVMH",
+        "Morgan Stanley",
+        "Naoya Hida",
+        "Orologeria Svizzera",
+        "zenith",
+        "Zenith Chronomaster",
+        "Zenith Defy",
+        "Zenith El Primero",
+        "Zenith G.F.J.",
+        "Zenith Pilot"
+      ],
+      "source_name": "Italian Watch Spotter",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-23T21:40:22.000Z",
+      "score_quality": 72,
+      "score_notif": 82,
+      "cluster": "20261123-99d687cdb831",
+      "cluster_main": true
+    },
     {
       "title": "Tuseno Introduces the Shellback GMT",
       "url": "https://wornandwound.com/tuseno-introduces-the-shellback-gmt/",
@@ -549,7 +586,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261121-6bc06f16254e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "17 of the best quartz watches that rub it into quartz snobs’ faces",
@@ -675,6 +712,21 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261119-216b0f4ada8a",
+      "cluster_main": true
+    },
+    {
+      "title": "TAG Heuer Aquaracer: The Ultimate Guide",
+      "url": "https://teddybaldassarre.com/blogs/watches/tag-heuer-aquaracer",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/TAG-Heuer-Ref-844-2.jpg?v=1674666205",
+      "peek_preview": "TAG Heuer, which was founded as Heuer Watchmaking by Edouard Heuer in 1860, built much of its modern reputation as an innovator in chronograph watches for automobile racing. Its most iconic models, the Heuer Carrera and...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-22T19:36:00.000Z",
+      "score_quality": 60,
+      "score_notif": 15,
+      "cluster": "20261122-afc271dc1b6b",
       "cluster_main": true
     },
     {
@@ -1132,7 +1184,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261121-6bc06f16254e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Weekend Reads: Takashi Murakami Turns a Skull Into a Tourbillon, TheWrongWrist Collects Memories Instead of Portfolios, and Armin Strom Goes Blue and Meteorite",
@@ -2521,51 +2573,6 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261117-989645cf2e34",
-      "cluster_main": true
-    },
-    {
-      "title": "Richemont Halbjahreszahlen 2026-2027: Starke Bilanz, nervöse Börse",
-      "url": "https://www.uhrenkosmos.com/richemont-halbjahreszahlen-2026-2027-im-plus/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Luxurioese-Richemont-Halbjahreszahlen-2026_27.jpg",
-      "peek_preview": "Schmuck liefert Rekordrenditen, die sieben Uhrenmanufakturen holen auf. Doch hinter den starken Konzernzahlen zeigt sich, wie weit Richemonts Uhrengeschäft noch von nachhaltiger Ertragsstärke entfernt ist",
-      "categories": [
-        "Marken & Macher",
-        "Uhrenmarkt",
-        "A. Lange & Söhne",
-        "Cartier",
-        "Compagnie Financière Richemont",
-        "IWC",
-        "Richemont",
-        "Richemont Group",
-        "Richemont Halbjahreszahlen 2026/2027",
-        "Schweizer Uhrenexporte",
-        "Uhrenmarkt 2026"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-16T20:42:16.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261116-f0812a8af2be",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Takashi Murakami Skull Cylindrical Jumping Hours Tourbillon—A Skull for a Case, a Sideways Dial, and No Hands",
-      "url": "https://www.watchcollectinglifestyle.com/home/takashi-murakami-skull-cylindrical-jumping-hours-tourbillon",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1794859607553-AKPMNFCH9VN046GBTTTF/Takashi+Murakami+Skull+Black+Rainbow+Hero.jpg?format=1500w",
-      "peek_preview": "Takashi Murakami has spent years contemplating time, and he now has a vehicle for it. The artist has launched Takashi Murakami Time Objects, a new universe pairing his creative vision with Swiss haute horlogerie. Its fi...",
-      "categories": [
-        "Takashi Murakami",
-        "Other Brands"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-16T20:11:14.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261116-7a2fa9c680c6",
       "cluster_main": true
     }
   ]
