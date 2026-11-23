@@ -1,6 +1,6 @@
 {
-  "content_hash": "d2e666755144824ca283170286c35603bf5061dc668200d28ed75923d1ca24d3",
-  "last_updated": "2026-11-23T17:47:47.146Z",
+  "content_hash": "9382e8214dd582c4543eea18ae53147096a0f4839b15070f7316d04a16e726bc",
+  "last_updated": "2026-11-23T18:47:56.903Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T17:05:51.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-22T13:00:41.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T18:00:25.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T17:25:27.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T12:19:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T17:48:37.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,57 @@
     }
   ],
   "items": [
+    {
+      "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
+      "url": "https://www.ablogtowatch.com/new-release-atelier-loreti-celestial-tourbillon-charoite-snowflake-obsidian-make-high-horology-accessible/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Atelier-Loreti-Celestial-Tourbillon-Charoite-Snowflake-Obsidian-6-768x346.jpg",
+      "peek_preview": "The new Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian watches have an on-brand goal: to make high horology more accessible. They combine exotic dials in black snowflake obsidian and purple charoite w...",
+      "categories": [
+        "Watch Releases",
+        "Stone Dials",
+        "Tourbillon Watches",
+        "Watch Releases 2026"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T18:00:25.000Z",
+      "score_quality": 64,
+      "score_notif": 61,
+      "cluster": "20261123-829e5441faac",
+      "cluster_main": true
+    },
+    {
+      "title": "Grand Seiko Hana-Ikada 32 SBGX363 und SBGX365: Blütenflöße für das Handgelenk",
+      "url": "https://www.uhrenkosmos.com/grand-seiko-hana-ikada-32-sbgx363-und-sbgx365/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/grand-seiko-hana-ikada-32-sbgx363-sbgx365-aufmacher-uhrenkosmos.jpg",
+      "peek_preview": "Grand Seiko bringt die 62GS als 32-Millimeter-Damenuhr: Hana-Ikada 32 SBGX363 und SBGX365 mit Quarzkaliber 9F51, ±10 Sekunden pro Jahr, ab Januar 2027 für 3.700 Euro.",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Damenuhren",
+        "Grand Seiko",
+        "Marken & Macher",
+        "Damenuhr",
+        "Grand Seiko 62GS",
+        "Grand Seiko Hana-Ikada 32",
+        "Grand Seiko Hana-Ikada Blue",
+        "Grand Seiko Heritage",
+        "Grand Seiko Kaliber 9F51",
+        "Grand Seiko SBGX363",
+        "Grand Seiko SBGX365",
+        "Grand Seiko STGK031",
+        "Quarzuhr"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-23T17:48:37.000Z",
+      "score_quality": 76,
+      "score_notif": 67,
+      "cluster": "20261123-879778129558",
+      "cluster_main": true
+    },
     {
       "title": "Seiko, questo Panda ti è sfuggito di mano!",
       "url": "https://italianwatchspotter.com/seiko-power-design-project-panda/",
@@ -606,7 +657,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261119-216b0f4ada8a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative Presage Classic Limited Edition",
@@ -1922,7 +1973,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261119-216b0f4ada8a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Classic Tourbillon Perpetual Calendar Manufacture: la trasparenza secondo Frederique Constant",
@@ -2514,53 +2565,6 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261116-7a2fa9c680c6",
-      "cluster_main": true
-    },
-    {
-      "title": "8 orologi falsi diventati leggenda al cinema: i movie props più incredibili",
-      "url": "https://italianwatchspotter.com/orologi-falsi-cinema-movie-props/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/IMG_1575-1024x576.jpeg",
-      "peek_preview": "Quante volte, guardando un film, ci è capitato di soffermarci sull’orologio al polso del protagonista? Magari perché riconosciamo un Rolex, perché ci incuriosisce un Patek Philippe o semplicemente perché quel segnatempo...",
-      "categories": [
-        "Guide ed Approfondimenti",
-        "cinema",
-        "Cultura Pop",
-        "Fake Watches",
-        "film",
-        "Movie prop",
-        "Movie Props",
-        "Orologeria",
-        "Orologi di Scena",
-        "Orologi nei Film",
-        "orologi replica",
-        "Patek Philippe",
-        "Prop Watches",
-        "Richard Mille",
-        "rolex daytona",
-        "watch spotting"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-16T17:36:00.000Z",
-      "score_quality": 63,
-      "score_notif": 23,
-      "cluster": "20261116-056f43df6eb4",
-      "cluster_main": true
-    },
-    {
-      "title": "Maen Brings the Grand Tonneau Jump Hour Into Its Permanent Collection",
-      "url": "https://teddybaldassarre.com/blogs/watches/maen-grand-tonneau-jump-hour",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Maen-Grand-Tonneau-Jump-Hour-Silver-flat-2.jpg?v=1794604804",
-      "peek_preview": "Maen is bringing its Grand Tonneau Jump Hour into the permanent collection, following the limited collaboration with watch personality Nico Leonard that introduced the design in 2025. The new models retain the distincti...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-16T16:27:56.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261116-54130cdb5751",
       "cluster_main": true
     }
   ]
