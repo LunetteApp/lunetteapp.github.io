@@ -1,6 +1,6 @@
 {
-  "content_hash": "e9226ad41b5ac9619a99cba42954ec9caea3e865da703ebfd7a8f88d4992191f",
-  "last_updated": "2026-11-23T13:48:42.472Z",
+  "content_hash": "5d136d8f29d940e09d92527e67c76d98afd6a40b3a64e13de96c60214a414a18",
+  "last_updated": "2026-11-23T14:47:42.195Z",
   "premium": {
     "links": []
   },
@@ -23,8 +23,8 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T11:00:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T14:00:41.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-20T20:00:01.000Z"
+      "estimated_articles_per_day": 2.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Inside The Manufacture: A Deep Dive Into The Longines Heritage Workshop",
+      "url": "https://www.hodinkee.com/articles/the-longines-heritage-workshop",
+      "image": "https://hodinkee.imgix.net/uploads/articles/04c6368b-b993-4ef7-ae80-6a06db313d1c/longines-heritage-workshop-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Stepping inside the crown jewel of Longines headquarters in Saint-Imier, where a small team of watchmakers and jewelers works amid a treasure trove of historic watch parts.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T14:00:00.000Z",
+      "score_quality": 87,
+      "score_notif": 34,
+      "cluster": "20261123-522bba1cceb8",
+      "cluster_main": true
+    },
     {
       "title": "Citizen Attesa H800 Hazy White and Hazy Black: Full Sapphire Bezel",
       "url": "https://deployant.com/new-citizen-attesa-h800-full-sapphire-bezel-hazy-white-hazy-black/?utm_source=rss&utm_medium=rss&utm_campaign=new-citizen-attesa-h800-full-sapphire-bezel-hazy-white-hazy-black",
@@ -529,7 +544,7 @@
       "featured": false,
       "published_at": "2026-11-22T14:30:50.000Z",
       "score_quality": 62,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261122-32a7998b3108",
       "cluster_main": true
     },
@@ -1115,7 +1130,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Panerai Submersible Marina Militare Destro PAM01757 Watch",
@@ -1617,27 +1632,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing – The New Hublot Big Bang Denim Collection with Hand-Textured Cases",
-      "url": "https://monochrome-watches.com/hublot-big-bang-denim-collection-with-hand-textured-cases-and-textile-dials-introducing-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Hublot-Big-Bang-Denim-collection-1-600x237.jpg",
-      "peek_preview": "As a brand that deploys the “Art of Fusion” tagline, unconventional materials and unusual pairings are ingrained in Hublot’s identity. Denim, the rugged fabric used for jeans, was featured by Hublot in 2013 on the dials...",
-      "categories": [
-        "Hublot",
-        "2026",
-        "Chronographs",
-        "Novelty",
-        "Sports watch"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T17:30:12.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261118-21497bdc04e8",
-      "cluster_main": true
-    },
-    {
       "title": "Watch Goodies: MB&F The First Twenty Years—The Catalogue Raisonné That Keeps Nothing Secret",
       "url": "https://www.watchcollectinglifestyle.com/home/mb-and-f-the-first-twenty-years-catalogue-raisonne-book",
       "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795108105165-I4DBQKW8GA0CWX7VZWWP/MBandF_Catalogue_Raisonne%CC%81_Interior_5_2026.jpg?format=1500w",
@@ -1766,21 +1760,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: The Roger W. Smith Series 7 Annual Calendar Tourbillon",
-      "url": "https://www.hodinkee.com/articles/the-roger-w-smith-series-7-annual-calendar-tourbillon",
-      "image": "https://hodinkee.imgix.net/uploads/images/8ca685ea-dfd0-4836-b76f-604c15a4f586/RWSSeriesSevenFront.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "To celebrate 25 years of his brand, Smith unveils a complicated watch, thoroughly grounded in his past and his mentor George Daniels' legacy.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T12:41:06.000Z",
-      "score_quality": 88,
-      "score_notif": 34,
-      "cluster": "20261119-e212469f042f",
-      "cluster_main": true
-    },
-    {
       "title": "Roger W. Smith Debuts Millennium-Inspired Series Seven",
       "url": "https://watchesbysjx.com/2026/11/roger-smith-series-seven-tourbillon.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/RWS-Series-Seven-Front-300x200.jpg",
@@ -1799,7 +1778,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261119-e212469f042f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Farer’s Field Watch Series III puts a colourful spin on the dark-coated tool watch",
