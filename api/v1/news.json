@@ -1,6 +1,6 @@
 {
-  "content_hash": "39889e7b9ed66ef0ab329e07a24dfda5afd87080ed762448ce2ad1bb0b17bffc",
-  "last_updated": "2026-11-23T01:47:16.866Z",
+  "content_hash": "561d488e97ecd5dbbeeb8d5eca2b28e405c89ca4821151182d2c23b26b166290",
+  "last_updated": "2026-11-23T03:47:14.799Z",
   "premium": {
     "links": []
   },
@@ -71,8 +71,8 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 1.5,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T01:00:24.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T00:00:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T03:00:33.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
+      "url": "https://www.webchronos.net/news/179479/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/gshock_monotonemix_1.webp",
+      "peek_preview": "G-SHOCKは、モノトーンカラーにメタリックな質感を加えた「MONOTONE MIX（モノトーン ミックス）」4モデルを発表した。いずれも、G-SHOCKの定番モデルをベースとしている。八角形ベゼルを持つ「DWE-56 […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-23T03:00:33.000Z",
+      "score_quality": 52,
+      "score_notif": 63,
+      "cluster": "20261123-21604747db59",
+      "cluster_main": true
+    },
     {
       "title": "Patek Philippe Museum Marks 25 Years with Philippe Stern Tribute",
       "url": "https://watchesbysjx.com/2026/11/patek-philippe-museum-25-years-philippe-stern.html",
@@ -422,7 +437,7 @@
       "featured": false,
       "published_at": "2026-11-22T03:00:11.000Z",
       "score_quality": 72,
-      "score_notif": 73,
+      "score_notif": 34,
       "cluster": "20261122-68f4ad6d1981",
       "cluster_main": true
     },
@@ -874,7 +889,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Panerai Submersible Marina Militare Destro PAM01757 Watch",
@@ -1432,7 +1447,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Watch Goodies: MB&F The First Twenty Years—The Catalogue Raisonné That Keeps Nothing Secret",
@@ -1985,21 +2000,6 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261118-6f7f3e67c8bd",
-      "cluster_main": true
-    },
-    {
-      "title": "タイメックス、高級コレクションのGMTモデルに完全新作を含む新モデルを追加",
-      "url": "https://www.webchronos.net/news/179135/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/timex_ateliergmt_1.webp",
-      "peek_preview": "タイメックスが、ハイエンドコレクション「タイメックス アトリエ」の新作6種を発表した。「GMT24 M1a」にはブルーとレッドの24時間リングを備えたモデルが追加され、「マリーン M1a」には新色のディープブルーが加わっ […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-18T03:00:41.000Z",
-      "score_quality": 56,
-      "score_notif": 34,
-      "cluster": "20261118-9932e7fbf207",
       "cluster_main": true
     },
     {
