@@ -1,6 +1,6 @@
 {
-  "content_hash": "9382e8214dd582c4543eea18ae53147096a0f4839b15070f7316d04a16e726bc",
-  "last_updated": "2026-11-23T18:47:56.903Z",
+  "content_hash": "83a2fe398ebfbb477137c51060823321214332faf4b5fd56f89e0b809a664e8d",
+  "last_updated": "2026-11-23T20:48:40.591Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T15:00:35.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T20:00:49.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T18:00:25.000Z"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T17:48:37.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Tuseno Introduces the Shellback GMT",
+      "url": "https://wornandwound.com/tuseno-introduces-the-shellback-gmt/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/2026_11_Tuseno_Shellback-GMT_003_WR.jpg",
+      "peek_preview": "Tusenö, the Swedish microbrand and makers of one of my favorite unexpected dress watches in recent memory, are back with a somewhat less surprising release that builds on the success of their most well known watch. The...",
+      "categories": [
+        "News & Releases",
+        "Tuseno"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T20:00:49.000Z",
+      "score_quality": 68,
+      "score_notif": 62,
+      "cluster": "20261123-81e9667d46b8",
+      "cluster_main": true
+    },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
       "url": "https://www.ablogtowatch.com/new-release-atelier-loreti-celestial-tourbillon-charoite-snowflake-obsidian-make-high-horology-accessible/",
@@ -531,7 +549,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261121-6bc06f16254e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "17 of the best quartz watches that rub it into quartz snobs’ faces",
@@ -657,7 +675,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261119-216b0f4ada8a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative Presage Classic Limited Edition",
@@ -1114,7 +1132,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261121-6bc06f16254e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Weekend Reads: Takashi Murakami Turns a Skull Into a Tourbillon, TheWrongWrist Collects Memories Instead of Portfolios, and Armin Strom Goes Blue and Meteorite",
@@ -1973,7 +1991,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261119-216b0f4ada8a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Classic Tourbillon Perpetual Calendar Manufacture: la trasparenza secondo Frederique Constant",
@@ -2307,23 +2325,6 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261117-50564bbc7b35",
-      "cluster_main": true
-    },
-    {
-      "title": "Timex Launches New Divers in the Deepwater Collection",
-      "url": "https://wornandwound.com/timex-launches-new-divers-in-the-deepwater-collection/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Deepwater-Arctic-49.jpg",
-      "peek_preview": "Long gone are the days where Timex is seen as simply a “starter” watch brand. Sure, the Weekender and Indiglo names are still serious values in horology that get many new folks into the hobby—I still love and regularly...",
-      "categories": [
-        "Featured"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-17T20:00:41.000Z",
-      "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261117-c8a50226625f",
       "cluster_main": true
     },
     {
