@@ -1,6 +1,6 @@
 {
-  "content_hash": "d91595ba70c96c6ed4cd67c7665475720757d59589c3d86fc3adc9219442a560",
-  "last_updated": "2026-11-23T06:47:15.858Z",
+  "content_hash": "5e008595ab596020b9e6810f825a4b06c6ae01bbe847b8812e3d41ab1a379b56",
+  "last_updated": "2026-11-23T07:47:42.803Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T06:00:37.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-22T14:30:50.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T07:00:00.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,27 @@
     }
   ],
   "items": [
+    {
+      "title": "17 of the best quartz watches that rub it into quartz snobs’ faces",
+      "url": "https://timeandtidewatches.com/best-quartz-watches/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-best-quatrz-watches-26.webp",
+      "peek_preview": "Here's a few reasons why quartz watches should not just be low-cost alternatives to their mechanical counterparts. The post 17 of the best quartz watches that rub it into quartz snobs’ faces appeared first on Time+Tide...",
+      "categories": [
+        "Buying Guides",
+        "meta:buying-guide",
+        "meta:evergreen",
+        "meta:quartz",
+        "meta:top-ranked"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T07:00:00.000Z",
+      "score_quality": 47,
+      "score_notif": 24,
+      "cluster": "20261123-7bda7488a80d",
+      "cluster_main": true
+    },
     {
       "title": "Nacho’s Best Watches Of 2026",
       "url": "https://www.fratellowatches.com/nachos-best-watches-of-2026/",
@@ -2529,34 +2550,6 @@
       "score_quality": 25,
       "score_notif": 22,
       "cluster": "20261114-56ebebba5d2a",
-      "cluster_main": true
-    },
-    {
-      "title": "IAMWATCH 2026: Singapore diventa la capitale degli orologi indipendenti",
-      "url": "https://italianwatchspotter.com/iamwatch-singapore-2026-novita/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/image-71-576x1024.png",
-      "peek_preview": "Singapore torna a essere uno dei punti di riferimento per l’orologeria indipendente. Dal 12 al 15 novembre 2026, IAMWATCH riunisce presso il The Singapore EDITION alcuni dei nomi più interessanti del panorama internazio...",
-      "categories": [
-        "Fiere ed Eventi",
-        "Alta Orologeria",
-        "Girard-Perregaux",
-        "IAMWATCH",
-        "IAMWATCH 2026",
-        "Krayon",
-        "MB&F",
-        "Novità Orologi 2026",
-        "Orologeria indipendente",
-        "Petermann Bédat",
-        "Singapore",
-        "urwerk"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-14T13:39:10.000Z",
-      "score_quality": 61,
-      "score_notif": 28,
-      "cluster": "20261114-f8794d9cb253",
       "cluster_main": true
     }
   ]
