@@ -1,6 +1,6 @@
 {
-  "content_hash": "4743f58d88d77703fde80af59e71f98262360fd4f83ab518458172f42282ef97",
-  "last_updated": "2026-11-23T15:48:11.146Z",
+  "content_hash": "d7a7b4a5edd7331a6c1cf39d4e7720f168d5fb10952238ad9ad1f42f8ed77c84",
+  "last_updated": "2026-11-23T16:47:58.861Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T15:00:35.000Z"
     },
     {
@@ -36,9 +36,9 @@
     {
       "source_name": "Unpolished Watches",
       "lang": "en",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-21T12:56:17.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T15:48:09.000Z"
     },
     {
       "source_name": "Teddy Baldassarre",
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.3,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -85,7 +85,7 @@
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.3,
+      "estimated_articles_per_day": 1.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T12:00:00.000Z"
     },
@@ -175,6 +175,36 @@
     }
   ],
   "items": [
+    {
+      "title": "Just Because: Hunting for Vintage Watch Ads In A Brooklyn Basement",
+      "url": "https://www.hodinkee.com/articles/hunting-for-vintage-watch-ads-in-a-brooklyn-basement",
+      "image": "https://hodinkee.imgix.net/uploads/articles/ce8a1ca4-efa9-405d-8a44-67a49b5da77b/Ad-Patina-Hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "Nick Federowicz sources watch ads from vintage magazines and sells them as collectible art. We spent the afternoon leafing through hundreds of issues, looking for the good stuff.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T16:00:00.000Z",
+      "score_quality": 80,
+      "score_notif": 24,
+      "cluster": "20261123-85590b8ca184",
+      "cluster_main": true
+    },
+    {
+      "title": "In Singapore, Even Immigration Wears a Submariner | Singapore Dispatch",
+      "url": "https://www.unpolishedwatches.com/p/in-singapore-even-immigration-wears",
+      "image": "https://substackcdn.com/image/fetch/$s_!QxML!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F318cdfec-4a92-4c45-a687-1fcecd962d61_6000x4000.jpeg",
+      "peek_preview": "Three watch fairs, one weekend, and Roger Smith on why George Daniels might’ve embraced CNC.",
+      "categories": [],
+      "source_name": "Unpolished Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T15:48:09.000Z",
+      "score_quality": 74,
+      "score_notif": 46,
+      "cluster": "20261123-a9e81bee7f52",
+      "cluster_main": true
+    },
     {
       "title": "Sex and the City at 30: The Watches the Show Forgot",
       "url": "https://wornandwound.com/sex-and-the-city-at-30-the-watches-the-show-forgot/",
@@ -525,6 +555,24 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261119-216b0f4ada8a",
+      "cluster_main": true
+    },
+    {
+      "title": "Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative Presage Classic Limited Edition (Clone)",
+      "url": "https://timeandtidewatches.com/seiko-presage-classic-series-tradmans-bonsai-limited-edition-hcc009j-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Seiko-TRADMANS-Bonsai-feature.jpg",
+      "peek_preview": "Seiko continues its celebration of Japanese traditional arts with a new Presage Classic limited edition inspired by the art of Bonsai. The post Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative...",
+      "categories": [
+        "Video",
+        "meta:short"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-22T16:00:00.000Z",
+      "score_quality": 45,
+      "score_notif": 33,
+      "cluster": "20261122-99a512392993",
       "cluster_main": true
     },
     {
@@ -1711,21 +1759,6 @@
       "cluster_main": true
     },
     {
-      "title": "Introducing: The Oris Doraemon Limited Edition",
-      "url": "https://www.hodinkee.com/articles/oris-doraemon",
-      "image": "https://hodinkee.imgix.net/uploads/articles/aade4d4e-d02b-4348-b2d4-dd8d4f97840d/oris-doraemon-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The iconic cat robot makes his way to Holstein for this new watch.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T14:00:00.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
-    },
-    {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
       "url": "https://deployant.com/hermes-slim-dhermes-sous-le-charme-dorphee-a-metiers-dart-creation/?utm_source=rss&utm_medium=rss&utm_campaign=hermes-slim-dhermes-sous-le-charme-dorphee-a-metiers-dart-creation",
       "image": "https://deployant.com/wp-content/uploads/2026/11/Slim-dHermes-Sous-le-charme-dOrphee-copyright-Anita-Schlaefli-8-for-deployant.jpeg",
@@ -2135,23 +2168,6 @@
       "cluster_main": true
     },
     {
-      "title": "The Sartory-Billard SB04-E Shanga puts Tanzanian glassmaking at the heart of its dial",
-      "url": "https://timeandtidewatches.com/sartory-billard-shanga-sb04-e-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/sb04-sartory-billard-shanga-featured-image.webp",
-      "peek_preview": "Recycled glass, handwritten numerals and Maasai spear-inspired hands give the SB04-E Shanga a character inseparable from the artisans who helped create it. The post The Sartory-Billard SB04-E Shanga puts Tanzanian glass...",
-      "categories": [
-        "Hands On"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-18T07:00:54.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261118-6f7f3e67c8bd",
-      "cluster_main": true
-    },
-    {
       "title": "In Depth: The Hidden History of the Valjoux 7750",
       "url": "https://watchesbysjx.com/2026/11/valjoux-7750-history.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Edmond-Capt-7750-prix-gaia-header-300x200.jpg",
@@ -2533,26 +2549,6 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261116-bcbc90acd282",
-      "cluster_main": true
-    },
-    {
-      "title": "URWERK UR-101 Green Mamba: A New Take on an Icon",
-      "url": "https://deployant.com/urwerk-ur-101-green-mamba/?utm_source=rss&utm_medium=rss&utm_campaign=urwerk-ur-101-green-mamba",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/2026_10_21-urwerk-green-mamba6232.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors URWERK returns to one of its earliest models with the UR-101 Green Mamba, a new interpretation of the watch first unveiled at Baselworld in 1997. Nearly three...",
-      "categories": [
-        "Announcements",
-        "News",
-        "Watches",
-        "urwerk"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-16T13:30:00.000Z",
-      "score_quality": 68,
-      "score_notif": 28,
-      "cluster": "20261116-c1e89dc53c1e",
       "cluster_main": true
     }
   ]
