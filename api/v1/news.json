@@ -1,6 +1,6 @@
 {
-  "content_hash": "42f5db75b86ac49cc041b88209fafe0708c7bce65fbaef39d15ef22380201b1f",
-  "last_updated": "2026-11-23T09:47:48.989Z",
+  "content_hash": "ca8df096cee8e595514e1dd1e7e8e7db078bf04aa516dfc5558f197120b08dda",
+  "last_updated": "2026-11-23T10:46:50.654Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T08:00:59.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-23T10:00:33.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T07:00:00.000Z"
     },
     {
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On With The Synchron Ti300M Poseidon Deep Black",
+      "url": "https://www.fratellowatches.com/hands-on-with-the-synchron-ti300m-poseidon-deep-black/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Synchron-Ti300M-Poseidon-Deep-Black-7.jpg",
+      "peek_preview": "Over the past five years, we’ve watched Synchron transform from a long-forgotten name into a serious player in affordable dive watches. The brand name once represented a holding company that included Doxa, Cyma, and Ern...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-23T10:00:33.000Z",
+      "score_quality": 84,
+      "score_notif": 63,
+      "cluster": "20261123-3c7c210d3fcf",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On With The Kneijnsberg Hugenius — A Tribute To Christiaan Huygens",
       "url": "https://www.fratellowatches.com/hands-on-kneijnsberg-hugenius/",
@@ -426,7 +445,7 @@
       "title": "Buying Guide – Six Deep Dive Watches, From Accessible To Luxury",
       "url": "https://monochrome-watches.com/buying-guide-titan-certina-doxa-zrc-omega-panerai-dive-watches-500m-review-specs-price/",
       "image": "https://monochrome-watches.com/app/uploads/2025/11/2025-omega-seamaster-planet-ocean-600m-4th-generation-dive-watch-price-video-review-5-600x237.jpg",
-      "peek_preview": "Did you know that we have mapped virtually 100% of the surface of the Moon, yet have only mapped about 27% of our ocean floors? Scientists estimate that an astounding 2 million or more underwater creatures have yet to b...",
+      "peek_preview": "Did you know we have mapped virtually 100% of the surface of the Moon, yet only about 27% of our ocean floors? Scientists estimate that an astounding 2 million or more underwater creatures have yet to be discovered; suc...",
       "categories": [
         "Certina",
         "Doxa",
@@ -945,26 +964,8 @@
       "published_at": "2026-11-20T17:01:51.000Z",
       "score_quality": 76,
       "score_notif": 34,
-      "cluster": "20261120-11c4699c7a23",
+      "cluster": "20261120-bebaab829f19",
       "cluster_main": true
-    },
-    {
-      "title": "Introducing: The Nodus × Oracle Time Sector II Sport Red Jasper",
-      "url": "https://www.fratellowatches.com/introducing-the-nodus-x-oracle-time-sector-ii-sport-red-jasper/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Nodus-Sector-Sport-Oracle-Time-HD-12.jpg",
-      "peek_preview": "UK-based Oracle Time returns with another collaborative release, this time partnering with Los Angeles watchmaker Nodus. Based on the Sector II Sport platform, the new watch explores the growing appeal of natural stone...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T17:00:40.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261120-11c4699c7a23",
-      "cluster_main": false
     },
     {
       "title": "New Release: Hublot Big Bang Denim Watches Return For 2026",
@@ -1558,7 +1559,7 @@
       "score_quality": 77,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: The Oris Doraemon Limited Edition",
@@ -1805,7 +1806,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "レイモンド ウェイル「トッカータ ヘリテージ」から、エレガントなふたつの新色モデルが登場",
