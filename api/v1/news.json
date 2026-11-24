@@ -1,6 +1,6 @@
 {
-  "content_hash": "bd8ffee8176a478385f60cf321036dc76f685b4e05c1aad61a87ef80d6db4a6c",
-  "last_updated": "2026-11-24T00:47:00.762Z",
+  "content_hash": "0ee78228858b151d9d94278191594371fcc2440e683c2bcc7be19a5f7753a1b8",
+  "last_updated": "2026-11-24T01:48:20.424Z",
   "premium": {
     "links": []
   },
@@ -162,19 +162,36 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T00:00:36.000Z"
     },
     {
       "source_name": "GMT Korea",
       "lang": "ko",
-      "estimated_articles_per_day": 0.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-13T02:04:09.000Z"
+      "estimated_articles_per_day": 0.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-24T01:17:04.000Z"
     }
   ],
   "items": [
+    {
+      "title": "RM 07-01, 완벽함을 예술의 경지로",
+      "url": "https://www.gmtkoreaseoul.com/post/rm-07-01-%EC%99%84%EB%B2%BD%ED%95%A8%EC%9D%84-%EC%98%88%EC%88%A0%EC%9D%98-%EA%B2%BD%EC%A7%80%EB%A1%9C",
+      "image": "https://static.wixstatic.com/media/bd93d4_d835ebc9203a43ae9f289418af791cab~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "peek_preview": "리차드 밀을 선택한 여성이라면, 아마도 완벽주의자일 것이다. 절대적인 브랜드의 가치와 독창성, 컬렉터블 워치로서의 지속성을 모두 지닌 시계를 선호한다는 것은 매우 신중한 자세다. 첨단 소재와 하이 주얼리를 접목해 미래적인 시계 제작 기술에 대한 새로운 해석을 제시하는 리차드 밀의 여성 컬렉션을 소개한다.",
+      "categories": [
+        "COVER STORY"
+      ],
+      "source_name": "GMT Korea",
+      "lang": "ko",
+      "featured": false,
+      "published_at": "2026-11-24T01:17:04.000Z",
+      "score_quality": 27,
+      "score_notif": 22,
+      "cluster": "20261124-8939891f87db",
+      "cluster_main": true
+    },
     {
       "title": "タグ・ホイヤーが新たな旗艦店「タグ・ホイヤー 東京 銀座」をグランドオープン。松田翔太ら豪華ゲストがセレモニーに登壇",
       "url": "https://www.webchronos.net/news/179504/",
@@ -323,8 +340,8 @@
       "published_at": "2026-11-23T17:25:27.000Z",
       "score_quality": 41,
       "score_notif": 34,
-      "cluster": "20261121-6f26add1d8fd",
-      "cluster_main": false
+      "cluster": "20261123-a60c4347a4bc",
+      "cluster_main": true
     },
     {
       "title": "Hands-on – The Lebois & Co Heritage Atelier Chronograph Bleu-sur-Blanc, with Two-Tone Enamel Dial",
@@ -626,27 +643,6 @@
       "cluster_main": true
     },
     {
-      "title": "17 of the best quartz watches that rub it into quartz snobs’ faces",
-      "url": "https://timeandtidewatches.com/best-quartz-watches/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-best-quatrz-watches-26.webp",
-      "peek_preview": "Here's a few reasons why quartz watches should not just be low-cost alternatives to their mechanical counterparts. The post 17 of the best quartz watches that rub it into quartz snobs’ faces appeared first on Time+Tide...",
-      "categories": [
-        "Buying Guides",
-        "meta:buying-guide",
-        "meta:evergreen",
-        "meta:quartz",
-        "meta:top-ranked"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-23T07:00:00.000Z",
-      "score_quality": 47,
-      "score_notif": 24,
-      "cluster": "20261123-7bda7488a80d",
-      "cluster_main": true
-    },
-    {
       "title": "Nacho’s Best Watches Of 2026",
       "url": "https://www.fratellowatches.com/nachos-best-watches-of-2026/",
       "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Vacheron-Constantin-Overseas-Dual-Time-Cardinal-Points-North-1.jpg",
@@ -866,32 +862,6 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261122-5423d8cb78a7",
-      "cluster_main": true
-    },
-    {
-      "title": "Buying Guide – Six Deep Dive Watches, From Accessible To Luxury",
-      "url": "https://monochrome-watches.com/buying-guide-titan-certina-doxa-zrc-omega-panerai-dive-watches-500m-review-specs-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2025/11/2025-omega-seamaster-planet-ocean-600m-4th-generation-dive-watch-price-video-review-5-600x237.jpg",
-      "peek_preview": "Did you know we have mapped virtually 100% of the surface of the Moon, yet only about 27% of our ocean floors? Scientists estimate that an astounding 2 million or more underwater creatures have yet to be discovered; suc...",
-      "categories": [
-        "Certina",
-        "Doxa",
-        "Omega",
-        "Panerai",
-        "Titan",
-        "ZRC Watches",
-        "2026",
-        "Buying Guide",
-        "Dive Watches",
-        "Novelty"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-22T10:35:07.000Z",
-      "score_quality": 61,
-      "score_notif": 24,
-      "cluster": "20261122-66cc2e07b5ed",
       "cluster_main": true
     },
     {
@@ -1123,7 +1093,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "November Auktionen 2026 bei Christie’s, Sotheby’s und Antiquorum oder F.P. Journe bis der Onkel Doktor klingelt",
@@ -1511,7 +1481,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Antiquorum proves brass can be worth more than gold with this F.P. Journe",
@@ -2561,23 +2531,6 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261117-31e161142d52",
-      "cluster_main": true
-    },
-    {
-      "title": "Orient Star Skeleton 75th Anniversary: Hands-on Review",
-      "url": "https://deployant.com/orient-star-skeleton-75th-anniversary-review/?utm_source=rss&utm_medium=rss&utm_campaign=orient-star-skeleton-75th-anniversary-review",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/OrientStar-skeleton-mirror.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The Orient Star Skeleton marks the brand’s 75th anniversary with a new flagship that places its movement architecture firmly in the foreground. Powered by the...",
-      "categories": [
-        "Watches"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-17T07:30:00.000Z",
-      "score_quality": 77,
-      "score_notif": 34,
-      "cluster": "20261117-f43766dca8be",
       "cluster_main": true
     }
   ]
