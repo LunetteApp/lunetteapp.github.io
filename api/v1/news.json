@@ -1,6 +1,6 @@
 {
-  "content_hash": "6f60044d9aec53d81fe28a839f9d07b00414db194eb7b07b2db8229bb5b58fca",
-  "last_updated": "2026-11-24T06:47:10.526Z",
+  "content_hash": "5ee64bf9e34fb82f9bfb4987de78aa924bcc8549d17eecb298c4ca8443d29f9c",
+  "last_updated": "2026-11-24T07:47:51.957Z",
   "premium": {
     "links": []
   },
@@ -8,8 +8,8 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.5,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T06:00:04.000Z"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T05:19:17.000Z"
     },
     {
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T11:38:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-24T06:50:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "James Bond gardera-t-il son Omega avec Robert Pattinson ?",
+      "url": "https://www.welovewatches.fr/james-bond-gardera-t-il-son-omega-avec-robert-pattinson.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/james-bond-robert-pattinson-jaeger-lecoultre-une-1940x1280-1.jpg",
+      "peek_preview": "Sur le premier portrait de Robert Pattinson en James Bond, le smoking et le pistolet sont déjà de sortie. Pour la montre, il faudra patienter. Le 16 novembre, Amazon MGM Studios a confirmé que l’acteur...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-24T06:50:00.000Z",
+      "score_quality": 32,
+      "score_notif": 28,
+      "cluster": "20261124-53b7b9a71954",
+      "cluster_main": true
+    },
     {
       "title": "The New Nodus Sector II Field Ti FDE: Setting The Standard For Modern Field Watches",
       "url": "https://www.fratellowatches.com/the-new-nodus-sector-ii-field-ti-fde-setting-the-standard-for-modern-field-watches/",
@@ -260,7 +277,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -444,8 +461,8 @@
       "published_at": "2026-11-23T17:25:27.000Z",
       "score_quality": 41,
       "score_notif": 34,
-      "cluster": "20261121-6f26add1d8fd",
-      "cluster_main": false
+      "cluster": "20261123-a60c4347a4bc",
+      "cluster_main": true
     },
     {
       "title": "Hands-on – The Lebois & Co Heritage Atelier Chronograph Bleu-sur-Blanc, with Two-Tone Enamel Dial",
@@ -780,7 +797,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -2524,6 +2541,23 @@
       "score_quality": 50,
       "score_notif": 32,
       "cluster": "20261117-427b35af2323",
+      "cluster_main": true
+    },
+    {
+      "title": "Lip Churchill T24 Golden Sand x Ocarat : Test & Avis",
+      "url": "https://www.welovewatches.fr/lip-churchill-t24-golden-sand-x-ocarat-test-avis.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/montre-churchill-t24-golden-sand-lip-x-ocarat-test-et-avis-magazine-we-love-watches.jpg",
+      "peek_preview": "Lip et le revendeur français Ocarat, c’est une histoire qui dure ! En 2024, les deux entités avaient travaillé sur un projet collaboratif qui avait débouché sur la sortie de la luxueuse Lip T18 à...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-17T10:22:47.000Z",
+      "score_quality": 68,
+      "score_notif": 18,
+      "cluster": "20261117-cc48c3d1b042",
       "cluster_main": true
     }
   ]
