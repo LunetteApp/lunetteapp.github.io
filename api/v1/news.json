@@ -1,6 +1,6 @@
 {
-  "content_hash": "738119fa246da02761774b3351622517f4f9c52e092bac3ccdcb8fc391eaa5b3",
-  "last_updated": "2026-11-24T03:47:47.254Z",
+  "content_hash": "1171343e4df2fdc8627fe2d8705f08da4e92565904c010a650fdc14bc134f967",
+  "last_updated": "2026-11-24T04:47:45.509Z",
   "premium": {
     "links": []
   },
@@ -72,8 +72,8 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-24T02:02:46.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-24T04:00:49.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -162,19 +162,72 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T03:00:13.000Z"
     },
     {
       "source_name": "GMT Korea",
       "lang": "ko",
-      "estimated_articles_per_day": 0.2,
-      "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-24T02:52:58.000Z"
+      "estimated_articles_per_day": 0.3,
+      "new_articles_since_last_update": 3,
+      "latest_article_at": "2026-11-24T04:27:14.000Z"
     }
   ],
   "items": [
+    {
+      "title": "[인터뷰] 나오야 히다 앤 코의 창립자 나오야 히다",
+      "url": "https://www.gmtkoreaseoul.com/post/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%82%98%EC%98%A4%EC%95%BC-%ED%9E%88%EB%8B%A4-%EC%95%A4-%EC%BD%94%EC%9D%98-%EC%B0%BD%EB%A6%BD%EC%9E%90-%EB%82%98%EC%98%A4%EC%95%BC-%ED%9E%88%EB%8B%A4",
+      "image": "https://static.wixstatic.com/media/bd93d4_0e88d0279d4d4abfbbb9d13349976aea~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "peek_preview": "계속해서 흥미를 자극하는 시계란 오늘날 수집가들에게 인정받으면서도 앞으로의 행보가 기대되는 시계일 것이다. 나오야 히다 앤 코의 시계는 창립자만의 태도를 굳건히 지키면서도 시계 업계의 거센 파도를 유연하게 타고 있으며, 그 미래 가치 또한 뚜렷하게 인정받고 있다.",
+      "categories": [
+        "COLUMN"
+      ],
+      "source_name": "GMT Korea",
+      "lang": "ko",
+      "featured": false,
+      "published_at": "2026-11-24T04:27:14.000Z",
+      "score_quality": 74,
+      "score_notif": 43,
+      "cluster": "20261124-abd8471f6131",
+      "cluster_main": true
+    },
+    {
+      "title": "[English] Interview with Rohit Deshpandé, Professor at Harvard Business School",
+      "url": "https://www.gmtkoreaseoul.com/post/english-interview-with-rohit-deshpand%C3%A9-professor-at-harvard-business-school",
+      "image": "https://static.wixstatic.com/media/bd93d4_ca253320766d4b4a9880bf2ff12065f1~mv2.jpeg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "peek_preview": "Over a cup of coffee, the conversation unfolds effortlessly, beginning with his childhood fascination with watches and the story of how he became a collector, before moving on to the evolving landscape of today's luxury...",
+      "categories": [
+        "COLUMN"
+      ],
+      "source_name": "GMT Korea",
+      "lang": "ko",
+      "featured": false,
+      "published_at": "2026-11-24T04:02:05.000Z",
+      "score_quality": 68,
+      "score_notif": 40,
+      "cluster": "20261124-1086e8cefcca",
+      "cluster_main": true
+    },
+    {
+      "title": "Raymond Weil Debuts Japan-Exclusive Millesime",
+      "url": "https://watchesbysjx.com/2026/11/raymond-weil-millesime-small-seconds-japan-limited-edition.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Raymond-Weil-Millesime-Small-Seconds-3x2-centred-header-300x200.jpg",
+      "peek_preview": "Raymond Weil pays homage to Japanese heritage with the Millesime Small Seconds Japan Limited Edition, a 30-piece Japan-exclusive model inspired by the natural colour of traditional Japanese washi paper. With a 35 mm ste...",
+      "categories": [
+        "News",
+        "New Watches 2026",
+        "Raymond Weil"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-24T04:00:49.000Z",
+      "score_quality": 82,
+      "score_notif": 63,
+      "cluster": "20261124-c6a52ca0fa7a",
+      "cluster_main": true
+    },
     {
       "title": "カンパノラが12年ぶりに新機械式ムーブメントを搭載した「スモールセコンド メカニカル」を発表",
       "url": "https://www.webchronos.net/news/179541/",
@@ -186,9 +239,9 @@
       "featured": false,
       "published_at": "2026-11-24T03:00:13.000Z",
       "score_quality": 72,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -203,9 +256,9 @@
       "featured": false,
       "published_at": "2026-11-24T02:52:58.000Z",
       "score_quality": 44,
-      "score_notif": 25,
+      "score_notif": 40,
       "cluster": "20261124-1086e8cefcca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "RM 07-01, 완벽함을 예술의 경지로",
@@ -372,8 +425,8 @@
       "published_at": "2026-11-23T17:25:27.000Z",
       "score_quality": 41,
       "score_notif": 34,
-      "cluster": "20261123-a60c4347a4bc",
-      "cluster_main": true
+      "cluster": "20261121-6f26add1d8fd",
+      "cluster_main": false
     },
     {
       "title": "Hands-on – The Lebois & Co Heritage Atelier Chronograph Bleu-sur-Blanc, with Two-Tone Enamel Dial",
@@ -706,9 +759,9 @@
       "featured": false,
       "published_at": "2026-11-23T04:00:34.000Z",
       "score_quality": 78,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -1363,7 +1416,7 @@
       "title": "Introducing: Bangalore Watch Company Epoch (Live Pics)",
       "url": "https://www.hodinkee.com/articles/bangalore-watch-company-epoch",
       "image": "https://hodinkee.imgix.net/uploads/images/51d49a3e-a366-4396-9fbf-e5edec703a33/HeroBWC2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "The India-based brand has been focused on sporty tool watches with recent models, now it's getting dressy again with the new Epoch featuring a hunter caseback.",
+      "peek_preview": "LEDE-MARK",
       "categories": [],
       "source_name": "HODINKEE",
       "lang": "en",
@@ -2359,25 +2412,6 @@
       "cluster_main": true
     },
     {
-      "title": "Ulysse Nardin’s Freak S Purple is a Marriage of Materials",
-      "url": "https://watchesbysjx.com/2026/11/ulysse-nardin-freak-s-purple.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Ulysse-Nardin-Freak-S-Purple-3x2-centred-header-300x200.jpg",
-      "peek_preview": "The Ulysse Nardin Freak S Purple Enamel pairs the collection’s twin inclined balances with a purple flinqué enamel hour disc. It concludes a trilogy that began with last year’s Freak S Enamel in red and turquoise, closi...",
-      "categories": [
-        "News",
-        "New Watches 2026",
-        "Ulysse Nardin"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-18T01:00:08.000Z",
-      "score_quality": 85,
-      "score_notif": 34,
-      "cluster": "20261118-0101b78db0f9",
-      "cluster_main": true
-    },
-    {
       "title": "Biver AB: il primo orologio in acciaio di Jean-Claude Biver",
       "url": "https://italianwatchspotter.com/biver-ab-primo-orologio-acciaio/",
       "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/8-Biver-AB-1024x819.jpg",
@@ -2503,64 +2537,6 @@
       "score_quality": 50,
       "score_notif": 32,
       "cluster": "20261117-427b35af2323",
-      "cluster_main": true
-    },
-    {
-      "title": "Lip Churchill T24 Golden Sand x Ocarat : Test & Avis",
-      "url": "https://www.welovewatches.fr/lip-churchill-t24-golden-sand-x-ocarat-test-avis.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/montre-churchill-t24-golden-sand-lip-x-ocarat-test-et-avis-magazine-we-love-watches.jpg",
-      "peek_preview": "Lip et le revendeur français Ocarat, c’est une histoire qui dure ! En 2024, les deux entités avaient travaillé sur un projet collaboratif qui avait débouché sur la sortie de la luxueuse Lip T18 à...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-17T10:22:47.000Z",
-      "score_quality": 58,
-      "score_notif": 27,
-      "cluster": "20261117-cc48c3d1b042",
-      "cluster_main": true
-    },
-    {
-      "title": "Mühle Glashütte Teutonia IV Lady und Teutonia IV Kleine Sekunde: Dezente Eleganz",
-      "url": "https://www.uhrenkosmos.com/muehle-glashuette-teutonia-iv-lady/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Aufmacherbild-Muehle-Teutonia-IV-Lady-und-Teutonia-IV-Kleine-Sekunde-vor-grauem-Hintergrund.jpg",
-      "peek_preview": "Mit der Teutonia IV Lady in Anthrazit und Gold und der Teutonia IV Kleine Sekunde in Weiß beschließt Mühle-Glashütte sein Jubiläumsjahr. Zwei Uhren in vornehmer Zurückhaltung – mit Spechthalsregulierung, Sonderrotor und...",
-      "categories": [
-        "Aktuelle Uhren",
-        "Damenuhren",
-        "Mühle Glashütte",
-        "Mühle Glashütte Teutonia",
-        "Mühle Glashütte Teutonia IV",
-        "Mühle Glashütte Teutonia IV Kleine Sekunde",
-        "Mühle Glashütte Teutonia IV Lady",
-        "Mühle-Glashütte-Jubiläum"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-17T09:57:33.000Z",
-      "score_quality": 69,
-      "score_notif": 34,
-      "cluster": "20261117-31e161142d52",
-      "cluster_main": true
-    },
-    {
-      "title": "Orient Star Skeleton 75th Anniversary: Hands-on Review",
-      "url": "https://deployant.com/orient-star-skeleton-75th-anniversary-review/?utm_source=rss&utm_medium=rss&utm_campaign=orient-star-skeleton-75th-anniversary-review",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/OrientStar-skeleton-mirror.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors The Orient Star Skeleton marks the brand’s 75th anniversary with a new flagship that places its movement architecture firmly in the foreground. Powered by the...",
-      "categories": [
-        "Watches"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-17T07:30:00.000Z",
-      "score_quality": 74,
-      "score_notif": 27,
-      "cluster": "20261117-f43766dca8be",
       "cluster_main": true
     }
   ]
