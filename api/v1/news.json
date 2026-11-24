@@ -1,6 +1,6 @@
 {
-  "content_hash": "5ee64bf9e34fb82f9bfb4987de78aa924bcc8549d17eecb298c4ca8443d29f9c",
-  "last_updated": "2026-11-24T07:47:51.957Z",
+  "content_hash": "5385724e4c9ac6b0c27dbc88fbb09b93b92d24b248baa30bd431caef336947cf",
+  "last_updated": "2026-11-24T08:47:44.657Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-24T06:00:04.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-24T08:00:15.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T18:00:25.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-24T08:01:26.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -78,7 +78,7 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T07:00:00.000Z"
     },
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T06:50:00.000Z"
     },
     {
@@ -176,20 +176,39 @@
   ],
   "items": [
     {
-      "title": "James Bond gardera-t-il son Omega avec Robert Pattinson ?",
-      "url": "https://www.welovewatches.fr/james-bond-gardera-t-il-son-omega-avec-robert-pattinson.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/james-bond-robert-pattinson-jaeger-lecoultre-une-1940x1280-1.jpg",
-      "peek_preview": "Sur le premier portrait de Robert Pattinson en James Bond, le smoking et le pistolet sont déjà de sortie. Pour la montre, il faudra patienter. Le 16 novembre, Amazon MGM Studios a confirmé que l’acteur...",
+      "title": "OraOrea Coriolis Pointer Date Review: What Happens When A Watch Journalist Makes A Watch?",
+      "url": "https://www.ablogtowatch.com/oraorea-coriolis-pointer-date-what-happens-when-a-watch-journalist-makes-a-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/OraOrea-Coriolis-RAZ-Crop-11-768x346.jpg",
+      "peek_preview": "I’ll admit that my headline is a bit misleading. Zach Weiss, co-founder of Worn and Wound, is not just a watch journalist. While that’s been his primary vocation for 15 years, he has a degree in fine arts, a masters in...",
       "categories": [
-        "Actualités des montres"
+        "Wrist Time Reviews",
+        "Watch Releases 2026",
+        "Watch Reviews Over $500"
       ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
       "featured": false,
-      "published_at": "2026-11-24T06:50:00.000Z",
-      "score_quality": 32,
-      "score_notif": 28,
-      "cluster": "20261124-53b7b9a71954",
+      "published_at": "2026-11-24T08:01:26.000Z",
+      "score_quality": 78,
+      "score_notif": 47,
+      "cluster": "20261124-be5752871fea",
+      "cluster_main": true
+    },
+    {
+      "title": "Fratello On Air: Our Favorite Watches Of 2026 At Different Price Points",
+      "url": "https://www.fratellowatches.com/fratello-on-air-our-favorite-watches-of-2026-at-different-price-points/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/05/Baltic-x-SpaceOne-Seconde-Majeure-15.jpg",
+      "peek_preview": "Welcome to another episode of Fratello On Air! It’s hard to believe we’ve reached that time of year again, but here we are. With Thanksgiving only days away, we’re officially heading into the holiday season. That means...",
+      "categories": [
+        "Podcast"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-24T08:00:15.000Z",
+      "score_quality": 46,
+      "score_notif": 23,
+      "cluster": "20261124-12856dec6567",
       "cluster_main": true
     },
     {
@@ -277,7 +296,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -739,7 +758,7 @@
       "featured": false,
       "published_at": "2026-11-23T08:00:59.000Z",
       "score_quality": 82,
-      "score_notif": 58,
+      "score_notif": 34,
       "cluster": "20261123-2045bcb12d33",
       "cluster_main": true
     },
@@ -797,7 +816,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -1329,25 +1348,6 @@
       "score_quality": 27,
       "score_notif": 22,
       "cluster": "20261121-d0706eeb78c6",
-      "cluster_main": true
-    },
-    {
-      "title": "Why I Bought The New Seiko “Pandagraph” HHK001",
-      "url": "https://www.fratellowatches.com/why-i-bought-the-new-seiko-pandagraph-hhk001/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Seiko-Pandagraph-HHK002-2.jpg",
-      "peek_preview": "You knew this one was coming, didn’t you? When Seiko presented the original Pandagraph design concept at its Incredibly Specialized Watch Exhibition in 2024, I already tried to get my hands on it. So, when Seiko release...",
-      "categories": [
-        "Hands-On",
-        "Watch Talk",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-21T10:00:18.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261121-6f26add1d8fd",
       "cluster_main": true
     },
     {
@@ -2005,6 +2005,21 @@
       "cluster_main": true
     },
     {
+      "title": "Introducing: The Oris Doraemon Limited Edition",
+      "url": "https://www.hodinkee.com/articles/oris-doraemon",
+      "image": "https://hodinkee.imgix.net/uploads/articles/aade4d4e-d02b-4348-b2d4-dd8d4f97840d/oris-doraemon-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "The iconic cat robot makes his way to Holstein for this new watch.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T14:00:00.000Z",
+      "score_quality": 61,
+      "score_notif": 34,
+      "cluster": "20261119-fab9802c11e3",
+      "cluster_main": false
+    },
+    {
       "title": "Hermès Slim d’Hermès Sous le charme d’Orphée: A Métiers d’Art Creation",
       "url": "https://deployant.com/hermes-slim-dhermes-sous-le-charme-dorphee-a-metiers-dart-creation/?utm_source=rss&utm_medium=rss&utm_campaign=hermes-slim-dhermes-sous-le-charme-dorphee-a-metiers-dart-creation",
       "image": "https://deployant.com/wp-content/uploads/2026/11/Slim-dHermes-Sous-le-charme-dOrphee-copyright-Anita-Schlaefli-8-for-deployant.jpeg",
@@ -2519,45 +2534,6 @@
       "score_quality": 77,
       "score_notif": 26,
       "cluster": "20261117-993cfd87a196",
-      "cluster_main": true
-    },
-    {
-      "title": "WOI 7: incontri e impressioni",
-      "url": "https://giornaleorologi.it/2026/11/17/watches-of-italy-7-incontri-impressioni/",
-      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/DSC_5689-1024x683.jpg",
-      "peek_preview": "Per l'articolo completo - WOI 7: incontri e impressioni Come d’accordo, eccoci di ritorno dal WOI 7. Dopo il weekend trascorso fra i banchi degli espositori, ripartiamo dai sei orologi che volevamo toccare con mano. Nel...",
-      "categories": [
-        "Eventi",
-        "Adamas",
-        "Belchengruppe",
-        "Orologi Calamai",
-        "Valmeria",
-        "Watches of Italy"
-      ],
-      "source_name": "Giornale degli Orologi",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-17T11:00:47.000Z",
-      "score_quality": 50,
-      "score_notif": 32,
-      "cluster": "20261117-427b35af2323",
-      "cluster_main": true
-    },
-    {
-      "title": "Lip Churchill T24 Golden Sand x Ocarat : Test & Avis",
-      "url": "https://www.welovewatches.fr/lip-churchill-t24-golden-sand-x-ocarat-test-avis.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/montre-churchill-t24-golden-sand-lip-x-ocarat-test-et-avis-magazine-we-love-watches.jpg",
-      "peek_preview": "Lip et le revendeur français Ocarat, c’est une histoire qui dure ! En 2024, les deux entités avaient travaillé sur un projet collaboratif qui avait débouché sur la sortie de la luxueuse Lip T18 à...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-17T10:22:47.000Z",
-      "score_quality": 68,
-      "score_notif": 18,
-      "cluster": "20261117-cc48c3d1b042",
       "cluster_main": true
     }
   ]
