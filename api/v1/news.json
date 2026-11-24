@@ -1,6 +1,6 @@
 {
-  "content_hash": "14415f8eb0ac6cda4cec6c0e46440b6feed1fd0d0b2063ee8ddc52351b50923e",
-  "last_updated": "2026-11-24T18:48:12.893Z",
+  "content_hash": "4043db5e9b7918b0aa9d65f1d10d8ebad569343f72e09fe37a5a99913edceb55",
+  "last_updated": "2026-11-24T20:47:32.084Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T18:00:25.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T18:00:48.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-22T19:36:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-24T20:24:57.000Z"
     },
     {
       "source_name": "A Timely Perspective",
@@ -107,7 +107,7 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T18:28:19.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T17:48:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-24T19:46:15.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,43 @@
     }
   ],
   "items": [
+    {
+      "title": "The First Hublot Watch Gets a Modern Re-Edition: Reviewing The 38mm Classic Fusion Tributo",
+      "url": "https://teddybaldassarre.com/blogs/watches/hublot-classic-fusion-tributo",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Hublot-founder-Carlo-Crocco-2.jpg?v=1792050731",
+      "peek_preview": "In 1980, the Swiss luxury watch industry was in a defensive position — some might even call it a survival mode — as the onslaught of quartz-powered, lower-priced timepieces from Asia threatened to conquer the market and...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-24T20:24:57.000Z",
+      "score_quality": 72,
+      "score_notif": 64,
+      "cluster": "20261124-53f5264e8d68",
+      "cluster_main": true
+    },
+    {
+      "title": "Trilobe Une Folle Journée Gen Two: Zeigen, wo der Zeiger hängt",
+      "url": "https://www.uhrenkosmos.com/trilobe-une-folle-journee-gen-two/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Trilobe-Une-Folle-Journee-01-Aufmacher-Blue-Levitation-1024x683.jpg",
+      "peek_preview": "Wer zeigen will, wo der Zeiger hängt, nimmt am besten eine Uhr, bei der er sich gar nicht erst bewegt. Trilobe bringt die zweite Generation der Une Folle Journée: gut 18 Millimeter hoch, mit eigenem Manufakturkaliber un...",
+      "categories": [
+        "Aktuell",
+        "Aktuelle Uhren",
+        "Marken & Macher",
+        "Trilobe Une Folle Journée",
+        "Trilobe Une Folle Journée Gen Two",
+        "Trilobe X-Nihilo"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-24T19:46:15.000Z",
+      "score_quality": 69,
+      "score_notif": 63,
+      "cluster": "20261124-31fbeb732425",
+      "cluster_main": true
+    },
     {
       "title": "Prezzi Rolex 2027: quali aumenti possiamo aspettarci?",
       "url": "https://www.orologidiclasse.com/rolex-previsioni-prezzi-2027/",
@@ -209,7 +246,7 @@
       "featured": false,
       "published_at": "2026-11-24T18:00:48.000Z",
       "score_quality": 64,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
       "cluster_main": false
     },
@@ -772,7 +809,7 @@
       "featured": false,
       "published_at": "2026-11-23T20:00:49.000Z",
       "score_quality": 68,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
       "cluster_main": true
     },
@@ -2523,43 +2560,6 @@
       "score_notif": 34,
       "cluster": "20261118-21497bdc04e8",
       "cluster_main": false
-    },
-    {
-      "title": "Ho provato i Glashütte Original 70s e ora so quale comprerei (non è il nero)",
-      "url": "https://www.orologidiclasse.com/glashutte-original-70s-recensione/",
-      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/glashutte-original-70s-trio-vinyl-record-tweed-amp-stereo-panel.jpg",
-      "peek_preview": "Li avevo presentati lo scorso settembre, promettendo a chi me l’aveva domandato che sarei tornato a parlarne dopo averli provati dal vivo. Ora che ho finalmente avuto i nuovi Glashütte Original 70s al polso, posso dirti...",
-      "categories": [
-        "Recensioni Orologi",
-        "Alta Orologeria",
-        "GLASHÜTTE ORIGINAL",
-        "Sportivo"
-      ],
-      "source_name": "Orologi di Classe",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-18T07:05:44.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261118-f3698d25a099",
-      "cluster_main": true
-    },
-    {
-      "title": "In Depth: The Hidden History of the Valjoux 7750",
-      "url": "https://watchesbysjx.com/2026/11/valjoux-7750-history.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Edmond-Capt-7750-prix-gaia-header-300x200.jpg",
-      "peek_preview": "Without the Valjoux 7750, the mechanical chronograph revival would simply not exist. Developed between 1970 and 1972 by the young Edmond Capt, working closely with design collaborators Gérald Gander and Donald Rochat, t...",
-      "categories": [
-        "Knowledge"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-18T03:00:19.000Z",
-      "score_quality": 87,
-      "score_notif": 24,
-      "cluster": "20261118-f28893dbd00e",
-      "cluster_main": true
     }
   ]
 }
