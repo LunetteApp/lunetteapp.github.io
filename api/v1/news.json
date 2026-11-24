@@ -1,6 +1,6 @@
 {
-  "content_hash": "7e3c93d0df0be4cae7d355d7ebe68627bac924da49dd21db8f229b888236921d",
-  "last_updated": "2026-11-23T22:47:14.733Z",
+  "content_hash": "bd8ffee8176a478385f60cf321036dc76f685b4e05c1aad61a87ef80d6db4a6c",
+  "last_updated": "2026-11-24T00:47:00.762Z",
   "premium": {
     "links": []
   },
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-23T16:37:45.000Z"
     },
     {
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-23T03:00:33.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-24T00:00:36.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "タグ・ホイヤーが新たな旗艦店「タグ・ホイヤー 東京 銀座」をグランドオープン。松田翔太ら豪華ゲストがセレモニーに登壇",
+      "url": "https://www.webchronos.net/news/179504/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/TAG_Opening.webp",
+      "peek_preview": "タグ・ホイヤーが、銀座・中央通りに位置するブティックをリニューアルし、新たな旗艦店「タグ・ホイヤー 東京 銀座」をグランドオープンさせた。これを祝し、豪華ゲストを迎えたオープニングセレモニーとセレブレーションディナーを開 […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-24T00:00:36.000Z",
+      "score_quality": 47,
+      "score_notif": 36,
+      "cluster": "20261124-808c45a89eff",
+      "cluster_main": true
+    },
     {
       "title": "Zenith, è davvero la fine di un’era? Il piano shock di LVMH per il 2029",
       "url": "https://italianwatchspotter.com/zenith-il-piano-lvmh-2029/",
@@ -713,7 +728,7 @@
       "featured": false,
       "published_at": "2026-11-23T00:00:15.000Z",
       "score_quality": 58,
-      "score_notif": 61,
+      "score_notif": 34,
       "cluster": "20261123-b8f686c55a8d",
       "cluster_main": true
     },
@@ -2125,21 +2140,6 @@
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
       "cluster_main": false
-    },
-    {
-      "title": "レイモンド ウェイル「トッカータ ヘリテージ」から、エレガントなふたつの新色モデルが登場",
-      "url": "https://www.webchronos.net/news/179224/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/RW_TOCCATAHR_1.webp",
-      "peek_preview": "レイモンド ウェイルは、オーバル型のケースを持つ「トッカータ ヘリテージ」より、ローズゴールドPVDおよびイエローゴールドPVDケースを採用した新作モデルを発表した。前者はアンスラサイトカラー、後者はシャンパンカラーのサ […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-19T00:00:01.000Z",
-      "score_quality": 60,
-      "score_notif": 34,
-      "cluster": "20261119-bb51b3e266a2",
-      "cluster_main": true
     },
     {
       "title": "Automatik oder Handaufzug – und was bringt ein Manufakturwerk?",
