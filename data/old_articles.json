@@ -30375,6 +30375,23 @@
       "scoring_pending": false,
       "clustering_pending": false
     },
+    "https://www.fratellowatches.com/the-new-nodus-sector-ii-field-ti-fde-setting-the-standard-for-modern-field-watches/": {
+      "url": "https://www.fratellowatches.com/the-new-nodus-sector-ii-field-ti-fde-setting-the-standard-for-modern-field-watches/",
+      "title": "The New Nodus Sector II Field Ti FDE: Setting The Standard For Modern Field Watches",
+      "lang": "en",
+      "published_at": "2026-11-24T06:00:04.000Z",
+      "first_seen_at": "2026-11-24T06:45:43.000Z",
+      "categories": [
+        "Hands-On",
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "event_cluster_id": "20261124-044cd50f6236",
+      "event_first_published_at": "2026-11-24T06:00:04.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
     "https://www.fratellowatches.com/the-new-ressence-type-10-dark-night-debuts-the-brands-second-proprietary-movement/": {
       "url": "https://www.fratellowatches.com/the-new-ressence-type-10-dark-night-debuts-the-brands-second-proprietary-movement/",
       "title": "The New Ressence Type 10 “Dark Night” Debuts The Brand’s Second Proprietary Movement",
@@ -31997,7 +32014,7 @@
     },
     "https://www.hodinkee.com/articles/bangalore-watch-company-epoch": {
       "url": "https://www.hodinkee.com/articles/bangalore-watch-company-epoch",
-      "title": "Introducing: Introducing: Bangalore Watch Company Epoch",
+      "title": "Introducing: KB Test Article",
       "lang": "en",
       "published_at": "2026-11-20T18:00:00.000Z",
       "first_seen_at": "2026-11-20T18:45:50.000Z",
@@ -32006,7 +32023,8 @@
       "event_first_published_at": "2026-11-20T18:00:00.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "off_topic": true
     },
     "https://www.hodinkee.com/articles/benrus-type-3x-live-pics": {
       "url": "https://www.hodinkee.com/articles/benrus-type-3x-live-pics",
@@ -34717,6 +34735,20 @@
       "event_first_published_at": "2026-11-12T18:00:00.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
+      "topic_reviewed": true
+    },
+    "https://www.hodinkee.com/articles/zz-public-noparam-xss": {
+      "url": "https://www.hodinkee.com/articles/zz-public-noparam-xss",
+      "title": "ZZ Public NoParam XSS",
+      "lang": "en",
+      "published_at": "2026-11-20T14:00:00.000Z",
+      "first_seen_at": "2026-11-24T06:45:43.000Z",
+      "categories": [],
+      "event_cluster_id": "20261120-e4b58daf0783",
+      "event_first_published_at": "2026-11-20T14:00:00.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "off_topic": true,
       "topic_reviewed": true
     },
     "https://www.hodinkee.com/articles/zz-published-ssti": {
