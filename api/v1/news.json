@@ -1,6 +1,6 @@
 {
-  "content_hash": "1c24c1ee98c161d1d7540d54fcb44b72e60dcc1fc40812e6d3d49baaa8faa681",
-  "last_updated": "2026-11-25T17:47:38.374Z",
+  "content_hash": "890aee5902fbd0f518e83f7d95ca25b0a6a32f05acf7cc81b5dde123ee778389",
+  "last_updated": "2026-11-25T18:47:18.924Z",
   "premium": {
     "links": []
   },
@@ -16,14 +16,14 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T17:00:01.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T17:30:55.000Z"
     },
     {
@@ -43,8 +43,8 @@
     {
       "source_name": "Teddy Baldassarre",
       "lang": "en",
-      "estimated_articles_per_day": 0.9,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T17:29:32.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T14:00:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T18:00:06.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Breitling turns back the clock to the 1960s with two new Twin Jet Navitimers",
+      "url": "https://timeandtidewatches.com/breitling-navitimer-cosmonaute-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/breitling-navitimer-cosmonaut-featured-image-1.jpg",
+      "peek_preview": "The Breitling Navitimer returns with a Cosmonoaute featuring a 24-hour dial, manual-wind movement and Twin Jet logo, alongside a refreshed B09, both honouring the Navitimer's remarkable history The post Breitling turns...",
+      "categories": [
+        "Hands On",
+        "Breitling",
+        "chronograph",
+        "navitimer"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-25T18:00:06.000Z",
+      "score_quality": 79,
+      "score_notif": 72,
+      "cluster": "20261125-21be75afb11f",
+      "cluster_main": true
+    },
     {
       "title": "Review – Second Thoughts about the Master Control Chronomètre Date, Jaeger-LeCoultre’s Take on the Integrated Bracelet",
       "url": "https://monochrome-watches.com/jaeger-lecoultre-master-control-chronometre-date-luxury-sports-watch-integrated-bracelet-review-price/",
@@ -717,7 +737,7 @@
       "featured": false,
       "published_at": "2026-11-24T18:28:19.000Z",
       "score_quality": 55,
-      "score_notif": 45,
+      "score_notif": 34,
       "cluster": "20261124-c7e089895ae2",
       "cluster_main": true
     },
@@ -738,7 +758,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nivada Grenchen Introduces the Colorama, in Four Enthusiast Focused Sets Built for Customization",
@@ -799,7 +819,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Celebrating 10 Years Of Holthinrichs: The Signature Ornament Heritage Hand Engraved",
@@ -833,7 +853,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Armin Strom Turns To Meteorite For Its Dual Time GMT Resonance",
@@ -1286,7 +1306,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -2472,26 +2492,6 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261119-79b06d333628",
-      "cluster_main": true
-    },
-    {
-      "title": "Ain’t No Glacier High Enough To Keep Norqain From Releasing Another Icy Stunner",
-      "url": "https://timeandtidewatches.com/norqain-independence-arctic-blue-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-independence-arctic-blue.jpg",
-      "peek_preview": "Norqain gives the Independence Skeleton an Arctic Blue transparent dial, and its first semi-integrated steel bracelet The post Ain’t No Glacier High Enough To Keep Norqain From Releasing Another Icy Stunner appeared fir...",
-      "categories": [
-        "Introducing",
-        "integrated bracelet",
-        "meta:short",
-        "norqain"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T13:00:05.000Z",
-      "score_quality": 32,
-      "score_notif": 24,
-      "cluster": "20261119-66f1f85fdca7",
       "cluster_main": true
     },
     {
