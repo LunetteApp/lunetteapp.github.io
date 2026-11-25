@@ -1,6 +1,6 @@
 {
-  "content_hash": "7f99d7c2cfaf7a5671f112a7c0aeeaf19c20c639a69ea14c80b8cb503afecb83",
-  "last_updated": "2026-11-25T07:47:04.122Z",
+  "content_hash": "06ef5799d764115c7a0cf74e8bb69b261968c38ef44567e0f6ace743f7f5577a",
+  "last_updated": "2026-11-25T08:47:23.790Z",
   "premium": {
     "links": []
   },
@@ -23,15 +23,15 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-24T17:00:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T08:00:35.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-24T18:00:48.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T08:06:55.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T15:24:54.000Z"
     },
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T07:00:02.000Z"
     },
     {
@@ -176,23 +176,44 @@
   ],
   "items": [
     {
-      "title": "Gagà Laboratorio looks to the Arabian night sky for its latest Labormatic",
-      "url": "https://timeandtidewatches.com/gaga-laboratorio-labormatic-arabia-introducing/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/gaga-laboratorio-labormatic-arabia-featured-image.jpg",
-      "peek_preview": "The limited edition Gagà Laboratorio Labormatic Arabia pairs a sand-finished dial with blue aventurine and Eastern Arabic numerals The post Gagà Laboratorio looks to the Arabian night sky for its latest Labormatic appea...",
+      "title": "The Benrus DTU-2A/P Is A Pitch-Perfect Interpretation Of A Vietnam War-Era Design",
+      "url": "https://www.ablogtowatch.com/the-benrus-dtu-2a-p-is-a-pitch-perfect-interpretation-of-a-vietnam-war-era-design/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Benrus-DTU-2AP-JVB-12-768x614.jpg",
+      "peek_preview": "It’s been over half a century since the fall of Saigon, yet the Vietnam War still looms large in the public consciousness. So, too, do the watches associated with the conflict. The military-inspired field watch is a cor...",
       "categories": [
-        "In The Shop",
-        "Introducing",
-        "meta:short",
-        "Time+Tide Shop"
+        "Wrist Time Reviews",
+        "Military Watches",
+        "Vintage Style Watches",
+        "Watch Releases 2025",
+        "Watch Reviews Over $500"
       ],
-      "source_name": "Time+Tide",
+      "source_name": "aBlogtoWatch",
       "lang": "en",
       "featured": false,
-      "published_at": "2026-11-25T07:00:02.000Z",
-      "score_quality": 46,
-      "score_notif": 61,
-      "cluster": "20261125-787a50fe1279",
+      "published_at": "2026-11-25T08:06:55.000Z",
+      "score_quality": 73,
+      "score_notif": 56,
+      "cluster": "20261125-a230fa68eac3",
+      "cluster_main": true
+    },
+    {
+      "title": "Introducing – The Updated Vulcain Skindiver Mark II, now Chronometer-Certified",
+      "url": "https://monochrome-watches.com/updated-vulcain-skindiver-mark-ii-now-chronometer-certified-300m-dive-watch-introducing-price/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/Vulcain-Skindiver-Mark-II-Chronometer-300m-dive-watch-1-600x237.jpg",
+      "peek_preview": "Vulcain continues to develop its Skindiver collection with the new Skindiver Mark II, a thoroughly updated version of the Nautique introduced in 2023. Inspired by the brand’s 1960s diving watches, the original reissue w...",
+      "categories": [
+        "Vulcain",
+        "2026",
+        "Dive Watches",
+        "Novelty"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-25T08:00:35.000Z",
+      "score_quality": 80,
+      "score_notif": 65,
+      "cluster": "20261125-61a9817d86b1",
       "cluster_main": true
     },
     {
@@ -397,7 +418,7 @@
       "score_quality": 81,
       "score_notif": 63,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Celebrating 10 Years Of Holthinrichs: The Signature Ornament Heritage Hand Engraved",
@@ -431,7 +452,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Armin Strom Turns To Meteorite For Its Dual Time GMT Resonance",
@@ -453,7 +474,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bremont adds its Perpetual Calendar GMT Monopusher to its Supernova collection",
@@ -602,7 +623,7 @@
       "score_quality": 87,
       "score_notif": 80,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain’s Carrousel Incliné is Inclined to Perform",
@@ -672,7 +693,7 @@
       "score_quality": 86,
       "score_notif": 80,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OraOrea Coriolis Pointer Date Review: What Happens When A Watch Journalist Makes A Watch?",
@@ -689,7 +710,7 @@
       "featured": false,
       "published_at": "2026-11-24T08:01:26.000Z",
       "score_quality": 78,
-      "score_notif": 47,
+      "score_notif": 34,
       "cluster": "20261124-be5752871fea",
       "cluster_main": true
     },
@@ -795,7 +816,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -1023,7 +1044,7 @@
       "score_quality": 46,
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Just Because: Hunting for Vintage Watch Ads In A Brooklyn Basement",
@@ -1315,7 +1336,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -1590,26 +1611,6 @@
       "cluster_main": true
     },
     {
-      "title": "The ABCs of Time – The Watches of James Bond, The Complete Guide to Every Watch Worn by 007",
-      "url": "https://monochrome-watches.com/the-watches-of-james-bond-the-complete-guide-to-every-watch-worn-by-007-abcs-of-time/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/The-Watches-of-James-Bond-The-Complete-Guide-to-Every-Watch-Worn-by-007-Omega-Rolex-Seiko-600x237.jpg",
-      "peek_preview": "James Bond, aka 007, was created by author Ian Fleming in 1953, who was a British Naval Intelligence officer himself during World War II. Bond worked for the British Secret Service (MI6) as a spy and licensed assassin (...",
-      "categories": [
-        "Omega",
-        "Rolex",
-        "2026",
-        "The ABCs of Time"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-21T15:00:24.000Z",
-      "score_quality": 83,
-      "score_notif": 27,
-      "cluster": "20261121-df80444d40e0",
-      "cluster_main": true
-    },
-    {
       "title": "New Release: Limited-Edition MING 51.01 Halo Watch",
       "url": "https://www.ablogtowatch.com/new-release-limited-edition-ming-51-01-halo-watch/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Ming-51-01-Halo-LOR-Crop-1-768x346.jpg",
@@ -1698,7 +1699,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "November Auktionen 2026 bei Christie’s, Sotheby’s und Antiquorum oder F.P. Journe bis der Onkel Doktor klingelt",
@@ -2192,27 +2193,6 @@
       "cluster_main": true
     },
     {
-      "title": "New Release: ArtyA Purity Curvy HMS Sapphire Sport Edition Watches",
-      "url": "https://www.ablogtowatch.com/new-release-artya-purity-curvy-hms-sapphire-sport-edition-watches/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/ArtyA-Purity-Curvy-HMS-Sapphire-Sport-Edition-Watches-768x349.jpg",
-      "peek_preview": "The Geneva-based watch brand ArtyA is famous for producing some of the industry’s most visually impressive sapphire-cased luxury timepieces, and for its latest release of 2026, ArtyA has paired the elegant architecture...",
-      "categories": [
-        "Watch Releases",
-        "Limited Edition Watches",
-        "Sapphire Watches",
-        "Skeletonized Watches",
-        "Watch Releases 2026"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T20:00:22.000Z",
-      "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261119-81bd16ec58af",
-      "cluster_main": true
-    },
-    {
       "title": "Classic Tourbillon Perpetual Calendar Manufacture von Frederique Constant und die Kunst der Saphir-Marketerie",
       "url": "https://www.uhrenkosmos.com/classic-tourbillon-perpetual-calendar-von-fc/",
       "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Zifferblatt-der-Frederique-Constant-Classic-Tourbillon-Perpetual-Calendar-Manufacture-Opener.jpg",
@@ -2237,7 +2217,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Credor Goldfeather Review: The Thin Dress Watch Revival, Revisited",
