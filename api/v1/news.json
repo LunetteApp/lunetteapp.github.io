@@ -1,6 +1,6 @@
 {
-  "content_hash": "890aee5902fbd0f518e83f7d95ca25b0a6a32f05acf7cc81b5dde123ee778389",
-  "last_updated": "2026-11-25T18:47:18.924Z",
+  "content_hash": "48c703a7dc21bf5be6262b2f9d9750a176696a50bb7d3f05093397022b9e8a92",
+  "last_updated": "2026-11-25T20:47:34.473Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T17:00:01.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T20:00:28.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T18:00:06.000Z"
     },
     {
@@ -176,6 +176,23 @@
   ],
   "items": [
     {
+      "title": "Review: The Longines Ultra-Chron Classic Beats Fast and Plays It Safe",
+      "url": "https://wornandwound.com/review/review-the-longines-ultra-chron-classic-beats-fast-and-plays-it-safe/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/LONGINES_ULTRACHRON_37_2.jpg",
+      "peek_preview": "I recall both my surprise and excitement when Longines launched the Ultra-Chron diver in 2022 (how was that four years ago?!). A 43mm diver was cool in its own right, but what caught my attention was the high-frequency...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-25T20:00:28.000Z",
+      "score_quality": 77,
+      "score_notif": 31,
+      "cluster": "20261125-c4b206b7b776",
+      "cluster_main": true
+    },
+    {
       "title": "Breitling turns back the clock to the 1960s with two new Twin Jet Navitimers",
       "url": "https://timeandtidewatches.com/breitling-navitimer-cosmonaute-video/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/breitling-navitimer-cosmonaut-featured-image-1.jpg",
@@ -228,7 +245,7 @@
       "score_quality": 69,
       "score_notif": 73,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Hanhart 417 C Panna Flyback",
@@ -414,7 +431,7 @@
       "score_quality": 58,
       "score_notif": 73,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Talking Watches: With Brad Pitt And David Fincher",
@@ -696,7 +713,7 @@
       "featured": false,
       "published_at": "2026-11-24T20:24:57.000Z",
       "score_quality": 73,
-      "score_notif": 65,
+      "score_notif": 34,
       "cluster": "20261124-53dcace24153",
       "cluster_main": true
     },
@@ -718,7 +735,7 @@
       "featured": false,
       "published_at": "2026-11-24T19:46:15.000Z",
       "score_quality": 69,
-      "score_notif": 63,
+      "score_notif": 34,
       "cluster": "20261124-31fbeb732425",
       "cluster_main": true
     },
@@ -2555,21 +2572,6 @@
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
       "cluster_main": false
-    },
-    {
-      "title": "Oris x Doraemon Big Crown Pointer Date Limited Edition: Retro, Playful, And Surprisingly Subtle.",
-      "url": "https://teddybaldassarre.com/blogs/watches/oris-doraemon-big-crown-pointer-date",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Oris_DoraemonLE_FS2.jpg?v=1795045377",
-      "peek_preview": "Oris is no stranger to collaborating with some recognizable characters over the years, most notably through its series of specialized Muppets editions of the ProPilot X (the Miss Piggy one being a personal favorite). To...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T08:00:02.000Z",
-      "score_quality": 69,
-      "score_notif": 34,
-      "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
     }
   ]
 }
