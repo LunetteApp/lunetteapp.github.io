@@ -1604,7 +1604,8 @@
       "event_first_published_at": "2026-11-22T13:30:00.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "off_topic": true
     },
     "https://deployant.com/quick-takes-berneron-mirage-38-prussian-blue/": {
       "url": "https://deployant.com/quick-takes-berneron-mirage-38-prussian-blue/?utm_source=rss&utm_medium=rss&utm_campaign=quick-takes-berneron-mirage-38-prussian-blue",
@@ -13753,6 +13754,24 @@
       "first_seen_at": "2026-07-27T12:01:14.000Z",
       "scoring_pending": false,
       "clustering_pending": false
+    },
+    "https://timeandtidewatches.com/omega-x-swatch-mission-to-earthphase-silver-snowflake-introducing/": {
+      "url": "https://timeandtidewatches.com/omega-x-swatch-mission-to-earthphase-silver-snowflake-introducing/",
+      "title": "The Swatch x Omega MoonSwatch Mission to Earthphase – Silver Snowflake puts the weather in charge",
+      "lang": "en",
+      "published_at": "2026-11-25T12:26:29.000Z",
+      "first_seen_at": "2026-11-25T12:45:52.000Z",
+      "categories": [
+        "Introducing",
+        "moonswatch",
+        "omega",
+        "swatch"
+      ],
+      "event_cluster_id": "20261125-d73255aa98ca",
+      "event_first_published_at": "2026-11-25T09:00:37.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
     },
     "https://timeandtidewatches.com/omega-x-swatch-moonswatch-mission-to-the-sun-solar-eclipse-news/": {
       "url": "https://timeandtidewatches.com/omega-x-swatch-moonswatch-mission-to-the-sun-solar-eclipse-news/",
@@ -30764,6 +30783,23 @@
       "scoring_pending": false,
       "clustering_pending": false
     },
+    "https://www.fratellowatches.com/the-delectable-new-hanhart-417-c-panna-flyback/": {
+      "url": "https://www.fratellowatches.com/the-delectable-new-hanhart-417-c-panna-flyback/",
+      "title": "The Delectable New Hanhart 417 C Panna Flyback",
+      "lang": "en",
+      "published_at": "2026-11-25T12:00:53.000Z",
+      "first_seen_at": "2026-11-25T12:45:52.000Z",
+      "categories": [
+        "Hands-On",
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "event_cluster_id": "20261124-1ce3b610276c",
+      "event_first_published_at": "2026-11-24T11:30:29.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
     "https://www.fratellowatches.com/the-depancel-serie-r-chronograph-skeleton-is-a-mechanical-open-book/": {
       "url": "https://www.fratellowatches.com/the-depancel-serie-r-chronograph-skeleton-is-a-mechanical-open-book/",
       "title": "The Depancel Série-R Chronograph Skeleton Is A Mechanical Open Book",
@@ -35264,6 +35300,19 @@
       "categories": [],
       "event_cluster_id": "20261103-23a832f12dc9",
       "event_first_published_at": "2026-11-03T15:00:00.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
+    "https://www.hodinkee.com/articles/with-brad-pitt-and-david-fincher": {
+      "url": "https://www.hodinkee.com/articles/with-brad-pitt-and-david-fincher",
+      "title": "Talking Watches: With Brad Pitt And David Fincher",
+      "lang": "en",
+      "published_at": "2026-11-25T12:02:13.000Z",
+      "first_seen_at": "2026-11-25T12:45:52.000Z",
+      "categories": [],
+      "event_cluster_id": "20261125-178a2a27407a",
+      "event_first_published_at": "2026-11-25T12:02:13.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
       "topic_reviewed": true
@@ -41229,6 +41278,23 @@
       "clustering_pending": false,
       "topic_reviewed": true
     },
+    "https://www.watchcollectinglifestyle.com/home/watch-shopping-diamond-cellar-opens-a-rolex-boutique-in-houstonwalnut-bronze-and-a-window-into-the-workshop": {
+      "url": "https://www.watchcollectinglifestyle.com/home/watch-shopping-diamond-cellar-opens-a-rolex-boutique-in-houstonwalnut-bronze-and-a-window-into-the-workshop",
+      "title": "Watch Shopping: Diamond Cellar Opens Rolex Boutique in Houston—Walnut, Bronze, and Verde Alpi at The Galleria",
+      "lang": "en",
+      "published_at": "2026-11-25T12:00:00.000Z",
+      "first_seen_at": "2026-11-25T12:45:52.000Z",
+      "categories": [
+        "Rolex",
+        "Watch Shopping"
+      ],
+      "event_cluster_id": "20261125-f4eb2c738056",
+      "event_first_published_at": "2026-11-25T12:00:00.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "marketing": true,
+      "topic_reviewed": true
+    },
     "https://www.watchcollectinglifestyle.com/home/watches-and-wonders-geneva-2027-new-brands": {
       "url": "https://www.watchcollectinglifestyle.com/home/watches-and-wonders-geneva-2027-new-brands",
       "title": "News: Watches and Wonders Geneva Welcomes Breitling, Porsche Design, Universal Genève and Ten Others for 2027—Now with 75 Brands",
@@ -44774,7 +44840,8 @@
       "event_first_published_at": "2026-11-24T00:00:36.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "marketing": true
     },
     "https://www.webchronos.net/news/179541/": {
       "url": "https://www.webchronos.net/news/179541/",

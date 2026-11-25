@@ -1,6 +1,6 @@
 {
-  "content_hash": "dad32cf85724723cdefe8746780476eee5ff7aba036d987ad7af4d861b690ffc",
-  "last_updated": "2026-11-25T11:47:22.438Z",
+  "content_hash": "4022c4777ab06b6524f7ee87b9354f62de2b18890836e3f53c4273743f0a6f72",
+  "last_updated": "2026-11-25T12:47:46.867Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T10:00:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T12:00:53.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T11:00:24.000Z"
     },
     {
@@ -65,8 +65,8 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T09:10:16.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T12:02:13.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,15 +79,15 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T07:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T12:26:29.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
-      "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-24T13:12:35.000Z"
+      "estimated_articles_per_day": 1.3,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T12:00:00.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,60 @@
     }
   ],
   "items": [
+    {
+      "title": "The Swatch x Omega MoonSwatch Mission to Earthphase – Silver Snowflake puts the weather in charge",
+      "url": "https://timeandtidewatches.com/omega-x-swatch-mission-to-earthphase-silver-snowflake-introducing/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-swatch-omega-moonswatch-silver-snowflake.jpg",
+      "peek_preview": "The MoonSwatch Silver Snowflake features a unique engraved snowflake on every watch and can only be bought when it’s snowing in Switzerland The post The Swatch x Omega MoonSwatch Mission to Earthphase – Silver Snowflake...",
+      "categories": [
+        "Introducing",
+        "moonswatch",
+        "omega",
+        "swatch"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-25T12:26:29.000Z",
+      "score_quality": 58,
+      "score_notif": 77,
+      "cluster": "20261125-d73255aa98ca",
+      "cluster_main": false
+    },
+    {
+      "title": "Talking Watches: With Brad Pitt And David Fincher",
+      "url": "https://www.hodinkee.com/articles/with-brad-pitt-and-david-fincher",
+      "image": "https://hodinkee.imgix.net/uploads/articles/ae830f39-4b1f-4f90-8861-db223b8b8d0c/L1005518.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "A behind-the-scenes look at the watches of 'The Further Mis-Adventures of Cliff Booth\"",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-25T12:02:13.000Z",
+      "score_quality": 93,
+      "score_notif": 57,
+      "cluster": "20261125-178a2a27407a",
+      "cluster_main": true
+    },
+    {
+      "title": "The Delectable New Hanhart 417 C Panna Flyback",
+      "url": "https://www.fratellowatches.com/the-delectable-new-hanhart-417-c-panna-flyback/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Hanhart-417-C-Panna-Flyback-7.jpg",
+      "peek_preview": "The other day, Hanhart released something truly special — a 39mm bicolor watch with a flyback chronograph complication, limited to just 100 pieces. Meet the Hanhart 417 C Panna Flyback. It features a beautiful cream-col...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-25T12:00:53.000Z",
+      "score_quality": 80,
+      "score_notif": 34,
+      "cluster": "20261124-1ce3b610276c",
+      "cluster_main": false
+    },
     {
       "title": "Introducing – Akhor Opens its First Geneva Boutique and Celebrates with Two Exclusive Stone Dial Editions",
       "url": "https://monochrome-watches.com/akhor-opens-its-first-geneva-boutique-and-celebrates-with-two-exclusive-stone-dial-editions/",
@@ -483,7 +537,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nivada Grenchen Introduces the Colorama, in Four Enthusiast Focused Sets Built for Customization",
@@ -749,7 +803,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blancpain’s Carrousel Incliné is Inclined to Perform",
@@ -819,7 +873,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "OraOrea Coriolis Pointer Date Review: What Happens When A Watch Journalist Makes A Watch?",
@@ -942,7 +996,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -976,21 +1030,6 @@
       "score_quality": 27,
       "score_notif": 22,
       "cluster": "20261124-8939891f87db",
-      "cluster_main": true
-    },
-    {
-      "title": "タグ・ホイヤーが新たな旗艦店「タグ・ホイヤー 東京 銀座」をグランドオープン。松田翔太ら豪華ゲストがセレモニーに登壇",
-      "url": "https://www.webchronos.net/news/179504/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/TAG_Opening.webp",
-      "peek_preview": "タグ・ホイヤーが、銀座・中央通りに位置するブティックをリニューアルし、新たな旗艦店「タグ・ホイヤー 東京 銀座」をグランドオープンさせた。これを祝し、豪華ゲストを迎えたオープニングセレモニーとセレブレーションディナーを開 […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-24T00:00:36.000Z",
-      "score_quality": 47,
-      "score_notif": 34,
-      "cluster": "20261124-808c45a89eff",
       "cluster_main": true
     },
     {
@@ -1046,7 +1085,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -1392,23 +1431,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On With The Kneijnsberg Hugenius — A Tribute To Christiaan Huygens",
-      "url": "https://www.fratellowatches.com/hands-on-kneijnsberg-hugenius/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Hugenius-18.jpg",
-      "peek_preview": "Neither name might ring a bell, but let’s start with Christiaan Huygens. This Dutch scientist (1629–1695) invented the balance spring and pendulum clock. However, as a master of many trades, he also developed telescopes...",
-      "categories": [
-        "Hands-On"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-23T08:00:59.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261123-2045bcb12d33",
-      "cluster_main": true
-    },
-    {
       "title": "Introducing – Chinese Indie Watchmaker Qian GuoBiao Releases the Full Titanium Facing The Sky 2.0",
       "url": "https://monochrome-watches.com/chinese-indie-watchmaker-qian-guobiao-releases-the-full-titanium-facing-the-sky-2-0-bracelet-blue-lagoon-british-racing-green-introducing-price/",
       "image": "https://monochrome-watches.com/app/uploads/2026/11/Qian-GuoBiao-Facing-The-Sky-2.0-Full-Titanium-Bracelet-Chinese-Independent-Watchmaking-1-600x237.jpg",
@@ -1445,7 +1467,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -1573,24 +1595,6 @@
       "score_quality": 62,
       "score_notif": 34,
       "cluster": "20261122-32a7998b3108",
-      "cluster_main": true
-    },
-    {
-      "title": "Portraits at IAMWATCH 2024 and 2026: On Film and Digital",
-      "url": "https://deployant.com/portraits-at-iamwatch/?utm_source=rss&utm_medium=rss&utm_campaign=portraits-at-iamwatch",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/rexhep-1.jpg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors IAMWATCH brings together personalities from across the independent watchmaking world. Beyond the watches themselves, it is the people, their stories, and the...",
-      "categories": [
-        "People",
-        "Portraits"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-22T13:30:00.000Z",
-      "score_quality": 55,
-      "score_notif": 24,
-      "cluster": "20261122-e0c1ea57e96c",
       "cluster_main": true
     },
     {
@@ -2426,25 +2430,6 @@
       "cluster_main": true
     },
     {
-      "title": "Farer’s Field Watch Series III puts a colourful spin on the dark-coated tool watch",
-      "url": "https://timeandtidewatches.com/farer-field-watch-series-iii-introducing-2/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/farer-field-watch-series-iii-featured-image.webp",
-      "peek_preview": "A redesigned 40mm steel case, a longer power reserve and two luminous Midnight editions give Farer’s latest field watches more than a fresh coat of paint. The post Farer’s Field Watch Series III puts a colourful spin on...",
-      "categories": [
-        "Introducing",
-        "field watch",
-        "GADA"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T12:00:38.000Z",
-      "score_quality": 73,
-      "score_notif": 34,
-      "cluster": "20261119-3eba9d9a8ed6",
-      "cluster_main": true
-    },
-    {
       "title": "Carlo Crocco racconta: le origini di Hublot",
       "url": "https://giornaleorologi.it/2026/11/19/intervista-carlo-crocco-hublot/",
       "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/Carlo-Crocco-wearing-the-Hublot-Classic-Fusion-Tributo-Yellow-Gold-2-copia-1024x679.jpg",
@@ -2545,40 +2530,6 @@
       "score_quality": 31,
       "score_notif": 34,
       "cluster": "20261118-3153733e65bd",
-      "cluster_main": true
-    },
-    {
-      "title": "Insider: Armin Strom Mirrored Force Resonance Blue—10 Pieces, One Florida Retailer",
-      "url": "https://www.watchcollectinglifestyle.com/home/armin-strom-mirrored-force-resonance-zeitgeist-blue-exquisite-timepieces",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795020041611-S1D3ZL26R0F6WGBHMLD3/Armin+Strom+Mirrored+Forced+Resonance+Zeitgeist+Blue+Hero.jpg?format=1500w",
-      "peek_preview": "Armin Strom has spent much of 2026 changing the color of its movements. The Mirrored Force Resonance Zeitgeist 1665 3N, which we introduced earlier this month, features a yellow-gold mainplate and bridges against a blac...",
-      "categories": [
-        "Armin Strom"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-18T16:41:31.000Z",
-      "score_quality": 63,
-      "score_notif": 34,
-      "cluster": "20261118-1c7f4c361539",
-      "cluster_main": true
-    },
-    {
-      "title": "Jaeger-LeCoultre MasterCare : des montres sous bonne garde",
-      "url": "https://www.welovewatches.fr/jaeger-lecoultre-mastercare-des-montres-sous-bonne-garde.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/jaeger-lecoultre-mastercare-une-1940x1280-1.jpg",
-      "peek_preview": "Avec MasterCare, Jaeger-LeCoultre propose aux collectionneurs de confier leurs montres à sa manufacture pour de longs séjours. Gardiennage sécurisé, contrôles de précision et entretien préventif composent ce nouveau ser...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-18T13:31:49.000Z",
-      "score_quality": 48,
-      "score_notif": 34,
-      "cluster": "20261118-fe280e61262b",
       "cluster_main": true
     }
   ]
