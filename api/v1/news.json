@@ -1,6 +1,6 @@
 {
-  "content_hash": "aa023120c92c0a6fe4ce8cc84d26a1359d9132c1100dd96c9c67d0b22331bbc7",
-  "last_updated": "2026-11-25T00:48:11.345Z",
+  "content_hash": "74e7d0783c1e6694c649b1e7b7a14aa728d85d45ae055091ffc133c731a71f35",
+  "last_updated": "2026-11-25T01:47:28.662Z",
   "premium": {
     "links": []
   },
@@ -71,9 +71,9 @@
     {
       "source_name": "SJX Watches",
       "lang": "en",
-      "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-24T09:00:40.000Z"
+      "estimated_articles_per_day": 1.7,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T01:00:07.000Z"
     },
     {
       "source_name": "Time+Tide",
@@ -162,8 +162,8 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T00:00:50.000Z"
     },
     {
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: Piaget Andy Warhol ‘Camouflage’",
+      "url": "https://watchesbysjx.com/2026/11/piaget-andy-warhol-camouflage-review.html",
+      "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/Piaget-Andy-Warhol-Camouflage-3x2-centred-header-1-300x200.jpg",
+      "peek_preview": "The Piaget Andy Warhol ‘Camouflage’ reinterprets one of the artist’s final series with a marquetry dial assembled from 27 pieces of sodalite, turquoise and gold. Following last year’s Collage edition, it brings together...",
+      "categories": [
+        "Reviews",
+        "New Watches 2026",
+        "Piaget"
+      ],
+      "source_name": "SJX Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-25T01:00:07.000Z",
+      "score_quality": 88,
+      "score_notif": 66,
+      "cluster": "20261125-f50e5d8c45f0",
+      "cluster_main": true
+    },
     {
       "title": "大塚ローテック「8号」がGPHG 2026で「小さな針」賞を受賞！ ブランドとして2度目の快挙",
       "url": "https://www.webchronos.net/news/179829/",
@@ -1330,7 +1349,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261119-216b0f4ada8a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "TAG Heuer Aquaracer: The Ultimate Guide",
@@ -1839,7 +1858,7 @@
       "published_at": "2026-11-20T17:00:07.000Z",
       "score_quality": 72,
       "score_notif": 34,
-      "cluster": "20261118-21497bdc04e8",
+      "cluster": "20261120-720d3fd24ed4",
       "cluster_main": true
     },
     {
@@ -2404,7 +2423,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261119-216b0f4ada8a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Classic Tourbillon Perpetual Calendar Manufacture: la trasparenza secondo Frederique Constant",
@@ -2541,26 +2560,6 @@
       "score_notif": 34,
       "cluster": "20261118-6067110d0a03",
       "cluster_main": true
-    },
-    {
-      "title": "Hublot Big Bang Denim: quattro nuovi modelli tra titanio e acciaio",
-      "url": "https://www.watchinsanity.it/hublot-big-bang-denim-2026/",
-      "image": "https://www.watchinsanity.it/wp-content/uploads/2026/11/Hublot_Denim_Watch_Insanity_02-1-1024x441.jpg",
-      "peek_preview": "Hublot presenta quattro nuovi Big Bang Denim, tra quadranti in denim, casse rifinite a mano e versioni in titanio e acciaio con diamanti. The post Hublot Big Bang Denim: quattro nuovi modelli tra titanio e acciaio appea...",
-      "categories": [
-        "News",
-        "Timepieces",
-        "Chronograph",
-        "Hublot"
-      ],
-      "source_name": "Watch Insanity",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-18T13:00:23.000Z",
-      "score_quality": 61,
-      "score_notif": 34,
-      "cluster": "20261118-21497bdc04e8",
-      "cluster_main": false
     }
   ]
 }
