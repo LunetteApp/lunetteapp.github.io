@@ -1,6 +1,6 @@
 {
-  "content_hash": "f57bebceda7a11f6130e3f0a690442951515b03662a2cec611d47b583c028375",
-  "last_updated": "2026-11-24T21:47:34.890Z",
+  "content_hash": "aa023120c92c0a6fe4ce8cc84d26a1359d9132c1100dd96c9c67d0b22331bbc7",
+  "last_updated": "2026-11-25T00:48:11.345Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T21:00:07.000Z"
     },
     {
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T20:24:57.000Z"
     },
     {
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-24T03:00:13.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T00:00:50.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "大塚ローテック「8号」がGPHG 2026で「小さな針」賞を受賞！ ブランドとして2度目の快挙",
+      "url": "https://www.webchronos.net/news/179829/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/image-1.webp",
+      "peek_preview": "大塚ローテックの「8号」が、2026年のジュネーブ・ウォッチメイキング・グランプリ（GPHG）において、「小さな針」賞を受賞した。独創的なジャンピングアワーとミニッツフェーダーを組み合わせた本作は、2026年に発表された […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-25T00:00:50.000Z",
+      "score_quality": 76,
+      "score_notif": 68,
+      "cluster": "20261125-612e4e60366a",
+      "cluster_main": true
+    },
     {
       "title": "Reminder: Micro Praha is this Weekend",
       "url": "https://wornandwound.com/reminder-micro-praha-is-coming-soon/",
@@ -328,7 +343,7 @@
       "score_quality": 81,
       "score_notif": 63,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Celebrating 10 Years Of Holthinrichs: The Signature Ornament Heritage Hand Engraved",
@@ -362,7 +377,7 @@
       "score_quality": 79,
       "score_notif": 63,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Armin Strom Turns To Meteorite For Its Dual Time GMT Resonance",
@@ -442,7 +457,7 @@
       "score_quality": 79,
       "score_notif": 80,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – The Two-Toned Hanhart 417 C Panna Flyback",
@@ -533,7 +548,7 @@
       "score_quality": 87,
       "score_notif": 80,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain’s Carrousel Incliné is Inclined to Perform",
@@ -691,7 +706,7 @@
       "published_at": "2026-11-24T04:02:05.000Z",
       "score_quality": 68,
       "score_notif": 40,
-      "cluster": "20261124-0dc77958597b",
+      "cluster": "20261124-1086e8cefcca",
       "cluster_main": true
     },
     {
@@ -726,7 +741,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -743,7 +758,7 @@
       "score_quality": 44,
       "score_notif": 40,
       "cluster": "20261124-1086e8cefcca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "RM 07-01, 완벽함을 예술의 경지로",
@@ -773,7 +788,7 @@
       "featured": false,
       "published_at": "2026-11-24T00:00:36.000Z",
       "score_quality": 47,
-      "score_notif": 36,
+      "score_notif": 34,
       "cluster": "20261124-808c45a89eff",
       "cluster_main": true
     },
@@ -1246,7 +1261,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -2151,23 +2166,8 @@
       "published_at": "2026-11-20T00:00:20.000Z",
       "score_quality": 88,
       "score_notif": 34,
-      "cluster": "20261120-b332dcca2596",
+      "cluster": "20261120-cbf832d3f380",
       "cluster_main": true
-    },
-    {
-      "title": "ルイ・ヴィトンが独自の硬化ステンレススティールを使った新作「タンブール コンバージェンス」を発表",
-      "url": "https://www.webchronos.net/news/179236/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/lv_02.webp",
-      "peek_preview": "ルイ・ヴィトンが、ギシェ式の時刻表示を特徴とする「タンブール コンバージェンス」コレクションに、新作「タンブール コンバージェンス ミラースティール」を追加した。本作は、独自の硬化処理を施したステンレススティール製ケース […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-20T00:00:19.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261120-b332dcca2596",
-      "cluster_main": false
     },
     {
       "title": "New Release: ArtyA Purity Curvy HMS Sapphire Sport Edition Watches",
