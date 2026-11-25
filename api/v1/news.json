@@ -1,6 +1,6 @@
 {
-  "content_hash": "4022c4777ab06b6524f7ee87b9354f62de2b18890836e3f53c4273743f0a6f72",
-  "last_updated": "2026-11-25T12:47:46.867Z",
+  "content_hash": "2ef4f16b7659b77c8110612591d51bbed0cf588b73abd1d08cb91a38e3667516",
+  "last_updated": "2026-11-25T13:48:40.897Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T12:00:53.000Z"
     },
     {
@@ -30,8 +30,8 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T08:06:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T13:00:07.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -58,14 +58,14 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-24T13:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T12:02:13.000Z"
     },
     {
@@ -79,14 +79,14 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T12:26:29.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.3,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T12:00:00.000Z"
     },
     {
@@ -127,9 +127,9 @@
     {
       "source_name": "Mr Montre",
       "lang": "fr",
-      "estimated_articles_per_day": 0.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-24T06:50:00.000Z"
+      "estimated_articles_per_day": 0.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-25T13:00:21.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,44 @@
     }
   ],
   "items": [
+    {
+      "title": "Blancpain Carrousel Incliné: 30-Degree Carrousel, Full Sapphire Case",
+      "url": "https://deployant.com/blancpain-carrousel-incline-30-degree-carrousel-full-sapphire-case/?utm_source=rss&utm_medium=rss&utm_campaign=blancpain-carrousel-incline-30-degree-carrousel-full-sapphire-case",
+      "image": "https://deployant.com/wp-content/uploads/2026/11/66222S_0000_55B_Villeret_Carrousel_PR_1_RGB.jpg",
+      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors Blancpain introduces the Carrousel Incliné, a hand-wound watch whose one-minute flying carrousel is set at 30 degrees to the mainplate. Calibre 222ISQ is a ne...",
+      "categories": [
+        "Announcements",
+        "News",
+        "Watches",
+        "blancpain",
+        "carrousel"
+      ],
+      "source_name": "Deployant",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-25T13:30:00.000Z",
+      "score_quality": 73,
+      "score_notif": 34,
+      "cluster": "20261124-d067ba094d24",
+      "cluster_main": false
+    },
+    {
+      "title": "MoonSwatch Silver Snowflake : un flocon différent sur chaque montre",
+      "url": "https://www.welovewatches.fr/moonswatch-silver-snowflake-un-flocon-different-sur-chaque-montre.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/moonswatch-silver-snowflake-une-1940x1280-1.jpg",
+      "peek_preview": "Swatch et Omega remettent Snoopy à l’heure d’hiver. Leur nouvelle (qui a dit \"énième\" ?) MoonSwatch Mission to Earthphase - Silver Snowflake habille Snoopy de noir et réserve un flocon gravé au laser à chaque...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-25T13:00:21.000Z",
+      "score_quality": 62,
+      "score_notif": 77,
+      "cluster": "20261125-d73255aa98ca",
+      "cluster_main": false
+    },
     {
       "title": "The Swatch x Omega MoonSwatch Mission to Earthphase – Silver Snowflake puts the weather in charge",
       "url": "https://timeandtidewatches.com/omega-x-swatch-mission-to-earthphase-silver-snowflake-introducing/",
@@ -693,7 +731,7 @@
       "featured": false,
       "published_at": "2026-11-24T13:30:00.000Z",
       "score_quality": 74,
-      "score_notif": 57,
+      "score_notif": 34,
       "cluster": "20261124-a5d5aab85440",
       "cluster_main": true
     },
@@ -803,7 +841,7 @@
       "score_quality": 87,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blancpain’s Carrousel Incliné is Inclined to Perform",
@@ -873,7 +911,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OraOrea Coriolis Pointer Date Review: What Happens When A Watch Journalist Makes A Watch?",
@@ -1793,7 +1831,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "November Auktionen 2026 bei Christie’s, Sotheby’s und Antiquorum oder F.P. Journe bis der Onkel Doktor klingelt",
@@ -2072,7 +2110,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Antiquorum proves brass can be worth more than gold with this F.P. Journe",
@@ -2153,65 +2191,6 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261120-7fe4150ae7ee",
-      "cluster_main": true
-    },
-    {
-      "title": "Non chiamatelo accessorio: il mondo dei cinturini in pelle",
-      "url": "https://italianwatchspotter.com/cinturini-pelle-orologi/",
-      "image": "https://italianwatchspotter.com/wp-content/uploads/2026/11/ese_wristlets_vintage-watch-straps-1024x576.jpg",
-      "peek_preview": "Ammirando un orologio spesso ci si concentra solo sul quadrante o sulla cassa, trascurando un elemento altrettanto fondamentale: il cinturino.Esattamente come la cornice per un quadro, il cinturino è capace di esaltare...",
-      "categories": [
-        "Guide ed Approfondimenti",
-        "Alta Orologeria",
-        "Artigianato",
-        "Camille fournet",
-        "cartier santos",
-        "Cinturini",
-        "Cinturini in pelle",
-        "cinturino",
-        "ebel",
-        "Iwc",
-        "jean rousseau",
-        "Leather Straps",
-        "Made in Italy",
-        "Orologeria",
-        "Orologi di lusso",
-        "Patek Philippe",
-        "pelle",
-        "Pelletteria",
-        "Personalizzazione orologi",
-        "santoni",
-        "watch strap",
-        "Watch Straps"
-      ],
-      "source_name": "Italian Watch Spotter",
-      "lang": "it",
-      "featured": false,
-      "published_at": "2026-11-20T11:07:21.000Z",
-      "score_quality": 60,
-      "score_notif": 24,
-      "cluster": "20261120-f5a8c0db7e4e",
-      "cluster_main": true
-    },
-    {
-      "title": "Vaer C5 Postmaster Watch Review: A First-Of-Its-Kind Collaboration With USPS",
-      "url": "https://www.ablogtowatch.com/vaer-c5-postmaster-watch-review-a-first-of-its-kind-collaboration-with-usps/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Vaer-C5-Postmaster-USPS-RAZ-Crop-10-768x346.jpg",
-      "peek_preview": "We’ve seen collaborations with the U.S. Forest Service, National Parks, every branch of the military possible, and of course, NASA, whose logo has been used and abused to the point that watches and other products with i...",
-      "categories": [
-        "Wrist Time Reviews",
-        "Collaborations",
-        "Field Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Under $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T08:01:21.000Z",
-      "score_quality": 79,
-      "score_notif": 34,
-      "cluster": "20261120-08916d155255",
       "cluster_main": true
     },
     {
@@ -2530,6 +2509,23 @@
       "score_quality": 31,
       "score_notif": 34,
       "cluster": "20261118-3153733e65bd",
+      "cluster_main": true
+    },
+    {
+      "title": "Insider: Armin Strom Mirrored Force Resonance Blue—10 Pieces, One Florida Retailer",
+      "url": "https://www.watchcollectinglifestyle.com/home/armin-strom-mirrored-force-resonance-zeitgeist-blue-exquisite-timepieces",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795020041611-S1D3ZL26R0F6WGBHMLD3/Armin+Strom+Mirrored+Forced+Resonance+Zeitgeist+Blue+Hero.jpg?format=1500w",
+      "peek_preview": "Armin Strom has spent much of 2026 changing the color of its movements. The Mirrored Force Resonance Zeitgeist 1665 3N, which we introduced earlier this month, features a yellow-gold mainplate and bridges against a blac...",
+      "categories": [
+        "Armin Strom"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-18T16:41:31.000Z",
+      "score_quality": 60,
+      "score_notif": 26,
+      "cluster": "20261118-1c7f4c361539",
       "cluster_main": true
     }
   ]
