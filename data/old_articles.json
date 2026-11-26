@@ -37794,7 +37794,8 @@
       "event_first_published_at": "2026-11-26T11:10:42.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
-      "topic_reviewed": true
+      "topic_reviewed": true,
+      "marketing": true
     },
     "https://www.uhrenkosmos.com/casio-edifice-efk-200xpb-1aer-carbon-und-stahl/": {
       "url": "https://www.uhrenkosmos.com/casio-edifice-efk-200xpb-1aer-carbon-und-stahl/",
@@ -40332,6 +40333,21 @@
       ],
       "event_cluster_id": "20261028-6c54df6373c7",
       "event_first_published_at": "2026-10-28T17:26:23.000Z",
+      "scoring_pending": false,
+      "clustering_pending": false,
+      "topic_reviewed": true
+    },
+    "https://www.watchcollectinglifestyle.com/home/bell-and-ross-br-05-moonphase": {
+      "url": "https://www.watchcollectinglifestyle.com/home/bell-and-ross-br-05-moonphase",
+      "title": "Introducing: Bell & Ross BR-05 Moonphase—The Moon Takes Center Stage",
+      "lang": "en",
+      "published_at": "2026-11-26T12:00:00.000Z",
+      "first_seen_at": "2026-11-26T12:45:43.000Z",
+      "categories": [
+        "Bell & Ross"
+      ],
+      "event_cluster_id": "20261125-eacbbe1bac19",
+      "event_first_published_at": "2026-11-25T14:00:06.000Z",
       "scoring_pending": false,
       "clustering_pending": false,
       "topic_reviewed": true
