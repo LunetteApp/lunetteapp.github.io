@@ -1,6 +1,6 @@
 {
-  "content_hash": "9781ec3c823cab74bcf92891e1b4d30ea4a06802280647b9785d5e1292b6727e",
-  "last_updated": "2026-11-26T17:47:24.579Z",
+  "content_hash": "9e852c81113b0d334bc7d4c3120aae20310eeb5b1cf6e42ed885abbc96988f77",
+  "last_updated": "2026-11-26T18:47:42.867Z",
   "premium": {
     "links": []
   },
@@ -15,23 +15,23 @@
     {
       "source_name": "Worn & Wound",
       "lang": "en",
-      "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T15:36:15.000Z"
+      "estimated_articles_per_day": 1.9,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-26T18:00:45.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T17:05:47.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T13:00:27.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-26T18:00:21.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T17:32:55.000Z"
     },
     {
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T14:00:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-26T18:00:49.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -169,12 +169,68 @@
     {
       "source_name": "GMT Korea",
       "lang": "ko",
-      "estimated_articles_per_day": 0.3,
+      "estimated_articles_per_day": 0.2,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T04:27:14.000Z"
     }
   ],
   "items": [
+    {
+      "title": "The March LA.B Belza Twin slims down and bronzes up",
+      "url": "https://timeandtidewatches.com/the-march-lab-belza-twin-hands-on/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/March-Lab-Belza-Twin-Featured-Image.jpg",
+      "peek_preview": "March LA.B gives its bronze Belza Twin 300 metres of water resistance, wave-textured dials, ceramic bezels and the La Joux-Perret G100 The post The March LA.B Belza Twin slims down and bronzes up appeared first on Time+...",
+      "categories": [
+        "Hands On",
+        "bronze",
+        "dive watch"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-26T18:00:49.000Z",
+      "score_quality": 72,
+      "score_notif": 62,
+      "cluster": "20261126-7e56f26805cb",
+      "cluster_main": true
+    },
+    {
+      "title": "Bangalore Watch Company Goes Back to Its Roots with a New Dress Watch Featuring a Unique Locket-Style Case",
+      "url": "https://wornandwound.com/bangalore-watch-company-goes-back-to-its-roots-with-a-new-dress-watch-featuring-a-unique-locket-style-case/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/Bangalore-Epoch-8.jpg",
+      "peek_preview": "After attending my first Dubai Watch Week last year and going on my first press trip to Japan earlier this year, I became faced with the realization that the scope of my watch world has been very geographically limited....",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-26T18:00:45.000Z",
+      "score_quality": 56,
+      "score_notif": 55,
+      "cluster": "20261126-a0d6d9455766",
+      "cluster_main": true
+    },
+    {
+      "title": "New Release: Roger Dubuis Excalibur Lady Of The Lake Hawthorn Edition Watch",
+      "url": "https://www.ablogtowatch.com/new-release-roger-dubuis-excalibur-lady-of-the-lake-hawthorn-edition-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Roger-Dubuis-Excalibur-Lady-of-the-Lake-Hawthorn-LOR-Crop-1-768x346.jpg",
+      "peek_preview": "For sheer jewelry-crafting spectacle, few if any watch lines can match the Excalibur collection from Roger Dubuis. Beginning with meticulously sculpted renditions of characters from Arthurian legend, over the years the...",
+      "categories": [
+        "Watch Releases",
+        "Ladies' Watches",
+        "Watch Releases 2026",
+        "Watches Dripping with Diamonds"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-26T18:00:21.000Z",
+      "score_quality": 69,
+      "score_notif": 58,
+      "cluster": "20261126-95ead21e7e19",
+      "cluster_main": true
+    },
     {
       "title": "18 of the Best Stone Dial Watches for Every Budget",
       "url": "https://teddybaldassarre.com/blogs/watches/stone-dial-watches",
@@ -245,7 +301,7 @@
       "score_quality": 76,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Awake Son Mai Silver Leaf : 4 cadrans fumés, 1 boîtier de 38 mm",
@@ -321,7 +377,7 @@
       "score_quality": 66,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -593,7 +649,7 @@
       "featured": false,
       "published_at": "2026-11-25T18:00:06.000Z",
       "score_quality": 79,
-      "score_notif": 72,
+      "score_notif": 34,
       "cluster": "20261125-21be75afb11f",
       "cluster_main": true
     },
@@ -889,7 +945,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ferragamo F-80 Manufacture: i minuti al centro",
@@ -1483,7 +1539,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -1675,7 +1731,7 @@
       "score_quality": 46,
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Just Because: Hunting for Vintage Watch Ads In A Brooklyn Basement",
@@ -1875,7 +1931,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -1985,7 +2041,7 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -2497,67 +2553,6 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261120-235bc1791692",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands On: Louis Vuitton Tambour Convergence Mirror Steel",
-      "url": "https://watchesbysjx.com/2026/11/louis-vuitton-tambour-convergence-mirror-steel.html",
-      "image": "https://watchesbysjx.com/wp-content/uploads/2026/10/Louis-Vuitton-Tambour-Convergence-steel-1-300x200.jpg",
-      "peek_preview": "Originally available only in precious metals and even guilloche, Louis Vuitton’s digital-display watch is elegant, compact, and tasteful, but less-than-affordable given the materials. The Tambour Convergence Mirror Stee...",
-      "categories": [
-        "Reviews",
-        "Louis Vuitton",
-        "New Watches 2026"
-      ],
-      "source_name": "SJX Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T00:00:20.000Z",
-      "score_quality": 88,
-      "score_notif": 34,
-      "cluster": "20261120-cbf832d3f380",
-      "cluster_main": true
-    },
-    {
-      "title": "Classic Tourbillon Perpetual Calendar Manufacture von Frederique Constant und die Kunst der Saphir-Marketerie",
-      "url": "https://www.uhrenkosmos.com/classic-tourbillon-perpetual-calendar-von-fc/",
-      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Zifferblatt-der-Frederique-Constant-Classic-Tourbillon-Perpetual-Calendar-Manufacture-Opener.jpg",
-      "peek_preview": "Drehgang und ewiger Kalender, vereint in einem Genfer Manufakturkaliber. Neu sind ein Zifferblatt aus sieben eingepassten Saphirglas-Flächen, eine diskrete Sekunde auf einer Quarzscheibe und erstmals ein 40-Millimeter-G...",
-      "categories": [
-        "Aktuelle Uhren",
-        "Frédérique Constant",
-        "Marken & Macher",
-        "ewiger Kalender",
-        "Frederique Constant Classic Tourbillon",
-        "Frederique Constant Classic Tourbillon Perpetual Calendar Manufacture",
-        "Frederique Constant FC-980",
-        "Frederique Constant Tourbillon",
-        "Frédérique Constant Tourbillon Ewiger Kalender",
-        "Kaliber FC-975",
-        "Tourbillon"
-      ],
-      "source_name": "Uhrenkosmos",
-      "lang": "de",
-      "featured": false,
-      "published_at": "2026-11-19T19:34:43.000Z",
-      "score_quality": 71,
-      "score_notif": 34,
-      "cluster": "20261119-80ea0ca4ac06",
-      "cluster_main": true
-    },
-    {
-      "title": "Credor Goldfeather Review: The Thin Dress Watch Revival, Revisited",
-      "url": "https://teddybaldassarre.com/blogs/watches/credor-goldfeather-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Credor-Goldfeather-8.jpg?v=1795114505",
-      "peek_preview": "In 1960, Seiko set itself a challenge to make the thinnest mechanical dress watch it could. The result was the Goldfeather, which Credor — Seiko’s luxury-focused watchmaking sibling within the Seiko Group — brought back...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T19:02:35.000Z",
-      "score_quality": 82,
-      "score_notif": 34,
-      "cluster": "20261119-1b47ccfe9e2b",
       "cluster_main": true
     }
   ]
