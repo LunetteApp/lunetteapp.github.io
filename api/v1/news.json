@@ -1,6 +1,6 @@
 {
-  "content_hash": "7c91f9bc73573f079a9e43ae7e360ecbe21ff78af5b7afca306bac7270d8fb77",
-  "last_updated": "2026-11-26T10:47:23.372Z",
+  "content_hash": "9f90db3c17188376bf96649dfca3533660a4fb502cbcbc3c47aaa2b73bbbd104",
+  "last_updated": "2026-11-26T11:47:55.921Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T10:30:14.000Z"
     },
     {
@@ -120,7 +120,7 @@
     {
       "source_name": "Italian Watch Spotter",
       "lang": "it",
-      "estimated_articles_per_day": 0.9,
+      "estimated_articles_per_day": 0.8,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-24T11:26:01.000Z"
     },
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T15:19:14.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-26T11:10:42.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -175,6 +175,32 @@
     }
   ],
   "items": [
+    {
+      "title": "Cartier Taxi mit Niton-Werk: Sotheby’s versteigert eine Rarität von 1929",
+      "url": "https://www.uhrenkosmos.com/cartier-taxi-mit-niton-werk-sothebys-auktion/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Niton-Aufmacher-.jpg",
+      "peek_preview": "Eine Cartier Taxi Jump Hour von 1929/30, angetrieben von einem Werk aus Genf: Sotheby's versteigert das Exemplar am 9. Dezember in Abu Dhabi. Von Interesse ist sicher auch der Zeitpunkt – denn Niton, die Manufaktur hint...",
+      "categories": [
+        "Cartier",
+        "Handel & Auktionen",
+        "Vintage & Stil",
+        "Cartier London Uhren",
+        "Cartier Taxi",
+        "Genfer Siegel",
+        "Niton PRIMA",
+        "Sotheby's",
+        "Sotheby's Uhrenauktion 2026",
+        "springende Stunde"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-26T11:10:42.000Z",
+      "score_quality": 72,
+      "score_notif": 44,
+      "cluster": "20261126-cee457414c35",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Lebois & Co Expands its Heritage Chronograph Collection with Two New Editions",
       "url": "https://monochrome-watches.com/lebois-heritage-baton-chronograph-and-heritage-sector-frosted-forest-chronograph-introducing-price/",
@@ -429,7 +455,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261119-e212469f042f",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "BA111OD Chapter 7 Chronometer Ceramic: Keramik und erstmals 35 Millimeter",
@@ -630,7 +656,7 @@
       "featured": false,
       "published_at": "2026-11-25T11:00:24.000Z",
       "score_quality": 77,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261125-ddc8863c1292",
       "cluster_main": true
     },
@@ -650,7 +676,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ferragamo F-80 Manufacture: i minuti al centro",
@@ -982,7 +1008,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Celebrating 10 Years Of Holthinrichs: The Signature Ornament Heritage Hand Engraved",
@@ -1016,7 +1042,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Armin Strom Turns To Meteorite For Its Dual Time GMT Resonance",
@@ -1304,7 +1330,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -1696,7 +1722,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -1806,7 +1832,7 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -2512,7 +2538,7 @@
       "score_quality": 85,
       "score_notif": 34,
       "cluster": "20261119-e212469f042f",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Carlo Crocco racconta: le origini di Hublot",
@@ -2554,21 +2580,6 @@
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
       "cluster_main": false
-    },
-    {
-      "title": "Oris x Doraemon Big Crown Pointer Date Limited Edition: Retro, Playful, And Surprisingly Subtle.",
-      "url": "https://teddybaldassarre.com/blogs/watches/oris-doraemon-big-crown-pointer-date",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Oris_DoraemonLE_FS2.jpg?v=1795045377",
-      "peek_preview": "Oris is no stranger to collaborating with some recognizable characters over the years, most notably through its series of specialized Muppets editions of the ProPilot X (the Miss Piggy one being a personal favorite). To...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T08:00:02.000Z",
-      "score_quality": 66,
-      "score_notif": 34,
-      "cluster": "20261119-fab9802c11e3",
-      "cluster_main": true
     }
   ]
 }
