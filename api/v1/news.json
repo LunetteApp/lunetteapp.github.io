@@ -1,6 +1,6 @@
 {
-  "content_hash": "54986a30469a1b2a6a44792e71bd75c60d40992f9304ffcf8280eff791fdaeb3",
-  "last_updated": "2026-11-26T06:45:42.212Z",
+  "content_hash": "e922435ecfb67bde98a555ad4d0a9caaf892bab1f7e7ca6da851f17fc53b0465",
+  "last_updated": "2026-11-26T07:47:32.559Z",
   "premium": {
     "links": []
   },
@@ -8,7 +8,7 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.8,
+      "estimated_articles_per_day": 3.7,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T05:00:11.000Z"
     },
@@ -80,7 +80,7 @@
       "lang": "en",
       "estimated_articles_per_day": 2.5,
       "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T18:00:06.000Z"
+      "latest_article_at": "2026-11-26T07:00:00.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -883,7 +883,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Celebrating 10 Years Of Holthinrichs: The Signature Ornament Heritage Hand Engraved",
@@ -917,7 +917,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Armin Strom Turns To Meteorite For Its Dual Time GMT Resonance",
@@ -1262,7 +1262,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -1675,7 +1675,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -2475,24 +2475,6 @@
       "cluster_main": true
     },
     {
-      "title": "A tale of two Citizens – celebrating half a century of Eco-Drive",
-      "url": "https://timeandtidewatches.com/citizen-promaster-eco-drive-skyhawk-bullhead-50th-anniversary-hands-on/",
-      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-citizen-promaster-skyhawk-bullhead-50th-anniversary.jpg",
-      "peek_preview": "Citizen celebrates 50 years of Eco-Drive with two very different Promasters. We go hands-on with the Skyhawk and Tsuno Bullhead limited editions The post A tale of two Citizens – celebrating half a century of Eco-Drive...",
-      "categories": [
-        "Hands On",
-        "citizen"
-      ],
-      "source_name": "Time+Tide",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T13:01:16.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261119-79b06d333628",
-      "cluster_main": true
-    },
-    {
       "title": "Roger W. Smith Debuts Millennium-Inspired Series Seven",
       "url": "https://watchesbysjx.com/2026/11/roger-smith-series-seven-tourbillon.html",
       "image": "https://watchesbysjx.com/wp-content/uploads/2026/11/RWS-Series-Seven-Front-300x200.jpg",
@@ -2567,6 +2549,38 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261119-fab9802c11e3",
+      "cluster_main": true
+    },
+    {
+      "title": "Automatik oder Handaufzug – und was bringt ein Manufakturwerk?",
+      "url": "https://www.uhrenkosmos.com/automatik-oder-handaufzug-manufakturwerk/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Rolex-Kaliber-4131.jpg",
+      "peek_preview": "Wer sich mit mechanischen Uhren beschäftigt, begegnet diesen Begriffen fast zwangsläufig – im Katalog, beim Händler, in jedem zweiten Forum. Und nicht selten werden Automatik, Handaufzug und Manufakturwerk behandelt, al...",
+      "categories": [
+        "Chronograph",
+        "Kaliber",
+        "Wissen & Technik",
+        "Automatikkaliber",
+        "Automatikuhr",
+        "Automatikwerk",
+        "ETA 2824-2",
+        "Handaufzug",
+        "Handaufzugsuhr",
+        "Handaufzugswerk",
+        "Manufaktur",
+        "Manufakturkaliber",
+        "Mechanisches Uhrwerk",
+        "Sellita SW200",
+        "Valjoux 7750",
+        "Zenith El Primero"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-18T21:17:45.000Z",
+      "score_quality": 69,
+      "score_notif": 29,
+      "cluster": "20261118-19bfc01f5d2d",
       "cluster_main": true
     }
   ]
