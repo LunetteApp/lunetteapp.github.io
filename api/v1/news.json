@@ -1,6 +1,6 @@
 {
-  "content_hash": "7c3ce9cd1d94cc08df2add186fb974b6db1f277802afb248336edce7696680db",
-  "last_updated": "2026-11-26T14:47:40.409Z",
+  "content_hash": "0df2fffe16fff439f251413739c7583f0b3bc2be43dff4bddde91c4c591a3198",
+  "last_updated": "2026-11-26T15:48:18.074Z",
   "premium": {
     "links": []
   },
@@ -9,21 +9,21 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T14:00:32.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T20:00:28.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-26T15:36:15.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T14:00:50.000Z"
     },
     {
@@ -58,21 +58,21 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T14:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T14:00:16.000Z"
     },
     {
@@ -128,7 +128,7 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T14:32:26.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Review: the Anoma A2",
+      "url": "https://wornandwound.com/review/review-the-anoma-a2/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/ANOMA_A2_1.jpg",
+      "peek_preview": "I’ve been doing this long enough to understand a basic truth about watch writing: most watches are pretty boring to write about. It’s not that the watches are bad or even uninteresting, but fundamentally, after writing...",
+      "categories": [
+        "Review",
+        "Anoma"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-26T15:36:15.000Z",
+      "score_quality": 76,
+      "score_notif": 67,
+      "cluster": "20261126-3caa203ed08e",
+      "cluster_main": false
+    },
     {
       "title": "Awake Son Mai Silver Leaf : 4 cadrans fumés, 1 boîtier de 38 mm",
       "url": "https://www.welovewatches.fr/awake-son-mai-silver-leaf-4-cadrans-fumes-1-boitier-de-38-mm.html",
@@ -268,7 +286,7 @@
       "score_quality": 80,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Anoma A2, Twisting Cases To Turn Heads",
@@ -283,7 +301,7 @@
       "score_quality": 71,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alain Silberstein (1950 -2026): A Eulogy",
@@ -625,7 +643,7 @@
       "featured": false,
       "published_at": "2026-11-25T15:19:14.000Z",
       "score_quality": 65,
-      "score_notif": 60,
+      "score_notif": 34,
       "cluster": "20261125-208b3bf8661d",
       "cluster_main": true
     },
@@ -643,7 +661,7 @@
       "featured": false,
       "published_at": "2026-11-25T15:00:31.000Z",
       "score_quality": 71,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261125-46d3d11f8120",
       "cluster_main": true
     },
@@ -1088,7 +1106,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nivada Grenchen Introduces the Colorama, in Four Enthusiast Focused Sets Built for Customization",
@@ -1263,7 +1281,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Da 650 a 8.700 euro: Rolex svela quanto costa davvero una revisione",
@@ -1345,7 +1363,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "OraOrea Coriolis Pointer Date Review: What Happens When A Watch Journalist Makes A Watch?",
@@ -1521,7 +1539,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -2310,24 +2328,6 @@
       "score_quality": 64,
       "score_notif": 30,
       "cluster": "20261120-89043fe75210",
-      "cluster_main": true
-    },
-    {
-      "title": "The Time To Drive Festival Combined a Watch Fair With Car Show While Flipping the Script on Both",
-      "url": "https://wornandwound.com/the-time-to-drive-festival-combined-a-watch-fair-with-car-show-while-flipping-the-script-on-both/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/Time-to-Drive-Miami-35.jpg",
-      "peek_preview": "The watch community has never been a monoculture, and cars have always ranked high on the list of the ancillary interests that watch collectors tend to also dig. It’s a logical pairing considering how important accurate...",
-      "categories": [
-        "Featured",
-        "Time to Drive"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T15:00:20.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261120-397fbee507ed",
       "cluster_main": true
     },
     {
