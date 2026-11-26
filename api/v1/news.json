@@ -1,6 +1,6 @@
 {
-  "content_hash": "ccd8eeac0c377062e21ab61936f17282fcc2fec704dbe25e3387324cb9eb3039",
-  "last_updated": "2026-11-26T04:45:42.749Z",
+  "content_hash": "ef016be52496aa4ddf52712cf330eb4be3ab6f8c290cbaad5aa3a120b773ab93",
+  "last_updated": "2026-11-26T05:47:01.840Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T15:00:31.000Z"
+      "estimated_articles_per_day": 3.8,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-26T05:00:11.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -175,6 +175,23 @@
     }
   ],
   "items": [
+    {
+      "title": "Fratello Talks: Sleeper Hits Of 2026",
+      "url": "https://www.fratellowatches.com/fratello-talks-sleeper-hits-of-2026/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Jaeger-LeCoultre-Reverso-Tribute-Duoface-Small-Seconds-43mm-Q3908410-12.jpg",
+      "peek_preview": "Every year, the watch industry brings a flood of new releases. A handful dominate the headlines, while plenty of other interesting watches receive less attention than they deserve. Sometimes, the most memorable releases...",
+      "categories": [
+        "Podcast"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-26T05:00:11.000Z",
+      "score_quality": 47,
+      "score_notif": 24,
+      "cluster": "20261126-c024e54efd48",
+      "cluster_main": true
+    },
     {
       "title": "パルミジャーニ・フルリエ「トンダ PF クロノグラフ ミステリユーズ」がGPHG2026のクロノグラフ賞を受賞",
       "url": "https://www.webchronos.net/news/179874/",
@@ -534,7 +551,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ferragamo F-80 Manufacture: i minuti al centro",
@@ -805,7 +822,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nivada Grenchen Introduces the Colorama, in Four Enthusiast Focused Sets Built for Customization",
@@ -1180,25 +1197,6 @@
       "cluster_main": true
     },
     {
-      "title": "The New Nodus Sector II Field Ti FDE: Setting The Standard For Modern Field Watches",
-      "url": "https://www.fratellowatches.com/the-new-nodus-sector-ii-field-ti-fde-setting-the-standard-for-modern-field-watches/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Nodus-Sector-II-Field-Ti-FDE.jpg",
-      "peek_preview": "These days, field watches often draw on military history, with retro styling forming a large part of their appeal. However, smaller brands continue to explore what a contemporary field watch can be. For instance, the St...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-24T06:00:04.000Z",
-      "score_quality": 76,
-      "score_notif": 34,
-      "cluster": "20261124-044cd50f6236",
-      "cluster_main": true
-    },
-    {
       "title": "[인터뷰] 나오야 히다 앤 코의 창립자 나오야 히다",
       "url": "https://www.gmtkoreaseoul.com/post/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%82%98%EC%98%A4%EC%95%BC-%ED%9E%88%EB%8B%A4-%EC%95%A4-%EC%BD%94%EC%9D%98-%EC%B0%BD%EB%A6%BD%EC%9E%90-%EB%82%98%EC%98%A4%EC%95%BC-%ED%9E%88%EB%8B%A4",
       "image": "https://static.wixstatic.com/media/bd93d4_0e88d0279d4d4abfbbb9d13349976aea~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -1229,7 +1227,7 @@
       "published_at": "2026-11-24T04:02:05.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261124-0dc77958597b",
+      "cluster": "20261124-1086e8cefcca",
       "cluster_main": true
     },
     {
@@ -1281,7 +1279,7 @@
       "score_quality": 44,
       "score_notif": 34,
       "cluster": "20261124-1086e8cefcca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "RM 07-01, 완벽함을 예술의 경지로",
@@ -1353,7 +1351,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -1787,7 +1785,7 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -2003,7 +2001,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "November Auktionen 2026 bei Christie’s, Sotheby’s und Antiquorum oder F.P. Journe bis der Onkel Doktor klingelt",
@@ -2237,7 +2235,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Antiquorum proves brass can be worth more than gold with this F.P. Journe",
