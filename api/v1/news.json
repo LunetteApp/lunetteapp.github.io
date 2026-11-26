@@ -1,6 +1,6 @@
 {
-  "content_hash": "0df2fffe16fff439f251413739c7583f0b3bc2be43dff4bddde91c4c591a3198",
-  "last_updated": "2026-11-26T15:48:18.074Z",
+  "content_hash": "431bdbfa23d615bbcd980eda2220892275cd36c582a2512e40539df7503c33ce",
+  "last_updated": "2026-11-26T16:46:59.592Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T15:36:15.000Z"
     },
     {
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
+      "estimated_articles_per_day": 2.4,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T14:00:00.000Z"
     },
@@ -107,8 +107,8 @@
       "source_name": "Orologi di Classe",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T16:42:57.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-26T16:36:42.000Z"
     },
     {
       "source_name": "Giornale degli Orologi",
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Unimatic x Massena LAB Ghost Project, il toolwatch invisibile",
+      "url": "https://www.orologidiclasse.com/unimatic-x-massena-lab-ghost-project/",
+      "image": "https://www.orologidiclasse.com/wp-content/uploads/2026/11/unimatic-x-massena-lab-ghost-project.jpg",
+      "peek_preview": "Il mimetismo non è una questione di nascondersi, ma di fondersi. Unimatic e Massena Lab lo reinterpretano insieme con Ghost, la prima vera collezione congiunta dei due microbrand. Si tratta di due Modello Cinque al quar...",
+      "categories": [
+        "Brevi",
+        "Edizione Limitata",
+        "Microbrands"
+      ],
+      "source_name": "Orologi di Classe",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-26T16:36:42.000Z",
+      "score_quality": 70,
+      "score_notif": 34,
+      "cluster": "20261125-46d3d11f8120",
+      "cluster_main": false
+    },
     {
       "title": "Review: the Anoma A2",
       "url": "https://wornandwound.com/review/review-the-anoma-a2/",
@@ -576,7 +595,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Hanhart 417 C Panna Flyback",
@@ -835,7 +854,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ferragamo F-80 Manufacture: i minuti al centro",
@@ -870,7 +889,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blaue Uhren 2026: 9 Shades of Blue",
@@ -1106,7 +1125,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nivada Grenchen Introduces the Colorama, in Four Enthusiast Focused Sets Built for Customization",
@@ -1167,7 +1186,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Celebrating 10 Years Of Holthinrichs: The Signature Ornament Heritage Hand Engraved",
@@ -1201,7 +1220,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Armin Strom Turns To Meteorite For Its Dual Time GMT Resonance",
@@ -1539,7 +1558,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -1952,7 +1971,7 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -2544,24 +2563,6 @@
       "score_quality": 74,
       "score_notif": 30,
       "cluster": "20261119-0b69a872c7f8",
-      "cluster_main": true
-    },
-    {
-      "title": "Watch Stories: The Watch That Started It All—My Grandfather's Vacheron Constantin 2045Q by Abraham Rosales",
-      "url": "https://www.watchcollectinglifestyle.com/home/vacheron-constantin-2045q-watch-abraham-rosales",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795026032385-BLYPOP3CXO9AH4264R3L/Vacheron+Constantin+reference+2045Q+White+Gold-4.jpg?format=1500w",
-      "peek_preview": "Every watch has a story, and the best ones are rarely about the watch alone. Watch Stories is our series in which collectors write their own history with a timepiece, in their own words. Our role is limited to photograp...",
-      "categories": [
-        "Vacheron Constantin",
-        "Watch Stories"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-19T15:26:20.000Z",
-      "score_quality": 58,
-      "score_notif": 24,
-      "cluster": "20261119-3746502a634e",
       "cluster_main": true
     }
   ]
