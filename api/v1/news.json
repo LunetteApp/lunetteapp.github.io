@@ -1,6 +1,6 @@
 {
-  "content_hash": "1e8f3258233ce70a4ce93d84e00aa0ac6993267a92e9be9773c887386114a928",
-  "last_updated": "2026-11-26T00:47:35.669Z",
+  "content_hash": "3a4f1acc2bb1292db53d8d8b188f5c407736b7c791b3b1eacf405b85ffd63028",
+  "last_updated": "2026-11-26T01:47:24.616Z",
   "premium": {
     "links": []
   },
@@ -162,8 +162,8 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T00:00:40.000Z"
     },
     {
@@ -519,7 +519,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ferragamo F-80 Manufacture: i minuti al centro",
@@ -554,7 +554,7 @@
       "score_quality": 81,
       "score_notif": 73,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blaue Uhren 2026: 9 Shades of Blue",
@@ -606,7 +606,7 @@
       "score_quality": 74,
       "score_notif": 73,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "The Benrus DTU-2A/P Is A Pitch-Perfect Interpretation Of A Vietnam War-Era Design",
@@ -698,7 +698,7 @@
       "featured": false,
       "published_at": "2026-11-25T01:00:07.000Z",
       "score_quality": 88,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261125-f50e5d8c45f0",
       "cluster_main": true
     },
@@ -790,7 +790,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nivada Grenchen Introduces the Colorama, in Four Enthusiast Focused Sets Built for Customization",
@@ -851,7 +851,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Celebrating 10 Years Of Holthinrichs: The Signature Ornament Heritage Hand Engraved",
@@ -885,7 +885,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-5cb6613c66db",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Armin Strom Turns To Meteorite For Its Dual Time GMT Resonance",
@@ -1338,7 +1338,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -1772,7 +1772,7 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -2555,6 +2555,21 @@
       "score_notif": 34,
       "cluster": "20261119-80ea0ca4ac06",
       "cluster_main": false
+    },
+    {
+      "title": "Oris x Doraemon Big Crown Pointer Date Limited Edition: Retro, Playful, And Surprisingly Subtle.",
+      "url": "https://teddybaldassarre.com/blogs/watches/oris-doraemon-big-crown-pointer-date",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Oris_DoraemonLE_FS2.jpg?v=1795045377",
+      "peek_preview": "Oris is no stranger to collaborating with some recognizable characters over the years, most notably through its series of specialized Muppets editions of the ProPilot X (the Miss Piggy one being a personal favorite). To...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-19T08:00:02.000Z",
+      "score_quality": 66,
+      "score_notif": 34,
+      "cluster": "20261119-fab9802c11e3",
+      "cluster_main": true
     }
   ]
 }
