@@ -1,6 +1,6 @@
 {
-  "content_hash": "583001cd726dce2fa8774a52c41c71592429db846d54b1ea0bffd021a7b9e979",
-  "last_updated": "2026-11-26T08:47:25.074Z",
+  "content_hash": "bd63fd6381d6c6abd0d088596fbc3febf3784a135baa7dac00a10d60601cc120",
+  "last_updated": "2026-11-26T09:47:19.049Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T08:00:06.000Z"
     },
     {
@@ -24,13 +24,13 @@
       "lang": "en",
       "estimated_articles_per_day": 3.6,
       "new_articles_since_last_update": 1,
-      "latest_article_at": "2026-11-26T07:55:21.000Z"
+      "latest_article_at": "2026-11-26T09:25:40.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-26T08:01:27.000Z"
     },
     {
@@ -175,6 +175,26 @@
     }
   ],
   "items": [
+    {
+      "title": "News – In Memory of Alain Silberstein (1950-2026), The Singular Watch Designer",
+      "url": "https://monochrome-watches.com/in-memory-of-alain-silberstein-1950-2026-the-singular-watch-designer/",
+      "image": "https://monochrome-watches.com/app/uploads/2026/11/In-Memory-of-Alain-Silberstein-French-watch-designer-1950-2026-600x237.jpg",
+      "peek_preview": "Alain Silberstein, born in 1950 in Paris, was one of the most distinctive and unconventional figures in contemporary independent watchmaking. An architect and interior designer by training, he brought a unique visual la...",
+      "categories": [
+        "Alain Silberstein",
+        "2026",
+        "Independent Watchmaking",
+        "News"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-26T09:25:40.000Z",
+      "score_quality": 88,
+      "score_notif": 82,
+      "cluster": "20261126-ba4ac11adc29",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: Speake Marin Ripples Kármán Line Watch Quietly Sets New Bar For The Brand",
       "url": "https://www.ablogtowatch.com/hands-on-speake-marin-ripples-karman-line-watch-quietly-sets-new-bar-for-the-brand/",
@@ -348,7 +368,7 @@
       "featured": false,
       "published_at": "2026-11-25T17:29:32.000Z",
       "score_quality": 69,
-      "score_notif": 73,
+      "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
       "cluster_main": false
     },
@@ -514,7 +534,7 @@
       "featured": false,
       "published_at": "2026-11-25T13:00:21.000Z",
       "score_quality": 62,
-      "score_notif": 73,
+      "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
       "cluster_main": false
     },
@@ -534,7 +554,7 @@
       "featured": false,
       "published_at": "2026-11-25T12:26:29.000Z",
       "score_quality": 58,
-      "score_notif": 73,
+      "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
       "cluster_main": false
     },
@@ -627,7 +647,7 @@
       "featured": false,
       "published_at": "2026-11-25T09:41:44.000Z",
       "score_quality": 47,
-      "score_notif": 52,
+      "score_notif": 34,
       "cluster": "20261125-07aadfd3db1c",
       "cluster_main": true
     },
@@ -642,9 +662,9 @@
       "featured": false,
       "published_at": "2026-11-25T09:10:16.000Z",
       "score_quality": 81,
-      "score_notif": 73,
+      "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blaue Uhren 2026: 9 Shades of Blue",
@@ -694,9 +714,9 @@
       "featured": false,
       "published_at": "2026-11-25T09:00:37.000Z",
       "score_quality": 74,
-      "score_notif": 73,
+      "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Benrus DTU-2A/P Is A Pitch-Perfect Interpretation Of A Vietnam War-Era Design",
@@ -1250,7 +1270,7 @@
       "published_at": "2026-11-24T04:02:05.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261124-1086e8cefcca",
+      "cluster": "20261124-0dc77958597b",
       "cluster_main": true
     },
     {
@@ -1302,7 +1322,7 @@
       "score_quality": 44,
       "score_notif": 34,
       "cluster": "20261124-1086e8cefcca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "RM 07-01, 완벽함을 예술의 경지로",
@@ -1455,27 +1475,6 @@
       "score_quality": 41,
       "score_notif": 34,
       "cluster": "20261123-a60c4347a4bc",
-      "cluster_main": true
-    },
-    {
-      "title": "Hands-on – The Lebois & Co Heritage Atelier Chronograph Bleu-sur-Blanc, with Two-Tone Enamel Dial",
-      "url": "https://monochrome-watches.com/hands-on-lebois-co-heritage-atelier-chronograph-bleu-sur-blanc-with-two-tone-enamel-dial/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Lebois-Heritage-Atelier-Chronograph-Bleu-sur-Blanc-Grand-Feu-enamel-dial-review-10-600x237.jpg",
-      "peek_preview": "A fairly old name in watchmaking, founded in 1934 and revived by Dutch entrepreneur Tom van Wijlick in 2014 (who is also behind the return of Airain and its Type 20/21 pilot’s chronographs), Lebois & Co has made a name...",
-      "categories": [
-        "Lebois & Co",
-        "2026",
-        "Chronographs",
-        "Independent Watchmaking",
-        "Luxury watch"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-23T17:05:51.000Z",
-      "score_quality": 84,
-      "score_notif": 34,
-      "cluster": "20261123-373116b90e44",
       "cluster_main": true
     },
     {
