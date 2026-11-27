@@ -1,6 +1,6 @@
 {
-  "content_hash": "3417b93d90b77c25a2b4697060d51204a47cb24ce5ab4be6dcefef7fee2911ef",
-  "last_updated": "2026-11-27T19:47:43.295Z",
+  "content_hash": "7b56c98aebee0e1eff65a86d23db1773fd71be168fb953ebb9d1546bdd11162f",
+  "last_updated": "2026-11-27T20:47:24.114Z",
   "premium": {
     "links": []
   },
@@ -16,8 +16,8 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T15:00:13.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T20:00:02.000Z"
     },
     {
       "source_name": "Monochrome Watches",
@@ -44,7 +44,7 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T18:54:55.000Z"
     },
     {
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands On: the Ace x Elka N-Series Essence 36",
+      "url": "https://wornandwound.com/review/hands-on-the-ace-x-elka-n-series-essence-36/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/ELKAXACEJEWELERS_03_WR.jpg",
+      "peek_preview": "There are so many watches that come across my desk these days that seem bound and determined to be a viral sensation, there’s something refreshing about a watch that arrives that is a little more humble. Not every watch...",
+      "categories": [
+        "Hands-On",
+        "Elka Watch Co"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-27T20:00:02.000Z",
+      "score_quality": 79,
+      "score_notif": 46,
+      "cluster": "20261127-2688ed17a616",
+      "cluster_main": true
+    },
     {
       "title": "Editors' Picks: Our Favorite New Watches Of 2026",
       "url": "https://teddybaldassarre.com/blogs/watches/new-watches-2026",
@@ -786,7 +804,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -820,7 +838,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Alain Silberstein (1950 -2026): A Eulogy",
@@ -1095,7 +1113,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Hanhart 417 C Panna Flyback",
@@ -1347,7 +1365,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blaue Uhren 2026: 9 Shades of Blue",
@@ -1543,7 +1561,7 @@
       "published_at": "2026-11-24T18:00:48.000Z",
       "score_quality": 64,
       "score_notif": 34,
-      "cluster": "20261123-81e9667d46b8",
+      "cluster": "20261124-1f8fdad2fba2",
       "cluster_main": true
     },
     {
@@ -1807,7 +1825,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -1879,24 +1897,6 @@
       "score_notif": 34,
       "cluster": "20261123-99d687cdb831",
       "cluster_main": true
-    },
-    {
-      "title": "Tuseno Introduces the Shellback GMT",
-      "url": "https://wornandwound.com/tuseno-introduces-the-shellback-gmt/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/2026_11_Tuseno_Shellback-GMT_003_WR.jpg",
-      "peek_preview": "Tusenö, the Swedish microbrand and makers of one of my favorite unexpected dress watches in recent memory, are back with a somewhat less surprising release that builds on the success of their most well known watch. The...",
-      "categories": [
-        "News & Releases",
-        "Tuseno"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-23T20:00:49.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -2160,7 +2160,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
