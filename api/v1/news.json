@@ -1,6 +1,6 @@
 {
-  "content_hash": "89223b67a116298eed496c4acfa055127d9c655e9f9d8987b7b72316b00b9ddc",
-  "last_updated": "2026-11-27T03:45:46.828Z",
+  "content_hash": "b7fd6f14ce8df3e039cc846ddec1c4783c4c5631e75ae42cbf45b6117dc8b38f",
+  "last_updated": "2026-11-27T06:47:55.602Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T14:00:32.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T06:00:15.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -78,9 +78,9 @@
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T18:00:49.000Z"
+      "estimated_articles_per_day": 2.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T06:00:55.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -128,8 +128,8 @@
       "source_name": "Mr Montre",
       "lang": "fr",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T14:32:26.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T06:30:00.000Z"
     },
     {
       "source_name": "Le Calibre",
@@ -175,6 +175,58 @@
     }
   ],
   "items": [
+    {
+      "title": "Citizen L Rainell : la goutte d’eau qui fait déborder le style",
+      "url": "https://www.welovewatches.fr/citizen-l-rainell-la-goutte-deau-qui-fait-deborder-le-style.html",
+      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/presentation-citizen-l-rainell-et-rainell-mini.jpg",
+      "peek_preview": "Les montres Citizen n'ont pas fini de nous surprendre en cette année anniversaire ! Alors que la marque japonaise fête les 50 ans de sa toute première montre à énergie solaire, elle enrichit sa collection...",
+      "categories": [
+        "Actualités des montres"
+      ],
+      "source_name": "Mr Montre",
+      "lang": "fr",
+      "featured": false,
+      "published_at": "2026-11-27T06:30:00.000Z",
+      "score_quality": 44,
+      "score_notif": 57,
+      "cluster": "20261127-702f32a4b998",
+      "cluster_main": true
+    },
+    {
+      "title": "Remembering Alain Silberstein, the architect who made watchmaking more colourful",
+      "url": "https://timeandtidewatches.com/remembering-alain-silberstein-the-architect-who-made-watchmaking-more-colourful/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-fwd-26nov2026-alain-silberstein.jpg",
+      "peek_preview": "The watch industry lost one of its most original creative minds this week, as news broke that French designer Alain Silberstein passed away on November 25, aged 76. For anyone with even a passing interest in independent...",
+      "categories": [
+        "Friday Wind Down",
+        "friday wind down"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-27T06:00:55.000Z",
+      "score_quality": 74,
+      "score_notif": 82,
+      "cluster": "20261126-ba4ac11adc29",
+      "cluster_main": false
+    },
+    {
+      "title": "Lex’s Best Watches Of 2026: Going To Extremes In Alphabetical Order",
+      "url": "https://www.fratellowatches.com/lexs-best-watches-of-2026/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Best-of-2026-Collage.jpg",
+      "peek_preview": "Year-end lists come in many shapes and sizes. They’re a tradition you just can’t escape, even if you desperately try. Take the Top 2000, for example. It’s an annual program on Dutch radio in which the 2,000 most popular...",
+      "categories": [
+        "Watch Talk"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-27T06:00:15.000Z",
+      "score_quality": 38,
+      "score_notif": 24,
+      "cluster": "20261127-67f9db748f8e",
+      "cluster_main": true
+    },
     {
       "title": "Artur Akmaev Charts New Course with the Time Adrift",
       "url": "https://watchesbysjx.com/2026/11/artur-akmaev-time-adrift.html",
@@ -454,7 +506,7 @@
       "score_quality": 66,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -473,7 +525,7 @@
       "score_quality": 80,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Anoma A2, Twisting Cases To Turn Heads",
@@ -949,7 +1001,7 @@
       "score_quality": 58,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Talking Watches: With Brad Pitt And David Fincher",
@@ -1057,7 +1109,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blaue Uhren 2026: 9 Shades of Blue",
@@ -1477,24 +1529,6 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261124-5d2e60ad3c71",
-      "cluster_main": true
-    },
-    {
-      "title": "After Hours In Glashütte: Nomos Dims The Lights With The Six-Piece Noir Series",
-      "url": "https://www.fratellowatches.com/nomos-noir-series/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/10_NOMOS_106_220_420_Tangente_Gold_33_noir_3543x2362.jpg",
-      "peek_preview": "Picture a Nomos Glashütte timepiece. You’ll likely see a silver-plated dial, crisp black numerals, and slender, thermally blued hands in a svelte stainless steel case. Nothing is superfluous. Every detail reflects clean...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-24T10:00:31.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261124-eceabd2af76e",
       "cluster_main": true
     },
     {
@@ -2319,7 +2353,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "November Auktionen 2026 bei Christie’s, Sotheby’s und Antiquorum oder F.P. Journe bis der Onkel Doktor klingelt",
@@ -2496,7 +2530,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Antiquorum proves brass can be worth more than gold with this F.P. Journe",
@@ -2516,41 +2550,6 @@
       "score_notif": 34,
       "cluster": "20261120-1e3a8d34ef09",
       "cluster_main": true
-    },
-    {
-      "title": "Breva Segreto di Lario: Singapore Dinner and First Showing of Working Watches",
-      "url": "https://deployant.com/breva-segreto-di-lario-singapore-dinner-and-first-showing-of-working-watches/?utm_source=rss&utm_medium=rss&utm_campaign=breva-segreto-di-lario-singapore-dinner-and-first-showing-of-working-watches",
-      "image": "https://deployant.com/wp-content/uploads/2026/11/BREVA-Exclusive-Invitation.jpeg",
-      "peek_preview": "DEPLOYANT - The watch magazine for collectors, by collectors On 18 November, 2026, Deployant hosted an intimate dinner with Breva Genève CEO Julien Haenny at Solo Ristorante in Singapore. Sixteen guests joined us for an...",
-      "categories": [
-        "Deployant Event",
-        "Reviews"
-      ],
-      "source_name": "Deployant",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T13:30:00.000Z",
-      "score_quality": 68,
-      "score_notif": 34,
-      "cluster": "20261120-c471742f18e3",
-      "cluster_main": true
-    },
-    {
-      "title": "Alpina x Galaga : une Startimer Pilot pour les nostalgeeks",
-      "url": "https://www.welovewatches.fr/alpina-x-galaga-une-startimer-pilot-pour-les-nostalgeeks.html",
-      "image": "https://www.welovewatches.fr/wp-content/uploads/2026/11/alpina-startimer-pilot-solarmetre-galaga-une-1940x1280-1.jpg",
-      "peek_preview": "Non, il n'y a pas que GTA VI dans la vie. Le Boss Galaga à midi, un vaisseau ennemi à la place de la date et une pièce de 100 yens gravée au dos. Pour...",
-      "categories": [
-        "Actualités des montres"
-      ],
-      "source_name": "Mr Montre",
-      "lang": "fr",
-      "featured": false,
-      "published_at": "2026-11-20T13:00:00.000Z",
-      "score_quality": 61,
-      "score_notif": 30,
-      "cluster": "20261120-be52f91c6894",
-      "cluster_main": false
     }
   ]
 }
