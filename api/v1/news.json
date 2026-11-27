@@ -1,6 +1,6 @@
 {
-  "content_hash": "b01758ac01cd1a7d968bd97c6032a29d1b8c9b515c22923be0d74369b50063ed",
-  "last_updated": "2026-11-27T16:47:47.755Z",
+  "content_hash": "71148fbc685a5c1a5f5320532320388e1e026160ea5bd4b98c9dbe8541c0c049",
+  "last_updated": "2026-11-27T17:45:57.207Z",
   "premium": {
     "links": []
   },
@@ -29,7 +29,7 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
+      "estimated_articles_per_day": 2.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T15:00:04.000Z"
     },
@@ -65,7 +65,7 @@
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T16:00:00.000Z"
     },
     {
@@ -541,7 +541,7 @@
       "featured": false,
       "published_at": "2026-11-26T21:09:33.000Z",
       "score_quality": 70,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261126-8d685f67d03e",
       "cluster_main": false
     },
@@ -635,7 +635,7 @@
       "featured": false,
       "published_at": "2026-11-26T17:05:47.000Z",
       "score_quality": 80,
-      "score_notif": 68,
+      "score_notif": 34,
       "cluster": "20261126-8d685f67d03e",
       "cluster_main": true
     },
