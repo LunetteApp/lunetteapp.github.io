@@ -1,6 +1,6 @@
 {
-  "content_hash": "dd0ad3c977822be72150601622e4c38f2051693d41767f94d338a9a17082b6e7",
-  "last_updated": "2026-11-27T11:47:38.749Z",
+  "content_hash": "0fbdc43499bf14bef92e39309f0856f84a3f8b1d5505364dde712b3dc37cf453",
+  "last_updated": "2026-11-27T12:47:48.416Z",
   "premium": {
     "links": []
   },
@@ -23,7 +23,7 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T11:00:52.000Z"
     },
     {
@@ -51,7 +51,7 @@
       "source_name": "A Timely Perspective",
       "lang": "en",
       "estimated_articles_per_day": 0.4,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T10:53:54.000Z"
     },
     {
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T12:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T12:00:00.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Watch Shopping: Jaeger-LeCoultre Opens Boutique in the Miami Design District",
+      "url": "https://www.watchcollectinglifestyle.com/home/watch-shopping-jaeger-lecoultre-opens-in-the-miami-design-district",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795556645340-0VFX5NL8TND94XZNLNXO/Jaeger-LeCoultre+Boutique+Miami+Design+District+Hero.jpg?format=1500w",
+      "peek_preview": "Jaeger-LeCoultre has opened its newest boutique in Palm Court, in the heart of the Miami Design District, and built it to be explored rather than merely shopped. The new Miami flagship invites visitors into the world of...",
+      "categories": [
+        "Jaeger-LeCoultre",
+        "Watch Shopping"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-27T12:00:00.000Z",
+      "score_quality": 54,
+      "score_notif": 31,
+      "cluster": "20261127-1852014471d9",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – The Lyrical Slim d’Hermès Sous le Charme d’Orphée",
       "url": "https://monochrome-watches.com/slim-d-hermes-sous-le-charme-d-orphee-introducing-price/",
@@ -658,7 +676,7 @@
       "score_quality": 66,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -692,7 +710,7 @@
       "score_quality": 71,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alain Silberstein (1950 -2026): A Eulogy",
@@ -985,7 +1003,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Roger W. Smith Series Seven: tourbillon e calendario annuale",
@@ -1187,7 +1205,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing – Akhor Opens its First Geneva Boutique and Celebrates with Two Exclusive Stone Dial Editions",
@@ -1589,7 +1607,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Da 650 a 8.700 euro: Rolex svela quanto costa davvero una revisione",
@@ -1653,7 +1671,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OraOrea Coriolis Pointer Date Review: What Happens When A Watch Journalist Makes A Watch?",
@@ -1705,7 +1723,7 @@
       "published_at": "2026-11-24T04:02:05.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261124-1086e8cefcca",
+      "cluster": "20261124-0dc77958597b",
       "cluster_main": true
     },
     {
@@ -1757,7 +1775,7 @@
       "score_quality": 44,
       "score_notif": 34,
       "cluster": "20261124-1086e8cefcca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "RM 07-01, 완벽함을 예술의 경지로",
@@ -2507,21 +2525,6 @@
       "score_quality": 27,
       "score_notif": 22,
       "cluster": "20261121-d0706eeb78c6",
-      "cluster_main": true
-    },
-    {
-      "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
-      "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/H-Moser-_-Cie-Swiss-Alp-Watch-2.jpg?v=1701119736",
-      "peek_preview": "Heinrich Moser founded H. Moser & Cie. in Saint Petersburg in 1828. The company is now based in Neuhausen am Rheinfall, Switzerland, just outside Schaffhausen, and has made a name for itself in the modern era by having...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T19:44:40.000Z",
-      "score_quality": 50,
-      "score_notif": 24,
-      "cluster": "20261120-edb8d0381121",
       "cluster_main": true
     }
   ]
