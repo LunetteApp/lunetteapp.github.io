@@ -1,6 +1,6 @@
 {
-  "content_hash": "80c02b70818730e38b9afd6f6aa26cf110899acd206761d678858e32a7efe2e2",
-  "last_updated": "2026-11-27T18:47:52.907Z",
+  "content_hash": "3417b93d90b77c25a2b4697060d51204a47cb24ce5ab4be6dcefef7fee2911ef",
+  "last_updated": "2026-11-27T19:47:43.295Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T18:00:43.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T18:00:18.000Z"
     },
     {
@@ -44,13 +44,13 @@
       "source_name": "Teddy Baldassarre",
       "lang": "en",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T17:32:55.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T18:54:55.000Z"
     },
     {
       "source_name": "A Timely Perspective",
       "lang": "en",
-      "estimated_articles_per_day": 0.4,
+      "estimated_articles_per_day": 0.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T10:53:54.000Z"
     },
@@ -64,7 +64,7 @@
     {
       "source_name": "HODINKEE",
       "lang": "en",
-      "estimated_articles_per_day": 2.4,
+      "estimated_articles_per_day": 2.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T16:00:00.000Z"
     },
@@ -121,7 +121,7 @@
       "source_name": "Italian Watch Spotter",
       "lang": "it",
       "estimated_articles_per_day": 0.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T18:41:05.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Editors' Picks: Our Favorite New Watches Of 2026",
+      "url": "https://teddybaldassarre.com/blogs/watches/new-watches-2026",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Ulysse-Nardin-Super-Freak_Cropped.jpg?v=1795799260",
+      "peek_preview": "It's hard to believe 2026 is already winding down. It's been quite the year for new watch releases, and though we're still sleeping off our Thanksgiving feasts, it feels like the right moment to put our editors to the t...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-27T18:54:55.000Z",
+      "score_quality": 33,
+      "score_notif": 27,
+      "cluster": "20261127-2c940bb2fa79",
+      "cluster_main": true
+    },
     {
       "title": "Hands-on – The New 2027 Dials For The Mermont La Parfaite Swept Me Off My Feet",
       "url": "https://monochrome-watches.com/hands-on-review-mermont-la-parfaite-new-dials-2027-independent-watchmaking-specs-price/",
@@ -1098,7 +1113,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Roger W. Smith Series Seven: tourbillon e calendario annuale",
@@ -1279,7 +1294,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Back To The Future With The Alpina Startimer Pilot Solarmetre Galaga",
@@ -1792,7 +1807,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -2145,7 +2160,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -2480,6 +2495,21 @@
       "score_quality": 23,
       "score_notif": 18,
       "cluster": "20261121-d0706eeb78c6",
+      "cluster_main": true
+    },
+    {
+      "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
+      "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/H-Moser-_-Cie-Swiss-Alp-Watch-2.jpg?v=1701119736",
+      "peek_preview": "Heinrich Moser founded H. Moser & Cie. in Saint Petersburg in 1828. The company is now based in Neuhausen am Rheinfall, Switzerland, just outside Schaffhausen, and has made a name for itself in the modern era by having...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-20T19:44:40.000Z",
+      "score_quality": 52,
+      "score_notif": 16,
+      "cluster": "20261120-edb8d0381121",
       "cluster_main": true
     }
   ]
