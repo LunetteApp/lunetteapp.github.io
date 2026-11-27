@@ -1,6 +1,6 @@
 {
-  "content_hash": "6440025a7989c0284257f41182bfc1b666c9842b545d767dd05a3422f2013fa3",
-  "last_updated": "2026-11-27T14:48:23.297Z",
+  "content_hash": "d9bb054bfd029a2586be384cccf9e502734bd00f1c8288e34c1e09f2540ab834",
+  "last_updated": "2026-11-27T15:47:29.348Z",
   "premium": {
     "links": []
   },
@@ -9,29 +9,29 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T14:00:25.000Z"
     },
     {
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T21:00:37.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T15:00:13.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T14:00:39.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T08:01:45.000Z"
+      "estimated_articles_per_day": 2.2,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T15:00:04.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -175,6 +175,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Watch Spotting in 10 of This Year’s Top Films",
+      "url": "https://wornandwound.com/watch-spotting-in-10-of-this-years-top-films/",
+      "image": "https://wornandwound.com/library/uploads/2026/11/watches-in-film-banner.jpg",
+      "peek_preview": "The history of watches in movies runs deep – literally tracing back to the silent film era when Italian actor Rudolph Valentino wore his own Cartier on screen. Hamilton is another brand with early ties to cinema, first...",
+      "categories": [
+        "Featured"
+      ],
+      "source_name": "Worn & Wound",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-27T15:00:13.000Z",
+      "score_quality": 72,
+      "score_notif": 26,
+      "cluster": "20261127-edfe2a6a9614",
+      "cluster_main": true
+    },
+    {
+      "title": "New Release: MAEN Grand Tonneau Jump Hour Watch",
+      "url": "https://www.ablogtowatch.com/new-release-maen-grand-tonneau-jump-hour-watch/",
+      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/MAEN-Grand-Tonneau-Jump-Hour-1-of-1-768x329.jpeg",
+      "peek_preview": "Back in 2025, MAEN launched a collaboration jump hour watch with watch enthusiast Nico Leonard. The watch was a hit, going so far as to win the Trend Watch: Best Jump Hour Watch category at the WatchPro USA Awards. Not...",
+      "categories": [
+        "Watch Releases",
+        "Watch Releases 2026"
+      ],
+      "source_name": "aBlogtoWatch",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-27T15:00:04.000Z",
+      "score_quality": 63,
+      "score_notif": 66,
+      "cluster": "20261127-591220bfff16",
+      "cluster_main": true
+    },
     {
       "title": "Introducing – Citizen Drops 4 Limited Editions of its Sharp Series 8 831 Automatic",
       "url": "https://monochrome-watches.com/citizen-series-8-831-automatic-limited-editions-2026-nb6050-nb6059-nb6052-introducing-price/",
@@ -1009,7 +1044,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Hanhart 417 C Panna Flyback",
@@ -1027,7 +1062,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Roger W. Smith Series Seven: tourbillon e calendario annuale",
@@ -1229,7 +1264,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Back To The Future With The Alpina Startimer Pilot Solarmetre Galaga",
@@ -1334,7 +1369,7 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "The Benrus DTU-2A/P Is A Pitch-Perfect Interpretation Of A Vietnam War-Era Design",
@@ -1479,7 +1514,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Nivada Grenchen Introduces the Colorama, in Four Enthusiast Focused Sets Built for Customization",
@@ -1831,7 +1866,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -1964,30 +1999,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261123-a9e81bee7f52",
-      "cluster_main": true
-    },
-    {
-      "title": "Sex and the City at 30: The Watches the Show Forgot",
-      "url": "https://wornandwound.com/sex-and-the-city-at-30-the-watches-the-show-forgot/",
-      "image": "https://wornandwound.com/library/uploads/2026/11/SATC-watches-1.jpg",
-      "peek_preview": "It will take another couple of years before the Sex and the City TV series notches its 30th anniversary, but this year marks the 30th anniversary of the original anthology of columns by Candace Bushnell that inspired th...",
-      "categories": [
-        "Featured",
-        "Bulgari",
-        "Cartier",
-        "frederique constant",
-        "IWC",
-        "Jaeger-LeCoultre",
-        "Rolex",
-        "tag heur"
-      ],
-      "source_name": "Worn & Wound",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-23T15:00:35.000Z",
-      "score_quality": 62,
-      "score_notif": 23,
-      "cluster": "20261123-e5cb05377d31",
       "cluster_main": true
     },
     {
@@ -2471,6 +2482,38 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261121-0debc003774e",
+      "cluster_main": true
+    },
+    {
+      "title": "Weekend Reads: Takashi Murakami Turns a Skull Into a Tourbillon, TheWrongWrist Collects Memories Instead of Portfolios, and Armin Strom Goes Blue and Meteorite",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-11-21",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "categories": [
+        "Weekend Reads"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-21T12:00:00.000Z",
+      "score_quality": 23,
+      "score_notif": 18,
+      "cluster": "20261121-d0706eeb78c6",
+      "cluster_main": true
+    },
+    {
+      "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
+      "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/H-Moser-_-Cie-Swiss-Alp-Watch-2.jpg?v=1701119736",
+      "peek_preview": "Heinrich Moser founded H. Moser & Cie. in Saint Petersburg in 1828. The company is now based in Neuhausen am Rheinfall, Switzerland, just outside Schaffhausen, and has made a name for itself in the modern era by having...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-20T19:44:40.000Z",
+      "score_quality": 49,
+      "score_notif": 12,
+      "cluster": "20261120-edb8d0381121",
       "cluster_main": true
     }
   ]
