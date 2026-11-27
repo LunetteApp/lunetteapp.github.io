@@ -1,6 +1,6 @@
 {
-  "content_hash": "ac7bbba9ee43eac2d8d99c685a25bd554431c3f18b51600409e1c153eaac90fb",
-  "last_updated": "2026-11-27T08:48:02.701Z",
+  "content_hash": "2e9135d417d73e8b8abbc4661e70bae44e5d7f1185a7d97ee0cd0ac17516923c",
+  "last_updated": "2026-11-27T09:47:47.025Z",
   "premium": {
     "links": []
   },
@@ -23,14 +23,14 @@
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T08:00:06.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T08:01:45.000Z"
     },
     {
@@ -72,14 +72,14 @@
       "source_name": "SJX Watches",
       "lang": "en",
       "estimated_articles_per_day": 1.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T07:53:01.000Z"
     },
     {
       "source_name": "Time+Tide",
       "lang": "en",
-      "estimated_articles_per_day": 2.6,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2.5,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T06:00:55.000Z"
     },
     {
@@ -163,8 +163,8 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T00:00:10.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T09:30:02.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "パネライ「サブマーシブル マリーナミリターレ」にGMTモデルとデストロモデルが登場",
+      "url": "https://www.webchronos.net/news/180062/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/PAM01757_PAM01758_GROUPAGE_02_v2.webp",
+      "peek_preview": "パネライは、イタリア海軍との長年にわたる協力関係から生まれた「サブマーシブル マリーナミリターレ」の新作2種を発表した。第2時間帯を表示できるGMTモデルと、ケースの左側にリュウズを配したデストロモデルをラインナップする […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-27T09:30:02.000Z",
+      "score_quality": 61,
+      "score_notif": 68,
+      "cluster": "20261127-791608d7a297",
+      "cluster_main": true
+    },
     {
       "title": "Berneron Mirage Miroir ‘Skeleton’ Watches With Flipped Movements Hands-On",
       "url": "https://www.ablogtowatch.com/berneron-mirage-miroir-skeleton-watches-with-flipped-movements-hands-on/",
@@ -263,7 +278,7 @@
       "featured": false,
       "published_at": "2026-11-27T06:00:55.000Z",
       "score_quality": 74,
-      "score_notif": 82,
+      "score_notif": 34,
       "cluster": "20261126-ba4ac11adc29",
       "cluster_main": false
     },
@@ -563,7 +578,7 @@
       "score_quality": 66,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -582,7 +597,7 @@
       "score_quality": 80,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Anoma A2, Twisting Cases To Turn Heads",
@@ -614,9 +629,9 @@
       "featured": false,
       "published_at": "2026-11-26T13:30:00.000Z",
       "score_quality": 75,
-      "score_notif": 82,
+      "score_notif": 34,
       "cluster": "20261126-ba4ac11adc29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: The Beda’a Angles Aventurine Watch Is A Quietly Excellent Art Deco Dress Piece",
@@ -693,9 +708,9 @@
       "featured": false,
       "published_at": "2026-11-26T09:25:40.000Z",
       "score_quality": 88,
-      "score_notif": 82,
+      "score_notif": 34,
       "cluster": "20261126-ba4ac11adc29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: Speake Marin Ripples Kármán Line Watch Quietly Sets New Bar For The Brand",
@@ -890,7 +905,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Roger W. Smith Series Seven: tourbillon e calendario annuale",
@@ -1092,7 +1107,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Akhor Opens its First Geneva Boutique and Celebrates with Two Exclusive Stone Dial Editions",
@@ -1131,7 +1146,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ferragamo F-80 Manufacture: i minuti al centro",
@@ -1402,7 +1417,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nivada Grenchen Introduces the Colorama, in Four Enthusiast Focused Sets Built for Customization",
@@ -1684,7 +1699,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -1773,7 +1788,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -2076,7 +2091,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -2186,7 +2201,7 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -2263,21 +2278,6 @@
       "score_quality": 56,
       "score_notif": 27,
       "cluster": "20261122-fe5612fb4019",
-      "cluster_main": true
-    },
-    {
-      "title": "G-SHOCKが「MR-G」誕生30周年記念モデル「MRG-B2100HR-1AJR」を発表。プラチナ箔と構造色技術で伝統と革新を融合",
-      "url": "https://www.webchronos.net/news/179349/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/gshock_mrg_b2100hr_01.webp",
-      "peek_preview": "G-SHOCKが、「MR-G」誕生30周年を記念した限定モデル「MRG-B2100HR-1AJR」を発表した。箔アーティストである裕人礫翔（ひろと らくしょう）とのコラボレーションにより、日本の伝統的な箔工芸と先端技術を […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-22T03:00:11.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261122-68f4ad6d1981",
       "cluster_main": true
     },
     {
