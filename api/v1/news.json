@@ -1,6 +1,6 @@
 {
-  "content_hash": "2e9135d417d73e8b8abbc4661e70bae44e5d7f1185a7d97ee0cd0ac17516923c",
-  "last_updated": "2026-11-27T09:47:47.025Z",
+  "content_hash": "a84d2edc4998b4af54f06fe7bf9c8932b47bef5ca516793a3370bf9830f7aca8",
+  "last_updated": "2026-11-27T10:47:21.428Z",
   "premium": {
     "links": []
   },
@@ -9,8 +9,8 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T06:00:15.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T10:00:17.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -114,8 +114,8 @@
       "source_name": "Giornale degli Orologi",
       "lang": "it",
       "estimated_articles_per_day": 0.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-25T09:41:44.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T10:00:00.000Z"
     },
     {
       "source_name": "Italian Watch Spotter",
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T09:30:02.000Z"
     },
     {
@@ -175,6 +175,45 @@
     }
   ],
   "items": [
+    {
+      "title": "The Top 5 Watches Released In November 2026",
+      "url": "https://www.fratellowatches.com/the-top-5-watches-released-in-november-2026/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Panerai-Submersible-Marina-Militare-PAM01757-and-PAM01757-4.jpg",
+      "peek_preview": "Another Friday, another list! This week, we take a short break from our year-end roundups and focus on our favorite watches released in November. As we approach the year’s end, the stream of new releases gradually slows...",
+      "categories": [
+        "Watch Talk",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-27T10:00:17.000Z",
+      "score_quality": 32,
+      "score_notif": 24,
+      "cluster": "20261127-f49daf5bd97e",
+      "cluster_main": true
+    },
+    {
+      "title": "Montecristo Cala Maestra: un approdo per i quarant’anni di Locman",
+      "url": "https://giornaleorologi.it/2026/11/27/locman-montecristo-cala-maestra/",
+      "image": "https://giornaleorologi.it/wp-content/uploads/2026/11/Locman-Montecristo-Cala-Maestra-1024x683.jpg",
+      "peek_preview": "Per l'articolo completo - Montecristo Cala Maestra: un approdo per i quarant’anni di Locman «Avvicinandosi dall’Elba, dunque da Nord, Montecristo si erge come un imponente cono roccioso, una montagna di granito in mezzo...",
+      "categories": [
+        "Attualità",
+        "Cronografi",
+        "Locman",
+        "Locman Montecristo",
+        "orologi da donna"
+      ],
+      "source_name": "Giornale degli Orologi",
+      "lang": "it",
+      "featured": false,
+      "published_at": "2026-11-27T10:00:00.000Z",
+      "score_quality": 48,
+      "score_notif": 61,
+      "cluster": "20261127-26204f01f929",
+      "cluster_main": true
+    },
     {
       "title": "パネライ「サブマーシブル マリーナミリターレ」にGMTモデルとデストロモデルが登場",
       "url": "https://www.webchronos.net/news/180062/",
@@ -578,7 +617,7 @@
       "score_quality": 66,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -612,7 +651,7 @@
       "score_quality": 71,
       "score_notif": 67,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alain Silberstein (1950 -2026): A Eulogy",
@@ -631,7 +670,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261126-ba4ac11adc29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Beda’a Angles Aventurine Watch Is A Quietly Excellent Art Deco Dress Piece",
@@ -688,7 +727,7 @@
       "featured": false,
       "published_at": "2026-11-26T10:30:14.000Z",
       "score_quality": 68,
-      "score_notif": 62,
+      "score_notif": 34,
       "cluster": "20261126-0cd0294b4402",
       "cluster_main": true
     },
@@ -710,7 +749,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261126-ba4ac11adc29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Speake Marin Ripples Kármán Line Watch Quietly Sets New Bar For The Brand",
@@ -1437,25 +1476,6 @@
       "cluster_main": true
     },
     {
-      "title": "Celebrating 10 Years Of Holthinrichs: The Signature Ornament Heritage Hand Engraved",
-      "url": "https://www.fratellowatches.com/holthinrichs-signature-ornament-heritage-hand-engraved/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Holthinrichs-Heritage-Engraved.jpg",
-      "peek_preview": "What inspires someone to start a watch brand? Quite often, it’s a watch. Michiel Holthinrichs’s first wristwatch was a beautifully proportioned Cyma, and this timepiece inspired him to start his brand 10 years ago. The...",
-      "categories": [
-        "Hands-On",
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-24T15:00:59.000Z",
-      "score_quality": 75,
-      "score_notif": 34,
-      "cluster": "20261124-5cb6613c66db",
-      "cluster_main": false
-    },
-    {
       "title": "Hands-On: The Holthinrichs Signature Ornament Heritage Hand Engraved",
       "url": "https://www.hodinkee.com/articles/holthinrichs-signature-ornament-hand-engraved",
       "image": "https://hodinkee.imgix.net/uploads/articles/9d1b990f-8742-476f-82e3-bb675220f987/holthinrichsheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
@@ -1699,7 +1719,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -2091,7 +2111,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "G-SHOCK「MONOTONE MIX」シリーズが登場！メタリックな質感が際立つ4つのモデル",
@@ -2387,7 +2407,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "November Auktionen 2026 bei Christie’s, Sotheby’s und Antiquorum oder F.P. Journe bis der Onkel Doktor klingelt",
@@ -2526,23 +2546,6 @@
       "score_quality": 64,
       "score_notif": 30,
       "cluster": "20261120-89043fe75210",
-      "cluster_main": true
-    },
-    {
-      "title": "Introducing: Armin Strom Dual Time GMT Resonance Manufacture Edition Meteorite—Fifteen Dials Fallen From Space",
-      "url": "https://www.watchcollectinglifestyle.com/home/armin-strom-dual-time-gmt-resonance-manufacture-edition-meteorite",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1795185640946-V6RT85KDD75FJ5ZX38NY/Armin-Strom-Dual-Time-GMT-Resonance-manufacture-edition-meteorite-3.jpeg?format=1500w",
-      "peek_preview": "Some materials need no help making an impression, and meteorite is one of them. Armin Strom has dressed both dials of its Dual Time GMT Resonance in natural meteorite for this Manufacture Edition, limited to just 15 pie...",
-      "categories": [
-        "Armin Strom"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T14:48:30.000Z",
-      "score_quality": 72,
-      "score_notif": 34,
-      "cluster": "20261120-6348dfe4656a",
       "cluster_main": true
     }
   ]
