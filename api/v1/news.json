@@ -1,6 +1,6 @@
 {
-  "content_hash": "d9bb054bfd029a2586be384cccf9e502734bd00f1c8288e34c1e09f2540ab834",
-  "last_updated": "2026-11-27T15:47:29.348Z",
+  "content_hash": "b01758ac01cd1a7d968bd97c6032a29d1b8c9b515c22923be0d74369b50063ed",
+  "last_updated": "2026-11-27T16:47:47.755Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T15:00:13.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T15:00:04.000Z"
     },
     {
@@ -58,15 +58,15 @@
       "source_name": "Deployant",
       "lang": "en",
       "estimated_articles_per_day": 1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T13:30:00.000Z"
     },
     {
       "source_name": "HODINKEE",
       "lang": "en",
       "estimated_articles_per_day": 2.4,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T14:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T16:00:00.000Z"
     },
     {
       "source_name": "SJX Watches",
@@ -79,7 +79,7 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T14:30:00.000Z"
     },
     {
@@ -175,6 +175,21 @@
     }
   ],
   "items": [
+    {
+      "title": "Bring a Loupe: A Zenith Pacific, A Favre Leuba Bivouac, A Jaeger 'Midas,' And A LIP Stop",
+      "url": "https://www.hodinkee.com/articles/a-zenith-pacific-a-favre-leuba-bivouac-a-jaeger-midas-and-a-lip-stop",
+      "image": "https://hodinkee.imgix.net/uploads/articles/69411ea0-33d6-4496-8db9-a490b6e20899/BAL-NOV-27-HERO-NEW.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
+      "peek_preview": "All that and more in this week's edition of Hodinkee's What's Selling Where column.",
+      "categories": [],
+      "source_name": "HODINKEE",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-27T16:00:00.000Z",
+      "score_quality": 46,
+      "score_notif": 22,
+      "cluster": "20261127-3d7bd458022b",
+      "cluster_main": true
+    },
     {
       "title": "Watch Spotting in 10 of This Year’s Top Films",
       "url": "https://wornandwound.com/watch-spotting-in-10-of-this-years-top-films/",
@@ -735,7 +750,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -769,7 +784,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alain Silberstein (1950 -2026): A Eulogy",
@@ -1044,7 +1059,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Hanhart 417 C Panna Flyback",
@@ -1317,7 +1332,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blaue Uhren 2026: 9 Shades of Blue",
@@ -1514,7 +1529,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Nivada Grenchen Introduces the Colorama, in Four Enthusiast Focused Sets Built for Customization",
@@ -1626,7 +1641,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Da 650 a 8.700 euro: Rolex svela quanto costa davvero una revisione",
@@ -1690,7 +1705,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OraOrea Coriolis Pointer Date Review: What Happens When A Watch Journalist Makes A Watch?",
@@ -1866,7 +1881,7 @@
       "score_quality": 68,
       "score_notif": 34,
       "cluster": "20261123-81e9667d46b8",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "New Release: Atelier Loreti Celestial Tourbillon Charoite & Snowflake Obsidian Make High Horology Accessible",
@@ -1999,21 +2014,6 @@
       "score_quality": 74,
       "score_notif": 34,
       "cluster": "20261123-a9e81bee7f52",
-      "cluster_main": true
-    },
-    {
-      "title": "Inside The Manufacture: A Deep Dive Into The Longines Heritage Workshop",
-      "url": "https://www.hodinkee.com/articles/the-longines-heritage-workshop",
-      "image": "https://hodinkee.imgix.net/uploads/articles/04c6368b-b993-4ef7-ae80-6a06db313d1c/longines-heritage-workshop-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=2000",
-      "peek_preview": "Stepping inside the crown jewel of Longines headquarters in Saint-Imier, where a small team of watchmakers and jewelers works amid a treasure trove of historic watch parts.",
-      "categories": [],
-      "source_name": "HODINKEE",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-23T14:00:00.000Z",
-      "score_quality": 87,
-      "score_notif": 34,
-      "cluster": "20261123-522bba1cceb8",
       "cluster_main": true
     },
     {
