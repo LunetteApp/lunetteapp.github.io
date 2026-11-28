@@ -1,6 +1,6 @@
 {
-  "content_hash": "965e743c09df80f86f18e405afbabd95fd64c2731488659e7c027e539342eebc",
-  "last_updated": "2026-11-28T03:47:35.093Z",
+  "content_hash": "82c7d14ed570debe416741e24b0178d04143f218ad99a95baae2ab956234332e",
+  "last_updated": "2026-11-28T04:47:38.900Z",
   "premium": {
     "links": []
   },
@@ -163,7 +163,7 @@
       "source_name": "webChronos",
       "lang": "ja",
       "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-28T03:00:49.000Z"
     },
     {
@@ -863,7 +863,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Anoma A2, Twisting Cases To Turn Heads",
@@ -878,7 +878,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Alain Silberstein (1950 -2026): A Eulogy",
@@ -1370,7 +1370,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Ferragamo F-80 Manufacture: i minuti al centro",
@@ -1656,7 +1656,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Bremont adds its Perpetual Calendar GMT Monopusher to its Supernova collection",
@@ -1865,7 +1865,7 @@
       "score_quality": 72,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "[인터뷰] 로힛 데슈판데 하버드대학교 경영대학원 교수",
@@ -2200,7 +2200,7 @@
       "score_quality": 78,
       "score_notif": 34,
       "cluster": "20261123-85f539e40409",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Patek Philippe Museum Marks 25 Years with Philippe Stern Tribute",
@@ -2280,7 +2280,7 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -2447,7 +2447,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "November Auktionen 2026 bei Christie’s, Sotheby’s und Antiquorum oder F.P. Journe bis der Onkel Doktor klingelt",
@@ -2505,6 +2505,21 @@
       "score_quality": 23,
       "score_notif": 18,
       "cluster": "20261121-d0706eeb78c6",
+      "cluster_main": true
+    },
+    {
+      "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
+      "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/H-Moser-_-Cie-Swiss-Alp-Watch-2.jpg?v=1701119736",
+      "peek_preview": "Heinrich Moser founded H. Moser & Cie. in Saint Petersburg in 1828. The company is now based in Neuhausen am Rheinfall, Switzerland, just outside Schaffhausen, and has made a name for itself in the modern era by having...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-20T19:44:40.000Z",
+      "score_quality": 56,
+      "score_notif": 22,
+      "cluster": "20261120-edb8d0381121",
       "cluster_main": true
     }
   ]
