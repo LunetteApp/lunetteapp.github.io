@@ -1,6 +1,6 @@
 {
-  "content_hash": "dbcbf244b80682b31447b69b73ead693d2ed3ed6b5bad3e946f36369af62a388",
-  "last_updated": "2026-11-28T06:47:33.429Z",
+  "content_hash": "c714e7d024433a5e437aa68fb39b92309c7bc39e3bc4c8ccb7923aa0ba90105e",
+  "last_updated": "2026-11-28T07:47:19.716Z",
   "premium": {
     "links": []
   },
@@ -9,7 +9,7 @@
       "source_name": "Fratello Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-28T06:00:40.000Z"
     },
     {
@@ -29,7 +29,7 @@
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
-      "estimated_articles_per_day": 2.2,
+      "estimated_articles_per_day": 2.1,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T18:00:18.000Z"
     },
@@ -79,8 +79,8 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T14:30:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-28T07:00:15.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
@@ -175,6 +175,25 @@
     }
   ],
   "items": [
+    {
+      "title": "Seiko celebrates 145 years with three of its greatest hits in Edo Purple",
+      "url": "https://timeandtidewatches.com/seiko-edo-purple-collection-video/",
+      "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-seiko-edo-purple-collection.jpg",
+      "peek_preview": "Seiko's Edo Collection celebrates 145yrs of Seiko, bringing a traditional Japanese hue to the Alpinist, Cocktail Time, and Speedtimer. The post Seiko celebrates 145 years with three of its greatest hits in Edo Purple ap...",
+      "categories": [
+        "Video",
+        "Seiko",
+        "Seiko Prospex"
+      ],
+      "source_name": "Time+Tide",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-28T07:00:15.000Z",
+      "score_quality": 56,
+      "score_notif": 64,
+      "cluster": "20261128-0f5167510e83",
+      "cluster_main": true
+    },
     {
       "title": "Hands-On: The New Orient Mako GMT — The Dive-Watch Classic Goes Dual-Time",
       "url": "https://www.fratellowatches.com/hands-on-the-new-orient-mako-gmt-the-dive-watch-classic-goes-dual-time/",
@@ -862,7 +881,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -881,7 +900,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing: Anoma A2, Twisting Cases To Turn Heads",
@@ -1171,7 +1190,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing the Hanhart 417 C Panna Flyback",
@@ -1423,7 +1442,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Blaue Uhren 2026: 9 Shades of Blue",
@@ -2505,21 +2524,6 @@
       "score_quality": 23,
       "score_notif": 18,
       "cluster": "20261121-d0706eeb78c6",
-      "cluster_main": true
-    },
-    {
-      "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
-      "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/H-Moser-_-Cie-Swiss-Alp-Watch-2.jpg?v=1701119736",
-      "peek_preview": "Heinrich Moser founded H. Moser & Cie. in Saint Petersburg in 1828. The company is now based in Neuhausen am Rheinfall, Switzerland, just outside Schaffhausen, and has made a name for itself in the modern era by having...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T19:44:40.000Z",
-      "score_quality": 56,
-      "score_notif": 22,
-      "cluster": "20261120-edb8d0381121",
       "cluster_main": true
     }
   ]
