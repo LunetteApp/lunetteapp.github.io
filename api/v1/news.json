@@ -1,6 +1,6 @@
 {
-  "content_hash": "82c7d14ed570debe416741e24b0178d04143f218ad99a95baae2ab956234332e",
-  "last_updated": "2026-11-28T04:47:38.900Z",
+  "content_hash": "dbcbf244b80682b31447b69b73ead693d2ed3ed6b5bad3e946f36369af62a388",
+  "last_updated": "2026-11-28T06:47:33.429Z",
   "premium": {
     "links": []
   },
@@ -8,9 +8,9 @@
     {
       "source_name": "Fratello Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.7,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T14:00:25.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-28T06:00:40.000Z"
     },
     {
       "source_name": "Worn & Wound",
@@ -175,6 +175,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Hands-On: The New Orient Mako GMT — The Dive-Watch Classic Goes Dual-Time",
+      "url": "https://www.fratellowatches.com/hands-on-the-new-orient-mako-gmt-the-dive-watch-classic-goes-dual-time/",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Orient-Mako-GMT-03.jpg",
+      "peek_preview": "Orient’s history with dive watches stretches back to the early 1960s. Yet today’s Mako GMT marks a first for the collection with a new 24-hour hand and bezel. Together, they allow the wearer to track a second time zone...",
+      "categories": [
+        "Hands-On",
+        "Watch Releases 2026"
+      ],
+      "source_name": "Fratello Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-28T06:00:40.000Z",
+      "score_quality": 82,
+      "score_notif": 68,
+      "cluster": "20261128-6975535462e4",
+      "cluster_main": true
+    },
     {
       "title": "ノモス グラスヒュッテ「クラブ・スポーツ ネオマティック34」にオールシルバーの新作が登場",
       "url": "https://www.webchronos.net/news/180272/",
@@ -541,7 +559,7 @@
       "featured": false,
       "published_at": "2026-11-27T06:30:00.000Z",
       "score_quality": 44,
-      "score_notif": 57,
+      "score_notif": 34,
       "cluster": "20261127-702f32a4b998",
       "cluster_main": true
     },
@@ -1442,24 +1460,6 @@
       "cluster_main": true
     },
     {
-      "title": "Weather Permitting: The Omega × Swatch MoonSwatch Mission to Earthphase – Silver Snowflake",
-      "url": "https://www.fratellowatches.com/omega-x-swatch-moonswatch-mission-to-earthphase-silver-snowflake-a-moonswatch-that-depends-on-the-weather/",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Earthphase-2.jpg",
-      "peek_preview": "The MoonSwatch has never been short on spectacle, but Swatch keeps finding ways to make sure we talk about it. The latest release takes exclusivity to an entirely new level — not by limiting production numbers, but by l...",
-      "categories": [
-        "Watch Releases",
-        "Watch Releases 2026"
-      ],
-      "source_name": "Fratello Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-25T09:00:37.000Z",
-      "score_quality": 74,
-      "score_notif": 34,
-      "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
-    },
-    {
       "title": "The Benrus DTU-2A/P Is A Pitch-Perfect Interpretation Of A Vietnam War-Era Design",
       "url": "https://www.ablogtowatch.com/the-benrus-dtu-2a-p-is-a-pitch-perfect-interpretation-of-a-vietnam-war-era-design/",
       "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Benrus-DTU-2AP-JVB-12-768x614.jpg",
@@ -1656,7 +1656,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Bremont adds its Perpetual Calendar GMT Monopusher to its Supernova collection",
@@ -1714,7 +1714,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Da 650 a 8.700 euro: Rolex svela quanto costa davvero una revisione",
@@ -1778,7 +1778,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OraOrea Coriolis Pointer Date Review: What Happens When A Watch Journalist Makes A Watch?",
@@ -2447,7 +2447,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261120-6348dfe4656a",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "November Auktionen 2026 bei Christie’s, Sotheby’s und Antiquorum oder F.P. Journe bis der Onkel Doktor klingelt",
