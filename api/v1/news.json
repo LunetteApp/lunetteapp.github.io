@@ -1,6 +1,6 @@
 {
-  "content_hash": "7b56c98aebee0e1eff65a86d23db1773fd71be168fb953ebb9d1546bdd11162f",
-  "last_updated": "2026-11-27T20:47:24.114Z",
+  "content_hash": "40c32d87b5b81595938fec78711bfcec7e83d156cec0d4307c72f479a32f57d0",
+  "last_updated": "2026-11-28T00:47:11.929Z",
   "premium": {
     "links": []
   },
@@ -16,7 +16,7 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.9,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T20:00:02.000Z"
     },
     {
@@ -142,8 +142,8 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-26T21:09:33.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-27T23:57:46.000Z"
     },
     {
       "source_name": "SaFonaGastroCrono",
@@ -162,9 +162,9 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T09:30:02.000Z"
+      "estimated_articles_per_day": 2.1,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-28T00:00:38.000Z"
     },
     {
       "source_name": "GMT Korea",
@@ -175,6 +175,46 @@
     }
   ],
   "items": [
+    {
+      "title": "G-SHOCKがオリジンの機能美を表現したフルアナログの新型シリーズ「2500」を発売",
+      "url": "https://www.webchronos.net/news/180189/",
+      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/gshock_2500_1.webp",
+      "peek_preview": "G-SHOCKが、シンプルな顔立ちと丸みを帯びたケースフォルムを併せ持つフルアナログ仕様の新型モデル「2500」シリーズを発売した。3時位置には、新機能「マルチミッションデイト」を搭載している。また、スモールセコンドを備 […]",
+      "categories": [],
+      "source_name": "webChronos",
+      "lang": "ja",
+      "featured": false,
+      "published_at": "2026-11-28T00:00:38.000Z",
+      "score_quality": 60,
+      "score_notif": 66,
+      "cluster": "20261128-a5c3688f2b93",
+      "cluster_main": true
+    },
+    {
+      "title": "Gerald Charles Mini Maestro: Was Kleines für den Wunschzettel?",
+      "url": "https://www.uhrenkosmos.com/gerald-charles-mini-maestro-in-30-mm-und-quarz/",
+      "image": "https://www.uhrenkosmos.com/wp-content/uploads/2026/11/Gerald-Charles-Mini-Maestro-Opener.jpg",
+      "peek_preview": "Mit der Gerald Charles Mini Maestro bringt die Genfer Marke das Maestro-Gehäuse von Gérald Genta auf rund 30 Millimeter. Titan, 66 Diamanten und ein Quarzwerk machen sie zur alltagstauglichen Schmuckuhr – und zum Kandid...",
+      "categories": [
+        "Aktuelle Uhren",
+        "Gerald Charles",
+        "Marken & Macher",
+        "Damenuhr",
+        "Gerald Charles Maestro",
+        "Gerald Charles Mini Maestro",
+        "Gérald Genta",
+        "Quarzuhr",
+        "Weihnachtsgeschenk"
+      ],
+      "source_name": "Uhrenkosmos",
+      "lang": "de",
+      "featured": false,
+      "published_at": "2026-11-27T23:57:46.000Z",
+      "score_quality": 68,
+      "score_notif": 54,
+      "cluster": "20261127-28f04917d535",
+      "cluster_main": true
+    },
     {
       "title": "Hands On: the Ace x Elka N-Series Essence 36",
       "url": "https://wornandwound.com/review/hands-on-the-ace-x-elka-n-series-essence-36/",
@@ -571,7 +611,7 @@
       "featured": false,
       "published_at": "2026-11-27T00:00:10.000Z",
       "score_quality": 72,
-      "score_notif": 64,
+      "score_notif": 34,
       "cluster": "20261127-435de0722572",
       "cluster_main": true
     },
@@ -804,7 +844,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -823,7 +863,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing: Anoma A2, Twisting Cases To Turn Heads",
@@ -1113,7 +1153,7 @@
       "score_quality": 69,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Introducing the Hanhart 417 C Panna Flyback",
@@ -1330,7 +1370,7 @@
       "score_quality": 71,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ferragamo F-80 Manufacture: i minuti al centro",
@@ -1365,7 +1405,7 @@
       "score_quality": 81,
       "score_notif": 34,
       "cluster": "20261125-d73255aa98ca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Blaue Uhren 2026: 9 Shades of Blue",
@@ -1674,7 +1714,7 @@
       "score_quality": 79,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Da 650 a 8.700 euro: Rolex svela quanto costa davvero una revisione",
@@ -1738,7 +1778,7 @@
       "score_quality": 86,
       "score_notif": 34,
       "cluster": "20261124-d067ba094d24",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "OraOrea Coriolis Pointer Date Review: What Happens When A Watch Journalist Makes A Watch?",
@@ -2198,21 +2238,6 @@
       "cluster_main": true
     },
     {
-      "title": "ルミノックスが戦闘機をモチーフとした「P-38 ライトニング 9520 シリーズ」をリニューアル！",
-      "url": "https://www.webchronos.net/news/179315/",
-      "image": "https://www.webchronos.net/wp-content/uploads/2026/11/luminox_p38_9520_01.webp",
-      "peek_preview": "ルミノックスは、戦闘機「P-38 ライトニング」をモチーフとしたGMT表示機能付きモデル「P-38 ライトニング 9520 シリーズ」の新作3モデルを発売した。それぞれ異なるデザインの時分針とGMT針や、12時位置に配さ […]",
-      "categories": [],
-      "source_name": "webChronos",
-      "lang": "ja",
-      "featured": false,
-      "published_at": "2026-11-23T00:00:15.000Z",
-      "score_quality": 58,
-      "score_notif": 34,
-      "cluster": "20261123-b8f686c55a8d",
-      "cluster_main": true
-    },
-    {
       "title": "TAG Heuer Aquaracer: The Ultimate Guide",
       "url": "https://teddybaldassarre.com/blogs/watches/tag-heuer-aquaracer",
       "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/TAG-Heuer-Ref-844-2.jpg?v=1674666205",
@@ -2270,7 +2295,7 @@
       "score_quality": 72,
       "score_notif": 30,
       "cluster": "20261120-be52f91c6894",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -2495,21 +2520,6 @@
       "score_quality": 23,
       "score_notif": 18,
       "cluster": "20261121-d0706eeb78c6",
-      "cluster_main": true
-    },
-    {
-      "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
-      "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/H-Moser-_-Cie-Swiss-Alp-Watch-2.jpg?v=1701119736",
-      "peek_preview": "Heinrich Moser founded H. Moser & Cie. in Saint Petersburg in 1828. The company is now based in Neuhausen am Rheinfall, Switzerland, just outside Schaffhausen, and has made a name for itself in the modern era by having...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T19:44:40.000Z",
-      "score_quality": 52,
-      "score_notif": 16,
-      "cluster": "20261120-edb8d0381121",
       "cluster_main": true
     }
   ]
