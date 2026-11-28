@@ -1,6 +1,6 @@
 {
-  "content_hash": "40c32d87b5b81595938fec78711bfcec7e83d156cec0d4307c72f479a32f57d0",
-  "last_updated": "2026-11-28T00:47:11.929Z",
+  "content_hash": "32f878adb7ed53c70e6ff13c7b873f74b9b7c14d83530b4212905cc5e4f4a299",
+  "last_updated": "2026-11-28T01:45:46.647Z",
   "premium": {
     "links": []
   },
@@ -142,7 +142,7 @@
       "source_name": "Uhrenkosmos",
       "lang": "de",
       "estimated_articles_per_day": 1.1,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-27T23:57:46.000Z"
     },
     {
@@ -162,8 +162,8 @@
     {
       "source_name": "webChronos",
       "lang": "ja",
-      "estimated_articles_per_day": 2.1,
-      "new_articles_since_last_update": 1,
+      "estimated_articles_per_day": 2,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-28T00:00:38.000Z"
     },
     {
@@ -596,7 +596,7 @@
       "featured": false,
       "published_at": "2026-11-27T01:00:38.000Z",
       "score_quality": 84,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261127-951bdb70af0e",
       "cluster_main": true
     },
