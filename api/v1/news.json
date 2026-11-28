@@ -1,6 +1,6 @@
 {
-  "content_hash": "87c3c18875a0b803cf231e3a398151a17b3aaa79144fe5ae90211567a8b52e9a",
-  "last_updated": "2026-11-28T15:47:24.415Z",
+  "content_hash": "497be1655489703f1462cbf889cba6eea0642fe3e549b23d5da46d24f3796a6f",
+  "last_updated": "2026-11-28T16:47:07.292Z",
   "premium": {
     "links": []
   },
@@ -16,21 +16,21 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-28T15:00:47.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
       "estimated_articles_per_day": 3.6,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-28T15:00:33.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-28T15:00:05.000Z"
     },
     {
@@ -79,14 +79,14 @@
       "source_name": "Time+Tide",
       "lang": "en",
       "estimated_articles_per_day": 2.5,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-28T14:30:24.000Z"
     },
     {
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 1,
+      "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-28T15:21:08.000Z"
     },
     {
@@ -258,7 +258,7 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261126-602aa5835357",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Disco Fever: Atelier Wen Unveils The Ancestra Bǎishí For TimeForArt",
@@ -1095,7 +1095,7 @@
       "score_quality": 64,
       "score_notif": 34,
       "cluster": "20261126-602aa5835357",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Introducing – Lebois & Co Expands its Heritage Chronograph Collection with Two New Editions",
@@ -1918,7 +1918,7 @@
       "published_at": "2026-11-24T04:02:05.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261124-0dc77958597b",
+      "cluster": "20261124-1086e8cefcca",
       "cluster_main": true
     },
     {
@@ -1970,7 +1970,7 @@
       "score_quality": 44,
       "score_notif": 34,
       "cluster": "20261124-1086e8cefcca",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "RM 07-01, 완벽함을 예술의 경지로",
@@ -2500,6 +2500,38 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261121-0debc003774e",
+      "cluster_main": true
+    },
+    {
+      "title": "Weekend Reads: Takashi Murakami Turns a Skull Into a Tourbillon, TheWrongWrist Collects Memories Instead of Portfolios, and Armin Strom Goes Blue and Meteorite",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-11-21",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "categories": [
+        "Weekend Reads"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-21T12:00:00.000Z",
+      "score_quality": 27,
+      "score_notif": 4,
+      "cluster": "20261121-d0706eeb78c6",
+      "cluster_main": true
+    },
+    {
+      "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
+      "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
+      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/H-Moser-_-Cie-Swiss-Alp-Watch-2.jpg?v=1701119736",
+      "peek_preview": "Heinrich Moser founded H. Moser & Cie. in Saint Petersburg in 1828. The company is now based in Neuhausen am Rheinfall, Switzerland, just outside Schaffhausen, and has made a name for itself in the modern era by having...",
+      "categories": [],
+      "source_name": "Teddy Baldassarre",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-20T19:44:40.000Z",
+      "score_quality": 61,
+      "score_notif": 11,
+      "cluster": "20261120-edb8d0381121",
       "cluster_main": true
     }
   ]
