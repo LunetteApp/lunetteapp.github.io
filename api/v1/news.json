@@ -1,6 +1,6 @@
 {
-  "content_hash": "c135f75fbb3fa0988772d0f34478e1461cbe600dfe7e9ec5a171778b42149f5c",
-  "last_updated": "2026-11-28T14:47:22.251Z",
+  "content_hash": "87c3c18875a0b803cf231e3a398151a17b3aaa79144fe5ae90211567a8b52e9a",
+  "last_updated": "2026-11-28T15:47:24.415Z",
   "premium": {
     "links": []
   },
@@ -16,22 +16,22 @@
       "source_name": "Worn & Wound",
       "lang": "en",
       "estimated_articles_per_day": 1.8,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T20:00:02.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-28T15:00:47.000Z"
     },
     {
       "source_name": "Monochrome Watches",
       "lang": "en",
-      "estimated_articles_per_day": 3.5,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T18:00:43.000Z"
+      "estimated_articles_per_day": 3.6,
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-28T15:00:33.000Z"
     },
     {
       "source_name": "aBlogtoWatch",
       "lang": "en",
       "estimated_articles_per_day": 2.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-28T13:00:22.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-28T15:00:05.000Z"
     },
     {
       "source_name": "Unpolished Watches",
@@ -86,8 +86,8 @@
       "source_name": "Watch Collecting Lifestyle",
       "lang": "en",
       "estimated_articles_per_day": 1.2,
-      "new_articles_since_last_update": 0,
-      "latest_article_at": "2026-11-27T12:00:00.000Z"
+      "new_articles_since_last_update": 1,
+      "latest_article_at": "2026-11-28T15:21:08.000Z"
     },
     {
       "source_name": "Perpetual Passion",
@@ -99,7 +99,7 @@
     {
       "source_name": "Watch Insanity",
       "lang": "it",
-      "estimated_articles_per_day": 0.4,
+      "estimated_articles_per_day": 0.3,
       "new_articles_since_last_update": 0,
       "latest_article_at": "2026-11-25T13:55:16.000Z"
     },
@@ -175,6 +175,50 @@
     }
   ],
   "items": [
+    {
+      "title": "Weekend Reads: Blancpain Tilts the Tourbillon 30 Degrees, a Puerto Rican Surfer Catches the Watch Bug, and Diamond Cellar Brings Rolex to Houston's Galleria",
+      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-11-28",
+      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
+      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
+      "categories": [
+        "Weekend Reads"
+      ],
+      "source_name": "Watch Collecting Lifestyle",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-28T15:21:08.000Z",
+      "score_quality": 27,
+      "score_notif": 16,
+      "cluster": "20261128-cdd859e9344a",
+      "cluster_main": true
+    },
+    {
+      "title": "The ABCs of Time – The History of French Watchmaking",
+      "url": "https://monochrome-watches.com/history-of-french-watchmaking-abcs-of-time/",
+      "image": "https://monochrome-watches.com/app/uploads/2022/06/Collector-Guide-Breguet-Type-XX-3800St-1-600x237.jpg",
+      "peek_preview": "Similar to American watchmaking, French watchmaking is enjoying a 21st-century rebound with in-house calibres, compelling designs and the return of historical brands. It’s not rivalling European counterparts like Switze...",
+      "categories": [
+        "Baltic",
+        "Bell & Ross",
+        "Breguet",
+        "Cartier",
+        "Ferdinand Berthoud",
+        "LIP",
+        "Pequignet",
+        "Yema",
+        "2026",
+        "History",
+        "The ABCs of Time"
+      ],
+      "source_name": "Monochrome Watches",
+      "lang": "en",
+      "featured": false,
+      "published_at": "2026-11-28T15:00:33.000Z",
+      "score_quality": 78,
+      "score_notif": 28,
+      "cluster": "20261128-7851ea1d3227",
+      "cluster_main": true
+    },
     {
       "title": "New releases from Jaeger-LeCoultre, Anoma, Holthinrichs and more",
       "url": "https://timeandtidewatches.com/jaeger-lecoultre-anoma-holthinrichs-last-week-in-watches/",
@@ -431,7 +475,7 @@
       "featured": false,
       "published_at": "2026-11-27T15:00:04.000Z",
       "score_quality": 63,
-      "score_notif": 66,
+      "score_notif": 34,
       "cluster": "20261127-591220bfff16",
       "cluster_main": true
     },
@@ -960,7 +1004,7 @@
       "score_quality": 66,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Anoma Returns with Shape-Shifting A2",
@@ -994,7 +1038,7 @@
       "score_quality": 71,
       "score_notif": 34,
       "cluster": "20261126-3caa203ed08e",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Alain Silberstein (1950 -2026): A Eulogy",
@@ -1013,7 +1057,7 @@
       "score_quality": 75,
       "score_notif": 34,
       "cluster": "20261126-ba4ac11adc29",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Hands-On: The Beda’a Angles Aventurine Watch Is A Quietly Excellent Art Deco Dress Piece",
@@ -1092,7 +1136,7 @@
       "score_quality": 88,
       "score_notif": 34,
       "cluster": "20261126-ba4ac11adc29",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Hands-On: Speake Marin Ripples Kármán Line Watch Quietly Sets New Bar For The Brand",
@@ -1130,26 +1174,6 @@
       "score_quality": 76,
       "score_notif": 34,
       "cluster": "20261126-5e83e1c66db9",
-      "cluster_main": true
-    },
-    {
-      "title": "First Look – Hamilton’s New Jazzmaster Automatic 40mm, an Accessible Everyday Watch",
-      "url": "https://monochrome-watches.com/hamilton-jazzmaster-automatic-40mm-accessible-everyday-watch-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/hamilton-jazzmaster-automatic-40mm-accessible-everyday-watch-review-1-600x237.jpg",
-      "peek_preview": "Hamilton has built much of its Jazzmaster collection around contemporary interpretations of classic watchmaking, with the Day Date, Viewmatic and Skeleton mechanical lines, and the Open Heart series being the most easil...",
-      "categories": [
-        "Hamilton",
-        "2026",
-        "Novelty",
-        "Value Proposition"
-      ],
-      "source_name": "Monochrome Watches",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-26T07:55:21.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261126-d65527667ab1",
       "cluster_main": true
     },
     {
@@ -1267,7 +1291,7 @@
       "score_quality": 67,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "Roger W. Smith Series Seven: tourbillon e calendario annuale",
@@ -1448,7 +1472,7 @@
       "score_quality": 80,
       "score_notif": 34,
       "cluster": "20261124-1ce3b610276c",
-      "cluster_main": true
+      "cluster_main": false
     },
     {
       "title": "Ferragamo F-80 Manufacture: i minuti al centro",
@@ -1894,7 +1918,7 @@
       "published_at": "2026-11-24T04:02:05.000Z",
       "score_quality": 68,
       "score_notif": 34,
-      "cluster": "20261124-1086e8cefcca",
+      "cluster": "20261124-0dc77958597b",
       "cluster_main": true
     },
     {
@@ -1946,7 +1970,7 @@
       "score_quality": 44,
       "score_notif": 34,
       "cluster": "20261124-1086e8cefcca",
-      "cluster_main": false
+      "cluster_main": true
     },
     {
       "title": "RM 07-01, 완벽함을 예술의 경지로",
@@ -2365,27 +2389,6 @@
       "cluster_main": true
     },
     {
-      "title": "Hands-On: The Citizen Promaster Air Automatic Watch Is A Capable Titanium All-Rounder",
-      "url": "https://www.ablogtowatch.com/hands-on-the-citizen-promaster-air-automatic-watch-is-a-capable-titanium-all-rounder/",
-      "image": "https://www.ablogtowatch.com/wp-content/uploads/2026/11/Citizen-Promaster-Navihawk-Automatic-Super-Titanium-LOR-Crop-768x346.jpg",
-      "peek_preview": "In an increasingly upmarket industry overflowing with independents, it can seem tough at times to find a capable, affordable all-purpose automatic tool watch from an established brand. Citizen is a clear exception to th...",
-      "categories": [
-        "Hands-On",
-        "Pilot Watches",
-        "Titanium Watches",
-        "Watch Releases 2026",
-        "Watch Reviews Over $500"
-      ],
-      "source_name": "aBlogtoWatch",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-22T13:00:41.000Z",
-      "score_quality": 78,
-      "score_notif": 34,
-      "cluster": "20261122-5423d8cb78a7",
-      "cluster_main": true
-    },
-    {
       "title": "This year, neo-vintage broke into the main stream",
       "url": "https://timeandtidewatches.com/neo-vintage-auction-opinion/",
       "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/patek-philippe-3970-2-1750x986.jpg",
@@ -2497,38 +2500,6 @@
       "score_quality": 60,
       "score_notif": 34,
       "cluster": "20261121-0debc003774e",
-      "cluster_main": true
-    },
-    {
-      "title": "Weekend Reads: Takashi Murakami Turns a Skull Into a Tourbillon, TheWrongWrist Collects Memories Instead of Portfolios, and Armin Strom Goes Blue and Meteorite",
-      "url": "https://www.watchcollectinglifestyle.com/home/weekend-reads/2026-11-21",
-      "image": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1774702794192-LS3ATJJL6124AKU9OF9O/Weekend+Reads+WatchCollectingLifestyle.webp?format=1500w",
-      "peek_preview": "Each week at WCL delivers editorial coverage across the spectrum of serious watch collecting—from industry analysis and new-release evaluations to hands-on reviews and first-person experiences. Weekend Reads curates the...",
-      "categories": [
-        "Weekend Reads"
-      ],
-      "source_name": "Watch Collecting Lifestyle",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-21T12:00:00.000Z",
-      "score_quality": 23,
-      "score_notif": 18,
-      "cluster": "20261121-d0706eeb78c6",
-      "cluster_main": true
-    },
-    {
-      "title": "H. Moser & Cie. Watches: A Guide to the Independent Swiss Watchmaker",
-      "url": "https://teddybaldassarre.com/blogs/watches/h-moser-watch-review",
-      "image": "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/H-Moser-_-Cie-Swiss-Alp-Watch-2.jpg?v=1701119736",
-      "peek_preview": "Heinrich Moser founded H. Moser & Cie. in Saint Petersburg in 1828. The company is now based in Neuhausen am Rheinfall, Switzerland, just outside Schaffhausen, and has made a name for itself in the modern era by having...",
-      "categories": [],
-      "source_name": "Teddy Baldassarre",
-      "lang": "en",
-      "featured": false,
-      "published_at": "2026-11-20T19:44:40.000Z",
-      "score_quality": 47,
-      "score_notif": 23,
-      "cluster": "20261120-edb8d0381121",
       "cluster_main": true
     }
   ]
